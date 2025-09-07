@@ -1,0 +1,221 @@
+{
+  "id": "row_000033",
+  "model_name": "Alibaba-NLP/gte-multilingual-base",
+  "timestamp_kst": "2025-09-07T17:17:05.329319+09:00",
+  "trial_id": "8eb32d06",
+  "queries": [
+    {
+      "query": "How would you distill the key design elements and convergence concepts of an IT/OT-based advanced distribution management system?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.8516831398010254,
+          "doc_id": "149",
+          "text": "IT/OT Convergence 기반의 Advanced Distribution Management System의 설계 IT/OT Convergence 기반의 Advanced Distribution Management System의 설계 IT/OT Convergence 기반의 Advanced Distribution Management System의 설계 Power automation system to operate power distribution systems can be distinguished by distribution SCADA with remote monitoring and control; and distribution automation system with basic functions such as service restoration to the distribution SCADA; and distribution management system which is operated by various applications in order to enhance distribution system operation performance based on the distribution automation system. In the technological change, a technical boundary of information technology (IT) and operation technology (OT) is being blurred by that new concepts such as interoperability. In addtion, IT/OT convergence has been proposed by the improvement of ICT and power system technology. At the viewpoint, advanced distribution management system (ADMS) to have the new concepts and to increase distribution system operation efficiency through global information and functions from the other systems has been proposed.In order to implement the ADMS, IT and OT have to be employed together on the ADMS; and the concept-based IT/OT convergence concept has been presented. Therefore, this paper introduces ADMS and IT/OT convergence and proposes a design of IT/OT convergence based ADMS system design with configurations and functions."
+        },
+        {
+          "rank": 2,
+          "score": 0.8315460681915283,
+          "doc_id": "59",
+          "text": "IT/OT Convergence 기반의 Advanced Distribution Management System의 설계 IT/OT Convergence 기반의 Advanced Distribution Management System의 설계 IT/OT Convergence 기반의 Advanced Distribution Management System의 설계 Power automation system to operate power distribution systems can be distinguished by distribution SCADA with remote monitoring and control; and distribution automation system with basic functions such as service restoration to the distribution SCADA; and distribution management system which is operated by various applications in order to enhance distribution system operation performance based on the distribution automation system. In the technological change, a technical boundary of information technology (IT) and operation technology (OT) is being blurred by that new concepts such as interoperability. In addtion, IT/OT convergence has been proposed by the improvement of ICT and power system technology. At the viewpoint, advanced distribution management system (ADMS) to have the new concepts and to increase distribution system operation efficiency through global information and functions from the other systems has been proposed. In order to implement the ADMS, IT and OT have to be employed together on the ADMS; and the concept-based IT/OT convergence concept has been presented. Therefore, this paper introduces ADMS and IT/OT convergence and proposes a design of IT/OT convergence based ADMS system design with configurations and functions."
+        },
+        {
+          "rank": 3,
+          "score": 0.6709052920341492,
+          "doc_id": "44",
+          "text": "IT/OT convergence and cyber security IT/OT convergence and cyber security IT/OT convergence and cyber security A study by Forrester, commissioned by Fortinet, reveals the growing exposure of industry players to cyberthreats &ndash; one of the consequences of digital transformation. The lack of collaboration between IT teams and those in charge of industrial or operational technology (OT) is also a hindrance to cyber security for companies wishing to take full advantage of IT/OT convergence to increase their competitiveness."
+        },
+        {
+          "rank": 4,
+          "score": 0.6647084951400757,
+          "doc_id": "136",
+          "text": "IT/automation convergence revisited IT/automation convergence revisited IT/automation convergence revisited 없음"
+        },
+        {
+          "rank": 5,
+          "score": 0.6574031114578247,
+          "doc_id": "20",
+          "text": "Investigations on IT/ET and IT/BT Convergence Technology Using Power Line Communications Investigations on IT/ET and IT/BT Convergence Technology Using Power Line Communications Investigations on IT/ET and IT/BT Convergence Technology Using Power Line Communications Due to enhanced high IT (information technology) development, IT-based technology convergences such as IT/ET(electric technology), IT/BT(biology technology) and IT/NT(nano technology) are actively merging trend and their applications spread wide. In this paper PLC (power line communication), one of the merging IT, is investigated as one of the potential IT candidates for IT/ET and IT/BT convergence technology for DLC (direct load control) or bio-medical engineering such as ubiquitous health cares or D2H2 (distributed diagnosis and home health care)."
+        },
+        {
+          "rank": 6,
+          "score": 0.6477833986282349,
+          "doc_id": "105",
+          "text": "A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data Technological convergence is yielding new values and affecting various fields not by single technology but by convergence between technologies. This study aims to analyze the IT -BT-NT convergence and differences between technologies in respect of collaboration within (inventor) and between (assignee) organizations. Among the main technologies leading the technological convergence, IT is the most active of converging with other fields. BT is knowledge-intensive and strong cooperative networks are important in this area.NT is applied in various industrial fields upon the basic technology. Using the data on applied and granted patents by Korean applicants in the U.S., this study conducted quantitative analysis and ANOVA to gain the following results. First, the degree of convergence in between IT-BT-NT is continuously increasing since 2002. Second, BT is where the collaboration within and between organizations is the most active among IT-BT-NT. Third, there were certain differences in the degree of convergence according to the years and the fields of technologies in all the IT-BT-NT. Organizations cooperate with other institutions to sustain their competitiveness with limited internal resources. Companies in these fields are recommended to perform diverse strategies to pursue further collaboration with the outside."
+        },
+        {
+          "rank": 7,
+          "score": 0.6405587196350098,
+          "doc_id": "54",
+          "text": "Future trends of IT convergence Future trends of IT convergence Future trends of IT convergence 없음"
+        },
+        {
+          "rank": 8,
+          "score": 0.6377891898155212,
+          "doc_id": "143",
+          "text": "Convergence of Enterprise IT and Embedded Systems Convergence of Enterprise IT and Embedded Systems Convergence of Enterprise IT and Embedded Systems Convergence is currently melding entire disciplines to fully new business models and technologies across industries. What used to be embedded systems, on the one hand, with their specific constraints from the physical environments, and IT, on the other hand, are combining.1,2 This will impact education programs as well as classic industry boundaries."
+        },
+        {
+          "rank": 9,
+          "score": 0.6370272636413574,
+          "doc_id": "36",
+          "text": "Technological Convergence of IT and BT: Evidence from Patent Analysis Technological Convergence of IT and BT: Evidence from Patent Analysis Technological Convergence of IT and BT: Evidence from Patent Analysis In recent innovation trends, one notable feature is the merging and overlapping of technologies: in other words, technological convergence. A key technological convergence is the fusion of biotechnology (BT) and information technology (IT). Major IT advances have led to innovative devices that allow us to advance BT. However, the lack of data on IT-BT convergence is a major impediment: relatively little research has analyzed the inter-disciplinary relationship of different industries. We propose a systematic approach to analyzing the technological convergence of BT and IT. Patent analysis, including citation and co-classification analyses, was adopted as a main method to measure the convergence intensity and coverage, and two portfolio matrices were developed to manage the technological convergence. The contribution of this paper is that it provides practical evidences for IT-BT convergence, based on quantitative data and systematic processes. This has managerial implications for each sector of IT and BT."
+        },
+        {
+          "rank": 10,
+          "score": 0.6366239786148071,
+          "doc_id": "55",
+          "text": "Navigating BAS-IT Convergence Navigating BAS-IT Convergence Navigating BAS-IT Convergence 없음"
+        }
+      ]
+    },
+    {
+      "query": "What are the key design elements of an IT/OT-based advanced distribution management system?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.8185794353485107,
+          "doc_id": "149",
+          "text": "IT/OT Convergence 기반의 Advanced Distribution Management System의 설계 IT/OT Convergence 기반의 Advanced Distribution Management System의 설계 IT/OT Convergence 기반의 Advanced Distribution Management System의 설계 Power automation system to operate power distribution systems can be distinguished by distribution SCADA with remote monitoring and control; and distribution automation system with basic functions such as service restoration to the distribution SCADA; and distribution management system which is operated by various applications in order to enhance distribution system operation performance based on the distribution automation system. In the technological change, a technical boundary of information technology (IT) and operation technology (OT) is being blurred by that new concepts such as interoperability. In addtion, IT/OT convergence has been proposed by the improvement of ICT and power system technology. At the viewpoint, advanced distribution management system (ADMS) to have the new concepts and to increase distribution system operation efficiency through global information and functions from the other systems has been proposed.In order to implement the ADMS, IT and OT have to be employed together on the ADMS; and the concept-based IT/OT convergence concept has been presented. Therefore, this paper introduces ADMS and IT/OT convergence and proposes a design of IT/OT convergence based ADMS system design with configurations and functions."
+        },
+        {
+          "rank": 2,
+          "score": 0.799868106842041,
+          "doc_id": "59",
+          "text": "IT/OT Convergence 기반의 Advanced Distribution Management System의 설계 IT/OT Convergence 기반의 Advanced Distribution Management System의 설계 IT/OT Convergence 기반의 Advanced Distribution Management System의 설계 Power automation system to operate power distribution systems can be distinguished by distribution SCADA with remote monitoring and control; and distribution automation system with basic functions such as service restoration to the distribution SCADA; and distribution management system which is operated by various applications in order to enhance distribution system operation performance based on the distribution automation system. In the technological change, a technical boundary of information technology (IT) and operation technology (OT) is being blurred by that new concepts such as interoperability. In addtion, IT/OT convergence has been proposed by the improvement of ICT and power system technology. At the viewpoint, advanced distribution management system (ADMS) to have the new concepts and to increase distribution system operation efficiency through global information and functions from the other systems has been proposed. In order to implement the ADMS, IT and OT have to be employed together on the ADMS; and the concept-based IT/OT convergence concept has been presented. Therefore, this paper introduces ADMS and IT/OT convergence and proposes a design of IT/OT convergence based ADMS system design with configurations and functions."
+        },
+        {
+          "rank": 3,
+          "score": 0.6065871715545654,
+          "doc_id": "8",
+          "text": "정보통신 융합기기 연계를 고려한 데이터 중심의 정보시스템 모델의 설계 및 분석 정보통신 융합기기 연계를 고려한 데이터 중심의 정보시스템 모델의 설계 및 분석 정보통신 융합기기 연계를 고려한 데이터 중심의 정보시스템 모델의 설계 및 분석 데이터 중심 정보시스템 구축 모델은 그간 정보화 사업 추진이 HW, SW기능 중심으로 이루어지던 것을, 데이터 구조 및 데이터 수집 배포 채널에 대한 체계적인 분석과 설계, 데이터표준 적용, 정보통신 융합기기의 데이터 설정의 유연성 확보 등의 고려하여 개선한 모델이다. 이 모델의 주요 특성인 정보통신 융합기기에 데이터 유연성이 보장되는 개선 효과에 대해 센서와 반응기로 구분하여 이들 기기에 새로운 정보시스템이 추가적으로 연계되는 상황을 가정하여 시스템 개선 복잡도와 네트워크 환경에 대한 지수를 산정하여 기존의 일반적인 구축 방식과 비교하였다. 본 모델을 확산함으로써, 일반 업무용 정보시스템 외에 나날이 늘어나는 정보기술 융 복합 기기들이 처리하는 데이터에 대해서도 품질과 상호운용성을 통제하게 되어, 정보화 거버넌스의 영역 확대를 통해 종합적인 정보화 기획 및 성과 관리 등이 가능하게 되는 개선 효과가 있다."
+        },
+        {
+          "rank": 4,
+          "score": 0.604953944683075,
+          "doc_id": "44",
+          "text": "IT/OT convergence and cyber security IT/OT convergence and cyber security IT/OT convergence and cyber security A study by Forrester, commissioned by Fortinet, reveals the growing exposure of industry players to cyberthreats &ndash; one of the consequences of digital transformation. The lack of collaboration between IT teams and those in charge of industrial or operational technology (OT) is also a hindrance to cyber security for companies wishing to take full advantage of IT/OT convergence to increase their competitiveness."
+        },
+        {
+          "rank": 5,
+          "score": 0.5952177047729492,
+          "doc_id": "20",
+          "text": "Investigations on IT/ET and IT/BT Convergence Technology Using Power Line Communications Investigations on IT/ET and IT/BT Convergence Technology Using Power Line Communications Investigations on IT/ET and IT/BT Convergence Technology Using Power Line Communications Due to enhanced high IT (information technology) development, IT-based technology convergences such as IT/ET(electric technology), IT/BT(biology technology) and IT/NT(nano technology) are actively merging trend and their applications spread wide. In this paper PLC (power line communication), one of the merging IT, is investigated as one of the potential IT candidates for IT/ET and IT/BT convergence technology for DLC (direct load control) or bio-medical engineering such as ubiquitous health cares or D2H2 (distributed diagnosis and home health care)."
+        },
+        {
+          "rank": 6,
+          "score": 0.5850598812103271,
+          "doc_id": "136",
+          "text": "IT/automation convergence revisited IT/automation convergence revisited IT/automation convergence revisited 없음"
+        },
+        {
+          "rank": 7,
+          "score": 0.576904296875,
+          "doc_id": "187",
+          "text": "Big data driven smart energy management: From big data to big insights Big data driven smart energy management: From big data to big insights Big data driven smart energy management: From big data to big insights Abstract Large amounts of data are increasingly accumulated in the energy sector with the continuous application of sensors, wireless transmission, network communication, and cloud computing technologies. To fulfill the potential of energy big data and obtain insights to achieve smart energy management, we present a comprehensive study of big data driven smart energy management. We first discuss the sources and characteristics of energy big data. Also, a process model of big data driven smart energy management is proposed. Then taking smart grid as the research background, we provide a systematic review of big data analytics for smart energy management. It is discussed from four major aspects, namely power generation side management, microgrid and renewable energy management, asset management and collaborative operation, as well as demand side management (DSM). Afterwards, the industrial development of big data-driven smart energy management is analyzed and discussed. Finally, we point out the challenges of big data-driven smart energy management in IT infrastructure, data collection and governance, data integration and sharing, processing and analysis, security and privacy, and professionals."
+        },
+        {
+          "rank": 8,
+          "score": 0.5693731307983398,
+          "doc_id": "98",
+          "text": "국방 IT융합 비즈니스 모델 사례와 성과 분석 국방 IT융합 비즈니스 모델 사례와 성과 분석 국방 IT융합 비즈니스 모델 사례와 성과 분석 Information technology (IT) convergence have been recognized one of the key drivers in the industry perspective. Especially, IT convergence have been one of the most important innovative way for defense sector. Korea government established IT convergence policy in 2008 and have been applying it to the core industry such as automotive, shipbuilding and defense industries. Recently, the creative vitamin project has been launched. Vitamin 'D' means the way to create the value of defense industry. This research analyzes and evaluates various IT convergence business models based on an operation of defense IT convergence center from 2011 to 2014, which is the industry IT convergence centers. Defense IT convergence business models can be classified into four types of mission area as follows : weapon acquisition and management, military intelligence, military power construction, and resources management. We define the concept of defense IT convergence and describe the framework and processes for applying IT to the defense sector. We analyzes and evaluates various business models designed through defense IT convergence framework and processes."
+        },
+        {
+          "rank": 9,
+          "score": 0.5661773681640625,
+          "doc_id": "105",
+          "text": "A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data Technological convergence is yielding new values and affecting various fields not by single technology but by convergence between technologies. This study aims to analyze the IT -BT-NT convergence and differences between technologies in respect of collaboration within (inventor) and between (assignee) organizations. Among the main technologies leading the technological convergence, IT is the most active of converging with other fields. BT is knowledge-intensive and strong cooperative networks are important in this area.NT is applied in various industrial fields upon the basic technology. Using the data on applied and granted patents by Korean applicants in the U.S., this study conducted quantitative analysis and ANOVA to gain the following results. First, the degree of convergence in between IT-BT-NT is continuously increasing since 2002. Second, BT is where the collaboration within and between organizations is the most active among IT-BT-NT. Third, there were certain differences in the degree of convergence according to the years and the fields of technologies in all the IT-BT-NT. Organizations cooperate with other institutions to sustain their competitiveness with limited internal resources. Companies in these fields are recommended to perform diverse strategies to pursue further collaboration with the outside."
+        },
+        {
+          "rank": 10,
+          "score": 0.5602016448974609,
+          "doc_id": "7",
+          "text": "Keynote speech 6: Big Data, IoT and the 2nd sustainable development goal Keynote speech 6: Big Data, IoT and the 2nd sustainable development goal Keynote speech 6: Big Data, IoT and the 2nd sustainable development goal The risks associated with the global food system are widely acknowledged and implicate a complex nexus of factors including increasing population, changing diets, erosion of natural capital, uncertain future climate, food price fluctuations, growing economic disparity and differential access to sufficient safe and nutritious food. The second sustainable development goal (SDG2) aims to address these challenges in every country to ensure not only that we eradicate global hunger, but also that everyone has access to safe and nutritious food that is produced in an environmentally, socially and economically sustainable manner. SDG2 creates an unprecedented challenge to overcome the complexity of coordinating interventions that span the whole food chain (more accurately, `food network') and engage a bewildering breadth of individuals, stakeholders and agencies. The Sustainable Development Solutions Network recommends a generic enabling framework for SDG2 that connects the various stakeholders, and indicates the feedbacks and information flows that are needed to ensure effective execution. This platform is broadly relevant to all countries irrespective of their development status. A clear requirement for the success of this framework is the availability and free exchange of data, together with near real-time analytics on that data to create the necessary knowledge flows. The potential role of data-driven innovation in implementing the enabling framework in developing and western economies will be discussed using various case studies. The opportunities for deploying existing and new kinds of sensor and networking technologies will be explored. This will include the potential role of IoT and Big Data related technologies and an evaluation of the feasibilities and risks associated with their deployment. The presentation will conclude with a set of requirements and a summary of recommendations for future priorities."
+        }
+      ]
+    },
+    {
+      "query": "What are the convergence concepts associated with an IT/OT-based advanced distribution management system?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.8581984639167786,
+          "doc_id": "149",
+          "text": "IT/OT Convergence 기반의 Advanced Distribution Management System의 설계 IT/OT Convergence 기반의 Advanced Distribution Management System의 설계 IT/OT Convergence 기반의 Advanced Distribution Management System의 설계 Power automation system to operate power distribution systems can be distinguished by distribution SCADA with remote monitoring and control; and distribution automation system with basic functions such as service restoration to the distribution SCADA; and distribution management system which is operated by various applications in order to enhance distribution system operation performance based on the distribution automation system. In the technological change, a technical boundary of information technology (IT) and operation technology (OT) is being blurred by that new concepts such as interoperability. In addtion, IT/OT convergence has been proposed by the improvement of ICT and power system technology. At the viewpoint, advanced distribution management system (ADMS) to have the new concepts and to increase distribution system operation efficiency through global information and functions from the other systems has been proposed.In order to implement the ADMS, IT and OT have to be employed together on the ADMS; and the concept-based IT/OT convergence concept has been presented. Therefore, this paper introduces ADMS and IT/OT convergence and proposes a design of IT/OT convergence based ADMS system design with configurations and functions."
+        },
+        {
+          "rank": 2,
+          "score": 0.8354210257530212,
+          "doc_id": "59",
+          "text": "IT/OT Convergence 기반의 Advanced Distribution Management System의 설계 IT/OT Convergence 기반의 Advanced Distribution Management System의 설계 IT/OT Convergence 기반의 Advanced Distribution Management System의 설계 Power automation system to operate power distribution systems can be distinguished by distribution SCADA with remote monitoring and control; and distribution automation system with basic functions such as service restoration to the distribution SCADA; and distribution management system which is operated by various applications in order to enhance distribution system operation performance based on the distribution automation system. In the technological change, a technical boundary of information technology (IT) and operation technology (OT) is being blurred by that new concepts such as interoperability. In addtion, IT/OT convergence has been proposed by the improvement of ICT and power system technology. At the viewpoint, advanced distribution management system (ADMS) to have the new concepts and to increase distribution system operation efficiency through global information and functions from the other systems has been proposed. In order to implement the ADMS, IT and OT have to be employed together on the ADMS; and the concept-based IT/OT convergence concept has been presented. Therefore, this paper introduces ADMS and IT/OT convergence and proposes a design of IT/OT convergence based ADMS system design with configurations and functions."
+        },
+        {
+          "rank": 3,
+          "score": 0.7409884929656982,
+          "doc_id": "44",
+          "text": "IT/OT convergence and cyber security IT/OT convergence and cyber security IT/OT convergence and cyber security A study by Forrester, commissioned by Fortinet, reveals the growing exposure of industry players to cyberthreats &ndash; one of the consequences of digital transformation. The lack of collaboration between IT teams and those in charge of industrial or operational technology (OT) is also a hindrance to cyber security for companies wishing to take full advantage of IT/OT convergence to increase their competitiveness."
+        },
+        {
+          "rank": 4,
+          "score": 0.7389526963233948,
+          "doc_id": "136",
+          "text": "IT/automation convergence revisited IT/automation convergence revisited IT/automation convergence revisited 없음"
+        },
+        {
+          "rank": 5,
+          "score": 0.7297510504722595,
+          "doc_id": "20",
+          "text": "Investigations on IT/ET and IT/BT Convergence Technology Using Power Line Communications Investigations on IT/ET and IT/BT Convergence Technology Using Power Line Communications Investigations on IT/ET and IT/BT Convergence Technology Using Power Line Communications Due to enhanced high IT (information technology) development, IT-based technology convergences such as IT/ET(electric technology), IT/BT(biology technology) and IT/NT(nano technology) are actively merging trend and their applications spread wide. In this paper PLC (power line communication), one of the merging IT, is investigated as one of the potential IT candidates for IT/ET and IT/BT convergence technology for DLC (direct load control) or bio-medical engineering such as ubiquitous health cares or D2H2 (distributed diagnosis and home health care)."
+        },
+        {
+          "rank": 6,
+          "score": 0.7163752317428589,
+          "doc_id": "178",
+          "text": "IT 분야에서 컨버전스의 의미와 미래 전망 IT 분야에서 컨버전스의 의미와 미래 전망 IT 분야에서 컨버전스의 의미와 미래 전망 컨버전스(Convergence)란 단어는 집합, 집중, 수렴, 한 곳으로 모여짐 등의 뜻을 지닌 일반적인 용어로써 매우 발전해가고 있는 IT 분야에서 다양한 수요자의 욕구와 기술의 진화에 따라 최근에 매우 빈번하게 등장하고 있는 용어이자, 중요한 화두 중에 하나가 되고 있다. 이에 단어가 지니고 있는 일반적 의미를 다각적으로 분석함과 동시에 그 의미가 정보통신분야의 기술적 측면에서 또한 활용적인 측면에서 어떤 암시와 효과를 나타내고 있고, 나아가 IT 분야의 발전을 향한 목표 지향적인 측면에서의 역할이 가능한지와 또 다른 발전과 진화에 따라 어느 정도의 생명력과 경쟁력은 지닐 수 있는지를 살펴보고자 한다. 20세기 후반에 등장한 새로운 산업의 빅뱅이 되고 있는 IT 분야가 전세계로 확산, 발전되어감에 따라 수많은 일반적인 단어와 용어 들이 정보통신분야에서 도입, 활용하였고 이러한 용어들은 단어 자체의 의미 보다는 정보통신분야 발전의 현재와 미래를 규정해왔고, 나아가 정보통신 발전에 따른 혜택을 받는 전세계와 국내의 이용자들에게 많은 변화를 제공함과 동시에 연관분야의 산업에도 긍정적이던 부정적이던지 상호간 막대한 영향을 미쳐왔다고 분석된다. 이에 본 논문 자료는 IT 전문 용어가 아닌 일반적인 용어 중에서 IT 분야의 어떤 형태로든 영향을 미칠 용어 중에서 컨버전스란 단어를 통해 IT 분야의 현주소를 사례를 중심으로 분석, 점검하고 향후 IT 분야에서 컨버전스가 적용될 미래의 발전 모습을 전망하고자 하는데 있다."
+        },
+        {
+          "rank": 7,
+          "score": 0.707282304763794,
+          "doc_id": "54",
+          "text": "Future trends of IT convergence Future trends of IT convergence Future trends of IT convergence 없음"
+        },
+        {
+          "rank": 8,
+          "score": 0.7051988840103149,
+          "doc_id": "143",
+          "text": "Convergence of Enterprise IT and Embedded Systems Convergence of Enterprise IT and Embedded Systems Convergence of Enterprise IT and Embedded Systems Convergence is currently melding entire disciplines to fully new business models and technologies across industries. What used to be embedded systems, on the one hand, with their specific constraints from the physical environments, and IT, on the other hand, are combining.1,2 This will impact education programs as well as classic industry boundaries."
+        },
+        {
+          "rank": 9,
+          "score": 0.7026885747909546,
+          "doc_id": "105",
+          "text": "A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data Technological convergence is yielding new values and affecting various fields not by single technology but by convergence between technologies. This study aims to analyze the IT -BT-NT convergence and differences between technologies in respect of collaboration within (inventor) and between (assignee) organizations. Among the main technologies leading the technological convergence, IT is the most active of converging with other fields. BT is knowledge-intensive and strong cooperative networks are important in this area.NT is applied in various industrial fields upon the basic technology. Using the data on applied and granted patents by Korean applicants in the U.S., this study conducted quantitative analysis and ANOVA to gain the following results. First, the degree of convergence in between IT-BT-NT is continuously increasing since 2002. Second, BT is where the collaboration within and between organizations is the most active among IT-BT-NT. Third, there were certain differences in the degree of convergence according to the years and the fields of technologies in all the IT-BT-NT. Organizations cooperate with other institutions to sustain their competitiveness with limited internal resources. Companies in these fields are recommended to perform diverse strategies to pursue further collaboration with the outside."
+        },
+        {
+          "rank": 10,
+          "score": 0.700122594833374,
+          "doc_id": "38",
+          "text": "IT convergence security IT convergence security IT convergence security 없음"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

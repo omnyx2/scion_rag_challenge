@@ -1,0 +1,101 @@
+{
+    "id": "row_000007",
+    "result": "##제목##\n생성형 AI 콘텐츠 가치 유형 및 사용 공개에 대한 소비자 인식 요약\n\n##서론##\n생성형 인공지능(AI) 기술이 발전함에 따라 AI가 생성한 콘텐츠(AIGC)와 그 사용 여부를 공개하는 것에 대한 소비자 인식이 중요해지고 있습니다. 제공된 자료에 따르면, 한 연구는 생성형 AI가 제작한 콘텐츠를 실용적 가치와 쾌락적 가치로 구분하여 소비자의 인식을 분석하였으며, 그 결과는 콘텐츠의 유형에 따라 뚜렷한 차이를 보였습니다.\n\n##본론##\n### 1. 생성형 AI 콘텐츠의 가치 유형별 소비자 인식\n소비자들은 생성형 AI가 만든 콘텐츠에 대해 그 가치 유형에 따라 다른 인식을 보였습니다.\n\n*   **실용적 콘텐츠 (예: 뉴스):** 소비자는 뉴스와 같이 사실을 전달하는 실용적 콘텐츠에 AI를 사용하는 것에 대해 부정적인 인식을 가지고 있습니다. 특히, 텍스트나 사진보다 영상 뉴스 제작에 AI를 활용하는 것에 대한 부정적 인식이 강하게 나타났습니다.\n*   **쾌락적 콘텐츠 (예: 영화, 드라마):** 반면, 영화나 드라마와 같이 즐거움을 주는 쾌락적 콘텐츠에 대해서는 생성형 AI 사용에 대해 무관심하거나 오히려 긍정적인 인식을 보였습니다.\n\n전반적으로 AI 생성 콘텐츠에 대한 소비자 인식이 만족도 자체에 큰 영향을 미치지는 않았으나, 콘텐츠의 목적에 따라 수용도가 달라지는 경향이 확인되었습니다.\n\n### 2. AI 사용 공개에 대한 인식\nAI 사용 여부를 공개하는 것에 대한 소비자 인식은 콘텐츠 가치 유형과 관계없이 일관된 특징을 보였습니다.\n\n*   **공개의 원칙:** 소비자들은 콘텐츠의 가치 유형(실용적, 쾌락적)에 관계없이 AI 사용 여부를 공개하는 것을 '지켜야 할 원칙'으로 인식하고 있었습니다.\n*   **실용적 콘텐츠에서의 강조:** 이러한 투명성에 대한 요구는 특히 사실을 다루는 실용적 콘텐츠에서 더욱 강하게 나타났습니다.\n\n##결론##\n요약하자면, 소비자는 콘텐츠의 목적에 따라 AI 사용에 대한 수용도가 다릅니다. 뉴스와 같은 실용적 콘텐츠에는 부정적이지만, 영화와 같은 쾌락적 콘텐츠에는 긍정적이거나 무관심합니다. 그러나 AI 사용 사실을 투명하게 공개해야 한다는 점에 대해서는 가치 유형과 무관하게 강한 공감대를 형성하고 있으며, 이는 AI 활용에 있어 투명성과 진정성 확보 방안이 필요함을 시사합니다.",
+    "prompt": "You will be given a JSON object as a string which contains a series of related search queries and their retrieved documents ('hits'). Do not make answer from external knowledge. You must make answer inside of Context.\nYour main task is to answer the specific 'Question' provided below. Use the entire JSON data as context to formulate your answer, paying close attention to the 'text' fields within the 'hits' lists.\n\nThe JSON data has a list of queries. The 'original' query is the one you need to answer. The other queries are supplementary and provide additional context.\n\nIf the 'Question' is in Korean, format your answer in Korean as follows:\n##제목##\n\n##서론##\n\n##본론##\n\n##결론##\n\nIf the 'Question' is in English, format your answer in English as follows:\n##Title##\n\n##Introduction##\n\n##Main Body##\n\n##Conclusion##\n\n--- Context (JSON Data) ---\n{\n  \"id\": \"row_000007\",\n  \"model_name\": \"Snowflake/snowflake-arctic-embed-l-v2.0\",\n  \"timestamp_kst\": \"2025-09-07T15:53:02.280602+09:00\",\n  \"trial_id\": \"7ca9f3ce\",\n  \"queries\": [\n    {\n      \"query\": \"생성형 AI 콘텐츠의 가치 유형별 소비자 인식과 AI 사용 공개에 대한 인식 특성을 어떻게 요약할 수 있나요?\",\n      \"query_meta\": {\n        \"type\": \"original\"\n      },\n      \"top_k\": 10,\n      \"hits\": [\n        {\n          \"rank\": 1,\n          \"score\": 0.625996470451355,\n          \"doc_id\": \"68\",\n          \"text\": \"인공지능 생성 콘텐츠(Artificial Intelligence Generated Content)와 인공지능 사용 공개(Artificial Intelligence Disclaimer)에 대한 소비자 인식 연구: 콘텐츠 가치와 형식을 중심으로 인공지능 생성 콘텐츠(Artificial Intelligence Generated Content)와 인공지능 사용 공개(Artificial Intelligence Disclaimer)에 대한 소비자 인식 연구: 콘텐츠 가치와 형식을 중심으로 인공지능 생성 콘텐츠(Artificial Intelligence Generated Content)와 인공지능 사용 공개(Artificial Intelligence Disclaimer)에 대한 소비자 인식 연구: 콘텐츠 가치와 형식을 중심으로 최근 생성형 인공지능(Artificial Intelligence)은 다양한 형식의 미디어를 포함하여 자율적으로 콘텐츠를 생성할 수 있는 능력으로 주목받고 있다. 그 잠재력에도 불구하고 AI가 생성한 콘텐츠(AI-Generated Content, AIGC)의 진정성(Authenticity) 이슈가 제기됨에 따라 각국에서 AI 사용과 투명성에 대한 규제가 수립되고 있다. 하지만, AIGC와 AI 사용 공개(AI Disclaimer)에 대한 소비자의 이해라는 근본적인 주제는 여전히 탐색되지 않고 있다. 본 연구는 생성형 AI가 제작한 콘텐츠를 실용적, 쾌락적 가치유형으로 구분하고 각각 글, 사진, 영상의 미디어 형식을 적용한 6가지의 경우에 대한 소비자의 인식을 카노 모형을 통해 분석하였다. 나아가, 도출된 결과를 인지된 진정성과 기만으로 그룹을 구분해 인식의 차이가 이에 따라 드러나는지 추가적으로 살펴보았다. 연구 결과, AI가 생성한 콘텐츠에 대한 소비자 인식은 만족도에 큰 영향을 미치지 않았으나, 뉴스로 대표되는 실용적 콘텐츠에서는 AI 사용에 대한 부정적 인식이 확인되었으며, 특히 뉴스 영상 제작에 있어 부정적 인식이 강하게 드러났다. 반면, 영화와 드라마로 대표되는 쾌락적 콘텐츠에서는 생성형 AI 사용에 대한 인식이 무관심하거나 오히려 긍정적이었다. AI 사용 여부의 공개에 대해서는 콘텐츠 가치유형에 관계없이 지켜야 할 원칙으로 인식되었으나, 실용적 콘텐츠에 대해 그러한 인식이 더 강하게 드러났다. 본 연구는 AI 활용의 투명성과 진정성을 제고하는 방안이 필요함을 시사하며, 향후 AI의 발전과 활용이 소비자 인식에 미치는 영향을 지속적으로 연구할 필요가 있음을 강조한다.\"\n        },\n        {\n          \"rank\": 2,\n          \"score\": 0.44013670086860657,\n          \"doc_id\": \"151\",\n          \"text\": \"마음,지능,인공지능 마음,지능,인공지능 마음,지능,인공지능 최근 여러 학문 분야에서는 논의되고 있는 인공지능(AI)의 문제는 과학적 문제임과 동시에 중요한 철학적 문제이다.본고는 컴퓨터과학자 혹은 인지과학자들이 내리고 있는 AI의 정의들을 분석함으로써 그 속에 함축되어 있는 논쟁점들을 발굴하고,관련된 논변들을 검토함 으로써 AI탐구가 지니는 의의를 명확히 해보려는 데 그 목적이 있다.AI에 대한 정의들은 AI연구가들의 관심과 목표 그리고 그 주장의 강도에 따라 여러 유형으로 분류될 수 있지만 대개가 인간지능을 어떻게 파악하고 있는지,지능과 뇌의 관계가 무엇인지,그리고 그것을 컴퓨터를 통해서 모의하고 복제한다는 것의 논리적 구조가 무엇인지에 대한 이해와 밀접한 관계가 있다.이점에서 AI연구에 있어서 관건이 되는 것은 컴퓨터 기술의 발전과 같은 경험상의 문제라기 보다는 오히려 논리나 개념분석과 같은 선험적인 문제와 밀접하게 연관되어 있다.\"\n        },\n        {\n          \"rank\": 3,\n          \"score\": 0.40526282787323,\n          \"doc_id\": \"132\",\n          \"text\": \"Artificial intelligence Artificial intelligence Artificial intelligence 없음\"\n        }\n      ]\n    },\n    {\n      \"query\": \"생성형 AI 콘텐츠의 가치 유형별 소비자 인식은 무엇인가요?\",\n      \"query_meta\": {\n        \"type\": \"single_hop\",\n        \"index\": 0\n      },\n      \"top_k\": 10,\n      \"hits\": [\n        {\n          \"rank\": 1,\n          \"score\": 0.5447388887405396,\n          \"doc_id\": \"68\",\n          \"text\": \"인공지능 생성 콘텐츠(Artificial Intelligence Generated Content)와 인공지능 사용 공개(Artificial Intelligence Disclaimer)에 대한 소비자 인식 연구: 콘텐츠 가치와 형식을 중심으로 인공지능 생성 콘텐츠(Artificial Intelligence Generated Content)와 인공지능 사용 공개(Artificial Intelligence Disclaimer)에 대한 소비자 인식 연구: 콘텐츠 가치와 형식을 중심으로 인공지능 생성 콘텐츠(Artificial Intelligence Generated Content)와 인공지능 사용 공개(Artificial Intelligence Disclaimer)에 대한 소비자 인식 연구: 콘텐츠 가치와 형식을 중심으로 최근 생성형 인공지능(Artificial Intelligence)은 다양한 형식의 미디어를 포함하여 자율적으로 콘텐츠를 생성할 수 있는 능력으로 주목받고 있다. 그 잠재력에도 불구하고 AI가 생성한 콘텐츠(AI-Generated Content, AIGC)의 진정성(Authenticity) 이슈가 제기됨에 따라 각국에서 AI 사용과 투명성에 대한 규제가 수립되고 있다. 하지만, AIGC와 AI 사용 공개(AI Disclaimer)에 대한 소비자의 이해라는 근본적인 주제는 여전히 탐색되지 않고 있다. 본 연구는 생성형 AI가 제작한 콘텐츠를 실용적, 쾌락적 가치유형으로 구분하고 각각 글, 사진, 영상의 미디어 형식을 적용한 6가지의 경우에 대한 소비자의 인식을 카노 모형을 통해 분석하였다. 나아가, 도출된 결과를 인지된 진정성과 기만으로 그룹을 구분해 인식의 차이가 이에 따라 드러나는지 추가적으로 살펴보았다. 연구 결과, AI가 생성한 콘텐츠에 대한 소비자 인식은 만족도에 큰 영향을 미치지 않았으나, 뉴스로 대표되는 실용적 콘텐츠에서는 AI 사용에 대한 부정적 인식이 확인되었으며, 특히 뉴스 영상 제작에 있어 부정적 인식이 강하게 드러났다. 반면, 영화와 드라마로 대표되는 쾌락적 콘텐츠에서는 생성형 AI 사용에 대한 인식이 무관심하거나 오히려 긍정적이었다. AI 사용 여부의 공개에 대해서는 콘텐츠 가치유형에 관계없이 지켜야 할 원칙으로 인식되었으나, 실용적 콘텐츠에 대해 그러한 인식이 더 강하게 드러났다. 본 연구는 AI 활용의 투명성과 진정성을 제고하는 방안이 필요함을 시사하며, 향후 AI의 발전과 활용이 소비자 인식에 미치는 영향을 지속적으로 연구할 필요가 있음을 강조한다.\"\n        },\n        {\n          \"rank\": 2,\n          \"score\": 0.4171351194381714,\n          \"doc_id\": \"132\",\n          \"text\": \"Artificial intelligence Artificial intelligence Artificial intelligence 없음\"\n        },\n        {\n          \"rank\": 3,\n          \"score\": 0.40631869435310364,\n          \"doc_id\": \"151\",\n          \"text\": \"마음,지능,인공지능 마음,지능,인공지능 마음,지능,인공지능 최근 여러 학문 분야에서는 논의되고 있는 인공지능(AI)의 문제는 과학적 문제임과 동시에 중요한 철학적 문제이다.본고는 컴퓨터과학자 혹은 인지과학자들이 내리고 있는 AI의 정의들을 분석함으로써 그 속에 함축되어 있는 논쟁점들을 발굴하고,관련된 논변들을 검토함 으로써 AI탐구가 지니는 의의를 명확히 해보려는 데 그 목적이 있다.AI에 대한 정의들은 AI연구가들의 관심과 목표 그리고 그 주장의 강도에 따라 여러 유형으로 분류될 수 있지만 대개가 인간지능을 어떻게 파악하고 있는지,지능과 뇌의 관계가 무엇인지,그리고 그것을 컴퓨터를 통해서 모의하고 복제한다는 것의 논리적 구조가 무엇인지에 대한 이해와 밀접한 관계가 있다.이점에서 AI연구에 있어서 관건이 되는 것은 컴퓨터 기술의 발전과 같은 경험상의 문제라기 보다는 오히려 논리나 개념분석과 같은 선험적인 문제와 밀접하게 연관되어 있다.\"\n        }\n      ]\n    },\n    {\n      \"query\": \"AI 사용 공개에 대한 소비자 인식 특성은 무엇인가요?\",\n      \"query_meta\": {\n        \"type\": \"single_hop\",\n        \"index\": 1\n      },\n      \"top_k\": 10,\n      \"hits\": [\n        {\n          \"rank\": 1,\n          \"score\": 0.4501979351043701,\n          \"doc_id\": \"68\",\n          \"text\": \"인공지능 생성 콘텐츠(Artificial Intelligence Generated Content)와 인공지능 사용 공개(Artificial Intelligence Disclaimer)에 대한 소비자 인식 연구: 콘텐츠 가치와 형식을 중심으로 인공지능 생성 콘텐츠(Artificial Intelligence Generated Content)와 인공지능 사용 공개(Artificial Intelligence Disclaimer)에 대한 소비자 인식 연구: 콘텐츠 가치와 형식을 중심으로 인공지능 생성 콘텐츠(Artificial Intelligence Generated Content)와 인공지능 사용 공개(Artificial Intelligence Disclaimer)에 대한 소비자 인식 연구: 콘텐츠 가치와 형식을 중심으로 최근 생성형 인공지능(Artificial Intelligence)은 다양한 형식의 미디어를 포함하여 자율적으로 콘텐츠를 생성할 수 있는 능력으로 주목받고 있다. 그 잠재력에도 불구하고 AI가 생성한 콘텐츠(AI-Generated Content, AIGC)의 진정성(Authenticity) 이슈가 제기됨에 따라 각국에서 AI 사용과 투명성에 대한 규제가 수립되고 있다. 하지만, AIGC와 AI 사용 공개(AI Disclaimer)에 대한 소비자의 이해라는 근본적인 주제는 여전히 탐색되지 않고 있다. 본 연구는 생성형 AI가 제작한 콘텐츠를 실용적, 쾌락적 가치유형으로 구분하고 각각 글, 사진, 영상의 미디어 형식을 적용한 6가지의 경우에 대한 소비자의 인식을 카노 모형을 통해 분석하였다. 나아가, 도출된 결과를 인지된 진정성과 기만으로 그룹을 구분해 인식의 차이가 이에 따라 드러나는지 추가적으로 살펴보았다. 연구 결과, AI가 생성한 콘텐츠에 대한 소비자 인식은 만족도에 큰 영향을 미치지 않았으나, 뉴스로 대표되는 실용적 콘텐츠에서는 AI 사용에 대한 부정적 인식이 확인되었으며, 특히 뉴스 영상 제작에 있어 부정적 인식이 강하게 드러났다. 반면, 영화와 드라마로 대표되는 쾌락적 콘텐츠에서는 생성형 AI 사용에 대한 인식이 무관심하거나 오히려 긍정적이었다. AI 사용 여부의 공개에 대해서는 콘텐츠 가치유형에 관계없이 지켜야 할 원칙으로 인식되었으나, 실용적 콘텐츠에 대해 그러한 인식이 더 강하게 드러났다. 본 연구는 AI 활용의 투명성과 진정성을 제고하는 방안이 필요함을 시사하며, 향후 AI의 발전과 활용이 소비자 인식에 미치는 영향을 지속적으로 연구할 필요가 있음을 강조한다.\"\n        },\n        {\n          \"rank\": 2,\n          \"score\": 0.4018070101737976,\n          \"doc_id\": \"132\",\n          \"text\": \"Artificial intelligence Artificial intelligence Artificial intelligence 없음\"\n        },\n        {\n          \"rank\": 3,\n          \"score\": 0.40093791484832764,\n          \"doc_id\": \"216\",\n          \"text\": \"A Study on Artificial Intelligence A Study on Artificial Intelligence A Study on Artificial Intelligence 없음\"\n        }\n      ]\n    }\n  ],\n  \"meta\": {\n    \"model\": \"gemini-2.5-flash\",\n    \"temperature\": 0.2\n  }\n}\n\n--- Question ---\n생성형 AI 콘텐츠의 가치 유형별 소비자 인식과 AI 사용 공개에 대한 인식 특성을 어떻게 요약할 수 있나요?\n",
+    "model": "models/gemini-2.5-pro",
+    "retrival": {
+        "id": "row_000007",
+        "model_name": "Snowflake/snowflake-arctic-embed-l-v2.0",
+        "timestamp_kst": "2025-09-07T15:53:02.280602+09:00",
+        "trial_id": "7ca9f3ce",
+        "queries": [
+            {
+                "query": "생성형 AI 콘텐츠의 가치 유형별 소비자 인식과 AI 사용 공개에 대한 인식 특성을 어떻게 요약할 수 있나요?",
+                "query_meta": {
+                    "type": "original"
+                },
+                "top_k": 10,
+                "hits": [
+                    {
+                        "rank": 1,
+                        "score": 0.625996470451355,
+                        "doc_id": "68",
+                        "text": "인공지능 생성 콘텐츠(Artificial Intelligence Generated Content)와 인공지능 사용 공개(Artificial Intelligence Disclaimer)에 대한 소비자 인식 연구: 콘텐츠 가치와 형식을 중심으로 인공지능 생성 콘텐츠(Artificial Intelligence Generated Content)와 인공지능 사용 공개(Artificial Intelligence Disclaimer)에 대한 소비자 인식 연구: 콘텐츠 가치와 형식을 중심으로 인공지능 생성 콘텐츠(Artificial Intelligence Generated Content)와 인공지능 사용 공개(Artificial Intelligence Disclaimer)에 대한 소비자 인식 연구: 콘텐츠 가치와 형식을 중심으로 최근 생성형 인공지능(Artificial Intelligence)은 다양한 형식의 미디어를 포함하여 자율적으로 콘텐츠를 생성할 수 있는 능력으로 주목받고 있다. 그 잠재력에도 불구하고 AI가 생성한 콘텐츠(AI-Generated Content, AIGC)의 진정성(Authenticity) 이슈가 제기됨에 따라 각국에서 AI 사용과 투명성에 대한 규제가 수립되고 있다. 하지만, AIGC와 AI 사용 공개(AI Disclaimer)에 대한 소비자의 이해라는 근본적인 주제는 여전히 탐색되지 않고 있다. 본 연구는 생성형 AI가 제작한 콘텐츠를 실용적, 쾌락적 가치유형으로 구분하고 각각 글, 사진, 영상의 미디어 형식을 적용한 6가지의 경우에 대한 소비자의 인식을 카노 모형을 통해 분석하였다. 나아가, 도출된 결과를 인지된 진정성과 기만으로 그룹을 구분해 인식의 차이가 이에 따라 드러나는지 추가적으로 살펴보았다. 연구 결과, AI가 생성한 콘텐츠에 대한 소비자 인식은 만족도에 큰 영향을 미치지 않았으나, 뉴스로 대표되는 실용적 콘텐츠에서는 AI 사용에 대한 부정적 인식이 확인되었으며, 특히 뉴스 영상 제작에 있어 부정적 인식이 강하게 드러났다. 반면, 영화와 드라마로 대표되는 쾌락적 콘텐츠에서는 생성형 AI 사용에 대한 인식이 무관심하거나 오히려 긍정적이었다. AI 사용 여부의 공개에 대해서는 콘텐츠 가치유형에 관계없이 지켜야 할 원칙으로 인식되었으나, 실용적 콘텐츠에 대해 그러한 인식이 더 강하게 드러났다. 본 연구는 AI 활용의 투명성과 진정성을 제고하는 방안이 필요함을 시사하며, 향후 AI의 발전과 활용이 소비자 인식에 미치는 영향을 지속적으로 연구할 필요가 있음을 강조한다."
+                    },
+                    {
+                        "rank": 2,
+                        "score": 0.44013670086860657,
+                        "doc_id": "151",
+                        "text": "마음,지능,인공지능 마음,지능,인공지능 마음,지능,인공지능 최근 여러 학문 분야에서는 논의되고 있는 인공지능(AI)의 문제는 과학적 문제임과 동시에 중요한 철학적 문제이다.본고는 컴퓨터과학자 혹은 인지과학자들이 내리고 있는 AI의 정의들을 분석함으로써 그 속에 함축되어 있는 논쟁점들을 발굴하고,관련된 논변들을 검토함 으로써 AI탐구가 지니는 의의를 명확히 해보려는 데 그 목적이 있다.AI에 대한 정의들은 AI연구가들의 관심과 목표 그리고 그 주장의 강도에 따라 여러 유형으로 분류될 수 있지만 대개가 인간지능을 어떻게 파악하고 있는지,지능과 뇌의 관계가 무엇인지,그리고 그것을 컴퓨터를 통해서 모의하고 복제한다는 것의 논리적 구조가 무엇인지에 대한 이해와 밀접한 관계가 있다.이점에서 AI연구에 있어서 관건이 되는 것은 컴퓨터 기술의 발전과 같은 경험상의 문제라기 보다는 오히려 논리나 개념분석과 같은 선험적인 문제와 밀접하게 연관되어 있다."
+                    },
+                    {
+                        "rank": 3,
+                        "score": 0.40526282787323,
+                        "doc_id": "132",
+                        "text": "Artificial intelligence Artificial intelligence Artificial intelligence 없음"
+                    }
+                ]
+            },
+            {
+                "query": "생성형 AI 콘텐츠의 가치 유형별 소비자 인식은 무엇인가요?",
+                "query_meta": {
+                    "type": "single_hop",
+                    "index": 0
+                },
+                "top_k": 10,
+                "hits": [
+                    {
+                        "rank": 1,
+                        "score": 0.5447388887405396,
+                        "doc_id": "68",
+                        "text": "인공지능 생성 콘텐츠(Artificial Intelligence Generated Content)와 인공지능 사용 공개(Artificial Intelligence Disclaimer)에 대한 소비자 인식 연구: 콘텐츠 가치와 형식을 중심으로 인공지능 생성 콘텐츠(Artificial Intelligence Generated Content)와 인공지능 사용 공개(Artificial Intelligence Disclaimer)에 대한 소비자 인식 연구: 콘텐츠 가치와 형식을 중심으로 인공지능 생성 콘텐츠(Artificial Intelligence Generated Content)와 인공지능 사용 공개(Artificial Intelligence Disclaimer)에 대한 소비자 인식 연구: 콘텐츠 가치와 형식을 중심으로 최근 생성형 인공지능(Artificial Intelligence)은 다양한 형식의 미디어를 포함하여 자율적으로 콘텐츠를 생성할 수 있는 능력으로 주목받고 있다. 그 잠재력에도 불구하고 AI가 생성한 콘텐츠(AI-Generated Content, AIGC)의 진정성(Authenticity) 이슈가 제기됨에 따라 각국에서 AI 사용과 투명성에 대한 규제가 수립되고 있다. 하지만, AIGC와 AI 사용 공개(AI Disclaimer)에 대한 소비자의 이해라는 근본적인 주제는 여전히 탐색되지 않고 있다. 본 연구는 생성형 AI가 제작한 콘텐츠를 실용적, 쾌락적 가치유형으로 구분하고 각각 글, 사진, 영상의 미디어 형식을 적용한 6가지의 경우에 대한 소비자의 인식을 카노 모형을 통해 분석하였다. 나아가, 도출된 결과를 인지된 진정성과 기만으로 그룹을 구분해 인식의 차이가 이에 따라 드러나는지 추가적으로 살펴보았다. 연구 결과, AI가 생성한 콘텐츠에 대한 소비자 인식은 만족도에 큰 영향을 미치지 않았으나, 뉴스로 대표되는 실용적 콘텐츠에서는 AI 사용에 대한 부정적 인식이 확인되었으며, 특히 뉴스 영상 제작에 있어 부정적 인식이 강하게 드러났다. 반면, 영화와 드라마로 대표되는 쾌락적 콘텐츠에서는 생성형 AI 사용에 대한 인식이 무관심하거나 오히려 긍정적이었다. AI 사용 여부의 공개에 대해서는 콘텐츠 가치유형에 관계없이 지켜야 할 원칙으로 인식되었으나, 실용적 콘텐츠에 대해 그러한 인식이 더 강하게 드러났다. 본 연구는 AI 활용의 투명성과 진정성을 제고하는 방안이 필요함을 시사하며, 향후 AI의 발전과 활용이 소비자 인식에 미치는 영향을 지속적으로 연구할 필요가 있음을 강조한다."
+                    },
+                    {
+                        "rank": 2,
+                        "score": 0.4171351194381714,
+                        "doc_id": "132",
+                        "text": "Artificial intelligence Artificial intelligence Artificial intelligence 없음"
+                    },
+                    {
+                        "rank": 3,
+                        "score": 0.40631869435310364,
+                        "doc_id": "151",
+                        "text": "마음,지능,인공지능 마음,지능,인공지능 마음,지능,인공지능 최근 여러 학문 분야에서는 논의되고 있는 인공지능(AI)의 문제는 과학적 문제임과 동시에 중요한 철학적 문제이다.본고는 컴퓨터과학자 혹은 인지과학자들이 내리고 있는 AI의 정의들을 분석함으로써 그 속에 함축되어 있는 논쟁점들을 발굴하고,관련된 논변들을 검토함 으로써 AI탐구가 지니는 의의를 명확히 해보려는 데 그 목적이 있다.AI에 대한 정의들은 AI연구가들의 관심과 목표 그리고 그 주장의 강도에 따라 여러 유형으로 분류될 수 있지만 대개가 인간지능을 어떻게 파악하고 있는지,지능과 뇌의 관계가 무엇인지,그리고 그것을 컴퓨터를 통해서 모의하고 복제한다는 것의 논리적 구조가 무엇인지에 대한 이해와 밀접한 관계가 있다.이점에서 AI연구에 있어서 관건이 되는 것은 컴퓨터 기술의 발전과 같은 경험상의 문제라기 보다는 오히려 논리나 개념분석과 같은 선험적인 문제와 밀접하게 연관되어 있다."
+                    }
+                ]
+            },
+            {
+                "query": "AI 사용 공개에 대한 소비자 인식 특성은 무엇인가요?",
+                "query_meta": {
+                    "type": "single_hop",
+                    "index": 1
+                },
+                "top_k": 10,
+                "hits": [
+                    {
+                        "rank": 1,
+                        "score": 0.4501979351043701,
+                        "doc_id": "68",
+                        "text": "인공지능 생성 콘텐츠(Artificial Intelligence Generated Content)와 인공지능 사용 공개(Artificial Intelligence Disclaimer)에 대한 소비자 인식 연구: 콘텐츠 가치와 형식을 중심으로 인공지능 생성 콘텐츠(Artificial Intelligence Generated Content)와 인공지능 사용 공개(Artificial Intelligence Disclaimer)에 대한 소비자 인식 연구: 콘텐츠 가치와 형식을 중심으로 인공지능 생성 콘텐츠(Artificial Intelligence Generated Content)와 인공지능 사용 공개(Artificial Intelligence Disclaimer)에 대한 소비자 인식 연구: 콘텐츠 가치와 형식을 중심으로 최근 생성형 인공지능(Artificial Intelligence)은 다양한 형식의 미디어를 포함하여 자율적으로 콘텐츠를 생성할 수 있는 능력으로 주목받고 있다. 그 잠재력에도 불구하고 AI가 생성한 콘텐츠(AI-Generated Content, AIGC)의 진정성(Authenticity) 이슈가 제기됨에 따라 각국에서 AI 사용과 투명성에 대한 규제가 수립되고 있다. 하지만, AIGC와 AI 사용 공개(AI Disclaimer)에 대한 소비자의 이해라는 근본적인 주제는 여전히 탐색되지 않고 있다. 본 연구는 생성형 AI가 제작한 콘텐츠를 실용적, 쾌락적 가치유형으로 구분하고 각각 글, 사진, 영상의 미디어 형식을 적용한 6가지의 경우에 대한 소비자의 인식을 카노 모형을 통해 분석하였다. 나아가, 도출된 결과를 인지된 진정성과 기만으로 그룹을 구분해 인식의 차이가 이에 따라 드러나는지 추가적으로 살펴보았다. 연구 결과, AI가 생성한 콘텐츠에 대한 소비자 인식은 만족도에 큰 영향을 미치지 않았으나, 뉴스로 대표되는 실용적 콘텐츠에서는 AI 사용에 대한 부정적 인식이 확인되었으며, 특히 뉴스 영상 제작에 있어 부정적 인식이 강하게 드러났다. 반면, 영화와 드라마로 대표되는 쾌락적 콘텐츠에서는 생성형 AI 사용에 대한 인식이 무관심하거나 오히려 긍정적이었다. AI 사용 여부의 공개에 대해서는 콘텐츠 가치유형에 관계없이 지켜야 할 원칙으로 인식되었으나, 실용적 콘텐츠에 대해 그러한 인식이 더 강하게 드러났다. 본 연구는 AI 활용의 투명성과 진정성을 제고하는 방안이 필요함을 시사하며, 향후 AI의 발전과 활용이 소비자 인식에 미치는 영향을 지속적으로 연구할 필요가 있음을 강조한다."
+                    },
+                    {
+                        "rank": 2,
+                        "score": 0.4018070101737976,
+                        "doc_id": "132",
+                        "text": "Artificial intelligence Artificial intelligence Artificial intelligence 없음"
+                    },
+                    {
+                        "rank": 3,
+                        "score": 0.40093791484832764,
+                        "doc_id": "216",
+                        "text": "A Study on Artificial Intelligence A Study on Artificial Intelligence A Study on Artificial Intelligence 없음"
+                    }
+                ]
+            }
+        ],
+        "meta": {
+            "model": "gemini-2.5-flash",
+            "temperature": 0.2
+        }
+    }
+}

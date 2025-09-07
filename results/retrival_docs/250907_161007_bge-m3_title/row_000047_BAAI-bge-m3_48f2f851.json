@@ -1,0 +1,221 @@
+{
+  "id": "row_000047",
+  "model_name": "BAAI/bge-m3",
+  "timestamp_kst": "2025-09-07T16:10:14.867088+09:00",
+  "trial_id": "48f2f851",
+  "queries": [
+    {
+      "query": "지식 기반 스케줄링에서 공간적·시간적 적응을 구현하는 기계학습 방법들의 주요 특징을 요약해 주실 수 있나요?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5778287649154663,
+          "doc_id": "128",
+          "text": "Machine learning-based adaptive CSI feedback interval"
+        },
+        {
+          "rank": 2,
+          "score": 0.5724215507507324,
+          "doc_id": "75",
+          "text": "MACHINE LEARNING"
+        },
+        {
+          "rank": 3,
+          "score": 0.5654035806655884,
+          "doc_id": "147",
+          "text": "A Survey of Topological Machine Learning Methods"
+        },
+        {
+          "rank": 4,
+          "score": 0.553875207901001,
+          "doc_id": "202",
+          "text": "Machine learning"
+        },
+        {
+          "rank": 5,
+          "score": 0.5446309447288513,
+          "doc_id": "125",
+          "text": "An overview of deep learning techniques"
+        },
+        {
+          "rank": 6,
+          "score": 0.5339608192443848,
+          "doc_id": "225",
+          "text": "Speech Recognition using Machine Learning"
+        },
+        {
+          "rank": 7,
+          "score": 0.52376788854599,
+          "doc_id": "22",
+          "text": "Effective E-Learning Practices by Machine Learning and Artificial Intelligence"
+        },
+        {
+          "rank": 8,
+          "score": 0.5197453498840332,
+          "doc_id": "42",
+          "text": "Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning"
+        },
+        {
+          "rank": 9,
+          "score": 0.5109704732894897,
+          "doc_id": "192",
+          "text": "USING MACHINE LEARNING METHODS IN CYBERSECURITY"
+        },
+        {
+          "rank": 10,
+          "score": 0.5082846879959106,
+          "doc_id": "88",
+          "text": "Machine learning on Big Data"
+        }
+      ]
+    },
+    {
+      "query": "지식 기반 스케줄링에서 공간적 적응을 구현하는 기계학습 방법들의 주요 특징은 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.567520260810852,
+          "doc_id": "75",
+          "text": "MACHINE LEARNING"
+        },
+        {
+          "rank": 2,
+          "score": 0.5642275810241699,
+          "doc_id": "128",
+          "text": "Machine learning-based adaptive CSI feedback interval"
+        },
+        {
+          "rank": 3,
+          "score": 0.5594731569290161,
+          "doc_id": "202",
+          "text": "Machine learning"
+        },
+        {
+          "rank": 4,
+          "score": 0.558426558971405,
+          "doc_id": "147",
+          "text": "A Survey of Topological Machine Learning Methods"
+        },
+        {
+          "rank": 5,
+          "score": 0.5275886058807373,
+          "doc_id": "225",
+          "text": "Speech Recognition using Machine Learning"
+        },
+        {
+          "rank": 6,
+          "score": 0.522864043712616,
+          "doc_id": "22",
+          "text": "Effective E-Learning Practices by Machine Learning and Artificial Intelligence"
+        },
+        {
+          "rank": 7,
+          "score": 0.5192956924438477,
+          "doc_id": "192",
+          "text": "USING MACHINE LEARNING METHODS IN CYBERSECURITY"
+        },
+        {
+          "rank": 8,
+          "score": 0.5166234970092773,
+          "doc_id": "88",
+          "text": "Machine learning on Big Data"
+        },
+        {
+          "rank": 9,
+          "score": 0.5159937143325806,
+          "doc_id": "125",
+          "text": "An overview of deep learning techniques"
+        },
+        {
+          "rank": 10,
+          "score": 0.5134423971176147,
+          "doc_id": "78",
+          "text": "Data learning from big data"
+        }
+      ]
+    },
+    {
+      "query": "지식 기반 스케줄링에서 시간적 적응을 구현하는 기계학습 방법들의 주요 특징은 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5727309584617615,
+          "doc_id": "128",
+          "text": "Machine learning-based adaptive CSI feedback interval"
+        },
+        {
+          "rank": 2,
+          "score": 0.5679644346237183,
+          "doc_id": "75",
+          "text": "MACHINE LEARNING"
+        },
+        {
+          "rank": 3,
+          "score": 0.5586116313934326,
+          "doc_id": "147",
+          "text": "A Survey of Topological Machine Learning Methods"
+        },
+        {
+          "rank": 4,
+          "score": 0.5580771565437317,
+          "doc_id": "202",
+          "text": "Machine learning"
+        },
+        {
+          "rank": 5,
+          "score": 0.5271308422088623,
+          "doc_id": "225",
+          "text": "Speech Recognition using Machine Learning"
+        },
+        {
+          "rank": 6,
+          "score": 0.5215884447097778,
+          "doc_id": "22",
+          "text": "Effective E-Learning Practices by Machine Learning and Artificial Intelligence"
+        },
+        {
+          "rank": 7,
+          "score": 0.5186280012130737,
+          "doc_id": "88",
+          "text": "Machine learning on Big Data"
+        },
+        {
+          "rank": 8,
+          "score": 0.5171948075294495,
+          "doc_id": "192",
+          "text": "USING MACHINE LEARNING METHODS IN CYBERSECURITY"
+        },
+        {
+          "rank": 9,
+          "score": 0.5163617730140686,
+          "doc_id": "125",
+          "text": "An overview of deep learning techniques"
+        },
+        {
+          "rank": 10,
+          "score": 0.5137002468109131,
+          "doc_id": "78",
+          "text": "Data learning from big data"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

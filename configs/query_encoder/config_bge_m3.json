@@ -9,5 +9,5 @@
   ],
   "output_dir": "../results/vectordb",
   "output_format": "csv",
-  "output_file": "../results/vectordb/250906_153020/bge_m3_test_title_abstract_BAAI_bge-m3.csv"
+  "output_file": "../results/vectordb/250907_085140/bge_m3_test_title_abstract_BAAI_bge-m3.csv"
 }

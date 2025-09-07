@@ -1,0 +1,291 @@
+{
+  "id": "row_000011",
+  "model_name": "BAAI/bge-m3",
+  "timestamp_kst": "2025-09-07T16:10:09.121637+09:00",
+  "trial_id": "ac77d79b",
+  "queries": [
+    {
+      "query": "How would you summarize the proposed enabling framework for achieving the second Sustainable Development Goal, emphasizing the role of data sharing and near real-time analytics?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6296882629394531,
+          "doc_id": "7",
+          "text": "Keynote speech 6: Big Data, IoT and the 2nd sustainable development goal"
+        },
+        {
+          "rank": 2,
+          "score": 0.5507314801216125,
+          "doc_id": "126",
+          "text": "Exploring Big Data Governance Frameworks"
+        },
+        {
+          "rank": 3,
+          "score": 0.5285668969154358,
+          "doc_id": "140",
+          "text": "Sharing Big Data"
+        },
+        {
+          "rank": 4,
+          "score": 0.5165199041366577,
+          "doc_id": "210",
+          "text": "Big Data, Big Waste? A Reflection on the Environmental Sustainability of Big Data Initiatives"
+        },
+        {
+          "rank": 5,
+          "score": 0.5141147375106812,
+          "doc_id": "199",
+          "text": "Sharing big biomedical data"
+        },
+        {
+          "rank": 6,
+          "score": 0.5123565196990967,
+          "doc_id": "34",
+          "text": "Supporting Privacy-Preserving Big Data Analytics on Temporal Open Big Data"
+        },
+        {
+          "rank": 7,
+          "score": 0.5085214376449585,
+          "doc_id": "35",
+          "text": "Big Data in der amtlichen Statistik"
+        },
+        {
+          "rank": 8,
+          "score": 0.5031501054763794,
+          "doc_id": "202",
+          "text": "Machine learning"
+        },
+        {
+          "rank": 9,
+          "score": 0.502688467502594,
+          "doc_id": "54",
+          "text": "Future trends of IT convergence"
+        },
+        {
+          "rank": 10,
+          "score": 0.5025138854980469,
+          "doc_id": "212",
+          "text": "Exploring Artificial Intelligence Futures"
+        }
+      ]
+    },
+    {
+      "query": "What is the proposed enabling framework for achieving the second Sustainable Development Goal?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5711637735366821,
+          "doc_id": "7",
+          "text": "Keynote speech 6: Big Data, IoT and the 2nd sustainable development goal"
+        },
+        {
+          "rank": 2,
+          "score": 0.4870428442955017,
+          "doc_id": "126",
+          "text": "Exploring Big Data Governance Frameworks"
+        },
+        {
+          "rank": 3,
+          "score": 0.45857685804367065,
+          "doc_id": "146",
+          "text": "미래 IT융합 신산업 육성 및 선도방안"
+        },
+        {
+          "rank": 4,
+          "score": 0.45836806297302246,
+          "doc_id": "54",
+          "text": "Future trends of IT convergence"
+        },
+        {
+          "rank": 5,
+          "score": 0.45823749899864197,
+          "doc_id": "211",
+          "text": "On exploring factors for enhancing export competitiveness in IT Convergence industries"
+        },
+        {
+          "rank": 6,
+          "score": 0.45162346959114075,
+          "doc_id": "212",
+          "text": "Exploring Artificial Intelligence Futures"
+        },
+        {
+          "rank": 7,
+          "score": 0.44738414883613586,
+          "doc_id": "202",
+          "text": "Machine learning"
+        },
+        {
+          "rank": 8,
+          "score": 0.4456302523612976,
+          "doc_id": "214",
+          "text": "An Efficient Parallel Machine Learning-based Blockchain Framework"
+        },
+        {
+          "rank": 9,
+          "score": 0.44529664516448975,
+          "doc_id": "26",
+          "text": "Design a personalized recommendation system using deep learning and reinforcement learning"
+        },
+        {
+          "rank": 10,
+          "score": 0.4439387917518616,
+          "doc_id": "144",
+          "text": "에너지 빅데이터를 수용하는 빅데이터 시스템 개발"
+        }
+      ]
+    },
+    {
+      "query": "What is the role of data sharing within this framework?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6220879554748535,
+          "doc_id": "140",
+          "text": "Sharing Big Data"
+        },
+        {
+          "rank": 2,
+          "score": 0.5923137664794922,
+          "doc_id": "199",
+          "text": "Sharing big biomedical data"
+        },
+        {
+          "rank": 3,
+          "score": 0.5735824704170227,
+          "doc_id": "126",
+          "text": "Exploring Big Data Governance Frameworks"
+        },
+        {
+          "rank": 4,
+          "score": 0.5024579167366028,
+          "doc_id": "78",
+          "text": "Data learning from big data"
+        },
+        {
+          "rank": 5,
+          "score": 0.4876658320426941,
+          "doc_id": "35",
+          "text": "Big Data in der amtlichen Statistik"
+        },
+        {
+          "rank": 6,
+          "score": 0.48204636573791504,
+          "doc_id": "34",
+          "text": "Supporting Privacy-Preserving Big Data Analytics on Temporal Open Big Data"
+        },
+        {
+          "rank": 7,
+          "score": 0.48158061504364014,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence"
+        },
+        {
+          "rank": 8,
+          "score": 0.4807295501232147,
+          "doc_id": "171",
+          "text": "Protecting Privacy in Big Data"
+        },
+        {
+          "rank": 9,
+          "score": 0.4799777865409851,
+          "doc_id": "71",
+          "text": "Compromise between Small Data and Big Data"
+        },
+        {
+          "rank": 10,
+          "score": 0.4767822027206421,
+          "doc_id": "88",
+          "text": "Machine learning on Big Data"
+        }
+      ]
+    },
+    {
+      "query": "What is the role of near real-time analytics within this framework?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 2
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5006792545318604,
+          "doc_id": "228",
+          "text": "항공분야의 인공지능"
+        },
+        {
+          "rank": 2,
+          "score": 0.496465265750885,
+          "doc_id": "212",
+          "text": "Exploring Artificial Intelligence Futures"
+        },
+        {
+          "rank": 3,
+          "score": 0.4960367679595947,
+          "doc_id": "34",
+          "text": "Supporting Privacy-Preserving Big Data Analytics on Temporal Open Big Data"
+        },
+        {
+          "rank": 4,
+          "score": 0.49512138962745667,
+          "doc_id": "121",
+          "text": "Deep Learning을 기반으로 한 Feature Extraction 알고리즘의 분석"
+        },
+        {
+          "rank": 5,
+          "score": 0.49327072501182556,
+          "doc_id": "104",
+          "text": "Deep learning"
+        },
+        {
+          "rank": 6,
+          "score": 0.4905349016189575,
+          "doc_id": "62",
+          "text": "Utilization and Analysis of Big-data"
+        },
+        {
+          "rank": 7,
+          "score": 0.4887124300003052,
+          "doc_id": "85",
+          "text": "Deep learning for radar"
+        },
+        {
+          "rank": 8,
+          "score": 0.48864418268203735,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence"
+        },
+        {
+          "rank": 9,
+          "score": 0.48859384655952454,
+          "doc_id": "202",
+          "text": "Machine learning"
+        },
+        {
+          "rank": 10,
+          "score": 0.4875360429286957,
+          "doc_id": "216",
+          "text": "A Study on Artificial Intelligence"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

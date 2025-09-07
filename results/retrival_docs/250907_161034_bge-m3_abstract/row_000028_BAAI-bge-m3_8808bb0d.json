@@ -1,0 +1,221 @@
+{
+  "id": "row_000028",
+  "model_name": "BAAI/bge-m3",
+  "timestamp_kst": "2025-09-07T16:10:38.740571+09:00",
+  "trial_id": "8808bb0d",
+  "queries": [
+    {
+      "query": "DBN 기반 딥 러닝을 이용한 기업부도 예측과 기존 SVM 방법 간의 성능 차이, 특히 부도기업 예측 민감도 향상 결과를 간단히 정리해 주실 수 있나요?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7331641316413879,
+          "doc_id": "31",
+          "text": "기업의 부도는 국가경제에 막대한 손실을 입히며, 해당기업의 이해관계자들 모두에게 경제적 손실을 초래하고 사회적 부를 감소시킨다. 따라서 기업의 부도를 좀 더 정확하게 예측하는 것은 사회적·경제적 측면에서 매우 중요한 연구라 할 수 있다. &amp;#xD; 이에 최근 이미지 인식, 음성 인식, 자연어 처리 등 여러 분야에서 우수한 예측력을 보여주고 있는 딥러닝(Deep Learning)을 기업부도예측에 이용하고자 하며, 본 논문에서는 기업부도예측 방법으로 여러 딥러닝 알고리즘 중 DBN(Deep Belief Network)을 제안한다. 기존에 사용되던 분석기법 대비 우수성을 확인하기 위해 최근까지 기업부도예측에서 연구되고 있는 SVM(Support Vector Machine)과 비교하고자 하였으며, 1999년부터 2015년 사이에 국내 코스닥·코스피에 상장된 비금융업의 기업데이터를 이용하였다. 건실기업의 수는 1669개, 부도기업의 수는 495개이며, 한국은행의 기업경영분석에서 소개된 재무비율 변수를 이용하여 분석을 진행하였다. 분석결과 DBN이 SVM보다 여러 평가척도에서 더 좋은 성능을 보였다. 특히 시험데이터에 대해 부도기업을 부도기업으로 예측하는 민감도에서 5%이상의 더 뛰어난 성능을 보였으며, 이에 기업부도예측분야에 딥러닝의 적용가능성을 확인해 볼 수 있었다."
+        },
+        {
+          "rank": 2,
+          "score": 0.553214430809021,
+          "doc_id": "13",
+          "text": "In recent years with continuous development of the computer vision field, there has been an increasing demand for fast and accurate recognition of human movement, especially in sports. This paper researches ballet movements, which are recognized and analyzed using a convolutional neural network (CNN) based on deep learning. Training of the CNN is improved by particle swarm optimization (PSO). Then, 1,000 ballet videos are used as a dataset to compare optimized CNN, traditional CNN, and support vector machine (SVM) methods. The results show that the improved CNN converged fastest, stabilizing after about five iterations, whereas the traditional CNN method took approximately 20 iterations to stabilize. Additionally, after convergence, error in the improved CNN was smaller than from the traditional CNN. The average recognition accuracy of the SVM method was 84.17%, with a recognition time of 3.32 seconds; for the traditional CNN method, it was 90.16% with a recognition time of 2.68 s; and for the improved CNN method, it was 95.66% with a recognition time of only 1.35 s."
+        },
+        {
+          "rank": 3,
+          "score": 0.5322507619857788,
+          "doc_id": "175",
+          "text": "딥 러닝(deep learning)은 최근에 많이 알려지게 된 심층 인공신경망 알고리즘이다. 일반적인 인공신경망보다 은닉층의 개수와 뉴런의 개수를 확장시키고, 학습이 효율적으로 될 수 있게 알고리즘을 개선한 것이 가장 큰 특징이다. 이러한 특징을 활용하여 기존의 인공신경망으로 풀지 못했던 크고 복잡한 문제들을 해결할 수 있게 되었다. 음성인식, 손 글씨 인식, 얼굴 인식 등 복잡한 패턴인식과 분류에 관련된 다양한 분야에 대한 적용 연구가 활발히 진행되고 있다. 하지만 이러한 장점에도 불구하고, 아직까지 딥 러닝이 제어문제를 해결하기 위해 적용된 사례는 찾아보기 어렵다. 본 논문에서는 간단한 사례를 통해 딥 러닝의 제어문제에 대한 적용 가능성을 확인해 본다. 딥 러닝 알고리즘 중에서 가장 잘 알려진, 깊은 믿음 네트워크(deep belief network) 알고리즘을 사용하여 산업현장에서 가장 많이 사용되고 있는 PID 제어기를 모방하는 딥 러닝 제어기를 설계한다. DC 모터를 제어하는 시스템에서 PID 제어기에 들어오는 입력과 PID 제어기에서 나오는 출력값을 학습 데이터로 사용하여 딥 러닝으로 학습하는 방법을 사용한다. 시뮬레이션을 통해 제안한 딥 러닝 제어기와 PID 제어기를 비교하여 딥 러닝 알고리즘의 성능을 검증한다."
+        },
+        {
+          "rank": 4,
+          "score": 0.5128821730613708,
+          "doc_id": "220",
+          "text": "인터넷의 발달과 휴대용 기기의 발달로 사용자들이 데이터를 생산하고, 공유하는 일들이 매우 자연스럽고 쉬운 일이 되었다. e-마켓플레스로 대변되는 온라인 쇼핑몰에서도 사용자들의 데이터 생산과 공유가 리뷰의 형식으로 활발하게 이루어지고 있다. 리뷰의 형식은 보통 정해진 형식이 없는 비 정형데이터인 텍스트와 제품에 대한 고객의 평점으로 이루어져있다. 이와 같이 형태로 적극적으로 공유된 정보들은 구매에 중요한 요소로 사용되고 있다. &amp;#xD; 본 논문에서는 이렇게 누적된 리뷰 데이터를 학습하여 고객의 평점을 예측하는 딥 러닝(Deep learning) 모델을 작성하고자 한다. 학습에 필요한 입력데이터 즉 고객의 특성에 관한 일반적인 정보는 쇼핑몰 내부에 있고, 개인 정보가 포함되어 있기 때문에 사용하기 어려운 문제점이 있다. 이를 극복하기 위해 리뷰 자체에서 고객의 특징(feature)을 추출하는 방법을 사용하였다. 비정형 리뷰 데이터에서 텍스트 마이닝 기법을 사용하여 정형화된 고객의 특징을 추출하였다.&amp;#xD; 실험 대상 제품은 11번가 쇼핑몰에서 하나의 화장품을 선정하였다. 최적의 딥 러닝 모델을 찾기 위하여 Drop-Out 및 Rectified Linear hidden Unite(ReLU)를 사용하며 결과를 평가하였다. 딥 러닝의 예측 결과는 고객 평점을 기반으로 하여 좋음, 보통, 나쁨 3가지를 출력 하도록 실험을 진행하였다. 실험을 통해 완성된 딥 러닝 모델이 출력하는 좋은, 보통, 나쁨 3가지 결과와 실제 고객이 입력 한 평점을 비교하였다. 실험 결과 90%의 정확도를 보였다."
+        },
+        {
+          "rank": 5,
+          "score": 0.4934834837913513,
+          "doc_id": "155",
+          "text": "At this current digital era, business platforms have been drastically shifted toward online stores on internet. With the internet-based platform, customers can order goods easily using their smart phones and get delivery at their place without going to the shopping mall. However, the drawback of this business platform is that customers do not really know about the quality of the products they ordered. Therefore, such platform service often provides the review section to let previous customers leave a review about the received product. The reviews are a good source to analyze customer's satisfaction. Business owners can assess review trend as either positive or negative based on a feedback score that customers had given, but it takes too much time for human to analyze this data. In this research, we develop computational models using machine learning techniques to classify product reviews as positive or negative based on the sentiment analysis. In our experiments, we use the book review data from amazon.com to develop the models. For a machine learning based strategy, the data had been transformed with the bag of word technique before developing models using logistic regression, na&iuml;ve bayes, support vector machine, and neural network algorithms. For a deep learning strategy, the word embedding is a technique that we used to transform data before applying the long short-term memory and gated recurrent unit techniques. On comparing performance of machine learning against deep learning models, we compare results from the two methods with both the preprocessed dataset and the non-preprocessed dataset. The result is that the bag of words with neural network outperforms other techniques on both non-preprocess and preprocess datasets."
+        },
+        {
+          "rank": 6,
+          "score": 0.48866817355155945,
+          "doc_id": "200",
+          "text": "본 논문에서는 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조를 개발한다. 제안하는 복합 미생물 배양기는 수집한 복합 미생물 데이터에 대해 복합 미생물 데이터 전처리, 복합 미생물 데이터 구조 변환, 딥러닝 네트워크 설계, 설계한 딥러닝 네트워크 학습, 시제품에 적용되는 GUI 개발 등으로 구성된다. 복합 미생물 데이터 전처리에서는 미생물 배양에 필요한 당밀, 영양제, 식물엑기스, 소금 등의 양에 대해 원-핫 인코딩을 실시하며, 배양된 결과로 측정된 pH 농도와 미생물의 셀 수에 대해 최대-최소 정규화 방법을 사용하여 데이터를 전처리한다. 복합 미생물 데이터 구조 변환에서는 전처리된 데이터를 물 온도와 미생물의 셀 수를 연결하여 그래프 구조로 변환 후, 인접 행렬과 속성 정보로 나타내어 딥러닝 네트워크의 입력 데이터로 사용한다. 딥러닝 네트워크 설계에서는 그래프 구조에 특화된 그래프 합성곱 네트워크를 설계하여 복합 미생물 데이터를 학습시킨다. 설계한 딥러닝 네트워크는 Cosine 손실함수를 사용하여 학습 시에 발생하는 오차를 최소화하는 방향으로 학습을 진행한다. 시제품에 적용되는 GUI 개발은 사용자가 선택하는 물 온도에 따라 목표하는 pH 농도(3.8 이하) 복합 미생물의 셀 수(108 이상)를 배양시키기 적합한 순으로 나타낸다. 제안된 미생물 배양기의 성능을 평가하기 위하여 공인시험기관에서 실험한 결과는, pH 농도의 경우 평균 3.7로, 복합 미생물의 셀 수는 1.7 &#x00D7; 108으로 측정되었다. 따라서, 본 논문에서 제안한 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조의 효용성이 입증되었다."
+        },
+        {
+          "rank": 7,
+          "score": 0.48632949590682983,
+          "doc_id": "195",
+          "text": "We present a contour recovery framework based on a deep learning model to connect broken contours (breaks) produced by contour detection methods. The idea is that the convolutional neural network iteratively predicts vectors that can grow along the direction of the true contour from the end points of the breaks. For this prediction, we use residual connections training, which models continuous predictions from the previous inference. However, conventional residual connections training is prone to gradually accumulating errors at each inference step. In this work, we propose a ground truth selection algorithm and sub-iteration training to efficiently and reliably train a deep learning model. The ground truth selection extracts a small set of coordinates to represent an actual contour. The sub-iteration training creates the next input that is predicted by additional training of a network replicated from the main network. Our experimental results demonstrate that the ground truth selection creates a ground truth suitable for contour recovery. Moreover, our approach improves the performance of contour detection when applied to the results of existing representative contour detection methods."
+        },
+        {
+          "rank": 8,
+          "score": 0.47222912311553955,
+          "doc_id": "10",
+          "text": "컴퓨터 비전은 어떤 영상에서 장면이나 특징을 인식하는 분야로 근본적인 목적은 입체를 인식하거나 영상 내의 객체를 인식, 또는 객체 간의 관계를 이해하는 것이다. 1982년 D. Marr의 “Vision”이 출간된 이후 생물학적 접근에 의한 비전 연구가 주목을 받기 시작하면서 인공신경망을 이용한 컴퓨터 비전 연구가 활발히 진행되었다. 이후 1998년 Yann LeCun 등이 Convolutional Neural Network의 구조를 제안하였고, 이것이 초기의 CNN 모델이다. 본격적으로 Deep Learning이라는 용어는 Geoffrey Hinton에 의해서 사용되었다. 2006년 Geoffrey Hinton은 기존 신경망의 문제점을 해결하기 위해 Unsupervised Learning을 적용하는 방법을 제안하였다. 또한 최근 GPU의 발전으로 기존의 학습 속도의 한계를 극복하였고, 각종 Social Network Service(SNS)가 활발해 짐에 따라 다양한 형태의 데이터를 활용할 수 있게 되었다. 본 연구은 딥 러닝 기술 중 컴퓨터 비전에서 대표적으로 사용하는 Convolutional Neural Network(CNN)를 적용하여 사람의 머리 포즈를 추정하고 얼굴 특징점을 정렬하는 방법을 구현한다. 머리 포즈를 추정하기 위해서 CNN 중 분류(Classification)기법을 사용하고 각 층(Layer)의 수를 3, 4, 5개의 비지도학습(Unsupervised Learning)과 2개의 지도학습( Supervised Learning)을 이용한 구성을 비교하여 실험한다. 또한 입력 데이터의 채널 및 데이터의 양과 입력 방법에 따른 결과를 비교, 분석한다. 얼굴 특징점을 정렬하기 위해서 계층구조(Hierarchical Structure)를 사용하고 각 특징의 상관관계를 포함하지 않는 패치(Patch)를 적용하는 방법을 구현한다. 머리 포즈 추정에 사용한 데이터베이스는 ICT-3DHP, Biwi, GI4E와 자체 제작한 DB로 총 36,000장의 데이터를 사용하여 학습 및 실험을 한다. 또한 얼굴 특징점 정렬에 사용한 데이터베이스는 AFLW 10,000장을 학습하고 5,000장을 테스트한다. 머리 포즈 추정 실험의 오류를 측정하는 방법으로 Mean Absolute Error(MAE)를 사용하여 비교하였으며, Roll, Pitch, Yaw의 MAE는 각각 0.78, 0.99, 1.40의 값을 얻었다. 또한 얼굴 특징점 정렬은 Mean Absolute Percent Error(MAPE)를 사용하여 오차를 계산하였다. 21개의 각각의 특징점 평균 오차 약 1.0으로 기존의 평균보다 뛰어난 성능을 보인다. 이는 기존의 POSIT으로 추정한 값과 달리 얼굴 특징점을 사용하지 않고 영상만을 보고 판단할 수 있는 컴퓨터 비전에서 궁극적 형태의 새로운 학습 모델을 제안한다."
+        },
+        {
+          "rank": 9,
+          "score": 0.4702552258968353,
+          "doc_id": "182",
+          "text": "Prediction of electricity demand in homes and buildings can be used to optimize an energy management system by decreasing energy wastage. A time-series prediction system is still a challenging problem in machine learning and deep learning. Our main idea is to compare three methods. For this work, we analyzed an electricity demand prediction system using the current state-of-the-art deep-learning methods with a machine-learning method: error correction with multi-layer perceptron (eMLP) structure, autoregressive integrated moving average (ARIMA) structure, and a proposed structure named CNN-LSTM. For this, we measured and collected electricity demand data in Germany for home appliances. We report the prediction accuracy in terms of the mean square error (MSE) and mean absolute percentage error (MAPE). The experimental result indicates that CNN-LSTM outperforms eMLP and ARIMA in accuracy."
+        },
+        {
+          "rank": 10,
+          "score": 0.46663233637809753,
+          "doc_id": "174",
+          "text": "Self-Imitation Learning은 간단한 비활성 정책 actor-critic 알고리즘으로써 에이전트가 과거의 좋은 경험을 활용하여 최적의 정책을 찾을 수 있도록 해준다. 그리고 actor-critic 구조를 갖는 강화학습 알고리즘에 결합되어 다양한 환경들에서 알고리즘의 상당한 개선을 보여주었다. 하지만 Self-Imitation Learning이 강화학습에 큰 도움을 준다고 하더라도 그 적용 분야는 actor-critic architecture를 가지는 강화학습 알고리즘으로 제한되어 있다. 본 논문에서 Self-Imitation Learning의 알고리즘을 가치 기반 강화학습 알고리즘인 DQN에 적용하는 방법을 제안하고, Self-Imitation Learning이 적용된 DQN 알고리즘의 학습을 다양한 환경에서 진행한다. 아울러 그 결과를 기존의 결과와 비교함으로써 Self-Imitation Leaning이 DQN에도 적용될 수 있으며 DQN의 성능을 개선할 수 있음을 보인다."
+        }
+      ]
+    },
+    {
+      "query": "기업부도 예측에서 DBN 기반 딥 러닝과 기존 SVM 방법 간의 전반적인 성능 차이는 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6656767129898071,
+          "doc_id": "31",
+          "text": "기업의 부도는 국가경제에 막대한 손실을 입히며, 해당기업의 이해관계자들 모두에게 경제적 손실을 초래하고 사회적 부를 감소시킨다. 따라서 기업의 부도를 좀 더 정확하게 예측하는 것은 사회적·경제적 측면에서 매우 중요한 연구라 할 수 있다. &amp;#xD; 이에 최근 이미지 인식, 음성 인식, 자연어 처리 등 여러 분야에서 우수한 예측력을 보여주고 있는 딥러닝(Deep Learning)을 기업부도예측에 이용하고자 하며, 본 논문에서는 기업부도예측 방법으로 여러 딥러닝 알고리즘 중 DBN(Deep Belief Network)을 제안한다. 기존에 사용되던 분석기법 대비 우수성을 확인하기 위해 최근까지 기업부도예측에서 연구되고 있는 SVM(Support Vector Machine)과 비교하고자 하였으며, 1999년부터 2015년 사이에 국내 코스닥·코스피에 상장된 비금융업의 기업데이터를 이용하였다. 건실기업의 수는 1669개, 부도기업의 수는 495개이며, 한국은행의 기업경영분석에서 소개된 재무비율 변수를 이용하여 분석을 진행하였다. 분석결과 DBN이 SVM보다 여러 평가척도에서 더 좋은 성능을 보였다. 특히 시험데이터에 대해 부도기업을 부도기업으로 예측하는 민감도에서 5%이상의 더 뛰어난 성능을 보였으며, 이에 기업부도예측분야에 딥러닝의 적용가능성을 확인해 볼 수 있었다."
+        },
+        {
+          "rank": 2,
+          "score": 0.5240792036056519,
+          "doc_id": "13",
+          "text": "In recent years with continuous development of the computer vision field, there has been an increasing demand for fast and accurate recognition of human movement, especially in sports. This paper researches ballet movements, which are recognized and analyzed using a convolutional neural network (CNN) based on deep learning. Training of the CNN is improved by particle swarm optimization (PSO). Then, 1,000 ballet videos are used as a dataset to compare optimized CNN, traditional CNN, and support vector machine (SVM) methods. The results show that the improved CNN converged fastest, stabilizing after about five iterations, whereas the traditional CNN method took approximately 20 iterations to stabilize. Additionally, after convergence, error in the improved CNN was smaller than from the traditional CNN. The average recognition accuracy of the SVM method was 84.17%, with a recognition time of 3.32 seconds; for the traditional CNN method, it was 90.16% with a recognition time of 2.68 s; and for the improved CNN method, it was 95.66% with a recognition time of only 1.35 s."
+        },
+        {
+          "rank": 3,
+          "score": 0.5020917654037476,
+          "doc_id": "175",
+          "text": "딥 러닝(deep learning)은 최근에 많이 알려지게 된 심층 인공신경망 알고리즘이다. 일반적인 인공신경망보다 은닉층의 개수와 뉴런의 개수를 확장시키고, 학습이 효율적으로 될 수 있게 알고리즘을 개선한 것이 가장 큰 특징이다. 이러한 특징을 활용하여 기존의 인공신경망으로 풀지 못했던 크고 복잡한 문제들을 해결할 수 있게 되었다. 음성인식, 손 글씨 인식, 얼굴 인식 등 복잡한 패턴인식과 분류에 관련된 다양한 분야에 대한 적용 연구가 활발히 진행되고 있다. 하지만 이러한 장점에도 불구하고, 아직까지 딥 러닝이 제어문제를 해결하기 위해 적용된 사례는 찾아보기 어렵다. 본 논문에서는 간단한 사례를 통해 딥 러닝의 제어문제에 대한 적용 가능성을 확인해 본다. 딥 러닝 알고리즘 중에서 가장 잘 알려진, 깊은 믿음 네트워크(deep belief network) 알고리즘을 사용하여 산업현장에서 가장 많이 사용되고 있는 PID 제어기를 모방하는 딥 러닝 제어기를 설계한다. DC 모터를 제어하는 시스템에서 PID 제어기에 들어오는 입력과 PID 제어기에서 나오는 출력값을 학습 데이터로 사용하여 딥 러닝으로 학습하는 방법을 사용한다. 시뮬레이션을 통해 제안한 딥 러닝 제어기와 PID 제어기를 비교하여 딥 러닝 알고리즘의 성능을 검증한다."
+        },
+        {
+          "rank": 4,
+          "score": 0.4805845320224762,
+          "doc_id": "220",
+          "text": "인터넷의 발달과 휴대용 기기의 발달로 사용자들이 데이터를 생산하고, 공유하는 일들이 매우 자연스럽고 쉬운 일이 되었다. e-마켓플레스로 대변되는 온라인 쇼핑몰에서도 사용자들의 데이터 생산과 공유가 리뷰의 형식으로 활발하게 이루어지고 있다. 리뷰의 형식은 보통 정해진 형식이 없는 비 정형데이터인 텍스트와 제품에 대한 고객의 평점으로 이루어져있다. 이와 같이 형태로 적극적으로 공유된 정보들은 구매에 중요한 요소로 사용되고 있다. &amp;#xD; 본 논문에서는 이렇게 누적된 리뷰 데이터를 학습하여 고객의 평점을 예측하는 딥 러닝(Deep learning) 모델을 작성하고자 한다. 학습에 필요한 입력데이터 즉 고객의 특성에 관한 일반적인 정보는 쇼핑몰 내부에 있고, 개인 정보가 포함되어 있기 때문에 사용하기 어려운 문제점이 있다. 이를 극복하기 위해 리뷰 자체에서 고객의 특징(feature)을 추출하는 방법을 사용하였다. 비정형 리뷰 데이터에서 텍스트 마이닝 기법을 사용하여 정형화된 고객의 특징을 추출하였다.&amp;#xD; 실험 대상 제품은 11번가 쇼핑몰에서 하나의 화장품을 선정하였다. 최적의 딥 러닝 모델을 찾기 위하여 Drop-Out 및 Rectified Linear hidden Unite(ReLU)를 사용하며 결과를 평가하였다. 딥 러닝의 예측 결과는 고객 평점을 기반으로 하여 좋음, 보통, 나쁨 3가지를 출력 하도록 실험을 진행하였다. 실험을 통해 완성된 딥 러닝 모델이 출력하는 좋은, 보통, 나쁨 3가지 결과와 실제 고객이 입력 한 평점을 비교하였다. 실험 결과 90%의 정확도를 보였다."
+        },
+        {
+          "rank": 5,
+          "score": 0.4736511707305908,
+          "doc_id": "155",
+          "text": "At this current digital era, business platforms have been drastically shifted toward online stores on internet. With the internet-based platform, customers can order goods easily using their smart phones and get delivery at their place without going to the shopping mall. However, the drawback of this business platform is that customers do not really know about the quality of the products they ordered. Therefore, such platform service often provides the review section to let previous customers leave a review about the received product. The reviews are a good source to analyze customer's satisfaction. Business owners can assess review trend as either positive or negative based on a feedback score that customers had given, but it takes too much time for human to analyze this data. In this research, we develop computational models using machine learning techniques to classify product reviews as positive or negative based on the sentiment analysis. In our experiments, we use the book review data from amazon.com to develop the models. For a machine learning based strategy, the data had been transformed with the bag of word technique before developing models using logistic regression, na&iuml;ve bayes, support vector machine, and neural network algorithms. For a deep learning strategy, the word embedding is a technique that we used to transform data before applying the long short-term memory and gated recurrent unit techniques. On comparing performance of machine learning against deep learning models, we compare results from the two methods with both the preprocessed dataset and the non-preprocessed dataset. The result is that the bag of words with neural network outperforms other techniques on both non-preprocess and preprocess datasets."
+        },
+        {
+          "rank": 6,
+          "score": 0.46463268995285034,
+          "doc_id": "50",
+          "text": "통신 기술의 발달로 인한 사람과 사람, 장치와 장치, 사람과 장치 간의 연결성의 증가와 저장 매체 기술의 발달, 그리고 데이터 저장 비용의 감소로 인해 데이터의 양이 폭발적으로 증가했다. 이에 따라 다양한 형태의 대규모의 데이터를 빠른 시간 내에 효율적으로 처리할 수 있는 Cloud Computing 기술이 주목 받고 있고, Cloud Computing을 위한 오픈소스 기반의 솔루션 또한 많이 나타나게 되었다. &amp;#xD; 2012년부터 주목받기 시작한 Deep Learning은 전 세계적으로 가장 많은 관심을 받는 연구 분야 중 하나이며, 이중 CNN(Convolution Neural Network)은 가장 대표적 알고리즘이다. Deep Learning은 미래사회를 이끌어갈 분야로 평가받고 있으며, 이에 따라 많은 연구들이 진행되고 있고, Deep Learning을 쉽게 활용할 수 있도록 하는 많은 프레임워크가 개발되었다. &amp;#xD; 이에 따라 많은 사람들이 쉽게 Deep Learning을 접할 수 있게 되었지만 특정 환경에서 어떤 프레임워크가 더 우수한 성능을 보이는지에 대한 연구는 부족한 실정이다. 본 논문에서는 특정 환경에서의 성능 비교가 부족하다는 기존 연구의 한계점을 개선하고자 가장 대표적인 Cloud Computing용 오픈소스 소프트웨어 중 하나인 OpenStack을 이용하여 Cloud Computing 환경에서 어떤 Deep Learning 프레임워크가 더 우수한 성능을 보이는지 비교해 보고자 한다."
+        },
+        {
+          "rank": 7,
+          "score": 0.45655155181884766,
+          "doc_id": "200",
+          "text": "본 논문에서는 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조를 개발한다. 제안하는 복합 미생물 배양기는 수집한 복합 미생물 데이터에 대해 복합 미생물 데이터 전처리, 복합 미생물 데이터 구조 변환, 딥러닝 네트워크 설계, 설계한 딥러닝 네트워크 학습, 시제품에 적용되는 GUI 개발 등으로 구성된다. 복합 미생물 데이터 전처리에서는 미생물 배양에 필요한 당밀, 영양제, 식물엑기스, 소금 등의 양에 대해 원-핫 인코딩을 실시하며, 배양된 결과로 측정된 pH 농도와 미생물의 셀 수에 대해 최대-최소 정규화 방법을 사용하여 데이터를 전처리한다. 복합 미생물 데이터 구조 변환에서는 전처리된 데이터를 물 온도와 미생물의 셀 수를 연결하여 그래프 구조로 변환 후, 인접 행렬과 속성 정보로 나타내어 딥러닝 네트워크의 입력 데이터로 사용한다. 딥러닝 네트워크 설계에서는 그래프 구조에 특화된 그래프 합성곱 네트워크를 설계하여 복합 미생물 데이터를 학습시킨다. 설계한 딥러닝 네트워크는 Cosine 손실함수를 사용하여 학습 시에 발생하는 오차를 최소화하는 방향으로 학습을 진행한다. 시제품에 적용되는 GUI 개발은 사용자가 선택하는 물 온도에 따라 목표하는 pH 농도(3.8 이하) 복합 미생물의 셀 수(108 이상)를 배양시키기 적합한 순으로 나타낸다. 제안된 미생물 배양기의 성능을 평가하기 위하여 공인시험기관에서 실험한 결과는, pH 농도의 경우 평균 3.7로, 복합 미생물의 셀 수는 1.7 &#x00D7; 108으로 측정되었다. 따라서, 본 논문에서 제안한 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조의 효용성이 입증되었다."
+        },
+        {
+          "rank": 8,
+          "score": 0.4550677239894867,
+          "doc_id": "182",
+          "text": "Prediction of electricity demand in homes and buildings can be used to optimize an energy management system by decreasing energy wastage. A time-series prediction system is still a challenging problem in machine learning and deep learning. Our main idea is to compare three methods. For this work, we analyzed an electricity demand prediction system using the current state-of-the-art deep-learning methods with a machine-learning method: error correction with multi-layer perceptron (eMLP) structure, autoregressive integrated moving average (ARIMA) structure, and a proposed structure named CNN-LSTM. For this, we measured and collected electricity demand data in Germany for home appliances. We report the prediction accuracy in terms of the mean square error (MSE) and mean absolute percentage error (MAPE). The experimental result indicates that CNN-LSTM outperforms eMLP and ARIMA in accuracy."
+        },
+        {
+          "rank": 9,
+          "score": 0.45377710461616516,
+          "doc_id": "10",
+          "text": "컴퓨터 비전은 어떤 영상에서 장면이나 특징을 인식하는 분야로 근본적인 목적은 입체를 인식하거나 영상 내의 객체를 인식, 또는 객체 간의 관계를 이해하는 것이다. 1982년 D. Marr의 “Vision”이 출간된 이후 생물학적 접근에 의한 비전 연구가 주목을 받기 시작하면서 인공신경망을 이용한 컴퓨터 비전 연구가 활발히 진행되었다. 이후 1998년 Yann LeCun 등이 Convolutional Neural Network의 구조를 제안하였고, 이것이 초기의 CNN 모델이다. 본격적으로 Deep Learning이라는 용어는 Geoffrey Hinton에 의해서 사용되었다. 2006년 Geoffrey Hinton은 기존 신경망의 문제점을 해결하기 위해 Unsupervised Learning을 적용하는 방법을 제안하였다. 또한 최근 GPU의 발전으로 기존의 학습 속도의 한계를 극복하였고, 각종 Social Network Service(SNS)가 활발해 짐에 따라 다양한 형태의 데이터를 활용할 수 있게 되었다. 본 연구은 딥 러닝 기술 중 컴퓨터 비전에서 대표적으로 사용하는 Convolutional Neural Network(CNN)를 적용하여 사람의 머리 포즈를 추정하고 얼굴 특징점을 정렬하는 방법을 구현한다. 머리 포즈를 추정하기 위해서 CNN 중 분류(Classification)기법을 사용하고 각 층(Layer)의 수를 3, 4, 5개의 비지도학습(Unsupervised Learning)과 2개의 지도학습( Supervised Learning)을 이용한 구성을 비교하여 실험한다. 또한 입력 데이터의 채널 및 데이터의 양과 입력 방법에 따른 결과를 비교, 분석한다. 얼굴 특징점을 정렬하기 위해서 계층구조(Hierarchical Structure)를 사용하고 각 특징의 상관관계를 포함하지 않는 패치(Patch)를 적용하는 방법을 구현한다. 머리 포즈 추정에 사용한 데이터베이스는 ICT-3DHP, Biwi, GI4E와 자체 제작한 DB로 총 36,000장의 데이터를 사용하여 학습 및 실험을 한다. 또한 얼굴 특징점 정렬에 사용한 데이터베이스는 AFLW 10,000장을 학습하고 5,000장을 테스트한다. 머리 포즈 추정 실험의 오류를 측정하는 방법으로 Mean Absolute Error(MAE)를 사용하여 비교하였으며, Roll, Pitch, Yaw의 MAE는 각각 0.78, 0.99, 1.40의 값을 얻었다. 또한 얼굴 특징점 정렬은 Mean Absolute Percent Error(MAPE)를 사용하여 오차를 계산하였다. 21개의 각각의 특징점 평균 오차 약 1.0으로 기존의 평균보다 뛰어난 성능을 보인다. 이는 기존의 POSIT으로 추정한 값과 달리 얼굴 특징점을 사용하지 않고 영상만을 보고 판단할 수 있는 컴퓨터 비전에서 궁극적 형태의 새로운 학습 모델을 제안한다."
+        },
+        {
+          "rank": 10,
+          "score": 0.45368850231170654,
+          "doc_id": "174",
+          "text": "Self-Imitation Learning은 간단한 비활성 정책 actor-critic 알고리즘으로써 에이전트가 과거의 좋은 경험을 활용하여 최적의 정책을 찾을 수 있도록 해준다. 그리고 actor-critic 구조를 갖는 강화학습 알고리즘에 결합되어 다양한 환경들에서 알고리즘의 상당한 개선을 보여주었다. 하지만 Self-Imitation Learning이 강화학습에 큰 도움을 준다고 하더라도 그 적용 분야는 actor-critic architecture를 가지는 강화학습 알고리즘으로 제한되어 있다. 본 논문에서 Self-Imitation Learning의 알고리즘을 가치 기반 강화학습 알고리즘인 DQN에 적용하는 방법을 제안하고, Self-Imitation Learning이 적용된 DQN 알고리즘의 학습을 다양한 환경에서 진행한다. 아울러 그 결과를 기존의 결과와 비교함으로써 Self-Imitation Leaning이 DQN에도 적용될 수 있으며 DQN의 성능을 개선할 수 있음을 보인다."
+        }
+      ]
+    },
+    {
+      "query": "DBN 기반 딥 러닝이 기존 SVM 방법에 비해 부도기업 예측 민감도 측면에서 어떤 향상 결과를 보였나요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7003010511398315,
+          "doc_id": "31",
+          "text": "기업의 부도는 국가경제에 막대한 손실을 입히며, 해당기업의 이해관계자들 모두에게 경제적 손실을 초래하고 사회적 부를 감소시킨다. 따라서 기업의 부도를 좀 더 정확하게 예측하는 것은 사회적·경제적 측면에서 매우 중요한 연구라 할 수 있다. &amp;#xD; 이에 최근 이미지 인식, 음성 인식, 자연어 처리 등 여러 분야에서 우수한 예측력을 보여주고 있는 딥러닝(Deep Learning)을 기업부도예측에 이용하고자 하며, 본 논문에서는 기업부도예측 방법으로 여러 딥러닝 알고리즘 중 DBN(Deep Belief Network)을 제안한다. 기존에 사용되던 분석기법 대비 우수성을 확인하기 위해 최근까지 기업부도예측에서 연구되고 있는 SVM(Support Vector Machine)과 비교하고자 하였으며, 1999년부터 2015년 사이에 국내 코스닥·코스피에 상장된 비금융업의 기업데이터를 이용하였다. 건실기업의 수는 1669개, 부도기업의 수는 495개이며, 한국은행의 기업경영분석에서 소개된 재무비율 변수를 이용하여 분석을 진행하였다. 분석결과 DBN이 SVM보다 여러 평가척도에서 더 좋은 성능을 보였다. 특히 시험데이터에 대해 부도기업을 부도기업으로 예측하는 민감도에서 5%이상의 더 뛰어난 성능을 보였으며, 이에 기업부도예측분야에 딥러닝의 적용가능성을 확인해 볼 수 있었다."
+        },
+        {
+          "rank": 2,
+          "score": 0.5457445979118347,
+          "doc_id": "13",
+          "text": "In recent years with continuous development of the computer vision field, there has been an increasing demand for fast and accurate recognition of human movement, especially in sports. This paper researches ballet movements, which are recognized and analyzed using a convolutional neural network (CNN) based on deep learning. Training of the CNN is improved by particle swarm optimization (PSO). Then, 1,000 ballet videos are used as a dataset to compare optimized CNN, traditional CNN, and support vector machine (SVM) methods. The results show that the improved CNN converged fastest, stabilizing after about five iterations, whereas the traditional CNN method took approximately 20 iterations to stabilize. Additionally, after convergence, error in the improved CNN was smaller than from the traditional CNN. The average recognition accuracy of the SVM method was 84.17%, with a recognition time of 3.32 seconds; for the traditional CNN method, it was 90.16% with a recognition time of 2.68 s; and for the improved CNN method, it was 95.66% with a recognition time of only 1.35 s."
+        },
+        {
+          "rank": 3,
+          "score": 0.515046238899231,
+          "doc_id": "175",
+          "text": "딥 러닝(deep learning)은 최근에 많이 알려지게 된 심층 인공신경망 알고리즘이다. 일반적인 인공신경망보다 은닉층의 개수와 뉴런의 개수를 확장시키고, 학습이 효율적으로 될 수 있게 알고리즘을 개선한 것이 가장 큰 특징이다. 이러한 특징을 활용하여 기존의 인공신경망으로 풀지 못했던 크고 복잡한 문제들을 해결할 수 있게 되었다. 음성인식, 손 글씨 인식, 얼굴 인식 등 복잡한 패턴인식과 분류에 관련된 다양한 분야에 대한 적용 연구가 활발히 진행되고 있다. 하지만 이러한 장점에도 불구하고, 아직까지 딥 러닝이 제어문제를 해결하기 위해 적용된 사례는 찾아보기 어렵다. 본 논문에서는 간단한 사례를 통해 딥 러닝의 제어문제에 대한 적용 가능성을 확인해 본다. 딥 러닝 알고리즘 중에서 가장 잘 알려진, 깊은 믿음 네트워크(deep belief network) 알고리즘을 사용하여 산업현장에서 가장 많이 사용되고 있는 PID 제어기를 모방하는 딥 러닝 제어기를 설계한다. DC 모터를 제어하는 시스템에서 PID 제어기에 들어오는 입력과 PID 제어기에서 나오는 출력값을 학습 데이터로 사용하여 딥 러닝으로 학습하는 방법을 사용한다. 시뮬레이션을 통해 제안한 딥 러닝 제어기와 PID 제어기를 비교하여 딥 러닝 알고리즘의 성능을 검증한다."
+        },
+        {
+          "rank": 4,
+          "score": 0.4843370318412781,
+          "doc_id": "220",
+          "text": "인터넷의 발달과 휴대용 기기의 발달로 사용자들이 데이터를 생산하고, 공유하는 일들이 매우 자연스럽고 쉬운 일이 되었다. e-마켓플레스로 대변되는 온라인 쇼핑몰에서도 사용자들의 데이터 생산과 공유가 리뷰의 형식으로 활발하게 이루어지고 있다. 리뷰의 형식은 보통 정해진 형식이 없는 비 정형데이터인 텍스트와 제품에 대한 고객의 평점으로 이루어져있다. 이와 같이 형태로 적극적으로 공유된 정보들은 구매에 중요한 요소로 사용되고 있다. &amp;#xD; 본 논문에서는 이렇게 누적된 리뷰 데이터를 학습하여 고객의 평점을 예측하는 딥 러닝(Deep learning) 모델을 작성하고자 한다. 학습에 필요한 입력데이터 즉 고객의 특성에 관한 일반적인 정보는 쇼핑몰 내부에 있고, 개인 정보가 포함되어 있기 때문에 사용하기 어려운 문제점이 있다. 이를 극복하기 위해 리뷰 자체에서 고객의 특징(feature)을 추출하는 방법을 사용하였다. 비정형 리뷰 데이터에서 텍스트 마이닝 기법을 사용하여 정형화된 고객의 특징을 추출하였다.&amp;#xD; 실험 대상 제품은 11번가 쇼핑몰에서 하나의 화장품을 선정하였다. 최적의 딥 러닝 모델을 찾기 위하여 Drop-Out 및 Rectified Linear hidden Unite(ReLU)를 사용하며 결과를 평가하였다. 딥 러닝의 예측 결과는 고객 평점을 기반으로 하여 좋음, 보통, 나쁨 3가지를 출력 하도록 실험을 진행하였다. 실험을 통해 완성된 딥 러닝 모델이 출력하는 좋은, 보통, 나쁨 3가지 결과와 실제 고객이 입력 한 평점을 비교하였다. 실험 결과 90%의 정확도를 보였다."
+        },
+        {
+          "rank": 5,
+          "score": 0.47663724422454834,
+          "doc_id": "195",
+          "text": "We present a contour recovery framework based on a deep learning model to connect broken contours (breaks) produced by contour detection methods. The idea is that the convolutional neural network iteratively predicts vectors that can grow along the direction of the true contour from the end points of the breaks. For this prediction, we use residual connections training, which models continuous predictions from the previous inference. However, conventional residual connections training is prone to gradually accumulating errors at each inference step. In this work, we propose a ground truth selection algorithm and sub-iteration training to efficiently and reliably train a deep learning model. The ground truth selection extracts a small set of coordinates to represent an actual contour. The sub-iteration training creates the next input that is predicted by additional training of a network replicated from the main network. Our experimental results demonstrate that the ground truth selection creates a ground truth suitable for contour recovery. Moreover, our approach improves the performance of contour detection when applied to the results of existing representative contour detection methods."
+        },
+        {
+          "rank": 6,
+          "score": 0.47199225425720215,
+          "doc_id": "155",
+          "text": "At this current digital era, business platforms have been drastically shifted toward online stores on internet. With the internet-based platform, customers can order goods easily using their smart phones and get delivery at their place without going to the shopping mall. However, the drawback of this business platform is that customers do not really know about the quality of the products they ordered. Therefore, such platform service often provides the review section to let previous customers leave a review about the received product. The reviews are a good source to analyze customer's satisfaction. Business owners can assess review trend as either positive or negative based on a feedback score that customers had given, but it takes too much time for human to analyze this data. In this research, we develop computational models using machine learning techniques to classify product reviews as positive or negative based on the sentiment analysis. In our experiments, we use the book review data from amazon.com to develop the models. For a machine learning based strategy, the data had been transformed with the bag of word technique before developing models using logistic regression, na&iuml;ve bayes, support vector machine, and neural network algorithms. For a deep learning strategy, the word embedding is a technique that we used to transform data before applying the long short-term memory and gated recurrent unit techniques. On comparing performance of machine learning against deep learning models, we compare results from the two methods with both the preprocessed dataset and the non-preprocessed dataset. The result is that the bag of words with neural network outperforms other techniques on both non-preprocess and preprocess datasets."
+        },
+        {
+          "rank": 7,
+          "score": 0.4663867950439453,
+          "doc_id": "10",
+          "text": "컴퓨터 비전은 어떤 영상에서 장면이나 특징을 인식하는 분야로 근본적인 목적은 입체를 인식하거나 영상 내의 객체를 인식, 또는 객체 간의 관계를 이해하는 것이다. 1982년 D. Marr의 “Vision”이 출간된 이후 생물학적 접근에 의한 비전 연구가 주목을 받기 시작하면서 인공신경망을 이용한 컴퓨터 비전 연구가 활발히 진행되었다. 이후 1998년 Yann LeCun 등이 Convolutional Neural Network의 구조를 제안하였고, 이것이 초기의 CNN 모델이다. 본격적으로 Deep Learning이라는 용어는 Geoffrey Hinton에 의해서 사용되었다. 2006년 Geoffrey Hinton은 기존 신경망의 문제점을 해결하기 위해 Unsupervised Learning을 적용하는 방법을 제안하였다. 또한 최근 GPU의 발전으로 기존의 학습 속도의 한계를 극복하였고, 각종 Social Network Service(SNS)가 활발해 짐에 따라 다양한 형태의 데이터를 활용할 수 있게 되었다. 본 연구은 딥 러닝 기술 중 컴퓨터 비전에서 대표적으로 사용하는 Convolutional Neural Network(CNN)를 적용하여 사람의 머리 포즈를 추정하고 얼굴 특징점을 정렬하는 방법을 구현한다. 머리 포즈를 추정하기 위해서 CNN 중 분류(Classification)기법을 사용하고 각 층(Layer)의 수를 3, 4, 5개의 비지도학습(Unsupervised Learning)과 2개의 지도학습( Supervised Learning)을 이용한 구성을 비교하여 실험한다. 또한 입력 데이터의 채널 및 데이터의 양과 입력 방법에 따른 결과를 비교, 분석한다. 얼굴 특징점을 정렬하기 위해서 계층구조(Hierarchical Structure)를 사용하고 각 특징의 상관관계를 포함하지 않는 패치(Patch)를 적용하는 방법을 구현한다. 머리 포즈 추정에 사용한 데이터베이스는 ICT-3DHP, Biwi, GI4E와 자체 제작한 DB로 총 36,000장의 데이터를 사용하여 학습 및 실험을 한다. 또한 얼굴 특징점 정렬에 사용한 데이터베이스는 AFLW 10,000장을 학습하고 5,000장을 테스트한다. 머리 포즈 추정 실험의 오류를 측정하는 방법으로 Mean Absolute Error(MAE)를 사용하여 비교하였으며, Roll, Pitch, Yaw의 MAE는 각각 0.78, 0.99, 1.40의 값을 얻었다. 또한 얼굴 특징점 정렬은 Mean Absolute Percent Error(MAPE)를 사용하여 오차를 계산하였다. 21개의 각각의 특징점 평균 오차 약 1.0으로 기존의 평균보다 뛰어난 성능을 보인다. 이는 기존의 POSIT으로 추정한 값과 달리 얼굴 특징점을 사용하지 않고 영상만을 보고 판단할 수 있는 컴퓨터 비전에서 궁극적 형태의 새로운 학습 모델을 제안한다."
+        },
+        {
+          "rank": 8,
+          "score": 0.4657323658466339,
+          "doc_id": "200",
+          "text": "본 논문에서는 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조를 개발한다. 제안하는 복합 미생물 배양기는 수집한 복합 미생물 데이터에 대해 복합 미생물 데이터 전처리, 복합 미생물 데이터 구조 변환, 딥러닝 네트워크 설계, 설계한 딥러닝 네트워크 학습, 시제품에 적용되는 GUI 개발 등으로 구성된다. 복합 미생물 데이터 전처리에서는 미생물 배양에 필요한 당밀, 영양제, 식물엑기스, 소금 등의 양에 대해 원-핫 인코딩을 실시하며, 배양된 결과로 측정된 pH 농도와 미생물의 셀 수에 대해 최대-최소 정규화 방법을 사용하여 데이터를 전처리한다. 복합 미생물 데이터 구조 변환에서는 전처리된 데이터를 물 온도와 미생물의 셀 수를 연결하여 그래프 구조로 변환 후, 인접 행렬과 속성 정보로 나타내어 딥러닝 네트워크의 입력 데이터로 사용한다. 딥러닝 네트워크 설계에서는 그래프 구조에 특화된 그래프 합성곱 네트워크를 설계하여 복합 미생물 데이터를 학습시킨다. 설계한 딥러닝 네트워크는 Cosine 손실함수를 사용하여 학습 시에 발생하는 오차를 최소화하는 방향으로 학습을 진행한다. 시제품에 적용되는 GUI 개발은 사용자가 선택하는 물 온도에 따라 목표하는 pH 농도(3.8 이하) 복합 미생물의 셀 수(108 이상)를 배양시키기 적합한 순으로 나타낸다. 제안된 미생물 배양기의 성능을 평가하기 위하여 공인시험기관에서 실험한 결과는, pH 농도의 경우 평균 3.7로, 복합 미생물의 셀 수는 1.7 &#x00D7; 108으로 측정되었다. 따라서, 본 논문에서 제안한 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조의 효용성이 입증되었다."
+        },
+        {
+          "rank": 9,
+          "score": 0.46413934230804443,
+          "doc_id": "102",
+          "text": "Artificial intelligence and deep learning algorithms are infiltrating various fields of medicine and dentistry. The purpose of the current study was to review literatures applying deep learning algorithms to the dentistry and implantology. Electronic literature search through MEDLINE and IEEE Xplore library database was performed at 2019 October by combining free-text terms and entry terms associated with ‘dentistry’ and ‘deep learning’. The searched literature was screened by title/abstract level and full text level. Following data were extracted from the included studies: information of author, publication year, the aim of the study, architecture of deep learning, input data, output data, and performance of the deep learning algorithm in the study. 340 studies were retrieved from the databases and 62 studies were included in the study. Deep learning algorithms were applied to tooth localization and numbering, detection of dental caries/periodontal disease/periapical disease/oral cancerous lesion, localization of cephalometric landmarks, image quality enhancement, prediction and compensation of deformation error in additive manufacturing of prosthesis. Convolutional neural network was used for periapical radiograph, panoramic radiograph, or computed tomography in most of included studies. Deep learning algorithms are expected to help clinicians diagnose and make decisions by extracting dental data, detecting diseases and abnormal lesions, and improving image quality."
+        },
+        {
+          "rank": 10,
+          "score": 0.4626874327659607,
+          "doc_id": "33",
+          "text": "Incidents on the freeway disrupt traffic flow and the cost of delay caused by incidents is significant. To reduce the impact of an incident, a traffic management center needs to quickly detect and remove it from the freeway. Quick and efficient automatic incident detection has been a main goal of the transportation research for many years. Also many algorithms based on loop detector data have been developed and tested for the Automatic Incident Detection(AID). However, many of them have a limited success in their overall performance in terms of detection rate, false alarm rate, and the mean time to detect an incident. Until recently, the neural network models have been the one of the popular and efficient approach for real-time automatic incident detection and many researches have shown that the neural network models were much more efficient than various other previous models. The purpose of this research is to propose a more efficient and accurate model than the neural network model in the automatic incident detection problem. For this purpose, a machine learning model, Support Vector Machine (SVM) learning which is based on the statistical learning theory, has been used in this paper. The experiments have been done with real world freeway data, and the results show that the SVM could provide better performance in terms of DR(Detection Rate) and FAR(False Alarm Rate) than Backpropagation which is the most popular neural network model."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

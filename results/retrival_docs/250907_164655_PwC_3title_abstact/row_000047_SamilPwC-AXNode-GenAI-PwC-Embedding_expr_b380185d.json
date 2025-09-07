@@ -1,0 +1,221 @@
+{
+  "id": "row_000047",
+  "model_name": "SamilPwC-AXNode-GenAI/PwC-Embedding_expr",
+  "timestamp_kst": "2025-09-07T16:47:03.845772+09:00",
+  "trial_id": "b380185d",
+  "queries": [
+    {
+      "query": "지식 기반 스케줄링에서 공간적·시간적 적응을 구현하는 기계학습 방법들의 주요 특징을 요약해 주실 수 있나요?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6316361427307129,
+          "doc_id": "123",
+          "text": "딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝은 인공신경망(neural network)이라는 인공지능분야의 모형이 발전된 형태로서, 계층구조로 이루어진 인공신경망의 내부계층(hidden layer)이 여러 단계로 이루어진 구조이다. 딥러닝에서의 주요 모형은 합성곱신경망(convolutional neural network), 순환신경망(recurrent neural network), 그리고 심층신뢰신경망(deep belief network)의 세가지라고 할 수 있다. 그 중에서 현재 흥미로운 연구가 많이 발표되어서 관심이 집중되고 있는 모형은 지도학습(supervised learning)모형인 처음 두 개의 모형이다. 따라서 본 논문에서는 지도학습모형의 가중치를 최적화하는 기본적인 방법인 오류역전파 알고리즘을 살펴본 뒤에 합성곱신경망과 순환신경망의 구조와 응용사례 등을 살펴보고자 한다. 본문에서 다루지 않은 모형인 심층신뢰신경망은 아직까지는 합성곱신경망 이나 순환신경망보다는 상대적으로 주목을 덜 받고 있다. 그러나 심층신뢰신경망은 CNN이나 RNN과는 달리 비지도학습(unsupervised learning)모형이며, 사람이나 동물은 관찰을 통해서 스스로 학습한다는 점에서 궁극적으로는 비지도학습모형이 더 많이 연구되어야 할 주제가 될 것이다."
+        },
+        {
+          "rank": 2,
+          "score": 0.6192030906677246,
+          "doc_id": "22",
+          "text": "Effective E-Learning Practices by Machine Learning and Artificial Intelligence Effective E-Learning Practices by Machine Learning and Artificial Intelligence Effective E-Learning Practices by Machine Learning and Artificial Intelligence This is an extended research paper focusing on the applications of Machine Learing and Artificial Intelligence in virtual learning environment. The world is moving at a fast pace having the application of Machine Learning (ML) and Artificial Intelligence (AI) in all the major disciplines and the educational sector is also not untouched by its impact especially in an online learning environment. This paper attempts to elaborate on the benefits of ML and AI in E-Learning (EL) in general and explain how King Khalid University (KKU) EL Deanship is making the best of ML and AI in its practices. Also, researchers have focused on the future of ML and AI in any academic program. This research is descriptive in nature; results are based on qualitative analysis done through tools and techniques of EL applied in KKU as an example but the same modus operandi can be implemented by any institution in its EL platform. KKU is using Learning Management Services (LMS) for providing online learning practices and Blackboard (BB) for sharing online learning resources, therefore these tools are considered by the researchers for explaining the results of ML and AI."
+        },
+        {
+          "rank": 3,
+          "score": 0.6158998012542725,
+          "doc_id": "125",
+          "text": "An overview of deep learning techniques An overview of deep learning techniques An overview of deep learning techniques ZusammenfassungDeep Learning ist der Ansatz, der die k&uuml;nstliche Intelligenz innerhalb weniger Jahre tiefgreifend ver&auml;ndert hat. Auch wenn sie durch verschiedene algorithmische Fortschritte begleitet wird, ist diese Technik vor allem aus Anwendungssicht &#x201e;disruptiv“: Sie verschiebt die Grenze automatisierbarer Aufgaben betr&auml;chtlich, ver&auml;ndert die Art der Produktentwicklung und steht praktisch jedermann zur Verf&uuml;gung. Gegenstand des Deep Learning sind neuronale Netze mit einer großen Anzahl von Schichten. Verglichen mit fr&uuml;heren Ans&auml;tzen mit idealerweise einer einzigen Schicht, erlaubt dies den Einsatz massiver Rechenhardware, um Black-Box-Modelle mit einem Minimum an Entwicklungsaufwand direkt aus Rohdaten zu trainieren. Die meisten erfolgreichen Anwendungen finden sich in der Auswertung visueller Bilder, aber auch in der Audio- und Text-Modellierung."
+        },
+        {
+          "rank": 4,
+          "score": 0.6113177537918091,
+          "doc_id": "186",
+          "text": "Deep Semi-Supervised Learning 기반 컴퓨터 보조 진단 방법론 Deep Semi-Supervised Learning 기반 컴퓨터 보조 진단 방법론 Deep Semi-Supervised Learning 기반 컴퓨터 보조 진단 방법론 Medical image applications 분야는 가장 인기 있으며 적극적으로 연구되는 현대 Machine Learning 및 Deep Learning applications 중 하나의 분야로 부상되고 있다. Medical image analysis는 환자의 신체 영상의 획득과 의료 전문가의 진단 및 분석을 목적으로 한다. 여러 Machine Learning 방법론을 사용하면 다양한 질병을 진단할 수 있게 된다. 하지만, 보다 효율적이며 강인한 모델을 설계하기 위해서는 Label이 지정된 데이터 샘플이 필요하게 된다. &amp;#xD; 따라서, Label이 지정되지 않은 데이터를 활용하여 모델의 성능을 향상시키는 Medical image 분야에서 semi-supervised Learning의 연구가 활발히 이루어지고 있다. 본 연구에서는 2D 초음파 영상(CADe)와 KL-grade 무릎 방사선사(CADx) 분류에서 유방 병변 Segmentation을 위한 딥러닝 기술을 사용하여 Medical image analysis에서 개선된 Semi-Supervised CAD 시스템을 제안하였다. 본 논문에서는 residual 및 attention block을 통합한 residual-attention-based uncertainty-guided mean teacher framework를 제안한다. 높은 수준의 feature와 attention module의 flow를 가능하게 하여 deep network를 최적화하기 위한 residual은 학습 과정 중에서 가중치를 최적화하기 위해 모델의 focus를 향상시킨다. &amp;#xD; 또한, 본 논문에서는 semi-supervised 학습 방법을 사용하여 학습 과정에서 label이 지정되지 않은 데이터를 활용할 수 있는 가능성을 탐구한다. 특히, uncertainty-guided mean-teacher-student 구조를 활용하여 residual attention U-Net 모델의 학습 중 label이 지정되지 않은 샘플을 통합할 수 있는 가능성을 입증하였다. &amp;#xD; 따라서, label이 지정되지 않은 추가 데이터를 unsupervised 및 supervised 방식으로 활용할 수있는 semi-supervised multitask learning-based 학습 기반 접근 방식을 개발하였다. 구체적으로, 이 과정은 reconstruction에 대해서만 unsupervised 된 상태에서 먼저 학습된 dual-channel adversarial autoencoder를 제안한다. 본 연구는 supervised 방식으로 추가 데이터를 활용하기 위해 auxilary task를 도입하여 multi-task learning framework를 제안한다. 특히, leg side의 식별은 auxilary task로 사용되므로 CHECK 데이터셋과 같은 더 많은 데이터셋을 사용할 수 있게 된다. 따라서, 추가 데이터의 활용이 소수의 label된 데이터만 사용할 수 있는 KL-grade 분류에서 main task의 성능을 향상시킬 수 있음을 보여준다. &amp;#xD; 다양한 측면, 즉 전반적인 성능, label이 지정되지 않은 추가 샘플 및 auxiliary task의 효과, 강인한 분석 등에 대해 공개적으로 사용 가능한 두 개의 가장 큰 데이터셋에 대해 제안된 모델을 평가하였다. 제안된 모델은 각각 75.52%, 78.48%, 75.34%의 Accuracy, Recall, F1-Score를 달성하였다."
+        },
+        {
+          "rank": 5,
+          "score": 0.6107315421104431,
+          "doc_id": "147",
+          "text": "A Survey of Topological Machine Learning Methods A Survey of Topological Machine Learning Methods A Survey of Topological Machine Learning Methods The last decade saw an enormous boost in the field of computational topology: methods and concepts from algebraic and differential topology, formerly confined to the realm of pure mathematics, have demonstrated their utility in numerous areas such as computational biology personalised medicine, and time-dependent data analysis, to name a few. The newly-emerging domain comprising topology-based techniques is often referred to as topological data analysis (TDA). Next to their applications in the aforementioned areas, TDA methods have also proven to be effective in supporting, enhancing, and augmenting both classical machine learning and deep learning models. In this paper, we review the state of the art of a nascent field we refer to as &ldquo;topological machine learning,&rdquo; i.e., the successful symbiosis of topology-based methods and machine learning algorithms, such as deep neural networks. We identify common threads, current applications, and future challenges."
+        },
+        {
+          "rank": 6,
+          "score": 0.6055727005004883,
+          "doc_id": "33",
+          "text": "Machine Learning을 이용한 자동 돌발상황검지 Machine Learning을 이용한 자동 돌발상황검지 Machine Learning을 이용한 자동 돌발상황검지 Incidents on the freeway disrupt traffic flow and the cost of delay caused by incidents is significant. To reduce the impact of an incident, a traffic management center needs to quickly detect and remove it from the freeway. Quick and efficient automatic incident detection has been a main goal of the transportation research for many years. Also many algorithms based on loop detector data have been developed and tested for the Automatic Incident Detection(AID). However, many of them have a limited success in their overall performance in terms of detection rate, false alarm rate, and the mean time to detect an incident. Until recently, the neural network models have been the one of the popular and efficient approach for real-time automatic incident detection and many researches have shown that the neural network models were much more efficient than various other previous models. The purpose of this research is to propose a more efficient and accurate model than the neural network model in the automatic incident detection problem. For this purpose, a machine learning model, Support Vector Machine (SVM) learning which is based on the statistical learning theory, has been used in this paper. The experiments have been done with real world freeway data, and the results show that the SVM could provide better performance in terms of DR(Detection Rate) and FAR(False Alarm Rate) than Backpropagation which is the most popular neural network model."
+        },
+        {
+          "rank": 7,
+          "score": 0.6046236753463745,
+          "doc_id": "179",
+          "text": "Deep Structured Learning: Architectures and Applications Deep Structured Learning: Architectures and Applications Deep Structured Learning: Architectures and Applications Deep learning, a sub-field of machine learning changing the prospects of artificial intelligence (AI) because of its recent advancements and application in various field. Deep learning deals with algorithms inspired by the structure and function of the brain called artificial neural networks. This works reviews basic architecture and recent advancement of deep structured learning. It also describes contemporary applications of deep structured learning and its advantages over the treditional learning in artificial interlligence. This study is useful for the general readers and students who are in the early stage of deep learning studies."
+        },
+        {
+          "rank": 8,
+          "score": 0.6031330227851868,
+          "doc_id": "180",
+          "text": "딥러닝 기반의 딥 클러스터링 방법에 대한 분석 딥러닝 기반의 딥 클러스터링 방법에 대한 분석 딥러닝 기반의 딥 클러스터링 방법에 대한 분석 클러스터링은 데이터의 정답값(실제값)이 없는 데이터를 기반으로 데이터의 특징벡터의 거리 기반 등으로 군집화를 하는 비지도학습 방법이다. 이 방법은 이미지, 텍스트, 음성 등 다양한 데이터에 대해서 라벨링이 없이 적용할 수 있다는 장점이 있다. 기존 클러스터링을 하기 위해 차원축소 기법을 적용하거나 특정 특징만을 추출하여 군집화하는 방법이 적용되었다. 하지만 딥러닝 기반 모델이 발전하면서 입력 데이터를 잠재 벡터로 표현하는 오토인코더, 생성 적대적 네트워크 등을 통해서 딥 클러스터링의 기술이 연구가 되고 있다. 본 연구에서, 딥러닝 기반의 딥 클러스터링 기법을 제안하였다. 이 방법에서 오토인코더를 이용하여 입력 데이터를 잠재 벡터로 변환하고 이 잠재 벡터를 클러스터 구조에 맞게 벡터 공간을 구성 및 k-평균 클러스터링을 하였다. 실험 환경으로 pytorch 머신러닝 라이브러리를 이용하여 데이터셋으로 MNIST와 Fashion-MNIST을 적용하였다. 모델로는 컨볼루션 신경망 기반인 오토인코더 모델을 사용하였다. 실험결과로 k가 10일 때, MNIST에 대해서 89.42% 정확도를 가졌으며 Fashion-MNIST에 대해서 56.64% 정확도를 가진다."
+        },
+        {
+          "rank": 9,
+          "score": 0.6022501587867737,
+          "doc_id": "90",
+          "text": "Artificial Intelligence in Personalized ICT Learning Artificial Intelligence in Personalized ICT Learning Artificial Intelligence in Personalized ICT Learning Artificial Intelligence has stimulated every aspect of today's life. Human thinking quality is trying to be involved through digital tools in all research areas of the modern era. The education industry is also leveraging artificial intelligence magical power. Uses of digital technologies in pedagogical paradigms are being observed from the last century. The widespread involvement of artificial intelligence starts reshaping the educational landscape. Adaptive learning is an emerging pedagogical technique that uses computer-based algorithms, tools, and technologies for the learning process. These intelligent practices help at each learning curve stage, from content development to student's exam evaluation. The quality of information technology students and professionals training has also improved drastically with the involvement of artificial intelligence systems. In this paper, we will investigate adopted digital methods in the education sector so far. We will focus on intelligent techniques adopted for information technology students and professionals. Our literature review works on our proposed framework that entails four categories. These categories are communication between teacher and student, improved content design for computing course, evaluation of student's performance and intelligent agent. Our research will present the role of artificial intelligence in reshaping the educational process."
+        },
+        {
+          "rank": 10,
+          "score": 0.6020416617393494,
+          "doc_id": "42",
+          "text": "Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning In recent years, machine learning algorithms are continuously being used and expanded in various fields, such as facial recognition, signal processing, personal authentication, and stock prediction. In particular, various algorithms, such as deep learning, reinforcement learning, and Q-learning, are continuously being improved. Among these algorithms, the expansion of deep learning is rapidly changing. Nevertheless, machine learning algorithms have not yet been applied in several fields, such as personal authentication technology. This technology is an essential tool in the digital information era, walking recognition technology as promising biometrics, and technology for solving state-space problems. Therefore, algorithm technologies of deep learning, reinforcement learning, and Q-learning, which are typical machine learning algorithms in various fields, such as agricultural technology, personal authentication, wireless network, game, biometric recognition, and image recognition, are being improved and expanded in this paper."
+        }
+      ]
+    },
+    {
+      "query": "지식 기반 스케줄링에서 공간적 적응을 구현하는 기계학습 방법들의 주요 특징은 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6188315749168396,
+          "doc_id": "123",
+          "text": "딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝은 인공신경망(neural network)이라는 인공지능분야의 모형이 발전된 형태로서, 계층구조로 이루어진 인공신경망의 내부계층(hidden layer)이 여러 단계로 이루어진 구조이다. 딥러닝에서의 주요 모형은 합성곱신경망(convolutional neural network), 순환신경망(recurrent neural network), 그리고 심층신뢰신경망(deep belief network)의 세가지라고 할 수 있다. 그 중에서 현재 흥미로운 연구가 많이 발표되어서 관심이 집중되고 있는 모형은 지도학습(supervised learning)모형인 처음 두 개의 모형이다. 따라서 본 논문에서는 지도학습모형의 가중치를 최적화하는 기본적인 방법인 오류역전파 알고리즘을 살펴본 뒤에 합성곱신경망과 순환신경망의 구조와 응용사례 등을 살펴보고자 한다. 본문에서 다루지 않은 모형인 심층신뢰신경망은 아직까지는 합성곱신경망 이나 순환신경망보다는 상대적으로 주목을 덜 받고 있다. 그러나 심층신뢰신경망은 CNN이나 RNN과는 달리 비지도학습(unsupervised learning)모형이며, 사람이나 동물은 관찰을 통해서 스스로 학습한다는 점에서 궁극적으로는 비지도학습모형이 더 많이 연구되어야 할 주제가 될 것이다."
+        },
+        {
+          "rank": 2,
+          "score": 0.61399245262146,
+          "doc_id": "22",
+          "text": "Effective E-Learning Practices by Machine Learning and Artificial Intelligence Effective E-Learning Practices by Machine Learning and Artificial Intelligence Effective E-Learning Practices by Machine Learning and Artificial Intelligence This is an extended research paper focusing on the applications of Machine Learing and Artificial Intelligence in virtual learning environment. The world is moving at a fast pace having the application of Machine Learning (ML) and Artificial Intelligence (AI) in all the major disciplines and the educational sector is also not untouched by its impact especially in an online learning environment. This paper attempts to elaborate on the benefits of ML and AI in E-Learning (EL) in general and explain how King Khalid University (KKU) EL Deanship is making the best of ML and AI in its practices. Also, researchers have focused on the future of ML and AI in any academic program. This research is descriptive in nature; results are based on qualitative analysis done through tools and techniques of EL applied in KKU as an example but the same modus operandi can be implemented by any institution in its EL platform. KKU is using Learning Management Services (LMS) for providing online learning practices and Blackboard (BB) for sharing online learning resources, therefore these tools are considered by the researchers for explaining the results of ML and AI."
+        },
+        {
+          "rank": 3,
+          "score": 0.6113004684448242,
+          "doc_id": "180",
+          "text": "딥러닝 기반의 딥 클러스터링 방법에 대한 분석 딥러닝 기반의 딥 클러스터링 방법에 대한 분석 딥러닝 기반의 딥 클러스터링 방법에 대한 분석 클러스터링은 데이터의 정답값(실제값)이 없는 데이터를 기반으로 데이터의 특징벡터의 거리 기반 등으로 군집화를 하는 비지도학습 방법이다. 이 방법은 이미지, 텍스트, 음성 등 다양한 데이터에 대해서 라벨링이 없이 적용할 수 있다는 장점이 있다. 기존 클러스터링을 하기 위해 차원축소 기법을 적용하거나 특정 특징만을 추출하여 군집화하는 방법이 적용되었다. 하지만 딥러닝 기반 모델이 발전하면서 입력 데이터를 잠재 벡터로 표현하는 오토인코더, 생성 적대적 네트워크 등을 통해서 딥 클러스터링의 기술이 연구가 되고 있다. 본 연구에서, 딥러닝 기반의 딥 클러스터링 기법을 제안하였다. 이 방법에서 오토인코더를 이용하여 입력 데이터를 잠재 벡터로 변환하고 이 잠재 벡터를 클러스터 구조에 맞게 벡터 공간을 구성 및 k-평균 클러스터링을 하였다. 실험 환경으로 pytorch 머신러닝 라이브러리를 이용하여 데이터셋으로 MNIST와 Fashion-MNIST을 적용하였다. 모델로는 컨볼루션 신경망 기반인 오토인코더 모델을 사용하였다. 실험결과로 k가 10일 때, MNIST에 대해서 89.42% 정확도를 가졌으며 Fashion-MNIST에 대해서 56.64% 정확도를 가진다."
+        },
+        {
+          "rank": 4,
+          "score": 0.6069648265838623,
+          "doc_id": "186",
+          "text": "Deep Semi-Supervised Learning 기반 컴퓨터 보조 진단 방법론 Deep Semi-Supervised Learning 기반 컴퓨터 보조 진단 방법론 Deep Semi-Supervised Learning 기반 컴퓨터 보조 진단 방법론 Medical image applications 분야는 가장 인기 있으며 적극적으로 연구되는 현대 Machine Learning 및 Deep Learning applications 중 하나의 분야로 부상되고 있다. Medical image analysis는 환자의 신체 영상의 획득과 의료 전문가의 진단 및 분석을 목적으로 한다. 여러 Machine Learning 방법론을 사용하면 다양한 질병을 진단할 수 있게 된다. 하지만, 보다 효율적이며 강인한 모델을 설계하기 위해서는 Label이 지정된 데이터 샘플이 필요하게 된다. &amp;#xD; 따라서, Label이 지정되지 않은 데이터를 활용하여 모델의 성능을 향상시키는 Medical image 분야에서 semi-supervised Learning의 연구가 활발히 이루어지고 있다. 본 연구에서는 2D 초음파 영상(CADe)와 KL-grade 무릎 방사선사(CADx) 분류에서 유방 병변 Segmentation을 위한 딥러닝 기술을 사용하여 Medical image analysis에서 개선된 Semi-Supervised CAD 시스템을 제안하였다. 본 논문에서는 residual 및 attention block을 통합한 residual-attention-based uncertainty-guided mean teacher framework를 제안한다. 높은 수준의 feature와 attention module의 flow를 가능하게 하여 deep network를 최적화하기 위한 residual은 학습 과정 중에서 가중치를 최적화하기 위해 모델의 focus를 향상시킨다. &amp;#xD; 또한, 본 논문에서는 semi-supervised 학습 방법을 사용하여 학습 과정에서 label이 지정되지 않은 데이터를 활용할 수 있는 가능성을 탐구한다. 특히, uncertainty-guided mean-teacher-student 구조를 활용하여 residual attention U-Net 모델의 학습 중 label이 지정되지 않은 샘플을 통합할 수 있는 가능성을 입증하였다. &amp;#xD; 따라서, label이 지정되지 않은 추가 데이터를 unsupervised 및 supervised 방식으로 활용할 수있는 semi-supervised multitask learning-based 학습 기반 접근 방식을 개발하였다. 구체적으로, 이 과정은 reconstruction에 대해서만 unsupervised 된 상태에서 먼저 학습된 dual-channel adversarial autoencoder를 제안한다. 본 연구는 supervised 방식으로 추가 데이터를 활용하기 위해 auxilary task를 도입하여 multi-task learning framework를 제안한다. 특히, leg side의 식별은 auxilary task로 사용되므로 CHECK 데이터셋과 같은 더 많은 데이터셋을 사용할 수 있게 된다. 따라서, 추가 데이터의 활용이 소수의 label된 데이터만 사용할 수 있는 KL-grade 분류에서 main task의 성능을 향상시킬 수 있음을 보여준다. &amp;#xD; 다양한 측면, 즉 전반적인 성능, label이 지정되지 않은 추가 샘플 및 auxiliary task의 효과, 강인한 분석 등에 대해 공개적으로 사용 가능한 두 개의 가장 큰 데이터셋에 대해 제안된 모델을 평가하였다. 제안된 모델은 각각 75.52%, 78.48%, 75.34%의 Accuracy, Recall, F1-Score를 달성하였다."
+        },
+        {
+          "rank": 5,
+          "score": 0.6049805879592896,
+          "doc_id": "110",
+          "text": "Machine Learning기법을 이용한 Robot 이상 예지 보전 Machine Learning기법을 이용한 Robot 이상 예지 보전 Machine Learning기법을 이용한 Robot 이상 예지 보전 In this paper, a predictive maintenance of the robot trouble using the machine learning method, so called MT(Mahalanobis Taguchi), was studied. Especially, 'MD(Mahalanobis Distance)' was used to compare the robot arm motion difference between before the maintenance(bearing change) and after the maintenance. 6-axies vibration sensor was used to detect the vibration sensing during the motion of the robot arm. The results of the comparison, MD value of the arm motions of the after the maintenance(bearing change) was much lower and stable compared to MD value of the arm motions of the before the maintenance. MD value well distinguished the fine difference of the arm vibration of the robot. The superior performance of the MT method applied to the prediction of the robot trouble was verified by this experiments."
+        },
+        {
+          "rank": 6,
+          "score": 0.5990880131721497,
+          "doc_id": "33",
+          "text": "Machine Learning을 이용한 자동 돌발상황검지 Machine Learning을 이용한 자동 돌발상황검지 Machine Learning을 이용한 자동 돌발상황검지 Incidents on the freeway disrupt traffic flow and the cost of delay caused by incidents is significant. To reduce the impact of an incident, a traffic management center needs to quickly detect and remove it from the freeway. Quick and efficient automatic incident detection has been a main goal of the transportation research for many years. Also many algorithms based on loop detector data have been developed and tested for the Automatic Incident Detection(AID). However, many of them have a limited success in their overall performance in terms of detection rate, false alarm rate, and the mean time to detect an incident. Until recently, the neural network models have been the one of the popular and efficient approach for real-time automatic incident detection and many researches have shown that the neural network models were much more efficient than various other previous models. The purpose of this research is to propose a more efficient and accurate model than the neural network model in the automatic incident detection problem. For this purpose, a machine learning model, Support Vector Machine (SVM) learning which is based on the statistical learning theory, has been used in this paper. The experiments have been done with real world freeway data, and the results show that the SVM could provide better performance in terms of DR(Detection Rate) and FAR(False Alarm Rate) than Backpropagation which is the most popular neural network model."
+        },
+        {
+          "rank": 7,
+          "score": 0.5909948348999023,
+          "doc_id": "174",
+          "text": "Self-Imitation Learning을 이용한 개선된 Deep Q-Network 알고리즘 Self-Imitation Learning을 이용한 개선된 Deep Q-Network 알고리즘 Self-Imitation Learning을 이용한 개선된 Deep Q-Network 알고리즘 Self-Imitation Learning은 간단한 비활성 정책 actor-critic 알고리즘으로써 에이전트가 과거의 좋은 경험을 활용하여 최적의 정책을 찾을 수 있도록 해준다. 그리고 actor-critic 구조를 갖는 강화학습 알고리즘에 결합되어 다양한 환경들에서 알고리즘의 상당한 개선을 보여주었다. 하지만 Self-Imitation Learning이 강화학습에 큰 도움을 준다고 하더라도 그 적용 분야는 actor-critic architecture를 가지는 강화학습 알고리즘으로 제한되어 있다. 본 논문에서 Self-Imitation Learning의 알고리즘을 가치 기반 강화학습 알고리즘인 DQN에 적용하는 방법을 제안하고, Self-Imitation Learning이 적용된 DQN 알고리즘의 학습을 다양한 환경에서 진행한다. 아울러 그 결과를 기존의 결과와 비교함으로써 Self-Imitation Leaning이 DQN에도 적용될 수 있으며 DQN의 성능을 개선할 수 있음을 보인다."
+        },
+        {
+          "rank": 8,
+          "score": 0.590775728225708,
+          "doc_id": "147",
+          "text": "A Survey of Topological Machine Learning Methods A Survey of Topological Machine Learning Methods A Survey of Topological Machine Learning Methods The last decade saw an enormous boost in the field of computational topology: methods and concepts from algebraic and differential topology, formerly confined to the realm of pure mathematics, have demonstrated their utility in numerous areas such as computational biology personalised medicine, and time-dependent data analysis, to name a few. The newly-emerging domain comprising topology-based techniques is often referred to as topological data analysis (TDA). Next to their applications in the aforementioned areas, TDA methods have also proven to be effective in supporting, enhancing, and augmenting both classical machine learning and deep learning models. In this paper, we review the state of the art of a nascent field we refer to as &ldquo;topological machine learning,&rdquo; i.e., the successful symbiosis of topology-based methods and machine learning algorithms, such as deep neural networks. We identify common threads, current applications, and future challenges."
+        },
+        {
+          "rank": 9,
+          "score": 0.5906520485877991,
+          "doc_id": "90",
+          "text": "Artificial Intelligence in Personalized ICT Learning Artificial Intelligence in Personalized ICT Learning Artificial Intelligence in Personalized ICT Learning Artificial Intelligence has stimulated every aspect of today's life. Human thinking quality is trying to be involved through digital tools in all research areas of the modern era. The education industry is also leveraging artificial intelligence magical power. Uses of digital technologies in pedagogical paradigms are being observed from the last century. The widespread involvement of artificial intelligence starts reshaping the educational landscape. Adaptive learning is an emerging pedagogical technique that uses computer-based algorithms, tools, and technologies for the learning process. These intelligent practices help at each learning curve stage, from content development to student's exam evaluation. The quality of information technology students and professionals training has also improved drastically with the involvement of artificial intelligence systems. In this paper, we will investigate adopted digital methods in the education sector so far. We will focus on intelligent techniques adopted for information technology students and professionals. Our literature review works on our proposed framework that entails four categories. These categories are communication between teacher and student, improved content design for computing course, evaluation of student's performance and intelligent agent. Our research will present the role of artificial intelligence in reshaping the educational process."
+        },
+        {
+          "rank": 10,
+          "score": 0.5898491144180298,
+          "doc_id": "179",
+          "text": "Deep Structured Learning: Architectures and Applications Deep Structured Learning: Architectures and Applications Deep Structured Learning: Architectures and Applications Deep learning, a sub-field of machine learning changing the prospects of artificial intelligence (AI) because of its recent advancements and application in various field. Deep learning deals with algorithms inspired by the structure and function of the brain called artificial neural networks. This works reviews basic architecture and recent advancement of deep structured learning. It also describes contemporary applications of deep structured learning and its advantages over the treditional learning in artificial interlligence. This study is useful for the general readers and students who are in the early stage of deep learning studies."
+        }
+      ]
+    },
+    {
+      "query": "지식 기반 스케줄링에서 시간적 적응을 구현하는 기계학습 방법들의 주요 특징은 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6176321506500244,
+          "doc_id": "123",
+          "text": "딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝은 인공신경망(neural network)이라는 인공지능분야의 모형이 발전된 형태로서, 계층구조로 이루어진 인공신경망의 내부계층(hidden layer)이 여러 단계로 이루어진 구조이다. 딥러닝에서의 주요 모형은 합성곱신경망(convolutional neural network), 순환신경망(recurrent neural network), 그리고 심층신뢰신경망(deep belief network)의 세가지라고 할 수 있다. 그 중에서 현재 흥미로운 연구가 많이 발표되어서 관심이 집중되고 있는 모형은 지도학습(supervised learning)모형인 처음 두 개의 모형이다. 따라서 본 논문에서는 지도학습모형의 가중치를 최적화하는 기본적인 방법인 오류역전파 알고리즘을 살펴본 뒤에 합성곱신경망과 순환신경망의 구조와 응용사례 등을 살펴보고자 한다. 본문에서 다루지 않은 모형인 심층신뢰신경망은 아직까지는 합성곱신경망 이나 순환신경망보다는 상대적으로 주목을 덜 받고 있다. 그러나 심층신뢰신경망은 CNN이나 RNN과는 달리 비지도학습(unsupervised learning)모형이며, 사람이나 동물은 관찰을 통해서 스스로 학습한다는 점에서 궁극적으로는 비지도학습모형이 더 많이 연구되어야 할 주제가 될 것이다."
+        },
+        {
+          "rank": 2,
+          "score": 0.6113408803939819,
+          "doc_id": "110",
+          "text": "Machine Learning기법을 이용한 Robot 이상 예지 보전 Machine Learning기법을 이용한 Robot 이상 예지 보전 Machine Learning기법을 이용한 Robot 이상 예지 보전 In this paper, a predictive maintenance of the robot trouble using the machine learning method, so called MT(Mahalanobis Taguchi), was studied. Especially, 'MD(Mahalanobis Distance)' was used to compare the robot arm motion difference between before the maintenance(bearing change) and after the maintenance. 6-axies vibration sensor was used to detect the vibration sensing during the motion of the robot arm. The results of the comparison, MD value of the arm motions of the after the maintenance(bearing change) was much lower and stable compared to MD value of the arm motions of the before the maintenance. MD value well distinguished the fine difference of the arm vibration of the robot. The superior performance of the MT method applied to the prediction of the robot trouble was verified by this experiments."
+        },
+        {
+          "rank": 3,
+          "score": 0.6069677472114563,
+          "doc_id": "22",
+          "text": "Effective E-Learning Practices by Machine Learning and Artificial Intelligence Effective E-Learning Practices by Machine Learning and Artificial Intelligence Effective E-Learning Practices by Machine Learning and Artificial Intelligence This is an extended research paper focusing on the applications of Machine Learing and Artificial Intelligence in virtual learning environment. The world is moving at a fast pace having the application of Machine Learning (ML) and Artificial Intelligence (AI) in all the major disciplines and the educational sector is also not untouched by its impact especially in an online learning environment. This paper attempts to elaborate on the benefits of ML and AI in E-Learning (EL) in general and explain how King Khalid University (KKU) EL Deanship is making the best of ML and AI in its practices. Also, researchers have focused on the future of ML and AI in any academic program. This research is descriptive in nature; results are based on qualitative analysis done through tools and techniques of EL applied in KKU as an example but the same modus operandi can be implemented by any institution in its EL platform. KKU is using Learning Management Services (LMS) for providing online learning practices and Blackboard (BB) for sharing online learning resources, therefore these tools are considered by the researchers for explaining the results of ML and AI."
+        },
+        {
+          "rank": 4,
+          "score": 0.6005920767784119,
+          "doc_id": "186",
+          "text": "Deep Semi-Supervised Learning 기반 컴퓨터 보조 진단 방법론 Deep Semi-Supervised Learning 기반 컴퓨터 보조 진단 방법론 Deep Semi-Supervised Learning 기반 컴퓨터 보조 진단 방법론 Medical image applications 분야는 가장 인기 있으며 적극적으로 연구되는 현대 Machine Learning 및 Deep Learning applications 중 하나의 분야로 부상되고 있다. Medical image analysis는 환자의 신체 영상의 획득과 의료 전문가의 진단 및 분석을 목적으로 한다. 여러 Machine Learning 방법론을 사용하면 다양한 질병을 진단할 수 있게 된다. 하지만, 보다 효율적이며 강인한 모델을 설계하기 위해서는 Label이 지정된 데이터 샘플이 필요하게 된다. &amp;#xD; 따라서, Label이 지정되지 않은 데이터를 활용하여 모델의 성능을 향상시키는 Medical image 분야에서 semi-supervised Learning의 연구가 활발히 이루어지고 있다. 본 연구에서는 2D 초음파 영상(CADe)와 KL-grade 무릎 방사선사(CADx) 분류에서 유방 병변 Segmentation을 위한 딥러닝 기술을 사용하여 Medical image analysis에서 개선된 Semi-Supervised CAD 시스템을 제안하였다. 본 논문에서는 residual 및 attention block을 통합한 residual-attention-based uncertainty-guided mean teacher framework를 제안한다. 높은 수준의 feature와 attention module의 flow를 가능하게 하여 deep network를 최적화하기 위한 residual은 학습 과정 중에서 가중치를 최적화하기 위해 모델의 focus를 향상시킨다. &amp;#xD; 또한, 본 논문에서는 semi-supervised 학습 방법을 사용하여 학습 과정에서 label이 지정되지 않은 데이터를 활용할 수 있는 가능성을 탐구한다. 특히, uncertainty-guided mean-teacher-student 구조를 활용하여 residual attention U-Net 모델의 학습 중 label이 지정되지 않은 샘플을 통합할 수 있는 가능성을 입증하였다. &amp;#xD; 따라서, label이 지정되지 않은 추가 데이터를 unsupervised 및 supervised 방식으로 활용할 수있는 semi-supervised multitask learning-based 학습 기반 접근 방식을 개발하였다. 구체적으로, 이 과정은 reconstruction에 대해서만 unsupervised 된 상태에서 먼저 학습된 dual-channel adversarial autoencoder를 제안한다. 본 연구는 supervised 방식으로 추가 데이터를 활용하기 위해 auxilary task를 도입하여 multi-task learning framework를 제안한다. 특히, leg side의 식별은 auxilary task로 사용되므로 CHECK 데이터셋과 같은 더 많은 데이터셋을 사용할 수 있게 된다. 따라서, 추가 데이터의 활용이 소수의 label된 데이터만 사용할 수 있는 KL-grade 분류에서 main task의 성능을 향상시킬 수 있음을 보여준다. &amp;#xD; 다양한 측면, 즉 전반적인 성능, label이 지정되지 않은 추가 샘플 및 auxiliary task의 효과, 강인한 분석 등에 대해 공개적으로 사용 가능한 두 개의 가장 큰 데이터셋에 대해 제안된 모델을 평가하였다. 제안된 모델은 각각 75.52%, 78.48%, 75.34%의 Accuracy, Recall, F1-Score를 달성하였다."
+        },
+        {
+          "rank": 5,
+          "score": 0.5977571606636047,
+          "doc_id": "90",
+          "text": "Artificial Intelligence in Personalized ICT Learning Artificial Intelligence in Personalized ICT Learning Artificial Intelligence in Personalized ICT Learning Artificial Intelligence has stimulated every aspect of today's life. Human thinking quality is trying to be involved through digital tools in all research areas of the modern era. The education industry is also leveraging artificial intelligence magical power. Uses of digital technologies in pedagogical paradigms are being observed from the last century. The widespread involvement of artificial intelligence starts reshaping the educational landscape. Adaptive learning is an emerging pedagogical technique that uses computer-based algorithms, tools, and technologies for the learning process. These intelligent practices help at each learning curve stage, from content development to student's exam evaluation. The quality of information technology students and professionals training has also improved drastically with the involvement of artificial intelligence systems. In this paper, we will investigate adopted digital methods in the education sector so far. We will focus on intelligent techniques adopted for information technology students and professionals. Our literature review works on our proposed framework that entails four categories. These categories are communication between teacher and student, improved content design for computing course, evaluation of student's performance and intelligent agent. Our research will present the role of artificial intelligence in reshaping the educational process."
+        },
+        {
+          "rank": 6,
+          "score": 0.5977213382720947,
+          "doc_id": "33",
+          "text": "Machine Learning을 이용한 자동 돌발상황검지 Machine Learning을 이용한 자동 돌발상황검지 Machine Learning을 이용한 자동 돌발상황검지 Incidents on the freeway disrupt traffic flow and the cost of delay caused by incidents is significant. To reduce the impact of an incident, a traffic management center needs to quickly detect and remove it from the freeway. Quick and efficient automatic incident detection has been a main goal of the transportation research for many years. Also many algorithms based on loop detector data have been developed and tested for the Automatic Incident Detection(AID). However, many of them have a limited success in their overall performance in terms of detection rate, false alarm rate, and the mean time to detect an incident. Until recently, the neural network models have been the one of the popular and efficient approach for real-time automatic incident detection and many researches have shown that the neural network models were much more efficient than various other previous models. The purpose of this research is to propose a more efficient and accurate model than the neural network model in the automatic incident detection problem. For this purpose, a machine learning model, Support Vector Machine (SVM) learning which is based on the statistical learning theory, has been used in this paper. The experiments have been done with real world freeway data, and the results show that the SVM could provide better performance in terms of DR(Detection Rate) and FAR(False Alarm Rate) than Backpropagation which is the most popular neural network model."
+        },
+        {
+          "rank": 7,
+          "score": 0.5925232172012329,
+          "doc_id": "180",
+          "text": "딥러닝 기반의 딥 클러스터링 방법에 대한 분석 딥러닝 기반의 딥 클러스터링 방법에 대한 분석 딥러닝 기반의 딥 클러스터링 방법에 대한 분석 클러스터링은 데이터의 정답값(실제값)이 없는 데이터를 기반으로 데이터의 특징벡터의 거리 기반 등으로 군집화를 하는 비지도학습 방법이다. 이 방법은 이미지, 텍스트, 음성 등 다양한 데이터에 대해서 라벨링이 없이 적용할 수 있다는 장점이 있다. 기존 클러스터링을 하기 위해 차원축소 기법을 적용하거나 특정 특징만을 추출하여 군집화하는 방법이 적용되었다. 하지만 딥러닝 기반 모델이 발전하면서 입력 데이터를 잠재 벡터로 표현하는 오토인코더, 생성 적대적 네트워크 등을 통해서 딥 클러스터링의 기술이 연구가 되고 있다. 본 연구에서, 딥러닝 기반의 딥 클러스터링 기법을 제안하였다. 이 방법에서 오토인코더를 이용하여 입력 데이터를 잠재 벡터로 변환하고 이 잠재 벡터를 클러스터 구조에 맞게 벡터 공간을 구성 및 k-평균 클러스터링을 하였다. 실험 환경으로 pytorch 머신러닝 라이브러리를 이용하여 데이터셋으로 MNIST와 Fashion-MNIST을 적용하였다. 모델로는 컨볼루션 신경망 기반인 오토인코더 모델을 사용하였다. 실험결과로 k가 10일 때, MNIST에 대해서 89.42% 정확도를 가졌으며 Fashion-MNIST에 대해서 56.64% 정확도를 가진다."
+        },
+        {
+          "rank": 8,
+          "score": 0.5921390056610107,
+          "doc_id": "128",
+          "text": "Machine learning-based adaptive CSI feedback interval Machine learning-based adaptive CSI feedback interval Machine learning-based adaptive CSI feedback interval The channel state information (CSI) is essential for the base station (BS) to schedule user equipments (UEs) and efficiently manage the radio resources. Hence, the BS requests UEs to regularly feed back the CSI. However, frequent CSI reporting causes large signaling overhead. To reduce the feedback overhead, we propose two machine learning-based approaches to adjust the CSI feedback interval. We use a deep neural network and reinforcement learning (RL) to decide whether an UE feeds back the CSI. Simulation results show that the RL-based approach achieves the lowest mean squared error while reducing the number of CSI feedback transmissions."
+        },
+        {
+          "rank": 9,
+          "score": 0.5917202234268188,
+          "doc_id": "174",
+          "text": "Self-Imitation Learning을 이용한 개선된 Deep Q-Network 알고리즘 Self-Imitation Learning을 이용한 개선된 Deep Q-Network 알고리즘 Self-Imitation Learning을 이용한 개선된 Deep Q-Network 알고리즘 Self-Imitation Learning은 간단한 비활성 정책 actor-critic 알고리즘으로써 에이전트가 과거의 좋은 경험을 활용하여 최적의 정책을 찾을 수 있도록 해준다. 그리고 actor-critic 구조를 갖는 강화학습 알고리즘에 결합되어 다양한 환경들에서 알고리즘의 상당한 개선을 보여주었다. 하지만 Self-Imitation Learning이 강화학습에 큰 도움을 준다고 하더라도 그 적용 분야는 actor-critic architecture를 가지는 강화학습 알고리즘으로 제한되어 있다. 본 논문에서 Self-Imitation Learning의 알고리즘을 가치 기반 강화학습 알고리즘인 DQN에 적용하는 방법을 제안하고, Self-Imitation Learning이 적용된 DQN 알고리즘의 학습을 다양한 환경에서 진행한다. 아울러 그 결과를 기존의 결과와 비교함으로써 Self-Imitation Leaning이 DQN에도 적용될 수 있으며 DQN의 성능을 개선할 수 있음을 보인다."
+        },
+        {
+          "rank": 10,
+          "score": 0.5899935960769653,
+          "doc_id": "156",
+          "text": "눈 특징의 STFT 결합 영상과 deep learning을 이용한 감성 인식 눈 특징의 STFT 결합 영상과 deep learning을 이용한 감성 인식 눈 특징의 STFT 결합 영상과 deep learning을 이용한 감성 인식 최근 사용자의 요구를 이해하기 위해 인간-컴퓨터 상호작용 (HCI) 분야에서 다양한 연구가 수행되고 있다. HCI의 대표적인 기술 중 하나는 사용자 감정 인식이다. 감정의 중요성이 증대됨에 따라, 사용자의 감정을 인식하기 위해 얼굴 표정, 제스처, 음성신호, 생리신호, 안구특징 및 멀티 모달리티 (Multi-Modality) 신호를 특징으로 사용하는 방법들이 제안되고 있다. &amp;#xD; 특히, 안구 특징은 사용자가 의도적으로 제어할 수 없으며 컴퓨터가 무의식적인 특징들을 인식할 수 있기 때문에 감정인식에 적합하다. 또한 다양한 분야에 적용될 것으로 기대되는 가상현실과 증강현실을 위해 안구 특징에 기반한 감정인식 기술이 연구되어야 한다.&amp;#xD; 합성곱 신경망 (CNN)과 재귀 신경망 (RNN)과 같은 심층 학습 (Deep learning) 기술들이 다양한 분야에서 성공하고 있으며, 다양한 모달리티들을 이용하는 감정인식 연구에 적용되고 있다. 그러나 다른 모달리티들과 달리, 안구 특징만을 사용하는 심층 학습기반의 감정인식 연구는 매우 부족하다.&amp;#xD; 본 학위논문에서는 시간정보와 동공 크기와 눈 움직임 신호와 같은 안구 특징들만을 이용한 심층 학습 기반의 감정인식 방법을 제안한다.&amp;#xD; 그 과정은 다음과 같다. 먼저, 눈 깜빡임 또는 기술적인 결함으로 인해 발생되는 눈 크기 및 눈 움직임 신호들의 데이터 미획득 구간을 채우기 위한 보간을 수행한다. 그 후 데이터의 길이와 범위를 일치시키기 위해, 신호의 시간과 각 피실험자의 신호들에 대해 정규화를 수행한다. 다음으로 동공 크기 및 눈 움직임 신호들의 시간과 주파수 정보를 분석하기 위해 Short-Time Fourier Transform (STFT) 특징들을 추출하고, 그 특징들을 결합하여 STFT 특징 결합 영상이라 불리우는 단일 이미지를 생성한다. 마지막으로, valence-arousal 인식을 수행하기 위해, STFT 특징 결합 영상에 적합한 심층 학습 모델을 생성한 후 leave-one-out cross validation (LOOCV) 방법을 이용하여 제안하는 방법의 성능을 평가한다. &amp;#xD; 대부분의 연구에서, 안구 특징은 다른 모달리티 기반의 감정인식 성능을 향상시키기 위한 보조정보로만 사용하고 있다. 이는 안구 특징이 자극에 민감하고 수동적인 특징 추출방법으로 양질의 특징을 추출하기 어려운 많은 이상치 (Outlier)들을 포함하기 때문이다. 그러나 제안하는 방법의 분류 정확도는 Soleymani [53]가 제안한 결정 수준 융합 (DLF)와 서포트 벡터 머신 (SVM)을 이용한 방법보다 valence와 arousal 감정에 대해 각각 23.6%, 9.8% 향상된 분류 정확도를 달성하였다.&amp;#xD; 실험결과는 제안하는 방법의 효과성을 입증하였고, CNN 모델이 다른 모달리티 기반의 감정인식 방법뿐만 아니라 안구 특징 기반 감정인식에도 효과적이며, 눈 움직임 정보가 valence 감정 인식에도 효과적임을 보였다."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

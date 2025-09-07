@@ -1,0 +1,221 @@
+{
+  "id": "row_000031",
+  "model_name": "Alibaba-NLP/gte-multilingual-base",
+  "timestamp_kst": "2025-09-07T17:17:05.218101+09:00",
+  "trial_id": "ca48f660",
+  "queries": [
+    {
+      "query": "How would you concisely summarize the strategic landscape and major industry examples that characterize IT convergence developments in Korea?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7892646789550781,
+          "doc_id": "94",
+          "text": "The Trends of IT Convergence in Korea The Trends of IT Convergence in Korea The Trends of IT Convergence in Korea These days, the environment of IT development goes through converging with various industries and technologies. Also, it accelerates to pioneer new markets and develop new technologies. This trend becomes one of the most important factors to explore new national growth engines in Korea. Thus, this research examines current trends of IT convergence in Korea. The strategic characteristics of IT convergence in overseas are briefly explained for comparing purpose. The governmental strategies or efforts regarding the IT convergence have been surveyed. Some example convergences of LG, Samsung, and POSCO as major IT industries in Korea have been introduced. It also identifies several buzz concepts in this field. The study aims to provide an insight about the activities that are happening in the field of IT convergence in Korea. Finally, the findings through the research have been summarized."
+        },
+        {
+          "rank": 2,
+          "score": 0.7861555814743042,
+          "doc_id": "96",
+          "text": "국방IT융합 추진방법론 및 사례 연구 국방IT융합 추진방법론 및 사례 연구 국방IT융합 추진방법론 및 사례 연구 Information technology convergence has been recognized one of the key drivers in the industry perspective. Korea government established IT convergence policy in 2008 and has been implementing it to the core industry such as automotive, shipbuilding and defense industries. This research analyzes various IT convergence issues based on an operation of defense IT convergence center, one of the industry IT convergence centers. Defense IT convergence issues are as follows : the methods for introducing rapid changing IT to military area, rapid deployment procedures of verified commercial technologies and products, regulations for using of domestic software promotion and so on. We define the concept of defense IT convergence and propose the framework and processes for applying IT to our defense sector as one of industries. Also, we establish various business models in the military perspective using defense IT convergence framework. In this paper, we focus the development of defense IT convergence through the alignment of national IT convergence policy and propose various business models established through operating a defense IT convergence center."
+        },
+        {
+          "rank": 3,
+          "score": 0.7817386388778687,
+          "doc_id": "145",
+          "text": "IT기업 관점에서의 국방IT융합 추진방향 IT기업 관점에서의 국방IT융합 추진방향 IT기업 관점에서의 국방IT융합 추진방향 IT convergence technology can boost the advancement of weapon systems and efficient operation for the military reformation in Korea. This study investigated IT firms' concern about the defense acquisition process for IT-convergent systems and the role of IT firms in the process with Focus Group Interview and in-depth interview on executives of IT firms, and classified the concern to three major issues. They are the clarification of IT firms' role in the defense IT-convergent efforts, the establishment of the control tower for defense IT convergence, and reasonable estimation of software development cost in the defense acquisition process."
+        },
+        {
+          "rank": 4,
+          "score": 0.7815343737602234,
+          "doc_id": "98",
+          "text": "국방 IT융합 비즈니스 모델 사례와 성과 분석 국방 IT융합 비즈니스 모델 사례와 성과 분석 국방 IT융합 비즈니스 모델 사례와 성과 분석 Information technology (IT) convergence have been recognized one of the key drivers in the industry perspective. Especially, IT convergence have been one of the most important innovative way for defense sector. Korea government established IT convergence policy in 2008 and have been applying it to the core industry such as automotive, shipbuilding and defense industries. Recently, the creative vitamin project has been launched. Vitamin 'D' means the way to create the value of defense industry. This research analyzes and evaluates various IT convergence business models based on an operation of defense IT convergence center from 2011 to 2014, which is the industry IT convergence centers. Defense IT convergence business models can be classified into four types of mission area as follows : weapon acquisition and management, military intelligence, military power construction, and resources management. We define the concept of defense IT convergence and describe the framework and processes for applying IT to the defense sector. We analyzes and evaluates various business models designed through defense IT convergence framework and processes."
+        },
+        {
+          "rank": 5,
+          "score": 0.7486150860786438,
+          "doc_id": "146",
+          "text": "미래 IT융합 신산업 육성 및 선도방안 미래 IT융합 신산업 육성 및 선도방안 미래 IT융합 신산업 육성 및 선도방안 IT는 한국의 경제성장에 큰 기여를 해왔으며 사회전반의 패러다임 혁신을 통해 생산성, 효율성, 편의성, 소통성을 증진시키고 삶의 양식에 전면적 변화를 가져왔다. 국민경제와 사회문화에서 지대한 의미를 지나는 IT는 다른 기술 또는 산업과의 융합이라는 새로운 변화와 혁신의 중심에 위치하고 있다. IT융합은 IT의 자체 고도화를 바탕으로 다른 분야의 기술개발과 산업발전을 견인하거나 새로운 산업을 창출하는 것으로 우리나라를 비롯하며 주요국에서는 자원과 역량을 선택적으로 집중하고 있다. 이 논문에서는 IT 융합과 관련된 주요국의 산업 전략 및 기술개발 동향을 파악하고 전문가 설문조사결과를 바탕으로 한국의 IT 융합역량의 수준을 평가하고 결론적으로 IT융합신산업육성 및 선도방안에 관한 전략적 제언을 하고자 한다."
+        },
+        {
+          "rank": 6,
+          "score": 0.7376536130905151,
+          "doc_id": "198",
+          "text": "국내 중소기업의 기술융합 전략 및 성장 정책: IT & BT 융합기술 기반 네트워크 분석 국내 중소기업의 기술융합 전략 및 성장 정책: IT & BT 융합기술 기반 네트워크 분석 국내 중소기업의 기술융합 전략 및 성장 정책: IT & BT 융합기술 기반 네트워크 분석 Many scholars have addressed the technological convergence of small-medium sized firms in Korea and their impact on the economic growth of nation. Nevertheless, most studies have been investigated the relationship between entrepreneurship and venture creation, and a few studies have analyzed the innovation and technological convergence of SMEs. The purpose of this research is to gain industrial insight into the technological convergence and to suggest a dynamic growth policy for entrepreneurs of SMEs to improve their convergence performance based on IT and BT. Therefore, we intend to propose solutions to these key questions in convergence such as; what are the key patterns in the process of technological convergence of SMEs on IT and BT, and what kinds of strategy do their need? In order to answer these research questions, we adopt network analysis using patent citation information. Results of network analysis revealed that building ecosystem based on government and universities is one of the most important factors for the future growth of SMEs in Korea. Also, the fit between technological convergence direction of SMEs and division of convergence structure of government and universities will be positively associated with dynamic growth of SMEs in Korea. In conclusion, this research extends the current studies on important aspects of SMEs in the technological convergence process by proposing their growth in convergence process to a newly converging context, IT and BT, and shed light on the integrative perspectives of crucial roles of SMEs on innovation performance in the IT and BT technological convergence."
+        },
+        {
+          "rank": 7,
+          "score": 0.737563967704773,
+          "doc_id": "105",
+          "text": "A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data Technological convergence is yielding new values and affecting various fields not by single technology but by convergence between technologies. This study aims to analyze the IT -BT-NT convergence and differences between technologies in respect of collaboration within (inventor) and between (assignee) organizations. Among the main technologies leading the technological convergence, IT is the most active of converging with other fields. BT is knowledge-intensive and strong cooperative networks are important in this area.NT is applied in various industrial fields upon the basic technology. Using the data on applied and granted patents by Korean applicants in the U.S., this study conducted quantitative analysis and ANOVA to gain the following results. First, the degree of convergence in between IT-BT-NT is continuously increasing since 2002. Second, BT is where the collaboration within and between organizations is the most active among IT-BT-NT. Third, there were certain differences in the degree of convergence according to the years and the fields of technologies in all the IT-BT-NT. Organizations cooperate with other institutions to sustain their competitiveness with limited internal resources. Companies in these fields are recommended to perform diverse strategies to pursue further collaboration with the outside."
+        },
+        {
+          "rank": 8,
+          "score": 0.736697793006897,
+          "doc_id": "138",
+          "text": "강원도 동계 스포츠 IT 융합 서비스 방안 연구 강원도 동계 스포츠 IT 융합 서비스 방안 연구 강원도 동계 스포츠 IT 융합 서비스 방안 연구 Recently, various types of information and communication technology (ICT) such as cloud computing, big data, and virtual reality have been progressed in the world. Also, it is expected that there are many domestic and foreign visitors in Gangwon-do due to the Pyeongchang winter olympic games in 2018. In this environment, it is necessary to improve the competitiveness of Gangwon-do in winter sports areas exploiting both existing IT infrastructure and application technologies. In this paper, for sustainable development of Gangwon-do winter sports IT industry after the Olympics, we propose efficient implementation methods of 3 winter sports IT convergence services and Gangwon-do ICT activation strategy. The proposed 3 winter sports IT service areas are as follows. 1) Realistic winter sports IT service, 2) Winter sports medical IT service 3) Winter sports record analysis IT service."
+        },
+        {
+          "rank": 9,
+          "score": 0.7290681004524231,
+          "doc_id": "218",
+          "text": "A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data Technological convergence is yielding new values and affecting various fields not by single technology but by convergence between technologies. This study aims to analyze the IT -BT-NT convergence and differences between technologies in respect of collaboration within (inventor) and between (assignee) organizations. Among the main technologies leading the technological convergence, IT is the most active of converging with other fields. BT is knowledge-intensive and strong cooperative networks are important in this area. NT is applied in various industrial fields upon the basic technology. Using the data on applied and granted patents by Korean applicants in the U.S., this study conducted quantitative analysis and ANOVA to gain the following results. First, the degree of convergence in between IT-BT-NT is continuously increasing since 2002. Second, BT is where the collaboration within and between organizations is the most active among IT-BT-NT. Third, there were certain differences in the degree of convergence according to the years and the fields of technologies in all the IT-BT-NT. Organizations cooperate with other institutions to sustain their competitiveness with limited internal resources. Companies in these fields are recommended to perform diverse strategies to pursue further collaboration with the outside."
+        },
+        {
+          "rank": 10,
+          "score": 0.727898895740509,
+          "doc_id": "150",
+          "text": "한국 IT융합 신산업 역량강화요인 한국 IT융합 신산업 역량강화요인 한국 IT융합 신산업 역량강화요인 IT는 한국의 경제성장에 큰 기여를 해왔으며 사회전반의 패러다임 혁신을 통해 생산성, 효율성, 편의성, 소통성을 증진시키고 삶의 양식에 전면적 변화를 가져왔다. 국민경제와 사회문화에서 지대한 의미를 지니는 IT는 다른 기술 또는 산업과의 융합이라는 새로운 변화와 혁신의 중심에 위치하고 있다. IT융합은 IT의 자체 고도화를 바탕으로 다른 분야의 기술개발과 산업발전을 견인하거나 새로운 산업을 창출하는 것으로, 우리나라를 비롯하여 주요국에서는 자원과 역량을 선택적으로 집중하고 있다. 이 논문에서는 IT 융합 신산업 역량강화요인을 도출하고자 2011년도에 실시한 정책연구의 학계 및 공공기관 전문가 델파이 결과를 선행연구들과 비교하여 한국의 IT 융합역량의 수준 변화를 평가하고 결론적으로 한국의 IT융합 신산업 역량강화요인을 도출하고자 하였다."
+        }
+      ]
+    },
+    {
+      "query": "What is the strategic landscape of IT convergence developments in Korea?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.8195149898529053,
+          "doc_id": "145",
+          "text": "IT기업 관점에서의 국방IT융합 추진방향 IT기업 관점에서의 국방IT융합 추진방향 IT기업 관점에서의 국방IT융합 추진방향 IT convergence technology can boost the advancement of weapon systems and efficient operation for the military reformation in Korea. This study investigated IT firms' concern about the defense acquisition process for IT-convergent systems and the role of IT firms in the process with Focus Group Interview and in-depth interview on executives of IT firms, and classified the concern to three major issues. They are the clarification of IT firms' role in the defense IT-convergent efforts, the establishment of the control tower for defense IT convergence, and reasonable estimation of software development cost in the defense acquisition process."
+        },
+        {
+          "rank": 2,
+          "score": 0.804136335849762,
+          "doc_id": "96",
+          "text": "국방IT융합 추진방법론 및 사례 연구 국방IT융합 추진방법론 및 사례 연구 국방IT융합 추진방법론 및 사례 연구 Information technology convergence has been recognized one of the key drivers in the industry perspective. Korea government established IT convergence policy in 2008 and has been implementing it to the core industry such as automotive, shipbuilding and defense industries. This research analyzes various IT convergence issues based on an operation of defense IT convergence center, one of the industry IT convergence centers. Defense IT convergence issues are as follows : the methods for introducing rapid changing IT to military area, rapid deployment procedures of verified commercial technologies and products, regulations for using of domestic software promotion and so on. We define the concept of defense IT convergence and propose the framework and processes for applying IT to our defense sector as one of industries. Also, we establish various business models in the military perspective using defense IT convergence framework. In this paper, we focus the development of defense IT convergence through the alignment of national IT convergence policy and propose various business models established through operating a defense IT convergence center."
+        },
+        {
+          "rank": 3,
+          "score": 0.7883601188659668,
+          "doc_id": "94",
+          "text": "The Trends of IT Convergence in Korea The Trends of IT Convergence in Korea The Trends of IT Convergence in Korea These days, the environment of IT development goes through converging with various industries and technologies. Also, it accelerates to pioneer new markets and develop new technologies. This trend becomes one of the most important factors to explore new national growth engines in Korea. Thus, this research examines current trends of IT convergence in Korea. The strategic characteristics of IT convergence in overseas are briefly explained for comparing purpose. The governmental strategies or efforts regarding the IT convergence have been surveyed. Some example convergences of LG, Samsung, and POSCO as major IT industries in Korea have been introduced. It also identifies several buzz concepts in this field. The study aims to provide an insight about the activities that are happening in the field of IT convergence in Korea. Finally, the findings through the research have been summarized."
+        },
+        {
+          "rank": 4,
+          "score": 0.7871878147125244,
+          "doc_id": "98",
+          "text": "국방 IT융합 비즈니스 모델 사례와 성과 분석 국방 IT융합 비즈니스 모델 사례와 성과 분석 국방 IT융합 비즈니스 모델 사례와 성과 분석 Information technology (IT) convergence have been recognized one of the key drivers in the industry perspective. Especially, IT convergence have been one of the most important innovative way for defense sector. Korea government established IT convergence policy in 2008 and have been applying it to the core industry such as automotive, shipbuilding and defense industries. Recently, the creative vitamin project has been launched. Vitamin 'D' means the way to create the value of defense industry. This research analyzes and evaluates various IT convergence business models based on an operation of defense IT convergence center from 2011 to 2014, which is the industry IT convergence centers. Defense IT convergence business models can be classified into four types of mission area as follows : weapon acquisition and management, military intelligence, military power construction, and resources management. We define the concept of defense IT convergence and describe the framework and processes for applying IT to the defense sector. We analyzes and evaluates various business models designed through defense IT convergence framework and processes."
+        },
+        {
+          "rank": 5,
+          "score": 0.7668896913528442,
+          "doc_id": "146",
+          "text": "미래 IT융합 신산업 육성 및 선도방안 미래 IT융합 신산업 육성 및 선도방안 미래 IT융합 신산업 육성 및 선도방안 IT는 한국의 경제성장에 큰 기여를 해왔으며 사회전반의 패러다임 혁신을 통해 생산성, 효율성, 편의성, 소통성을 증진시키고 삶의 양식에 전면적 변화를 가져왔다. 국민경제와 사회문화에서 지대한 의미를 지나는 IT는 다른 기술 또는 산업과의 융합이라는 새로운 변화와 혁신의 중심에 위치하고 있다. IT융합은 IT의 자체 고도화를 바탕으로 다른 분야의 기술개발과 산업발전을 견인하거나 새로운 산업을 창출하는 것으로 우리나라를 비롯하며 주요국에서는 자원과 역량을 선택적으로 집중하고 있다. 이 논문에서는 IT 융합과 관련된 주요국의 산업 전략 및 기술개발 동향을 파악하고 전문가 설문조사결과를 바탕으로 한국의 IT 융합역량의 수준을 평가하고 결론적으로 IT융합신산업육성 및 선도방안에 관한 전략적 제언을 하고자 한다."
+        },
+        {
+          "rank": 6,
+          "score": 0.7637573480606079,
+          "doc_id": "138",
+          "text": "강원도 동계 스포츠 IT 융합 서비스 방안 연구 강원도 동계 스포츠 IT 융합 서비스 방안 연구 강원도 동계 스포츠 IT 융합 서비스 방안 연구 Recently, various types of information and communication technology (ICT) such as cloud computing, big data, and virtual reality have been progressed in the world. Also, it is expected that there are many domestic and foreign visitors in Gangwon-do due to the Pyeongchang winter olympic games in 2018. In this environment, it is necessary to improve the competitiveness of Gangwon-do in winter sports areas exploiting both existing IT infrastructure and application technologies. In this paper, for sustainable development of Gangwon-do winter sports IT industry after the Olympics, we propose efficient implementation methods of 3 winter sports IT convergence services and Gangwon-do ICT activation strategy. The proposed 3 winter sports IT service areas are as follows. 1) Realistic winter sports IT service, 2) Winter sports medical IT service 3) Winter sports record analysis IT service."
+        },
+        {
+          "rank": 7,
+          "score": 0.7571115493774414,
+          "doc_id": "198",
+          "text": "국내 중소기업의 기술융합 전략 및 성장 정책: IT & BT 융합기술 기반 네트워크 분석 국내 중소기업의 기술융합 전략 및 성장 정책: IT & BT 융합기술 기반 네트워크 분석 국내 중소기업의 기술융합 전략 및 성장 정책: IT & BT 융합기술 기반 네트워크 분석 Many scholars have addressed the technological convergence of small-medium sized firms in Korea and their impact on the economic growth of nation. Nevertheless, most studies have been investigated the relationship between entrepreneurship and venture creation, and a few studies have analyzed the innovation and technological convergence of SMEs. The purpose of this research is to gain industrial insight into the technological convergence and to suggest a dynamic growth policy for entrepreneurs of SMEs to improve their convergence performance based on IT and BT. Therefore, we intend to propose solutions to these key questions in convergence such as; what are the key patterns in the process of technological convergence of SMEs on IT and BT, and what kinds of strategy do their need? In order to answer these research questions, we adopt network analysis using patent citation information. Results of network analysis revealed that building ecosystem based on government and universities is one of the most important factors for the future growth of SMEs in Korea. Also, the fit between technological convergence direction of SMEs and division of convergence structure of government and universities will be positively associated with dynamic growth of SMEs in Korea. In conclusion, this research extends the current studies on important aspects of SMEs in the technological convergence process by proposing their growth in convergence process to a newly converging context, IT and BT, and shed light on the integrative perspectives of crucial roles of SMEs on innovation performance in the IT and BT technological convergence."
+        },
+        {
+          "rank": 8,
+          "score": 0.7514375448226929,
+          "doc_id": "105",
+          "text": "A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data Technological convergence is yielding new values and affecting various fields not by single technology but by convergence between technologies. This study aims to analyze the IT -BT-NT convergence and differences between technologies in respect of collaboration within (inventor) and between (assignee) organizations. Among the main technologies leading the technological convergence, IT is the most active of converging with other fields. BT is knowledge-intensive and strong cooperative networks are important in this area.NT is applied in various industrial fields upon the basic technology. Using the data on applied and granted patents by Korean applicants in the U.S., this study conducted quantitative analysis and ANOVA to gain the following results. First, the degree of convergence in between IT-BT-NT is continuously increasing since 2002. Second, BT is where the collaboration within and between organizations is the most active among IT-BT-NT. Third, there were certain differences in the degree of convergence according to the years and the fields of technologies in all the IT-BT-NT. Organizations cooperate with other institutions to sustain their competitiveness with limited internal resources. Companies in these fields are recommended to perform diverse strategies to pursue further collaboration with the outside."
+        },
+        {
+          "rank": 9,
+          "score": 0.749697208404541,
+          "doc_id": "150",
+          "text": "한국 IT융합 신산업 역량강화요인 한국 IT융합 신산업 역량강화요인 한국 IT융합 신산업 역량강화요인 IT는 한국의 경제성장에 큰 기여를 해왔으며 사회전반의 패러다임 혁신을 통해 생산성, 효율성, 편의성, 소통성을 증진시키고 삶의 양식에 전면적 변화를 가져왔다. 국민경제와 사회문화에서 지대한 의미를 지니는 IT는 다른 기술 또는 산업과의 융합이라는 새로운 변화와 혁신의 중심에 위치하고 있다. IT융합은 IT의 자체 고도화를 바탕으로 다른 분야의 기술개발과 산업발전을 견인하거나 새로운 산업을 창출하는 것으로, 우리나라를 비롯하여 주요국에서는 자원과 역량을 선택적으로 집중하고 있다. 이 논문에서는 IT 융합 신산업 역량강화요인을 도출하고자 2011년도에 실시한 정책연구의 학계 및 공공기관 전문가 델파이 결과를 선행연구들과 비교하여 한국의 IT 융합역량의 수준 변화를 평가하고 결론적으로 한국의 IT융합 신산업 역량강화요인을 도출하고자 하였다."
+        },
+        {
+          "rank": 10,
+          "score": 0.7494004368782043,
+          "doc_id": "178",
+          "text": "IT 분야에서 컨버전스의 의미와 미래 전망 IT 분야에서 컨버전스의 의미와 미래 전망 IT 분야에서 컨버전스의 의미와 미래 전망 컨버전스(Convergence)란 단어는 집합, 집중, 수렴, 한 곳으로 모여짐 등의 뜻을 지닌 일반적인 용어로써 매우 발전해가고 있는 IT 분야에서 다양한 수요자의 욕구와 기술의 진화에 따라 최근에 매우 빈번하게 등장하고 있는 용어이자, 중요한 화두 중에 하나가 되고 있다. 이에 단어가 지니고 있는 일반적 의미를 다각적으로 분석함과 동시에 그 의미가 정보통신분야의 기술적 측면에서 또한 활용적인 측면에서 어떤 암시와 효과를 나타내고 있고, 나아가 IT 분야의 발전을 향한 목표 지향적인 측면에서의 역할이 가능한지와 또 다른 발전과 진화에 따라 어느 정도의 생명력과 경쟁력은 지닐 수 있는지를 살펴보고자 한다. 20세기 후반에 등장한 새로운 산업의 빅뱅이 되고 있는 IT 분야가 전세계로 확산, 발전되어감에 따라 수많은 일반적인 단어와 용어 들이 정보통신분야에서 도입, 활용하였고 이러한 용어들은 단어 자체의 의미 보다는 정보통신분야 발전의 현재와 미래를 규정해왔고, 나아가 정보통신 발전에 따른 혜택을 받는 전세계와 국내의 이용자들에게 많은 변화를 제공함과 동시에 연관분야의 산업에도 긍정적이던 부정적이던지 상호간 막대한 영향을 미쳐왔다고 분석된다. 이에 본 논문 자료는 IT 전문 용어가 아닌 일반적인 용어 중에서 IT 분야의 어떤 형태로든 영향을 미칠 용어 중에서 컨버전스란 단어를 통해 IT 분야의 현주소를 사례를 중심으로 분석, 점검하고 향후 IT 분야에서 컨버전스가 적용될 미래의 발전 모습을 전망하고자 하는데 있다."
+        }
+      ]
+    },
+    {
+      "query": "What are the major industry examples that characterize IT convergence developments in Korea?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7961700558662415,
+          "doc_id": "94",
+          "text": "The Trends of IT Convergence in Korea The Trends of IT Convergence in Korea The Trends of IT Convergence in Korea These days, the environment of IT development goes through converging with various industries and technologies. Also, it accelerates to pioneer new markets and develop new technologies. This trend becomes one of the most important factors to explore new national growth engines in Korea. Thus, this research examines current trends of IT convergence in Korea. The strategic characteristics of IT convergence in overseas are briefly explained for comparing purpose. The governmental strategies or efforts regarding the IT convergence have been surveyed. Some example convergences of LG, Samsung, and POSCO as major IT industries in Korea have been introduced. It also identifies several buzz concepts in this field. The study aims to provide an insight about the activities that are happening in the field of IT convergence in Korea. Finally, the findings through the research have been summarized."
+        },
+        {
+          "rank": 2,
+          "score": 0.7884334325790405,
+          "doc_id": "96",
+          "text": "국방IT융합 추진방법론 및 사례 연구 국방IT융합 추진방법론 및 사례 연구 국방IT융합 추진방법론 및 사례 연구 Information technology convergence has been recognized one of the key drivers in the industry perspective. Korea government established IT convergence policy in 2008 and has been implementing it to the core industry such as automotive, shipbuilding and defense industries. This research analyzes various IT convergence issues based on an operation of defense IT convergence center, one of the industry IT convergence centers. Defense IT convergence issues are as follows : the methods for introducing rapid changing IT to military area, rapid deployment procedures of verified commercial technologies and products, regulations for using of domestic software promotion and so on. We define the concept of defense IT convergence and propose the framework and processes for applying IT to our defense sector as one of industries. Also, we establish various business models in the military perspective using defense IT convergence framework. In this paper, we focus the development of defense IT convergence through the alignment of national IT convergence policy and propose various business models established through operating a defense IT convergence center."
+        },
+        {
+          "rank": 3,
+          "score": 0.7793635129928589,
+          "doc_id": "145",
+          "text": "IT기업 관점에서의 국방IT융합 추진방향 IT기업 관점에서의 국방IT융합 추진방향 IT기업 관점에서의 국방IT융합 추진방향 IT convergence technology can boost the advancement of weapon systems and efficient operation for the military reformation in Korea. This study investigated IT firms' concern about the defense acquisition process for IT-convergent systems and the role of IT firms in the process with Focus Group Interview and in-depth interview on executives of IT firms, and classified the concern to three major issues. They are the clarification of IT firms' role in the defense IT-convergent efforts, the establishment of the control tower for defense IT convergence, and reasonable estimation of software development cost in the defense acquisition process."
+        },
+        {
+          "rank": 4,
+          "score": 0.7782819867134094,
+          "doc_id": "98",
+          "text": "국방 IT융합 비즈니스 모델 사례와 성과 분석 국방 IT융합 비즈니스 모델 사례와 성과 분석 국방 IT융합 비즈니스 모델 사례와 성과 분석 Information technology (IT) convergence have been recognized one of the key drivers in the industry perspective. Especially, IT convergence have been one of the most important innovative way for defense sector. Korea government established IT convergence policy in 2008 and have been applying it to the core industry such as automotive, shipbuilding and defense industries. Recently, the creative vitamin project has been launched. Vitamin 'D' means the way to create the value of defense industry. This research analyzes and evaluates various IT convergence business models based on an operation of defense IT convergence center from 2011 to 2014, which is the industry IT convergence centers. Defense IT convergence business models can be classified into four types of mission area as follows : weapon acquisition and management, military intelligence, military power construction, and resources management. We define the concept of defense IT convergence and describe the framework and processes for applying IT to the defense sector. We analyzes and evaluates various business models designed through defense IT convergence framework and processes."
+        },
+        {
+          "rank": 5,
+          "score": 0.7618595361709595,
+          "doc_id": "105",
+          "text": "A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data Technological convergence is yielding new values and affecting various fields not by single technology but by convergence between technologies. This study aims to analyze the IT -BT-NT convergence and differences between technologies in respect of collaboration within (inventor) and between (assignee) organizations. Among the main technologies leading the technological convergence, IT is the most active of converging with other fields. BT is knowledge-intensive and strong cooperative networks are important in this area.NT is applied in various industrial fields upon the basic technology. Using the data on applied and granted patents by Korean applicants in the U.S., this study conducted quantitative analysis and ANOVA to gain the following results. First, the degree of convergence in between IT-BT-NT is continuously increasing since 2002. Second, BT is where the collaboration within and between organizations is the most active among IT-BT-NT. Third, there were certain differences in the degree of convergence according to the years and the fields of technologies in all the IT-BT-NT. Organizations cooperate with other institutions to sustain their competitiveness with limited internal resources. Companies in these fields are recommended to perform diverse strategies to pursue further collaboration with the outside."
+        },
+        {
+          "rank": 6,
+          "score": 0.7617783546447754,
+          "doc_id": "138",
+          "text": "강원도 동계 스포츠 IT 융합 서비스 방안 연구 강원도 동계 스포츠 IT 융합 서비스 방안 연구 강원도 동계 스포츠 IT 융합 서비스 방안 연구 Recently, various types of information and communication technology (ICT) such as cloud computing, big data, and virtual reality have been progressed in the world. Also, it is expected that there are many domestic and foreign visitors in Gangwon-do due to the Pyeongchang winter olympic games in 2018. In this environment, it is necessary to improve the competitiveness of Gangwon-do in winter sports areas exploiting both existing IT infrastructure and application technologies. In this paper, for sustainable development of Gangwon-do winter sports IT industry after the Olympics, we propose efficient implementation methods of 3 winter sports IT convergence services and Gangwon-do ICT activation strategy. The proposed 3 winter sports IT service areas are as follows. 1) Realistic winter sports IT service, 2) Winter sports medical IT service 3) Winter sports record analysis IT service."
+        },
+        {
+          "rank": 7,
+          "score": 0.7522799968719482,
+          "doc_id": "218",
+          "text": "A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data Technological convergence is yielding new values and affecting various fields not by single technology but by convergence between technologies. This study aims to analyze the IT -BT-NT convergence and differences between technologies in respect of collaboration within (inventor) and between (assignee) organizations. Among the main technologies leading the technological convergence, IT is the most active of converging with other fields. BT is knowledge-intensive and strong cooperative networks are important in this area. NT is applied in various industrial fields upon the basic technology. Using the data on applied and granted patents by Korean applicants in the U.S., this study conducted quantitative analysis and ANOVA to gain the following results. First, the degree of convergence in between IT-BT-NT is continuously increasing since 2002. Second, BT is where the collaboration within and between organizations is the most active among IT-BT-NT. Third, there were certain differences in the degree of convergence according to the years and the fields of technologies in all the IT-BT-NT. Organizations cooperate with other institutions to sustain their competitiveness with limited internal resources. Companies in these fields are recommended to perform diverse strategies to pursue further collaboration with the outside."
+        },
+        {
+          "rank": 8,
+          "score": 0.7403911352157593,
+          "doc_id": "146",
+          "text": "미래 IT융합 신산업 육성 및 선도방안 미래 IT융합 신산업 육성 및 선도방안 미래 IT융합 신산업 육성 및 선도방안 IT는 한국의 경제성장에 큰 기여를 해왔으며 사회전반의 패러다임 혁신을 통해 생산성, 효율성, 편의성, 소통성을 증진시키고 삶의 양식에 전면적 변화를 가져왔다. 국민경제와 사회문화에서 지대한 의미를 지나는 IT는 다른 기술 또는 산업과의 융합이라는 새로운 변화와 혁신의 중심에 위치하고 있다. IT융합은 IT의 자체 고도화를 바탕으로 다른 분야의 기술개발과 산업발전을 견인하거나 새로운 산업을 창출하는 것으로 우리나라를 비롯하며 주요국에서는 자원과 역량을 선택적으로 집중하고 있다. 이 논문에서는 IT 융합과 관련된 주요국의 산업 전략 및 기술개발 동향을 파악하고 전문가 설문조사결과를 바탕으로 한국의 IT 융합역량의 수준을 평가하고 결론적으로 IT융합신산업육성 및 선도방안에 관한 전략적 제언을 하고자 한다."
+        },
+        {
+          "rank": 9,
+          "score": 0.7358503341674805,
+          "doc_id": "178",
+          "text": "IT 분야에서 컨버전스의 의미와 미래 전망 IT 분야에서 컨버전스의 의미와 미래 전망 IT 분야에서 컨버전스의 의미와 미래 전망 컨버전스(Convergence)란 단어는 집합, 집중, 수렴, 한 곳으로 모여짐 등의 뜻을 지닌 일반적인 용어로써 매우 발전해가고 있는 IT 분야에서 다양한 수요자의 욕구와 기술의 진화에 따라 최근에 매우 빈번하게 등장하고 있는 용어이자, 중요한 화두 중에 하나가 되고 있다. 이에 단어가 지니고 있는 일반적 의미를 다각적으로 분석함과 동시에 그 의미가 정보통신분야의 기술적 측면에서 또한 활용적인 측면에서 어떤 암시와 효과를 나타내고 있고, 나아가 IT 분야의 발전을 향한 목표 지향적인 측면에서의 역할이 가능한지와 또 다른 발전과 진화에 따라 어느 정도의 생명력과 경쟁력은 지닐 수 있는지를 살펴보고자 한다. 20세기 후반에 등장한 새로운 산업의 빅뱅이 되고 있는 IT 분야가 전세계로 확산, 발전되어감에 따라 수많은 일반적인 단어와 용어 들이 정보통신분야에서 도입, 활용하였고 이러한 용어들은 단어 자체의 의미 보다는 정보통신분야 발전의 현재와 미래를 규정해왔고, 나아가 정보통신 발전에 따른 혜택을 받는 전세계와 국내의 이용자들에게 많은 변화를 제공함과 동시에 연관분야의 산업에도 긍정적이던 부정적이던지 상호간 막대한 영향을 미쳐왔다고 분석된다. 이에 본 논문 자료는 IT 전문 용어가 아닌 일반적인 용어 중에서 IT 분야의 어떤 형태로든 영향을 미칠 용어 중에서 컨버전스란 단어를 통해 IT 분야의 현주소를 사례를 중심으로 분석, 점검하고 향후 IT 분야에서 컨버전스가 적용될 미래의 발전 모습을 전망하고자 하는데 있다."
+        },
+        {
+          "rank": 10,
+          "score": 0.7306848168373108,
+          "doc_id": "150",
+          "text": "한국 IT융합 신산업 역량강화요인 한국 IT융합 신산업 역량강화요인 한국 IT융합 신산업 역량강화요인 IT는 한국의 경제성장에 큰 기여를 해왔으며 사회전반의 패러다임 혁신을 통해 생산성, 효율성, 편의성, 소통성을 증진시키고 삶의 양식에 전면적 변화를 가져왔다. 국민경제와 사회문화에서 지대한 의미를 지니는 IT는 다른 기술 또는 산업과의 융합이라는 새로운 변화와 혁신의 중심에 위치하고 있다. IT융합은 IT의 자체 고도화를 바탕으로 다른 분야의 기술개발과 산업발전을 견인하거나 새로운 산업을 창출하는 것으로, 우리나라를 비롯하여 주요국에서는 자원과 역량을 선택적으로 집중하고 있다. 이 논문에서는 IT 융합 신산업 역량강화요인을 도출하고자 2011년도에 실시한 정책연구의 학계 및 공공기관 전문가 델파이 결과를 선행연구들과 비교하여 한국의 IT 융합역량의 수준 변화를 평가하고 결론적으로 한국의 IT융합 신산업 역량강화요인을 도출하고자 하였다."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

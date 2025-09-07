@@ -1,0 +1,221 @@
+{
+  "id": "row_000012",
+  "model_name": "Alibaba-NLP/gte-multilingual-base",
+  "timestamp_kst": "2025-09-07T17:17:03.858341+09:00",
+  "trial_id": "96d3a0d5",
+  "queries": [
+    {
+      "query": "Can you outline the main advances and challenges in applying artificial intelligence and Big Data to medical imaging in neurology?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.8148252964019775,
+          "doc_id": "204",
+          "text": "Artificial intelligence and Big Data in neurology Artificial intelligence and Big Data in neurology Artificial intelligence and Big Data in neurology ABSTRACTRecent advances in technology have allowed us access to a multitude of datasets pertaining to various dimensions in neurology. Together with the enormous opportunities, we also face challenges related to data quality, ethics and intrinsic difficulties related to the application of data science in healthcare. In this article we will describe the main advances in the field of artificial intelligence and Big Data applied to neurology with a focus on neurosciences based on medical images. Real-World Data (RWD) and analytics related to large volumes of information will be described as well as some of the most relevant scientific initiatives at the time of this writing."
+        },
+        {
+          "rank": 2,
+          "score": 0.7093489766120911,
+          "doc_id": "103",
+          "text": "Artificial Intelligence in Neuroimaging: Clinical Applications Artificial Intelligence in Neuroimaging: Clinical Applications Artificial Intelligence in Neuroimaging: Clinical Applications Artificial intelligence (AI) powered by deep learning (DL) has shown remarkable progress in image recognition tasks. Over the past decade, AI has proven its feasibility for applications in medical imaging. Various aspects of clinical practice in neuroimaging can be improved with the help of AI. For example, AI can aid in detecting brain metastases, predicting treatment response of brain tumors, generating a parametric map of dynamic contrast-enhanced MRI, and enhancing radiomics research by extracting salient features from input images. In addition, image quality can be improved via AI-based image reconstruction or motion artifact reduction. In this review, we summarize recent clinical applications of DL in various aspects of neuroimaging."
+        },
+        {
+          "rank": 3,
+          "score": 0.6539384126663208,
+          "doc_id": "87",
+          "text": "Big Data Analysis and Machine Learning in Intensive Care Units Big Data Analysis and Machine Learning in Intensive Care Units Big Data Analysis and Machine Learning in Intensive Care Units Abstract Intensive care is an ideal environment for the use of Big Data Analysis (BDA) and Machine Learning (ML), due to the huge amount of information processed and stored in electronic format in relation to such care. These tools can improve our clinical research capabilities and clinical decision making in the future. The present study reviews the foundations of BDA and ML, and explores possible applications in our field from a clinical viewpoint. We also suggest potential strategies to optimize these new technologies and describe a new kind of hybrid healthcare-data science professional with a linking role between clinicians and data."
+        },
+        {
+          "rank": 4,
+          "score": 0.6451188325881958,
+          "doc_id": "208",
+          "text": "For Big Data, Big Questions Remain For Big Data, Big Questions Remain For Big Data, Big Questions Remain Medicare&#x2019;s release of practitioner payments highlights the strengths and weaknesses of digging into big data."
+        },
+        {
+          "rank": 5,
+          "score": 0.6426640152931213,
+          "doc_id": "57",
+          "text": "Application of Machine Learning and Deep Learning in Imaging of Ischemic Stroke Application of Machine Learning and Deep Learning in Imaging of Ischemic Stroke Application of Machine Learning and Deep Learning in Imaging of Ischemic Stroke Timely analysis of imaging data is critical for diagnosis and decision-making for proper treatment strategy in the cases of ischemic stroke. Various efforts have been made to develop computer-assisted systems to improve the accuracy of stroke diagnosis and acute stroke triage. The widespread emergence of artificial intelligence technology has been integrated into the field of medicine. Artificial intelligence can play an important role in providing care to patients with stroke. In the past few decades, numerous studies have explored the use of machine learning and deep learning algorithms for application in the management of stroke. In this review, we will start with a brief introduction to machine learning and deep learning and provide clinical applications of machine learning and deep learning in various aspects of stroke management, including rapid diagnosis and improved triage, identifying large vessel occlusion, predicting time from stroke onset, automated ASPECTS (Alberta Stroke Program Early CT Score) measurement, lesion segmentation, and predicting treatment outcome. This work is focused on providing the current application of artificial intelligence techniques in the imaging of ischemic stroke, including MRI and CT."
+        },
+        {
+          "rank": 6,
+          "score": 0.6418960094451904,
+          "doc_id": "196",
+          "text": "Nursing Needs Big Data and Big Data Needs Nursing Nursing Needs Big Data and Big Data Needs Nursing Nursing Needs Big Data and Big Data Needs Nursing AbstractPurposeContemporary big data initiatives in health care will benefit from greater integration with nursing science and nursing practice; in turn, nursing science and nursing practice has much to gain from the data science initiatives. Big data arises secondary to scholarly inquiry (e.g., &#8208;omics) and everyday observations like cardiac flow sensors or Twitter feeds. Data science methods that are emerging ensure that these data be leveraged to improve patient care.Organizing ConstructBig data encompasses data that exceed human comprehension, that exist at a volume unmanageable by standard computer systems, that arrive at a velocity not under the control of the investigator and possess a level of imprecision not found in traditional inquiry. Data science methods are emerging to manage and gain insights from big data.MethodsThe primary methods included investigation of emerging federal big data initiatives, and exploration of exemplars from nursing informatics research to benchmark where nursing is already poised to participate in the big data revolution. We provide observations and reflections on experiences in the emerging big data initiatives.ConclusionsExisting approaches to large data set analysis provide a necessary but not sufficient foundation for nursing to participate in the big data revolution. Nursing's Social Policy Statement guides a principled, ethical perspective on big data and data science. There are implications for basic and advanced practice clinical nurses in practice, for the nurse scientist who collaborates with data scientists, and for the nurse data scientist.Clinical RelevanceBig data and data science has the potential to provide greater richness in understanding patient phenomena and in tailoring interventional strategies that are personalized to the patient."
+        },
+        {
+          "rank": 7,
+          "score": 0.6405359506607056,
+          "doc_id": "199",
+          "text": "Sharing big biomedical data Sharing big biomedical data Sharing big biomedical data BackgroundThe promise of Big Biomedical Data may be offset by the enormous challenges in handling, analyzing, and sharing it. In this paper, we provide a framework for developing practical and reasonable data sharing policies that incorporate the sociological, financial, technical and scientific requirements of a sustainable Big Data dependent scientific community.FindingsMany biomedical and healthcare studies may be significantly impacted by using large, heterogeneous and incongruent datasets; however there are significant technical, social, regulatory, and institutional barriers that need to be overcome to ensure the power of Big Data overcomes these detrimental factors.ConclusionsPragmatic policies that demand extensive sharing of data, promotion of data fusion, provenance, interoperability and balance security and protection of personal information are critical for the long term impact of translational Big Data analytics."
+        },
+        {
+          "rank": 8,
+          "score": 0.6151108741760254,
+          "doc_id": "217",
+          "text": "Les big data, g&eacute;n&eacute;ralit&eacute;s et int&eacute;gration en radioth&eacute;rapie Les big data, g&eacute;n&eacute;ralit&eacute;s et int&eacute;gration en radioth&eacute;rapie Les big data, g&eacute;n&eacute;ralit&eacute;s et int&eacute;gration en radioth&eacute;rapie Abstract The many advances in data collection computing systems (data collection, database, storage), diagnostic and therapeutic possibilities are responsible for an increase and a diversification of available data. Big data offers the capacities, in the field of health, to accelerate the discoveries and to optimize the management of patients by combining a large volume of data and the creation of therapeutic models. In radiotherapy, the development of big data is attractive because data are very numerous et heterogeneous (demographics, radiomics, genomics, radiogenomics, etc.). The expectation would be to predict the effectiveness and tolerance of radiation therapy. With these new concepts, still at the preliminary stage, it is possible to create a personalized medicine which is always more secure and reliable."
+        },
+        {
+          "rank": 9,
+          "score": 0.613286018371582,
+          "doc_id": "74",
+          "text": "A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis The image analysis is an important and predominant task for classifying the different parts of the image. The analysis of complex image analysis like histopathological define a crucial factor in oncology due to its ability to help pathologists for interpretation of images and therefore various feature extraction techniques have been evolved from time to time for such analysis. Although deep reinforcement learning is a new and emerging technique but very less effort has been made to compare the deep learning and deep reinforcement learning for image analysis. The paper highlights how both techniques differ in feature extraction from complex images and discusses the potential pros and cons. The use of Convolution Neural Network (CNN) in image segmentation, detection and diagnosis of tumour, feature extraction is important but there are several challenges that need to be overcome before Deep Learning can be applied to digital pathology. The one being is the availability of sufficient training examples for medical image datasets, feature extraction from whole area of the image, ground truth localized annotations, adversarial effects of input representations and extremely large size of the digital pathological slides (in gigabytes).Even though formulating Histopathological Image Analysis (HIA) as Multi Instance Learning (MIL) problem is a remarkable step where histopathological image is divided into high resolution patches to make predictions for the patch and then combining them for overall slide predictions but it suffers from loss of contextual and spatial information. In such cases the deep reinforcement learning techniques can be used to learn feature from the limited data without losing contextual and spatial information."
+        },
+        {
+          "rank": 10,
+          "score": 0.613286018371582,
+          "doc_id": "25",
+          "text": "A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis The image analysis is an important and predominant task for classifying the different parts of the image. The analysis of complex image analysis like histopathological define a crucial factor in oncology due to its ability to help pathologists for interpretation of images and therefore various feature extraction techniques have been evolved from time to time for such analysis. Although deep reinforcement learning is a new and emerging technique but very less effort has been made to compare the deep learning and deep reinforcement learning for image analysis. The paper highlights how both techniques differ in feature extraction from complex images and discusses the potential pros and cons. The use of Convolution Neural Network (CNN) in image segmentation, detection and diagnosis of tumour, feature extraction is important but there are several challenges that need to be overcome before Deep Learning can be applied to digital pathology. The one being is the availability of sufficient training examples for medical image datasets, feature extraction from whole area of the image, ground truth localized annotations, adversarial effects of input representations and extremely large size of the digital pathological slides (in gigabytes).Even though formulating Histopathological Image Analysis (HIA) as Multi Instance Learning (MIL) problem is a remarkable step where histopathological image is divided into high resolution patches to make predictions for the patch and then combining them for overall slide predictions but it suffers from loss of contextual and spatial information. In such cases the deep reinforcement learning techniques can be used to learn feature from the limited data without losing contextual and spatial information."
+        }
+      ]
+    },
+    {
+      "query": "What are the main advances in applying artificial intelligence and Big Data to medical imaging in neurology?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.8270424604415894,
+          "doc_id": "204",
+          "text": "Artificial intelligence and Big Data in neurology Artificial intelligence and Big Data in neurology Artificial intelligence and Big Data in neurology ABSTRACTRecent advances in technology have allowed us access to a multitude of datasets pertaining to various dimensions in neurology. Together with the enormous opportunities, we also face challenges related to data quality, ethics and intrinsic difficulties related to the application of data science in healthcare. In this article we will describe the main advances in the field of artificial intelligence and Big Data applied to neurology with a focus on neurosciences based on medical images. Real-World Data (RWD) and analytics related to large volumes of information will be described as well as some of the most relevant scientific initiatives at the time of this writing."
+        },
+        {
+          "rank": 2,
+          "score": 0.7487186193466187,
+          "doc_id": "103",
+          "text": "Artificial Intelligence in Neuroimaging: Clinical Applications Artificial Intelligence in Neuroimaging: Clinical Applications Artificial Intelligence in Neuroimaging: Clinical Applications Artificial intelligence (AI) powered by deep learning (DL) has shown remarkable progress in image recognition tasks. Over the past decade, AI has proven its feasibility for applications in medical imaging. Various aspects of clinical practice in neuroimaging can be improved with the help of AI. For example, AI can aid in detecting brain metastases, predicting treatment response of brain tumors, generating a parametric map of dynamic contrast-enhanced MRI, and enhancing radiomics research by extracting salient features from input images. In addition, image quality can be improved via AI-based image reconstruction or motion artifact reduction. In this review, we summarize recent clinical applications of DL in various aspects of neuroimaging."
+        },
+        {
+          "rank": 3,
+          "score": 0.6817188262939453,
+          "doc_id": "87",
+          "text": "Big Data Analysis and Machine Learning in Intensive Care Units Big Data Analysis and Machine Learning in Intensive Care Units Big Data Analysis and Machine Learning in Intensive Care Units Abstract Intensive care is an ideal environment for the use of Big Data Analysis (BDA) and Machine Learning (ML), due to the huge amount of information processed and stored in electronic format in relation to such care. These tools can improve our clinical research capabilities and clinical decision making in the future. The present study reviews the foundations of BDA and ML, and explores possible applications in our field from a clinical viewpoint. We also suggest potential strategies to optimize these new technologies and describe a new kind of hybrid healthcare-data science professional with a linking role between clinicians and data."
+        },
+        {
+          "rank": 4,
+          "score": 0.6541101932525635,
+          "doc_id": "196",
+          "text": "Nursing Needs Big Data and Big Data Needs Nursing Nursing Needs Big Data and Big Data Needs Nursing Nursing Needs Big Data and Big Data Needs Nursing AbstractPurposeContemporary big data initiatives in health care will benefit from greater integration with nursing science and nursing practice; in turn, nursing science and nursing practice has much to gain from the data science initiatives. Big data arises secondary to scholarly inquiry (e.g., &#8208;omics) and everyday observations like cardiac flow sensors or Twitter feeds. Data science methods that are emerging ensure that these data be leveraged to improve patient care.Organizing ConstructBig data encompasses data that exceed human comprehension, that exist at a volume unmanageable by standard computer systems, that arrive at a velocity not under the control of the investigator and possess a level of imprecision not found in traditional inquiry. Data science methods are emerging to manage and gain insights from big data.MethodsThe primary methods included investigation of emerging federal big data initiatives, and exploration of exemplars from nursing informatics research to benchmark where nursing is already poised to participate in the big data revolution. We provide observations and reflections on experiences in the emerging big data initiatives.ConclusionsExisting approaches to large data set analysis provide a necessary but not sufficient foundation for nursing to participate in the big data revolution. Nursing's Social Policy Statement guides a principled, ethical perspective on big data and data science. There are implications for basic and advanced practice clinical nurses in practice, for the nurse scientist who collaborates with data scientists, and for the nurse data scientist.Clinical RelevanceBig data and data science has the potential to provide greater richness in understanding patient phenomena and in tailoring interventional strategies that are personalized to the patient."
+        },
+        {
+          "rank": 5,
+          "score": 0.6401914358139038,
+          "doc_id": "217",
+          "text": "Les big data, g&eacute;n&eacute;ralit&eacute;s et int&eacute;gration en radioth&eacute;rapie Les big data, g&eacute;n&eacute;ralit&eacute;s et int&eacute;gration en radioth&eacute;rapie Les big data, g&eacute;n&eacute;ralit&eacute;s et int&eacute;gration en radioth&eacute;rapie Abstract The many advances in data collection computing systems (data collection, database, storage), diagnostic and therapeutic possibilities are responsible for an increase and a diversification of available data. Big data offers the capacities, in the field of health, to accelerate the discoveries and to optimize the management of patients by combining a large volume of data and the creation of therapeutic models. In radiotherapy, the development of big data is attractive because data are very numerous et heterogeneous (demographics, radiomics, genomics, radiogenomics, etc.). The expectation would be to predict the effectiveness and tolerance of radiation therapy. With these new concepts, still at the preliminary stage, it is possible to create a personalized medicine which is always more secure and reliable."
+        },
+        {
+          "rank": 6,
+          "score": 0.6401315927505493,
+          "doc_id": "57",
+          "text": "Application of Machine Learning and Deep Learning in Imaging of Ischemic Stroke Application of Machine Learning and Deep Learning in Imaging of Ischemic Stroke Application of Machine Learning and Deep Learning in Imaging of Ischemic Stroke Timely analysis of imaging data is critical for diagnosis and decision-making for proper treatment strategy in the cases of ischemic stroke. Various efforts have been made to develop computer-assisted systems to improve the accuracy of stroke diagnosis and acute stroke triage. The widespread emergence of artificial intelligence technology has been integrated into the field of medicine. Artificial intelligence can play an important role in providing care to patients with stroke. In the past few decades, numerous studies have explored the use of machine learning and deep learning algorithms for application in the management of stroke. In this review, we will start with a brief introduction to machine learning and deep learning and provide clinical applications of machine learning and deep learning in various aspects of stroke management, including rapid diagnosis and improved triage, identifying large vessel occlusion, predicting time from stroke onset, automated ASPECTS (Alberta Stroke Program Early CT Score) measurement, lesion segmentation, and predicting treatment outcome. This work is focused on providing the current application of artificial intelligence techniques in the imaging of ischemic stroke, including MRI and CT."
+        },
+        {
+          "rank": 7,
+          "score": 0.6327183246612549,
+          "doc_id": "152",
+          "text": "Deep Learning in MR Image Processing Deep Learning in MR Image Processing Deep Learning in MR Image Processing Recently, deep learning methods have shown great potential in various tasks that involve handling large amounts of digital data. In the field of MR imaging research, deep learning methods are also rapidly being applied in a wide range of areas to complement or replace traditional model-based methods. Deep learning methods have shown remarkable improvements in several MR image processing areas such as image reconstruction, image quality improvement, parameter mapping, image contrast conversion, and image segmentation. With the current rapid development of deep learning technologies, the importance of the role of deep learning in MR imaging research appears to be growing. In this article, we introduce the basic concepts of deep learning and review recent studies on various MR image processing applications."
+        },
+        {
+          "rank": 8,
+          "score": 0.6207370758056641,
+          "doc_id": "43",
+          "text": "Enjeux des big data en sant&eacute; Enjeux des big data en sant&eacute; Enjeux des big data en sant&eacute; Summary The government has commissioned a report on the topic, the Estates General on Bioethics refer to it and the Order of Doctors have published a white paper. Everybody is talking about big data and artificial intelligence but few have witnessed these innovations at work, innovations which now seem to be within reach of health professionals. This field, unknown to the general public a few years ago, has become an object of all fantasies and is bringing about a new industrial revolution."
+        },
+        {
+          "rank": 9,
+          "score": 0.6091020107269287,
+          "doc_id": "88",
+          "text": "Machine learning on Big Data Machine learning on Big Data Machine learning on Big Data Statistical Machine Learning has undergone a phase transition from a pure academic endeavor to being one of the main drivers of modern commerce and science. Even more so, recent results such as those on tera-scale learning [1] and on very large neural networks [2] suggest that scale is an important ingredient in quality modeling. This tutorial introduces current applications, techniques and systems with the aim of cross-fertilizing research between the database and machine learning communities. The tutorial covers current large scale applications of Machine Learning, their computational model and the workflow behind building those. Based on this foundation, we present the current state-of-the-art in systems support in the bulk of the tutorial. We also identify critical gaps in the state-of-the-art. This leads to the closing of the seminar, where we introduce two sets of open research questions: Better systems support for the already established use cases of Machine Learning and support for recent advances in Machine Learning research."
+        },
+        {
+          "rank": 10,
+          "score": 0.5970150828361511,
+          "doc_id": "158",
+          "text": "Big business with Big Data Big Business mit Big Data Big business with Big Data Big Business mit Big Data Big business with Big Data Big Business mit Big Data Big business with Big Data Big Business mit Big Data"
+        }
+      ]
+    },
+    {
+      "query": "What are the main challenges in applying artificial intelligence and Big Data to medical imaging in neurology?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.8014207482337952,
+          "doc_id": "204",
+          "text": "Artificial intelligence and Big Data in neurology Artificial intelligence and Big Data in neurology Artificial intelligence and Big Data in neurology ABSTRACTRecent advances in technology have allowed us access to a multitude of datasets pertaining to various dimensions in neurology. Together with the enormous opportunities, we also face challenges related to data quality, ethics and intrinsic difficulties related to the application of data science in healthcare. In this article we will describe the main advances in the field of artificial intelligence and Big Data applied to neurology with a focus on neurosciences based on medical images. Real-World Data (RWD) and analytics related to large volumes of information will be described as well as some of the most relevant scientific initiatives at the time of this writing."
+        },
+        {
+          "rank": 2,
+          "score": 0.6952056288719177,
+          "doc_id": "103",
+          "text": "Artificial Intelligence in Neuroimaging: Clinical Applications Artificial Intelligence in Neuroimaging: Clinical Applications Artificial Intelligence in Neuroimaging: Clinical Applications Artificial intelligence (AI) powered by deep learning (DL) has shown remarkable progress in image recognition tasks. Over the past decade, AI has proven its feasibility for applications in medical imaging. Various aspects of clinical practice in neuroimaging can be improved with the help of AI. For example, AI can aid in detecting brain metastases, predicting treatment response of brain tumors, generating a parametric map of dynamic contrast-enhanced MRI, and enhancing radiomics research by extracting salient features from input images. In addition, image quality can be improved via AI-based image reconstruction or motion artifact reduction. In this review, we summarize recent clinical applications of DL in various aspects of neuroimaging."
+        },
+        {
+          "rank": 3,
+          "score": 0.6670931577682495,
+          "doc_id": "87",
+          "text": "Big Data Analysis and Machine Learning in Intensive Care Units Big Data Analysis and Machine Learning in Intensive Care Units Big Data Analysis and Machine Learning in Intensive Care Units Abstract Intensive care is an ideal environment for the use of Big Data Analysis (BDA) and Machine Learning (ML), due to the huge amount of information processed and stored in electronic format in relation to such care. These tools can improve our clinical research capabilities and clinical decision making in the future. The present study reviews the foundations of BDA and ML, and explores possible applications in our field from a clinical viewpoint. We also suggest potential strategies to optimize these new technologies and describe a new kind of hybrid healthcare-data science professional with a linking role between clinicians and data."
+        },
+        {
+          "rank": 4,
+          "score": 0.6636019945144653,
+          "doc_id": "208",
+          "text": "For Big Data, Big Questions Remain For Big Data, Big Questions Remain For Big Data, Big Questions Remain Medicare&#x2019;s release of practitioner payments highlights the strengths and weaknesses of digging into big data."
+        },
+        {
+          "rank": 5,
+          "score": 0.6587158441543579,
+          "doc_id": "196",
+          "text": "Nursing Needs Big Data and Big Data Needs Nursing Nursing Needs Big Data and Big Data Needs Nursing Nursing Needs Big Data and Big Data Needs Nursing AbstractPurposeContemporary big data initiatives in health care will benefit from greater integration with nursing science and nursing practice; in turn, nursing science and nursing practice has much to gain from the data science initiatives. Big data arises secondary to scholarly inquiry (e.g., &#8208;omics) and everyday observations like cardiac flow sensors or Twitter feeds. Data science methods that are emerging ensure that these data be leveraged to improve patient care.Organizing ConstructBig data encompasses data that exceed human comprehension, that exist at a volume unmanageable by standard computer systems, that arrive at a velocity not under the control of the investigator and possess a level of imprecision not found in traditional inquiry. Data science methods are emerging to manage and gain insights from big data.MethodsThe primary methods included investigation of emerging federal big data initiatives, and exploration of exemplars from nursing informatics research to benchmark where nursing is already poised to participate in the big data revolution. We provide observations and reflections on experiences in the emerging big data initiatives.ConclusionsExisting approaches to large data set analysis provide a necessary but not sufficient foundation for nursing to participate in the big data revolution. Nursing's Social Policy Statement guides a principled, ethical perspective on big data and data science. There are implications for basic and advanced practice clinical nurses in practice, for the nurse scientist who collaborates with data scientists, and for the nurse data scientist.Clinical RelevanceBig data and data science has the potential to provide greater richness in understanding patient phenomena and in tailoring interventional strategies that are personalized to the patient."
+        },
+        {
+          "rank": 6,
+          "score": 0.6566762924194336,
+          "doc_id": "199",
+          "text": "Sharing big biomedical data Sharing big biomedical data Sharing big biomedical data BackgroundThe promise of Big Biomedical Data may be offset by the enormous challenges in handling, analyzing, and sharing it. In this paper, we provide a framework for developing practical and reasonable data sharing policies that incorporate the sociological, financial, technical and scientific requirements of a sustainable Big Data dependent scientific community.FindingsMany biomedical and healthcare studies may be significantly impacted by using large, heterogeneous and incongruent datasets; however there are significant technical, social, regulatory, and institutional barriers that need to be overcome to ensure the power of Big Data overcomes these detrimental factors.ConclusionsPragmatic policies that demand extensive sharing of data, promotion of data fusion, provenance, interoperability and balance security and protection of personal information are critical for the long term impact of translational Big Data analytics."
+        },
+        {
+          "rank": 7,
+          "score": 0.6343798637390137,
+          "doc_id": "57",
+          "text": "Application of Machine Learning and Deep Learning in Imaging of Ischemic Stroke Application of Machine Learning and Deep Learning in Imaging of Ischemic Stroke Application of Machine Learning and Deep Learning in Imaging of Ischemic Stroke Timely analysis of imaging data is critical for diagnosis and decision-making for proper treatment strategy in the cases of ischemic stroke. Various efforts have been made to develop computer-assisted systems to improve the accuracy of stroke diagnosis and acute stroke triage. The widespread emergence of artificial intelligence technology has been integrated into the field of medicine. Artificial intelligence can play an important role in providing care to patients with stroke. In the past few decades, numerous studies have explored the use of machine learning and deep learning algorithms for application in the management of stroke. In this review, we will start with a brief introduction to machine learning and deep learning and provide clinical applications of machine learning and deep learning in various aspects of stroke management, including rapid diagnosis and improved triage, identifying large vessel occlusion, predicting time from stroke onset, automated ASPECTS (Alberta Stroke Program Early CT Score) measurement, lesion segmentation, and predicting treatment outcome. This work is focused on providing the current application of artificial intelligence techniques in the imaging of ischemic stroke, including MRI and CT."
+        },
+        {
+          "rank": 8,
+          "score": 0.6339816451072693,
+          "doc_id": "25",
+          "text": "A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis The image analysis is an important and predominant task for classifying the different parts of the image. The analysis of complex image analysis like histopathological define a crucial factor in oncology due to its ability to help pathologists for interpretation of images and therefore various feature extraction techniques have been evolved from time to time for such analysis. Although deep reinforcement learning is a new and emerging technique but very less effort has been made to compare the deep learning and deep reinforcement learning for image analysis. The paper highlights how both techniques differ in feature extraction from complex images and discusses the potential pros and cons. The use of Convolution Neural Network (CNN) in image segmentation, detection and diagnosis of tumour, feature extraction is important but there are several challenges that need to be overcome before Deep Learning can be applied to digital pathology. The one being is the availability of sufficient training examples for medical image datasets, feature extraction from whole area of the image, ground truth localized annotations, adversarial effects of input representations and extremely large size of the digital pathological slides (in gigabytes).Even though formulating Histopathological Image Analysis (HIA) as Multi Instance Learning (MIL) problem is a remarkable step where histopathological image is divided into high resolution patches to make predictions for the patch and then combining them for overall slide predictions but it suffers from loss of contextual and spatial information. In such cases the deep reinforcement learning techniques can be used to learn feature from the limited data without losing contextual and spatial information."
+        },
+        {
+          "rank": 9,
+          "score": 0.6339816451072693,
+          "doc_id": "74",
+          "text": "A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis The image analysis is an important and predominant task for classifying the different parts of the image. The analysis of complex image analysis like histopathological define a crucial factor in oncology due to its ability to help pathologists for interpretation of images and therefore various feature extraction techniques have been evolved from time to time for such analysis. Although deep reinforcement learning is a new and emerging technique but very less effort has been made to compare the deep learning and deep reinforcement learning for image analysis. The paper highlights how both techniques differ in feature extraction from complex images and discusses the potential pros and cons. The use of Convolution Neural Network (CNN) in image segmentation, detection and diagnosis of tumour, feature extraction is important but there are several challenges that need to be overcome before Deep Learning can be applied to digital pathology. The one being is the availability of sufficient training examples for medical image datasets, feature extraction from whole area of the image, ground truth localized annotations, adversarial effects of input representations and extremely large size of the digital pathological slides (in gigabytes).Even though formulating Histopathological Image Analysis (HIA) as Multi Instance Learning (MIL) problem is a remarkable step where histopathological image is divided into high resolution patches to make predictions for the patch and then combining them for overall slide predictions but it suffers from loss of contextual and spatial information. In such cases the deep reinforcement learning techniques can be used to learn feature from the limited data without losing contextual and spatial information."
+        },
+        {
+          "rank": 10,
+          "score": 0.6266034245491028,
+          "doc_id": "120",
+          "text": "Big Data Key Challenges Big Data Key Challenges Big Data Key Challenges The big data term refers to the great volume of data and complicated data structure with difficulties in collecting, storing, processing, and analyzing these data. Big data analytics refers to the operation of disclosing hidden patterns through big data. This information and data set cloud to be useful and provide advanced services. However, analyzing and processing this information could cause revealing and disclosing some sensitive and personal information when the information is contained in applications that are correlated to users such as location-based services, but concerns are diminished if the applications are correlated to general information such as scientific results. In this work, a survey has been done over security and privacy challenges and approaches in big data. The challenges included here are in each of the following areas: privacy, access control, encryption, and authentication in big data. Likewise, the approaches presented here are privacy-preserving approaches in big data, access control approaches in big data, encryption approaches in big data, and authentication approaches in big data."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "id": "row_000020",
+  "model_name": "Snowflake/snowflake-arctic-embed-l-v2.0",
+  "timestamp_kst": "2025-09-07T15:58:55.886099+09:00",
+  "trial_id": "1bfc6bed",
+  "queries": [
+    {
+      "query": "제조 품질 개선을 위해 제안된 식스 시그마 기반 Big Data 활용 방법의 주요 절차를 요약해 주시겠습니까?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5555236339569092,
+          "doc_id": "161",
+          "text": "20세기 대량 생산 시대 이래로 제조 기업의 품질은 가장 중요한 요소가 되어왔다. 따라서 품질에 대한 올바른 정의와 품질 개선을 위한 다양한 도구와 방법이 개발되어 왔으며 이의 효율적 적용을 위한 노력도 병행되어 왔다. 이러한 노력은 제조 기업의 품질 제일주의, 전사적 품질 경영, 식스 시그마 등을 통하여 정형화되고 다양한 분야에 적용되고 있다. 또한 최근 Big Data의 유용성이 소개되면서 이에 대한 제조 업계의 관심이 높아지고 있으나 이에 대한 적용은 아직 미흡한 면이 있다. 본 논문은 기존의 품질 개선을 위한 프로젝트 실행 방법을 정리해 보고 대표적인 프로젝트 중심의 개선 방법인 식스 시그마의 실행 방법을 기준으로 Big Data 활용 방법을 제안해 보기로 한다."
+        },
+        {
+          "rank": 2,
+          "score": 0.38756242394447327,
+          "doc_id": "62",
+          "text": "This study reviews the analysis and characteristics of databases from big data and then establishes representational strategy. Thus, analysis has continued for a long time in the quantity and quality of data, and there are changes in the location of data in the social sciences, past trends and the emergence of big data. The introduction of big data is presented as a prototype of new social science and is a useful practical example that empirically shows the need, basis, and direction of analysis through trend prediction services. Big data provides a future perspective as an important foundation for social change within the framework of basic social sciences."
+        },
+        {
+          "rank": 3,
+          "score": 0.3785267472267151,
+          "doc_id": "158",
+          "text": "Big business with Big Data Big Business mit Big Data"
+        },
+        {
+          "rank": 4,
+          "score": 0.36611250042915344,
+          "doc_id": "71",
+          "text": "Purpose: The main purpose of this work was to present the problems of big data and to present how small data can be used as a complement to big data and its effects step by step in the big data through the concept of value chain. Recently, the big data market is growing rapidly around the world because data is processed on the basis of size, diversity, speed, accuracy and value. Specifically, this study focuses on its application to Jeju tourism. Research design, data, and methodology: The problems of big data were clearly presented using various real-world examples, and the verification of the compromise with small data and its effectiveness were conducted based on research papers discussing Jeju tourism using big data. The results of the study suggested the use of small data to solve and verify the representation of big data at the collection stage of the big data value chain, and the analysis stage suggested combining the identification of behavior patterns, the strengths of small data, and the exploration of causal relationships. Results: Among various stage, in the curation phase, a cause-and-effect analysis using small data suggested a solution to the problem of mistaking the correlation of big data as causality, and in the storage phase, a policy plan using small data was proposed to solve the problem of privacy infringement. The most important part of this study was the application stage, which discussed the specific problems of big data and the possibility of compromise between small data. As well, in the utilization phase, a combination of correlation and causality, as in the curation phase, was proposed. Conclusions: As an implication of this study, we used specific examples to present synergies when big data is compromised with small data. It also showed that the compromised use of big data and small data can contribute not only in terms of research but also in terms of practicality in tourism industry. Finally, we expanded the foundation of research in terms of academic research, discussing the trade-off utilization of big and small data."
+        },
+        {
+          "rank": 5,
+          "score": 0.36570096015930176,
+          "doc_id": "165",
+          "text": "패키징 분야도 4차 산업혁명에 발 맞춰 IoT (Internet of Things), 빅데이터, 클라우드 및 소비자 기반 기술 등이 적용되어 스마트 패키징이 등장하고 있다. 정책, 예측, 마케팅, 디자인 등 다양한 분야에서 빅데이터 분석이 활용되고 있지만 패키징 분야에서의 연구는 아직 초보적 수준이다. 따라서 본 연구는 빅데이터를 패키징 분야에 적용하기 위해 선행연구과 관련서적을 통해 빅데이터의 정의와 연구에서 활용되는 데이터 수집, 저장, 분석방법을 정리하였고 패키징 분야에 적용할 수 있는 분석방법을 제시하였다. 오늘날 패키징 분야는 마케팅적 요소를 요구받고 있기 때문에 패키징에 대한 소비자의 인식을 파악할 필요가 있으며 빅데이터의 근원이 되는 5가지 데이터 중 사유데이터(private data)와 커뮤니티 데이터(community data)를 활용하여 소비자와 제품 간의 상호작용 분석하는데 활용하고자 한다. 패키징은 소비자의 관심을 끌기 위한 전략전인 도구로 사용되며 소비자의 구매위험을 줄이는 수단이 되기 때문에 패키징에 대한 소비자의 인식을 분석할 필요가 있다. 본 연구에서는 제품 개선을 위한 문제점 도출 과정에서 의미연결망 분석(Semantic Network Analysis)과 텍스트마이닝(Text mining)을 활용하여 제품을 구성하는 다양한 요소들을 파악하고 패키징 요소의 빈도분석을 거쳐 패키징의 영향력을 확인하는 방안과 저관여 제품을 대상으로 텍스트 마이닝(Text mining)과 오피니언 마이닝(Opinion Mining), 소셜 네트워크 분석(Social Network Analysis)을 통해 패키징에 대한 감정분석을 하여 동일한 제품군에서 소비자가 선호하는 패키징을 도출하는 방안을 제시하였다. 패키징은 제품을 구성하는 많은 요소들 중 하나이기 때문에 패키징이라는 단일 요소의 영향력을 파악하기란 쉽지 않지만 본 연구는 빅데이터를 활용하여 패키징에 대한 소비자의 인식과 감정을 분석하고 제품에서 패키징이 소비자에게 미치는 영향력을 분석할 수 있는 방안을 제시한 데 의의가 있다."
+        },
+        {
+          "rank": 6,
+          "score": 0.3575893044471741,
+          "doc_id": "140",
+          "text": "Macromolecular Big Data provide numerous challenges and a number of initiatives that are starting to overcome these issues are discussed."
+        },
+        {
+          "rank": 7,
+          "score": 0.34214550256729126,
+          "doc_id": "200",
+          "text": "본 논문에서는 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조를 개발한다. 제안하는 복합 미생물 배양기는 수집한 복합 미생물 데이터에 대해 복합 미생물 데이터 전처리, 복합 미생물 데이터 구조 변환, 딥러닝 네트워크 설계, 설계한 딥러닝 네트워크 학습, 시제품에 적용되는 GUI 개발 등으로 구성된다. 복합 미생물 데이터 전처리에서는 미생물 배양에 필요한 당밀, 영양제, 식물엑기스, 소금 등의 양에 대해 원-핫 인코딩을 실시하며, 배양된 결과로 측정된 pH 농도와 미생물의 셀 수에 대해 최대-최소 정규화 방법을 사용하여 데이터를 전처리한다. 복합 미생물 데이터 구조 변환에서는 전처리된 데이터를 물 온도와 미생물의 셀 수를 연결하여 그래프 구조로 변환 후, 인접 행렬과 속성 정보로 나타내어 딥러닝 네트워크의 입력 데이터로 사용한다. 딥러닝 네트워크 설계에서는 그래프 구조에 특화된 그래프 합성곱 네트워크를 설계하여 복합 미생물 데이터를 학습시킨다. 설계한 딥러닝 네트워크는 Cosine 손실함수를 사용하여 학습 시에 발생하는 오차를 최소화하는 방향으로 학습을 진행한다. 시제품에 적용되는 GUI 개발은 사용자가 선택하는 물 온도에 따라 목표하는 pH 농도(3.8 이하) 복합 미생물의 셀 수(108 이상)를 배양시키기 적합한 순으로 나타낸다. 제안된 미생물 배양기의 성능을 평가하기 위하여 공인시험기관에서 실험한 결과는, pH 농도의 경우 평균 3.7로, 복합 미생물의 셀 수는 1.7 &#x00D7; 108으로 측정되었다. 따라서, 본 논문에서 제안한 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조의 효용성이 입증되었다."
+        },
+        {
+          "rank": 8,
+          "score": 0.3390670418739319,
+          "doc_id": "196",
+          "text": "AbstractPurposeContemporary big data initiatives in health care will benefit from greater integration with nursing science and nursing practice; in turn, nursing science and nursing practice has much to gain from the data science initiatives. Big data arises secondary to scholarly inquiry (e.g., &#8208;omics) and everyday observations like cardiac flow sensors or Twitter feeds. Data science methods that are emerging ensure that these data be leveraged to improve patient care.Organizing ConstructBig data encompasses data that exceed human comprehension, that exist at a volume unmanageable by standard computer systems, that arrive at a velocity not under the control of the investigator and possess a level of imprecision not found in traditional inquiry. Data science methods are emerging to manage and gain insights from big data.MethodsThe primary methods included investigation of emerging federal big data initiatives, and exploration of exemplars from nursing informatics research to benchmark where nursing is already poised to participate in the big data revolution. We provide observations and reflections on experiences in the emerging big data initiatives.ConclusionsExisting approaches to large data set analysis provide a necessary but not sufficient foundation for nursing to participate in the big data revolution. Nursing's Social Policy Statement guides a principled, ethical perspective on big data and data science. There are implications for basic and advanced practice clinical nurses in practice, for the nurse scientist who collaborates with data scientists, and for the nurse data scientist.Clinical RelevanceBig data and data science has the potential to provide greater richness in understanding patient phenomena and in tailoring interventional strategies that are personalized to the patient."
+        },
+        {
+          "rank": 9,
+          "score": 0.338359534740448,
+          "doc_id": "227",
+          "text": "본 연구는 오늘날 산업 전반적으로 영향을 미치고 있는 디지탈 전환(Digital Transformation)의 기술 환경과 디지탈 전환의 산업적 창고관리 부분의 모델연구가 본 논문의 목적이다. &amp;#xD; &amp;#xD; 디지털 전환은 오랫동안 디지털화와 비슷하거나 또는 디지털 방식으로 저장할 수 있도록 기존 데이터 형태를 전환하는 것과 관련이 있다. 물론 이 점이 중요하긴 하지만, 이전의 디지털화는 최신 디지털 전환의 영역을 포함하지 않았었다.&amp;#xD; &amp;#xD; 특히 이번 연구에서는 Big Data를 중심으로 Warehouse Management System의 방향을 제시 하고자 한다."
+        },
+        {
+          "rank": 10,
+          "score": 0.33533862233161926,
+          "doc_id": "109",
+          "text": "Recently data processing has main gained many attention both from academic and commercial industry. Their term use to tools, technical methods and frameworks made to gathering, collect, store, processing and analysis massive amounts of data. Data processing and analysis are based on structured/semi -structured/unstructured by big data, as well as is generated from various different sources in the system at various rates. For the purpose of processing with their large data and suitable way, voluminous parallelism is usually used. The general architecture of a big data system is made up a shared cluster of their machines. Nonetheless, even in very parallel environment, data processing is often very time-consuming. A various applications can take up to everytime to produce useful results, interactive analysis and debugging. Nevertheless, we have main problems that how we have a high performance requires both quality of data locality and resource. Moreover, big data analysis provide the amount of data that is processed typically large in comparison with computation in their systems. In other words, specified optimization that would relieve low-level to achieve good performance essentially. Accordingly, our main goal of this research paper provide how we have to do to optimize for big data frameworks. Our contribute approach to make big data cloud platform for easy and efficient processing of big data. In addition, we provides results from a study of existing optimization of data processing in MapReduce and Hadoop oriented systems."
+        }
+      ]
+    },
+    {
+      "query": "제조 품질 개선을 위해 제안된 식스 시그마 기반 Big Data 활용 방법의 주요 절차는 무엇입니까?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5574743747711182,
+          "doc_id": "161",
+          "text": "20세기 대량 생산 시대 이래로 제조 기업의 품질은 가장 중요한 요소가 되어왔다. 따라서 품질에 대한 올바른 정의와 품질 개선을 위한 다양한 도구와 방법이 개발되어 왔으며 이의 효율적 적용을 위한 노력도 병행되어 왔다. 이러한 노력은 제조 기업의 품질 제일주의, 전사적 품질 경영, 식스 시그마 등을 통하여 정형화되고 다양한 분야에 적용되고 있다. 또한 최근 Big Data의 유용성이 소개되면서 이에 대한 제조 업계의 관심이 높아지고 있으나 이에 대한 적용은 아직 미흡한 면이 있다. 본 논문은 기존의 품질 개선을 위한 프로젝트 실행 방법을 정리해 보고 대표적인 프로젝트 중심의 개선 방법인 식스 시그마의 실행 방법을 기준으로 Big Data 활용 방법을 제안해 보기로 한다."
+        },
+        {
+          "rank": 2,
+          "score": 0.38429760932922363,
+          "doc_id": "62",
+          "text": "This study reviews the analysis and characteristics of databases from big data and then establishes representational strategy. Thus, analysis has continued for a long time in the quantity and quality of data, and there are changes in the location of data in the social sciences, past trends and the emergence of big data. The introduction of big data is presented as a prototype of new social science and is a useful practical example that empirically shows the need, basis, and direction of analysis through trend prediction services. Big data provides a future perspective as an important foundation for social change within the framework of basic social sciences."
+        },
+        {
+          "rank": 3,
+          "score": 0.3804713189601898,
+          "doc_id": "158",
+          "text": "Big business with Big Data Big Business mit Big Data"
+        },
+        {
+          "rank": 4,
+          "score": 0.369114488363266,
+          "doc_id": "165",
+          "text": "패키징 분야도 4차 산업혁명에 발 맞춰 IoT (Internet of Things), 빅데이터, 클라우드 및 소비자 기반 기술 등이 적용되어 스마트 패키징이 등장하고 있다. 정책, 예측, 마케팅, 디자인 등 다양한 분야에서 빅데이터 분석이 활용되고 있지만 패키징 분야에서의 연구는 아직 초보적 수준이다. 따라서 본 연구는 빅데이터를 패키징 분야에 적용하기 위해 선행연구과 관련서적을 통해 빅데이터의 정의와 연구에서 활용되는 데이터 수집, 저장, 분석방법을 정리하였고 패키징 분야에 적용할 수 있는 분석방법을 제시하였다. 오늘날 패키징 분야는 마케팅적 요소를 요구받고 있기 때문에 패키징에 대한 소비자의 인식을 파악할 필요가 있으며 빅데이터의 근원이 되는 5가지 데이터 중 사유데이터(private data)와 커뮤니티 데이터(community data)를 활용하여 소비자와 제품 간의 상호작용 분석하는데 활용하고자 한다. 패키징은 소비자의 관심을 끌기 위한 전략전인 도구로 사용되며 소비자의 구매위험을 줄이는 수단이 되기 때문에 패키징에 대한 소비자의 인식을 분석할 필요가 있다. 본 연구에서는 제품 개선을 위한 문제점 도출 과정에서 의미연결망 분석(Semantic Network Analysis)과 텍스트마이닝(Text mining)을 활용하여 제품을 구성하는 다양한 요소들을 파악하고 패키징 요소의 빈도분석을 거쳐 패키징의 영향력을 확인하는 방안과 저관여 제품을 대상으로 텍스트 마이닝(Text mining)과 오피니언 마이닝(Opinion Mining), 소셜 네트워크 분석(Social Network Analysis)을 통해 패키징에 대한 감정분석을 하여 동일한 제품군에서 소비자가 선호하는 패키징을 도출하는 방안을 제시하였다. 패키징은 제품을 구성하는 많은 요소들 중 하나이기 때문에 패키징이라는 단일 요소의 영향력을 파악하기란 쉽지 않지만 본 연구는 빅데이터를 활용하여 패키징에 대한 소비자의 인식과 감정을 분석하고 제품에서 패키징이 소비자에게 미치는 영향력을 분석할 수 있는 방안을 제시한 데 의의가 있다."
+        },
+        {
+          "rank": 5,
+          "score": 0.36123013496398926,
+          "doc_id": "227",
+          "text": "본 연구는 오늘날 산업 전반적으로 영향을 미치고 있는 디지탈 전환(Digital Transformation)의 기술 환경과 디지탈 전환의 산업적 창고관리 부분의 모델연구가 본 논문의 목적이다. &amp;#xD; &amp;#xD; 디지털 전환은 오랫동안 디지털화와 비슷하거나 또는 디지털 방식으로 저장할 수 있도록 기존 데이터 형태를 전환하는 것과 관련이 있다. 물론 이 점이 중요하긴 하지만, 이전의 디지털화는 최신 디지털 전환의 영역을 포함하지 않았었다.&amp;#xD; &amp;#xD; 특히 이번 연구에서는 Big Data를 중심으로 Warehouse Management System의 방향을 제시 하고자 한다."
+        },
+        {
+          "rank": 6,
+          "score": 0.35881638526916504,
+          "doc_id": "71",
+          "text": "Purpose: The main purpose of this work was to present the problems of big data and to present how small data can be used as a complement to big data and its effects step by step in the big data through the concept of value chain. Recently, the big data market is growing rapidly around the world because data is processed on the basis of size, diversity, speed, accuracy and value. Specifically, this study focuses on its application to Jeju tourism. Research design, data, and methodology: The problems of big data were clearly presented using various real-world examples, and the verification of the compromise with small data and its effectiveness were conducted based on research papers discussing Jeju tourism using big data. The results of the study suggested the use of small data to solve and verify the representation of big data at the collection stage of the big data value chain, and the analysis stage suggested combining the identification of behavior patterns, the strengths of small data, and the exploration of causal relationships. Results: Among various stage, in the curation phase, a cause-and-effect analysis using small data suggested a solution to the problem of mistaking the correlation of big data as causality, and in the storage phase, a policy plan using small data was proposed to solve the problem of privacy infringement. The most important part of this study was the application stage, which discussed the specific problems of big data and the possibility of compromise between small data. As well, in the utilization phase, a combination of correlation and causality, as in the curation phase, was proposed. Conclusions: As an implication of this study, we used specific examples to present synergies when big data is compromised with small data. It also showed that the compromised use of big data and small data can contribute not only in terms of research but also in terms of practicality in tourism industry. Finally, we expanded the foundation of research in terms of academic research, discussing the trade-off utilization of big and small data."
+        },
+        {
+          "rank": 7,
+          "score": 0.35873427987098694,
+          "doc_id": "196",
+          "text": "AbstractPurposeContemporary big data initiatives in health care will benefit from greater integration with nursing science and nursing practice; in turn, nursing science and nursing practice has much to gain from the data science initiatives. Big data arises secondary to scholarly inquiry (e.g., &#8208;omics) and everyday observations like cardiac flow sensors or Twitter feeds. Data science methods that are emerging ensure that these data be leveraged to improve patient care.Organizing ConstructBig data encompasses data that exceed human comprehension, that exist at a volume unmanageable by standard computer systems, that arrive at a velocity not under the control of the investigator and possess a level of imprecision not found in traditional inquiry. Data science methods are emerging to manage and gain insights from big data.MethodsThe primary methods included investigation of emerging federal big data initiatives, and exploration of exemplars from nursing informatics research to benchmark where nursing is already poised to participate in the big data revolution. We provide observations and reflections on experiences in the emerging big data initiatives.ConclusionsExisting approaches to large data set analysis provide a necessary but not sufficient foundation for nursing to participate in the big data revolution. Nursing's Social Policy Statement guides a principled, ethical perspective on big data and data science. There are implications for basic and advanced practice clinical nurses in practice, for the nurse scientist who collaborates with data scientists, and for the nurse data scientist.Clinical RelevanceBig data and data science has the potential to provide greater richness in understanding patient phenomena and in tailoring interventional strategies that are personalized to the patient."
+        },
+        {
+          "rank": 8,
+          "score": 0.35785263776779175,
+          "doc_id": "140",
+          "text": "Macromolecular Big Data provide numerous challenges and a number of initiatives that are starting to overcome these issues are discussed."
+        },
+        {
+          "rank": 9,
+          "score": 0.3329518735408783,
+          "doc_id": "120",
+          "text": "The big data term refers to the great volume of data and complicated data structure with difficulties in collecting, storing, processing, and analyzing these data. Big data analytics refers to the operation of disclosing hidden patterns through big data. This information and data set cloud to be useful and provide advanced services. However, analyzing and processing this information could cause revealing and disclosing some sensitive and personal information when the information is contained in applications that are correlated to users such as location-based services, but concerns are diminished if the applications are correlated to general information such as scientific results. In this work, a survey has been done over security and privacy challenges and approaches in big data. The challenges included here are in each of the following areas: privacy, access control, encryption, and authentication in big data. Likewise, the approaches presented here are privacy-preserving approaches in big data, access control approaches in big data, encryption approaches in big data, and authentication approaches in big data."
+        },
+        {
+          "rank": 10,
+          "score": 0.33240562677383423,
+          "doc_id": "118",
+          "text": "IT기술의 발전은 기존의 컴퓨터 환경과 더불어 수많은 모바일 환경 및 사물 인터넷환경을 통해 사람의 삶을 편리하게 하고 있다. 이러한 모바일과 인터넷 환경의 등장으로 데이터가 급속히 폭증하고 있으며, 이러한 환경에서 데이터를 경제적인 자산으로 활용 가능한 Big Data 환경과 서비스가 등장하고 있다. 그러나 Big Data를 활용한 서비스는 증가하고 있지만, 이러한 서비스를 위해 발생되는 다량의 데이터에는 보안적 문제점이 있음에도 불구하고 Big Data의 보안성에 대한 논의는 미흡한 실정이다. 그리고 기존의 Big Data에 대한 보안적인 측면의 연구들은 Big Data의 보안이 아닌 Big Data를 활용한 서비스의 보안이 주를 이루고 있다. 이에 따라서 본 연구에서는 Big Data의 서비스 산업의 활성화를 위하여 Big Data의 보안에 대한 연구를 하였다. 세부적으로 AHP 기법을 활용한 Big Data 환경에서 보안관리를 위한 구성요소를 파악하고 그에 대한 우선순위를 도출하였다."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

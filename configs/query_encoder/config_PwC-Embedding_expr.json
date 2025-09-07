@@ -1,0 +1,13 @@
+{
+  "model_name": "SamilPwC-AXNode-GenAI/PwC-Embedding_expr",
+  "nickname": "PwC_test",
+  "embedding_dim": 1024,
+  "jsonl_path": "../data/expr/docs.jsonl",
+  "embedding_mode": "abstract",
+  "text_fields": [
+    "context"
+  ],
+  "output_dir": "../results/vectordb",
+  "output_format": "csv",
+  "output_file": "../results/vectordb/250907_073345/PwC_test_abstract_SamilPwC-AXNode-GenAI_PwC-Embedding_expr.csv"
+}

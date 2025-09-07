@@ -1,0 +1,151 @@
+{
+  "id": "row_000020",
+  "model_name": "SamilPwC-AXNode-GenAI/PwC-Embedding_expr",
+  "timestamp_kst": "2025-09-07T16:46:59.079746+09:00",
+  "trial_id": "f047b4f4",
+  "queries": [
+    {
+      "query": "제조 품질 개선을 위해 제안된 식스 시그마 기반 Big Data 활용 방법의 주요 절차를 요약해 주시겠습니까?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.8466585874557495,
+          "doc_id": "161",
+          "text": "Big Data 활용을 위한 제조 품질 개선 방법에 대한 연구 Big Data 활용을 위한 제조 품질 개선 방법에 대한 연구 Big Data 활용을 위한 제조 품질 개선 방법에 대한 연구 20세기 대량 생산 시대 이래로 제조 기업의 품질은 가장 중요한 요소가 되어왔다. 따라서 품질에 대한 올바른 정의와 품질 개선을 위한 다양한 도구와 방법이 개발되어 왔으며 이의 효율적 적용을 위한 노력도 병행되어 왔다. 이러한 노력은 제조 기업의 품질 제일주의, 전사적 품질 경영, 식스 시그마 등을 통하여 정형화되고 다양한 분야에 적용되고 있다. 또한 최근 Big Data의 유용성이 소개되면서 이에 대한 제조 업계의 관심이 높아지고 있으나 이에 대한 적용은 아직 미흡한 면이 있다. 본 논문은 기존의 품질 개선을 위한 프로젝트 실행 방법을 정리해 보고 대표적인 프로젝트 중심의 개선 방법인 식스 시그마의 실행 방법을 기준으로 Big Data 활용 방법을 제안해 보기로 한다."
+        },
+        {
+          "rank": 2,
+          "score": 0.6663181781768799,
+          "doc_id": "109",
+          "text": "Optimized Data Processing Analysis Using Big Data Cloud Platform Optimized Data Processing Analysis Using Big Data Cloud Platform Optimized Data Processing Analysis Using Big Data Cloud Platform Recently data processing has main gained many attention both from academic and commercial industry. Their term use to tools, technical methods and frameworks made to gathering, collect, store, processing and analysis massive amounts of data. Data processing and analysis are based on structured/semi -structured/unstructured by big data, as well as is generated from various different sources in the system at various rates. For the purpose of processing with their large data and suitable way, voluminous parallelism is usually used. The general architecture of a big data system is made up a shared cluster of their machines. Nonetheless, even in very parallel environment, data processing is often very time-consuming. A various applications can take up to everytime to produce useful results, interactive analysis and debugging. Nevertheless, we have main problems that how we have a high performance requires both quality of data locality and resource. Moreover, big data analysis provide the amount of data that is processed typically large in comparison with computation in their systems. In other words, specified optimization that would relieve low-level to achieve good performance essentially. Accordingly, our main goal of this research paper provide how we have to do to optimize for big data frameworks. Our contribute approach to make big data cloud platform for easy and efficient processing of big data. In addition, we provides results from a study of existing optimization of data processing in MapReduce and Hadoop oriented systems."
+        },
+        {
+          "rank": 3,
+          "score": 0.6314166784286499,
+          "doc_id": "227",
+          "text": "Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 본 연구는 오늘날 산업 전반적으로 영향을 미치고 있는 디지탈 전환(Digital Transformation)의 기술 환경과 디지탈 전환의 산업적 창고관리 부분의 모델연구가 본 논문의 목적이다. &amp;#xD; &amp;#xD; 디지털 전환은 오랫동안 디지털화와 비슷하거나 또는 디지털 방식으로 저장할 수 있도록 기존 데이터 형태를 전환하는 것과 관련이 있다. 물론 이 점이 중요하긴 하지만, 이전의 디지털화는 최신 디지털 전환의 영역을 포함하지 않았었다.&amp;#xD; &amp;#xD; 특히 이번 연구에서는 Big Data를 중심으로 Warehouse Management System의 방향을 제시 하고자 한다."
+        },
+        {
+          "rank": 4,
+          "score": 0.6268324255943298,
+          "doc_id": "88",
+          "text": "Machine learning on Big Data Machine learning on Big Data Machine learning on Big Data Statistical Machine Learning has undergone a phase transition from a pure academic endeavor to being one of the main drivers of modern commerce and science. Even more so, recent results such as those on tera-scale learning [1] and on very large neural networks [2] suggest that scale is an important ingredient in quality modeling. This tutorial introduces current applications, techniques and systems with the aim of cross-fertilizing research between the database and machine learning communities. The tutorial covers current large scale applications of Machine Learning, their computational model and the workflow behind building those. Based on this foundation, we present the current state-of-the-art in systems support in the bulk of the tutorial. We also identify critical gaps in the state-of-the-art. This leads to the closing of the seminar, where we introduce two sets of open research questions: Better systems support for the already established use cases of Machine Learning and support for recent advances in Machine Learning research."
+        },
+        {
+          "rank": 5,
+          "score": 0.619722306728363,
+          "doc_id": "118",
+          "text": "AHP 기법을 활용한 Big Data 보안관리 요소들의 우선순위 분석에 관한 연구 AHP 기법을 활용한 Big Data 보안관리 요소들의 우선순위 분석에 관한 연구 AHP 기법을 활용한 Big Data 보안관리 요소들의 우선순위 분석에 관한 연구 IT기술의 발전은 기존의 컴퓨터 환경과 더불어 수많은 모바일 환경 및 사물 인터넷환경을 통해 사람의 삶을 편리하게 하고 있다. 이러한 모바일과 인터넷 환경의 등장으로 데이터가 급속히 폭증하고 있으며, 이러한 환경에서 데이터를 경제적인 자산으로 활용 가능한 Big Data 환경과 서비스가 등장하고 있다. 그러나 Big Data를 활용한 서비스는 증가하고 있지만, 이러한 서비스를 위해 발생되는 다량의 데이터에는 보안적 문제점이 있음에도 불구하고 Big Data의 보안성에 대한 논의는 미흡한 실정이다. 그리고 기존의 Big Data에 대한 보안적인 측면의 연구들은 Big Data의 보안이 아닌 Big Data를 활용한 서비스의 보안이 주를 이루고 있다. 이에 따라서 본 연구에서는 Big Data의 서비스 산업의 활성화를 위하여 Big Data의 보안에 대한 연구를 하였다. 세부적으로 AHP 기법을 활용한 Big Data 환경에서 보안관리를 위한 구성요소를 파악하고 그에 대한 우선순위를 도출하였다."
+        },
+        {
+          "rank": 6,
+          "score": 0.6174589395523071,
+          "doc_id": "165",
+          "text": "패키징(Packaging) 분야에서의 빅데이터(Big data) 적용방안 연구 패키징(Packaging) 분야에서의 빅데이터(Big data) 적용방안 연구 패키징(Packaging) 분야에서의 빅데이터(Big data) 적용방안 연구 패키징 분야도 4차 산업혁명에 발 맞춰 IoT (Internet of Things), 빅데이터, 클라우드 및 소비자 기반 기술 등이 적용되어 스마트 패키징이 등장하고 있다. 정책, 예측, 마케팅, 디자인 등 다양한 분야에서 빅데이터 분석이 활용되고 있지만 패키징 분야에서의 연구는 아직 초보적 수준이다. 따라서 본 연구는 빅데이터를 패키징 분야에 적용하기 위해 선행연구과 관련서적을 통해 빅데이터의 정의와 연구에서 활용되는 데이터 수집, 저장, 분석방법을 정리하였고 패키징 분야에 적용할 수 있는 분석방법을 제시하였다. 오늘날 패키징 분야는 마케팅적 요소를 요구받고 있기 때문에 패키징에 대한 소비자의 인식을 파악할 필요가 있으며 빅데이터의 근원이 되는 5가지 데이터 중 사유데이터(private data)와 커뮤니티 데이터(community data)를 활용하여 소비자와 제품 간의 상호작용 분석하는데 활용하고자 한다. 패키징은 소비자의 관심을 끌기 위한 전략전인 도구로 사용되며 소비자의 구매위험을 줄이는 수단이 되기 때문에 패키징에 대한 소비자의 인식을 분석할 필요가 있다. 본 연구에서는 제품 개선을 위한 문제점 도출 과정에서 의미연결망 분석(Semantic Network Analysis)과 텍스트마이닝(Text mining)을 활용하여 제품을 구성하는 다양한 요소들을 파악하고 패키징 요소의 빈도분석을 거쳐 패키징의 영향력을 확인하는 방안과 저관여 제품을 대상으로 텍스트 마이닝(Text mining)과 오피니언 마이닝(Opinion Mining), 소셜 네트워크 분석(Social Network Analysis)을 통해 패키징에 대한 감정분석을 하여 동일한 제품군에서 소비자가 선호하는 패키징을 도출하는 방안을 제시하였다. 패키징은 제품을 구성하는 많은 요소들 중 하나이기 때문에 패키징이라는 단일 요소의 영향력을 파악하기란 쉽지 않지만 본 연구는 빅데이터를 활용하여 패키징에 대한 소비자의 인식과 감정을 분석하고 제품에서 패키징이 소비자에게 미치는 영향력을 분석할 수 있는 방안을 제시한 데 의의가 있다."
+        },
+        {
+          "rank": 7,
+          "score": 0.6173465251922607,
+          "doc_id": "172",
+          "text": "Demystifying big data: Anatomy of big data developmental process Demystifying big data: Anatomy of big data developmental process Demystifying big data: Anatomy of big data developmental process This study seeks to understand big data ecology, how it is perceived by different stakeholders, the potential value and challenges, and the implications for the private sector and public organizations, as well as for policy makers. With Normalization Process Theory in place, this study conducts socio-technical evaluation on the big data phenomenon to understand the developmental processes through which new practices of thinking and enacting are implemented, embedded, and integrated in South Korea. It also undertakes empirical analyses of user modeling to explore the factors influencing users' adoption of big data by integrating cognitive motivations as well as user values as the primary determining factors. Based on the qualitative and quantitative findings, this study concludes that big data should be developed with user-centered ideas and that users should be the focus of big data design. (C) 2015 Elsevier Ltd. All rights reserved."
+        },
+        {
+          "rank": 8,
+          "score": 0.6118587255477905,
+          "doc_id": "32",
+          "text": "빅데이터 처리 프로세스에 따른 빅데이터 위험요인 분석 빅데이터 처리 프로세스에 따른 빅데이터 위험요인 분석 빅데이터 처리 프로세스에 따른 빅데이터 위험요인 분석 Recently, as value for practical use of big data is evaluated, companies and organizations that create benefit and profit are gradually increasing with application of big data. But specifical and theoretical study about possible risk factors as introduction of big data is not being conducted. Accordingly, the study extracts the possible risk factors as introduction of big data based on literature reviews and classifies according to big data processing, data collection, data storage, data analysis, analysis data visualization and application. Also, the risk factors have order of priority according to the degree of risk from the survey of experts. This study will make a chance that can avoid risks by bid data processing and preparation for risks in order of dangerous grades of risk."
+        },
+        {
+          "rank": 9,
+          "score": 0.6102824211120605,
+          "doc_id": "205",
+          "text": "Deep Learning을 활용한 산사태 결정론 방법의 활용성 고찰 Deep Learning을 활용한 산사태 결정론 방법의 활용성 고찰 Deep Learning을 활용한 산사태 결정론 방법의 활용성 고찰 산사태 위험지역을 결정론적인 방법으로 도출할 수 있는 Analytic Hierarchy Process (AHP) 기반의 선행 연구가 2017년도에 제안되었다. 해당 연구의 목적은 기존에 제안된 결정론적인 방법의 활용성을 향상시키고자 deep learning 기법을 적용하여 해당 방법의 신뢰성을 검증하는 것이다. AHP 기반의 결정론적인 방법은 8개 인자인 세립분 함량, 표토층 두께, 간극비, 탄성계수, 전단강도, 투수계수, 포화도 그리고 함수비로 구성되며 이를 통해 안전율을 도출할 수 있다. 대상 지역을 1 m 정사각형의 격자로 구성한 후 현장 및 실내 실험을 통해 8개의 인자를 도출하였다. 안전율은 Mohr-Coulomb의 파괴 이론을 통해 계산하여 deep learning의 출력 값으로 활용하였다. Deep learning 기법 적용 시 입력 값과 출력 값의 학습 능률을 향상시키기 위하여 경사하강법 중 Bayesian regularization을 적용하였으며, 학습 결과 실제 안전율과 deep learning 기법으로 예측된 안전율이 train과 test 단계 모두에서 우수한 신뢰성을 보여준다. 해당 연구에서 활용한 deep learning 기법이 산사태 위험지역 선정에 결정론적 방법으로 유용하게 이용될 것으로 사료된다."
+        },
+        {
+          "rank": 10,
+          "score": 0.6090078353881836,
+          "doc_id": "169",
+          "text": "Big Data cluster analysis Big Data cluster analysis Big Data cluster analysis In this paper, we focused on cluster analysis as the most commonly used technique for grouping different objects. By clustering data, we can extract groups of similar objects from different collections. First, we defined Big Data and clustering to follow the rest of the paper. We presented the most popular techniques for clustering data, including partitioning, hierarchical clustering, density-based clustering, and network-based clustering. Big Data describes large amounts of data. High precision of big data can contribute to decision-making confidence, and better estimates can help increase efficiency, reduce costs, and risks. Various methods and approaches are used for data processing, including clustering, classification, regression, artificial intelligence, neural networks, association rules, decision trees, genetic algorithms, and the nearest neighbor method. A cluster represents a set of objects from the same class, which means that similar objects are grouped together, and different objects are grouped separately. We described the K-means algorithm, hierarchical clustering, density-based clustering -DBSCAN algorithm, and the STING algorithm for network-based clustering."
+        }
+      ]
+    },
+    {
+      "query": "제조 품질 개선을 위해 제안된 식스 시그마 기반 Big Data 활용 방법의 주요 절차는 무엇입니까?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.8613978624343872,
+          "doc_id": "161",
+          "text": "Big Data 활용을 위한 제조 품질 개선 방법에 대한 연구 Big Data 활용을 위한 제조 품질 개선 방법에 대한 연구 Big Data 활용을 위한 제조 품질 개선 방법에 대한 연구 20세기 대량 생산 시대 이래로 제조 기업의 품질은 가장 중요한 요소가 되어왔다. 따라서 품질에 대한 올바른 정의와 품질 개선을 위한 다양한 도구와 방법이 개발되어 왔으며 이의 효율적 적용을 위한 노력도 병행되어 왔다. 이러한 노력은 제조 기업의 품질 제일주의, 전사적 품질 경영, 식스 시그마 등을 통하여 정형화되고 다양한 분야에 적용되고 있다. 또한 최근 Big Data의 유용성이 소개되면서 이에 대한 제조 업계의 관심이 높아지고 있으나 이에 대한 적용은 아직 미흡한 면이 있다. 본 논문은 기존의 품질 개선을 위한 프로젝트 실행 방법을 정리해 보고 대표적인 프로젝트 중심의 개선 방법인 식스 시그마의 실행 방법을 기준으로 Big Data 활용 방법을 제안해 보기로 한다."
+        },
+        {
+          "rank": 2,
+          "score": 0.6623947620391846,
+          "doc_id": "109",
+          "text": "Optimized Data Processing Analysis Using Big Data Cloud Platform Optimized Data Processing Analysis Using Big Data Cloud Platform Optimized Data Processing Analysis Using Big Data Cloud Platform Recently data processing has main gained many attention both from academic and commercial industry. Their term use to tools, technical methods and frameworks made to gathering, collect, store, processing and analysis massive amounts of data. Data processing and analysis are based on structured/semi -structured/unstructured by big data, as well as is generated from various different sources in the system at various rates. For the purpose of processing with their large data and suitable way, voluminous parallelism is usually used. The general architecture of a big data system is made up a shared cluster of their machines. Nonetheless, even in very parallel environment, data processing is often very time-consuming. A various applications can take up to everytime to produce useful results, interactive analysis and debugging. Nevertheless, we have main problems that how we have a high performance requires both quality of data locality and resource. Moreover, big data analysis provide the amount of data that is processed typically large in comparison with computation in their systems. In other words, specified optimization that would relieve low-level to achieve good performance essentially. Accordingly, our main goal of this research paper provide how we have to do to optimize for big data frameworks. Our contribute approach to make big data cloud platform for easy and efficient processing of big data. In addition, we provides results from a study of existing optimization of data processing in MapReduce and Hadoop oriented systems."
+        },
+        {
+          "rank": 3,
+          "score": 0.6344181299209595,
+          "doc_id": "118",
+          "text": "AHP 기법을 활용한 Big Data 보안관리 요소들의 우선순위 분석에 관한 연구 AHP 기법을 활용한 Big Data 보안관리 요소들의 우선순위 분석에 관한 연구 AHP 기법을 활용한 Big Data 보안관리 요소들의 우선순위 분석에 관한 연구 IT기술의 발전은 기존의 컴퓨터 환경과 더불어 수많은 모바일 환경 및 사물 인터넷환경을 통해 사람의 삶을 편리하게 하고 있다. 이러한 모바일과 인터넷 환경의 등장으로 데이터가 급속히 폭증하고 있으며, 이러한 환경에서 데이터를 경제적인 자산으로 활용 가능한 Big Data 환경과 서비스가 등장하고 있다. 그러나 Big Data를 활용한 서비스는 증가하고 있지만, 이러한 서비스를 위해 발생되는 다량의 데이터에는 보안적 문제점이 있음에도 불구하고 Big Data의 보안성에 대한 논의는 미흡한 실정이다. 그리고 기존의 Big Data에 대한 보안적인 측면의 연구들은 Big Data의 보안이 아닌 Big Data를 활용한 서비스의 보안이 주를 이루고 있다. 이에 따라서 본 연구에서는 Big Data의 서비스 산업의 활성화를 위하여 Big Data의 보안에 대한 연구를 하였다. 세부적으로 AHP 기법을 활용한 Big Data 환경에서 보안관리를 위한 구성요소를 파악하고 그에 대한 우선순위를 도출하였다."
+        },
+        {
+          "rank": 4,
+          "score": 0.6293602585792542,
+          "doc_id": "227",
+          "text": "Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 본 연구는 오늘날 산업 전반적으로 영향을 미치고 있는 디지탈 전환(Digital Transformation)의 기술 환경과 디지탈 전환의 산업적 창고관리 부분의 모델연구가 본 논문의 목적이다. &amp;#xD; &amp;#xD; 디지털 전환은 오랫동안 디지털화와 비슷하거나 또는 디지털 방식으로 저장할 수 있도록 기존 데이터 형태를 전환하는 것과 관련이 있다. 물론 이 점이 중요하긴 하지만, 이전의 디지털화는 최신 디지털 전환의 영역을 포함하지 않았었다.&amp;#xD; &amp;#xD; 특히 이번 연구에서는 Big Data를 중심으로 Warehouse Management System의 방향을 제시 하고자 한다."
+        },
+        {
+          "rank": 5,
+          "score": 0.6170967221260071,
+          "doc_id": "88",
+          "text": "Machine learning on Big Data Machine learning on Big Data Machine learning on Big Data Statistical Machine Learning has undergone a phase transition from a pure academic endeavor to being one of the main drivers of modern commerce and science. Even more so, recent results such as those on tera-scale learning [1] and on very large neural networks [2] suggest that scale is an important ingredient in quality modeling. This tutorial introduces current applications, techniques and systems with the aim of cross-fertilizing research between the database and machine learning communities. The tutorial covers current large scale applications of Machine Learning, their computational model and the workflow behind building those. Based on this foundation, we present the current state-of-the-art in systems support in the bulk of the tutorial. We also identify critical gaps in the state-of-the-art. This leads to the closing of the seminar, where we introduce two sets of open research questions: Better systems support for the already established use cases of Machine Learning and support for recent advances in Machine Learning research."
+        },
+        {
+          "rank": 6,
+          "score": 0.617036759853363,
+          "doc_id": "205",
+          "text": "Deep Learning을 활용한 산사태 결정론 방법의 활용성 고찰 Deep Learning을 활용한 산사태 결정론 방법의 활용성 고찰 Deep Learning을 활용한 산사태 결정론 방법의 활용성 고찰 산사태 위험지역을 결정론적인 방법으로 도출할 수 있는 Analytic Hierarchy Process (AHP) 기반의 선행 연구가 2017년도에 제안되었다. 해당 연구의 목적은 기존에 제안된 결정론적인 방법의 활용성을 향상시키고자 deep learning 기법을 적용하여 해당 방법의 신뢰성을 검증하는 것이다. AHP 기반의 결정론적인 방법은 8개 인자인 세립분 함량, 표토층 두께, 간극비, 탄성계수, 전단강도, 투수계수, 포화도 그리고 함수비로 구성되며 이를 통해 안전율을 도출할 수 있다. 대상 지역을 1 m 정사각형의 격자로 구성한 후 현장 및 실내 실험을 통해 8개의 인자를 도출하였다. 안전율은 Mohr-Coulomb의 파괴 이론을 통해 계산하여 deep learning의 출력 값으로 활용하였다. Deep learning 기법 적용 시 입력 값과 출력 값의 학습 능률을 향상시키기 위하여 경사하강법 중 Bayesian regularization을 적용하였으며, 학습 결과 실제 안전율과 deep learning 기법으로 예측된 안전율이 train과 test 단계 모두에서 우수한 신뢰성을 보여준다. 해당 연구에서 활용한 deep learning 기법이 산사태 위험지역 선정에 결정론적 방법으로 유용하게 이용될 것으로 사료된다."
+        },
+        {
+          "rank": 7,
+          "score": 0.6169390082359314,
+          "doc_id": "165",
+          "text": "패키징(Packaging) 분야에서의 빅데이터(Big data) 적용방안 연구 패키징(Packaging) 분야에서의 빅데이터(Big data) 적용방안 연구 패키징(Packaging) 분야에서의 빅데이터(Big data) 적용방안 연구 패키징 분야도 4차 산업혁명에 발 맞춰 IoT (Internet of Things), 빅데이터, 클라우드 및 소비자 기반 기술 등이 적용되어 스마트 패키징이 등장하고 있다. 정책, 예측, 마케팅, 디자인 등 다양한 분야에서 빅데이터 분석이 활용되고 있지만 패키징 분야에서의 연구는 아직 초보적 수준이다. 따라서 본 연구는 빅데이터를 패키징 분야에 적용하기 위해 선행연구과 관련서적을 통해 빅데이터의 정의와 연구에서 활용되는 데이터 수집, 저장, 분석방법을 정리하였고 패키징 분야에 적용할 수 있는 분석방법을 제시하였다. 오늘날 패키징 분야는 마케팅적 요소를 요구받고 있기 때문에 패키징에 대한 소비자의 인식을 파악할 필요가 있으며 빅데이터의 근원이 되는 5가지 데이터 중 사유데이터(private data)와 커뮤니티 데이터(community data)를 활용하여 소비자와 제품 간의 상호작용 분석하는데 활용하고자 한다. 패키징은 소비자의 관심을 끌기 위한 전략전인 도구로 사용되며 소비자의 구매위험을 줄이는 수단이 되기 때문에 패키징에 대한 소비자의 인식을 분석할 필요가 있다. 본 연구에서는 제품 개선을 위한 문제점 도출 과정에서 의미연결망 분석(Semantic Network Analysis)과 텍스트마이닝(Text mining)을 활용하여 제품을 구성하는 다양한 요소들을 파악하고 패키징 요소의 빈도분석을 거쳐 패키징의 영향력을 확인하는 방안과 저관여 제품을 대상으로 텍스트 마이닝(Text mining)과 오피니언 마이닝(Opinion Mining), 소셜 네트워크 분석(Social Network Analysis)을 통해 패키징에 대한 감정분석을 하여 동일한 제품군에서 소비자가 선호하는 패키징을 도출하는 방안을 제시하였다. 패키징은 제품을 구성하는 많은 요소들 중 하나이기 때문에 패키징이라는 단일 요소의 영향력을 파악하기란 쉽지 않지만 본 연구는 빅데이터를 활용하여 패키징에 대한 소비자의 인식과 감정을 분석하고 제품에서 패키징이 소비자에게 미치는 영향력을 분석할 수 있는 방안을 제시한 데 의의가 있다."
+        },
+        {
+          "rank": 8,
+          "score": 0.6135016679763794,
+          "doc_id": "32",
+          "text": "빅데이터 처리 프로세스에 따른 빅데이터 위험요인 분석 빅데이터 처리 프로세스에 따른 빅데이터 위험요인 분석 빅데이터 처리 프로세스에 따른 빅데이터 위험요인 분석 Recently, as value for practical use of big data is evaluated, companies and organizations that create benefit and profit are gradually increasing with application of big data. But specifical and theoretical study about possible risk factors as introduction of big data is not being conducted. Accordingly, the study extracts the possible risk factors as introduction of big data based on literature reviews and classifies according to big data processing, data collection, data storage, data analysis, analysis data visualization and application. Also, the risk factors have order of priority according to the degree of risk from the survey of experts. This study will make a chance that can avoid risks by bid data processing and preparation for risks in order of dangerous grades of risk."
+        },
+        {
+          "rank": 9,
+          "score": 0.6076990365982056,
+          "doc_id": "172",
+          "text": "Demystifying big data: Anatomy of big data developmental process Demystifying big data: Anatomy of big data developmental process Demystifying big data: Anatomy of big data developmental process This study seeks to understand big data ecology, how it is perceived by different stakeholders, the potential value and challenges, and the implications for the private sector and public organizations, as well as for policy makers. With Normalization Process Theory in place, this study conducts socio-technical evaluation on the big data phenomenon to understand the developmental processes through which new practices of thinking and enacting are implemented, embedded, and integrated in South Korea. It also undertakes empirical analyses of user modeling to explore the factors influencing users' adoption of big data by integrating cognitive motivations as well as user values as the primary determining factors. Based on the qualitative and quantitative findings, this study concludes that big data should be developed with user-centered ideas and that users should be the focus of big data design. (C) 2015 Elsevier Ltd. All rights reserved."
+        },
+        {
+          "rank": 10,
+          "score": 0.6032305359840393,
+          "doc_id": "28",
+          "text": "Deep Learning 기반 COF 이미지 검사시스템 Deep Learning 기반 COF 이미지 검사시스템 Deep Learning 기반 COF 이미지 검사시스템 제품단가 대비 불량유출 위험도가 높은 Chip On Film시장에서, 광학품질검사는 주요 과제 중 하나이다. 따라서 관련 기업들은 자동 전수검사를 기본적으로 수행하고 있으며, 이의 성능을 향상시키는 데 투자를 아끼지 않고 있다. 그러나 기존 검사방법의 성능 문제로 인해 최종 판정은 아직 작업자들에 의해 수행되고 있으며, 대부분의 비용이 아직 인적 자원에 투자되고 있다. 최근 집중 조명 받은 Deep learning 관련 기술은 이러한 기존 광학품질검사의 패러다임을 바꾸는 듯 했으나, 이를 COF 양산 검사시스템에 성공적으로 적용한 사례는 아직 보고되지 않고 있다. 불량유출의 허용치는 0.00005% 이하인 50ppm수준으로 철저히 관리되어야 하지만, 기존 DL Model의 학습 방식으로는 상기와 같은 수준의 불량유출 허용치를 관리하기 어렵기 때문이다. 이의 이유로는 크게 두 가지를 들 수 있다. 첫째, 학습 Data로 사용될 COF 이미지의 Region of interest(ROI) 추출이 어렵다. 둘째, COF 불량 유형이 학습된 Deep learning Model의 Overfitting 및 Underfitting 제어 난이도가 어렵다. 셋째. Deep learning에 적합한 데이터 유형인지에 대한 정량적인 판단이 어렵다.&amp;#xD; 본 논문에서는, 상기 언급된 한계를 개선하는 새로운 COF양산 검사 시스템을 제안한다. 제안하는 방법은 불량 Feature의 ROI를 보다 정교하게 추출할 수 있는 방법 중 하나인 Inpainting기법의 접목, 이를 불량 유형에 맞게 CNN 혹은 전통적 Image processing을 사용할지를 결정하는 정량적인 Parameterize score의 설계, 그리고 Heuristic하게 구성된 DL기반의 이미지 판정 기법으로 구성된다. 제안된 양산 검사 시스템은 기존 광학검사를 대체하여, 기존대비 성능을 200% 이상 향상시켰으며, 불량 허용치를 0.00003% 이내인 30ppm 수준으로 요구 수준을 달성하였다. 제안되는 방법은 국내 COF 생산 기업의 공장의 양산 검사 시스템에 실제로 접목되었으며, 현재도 공장 내 Process의 하나로 자리 잡고 비용절감에 지속적으로 기여하고 있다."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "id": "row_000050",
+  "model_name": "BAAI/bge-m3",
+  "timestamp_kst": "2025-09-07T16:10:15.442208+09:00",
+  "trial_id": "df9795bf",
+  "queries": [
+    {
+      "query": "Lifelong Machine Learning 앙상블 방식으로 스팸 메시지 필터링 성능을 개선한 방법의 주요 아이디어와 장점을 간결하게 제시해 주실 수 있나요?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5759960412979126,
+          "doc_id": "225",
+          "text": "Speech Recognition using Machine Learning"
+        },
+        {
+          "rank": 2,
+          "score": 0.55465167760849,
+          "doc_id": "202",
+          "text": "Machine learning"
+        },
+        {
+          "rank": 3,
+          "score": 0.552742600440979,
+          "doc_id": "75",
+          "text": "MACHINE LEARNING"
+        },
+        {
+          "rank": 4,
+          "score": 0.5394214987754822,
+          "doc_id": "22",
+          "text": "Effective E-Learning Practices by Machine Learning and Artificial Intelligence"
+        },
+        {
+          "rank": 5,
+          "score": 0.5351835489273071,
+          "doc_id": "88",
+          "text": "Machine learning on Big Data"
+        },
+        {
+          "rank": 6,
+          "score": 0.5313740968704224,
+          "doc_id": "42",
+          "text": "Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning"
+        },
+        {
+          "rank": 7,
+          "score": 0.5288416147232056,
+          "doc_id": "185",
+          "text": "Topology optimization via machine learning and deep learning: a review"
+        },
+        {
+          "rank": 8,
+          "score": 0.5258270502090454,
+          "doc_id": "147",
+          "text": "A Survey of Topological Machine Learning Methods"
+        },
+        {
+          "rank": 9,
+          "score": 0.5237840414047241,
+          "doc_id": "125",
+          "text": "An overview of deep learning techniques"
+        },
+        {
+          "rank": 10,
+          "score": 0.5230377316474915,
+          "doc_id": "64",
+          "text": "Deep Learning Research Trend Analysis using Text Mining"
+        }
+      ]
+    },
+    {
+      "query": "Lifelong Machine Learning 앙상블 방식을 스팸 메시지 필터링에 적용했을 때의 주요 아이디어는 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5566354990005493,
+          "doc_id": "225",
+          "text": "Speech Recognition using Machine Learning"
+        },
+        {
+          "rank": 2,
+          "score": 0.5247584581375122,
+          "doc_id": "202",
+          "text": "Machine learning"
+        },
+        {
+          "rank": 3,
+          "score": 0.5210647583007812,
+          "doc_id": "88",
+          "text": "Machine learning on Big Data"
+        },
+        {
+          "rank": 4,
+          "score": 0.5179616212844849,
+          "doc_id": "78",
+          "text": "Data learning from big data"
+        },
+        {
+          "rank": 5,
+          "score": 0.5159722566604614,
+          "doc_id": "75",
+          "text": "MACHINE LEARNING"
+        },
+        {
+          "rank": 6,
+          "score": 0.5158335566520691,
+          "doc_id": "147",
+          "text": "A Survey of Topological Machine Learning Methods"
+        },
+        {
+          "rank": 7,
+          "score": 0.5129925608634949,
+          "doc_id": "64",
+          "text": "Deep Learning Research Trend Analysis using Text Mining"
+        },
+        {
+          "rank": 8,
+          "score": 0.51198410987854,
+          "doc_id": "192",
+          "text": "USING MACHINE LEARNING METHODS IN CYBERSECURITY"
+        },
+        {
+          "rank": 9,
+          "score": 0.5070465803146362,
+          "doc_id": "104",
+          "text": "Deep learning"
+        },
+        {
+          "rank": 10,
+          "score": 0.5054462552070618,
+          "doc_id": "22",
+          "text": "Effective E-Learning Practices by Machine Learning and Artificial Intelligence"
+        }
+      ]
+    },
+    {
+      "query": "Lifelong Machine Learning 앙상블 방식을 스팸 메시지 필터링에 적용했을 때의 장점은 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5596892833709717,
+          "doc_id": "225",
+          "text": "Speech Recognition using Machine Learning"
+        },
+        {
+          "rank": 2,
+          "score": 0.5316520929336548,
+          "doc_id": "88",
+          "text": "Machine learning on Big Data"
+        },
+        {
+          "rank": 3,
+          "score": 0.5310724377632141,
+          "doc_id": "202",
+          "text": "Machine learning"
+        },
+        {
+          "rank": 4,
+          "score": 0.5265389680862427,
+          "doc_id": "75",
+          "text": "MACHINE LEARNING"
+        },
+        {
+          "rank": 5,
+          "score": 0.5251012444496155,
+          "doc_id": "192",
+          "text": "USING MACHINE LEARNING METHODS IN CYBERSECURITY"
+        },
+        {
+          "rank": 6,
+          "score": 0.5200916528701782,
+          "doc_id": "78",
+          "text": "Data learning from big data"
+        },
+        {
+          "rank": 7,
+          "score": 0.5153820514678955,
+          "doc_id": "101",
+          "text": "Breast cancer detection by leveraging Machine Learning"
+        },
+        {
+          "rank": 8,
+          "score": 0.5111815929412842,
+          "doc_id": "22",
+          "text": "Effective E-Learning Practices by Machine Learning and Artificial Intelligence"
+        },
+        {
+          "rank": 9,
+          "score": 0.5108664035797119,
+          "doc_id": "147",
+          "text": "A Survey of Topological Machine Learning Methods"
+        },
+        {
+          "rank": 10,
+          "score": 0.5097038745880127,
+          "doc_id": "185",
+          "text": "Topology optimization via machine learning and deep learning: a review"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

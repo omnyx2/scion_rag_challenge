@@ -1,0 +1,101 @@
+{
+    "id": "row_000036",
+    "result": "##한국 IT융합 신산업 역량강화요인 및 도출 연구 결과 요약##\n\n##서론##\n한국 IT융합 신산업은 국가 경제 성장에 지대한 기여를 해왔으며, 사회 전반의 패러다임 혁신을 주도하고 있습니다. 이러한 IT융합 신산업의 지속적인 발전과 경쟁력 강화를 위해서는 핵심 역량강화요인을 명확히 파악하고 이를 효과적으로 도출하기 위한 연구가 필수적입니다.\n\n##본론##\n한국 IT융합 신산업의 역량강화요인을 도출하기 위한 연구는 주로 전문가 의견 수렴과 산업 생태계 분석을 통해 이루어졌습니다.\n\n첫째, 한 연구(doc_id: 150)에서는 한국 IT융합 신산업의 역량강화요인을 도출하고자 2011년도에 실시된 정책연구의 학계 및 공공기관 전문가 델파이 결과를 선행연구들과 비교하여 한국의 IT 융합역량 수준 변화를 평가했습니다. 이 연구는 델파이 기법을 활용하여 전문가들의 심층적인 의견을 수렴하고 기존 연구와의 비교를 통해 역량강화요인을 도출하는 방법론을 사용했습니다.\n\n둘째, 다른 연구(doc_id: 197)에서는 산업생태계 관점에서 IT융합 촉진 전략을 모색했으며, 이는 곧 역량강화요인과 밀접하게 연결됩니다. AHP(Analytic Hierarchy Process) 분석을 토대로 IT융합을 촉진하기 위한 이해관계자들의 역할을 도출한 결과, 다음과 같은 요소들이 역량강화에 중요한 것으로 나타났습니다.\n*   **정부의 역할:** 규제 완화와 벤처 육성정책 확대\n*   **키스톤 기업의 역할:** 협업 기반 융합과제 확대 및 경험 공유\n*   **기술개발 주체(벤처기업 등)의 역할:** 기술역량 강화\n*   **대학의 역할:** 크로스오버형 인재 양성\n\n이러한 요소들은 IT융합 신산업이 성장하고 경쟁력을 확보하는 데 필요한 핵심적인 역량강화요인으로 볼 수 있습니다.\n\n##결론##\n한국 IT융합 신산업의 역량강화요인은 전문가 델파이 분석과 선행연구 비교를 통해 도출되었으며, 구체적으로는 정부의 정책적 지원(규제 완화, 벤처 육성), 선도 기업의 협력 및 경험 공유, 기술개발 주체의 역량 강화, 그리고 융합형 인재 양성 등이 핵심 요소로 제시되었습니다. 이러한 연구 결과는 한국 IT융합 신산업의 지속적인 발전과 글로벌 경쟁력 확보를 위한 전략 수립에 중요한 기반을 제공합니다.",
+    "prompt": "You will be given a JSON object as a string which contains a series of related search queries and their retrieved documents ('hits'). Do not make answer from external knowledge. You must make answer inside of Context.\nYour main task is to answer the specific 'Question' provided below. Use the entire JSON data as context to formulate your answer, paying close attention to the 'text' fields within the 'hits' lists.\n\nThe JSON data has a list of queries. The 'original' query is the one you need to answer. The other queries are supplementary and provide additional context.\n\nIf the 'Question' is in Korean, format your answer in Korean as follows:\n##제목##\n\n##서론##\n\n##본론##\n\n##결론##\n\nIf the 'Question' is in English, format your answer in English as follows, If English then Just write title inside of ##{Title}##:\n##{Title}##\n\n##Introduction##\n\n##Main Body##\n\n##Conclusion##\n\n--- Context (JSON Data) ---\n{\n  \"id\": \"row_000036\",\n  \"model_name\": \"SamilPwC-AXNode-GenAI/PwC-Embedding_expr\",\n  \"timestamp_kst\": \"2025-09-07T16:47:01.829886+09:00\",\n  \"trial_id\": \"0ddc23b0\",\n  \"queries\": [\n    {\n      \"query\": \"한국 IT융합 신산업 역량강화요인과 이를 도출하기 위한 연구 결과를 간결하게 요약해 주시겠습니까?\",\n      \"query_meta\": {\n        \"type\": \"original\"\n      },\n      \"top_k\": 10,\n      \"hits\": [\n        {\n          \"rank\": 1,\n          \"score\": 0.8540050983428955,\n          \"doc_id\": \"150\",\n          \"text\": \"한국 IT융합 신산업 역량강화요인 한국 IT융합 신산업 역량강화요인 한국 IT융합 신산업 역량강화요인 IT는 한국의 경제성장에 큰 기여를 해왔으며 사회전반의 패러다임 혁신을 통해 생산성, 효율성, 편의성, 소통성을 증진시키고 삶의 양식에 전면적 변화를 가져왔다. 국민경제와 사회문화에서 지대한 의미를 지니는 IT는 다른 기술 또는 산업과의 융합이라는 새로운 변화와 혁신의 중심에 위치하고 있다. IT융합은 IT의 자체 고도화를 바탕으로 다른 분야의 기술개발과 산업발전을 견인하거나 새로운 산업을 창출하는 것으로, 우리나라를 비롯하여 주요국에서는 자원과 역량을 선택적으로 집중하고 있다. 이 논문에서는 IT 융합 신산업 역량강화요인을 도출하고자 2011년도에 실시한 정책연구의 학계 및 공공기관 전문가 델파이 결과를 선행연구들과 비교하여 한국의 IT 융합역량의 수준 변화를 평가하고 결론적으로 한국의 IT융합 신산업 역량강화요인을 도출하고자 하였다.\"\n        },\n        {\n          \"rank\": 2,\n          \"score\": 0.7948346734046936,\n          \"doc_id\": \"146\",\n          \"text\": \"미래 IT융합 신산업 육성 및 선도방안 미래 IT융합 신산업 육성 및 선도방안 미래 IT융합 신산업 육성 및 선도방안 IT는 한국의 경제성장에 큰 기여를 해왔으며 사회전반의 패러다임 혁신을 통해 생산성, 효율성, 편의성, 소통성을 증진시키고 삶의 양식에 전면적 변화를 가져왔다. 국민경제와 사회문화에서 지대한 의미를 지나는 IT는 다른 기술 또는 산업과의 융합이라는 새로운 변화와 혁신의 중심에 위치하고 있다. IT융합은 IT의 자체 고도화를 바탕으로 다른 분야의 기술개발과 산업발전을 견인하거나 새로운 산업을 창출하는 것으로 우리나라를 비롯하며 주요국에서는 자원과 역량을 선택적으로 집중하고 있다. 이 논문에서는 IT 융합과 관련된 주요국의 산업 전략 및 기술개발 동향을 파악하고 전문가 설문조사결과를 바탕으로 한국의 IT 융합역량의 수준을 평가하고 결론적으로 IT융합신산업육성 및 선도방안에 관한 전략적 제언을 하고자 한다.\"\n        },\n        {\n          \"rank\": 3,\n          \"score\": 0.7185169458389282,\n          \"doc_id\": \"197\",\n          \"text\": \"산업생태계 관점에서 바라본 IT융합 촉진전략 산업생태계 관점에서 바라본 IT융합 촉진전략 산업생태계 관점에서 바라본 IT융합 촉진전략 IT융합은 제조업 등 타 산업 분야의 경쟁력을 향상시키는데 기여하고 있다. 지금까지 정부는 융합기술 개발 및 사업화에 많은 지원을 해왔으며 몇몇 선도기업에서는 의미 있는 성과를 거두고 있다. 그러나 IT융합을 기반으로 산업 경쟁력을 강화하기 위해서는 다양한 융합 시도가 이뤄질 수 있는 생태계가 구축되어야 하며, 많은 기업들이 융합에 참여하고 협력하며 그 혜택을 널리 공유할 수 있는 환경이 마련되어야 한다. 본 연구에서는 AHP 분석을 토대로 IT융합을 촉진하기 위한 이해관계자들의 역할을 도출하고자 하였다. 연구 결과, IT융합을 촉진하기 위한 산업 생태계 마련을 위해 정부의 규제 완화와 벤처 육성정책 확대, 키스톤 기업의 협업기반 융합과제 확대와 경험 공유, 벤처기업 등 기술개발 주체의 기술역량 강화, 그리고 크로스오버형 인재양성을 위한 대학의 역할이 필요한 것으로 나타났다.\"\n        }\n      ]\n    },\n    {\n      \"query\": \"한국 IT융합 신산업의 역량강화요인은 무엇입니까?\",\n      \"query_meta\": {\n        \"type\": \"single_hop\",\n        \"index\": 0\n      },\n      \"top_k\": 10,\n      \"hits\": [\n        {\n          \"rank\": 1,\n          \"score\": 0.8868180513381958,\n          \"doc_id\": \"150\",\n          \"text\": \"한국 IT융합 신산업 역량강화요인 한국 IT융합 신산업 역량강화요인 한국 IT융합 신산업 역량강화요인 IT는 한국의 경제성장에 큰 기여를 해왔으며 사회전반의 패러다임 혁신을 통해 생산성, 효율성, 편의성, 소통성을 증진시키고 삶의 양식에 전면적 변화를 가져왔다. 국민경제와 사회문화에서 지대한 의미를 지니는 IT는 다른 기술 또는 산업과의 융합이라는 새로운 변화와 혁신의 중심에 위치하고 있다. IT융합은 IT의 자체 고도화를 바탕으로 다른 분야의 기술개발과 산업발전을 견인하거나 새로운 산업을 창출하는 것으로, 우리나라를 비롯하여 주요국에서는 자원과 역량을 선택적으로 집중하고 있다. 이 논문에서는 IT 융합 신산업 역량강화요인을 도출하고자 2011년도에 실시한 정책연구의 학계 및 공공기관 전문가 델파이 결과를 선행연구들과 비교하여 한국의 IT 융합역량의 수준 변화를 평가하고 결론적으로 한국의 IT융합 신산업 역량강화요인을 도출하고자 하였다.\"\n        },\n        {\n          \"rank\": 2,\n          \"score\": 0.8080464601516724,\n          \"doc_id\": \"146\",\n          \"text\": \"미래 IT융합 신산업 육성 및 선도방안 미래 IT융합 신산업 육성 및 선도방안 미래 IT융합 신산업 육성 및 선도방안 IT는 한국의 경제성장에 큰 기여를 해왔으며 사회전반의 패러다임 혁신을 통해 생산성, 효율성, 편의성, 소통성을 증진시키고 삶의 양식에 전면적 변화를 가져왔다. 국민경제와 사회문화에서 지대한 의미를 지나는 IT는 다른 기술 또는 산업과의 융합이라는 새로운 변화와 혁신의 중심에 위치하고 있다. IT융합은 IT의 자체 고도화를 바탕으로 다른 분야의 기술개발과 산업발전을 견인하거나 새로운 산업을 창출하는 것으로 우리나라를 비롯하며 주요국에서는 자원과 역량을 선택적으로 집중하고 있다. 이 논문에서는 IT 융합과 관련된 주요국의 산업 전략 및 기술개발 동향을 파악하고 전문가 설문조사결과를 바탕으로 한국의 IT 융합역량의 수준을 평가하고 결론적으로 IT융합신산업육성 및 선도방안에 관한 전략적 제언을 하고자 한다.\"\n        },\n        {\n          \"rank\": 3,\n          \"score\": 0.7276888489723206,\n          \"doc_id\": \"197\",\n          \"text\": \"산업생태계 관점에서 바라본 IT융합 촉진전략 산업생태계 관점에서 바라본 IT융합 촉진전략 산업생태계 관점에서 바라본 IT융합 촉진전략 IT융합은 제조업 등 타 산업 분야의 경쟁력을 향상시키는데 기여하고 있다. 지금까지 정부는 융합기술 개발 및 사업화에 많은 지원을 해왔으며 몇몇 선도기업에서는 의미 있는 성과를 거두고 있다. 그러나 IT융합을 기반으로 산업 경쟁력을 강화하기 위해서는 다양한 융합 시도가 이뤄질 수 있는 생태계가 구축되어야 하며, 많은 기업들이 융합에 참여하고 협력하며 그 혜택을 널리 공유할 수 있는 환경이 마련되어야 한다. 본 연구에서는 AHP 분석을 토대로 IT융합을 촉진하기 위한 이해관계자들의 역할을 도출하고자 하였다. 연구 결과, IT융합을 촉진하기 위한 산업 생태계 마련을 위해 정부의 규제 완화와 벤처 육성정책 확대, 키스톤 기업의 협업기반 융합과제 확대와 경험 공유, 벤처기업 등 기술개발 주체의 기술역량 강화, 그리고 크로스오버형 인재양성을 위한 대학의 역할이 필요한 것으로 나타났다.\"\n        }\n      ]\n    },\n    {\n      \"query\": \"이러한 역량강화요인을 도출하기 위한 연구 결과는 무엇입니까?\",\n      \"query_meta\": {\n        \"type\": \"single_hop\",\n        \"index\": 1\n      },\n      \"top_k\": 10,\n      \"hits\": [\n        {\n          \"rank\": 1,\n          \"score\": 0.6181933879852295,\n          \"doc_id\": \"150\",\n          \"text\": \"한국 IT융합 신산업 역량강화요인 한국 IT융합 신산업 역량강화요인 한국 IT융합 신산업 역량강화요인 IT는 한국의 경제성장에 큰 기여를 해왔으며 사회전반의 패러다임 혁신을 통해 생산성, 효율성, 편의성, 소통성을 증진시키고 삶의 양식에 전면적 변화를 가져왔다. 국민경제와 사회문화에서 지대한 의미를 지니는 IT는 다른 기술 또는 산업과의 융합이라는 새로운 변화와 혁신의 중심에 위치하고 있다. IT융합은 IT의 자체 고도화를 바탕으로 다른 분야의 기술개발과 산업발전을 견인하거나 새로운 산업을 창출하는 것으로, 우리나라를 비롯하여 주요국에서는 자원과 역량을 선택적으로 집중하고 있다. 이 논문에서는 IT 융합 신산업 역량강화요인을 도출하고자 2011년도에 실시한 정책연구의 학계 및 공공기관 전문가 델파이 결과를 선행연구들과 비교하여 한국의 IT 융합역량의 수준 변화를 평가하고 결론적으로 한국의 IT융합 신산업 역량강화요인을 도출하고자 하였다.\"\n        },\n        {\n          \"rank\": 2,\n          \"score\": 0.5875018835067749,\n          \"doc_id\": \"211\",\n          \"text\": \"On exploring factors for enhancing export competitiveness in IT Convergence industries On exploring factors for enhancing export competitiveness in IT Convergence industries On exploring factors for enhancing export competitiveness in IT Convergence industries Purpose - The IT convergence industry, which is the subject of this study, is the main strategy field during the 4th industrial revolution era. Against this background, it is urgent to establish policy measures to survive and spread export products in the global industries.Research, design, data and methodology - In order to achieve this goal, we conducted the Importance - Performance Analysis (IPA) and found that it is necessary to develop tailor - made marketing support for small and medium sized IT exporters and to develop export strategy products with competitive technologies.Results - Above all, customized marketing support for IT export-related SMEs was needed. Next, in the first quadrant, strategic products, qualitative level, global, value added, and information systems were included, and it was found that 'development of export strategic products with competitive technologies' was necessary. In the third quadrant, related variables calculated at present time are not urgent variables.Conclusions - In this study, it would be necessary to calculate the additional implications of the variables that are not considered in this study, including future studies, because the methods considered here as analysis variables are carried out in comparison with the previous studies.\"\n        },\n        {\n          \"rank\": 3,\n          \"score\": 0.5815021991729736,\n          \"doc_id\": \"200\",\n          \"text\": \"딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 본 논문에서는 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조를 개발한다. 제안하는 복합 미생물 배양기는 수집한 복합 미생물 데이터에 대해 복합 미생물 데이터 전처리, 복합 미생물 데이터 구조 변환, 딥러닝 네트워크 설계, 설계한 딥러닝 네트워크 학습, 시제품에 적용되는 GUI 개발 등으로 구성된다. 복합 미생물 데이터 전처리에서는 미생물 배양에 필요한 당밀, 영양제, 식물엑기스, 소금 등의 양에 대해 원-핫 인코딩을 실시하며, 배양된 결과로 측정된 pH 농도와 미생물의 셀 수에 대해 최대-최소 정규화 방법을 사용하여 데이터를 전처리한다. 복합 미생물 데이터 구조 변환에서는 전처리된 데이터를 물 온도와 미생물의 셀 수를 연결하여 그래프 구조로 변환 후, 인접 행렬과 속성 정보로 나타내어 딥러닝 네트워크의 입력 데이터로 사용한다. 딥러닝 네트워크 설계에서는 그래프 구조에 특화된 그래프 합성곱 네트워크를 설계하여 복합 미생물 데이터를 학습시킨다. 설계한 딥러닝 네트워크는 Cosine 손실함수를 사용하여 학습 시에 발생하는 오차를 최소화하는 방향으로 학습을 진행한다. 시제품에 적용되는 GUI 개발은 사용자가 선택하는 물 온도에 따라 목표하는 pH 농도(3.8 이하) 복합 미생물의 셀 수(108 이상)를 배양시키기 적합한 순으로 나타낸다. 제안된 미생물 배양기의 성능을 평가하기 위하여 공인시험기관에서 실험한 결과는, pH 농도의 경우 평균 3.7로, 복합 미생물의 셀 수는 1.7 &#x00D7; 108으로 측정되었다. 따라서, 본 논문에서 제안한 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조의 효용성이 입증되었다.\"\n        }\n      ]\n    }\n  ],\n  \"meta\": {\n    \"model\": \"gemini-2.5-flash\",\n    \"temperature\": 0.2\n  }\n}\n\n--- Question ---\n한국 IT융합 신산업 역량강화요인과 이를 도출하기 위한 연구 결과를 간결하게 요약해 주시겠습니까?\n",
+    "model": "models/gemini-2.5-flash",
+    "retrival": {
+        "id": "row_000036",
+        "model_name": "SamilPwC-AXNode-GenAI/PwC-Embedding_expr",
+        "timestamp_kst": "2025-09-07T16:47:01.829886+09:00",
+        "trial_id": "0ddc23b0",
+        "queries": [
+            {
+                "query": "한국 IT융합 신산업 역량강화요인과 이를 도출하기 위한 연구 결과를 간결하게 요약해 주시겠습니까?",
+                "query_meta": {
+                    "type": "original"
+                },
+                "top_k": 10,
+                "hits": [
+                    {
+                        "rank": 1,
+                        "score": 0.8540050983428955,
+                        "doc_id": "150",
+                        "text": "한국 IT융합 신산업 역량강화요인 한국 IT융합 신산업 역량강화요인 한국 IT융합 신산업 역량강화요인 IT는 한국의 경제성장에 큰 기여를 해왔으며 사회전반의 패러다임 혁신을 통해 생산성, 효율성, 편의성, 소통성을 증진시키고 삶의 양식에 전면적 변화를 가져왔다. 국민경제와 사회문화에서 지대한 의미를 지니는 IT는 다른 기술 또는 산업과의 융합이라는 새로운 변화와 혁신의 중심에 위치하고 있다. IT융합은 IT의 자체 고도화를 바탕으로 다른 분야의 기술개발과 산업발전을 견인하거나 새로운 산업을 창출하는 것으로, 우리나라를 비롯하여 주요국에서는 자원과 역량을 선택적으로 집중하고 있다. 이 논문에서는 IT 융합 신산업 역량강화요인을 도출하고자 2011년도에 실시한 정책연구의 학계 및 공공기관 전문가 델파이 결과를 선행연구들과 비교하여 한국의 IT 융합역량의 수준 변화를 평가하고 결론적으로 한국의 IT융합 신산업 역량강화요인을 도출하고자 하였다."
+                    },
+                    {
+                        "rank": 2,
+                        "score": 0.7948346734046936,
+                        "doc_id": "146",
+                        "text": "미래 IT융합 신산업 육성 및 선도방안 미래 IT융합 신산업 육성 및 선도방안 미래 IT융합 신산업 육성 및 선도방안 IT는 한국의 경제성장에 큰 기여를 해왔으며 사회전반의 패러다임 혁신을 통해 생산성, 효율성, 편의성, 소통성을 증진시키고 삶의 양식에 전면적 변화를 가져왔다. 국민경제와 사회문화에서 지대한 의미를 지나는 IT는 다른 기술 또는 산업과의 융합이라는 새로운 변화와 혁신의 중심에 위치하고 있다. IT융합은 IT의 자체 고도화를 바탕으로 다른 분야의 기술개발과 산업발전을 견인하거나 새로운 산업을 창출하는 것으로 우리나라를 비롯하며 주요국에서는 자원과 역량을 선택적으로 집중하고 있다. 이 논문에서는 IT 융합과 관련된 주요국의 산업 전략 및 기술개발 동향을 파악하고 전문가 설문조사결과를 바탕으로 한국의 IT 융합역량의 수준을 평가하고 결론적으로 IT융합신산업육성 및 선도방안에 관한 전략적 제언을 하고자 한다."
+                    },
+                    {
+                        "rank": 3,
+                        "score": 0.7185169458389282,
+                        "doc_id": "197",
+                        "text": "산업생태계 관점에서 바라본 IT융합 촉진전략 산업생태계 관점에서 바라본 IT융합 촉진전략 산업생태계 관점에서 바라본 IT융합 촉진전략 IT융합은 제조업 등 타 산업 분야의 경쟁력을 향상시키는데 기여하고 있다. 지금까지 정부는 융합기술 개발 및 사업화에 많은 지원을 해왔으며 몇몇 선도기업에서는 의미 있는 성과를 거두고 있다. 그러나 IT융합을 기반으로 산업 경쟁력을 강화하기 위해서는 다양한 융합 시도가 이뤄질 수 있는 생태계가 구축되어야 하며, 많은 기업들이 융합에 참여하고 협력하며 그 혜택을 널리 공유할 수 있는 환경이 마련되어야 한다. 본 연구에서는 AHP 분석을 토대로 IT융합을 촉진하기 위한 이해관계자들의 역할을 도출하고자 하였다. 연구 결과, IT융합을 촉진하기 위한 산업 생태계 마련을 위해 정부의 규제 완화와 벤처 육성정책 확대, 키스톤 기업의 협업기반 융합과제 확대와 경험 공유, 벤처기업 등 기술개발 주체의 기술역량 강화, 그리고 크로스오버형 인재양성을 위한 대학의 역할이 필요한 것으로 나타났다."
+                    }
+                ]
+            },
+            {
+                "query": "한국 IT융합 신산업의 역량강화요인은 무엇입니까?",
+                "query_meta": {
+                    "type": "single_hop",
+                    "index": 0
+                },
+                "top_k": 10,
+                "hits": [
+                    {
+                        "rank": 1,
+                        "score": 0.8868180513381958,
+                        "doc_id": "150",
+                        "text": "한국 IT융합 신산업 역량강화요인 한국 IT융합 신산업 역량강화요인 한국 IT융합 신산업 역량강화요인 IT는 한국의 경제성장에 큰 기여를 해왔으며 사회전반의 패러다임 혁신을 통해 생산성, 효율성, 편의성, 소통성을 증진시키고 삶의 양식에 전면적 변화를 가져왔다. 국민경제와 사회문화에서 지대한 의미를 지니는 IT는 다른 기술 또는 산업과의 융합이라는 새로운 변화와 혁신의 중심에 위치하고 있다. IT융합은 IT의 자체 고도화를 바탕으로 다른 분야의 기술개발과 산업발전을 견인하거나 새로운 산업을 창출하는 것으로, 우리나라를 비롯하여 주요국에서는 자원과 역량을 선택적으로 집중하고 있다. 이 논문에서는 IT 융합 신산업 역량강화요인을 도출하고자 2011년도에 실시한 정책연구의 학계 및 공공기관 전문가 델파이 결과를 선행연구들과 비교하여 한국의 IT 융합역량의 수준 변화를 평가하고 결론적으로 한국의 IT융합 신산업 역량강화요인을 도출하고자 하였다."
+                    },
+                    {
+                        "rank": 2,
+                        "score": 0.8080464601516724,
+                        "doc_id": "146",
+                        "text": "미래 IT융합 신산업 육성 및 선도방안 미래 IT융합 신산업 육성 및 선도방안 미래 IT융합 신산업 육성 및 선도방안 IT는 한국의 경제성장에 큰 기여를 해왔으며 사회전반의 패러다임 혁신을 통해 생산성, 효율성, 편의성, 소통성을 증진시키고 삶의 양식에 전면적 변화를 가져왔다. 국민경제와 사회문화에서 지대한 의미를 지나는 IT는 다른 기술 또는 산업과의 융합이라는 새로운 변화와 혁신의 중심에 위치하고 있다. IT융합은 IT의 자체 고도화를 바탕으로 다른 분야의 기술개발과 산업발전을 견인하거나 새로운 산업을 창출하는 것으로 우리나라를 비롯하며 주요국에서는 자원과 역량을 선택적으로 집중하고 있다. 이 논문에서는 IT 융합과 관련된 주요국의 산업 전략 및 기술개발 동향을 파악하고 전문가 설문조사결과를 바탕으로 한국의 IT 융합역량의 수준을 평가하고 결론적으로 IT융합신산업육성 및 선도방안에 관한 전략적 제언을 하고자 한다."
+                    },
+                    {
+                        "rank": 3,
+                        "score": 0.7276888489723206,
+                        "doc_id": "197",
+                        "text": "산업생태계 관점에서 바라본 IT융합 촉진전략 산업생태계 관점에서 바라본 IT융합 촉진전략 산업생태계 관점에서 바라본 IT융합 촉진전략 IT융합은 제조업 등 타 산업 분야의 경쟁력을 향상시키는데 기여하고 있다. 지금까지 정부는 융합기술 개발 및 사업화에 많은 지원을 해왔으며 몇몇 선도기업에서는 의미 있는 성과를 거두고 있다. 그러나 IT융합을 기반으로 산업 경쟁력을 강화하기 위해서는 다양한 융합 시도가 이뤄질 수 있는 생태계가 구축되어야 하며, 많은 기업들이 융합에 참여하고 협력하며 그 혜택을 널리 공유할 수 있는 환경이 마련되어야 한다. 본 연구에서는 AHP 분석을 토대로 IT융합을 촉진하기 위한 이해관계자들의 역할을 도출하고자 하였다. 연구 결과, IT융합을 촉진하기 위한 산업 생태계 마련을 위해 정부의 규제 완화와 벤처 육성정책 확대, 키스톤 기업의 협업기반 융합과제 확대와 경험 공유, 벤처기업 등 기술개발 주체의 기술역량 강화, 그리고 크로스오버형 인재양성을 위한 대학의 역할이 필요한 것으로 나타났다."
+                    }
+                ]
+            },
+            {
+                "query": "이러한 역량강화요인을 도출하기 위한 연구 결과는 무엇입니까?",
+                "query_meta": {
+                    "type": "single_hop",
+                    "index": 1
+                },
+                "top_k": 10,
+                "hits": [
+                    {
+                        "rank": 1,
+                        "score": 0.6181933879852295,
+                        "doc_id": "150",
+                        "text": "한국 IT융합 신산업 역량강화요인 한국 IT융합 신산업 역량강화요인 한국 IT융합 신산업 역량강화요인 IT는 한국의 경제성장에 큰 기여를 해왔으며 사회전반의 패러다임 혁신을 통해 생산성, 효율성, 편의성, 소통성을 증진시키고 삶의 양식에 전면적 변화를 가져왔다. 국민경제와 사회문화에서 지대한 의미를 지니는 IT는 다른 기술 또는 산업과의 융합이라는 새로운 변화와 혁신의 중심에 위치하고 있다. IT융합은 IT의 자체 고도화를 바탕으로 다른 분야의 기술개발과 산업발전을 견인하거나 새로운 산업을 창출하는 것으로, 우리나라를 비롯하여 주요국에서는 자원과 역량을 선택적으로 집중하고 있다. 이 논문에서는 IT 융합 신산업 역량강화요인을 도출하고자 2011년도에 실시한 정책연구의 학계 및 공공기관 전문가 델파이 결과를 선행연구들과 비교하여 한국의 IT 융합역량의 수준 변화를 평가하고 결론적으로 한국의 IT융합 신산업 역량강화요인을 도출하고자 하였다."
+                    },
+                    {
+                        "rank": 2,
+                        "score": 0.5875018835067749,
+                        "doc_id": "211",
+                        "text": "On exploring factors for enhancing export competitiveness in IT Convergence industries On exploring factors for enhancing export competitiveness in IT Convergence industries On exploring factors for enhancing export competitiveness in IT Convergence industries Purpose - The IT convergence industry, which is the subject of this study, is the main strategy field during the 4th industrial revolution era. Against this background, it is urgent to establish policy measures to survive and spread export products in the global industries.Research, design, data and methodology - In order to achieve this goal, we conducted the Importance - Performance Analysis (IPA) and found that it is necessary to develop tailor - made marketing support for small and medium sized IT exporters and to develop export strategy products with competitive technologies.Results - Above all, customized marketing support for IT export-related SMEs was needed. Next, in the first quadrant, strategic products, qualitative level, global, value added, and information systems were included, and it was found that 'development of export strategic products with competitive technologies' was necessary. In the third quadrant, related variables calculated at present time are not urgent variables.Conclusions - In this study, it would be necessary to calculate the additional implications of the variables that are not considered in this study, including future studies, because the methods considered here as analysis variables are carried out in comparison with the previous studies."
+                    },
+                    {
+                        "rank": 3,
+                        "score": 0.5815021991729736,
+                        "doc_id": "200",
+                        "text": "딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 본 논문에서는 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조를 개발한다. 제안하는 복합 미생물 배양기는 수집한 복합 미생물 데이터에 대해 복합 미생물 데이터 전처리, 복합 미생물 데이터 구조 변환, 딥러닝 네트워크 설계, 설계한 딥러닝 네트워크 학습, 시제품에 적용되는 GUI 개발 등으로 구성된다. 복합 미생물 데이터 전처리에서는 미생물 배양에 필요한 당밀, 영양제, 식물엑기스, 소금 등의 양에 대해 원-핫 인코딩을 실시하며, 배양된 결과로 측정된 pH 농도와 미생물의 셀 수에 대해 최대-최소 정규화 방법을 사용하여 데이터를 전처리한다. 복합 미생물 데이터 구조 변환에서는 전처리된 데이터를 물 온도와 미생물의 셀 수를 연결하여 그래프 구조로 변환 후, 인접 행렬과 속성 정보로 나타내어 딥러닝 네트워크의 입력 데이터로 사용한다. 딥러닝 네트워크 설계에서는 그래프 구조에 특화된 그래프 합성곱 네트워크를 설계하여 복합 미생물 데이터를 학습시킨다. 설계한 딥러닝 네트워크는 Cosine 손실함수를 사용하여 학습 시에 발생하는 오차를 최소화하는 방향으로 학습을 진행한다. 시제품에 적용되는 GUI 개발은 사용자가 선택하는 물 온도에 따라 목표하는 pH 농도(3.8 이하) 복합 미생물의 셀 수(108 이상)를 배양시키기 적합한 순으로 나타낸다. 제안된 미생물 배양기의 성능을 평가하기 위하여 공인시험기관에서 실험한 결과는, pH 농도의 경우 평균 3.7로, 복합 미생물의 셀 수는 1.7 &#x00D7; 108으로 측정되었다. 따라서, 본 논문에서 제안한 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조의 효용성이 입증되었다."
+                    }
+                ]
+            }
+        ],
+        "meta": {
+            "model": "gemini-2.5-flash",
+            "temperature": 0.2
+        }
+    }
+}

@@ -1,0 +1,221 @@
+{
+  "id": "row_000001",
+  "model_name": "Snowflake/snowflake-arctic-embed-l-v2.0",
+  "timestamp_kst": "2025-09-07T15:58:53.073153+09:00",
+  "trial_id": "d6cde8cc",
+  "queries": [
+    {
+      "query": "How can the rationale and structure of the free electronic textbook outlining the essential mathematics for understanding AI in a one- or two-semester undergraduate course be summarized?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.401827871799469,
+          "doc_id": "219",
+          "text": "첨단 정보통신기술(ICT)인 인공지능(AI), 사물인터넷(IoT), 빅데이터(Big Data) 등이 사회와 경제 전반에 융합돼 혁신적인 변화가 일어나는 요즘, 헬스케어, 지능형 로봇, 가정용 인공지능 시스템(스마트홈), 공유자동차 등은 이미 우리 생활에 깊이 영향을 미치고 있다. 이미 오래전부터 공장에서는 로봇이 사람 대신 일을 하고 있으며(FA, OA), 인공지능 의사도 병원에서 활동을 하고 있고(Dr. Watson), 인공지능 스피커(기가지니)와 인공지능 비서인 구글 어시스턴트가 자연어생성을 하며 우리를 돕고 있다. 이제 인공지능을 이해하는 것은 필수가 되었으며, 인공지능을 이해하기 위해서 수학의 지식은 선택이 아니라 필수가 되었다. 따라서 이런 일들을 가능하게 해주는 수학지식을 설명하는 역할이 수학자들에게 주어졌다. 이에 본 연구진은 인공지능과 머신러닝(Machine Learning, 기계학습)을 이해하기 위해 필요한 수학 개념을 우리의 실정에 맞게 한 학기(또는 두 학기) 분량으로 정리하여, 무료 전자교과서 '인공지능을 위한 기초수학'을 집필하고, 인공지능 분야에 관심이 있는 다양한 전공의 대학생과 대학원생을 대상으로 하는 강좌를 개설하였다. 본 논문에서는 그 개발과정과 운영사례를 공유한다. http://matrix.skku.ac.kr/math4ai/"
+        },
+        {
+          "rank": 2,
+          "score": 0.3387126922607422,
+          "doc_id": "60",
+          "text": "AI has been well supported by government research and development dollars for decades now, and people are beginning to ask hard questions: What really works? What are the limits? What doesn't work as advertised? What isn't likely to work? What isn't affordable? This article holds a mirror up to the community, both to provide feedback and stimulate more self-assessment. The significant accomplishments and strengths of the field are highlighted. The research agenda, strategy, and heuristics are reviewed, and a change of course is recommended to improve the field's ability to produce reusable and interoperable components.(Author abstract)"
+        },
+        {
+          "rank": 3,
+          "score": 0.3373619318008423,
+          "doc_id": "106",
+          "text": "AbstractArtificial intelligence (AI) is the Science and Engineering domain concerned with the theory and practice of developing systems that exhibit the characteristics we associate with intelligence in human behavior. Starting with a brief history of artificial intelligence, this article presents a general overview of this broad interdisciplinary field, organized around the main modules of the notional architecture of an intelligent agent (knowledge representation; problem solving and planning; knowledge acquisition and learning; natural language, speech, and vision; action processing and robotics) which highlights both the main areas of artificial intelligence research, development and application, and also their integration. WIREs Comput Stat 2012, 4:168-180. doi: 10.1002/wics.200This article is categorized under: Software for Computational Statistics > Artificial Intelligence and Expert Systems"
+        },
+        {
+          "rank": 4,
+          "score": 0.32386255264282227,
+          "doc_id": "181",
+          "text": "본 연구는 문헌 연구 통해 설명 가능한 인공지능의 개념과 문제해결과정을 탐구하였다. 본 연구를 통하여 설명 가능한 인공지능의 교육적 의미와 적용 방안을 제시하였다. 설명 가능한 인공지능 교육이란 인간과 관련된 인공지능 문제를 다루는 사람 중심의 인공지능 교육으로 학생들은 문제 해결 능력을 함양할 수 있다. 그리고, 알고리즘 교육을 통해 인공지능의 원리를 이해하고 실생활 문제 상황과 관련된 인공지능 모델을 설명하며 인공지능의 활용분야까지 확장할 수 있다. 이러한 설명 가능한 인공지능 교육이 초등학교에서 적용되기 위해서는 실제 삶과 관련된 예를 사용해야 하며 알고리즘 자체가 해석력을 지닌 것을 활용하는 것이 좋다. 또한, 이해가 설명으로 나아가기 위해 다양한 교수학습방법 및 도구를 활용해야 한다. 2022년 개정 교육과정에서 인공지능 도입을 앞두고 본 연구가 실제 수업을 위한 기반으로써 의미 있게 활용되기를 바란다."
+        },
+        {
+          "rank": 5,
+          "score": 0.3148234188556671,
+          "doc_id": "151",
+          "text": "최근 여러 학문 분야에서는 논의되고 있는 인공지능(AI)의 문제는 과학적 문제임과 동시에 중요한 철학적 문제이다.본고는 컴퓨터과학자 혹은 인지과학자들이 내리고 있는 AI의 정의들을 분석함으로써 그 속에 함축되어 있는 논쟁점들을 발굴하고,관련된 논변들을 검토함 으로써 AI탐구가 지니는 의의를 명확히 해보려는 데 그 목적이 있다.AI에 대한 정의들은 AI연구가들의 관심과 목표 그리고 그 주장의 강도에 따라 여러 유형으로 분류될 수 있지만 대개가 인간지능을 어떻게 파악하고 있는지,지능과 뇌의 관계가 무엇인지,그리고 그것을 컴퓨터를 통해서 모의하고 복제한다는 것의 논리적 구조가 무엇인지에 대한 이해와 밀접한 관계가 있다.이점에서 AI연구에 있어서 관건이 되는 것은 컴퓨터 기술의 발전과 같은 경험상의 문제라기 보다는 오히려 논리나 개념분석과 같은 선험적인 문제와 밀접하게 연관되어 있다."
+        },
+        {
+          "rank": 6,
+          "score": 0.3077850639820099,
+          "doc_id": "153",
+          "text": "Artificial neural networks(ANN) has provided a theoretical framework on the study of human behavior/cognition and artificial intelligence. This article aims to introduce ANN and its mathematical principle to the field of applied linguistics. An ANN consists of input, hidden, and output vectors and the vectors are connected to one another by weight matrices. Mapping from input to output is accounted for by simple matrix multiplication."
+        },
+        {
+          "rank": 7,
+          "score": 0.29788461327552795,
+          "doc_id": "179",
+          "text": "Deep learning, a sub-field of machine learning changing the prospects of artificial intelligence (AI) because of its recent advancements and application in various field. Deep learning deals with algorithms inspired by the structure and function of the brain called artificial neural networks. This works reviews basic architecture and recent advancement of deep structured learning. It also describes contemporary applications of deep structured learning and its advantages over the treditional learning in artificial interlligence. This study is useful for the general readers and students who are in the early stage of deep learning studies."
+        },
+        {
+          "rank": 8,
+          "score": 0.2928737998008728,
+          "doc_id": "63",
+          "text": "Artificial intelligence and machine learning are used in many parts of our daily lives, but the basic processes and concepts are barely exposed to most people. Understanding these basic concepts is becoming increasingly important as kids don't have the opportunity to explore AI processes and improve their understanding of basic machine learning concepts and their essential components. Machine learning educational tools can help children easily understand artificial intelligence and machine learning. In this paper, we examine machine learning education tools and compare their features."
+        },
+        {
+          "rank": 9,
+          "score": 0.2768349051475525,
+          "doc_id": "69",
+          "text": "The field of artificial intelligence is reviewed. The work of George Stiny and myself on design and criticism is discussed briefly in terms of a paradigm of artificial intelligence research."
+        },
+        {
+          "rank": 10,
+          "score": 0.27122533321380615,
+          "doc_id": "46",
+          "text": "Background: The rate at which technology is adopted in the education sector is rapid. More so, artificial intelligence is gaining wide adoption as it aims to enhance the learning outcomes of students. The purpose of the current research paper was to find out the best artificial intelligence tools for undergraduate students that may be used to enhance their learning results and also discover what students use AI tools for. Method: The purpose was achieved by adopting a survey design to collect data that was analyzed statistically using percentages and pie charts. Findings: The study found out that undergraduate students use ChatGPT, Grammarly, Meta AI, ELSA Speak, Notion AI, BlackBox, Tome.APP, Tabnine, Microsoft Copilot, Perplexity, AI Notes, Phatomath, Midjourney, StarryAI, Murf, Runway, Copy.AI, Durable or Soundful in their learning process. Such AI tools help them gain a better understanding of the topics related to their study, do assignments, create content faster, write a certain piece of content, get feedback on a given content, and do its translation. The AI tools also organize tasks, review answers, and instruct how to go about answering given tasks. Conclusion and Recommendation: The use of numerous AI tools by undergraduate students enhances learning. The upscaling of AI tool usage requires universities to focus their efforts on integrating AI into their curricula and offering regular training sessions, and workshops. They should also foster continuous research and development in AI and continuous monitoring and evaluation of AI tools and their impact on the performances of students."
+        }
+      ]
+    },
+    {
+      "query": "What is the rationale of the free electronic textbook outlining the essential mathematics for understanding AI in a one- or two-semester undergraduate course?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.4140133857727051,
+          "doc_id": "219",
+          "text": "첨단 정보통신기술(ICT)인 인공지능(AI), 사물인터넷(IoT), 빅데이터(Big Data) 등이 사회와 경제 전반에 융합돼 혁신적인 변화가 일어나는 요즘, 헬스케어, 지능형 로봇, 가정용 인공지능 시스템(스마트홈), 공유자동차 등은 이미 우리 생활에 깊이 영향을 미치고 있다. 이미 오래전부터 공장에서는 로봇이 사람 대신 일을 하고 있으며(FA, OA), 인공지능 의사도 병원에서 활동을 하고 있고(Dr. Watson), 인공지능 스피커(기가지니)와 인공지능 비서인 구글 어시스턴트가 자연어생성을 하며 우리를 돕고 있다. 이제 인공지능을 이해하는 것은 필수가 되었으며, 인공지능을 이해하기 위해서 수학의 지식은 선택이 아니라 필수가 되었다. 따라서 이런 일들을 가능하게 해주는 수학지식을 설명하는 역할이 수학자들에게 주어졌다. 이에 본 연구진은 인공지능과 머신러닝(Machine Learning, 기계학습)을 이해하기 위해 필요한 수학 개념을 우리의 실정에 맞게 한 학기(또는 두 학기) 분량으로 정리하여, 무료 전자교과서 '인공지능을 위한 기초수학'을 집필하고, 인공지능 분야에 관심이 있는 다양한 전공의 대학생과 대학원생을 대상으로 하는 강좌를 개설하였다. 본 논문에서는 그 개발과정과 운영사례를 공유한다. http://matrix.skku.ac.kr/math4ai/"
+        },
+        {
+          "rank": 2,
+          "score": 0.3226360082626343,
+          "doc_id": "60",
+          "text": "AI has been well supported by government research and development dollars for decades now, and people are beginning to ask hard questions: What really works? What are the limits? What doesn't work as advertised? What isn't likely to work? What isn't affordable? This article holds a mirror up to the community, both to provide feedback and stimulate more self-assessment. The significant accomplishments and strengths of the field are highlighted. The research agenda, strategy, and heuristics are reviewed, and a change of course is recommended to improve the field's ability to produce reusable and interoperable components.(Author abstract)"
+        },
+        {
+          "rank": 3,
+          "score": 0.32045257091522217,
+          "doc_id": "181",
+          "text": "본 연구는 문헌 연구 통해 설명 가능한 인공지능의 개념과 문제해결과정을 탐구하였다. 본 연구를 통하여 설명 가능한 인공지능의 교육적 의미와 적용 방안을 제시하였다. 설명 가능한 인공지능 교육이란 인간과 관련된 인공지능 문제를 다루는 사람 중심의 인공지능 교육으로 학생들은 문제 해결 능력을 함양할 수 있다. 그리고, 알고리즘 교육을 통해 인공지능의 원리를 이해하고 실생활 문제 상황과 관련된 인공지능 모델을 설명하며 인공지능의 활용분야까지 확장할 수 있다. 이러한 설명 가능한 인공지능 교육이 초등학교에서 적용되기 위해서는 실제 삶과 관련된 예를 사용해야 하며 알고리즘 자체가 해석력을 지닌 것을 활용하는 것이 좋다. 또한, 이해가 설명으로 나아가기 위해 다양한 교수학습방법 및 도구를 활용해야 한다. 2022년 개정 교육과정에서 인공지능 도입을 앞두고 본 연구가 실제 수업을 위한 기반으로써 의미 있게 활용되기를 바란다."
+        },
+        {
+          "rank": 4,
+          "score": 0.3068775534629822,
+          "doc_id": "151",
+          "text": "최근 여러 학문 분야에서는 논의되고 있는 인공지능(AI)의 문제는 과학적 문제임과 동시에 중요한 철학적 문제이다.본고는 컴퓨터과학자 혹은 인지과학자들이 내리고 있는 AI의 정의들을 분석함으로써 그 속에 함축되어 있는 논쟁점들을 발굴하고,관련된 논변들을 검토함 으로써 AI탐구가 지니는 의의를 명확히 해보려는 데 그 목적이 있다.AI에 대한 정의들은 AI연구가들의 관심과 목표 그리고 그 주장의 강도에 따라 여러 유형으로 분류될 수 있지만 대개가 인간지능을 어떻게 파악하고 있는지,지능과 뇌의 관계가 무엇인지,그리고 그것을 컴퓨터를 통해서 모의하고 복제한다는 것의 논리적 구조가 무엇인지에 대한 이해와 밀접한 관계가 있다.이점에서 AI연구에 있어서 관건이 되는 것은 컴퓨터 기술의 발전과 같은 경험상의 문제라기 보다는 오히려 논리나 개념분석과 같은 선험적인 문제와 밀접하게 연관되어 있다."
+        },
+        {
+          "rank": 5,
+          "score": 0.2982122600078583,
+          "doc_id": "106",
+          "text": "AbstractArtificial intelligence (AI) is the Science and Engineering domain concerned with the theory and practice of developing systems that exhibit the characteristics we associate with intelligence in human behavior. Starting with a brief history of artificial intelligence, this article presents a general overview of this broad interdisciplinary field, organized around the main modules of the notional architecture of an intelligent agent (knowledge representation; problem solving and planning; knowledge acquisition and learning; natural language, speech, and vision; action processing and robotics) which highlights both the main areas of artificial intelligence research, development and application, and also their integration. WIREs Comput Stat 2012, 4:168-180. doi: 10.1002/wics.200This article is categorized under: Software for Computational Statistics > Artificial Intelligence and Expert Systems"
+        },
+        {
+          "rank": 6,
+          "score": 0.28832995891571045,
+          "doc_id": "153",
+          "text": "Artificial neural networks(ANN) has provided a theoretical framework on the study of human behavior/cognition and artificial intelligence. This article aims to introduce ANN and its mathematical principle to the field of applied linguistics. An ANN consists of input, hidden, and output vectors and the vectors are connected to one another by weight matrices. Mapping from input to output is accounted for by simple matrix multiplication."
+        },
+        {
+          "rank": 7,
+          "score": 0.2835851311683655,
+          "doc_id": "63",
+          "text": "Artificial intelligence and machine learning are used in many parts of our daily lives, but the basic processes and concepts are barely exposed to most people. Understanding these basic concepts is becoming increasingly important as kids don't have the opportunity to explore AI processes and improve their understanding of basic machine learning concepts and their essential components. Machine learning educational tools can help children easily understand artificial intelligence and machine learning. In this paper, we examine machine learning education tools and compare their features."
+        },
+        {
+          "rank": 8,
+          "score": 0.28192996978759766,
+          "doc_id": "46",
+          "text": "Background: The rate at which technology is adopted in the education sector is rapid. More so, artificial intelligence is gaining wide adoption as it aims to enhance the learning outcomes of students. The purpose of the current research paper was to find out the best artificial intelligence tools for undergraduate students that may be used to enhance their learning results and also discover what students use AI tools for. Method: The purpose was achieved by adopting a survey design to collect data that was analyzed statistically using percentages and pie charts. Findings: The study found out that undergraduate students use ChatGPT, Grammarly, Meta AI, ELSA Speak, Notion AI, BlackBox, Tome.APP, Tabnine, Microsoft Copilot, Perplexity, AI Notes, Phatomath, Midjourney, StarryAI, Murf, Runway, Copy.AI, Durable or Soundful in their learning process. Such AI tools help them gain a better understanding of the topics related to their study, do assignments, create content faster, write a certain piece of content, get feedback on a given content, and do its translation. The AI tools also organize tasks, review answers, and instruct how to go about answering given tasks. Conclusion and Recommendation: The use of numerous AI tools by undergraduate students enhances learning. The upscaling of AI tool usage requires universities to focus their efforts on integrating AI into their curricula and offering regular training sessions, and workshops. They should also foster continuous research and development in AI and continuous monitoring and evaluation of AI tools and their impact on the performances of students."
+        },
+        {
+          "rank": 9,
+          "score": 0.27461713552474976,
+          "doc_id": "159",
+          "text": "The paper tells the story of the beginnings of Artificial Intelligence (AI) as a scientific venture from a European perspective. The story is embedded into three main steps of history. In view of a sustainable future of our globe it is deemed necessary to vigorously advance the initiated third step. Assuming AI's due role in this process would mean a change in its long-term goal: enhancing rather than simulating human intelligence."
+        },
+        {
+          "rank": 10,
+          "score": 0.25792768597602844,
+          "doc_id": "69",
+          "text": "The field of artificial intelligence is reviewed. The work of George Stiny and myself on design and criticism is discussed briefly in terms of a paradigm of artificial intelligence research."
+        }
+      ]
+    },
+    {
+      "query": "What is the structure of the free electronic textbook outlining the essential mathematics for understanding AI in a one- or two-semester undergraduate course?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.430844247341156,
+          "doc_id": "219",
+          "text": "첨단 정보통신기술(ICT)인 인공지능(AI), 사물인터넷(IoT), 빅데이터(Big Data) 등이 사회와 경제 전반에 융합돼 혁신적인 변화가 일어나는 요즘, 헬스케어, 지능형 로봇, 가정용 인공지능 시스템(스마트홈), 공유자동차 등은 이미 우리 생활에 깊이 영향을 미치고 있다. 이미 오래전부터 공장에서는 로봇이 사람 대신 일을 하고 있으며(FA, OA), 인공지능 의사도 병원에서 활동을 하고 있고(Dr. Watson), 인공지능 스피커(기가지니)와 인공지능 비서인 구글 어시스턴트가 자연어생성을 하며 우리를 돕고 있다. 이제 인공지능을 이해하는 것은 필수가 되었으며, 인공지능을 이해하기 위해서 수학의 지식은 선택이 아니라 필수가 되었다. 따라서 이런 일들을 가능하게 해주는 수학지식을 설명하는 역할이 수학자들에게 주어졌다. 이에 본 연구진은 인공지능과 머신러닝(Machine Learning, 기계학습)을 이해하기 위해 필요한 수학 개념을 우리의 실정에 맞게 한 학기(또는 두 학기) 분량으로 정리하여, 무료 전자교과서 '인공지능을 위한 기초수학'을 집필하고, 인공지능 분야에 관심이 있는 다양한 전공의 대학생과 대학원생을 대상으로 하는 강좌를 개설하였다. 본 논문에서는 그 개발과정과 운영사례를 공유한다. http://matrix.skku.ac.kr/math4ai/"
+        },
+        {
+          "rank": 2,
+          "score": 0.334817498922348,
+          "doc_id": "60",
+          "text": "AI has been well supported by government research and development dollars for decades now, and people are beginning to ask hard questions: What really works? What are the limits? What doesn't work as advertised? What isn't likely to work? What isn't affordable? This article holds a mirror up to the community, both to provide feedback and stimulate more self-assessment. The significant accomplishments and strengths of the field are highlighted. The research agenda, strategy, and heuristics are reviewed, and a change of course is recommended to improve the field's ability to produce reusable and interoperable components.(Author abstract)"
+        },
+        {
+          "rank": 3,
+          "score": 0.3196992874145508,
+          "doc_id": "106",
+          "text": "AbstractArtificial intelligence (AI) is the Science and Engineering domain concerned with the theory and practice of developing systems that exhibit the characteristics we associate with intelligence in human behavior. Starting with a brief history of artificial intelligence, this article presents a general overview of this broad interdisciplinary field, organized around the main modules of the notional architecture of an intelligent agent (knowledge representation; problem solving and planning; knowledge acquisition and learning; natural language, speech, and vision; action processing and robotics) which highlights both the main areas of artificial intelligence research, development and application, and also their integration. WIREs Comput Stat 2012, 4:168-180. doi: 10.1002/wics.200This article is categorized under: Software for Computational Statistics > Artificial Intelligence and Expert Systems"
+        },
+        {
+          "rank": 4,
+          "score": 0.31726953387260437,
+          "doc_id": "153",
+          "text": "Artificial neural networks(ANN) has provided a theoretical framework on the study of human behavior/cognition and artificial intelligence. This article aims to introduce ANN and its mathematical principle to the field of applied linguistics. An ANN consists of input, hidden, and output vectors and the vectors are connected to one another by weight matrices. Mapping from input to output is accounted for by simple matrix multiplication."
+        },
+        {
+          "rank": 5,
+          "score": 0.29966747760772705,
+          "doc_id": "181",
+          "text": "본 연구는 문헌 연구 통해 설명 가능한 인공지능의 개념과 문제해결과정을 탐구하였다. 본 연구를 통하여 설명 가능한 인공지능의 교육적 의미와 적용 방안을 제시하였다. 설명 가능한 인공지능 교육이란 인간과 관련된 인공지능 문제를 다루는 사람 중심의 인공지능 교육으로 학생들은 문제 해결 능력을 함양할 수 있다. 그리고, 알고리즘 교육을 통해 인공지능의 원리를 이해하고 실생활 문제 상황과 관련된 인공지능 모델을 설명하며 인공지능의 활용분야까지 확장할 수 있다. 이러한 설명 가능한 인공지능 교육이 초등학교에서 적용되기 위해서는 실제 삶과 관련된 예를 사용해야 하며 알고리즘 자체가 해석력을 지닌 것을 활용하는 것이 좋다. 또한, 이해가 설명으로 나아가기 위해 다양한 교수학습방법 및 도구를 활용해야 한다. 2022년 개정 교육과정에서 인공지능 도입을 앞두고 본 연구가 실제 수업을 위한 기반으로써 의미 있게 활용되기를 바란다."
+        },
+        {
+          "rank": 6,
+          "score": 0.29706358909606934,
+          "doc_id": "63",
+          "text": "Artificial intelligence and machine learning are used in many parts of our daily lives, but the basic processes and concepts are barely exposed to most people. Understanding these basic concepts is becoming increasingly important as kids don't have the opportunity to explore AI processes and improve their understanding of basic machine learning concepts and their essential components. Machine learning educational tools can help children easily understand artificial intelligence and machine learning. In this paper, we examine machine learning education tools and compare their features."
+        },
+        {
+          "rank": 7,
+          "score": 0.2944217622280121,
+          "doc_id": "179",
+          "text": "Deep learning, a sub-field of machine learning changing the prospects of artificial intelligence (AI) because of its recent advancements and application in various field. Deep learning deals with algorithms inspired by the structure and function of the brain called artificial neural networks. This works reviews basic architecture and recent advancement of deep structured learning. It also describes contemporary applications of deep structured learning and its advantages over the treditional learning in artificial interlligence. This study is useful for the general readers and students who are in the early stage of deep learning studies."
+        },
+        {
+          "rank": 8,
+          "score": 0.2935166656970978,
+          "doc_id": "151",
+          "text": "최근 여러 학문 분야에서는 논의되고 있는 인공지능(AI)의 문제는 과학적 문제임과 동시에 중요한 철학적 문제이다.본고는 컴퓨터과학자 혹은 인지과학자들이 내리고 있는 AI의 정의들을 분석함으로써 그 속에 함축되어 있는 논쟁점들을 발굴하고,관련된 논변들을 검토함 으로써 AI탐구가 지니는 의의를 명확히 해보려는 데 그 목적이 있다.AI에 대한 정의들은 AI연구가들의 관심과 목표 그리고 그 주장의 강도에 따라 여러 유형으로 분류될 수 있지만 대개가 인간지능을 어떻게 파악하고 있는지,지능과 뇌의 관계가 무엇인지,그리고 그것을 컴퓨터를 통해서 모의하고 복제한다는 것의 논리적 구조가 무엇인지에 대한 이해와 밀접한 관계가 있다.이점에서 AI연구에 있어서 관건이 되는 것은 컴퓨터 기술의 발전과 같은 경험상의 문제라기 보다는 오히려 논리나 개념분석과 같은 선험적인 문제와 밀접하게 연관되어 있다."
+        },
+        {
+          "rank": 9,
+          "score": 0.28011125326156616,
+          "doc_id": "69",
+          "text": "The field of artificial intelligence is reviewed. The work of George Stiny and myself on design and criticism is discussed briefly in terms of a paradigm of artificial intelligence research."
+        },
+        {
+          "rank": 10,
+          "score": 0.27493056654930115,
+          "doc_id": "46",
+          "text": "Background: The rate at which technology is adopted in the education sector is rapid. More so, artificial intelligence is gaining wide adoption as it aims to enhance the learning outcomes of students. The purpose of the current research paper was to find out the best artificial intelligence tools for undergraduate students that may be used to enhance their learning results and also discover what students use AI tools for. Method: The purpose was achieved by adopting a survey design to collect data that was analyzed statistically using percentages and pie charts. Findings: The study found out that undergraduate students use ChatGPT, Grammarly, Meta AI, ELSA Speak, Notion AI, BlackBox, Tome.APP, Tabnine, Microsoft Copilot, Perplexity, AI Notes, Phatomath, Midjourney, StarryAI, Murf, Runway, Copy.AI, Durable or Soundful in their learning process. Such AI tools help them gain a better understanding of the topics related to their study, do assignments, create content faster, write a certain piece of content, get feedback on a given content, and do its translation. The AI tools also organize tasks, review answers, and instruct how to go about answering given tasks. Conclusion and Recommendation: The use of numerous AI tools by undergraduate students enhances learning. The upscaling of AI tool usage requires universities to focus their efforts on integrating AI into their curricula and offering regular training sessions, and workshops. They should also foster continuous research and development in AI and continuous monitoring and evaluation of AI tools and their impact on the performances of students."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

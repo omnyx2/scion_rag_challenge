@@ -1,0 +1,151 @@
+{
+  "id": "row_000020",
+  "model_name": "BAAI/bge-m3",
+  "timestamp_kst": "2025-09-07T16:10:10.402979+09:00",
+  "trial_id": "794440ee",
+  "queries": [
+    {
+      "query": "제조 품질 개선을 위해 제안된 식스 시그마 기반 Big Data 활용 방법의 주요 절차를 요약해 주시겠습니까?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7025575637817383,
+          "doc_id": "161",
+          "text": "Big Data 활용을 위한 제조 품질 개선 방법에 대한 연구"
+        },
+        {
+          "rank": 2,
+          "score": 0.5713685154914856,
+          "doc_id": "126",
+          "text": "Exploring Big Data Governance Frameworks"
+        },
+        {
+          "rank": 3,
+          "score": 0.5645443797111511,
+          "doc_id": "73",
+          "text": "Big data, big data quality problem"
+        },
+        {
+          "rank": 4,
+          "score": 0.5642048120498657,
+          "doc_id": "88",
+          "text": "Machine learning on Big Data"
+        },
+        {
+          "rank": 5,
+          "score": 0.5584176182746887,
+          "doc_id": "62",
+          "text": "Utilization and Analysis of Big-data"
+        },
+        {
+          "rank": 6,
+          "score": 0.5552394390106201,
+          "doc_id": "109",
+          "text": "Optimized Data Processing Analysis Using Big Data Cloud Platform"
+        },
+        {
+          "rank": 7,
+          "score": 0.5508724451065063,
+          "doc_id": "35",
+          "text": "Big Data in der amtlichen Statistik"
+        },
+        {
+          "rank": 8,
+          "score": 0.5459096431732178,
+          "doc_id": "189",
+          "text": "Big data? Big deal: Searching for big data’s performance effects in HR"
+        },
+        {
+          "rank": 9,
+          "score": 0.54535973072052,
+          "doc_id": "78",
+          "text": "Data learning from big data"
+        },
+        {
+          "rank": 10,
+          "score": 0.5438728332519531,
+          "doc_id": "199",
+          "text": "Sharing big biomedical data"
+        }
+      ]
+    },
+    {
+      "query": "제조 품질 개선을 위해 제안된 식스 시그마 기반 Big Data 활용 방법의 주요 절차는 무엇입니까?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7154883146286011,
+          "doc_id": "161",
+          "text": "Big Data 활용을 위한 제조 품질 개선 방법에 대한 연구"
+        },
+        {
+          "rank": 2,
+          "score": 0.5827127695083618,
+          "doc_id": "73",
+          "text": "Big data, big data quality problem"
+        },
+        {
+          "rank": 3,
+          "score": 0.5703043937683105,
+          "doc_id": "88",
+          "text": "Machine learning on Big Data"
+        },
+        {
+          "rank": 4,
+          "score": 0.5637466907501221,
+          "doc_id": "126",
+          "text": "Exploring Big Data Governance Frameworks"
+        },
+        {
+          "rank": 5,
+          "score": 0.5591205358505249,
+          "doc_id": "62",
+          "text": "Utilization and Analysis of Big-data"
+        },
+        {
+          "rank": 6,
+          "score": 0.5550294518470764,
+          "doc_id": "165",
+          "text": "패키징(Packaging) 분야에서의 빅데이터(Big data) 적용방안 연구"
+        },
+        {
+          "rank": 7,
+          "score": 0.5540490746498108,
+          "doc_id": "78",
+          "text": "Data learning from big data"
+        },
+        {
+          "rank": 8,
+          "score": 0.5528146624565125,
+          "doc_id": "109",
+          "text": "Optimized Data Processing Analysis Using Big Data Cloud Platform"
+        },
+        {
+          "rank": 9,
+          "score": 0.5474492907524109,
+          "doc_id": "35",
+          "text": "Big Data in der amtlichen Statistik"
+        },
+        {
+          "rank": 10,
+          "score": 0.5468600988388062,
+          "doc_id": "199",
+          "text": "Sharing big biomedical data"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

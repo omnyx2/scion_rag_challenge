@@ -1,0 +1,221 @@
+{
+  "id": "row_000003",
+  "model_name": "Snowflake/snowflake-arctic-embed-l-v2.0",
+  "timestamp_kst": "2025-09-07T15:58:53.404429+09:00",
+  "trial_id": "3d92ffc1",
+  "queries": [
+    {
+      "query": "What approach and results characterize the system that learns TurKontrol’s POMDP parameters from Mechanical Turk data to optimize iterative crowdsourced tasks?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.520336389541626,
+          "doc_id": "111",
+          "text": "Crowdsourcing platforms such as Amazon Mechanical Turk have become popular for a wide variety of human intelligence tasks; however, quality control continues to be a significant challenge. Recently, we propose TurKontrol, a theoretical model based on POMDPs to optimize iterative, crowd-sourced workflows. However, they neither describe how to learn the model parameters, nor show its effectiveness in a real crowd-sourced setting. Learning is challenging due to the scale of the model and noisy data: there are hundreds of thousands of workers with high-variance abilities. This paper presents an end-to-end system that first learns TurKontrol's POMDP parameters from real Mechanical Turk data, and then applies the model to dynamically optimize live tasks. We validate the model and use it to control a successive-improvement process on Mechanical Turk. By modeling worker accuracy and voting patterns, our system produces significantly superior artifacts compared to those generated through nonadaptive workflows using the same amount of money."
+        },
+        {
+          "rank": 2,
+          "score": 0.37855419516563416,
+          "doc_id": "75",
+          "text": "The motivation for machine learning is to have computers extract concepts and relations from databases or through interactive sessions with a user and then use them in any knowledge-intensive activity. Developing knowledge bases for expert systems applications is one such activity. Studying computer-based learning techniques gives a better understanding of human mental processes. Two types of programs are considered that learn from examples: those, called data-driven learners, that generalize by relying entirely on the data presented to them, and a group of more elaborate programs, called model-driven learners, that proceed by generating fairly general hypotheses that are subsequently tested against the given examples or against the user in a typical interactive session. The model-driven learner is contrasted with the data-driven learner and an example of the former using a model-driven learner called Marvin is given."
+        },
+        {
+          "rank": 3,
+          "score": 0.3490307927131653,
+          "doc_id": "125",
+          "text": "ZusammenfassungDeep Learning ist der Ansatz, der die k&uuml;nstliche Intelligenz innerhalb weniger Jahre tiefgreifend ver&auml;ndert hat. Auch wenn sie durch verschiedene algorithmische Fortschritte begleitet wird, ist diese Technik vor allem aus Anwendungssicht &#x201e;disruptiv“: Sie verschiebt die Grenze automatisierbarer Aufgaben betr&auml;chtlich, ver&auml;ndert die Art der Produktentwicklung und steht praktisch jedermann zur Verf&uuml;gung. Gegenstand des Deep Learning sind neuronale Netze mit einer großen Anzahl von Schichten. Verglichen mit fr&uuml;heren Ans&auml;tzen mit idealerweise einer einzigen Schicht, erlaubt dies den Einsatz massiver Rechenhardware, um Black-Box-Modelle mit einem Minimum an Entwicklungsaufwand direkt aus Rohdaten zu trainieren. Die meisten erfolgreichen Anwendungen finden sich in der Auswertung visueller Bilder, aber auch in der Audio- und Text-Modellierung."
+        },
+        {
+          "rank": 4,
+          "score": 0.3461872339248657,
+          "doc_id": "202",
+          "text": "A short review of research and applications in machine learning is given. Rather than attempt to cover all areas of ML, the focus is on its role in building expert systems, its approach to classification problems and ML methods of learning control. A relatively new area, inductive logic programming, is also discussed."
+        },
+        {
+          "rank": 5,
+          "score": 0.32621267437934875,
+          "doc_id": "106",
+          "text": "AbstractArtificial intelligence (AI) is the Science and Engineering domain concerned with the theory and practice of developing systems that exhibit the characteristics we associate with intelligence in human behavior. Starting with a brief history of artificial intelligence, this article presents a general overview of this broad interdisciplinary field, organized around the main modules of the notional architecture of an intelligent agent (knowledge representation; problem solving and planning; knowledge acquisition and learning; natural language, speech, and vision; action processing and robotics) which highlights both the main areas of artificial intelligence research, development and application, and also their integration. WIREs Comput Stat 2012, 4:168-180. doi: 10.1002/wics.200This article is categorized under: Software for Computational Statistics > Artificial Intelligence and Expert Systems"
+        },
+        {
+          "rank": 6,
+          "score": 0.31848812103271484,
+          "doc_id": "140",
+          "text": "Macromolecular Big Data provide numerous challenges and a number of initiatives that are starting to overcome these issues are discussed."
+        },
+        {
+          "rank": 7,
+          "score": 0.3170289397239685,
+          "doc_id": "153",
+          "text": "Artificial neural networks(ANN) has provided a theoretical framework on the study of human behavior/cognition and artificial intelligence. This article aims to introduce ANN and its mathematical principle to the field of applied linguistics. An ANN consists of input, hidden, and output vectors and the vectors are connected to one another by weight matrices. Mapping from input to output is accounted for by simple matrix multiplication."
+        },
+        {
+          "rank": 8,
+          "score": 0.31611698865890503,
+          "doc_id": "155",
+          "text": "At this current digital era, business platforms have been drastically shifted toward online stores on internet. With the internet-based platform, customers can order goods easily using their smart phones and get delivery at their place without going to the shopping mall. However, the drawback of this business platform is that customers do not really know about the quality of the products they ordered. Therefore, such platform service often provides the review section to let previous customers leave a review about the received product. The reviews are a good source to analyze customer's satisfaction. Business owners can assess review trend as either positive or negative based on a feedback score that customers had given, but it takes too much time for human to analyze this data. In this research, we develop computational models using machine learning techniques to classify product reviews as positive or negative based on the sentiment analysis. In our experiments, we use the book review data from amazon.com to develop the models. For a machine learning based strategy, the data had been transformed with the bag of word technique before developing models using logistic regression, na&iuml;ve bayes, support vector machine, and neural network algorithms. For a deep learning strategy, the word embedding is a technique that we used to transform data before applying the long short-term memory and gated recurrent unit techniques. On comparing performance of machine learning against deep learning models, we compare results from the two methods with both the preprocessed dataset and the non-preprocessed dataset. The result is that the bag of words with neural network outperforms other techniques on both non-preprocess and preprocess datasets."
+        },
+        {
+          "rank": 9,
+          "score": 0.3145610988140106,
+          "doc_id": "60",
+          "text": "AI has been well supported by government research and development dollars for decades now, and people are beginning to ask hard questions: What really works? What are the limits? What doesn't work as advertised? What isn't likely to work? What isn't affordable? This article holds a mirror up to the community, both to provide feedback and stimulate more self-assessment. The significant accomplishments and strengths of the field are highlighted. The research agenda, strategy, and heuristics are reviewed, and a change of course is recommended to improve the field's ability to produce reusable and interoperable components.(Author abstract)"
+        },
+        {
+          "rank": 10,
+          "score": 0.30966392159461975,
+          "doc_id": "88",
+          "text": "Statistical Machine Learning has undergone a phase transition from a pure academic endeavor to being one of the main drivers of modern commerce and science. Even more so, recent results such as those on tera-scale learning [1] and on very large neural networks [2] suggest that scale is an important ingredient in quality modeling. This tutorial introduces current applications, techniques and systems with the aim of cross-fertilizing research between the database and machine learning communities. The tutorial covers current large scale applications of Machine Learning, their computational model and the workflow behind building those. Based on this foundation, we present the current state-of-the-art in systems support in the bulk of the tutorial. We also identify critical gaps in the state-of-the-art. This leads to the closing of the seminar, where we introduce two sets of open research questions: Better systems support for the already established use cases of Machine Learning and support for recent advances in Machine Learning research."
+        }
+      ]
+    },
+    {
+      "query": "What approach does the system use to learn TurKontrol’s POMDP parameters from Mechanical Turk data to optimize iterative crowdsourced tasks?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5281559824943542,
+          "doc_id": "111",
+          "text": "Crowdsourcing platforms such as Amazon Mechanical Turk have become popular for a wide variety of human intelligence tasks; however, quality control continues to be a significant challenge. Recently, we propose TurKontrol, a theoretical model based on POMDPs to optimize iterative, crowd-sourced workflows. However, they neither describe how to learn the model parameters, nor show its effectiveness in a real crowd-sourced setting. Learning is challenging due to the scale of the model and noisy data: there are hundreds of thousands of workers with high-variance abilities. This paper presents an end-to-end system that first learns TurKontrol's POMDP parameters from real Mechanical Turk data, and then applies the model to dynamically optimize live tasks. We validate the model and use it to control a successive-improvement process on Mechanical Turk. By modeling worker accuracy and voting patterns, our system produces significantly superior artifacts compared to those generated through nonadaptive workflows using the same amount of money."
+        },
+        {
+          "rank": 2,
+          "score": 0.38360172510147095,
+          "doc_id": "75",
+          "text": "The motivation for machine learning is to have computers extract concepts and relations from databases or through interactive sessions with a user and then use them in any knowledge-intensive activity. Developing knowledge bases for expert systems applications is one such activity. Studying computer-based learning techniques gives a better understanding of human mental processes. Two types of programs are considered that learn from examples: those, called data-driven learners, that generalize by relying entirely on the data presented to them, and a group of more elaborate programs, called model-driven learners, that proceed by generating fairly general hypotheses that are subsequently tested against the given examples or against the user in a typical interactive session. The model-driven learner is contrasted with the data-driven learner and an example of the former using a model-driven learner called Marvin is given."
+        },
+        {
+          "rank": 3,
+          "score": 0.36670422554016113,
+          "doc_id": "202",
+          "text": "A short review of research and applications in machine learning is given. Rather than attempt to cover all areas of ML, the focus is on its role in building expert systems, its approach to classification problems and ML methods of learning control. A relatively new area, inductive logic programming, is also discussed."
+        },
+        {
+          "rank": 4,
+          "score": 0.36377641558647156,
+          "doc_id": "125",
+          "text": "ZusammenfassungDeep Learning ist der Ansatz, der die k&uuml;nstliche Intelligenz innerhalb weniger Jahre tiefgreifend ver&auml;ndert hat. Auch wenn sie durch verschiedene algorithmische Fortschritte begleitet wird, ist diese Technik vor allem aus Anwendungssicht &#x201e;disruptiv“: Sie verschiebt die Grenze automatisierbarer Aufgaben betr&auml;chtlich, ver&auml;ndert die Art der Produktentwicklung und steht praktisch jedermann zur Verf&uuml;gung. Gegenstand des Deep Learning sind neuronale Netze mit einer großen Anzahl von Schichten. Verglichen mit fr&uuml;heren Ans&auml;tzen mit idealerweise einer einzigen Schicht, erlaubt dies den Einsatz massiver Rechenhardware, um Black-Box-Modelle mit einem Minimum an Entwicklungsaufwand direkt aus Rohdaten zu trainieren. Die meisten erfolgreichen Anwendungen finden sich in der Auswertung visueller Bilder, aber auch in der Audio- und Text-Modellierung."
+        },
+        {
+          "rank": 5,
+          "score": 0.3444893956184387,
+          "doc_id": "6",
+          "text": "4 천년 전에 Go-game (바둑) 이 발명되어 널리 지능을 가진 사람들을 가르치기 위해 널리 적용되었습니다. 많은 왕이 그것을 연주하고 지능을 향상시키기 위해 아들을 가르쳤습니다.&amp;#xD; 1980 년대에 퍼스널 컴퓨터가 만들어지고 인기를 얻었습니다. 또한 많은 게임이 사람들이 컴퓨터로 게임을하거나 기존 게임을 플레이 할 때 사용자를 지원할 수 있도록 프로그래밍되어 있습니다. Shogi, Chess, Xiangqi, Go-game, tic-tac-toe 등과 같이 지금까지도 우리 조상이 연주 한 많은 유명한 전통 게임이 컴퓨터 프로그램에 의해 삽화가되고 많은 게임이 성공적으로 프로그래밍되었습니다 . 점진적으로 개선되기 위해 매일 복잡성 게임이 개발되고 있습니다. 특히, 복잡성이 매우 높은 일부 게임은 장군, 체스, 고 게임 등과 같은 전략과 규칙을 가지고 노는 것이 지능적이라고 생각합니다. 인간과 똑같이 지능적으로 플레이 할 수 있도록 프로그램하는 것은 매우 어렵습니다.&amp;#xD; 기계 학습은 컴퓨터가 인간의 두뇌와 유사한 데이터를 생각하고 학습하게하는 솔루션으로 부상했습니다. 알고리즘을 사용하여 분석 모델을 작성하여 컴퓨터가 특정 목적을 위해 주어진 데이터에서 '학습'하도록 돕습니다. 이제는 무인 자동차, 로봇 장치와 같은 흥미 진 진한 새로운 응용 프로그램을 만들기 위해 방대한 양의 데이터에 적용 할 수 있습니다. 딥 러닝 (Deep Learning)은 인공 신경 네트워크 (artificial neural networks)라고 불리는 뇌의 구조와 기능에 영감을받은 알고리즘과 관련된 기계 학습의 하위 분야입니다. 이것은 더 나은 훈련 된 데이터 세트를 얻기 위해 학습 진도를 향상시키는 새로운 접근법으로 알려져있어 더 정확한 결과를 초래합니다.&amp;#xD; 내 논문은 Go-game에 깊은 학습을 적용하는 데 중점을 둡니다. 나는 'Go-game에 적용된 깊은 학습'에 관한 설문 조사를합니다. Go-game에 대한 오픈 소스 코드 프로젝트와 문제 해결을위한 심층적 인 학습 기술을 적용하는 방법을 소개합니다. 정확성과 효과가 더 높은 Go- 게임을위한 다음 동작 계산에 대해 자세히 설명합니다. 저는 고문 교수 인 Jung Keechul과 함께 Go-game의 차세대 제안에 대한 제안을했습니다. 이 방법에서는 3 개의 CNN 레이어가있는 5 개의 숨겨진 레이어를 사용하여 데이터를 학습합니다.&amp;#xD; 저의 논문의 기여는보다 높은 성과와 효과를 가진 HCI에 깊은 학습을 적용하는 접근법을 과시하는 것입니다. 첫째, 심층 학습에 대한 완전한 관찰과 그것을 설문 조사를 통해 적용하는 방법을 제공했습니다. Go-game에 깊은 학습이 적용되었습니다. 둘째, Go-game 연구 및 프로젝트에 필요한 거대한 자원을 보여주었습니다. 셋째, Go-game에 적용된 실험과이 분야에서의 작업을 보여주었습니다. 마지막으로 필자는 내 프로그램 (HuuDucGo), Orego 및 Fuego의 3 가지 프로그램을 비교했습니다. 그들 사이에 제안의 수렴은 다음을 보여줍니다 : HuuDucGo의 제안을 받아 들일 수 있습니다. 우리의 작업에 대한 특별한 실험 : Orego와 Fuego와 같은 다른 두 가지 큰 프로그램의 제안과 수렴되는 수용 가능한 결과를 가지고 Go- 게임을 할 때 다음 행동을 계산하고 제안하는 데 깊은 지식을 적용합니다."
+        },
+        {
+          "rank": 6,
+          "score": 0.3366161584854126,
+          "doc_id": "88",
+          "text": "Statistical Machine Learning has undergone a phase transition from a pure academic endeavor to being one of the main drivers of modern commerce and science. Even more so, recent results such as those on tera-scale learning [1] and on very large neural networks [2] suggest that scale is an important ingredient in quality modeling. This tutorial introduces current applications, techniques and systems with the aim of cross-fertilizing research between the database and machine learning communities. The tutorial covers current large scale applications of Machine Learning, their computational model and the workflow behind building those. Based on this foundation, we present the current state-of-the-art in systems support in the bulk of the tutorial. We also identify critical gaps in the state-of-the-art. This leads to the closing of the seminar, where we introduce two sets of open research questions: Better systems support for the already established use cases of Machine Learning and support for recent advances in Machine Learning research."
+        },
+        {
+          "rank": 7,
+          "score": 0.3254634141921997,
+          "doc_id": "153",
+          "text": "Artificial neural networks(ANN) has provided a theoretical framework on the study of human behavior/cognition and artificial intelligence. This article aims to introduce ANN and its mathematical principle to the field of applied linguistics. An ANN consists of input, hidden, and output vectors and the vectors are connected to one another by weight matrices. Mapping from input to output is accounted for by simple matrix multiplication."
+        },
+        {
+          "rank": 8,
+          "score": 0.32529217004776,
+          "doc_id": "60",
+          "text": "AI has been well supported by government research and development dollars for decades now, and people are beginning to ask hard questions: What really works? What are the limits? What doesn't work as advertised? What isn't likely to work? What isn't affordable? This article holds a mirror up to the community, both to provide feedback and stimulate more self-assessment. The significant accomplishments and strengths of the field are highlighted. The research agenda, strategy, and heuristics are reviewed, and a change of course is recommended to improve the field's ability to produce reusable and interoperable components.(Author abstract)"
+        },
+        {
+          "rank": 9,
+          "score": 0.31500673294067383,
+          "doc_id": "155",
+          "text": "At this current digital era, business platforms have been drastically shifted toward online stores on internet. With the internet-based platform, customers can order goods easily using their smart phones and get delivery at their place without going to the shopping mall. However, the drawback of this business platform is that customers do not really know about the quality of the products they ordered. Therefore, such platform service often provides the review section to let previous customers leave a review about the received product. The reviews are a good source to analyze customer's satisfaction. Business owners can assess review trend as either positive or negative based on a feedback score that customers had given, but it takes too much time for human to analyze this data. In this research, we develop computational models using machine learning techniques to classify product reviews as positive or negative based on the sentiment analysis. In our experiments, we use the book review data from amazon.com to develop the models. For a machine learning based strategy, the data had been transformed with the bag of word technique before developing models using logistic regression, na&iuml;ve bayes, support vector machine, and neural network algorithms. For a deep learning strategy, the word embedding is a technique that we used to transform data before applying the long short-term memory and gated recurrent unit techniques. On comparing performance of machine learning against deep learning models, we compare results from the two methods with both the preprocessed dataset and the non-preprocessed dataset. The result is that the bag of words with neural network outperforms other techniques on both non-preprocess and preprocess datasets."
+        },
+        {
+          "rank": 10,
+          "score": 0.3082773685455322,
+          "doc_id": "90",
+          "text": "Artificial Intelligence has stimulated every aspect of today's life. Human thinking quality is trying to be involved through digital tools in all research areas of the modern era. The education industry is also leveraging artificial intelligence magical power. Uses of digital technologies in pedagogical paradigms are being observed from the last century. The widespread involvement of artificial intelligence starts reshaping the educational landscape. Adaptive learning is an emerging pedagogical technique that uses computer-based algorithms, tools, and technologies for the learning process. These intelligent practices help at each learning curve stage, from content development to student's exam evaluation. The quality of information technology students and professionals training has also improved drastically with the involvement of artificial intelligence systems. In this paper, we will investigate adopted digital methods in the education sector so far. We will focus on intelligent techniques adopted for information technology students and professionals. Our literature review works on our proposed framework that entails four categories. These categories are communication between teacher and student, improved content design for computing course, evaluation of student's performance and intelligent agent. Our research will present the role of artificial intelligence in reshaping the educational process."
+        }
+      ]
+    },
+    {
+      "query": "What results characterize the system that learns TurKontrol’s POMDP parameters from Mechanical Turk data to optimize iterative crowdsourced tasks?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.4835161566734314,
+          "doc_id": "111",
+          "text": "Crowdsourcing platforms such as Amazon Mechanical Turk have become popular for a wide variety of human intelligence tasks; however, quality control continues to be a significant challenge. Recently, we propose TurKontrol, a theoretical model based on POMDPs to optimize iterative, crowd-sourced workflows. However, they neither describe how to learn the model parameters, nor show its effectiveness in a real crowd-sourced setting. Learning is challenging due to the scale of the model and noisy data: there are hundreds of thousands of workers with high-variance abilities. This paper presents an end-to-end system that first learns TurKontrol's POMDP parameters from real Mechanical Turk data, and then applies the model to dynamically optimize live tasks. We validate the model and use it to control a successive-improvement process on Mechanical Turk. By modeling worker accuracy and voting patterns, our system produces significantly superior artifacts compared to those generated through nonadaptive workflows using the same amount of money."
+        },
+        {
+          "rank": 2,
+          "score": 0.3637988567352295,
+          "doc_id": "75",
+          "text": "The motivation for machine learning is to have computers extract concepts and relations from databases or through interactive sessions with a user and then use them in any knowledge-intensive activity. Developing knowledge bases for expert systems applications is one such activity. Studying computer-based learning techniques gives a better understanding of human mental processes. Two types of programs are considered that learn from examples: those, called data-driven learners, that generalize by relying entirely on the data presented to them, and a group of more elaborate programs, called model-driven learners, that proceed by generating fairly general hypotheses that are subsequently tested against the given examples or against the user in a typical interactive session. The model-driven learner is contrasted with the data-driven learner and an example of the former using a model-driven learner called Marvin is given."
+        },
+        {
+          "rank": 3,
+          "score": 0.3188893795013428,
+          "doc_id": "202",
+          "text": "A short review of research and applications in machine learning is given. Rather than attempt to cover all areas of ML, the focus is on its role in building expert systems, its approach to classification problems and ML methods of learning control. A relatively new area, inductive logic programming, is also discussed."
+        },
+        {
+          "rank": 4,
+          "score": 0.31568026542663574,
+          "doc_id": "125",
+          "text": "ZusammenfassungDeep Learning ist der Ansatz, der die k&uuml;nstliche Intelligenz innerhalb weniger Jahre tiefgreifend ver&auml;ndert hat. Auch wenn sie durch verschiedene algorithmische Fortschritte begleitet wird, ist diese Technik vor allem aus Anwendungssicht &#x201e;disruptiv“: Sie verschiebt die Grenze automatisierbarer Aufgaben betr&auml;chtlich, ver&auml;ndert die Art der Produktentwicklung und steht praktisch jedermann zur Verf&uuml;gung. Gegenstand des Deep Learning sind neuronale Netze mit einer großen Anzahl von Schichten. Verglichen mit fr&uuml;heren Ans&auml;tzen mit idealerweise einer einzigen Schicht, erlaubt dies den Einsatz massiver Rechenhardware, um Black-Box-Modelle mit einem Minimum an Entwicklungsaufwand direkt aus Rohdaten zu trainieren. Die meisten erfolgreichen Anwendungen finden sich in der Auswertung visueller Bilder, aber auch in der Audio- und Text-Modellierung."
+        },
+        {
+          "rank": 5,
+          "score": 0.30533722043037415,
+          "doc_id": "106",
+          "text": "AbstractArtificial intelligence (AI) is the Science and Engineering domain concerned with the theory and practice of developing systems that exhibit the characteristics we associate with intelligence in human behavior. Starting with a brief history of artificial intelligence, this article presents a general overview of this broad interdisciplinary field, organized around the main modules of the notional architecture of an intelligent agent (knowledge representation; problem solving and planning; knowledge acquisition and learning; natural language, speech, and vision; action processing and robotics) which highlights both the main areas of artificial intelligence research, development and application, and also their integration. WIREs Comput Stat 2012, 4:168-180. doi: 10.1002/wics.200This article is categorized under: Software for Computational Statistics > Artificial Intelligence and Expert Systems"
+        },
+        {
+          "rank": 6,
+          "score": 0.3049889802932739,
+          "doc_id": "155",
+          "text": "At this current digital era, business platforms have been drastically shifted toward online stores on internet. With the internet-based platform, customers can order goods easily using their smart phones and get delivery at their place without going to the shopping mall. However, the drawback of this business platform is that customers do not really know about the quality of the products they ordered. Therefore, such platform service often provides the review section to let previous customers leave a review about the received product. The reviews are a good source to analyze customer's satisfaction. Business owners can assess review trend as either positive or negative based on a feedback score that customers had given, but it takes too much time for human to analyze this data. In this research, we develop computational models using machine learning techniques to classify product reviews as positive or negative based on the sentiment analysis. In our experiments, we use the book review data from amazon.com to develop the models. For a machine learning based strategy, the data had been transformed with the bag of word technique before developing models using logistic regression, na&iuml;ve bayes, support vector machine, and neural network algorithms. For a deep learning strategy, the word embedding is a technique that we used to transform data before applying the long short-term memory and gated recurrent unit techniques. On comparing performance of machine learning against deep learning models, we compare results from the two methods with both the preprocessed dataset and the non-preprocessed dataset. The result is that the bag of words with neural network outperforms other techniques on both non-preprocess and preprocess datasets."
+        },
+        {
+          "rank": 7,
+          "score": 0.30116045475006104,
+          "doc_id": "153",
+          "text": "Artificial neural networks(ANN) has provided a theoretical framework on the study of human behavior/cognition and artificial intelligence. This article aims to introduce ANN and its mathematical principle to the field of applied linguistics. An ANN consists of input, hidden, and output vectors and the vectors are connected to one another by weight matrices. Mapping from input to output is accounted for by simple matrix multiplication."
+        },
+        {
+          "rank": 8,
+          "score": 0.29746949672698975,
+          "doc_id": "88",
+          "text": "Statistical Machine Learning has undergone a phase transition from a pure academic endeavor to being one of the main drivers of modern commerce and science. Even more so, recent results such as those on tera-scale learning [1] and on very large neural networks [2] suggest that scale is an important ingredient in quality modeling. This tutorial introduces current applications, techniques and systems with the aim of cross-fertilizing research between the database and machine learning communities. The tutorial covers current large scale applications of Machine Learning, their computational model and the workflow behind building those. Based on this foundation, we present the current state-of-the-art in systems support in the bulk of the tutorial. We also identify critical gaps in the state-of-the-art. This leads to the closing of the seminar, where we introduce two sets of open research questions: Better systems support for the already established use cases of Machine Learning and support for recent advances in Machine Learning research."
+        },
+        {
+          "rank": 9,
+          "score": 0.29333674907684326,
+          "doc_id": "142",
+          "text": "AbstractBackgroundIncreasing data volumes in oncology pose new challenges for data analysis. Machine learning, a branch of artificial intelligence, can identify patterns even in very large and less structured datasets.ObjectiveThis article provides an overview of the possible applications for machine learning in oncology. Furthermore, the potential of machine learning in patient-reported outcome (PRO) research is discussed.Materials and methodsWe conducted a selective literature search (PubMed, MEDLINE, IEEE Xplore) and discuss current research.ResultsThere are three primary applications for machine learning in oncology: (1) cancer detection or classification; (2) overall survival prediction or risk assessment; and (3) supporting therapy decision-making and prediction of treatment response. Generally, machine learning approaches in oncology PRO research are scarce and few studies integrate PRO data into machine learning models.DiscussionMachine learning is a promising area of oncology, but few models have been transferred into clinical practice. The promise of personalized cancer therapy and shared decision-making through machine learning has yet to be realized. As an equally important emerging research area in oncology, PROs should also be incorporated into machine learning approaches. To gather the data necessary for this, broad implementation of PRO assessments in clinical practice, as well as the harmonization of existing datasets, is suggested."
+        },
+        {
+          "rank": 10,
+          "score": 0.2927079200744629,
+          "doc_id": "140",
+          "text": "Macromolecular Big Data provide numerous challenges and a number of initiatives that are starting to overcome these issues are discussed."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "id": "row_000043",
+  "model_name": "BAAI/bge-m3",
+  "timestamp_kst": "2025-09-07T18:13:21.119712+09:00",
+  "trial_id": "fe2a7b93",
+  "queries": [
+    {
+      "query": "What are the core contributions of spatial and temporal adaptation techniques in machine learning–based scheduling knowledge acquisition?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5283997654914856,
+          "doc_id": "147",
+          "text": "A Survey of Topological Machine Learning Methods The last decade saw an enormous boost in the field of computational topology: methods and concepts from algebraic and differential topology, formerly confined to the realm of pure mathematics, have demonstrated their utility in numerous areas such as computational biology personalised medicine, and time-dependent data analysis, to name a few. The newly-emerging domain comprising topology-based techniques is often referred to as topological data analysis (TDA). Next to their applications in the aforementioned areas, TDA methods have also proven to be effective in supporting, enhancing, and augmenting both classical machine learning and deep learning models. In this paper, we review the state of the art of a nascent field we refer to as &ldquo;topological machine learning,&rdquo; i.e., the successful symbiosis of topology-based methods and machine learning algorithms, such as deep neural networks. We identify common threads, current applications, and future challenges."
+        },
+        {
+          "rank": 2,
+          "score": 0.5212481021881104,
+          "doc_id": "9",
+          "text": "Wave data prediction with optimized machine learning and deep learning techniques Maritime Autonomous Surface Ships are in the development stage and they play an important role in the upcoming future. Present generation ships are semi-autonomous and controlled by the ship crew. The performance of the ship is predicted using the data collected from the ship with the help of machine learning and deep learning methods. Path planning for an autonomous ship is necessary for estimating the best possible route with minimum travel time and it depends on the weather. However, even during the navigation, there will be changes in weather and it should be predicted in order to reroute the ship. The weather information such as wave height, wave period, seawater temperature, humidity, atmospheric pressure, etc., is collected by ship external sensors, weather stations, buoys, and satellites. This paper investigates the ensemble machine learning approaches and seasonality approach for wave data prediction. The historical meteorological data are collected from six stations near Puerto Rico offshore and Hawaii offshore. We explore ensemble machine learning techniques on the data collected. The collected data are divided into training and testing data and apply machine learning models to predict the test data. The hyperparameter optimization is performed to find the best parameters before fitting on train data, this is essential to find the best results. Multivariate analysis is performed with all the methods and errors are computed to find the best models."
+        },
+        {
+          "rank": 3,
+          "score": 0.5158703327178955,
+          "doc_id": "42",
+          "text": "Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning In recent years, machine learning algorithms are continuously being used and expanded in various fields, such as facial recognition, signal processing, personal authentication, and stock prediction. In particular, various algorithms, such as deep learning, reinforcement learning, and Q-learning, are continuously being improved. Among these algorithms, the expansion of deep learning is rapidly changing. Nevertheless, machine learning algorithms have not yet been applied in several fields, such as personal authentication technology. This technology is an essential tool in the digital information era, walking recognition technology as promising biometrics, and technology for solving state-space problems. Therefore, algorithm technologies of deep learning, reinforcement learning, and Q-learning, which are typical machine learning algorithms in various fields, such as agricultural technology, personal authentication, wireless network, game, biometric recognition, and image recognition, are being improved and expanded in this paper."
+        },
+        {
+          "rank": 4,
+          "score": 0.5130347013473511,
+          "doc_id": "88",
+          "text": "Machine learning on Big Data Statistical Machine Learning has undergone a phase transition from a pure academic endeavor to being one of the main drivers of modern commerce and science. Even more so, recent results such as those on tera-scale learning [1] and on very large neural networks [2] suggest that scale is an important ingredient in quality modeling. This tutorial introduces current applications, techniques and systems with the aim of cross-fertilizing research between the database and machine learning communities. The tutorial covers current large scale applications of Machine Learning, their computational model and the workflow behind building those. Based on this foundation, we present the current state-of-the-art in systems support in the bulk of the tutorial. We also identify critical gaps in the state-of-the-art. This leads to the closing of the seminar, where we introduce two sets of open research questions: Better systems support for the already established use cases of Machine Learning and support for recent advances in Machine Learning research."
+        },
+        {
+          "rank": 5,
+          "score": 0.5126336812973022,
+          "doc_id": "128",
+          "text": "Machine learning-based adaptive CSI feedback interval The channel state information (CSI) is essential for the base station (BS) to schedule user equipments (UEs) and efficiently manage the radio resources. Hence, the BS requests UEs to regularly feed back the CSI. However, frequent CSI reporting causes large signaling overhead. To reduce the feedback overhead, we propose two machine learning-based approaches to adjust the CSI feedback interval. We use a deep neural network and reinforcement learning (RL) to decide whether an UE feeds back the CSI. Simulation results show that the RL-based approach achieves the lowest mean squared error while reducing the number of CSI feedback transmissions."
+        },
+        {
+          "rank": 6,
+          "score": 0.48638880252838135,
+          "doc_id": "125",
+          "text": "An overview of deep learning techniques ZusammenfassungDeep Learning ist der Ansatz, der die k&uuml;nstliche Intelligenz innerhalb weniger Jahre tiefgreifend ver&auml;ndert hat. Auch wenn sie durch verschiedene algorithmische Fortschritte begleitet wird, ist diese Technik vor allem aus Anwendungssicht &#x201e;disruptiv“: Sie verschiebt die Grenze automatisierbarer Aufgaben betr&auml;chtlich, ver&auml;ndert die Art der Produktentwicklung und steht praktisch jedermann zur Verf&uuml;gung. Gegenstand des Deep Learning sind neuronale Netze mit einer großen Anzahl von Schichten. Verglichen mit fr&uuml;heren Ans&auml;tzen mit idealerweise einer einzigen Schicht, erlaubt dies den Einsatz massiver Rechenhardware, um Black-Box-Modelle mit einem Minimum an Entwicklungsaufwand direkt aus Rohdaten zu trainieren. Die meisten erfolgreichen Anwendungen finden sich in der Auswertung visueller Bilder, aber auch in der Audio- und Text-Modellierung."
+        },
+        {
+          "rank": 7,
+          "score": 0.4818838834762573,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence AbstractThis paper addresses the relations between information retrieval (IR) and AI. It examines document retrieval, summarising its essential features and illustrating the state of its art by presenting one probabilistic model in detail, with some test results showing its value. The paper then analyses this model and related successful approaches, concentrating on and justifying their use of weak, redundant representation and reasoning. It goes on to other information management tasks and considers how the concepts and methods developed for retrieval may be applied to these, concluding by arguing that such ways of dealing with information may also have wider relevance to AI."
+        },
+        {
+          "rank": 8,
+          "score": 0.4799601435661316,
+          "doc_id": "90",
+          "text": "Artificial Intelligence in Personalized ICT Learning Artificial Intelligence has stimulated every aspect of today's life. Human thinking quality is trying to be involved through digital tools in all research areas of the modern era. The education industry is also leveraging artificial intelligence magical power. Uses of digital technologies in pedagogical paradigms are being observed from the last century. The widespread involvement of artificial intelligence starts reshaping the educational landscape. Adaptive learning is an emerging pedagogical technique that uses computer-based algorithms, tools, and technologies for the learning process. These intelligent practices help at each learning curve stage, from content development to student's exam evaluation. The quality of information technology students and professionals training has also improved drastically with the involvement of artificial intelligence systems. In this paper, we will investigate adopted digital methods in the education sector so far. We will focus on intelligent techniques adopted for information technology students and professionals. Our literature review works on our proposed framework that entails four categories. These categories are communication between teacher and student, improved content design for computing course, evaluation of student's performance and intelligent agent. Our research will present the role of artificial intelligence in reshaping the educational process."
+        },
+        {
+          "rank": 9,
+          "score": 0.4784528911113739,
+          "doc_id": "202",
+          "text": "Machine learning A short review of research and applications in machine learning is given. Rather than attempt to cover all areas of ML, the focus is on its role in building expert systems, its approach to classification problems and ML methods of learning control. A relatively new area, inductive logic programming, is also discussed."
+        },
+        {
+          "rank": 10,
+          "score": 0.4780886769294739,
+          "doc_id": "57",
+          "text": "Application of Machine Learning and Deep Learning in Imaging of Ischemic Stroke Timely analysis of imaging data is critical for diagnosis and decision-making for proper treatment strategy in the cases of ischemic stroke. Various efforts have been made to develop computer-assisted systems to improve the accuracy of stroke diagnosis and acute stroke triage. The widespread emergence of artificial intelligence technology has been integrated into the field of medicine. Artificial intelligence can play an important role in providing care to patients with stroke. In the past few decades, numerous studies have explored the use of machine learning and deep learning algorithms for application in the management of stroke. In this review, we will start with a brief introduction to machine learning and deep learning and provide clinical applications of machine learning and deep learning in various aspects of stroke management, including rapid diagnosis and improved triage, identifying large vessel occlusion, predicting time from stroke onset, automated ASPECTS (Alberta Stroke Program Early CT Score) measurement, lesion segmentation, and predicting treatment outcome. This work is focused on providing the current application of artificial intelligence techniques in the imaging of ischemic stroke, including MRI and CT."
+        }
+      ]
+    },
+    {
+      "query": "What are the core contributions of spatial adaptation techniques in machine learning-based scheduling knowledge acquisition?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5171846151351929,
+          "doc_id": "147",
+          "text": "A Survey of Topological Machine Learning Methods The last decade saw an enormous boost in the field of computational topology: methods and concepts from algebraic and differential topology, formerly confined to the realm of pure mathematics, have demonstrated their utility in numerous areas such as computational biology personalised medicine, and time-dependent data analysis, to name a few. The newly-emerging domain comprising topology-based techniques is often referred to as topological data analysis (TDA). Next to their applications in the aforementioned areas, TDA methods have also proven to be effective in supporting, enhancing, and augmenting both classical machine learning and deep learning models. In this paper, we review the state of the art of a nascent field we refer to as &ldquo;topological machine learning,&rdquo; i.e., the successful symbiosis of topology-based methods and machine learning algorithms, such as deep neural networks. We identify common threads, current applications, and future challenges."
+        },
+        {
+          "rank": 2,
+          "score": 0.5085970163345337,
+          "doc_id": "128",
+          "text": "Machine learning-based adaptive CSI feedback interval The channel state information (CSI) is essential for the base station (BS) to schedule user equipments (UEs) and efficiently manage the radio resources. Hence, the BS requests UEs to regularly feed back the CSI. However, frequent CSI reporting causes large signaling overhead. To reduce the feedback overhead, we propose two machine learning-based approaches to adjust the CSI feedback interval. We use a deep neural network and reinforcement learning (RL) to decide whether an UE feeds back the CSI. Simulation results show that the RL-based approach achieves the lowest mean squared error while reducing the number of CSI feedback transmissions."
+        },
+        {
+          "rank": 3,
+          "score": 0.5071943998336792,
+          "doc_id": "42",
+          "text": "Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning In recent years, machine learning algorithms are continuously being used and expanded in various fields, such as facial recognition, signal processing, personal authentication, and stock prediction. In particular, various algorithms, such as deep learning, reinforcement learning, and Q-learning, are continuously being improved. Among these algorithms, the expansion of deep learning is rapidly changing. Nevertheless, machine learning algorithms have not yet been applied in several fields, such as personal authentication technology. This technology is an essential tool in the digital information era, walking recognition technology as promising biometrics, and technology for solving state-space problems. Therefore, algorithm technologies of deep learning, reinforcement learning, and Q-learning, which are typical machine learning algorithms in various fields, such as agricultural technology, personal authentication, wireless network, game, biometric recognition, and image recognition, are being improved and expanded in this paper."
+        },
+        {
+          "rank": 4,
+          "score": 0.5028243064880371,
+          "doc_id": "9",
+          "text": "Wave data prediction with optimized machine learning and deep learning techniques Maritime Autonomous Surface Ships are in the development stage and they play an important role in the upcoming future. Present generation ships are semi-autonomous and controlled by the ship crew. The performance of the ship is predicted using the data collected from the ship with the help of machine learning and deep learning methods. Path planning for an autonomous ship is necessary for estimating the best possible route with minimum travel time and it depends on the weather. However, even during the navigation, there will be changes in weather and it should be predicted in order to reroute the ship. The weather information such as wave height, wave period, seawater temperature, humidity, atmospheric pressure, etc., is collected by ship external sensors, weather stations, buoys, and satellites. This paper investigates the ensemble machine learning approaches and seasonality approach for wave data prediction. The historical meteorological data are collected from six stations near Puerto Rico offshore and Hawaii offshore. We explore ensemble machine learning techniques on the data collected. The collected data are divided into training and testing data and apply machine learning models to predict the test data. The hyperparameter optimization is performed to find the best parameters before fitting on train data, this is essential to find the best results. Multivariate analysis is performed with all the methods and errors are computed to find the best models."
+        },
+        {
+          "rank": 5,
+          "score": 0.48815134167671204,
+          "doc_id": "88",
+          "text": "Machine learning on Big Data Statistical Machine Learning has undergone a phase transition from a pure academic endeavor to being one of the main drivers of modern commerce and science. Even more so, recent results such as those on tera-scale learning [1] and on very large neural networks [2] suggest that scale is an important ingredient in quality modeling. This tutorial introduces current applications, techniques and systems with the aim of cross-fertilizing research between the database and machine learning communities. The tutorial covers current large scale applications of Machine Learning, their computational model and the workflow behind building those. Based on this foundation, we present the current state-of-the-art in systems support in the bulk of the tutorial. We also identify critical gaps in the state-of-the-art. This leads to the closing of the seminar, where we introduce two sets of open research questions: Better systems support for the already established use cases of Machine Learning and support for recent advances in Machine Learning research."
+        },
+        {
+          "rank": 6,
+          "score": 0.4823586344718933,
+          "doc_id": "125",
+          "text": "An overview of deep learning techniques ZusammenfassungDeep Learning ist der Ansatz, der die k&uuml;nstliche Intelligenz innerhalb weniger Jahre tiefgreifend ver&auml;ndert hat. Auch wenn sie durch verschiedene algorithmische Fortschritte begleitet wird, ist diese Technik vor allem aus Anwendungssicht &#x201e;disruptiv“: Sie verschiebt die Grenze automatisierbarer Aufgaben betr&auml;chtlich, ver&auml;ndert die Art der Produktentwicklung und steht praktisch jedermann zur Verf&uuml;gung. Gegenstand des Deep Learning sind neuronale Netze mit einer großen Anzahl von Schichten. Verglichen mit fr&uuml;heren Ans&auml;tzen mit idealerweise einer einzigen Schicht, erlaubt dies den Einsatz massiver Rechenhardware, um Black-Box-Modelle mit einem Minimum an Entwicklungsaufwand direkt aus Rohdaten zu trainieren. Die meisten erfolgreichen Anwendungen finden sich in der Auswertung visueller Bilder, aber auch in der Audio- und Text-Modellierung."
+        },
+        {
+          "rank": 7,
+          "score": 0.4776211977005005,
+          "doc_id": "202",
+          "text": "Machine learning A short review of research and applications in machine learning is given. Rather than attempt to cover all areas of ML, the focus is on its role in building expert systems, its approach to classification problems and ML methods of learning control. A relatively new area, inductive logic programming, is also discussed."
+        },
+        {
+          "rank": 8,
+          "score": 0.4741997718811035,
+          "doc_id": "134",
+          "text": "Deep Metric Learning 기반 원격탐사 변화탐지 기술 연구 원격탐사 영상을 활용하여 변화를 탐지하기 위해 다양한 기술들이 활발히 연구되고 있다. 본 논문에서는 Triplet Loss 기반 Deep Metric Learning 기법을 활용하여 원격탐사 영상에서 변화 탐지를 수행하는 새로운 접근법을 제안하고, 이를 통해 기존 변화 탐지 기술의 한계를 극복하고자 한다. 원격탐사 기술은 도시 개발, 환경 모니터링, 재난 관리 등 다양한 분야에서 핵심적인 역할을 하고 있으며, 특히 시계열 영상 간의 변화를 정확히 탐지하는 기술은 점차 중요성이 높아지고 있다. 그러나 기존의 변화 탐지 기술은 위치 불일치, 조명 변화, 계절적 요인과 같은 외부 환경에 민감하며, 텍스처와 색상 변화를 효과적으로 구분하지 못하는 한계가 존재한다.&amp;#xD; 본 연구에서는 이러한 문제를 해결하기 위해 Deep Metric Learning의 Triplet Loss를 도입하여 변화탐지의 정확도와 신뢰성을 높이는 새로운 방법론을 제시한다."
+        },
+        {
+          "rank": 9,
+          "score": 0.4733050465583801,
+          "doc_id": "121",
+          "text": "Deep Learning을 기반으로 한 Feature Extraction 알고리즘의 분석 Recently, artificial intelligence related technologies including machine learning are being applied to various fields, and the demand is also increasing. In particular, with the development of AR, VR, and MR technologies related to image processing, the utilization of computer vision based on deep learning has increased. The algorithms for object recognition and detection based on deep learning required for image processing are diversified and advanced. Accordingly, problems that were difficult to solve with the existing methodology were solved more simply and easily by using deep learning. This paper introduces various deep learning-based object recognition and extraction algorithms used to detect and recognize various objects in an image and analyzes the technologies that attract attention."
+        },
+        {
+          "rank": 10,
+          "score": 0.47029635310173035,
+          "doc_id": "90",
+          "text": "Artificial Intelligence in Personalized ICT Learning Artificial Intelligence has stimulated every aspect of today's life. Human thinking quality is trying to be involved through digital tools in all research areas of the modern era. The education industry is also leveraging artificial intelligence magical power. Uses of digital technologies in pedagogical paradigms are being observed from the last century. The widespread involvement of artificial intelligence starts reshaping the educational landscape. Adaptive learning is an emerging pedagogical technique that uses computer-based algorithms, tools, and technologies for the learning process. These intelligent practices help at each learning curve stage, from content development to student's exam evaluation. The quality of information technology students and professionals training has also improved drastically with the involvement of artificial intelligence systems. In this paper, we will investigate adopted digital methods in the education sector so far. We will focus on intelligent techniques adopted for information technology students and professionals. Our literature review works on our proposed framework that entails four categories. These categories are communication between teacher and student, improved content design for computing course, evaluation of student's performance and intelligent agent. Our research will present the role of artificial intelligence in reshaping the educational process."
+        }
+      ]
+    },
+    {
+      "query": "What are the core contributions of temporal adaptation techniques in machine learning-based scheduling knowledge acquisition?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.516914963722229,
+          "doc_id": "147",
+          "text": "A Survey of Topological Machine Learning Methods The last decade saw an enormous boost in the field of computational topology: methods and concepts from algebraic and differential topology, formerly confined to the realm of pure mathematics, have demonstrated their utility in numerous areas such as computational biology personalised medicine, and time-dependent data analysis, to name a few. The newly-emerging domain comprising topology-based techniques is often referred to as topological data analysis (TDA). Next to their applications in the aforementioned areas, TDA methods have also proven to be effective in supporting, enhancing, and augmenting both classical machine learning and deep learning models. In this paper, we review the state of the art of a nascent field we refer to as &ldquo;topological machine learning,&rdquo; i.e., the successful symbiosis of topology-based methods and machine learning algorithms, such as deep neural networks. We identify common threads, current applications, and future challenges."
+        },
+        {
+          "rank": 2,
+          "score": 0.5111464262008667,
+          "doc_id": "128",
+          "text": "Machine learning-based adaptive CSI feedback interval The channel state information (CSI) is essential for the base station (BS) to schedule user equipments (UEs) and efficiently manage the radio resources. Hence, the BS requests UEs to regularly feed back the CSI. However, frequent CSI reporting causes large signaling overhead. To reduce the feedback overhead, we propose two machine learning-based approaches to adjust the CSI feedback interval. We use a deep neural network and reinforcement learning (RL) to decide whether an UE feeds back the CSI. Simulation results show that the RL-based approach achieves the lowest mean squared error while reducing the number of CSI feedback transmissions."
+        },
+        {
+          "rank": 3,
+          "score": 0.5097848176956177,
+          "doc_id": "88",
+          "text": "Machine learning on Big Data Statistical Machine Learning has undergone a phase transition from a pure academic endeavor to being one of the main drivers of modern commerce and science. Even more so, recent results such as those on tera-scale learning [1] and on very large neural networks [2] suggest that scale is an important ingredient in quality modeling. This tutorial introduces current applications, techniques and systems with the aim of cross-fertilizing research between the database and machine learning communities. The tutorial covers current large scale applications of Machine Learning, their computational model and the workflow behind building those. Based on this foundation, we present the current state-of-the-art in systems support in the bulk of the tutorial. We also identify critical gaps in the state-of-the-art. This leads to the closing of the seminar, where we introduce two sets of open research questions: Better systems support for the already established use cases of Machine Learning and support for recent advances in Machine Learning research."
+        },
+        {
+          "rank": 4,
+          "score": 0.5059149265289307,
+          "doc_id": "9",
+          "text": "Wave data prediction with optimized machine learning and deep learning techniques Maritime Autonomous Surface Ships are in the development stage and they play an important role in the upcoming future. Present generation ships are semi-autonomous and controlled by the ship crew. The performance of the ship is predicted using the data collected from the ship with the help of machine learning and deep learning methods. Path planning for an autonomous ship is necessary for estimating the best possible route with minimum travel time and it depends on the weather. However, even during the navigation, there will be changes in weather and it should be predicted in order to reroute the ship. The weather information such as wave height, wave period, seawater temperature, humidity, atmospheric pressure, etc., is collected by ship external sensors, weather stations, buoys, and satellites. This paper investigates the ensemble machine learning approaches and seasonality approach for wave data prediction. The historical meteorological data are collected from six stations near Puerto Rico offshore and Hawaii offshore. We explore ensemble machine learning techniques on the data collected. The collected data are divided into training and testing data and apply machine learning models to predict the test data. The hyperparameter optimization is performed to find the best parameters before fitting on train data, this is essential to find the best results. Multivariate analysis is performed with all the methods and errors are computed to find the best models."
+        },
+        {
+          "rank": 5,
+          "score": 0.48768502473831177,
+          "doc_id": "42",
+          "text": "Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning In recent years, machine learning algorithms are continuously being used and expanded in various fields, such as facial recognition, signal processing, personal authentication, and stock prediction. In particular, various algorithms, such as deep learning, reinforcement learning, and Q-learning, are continuously being improved. Among these algorithms, the expansion of deep learning is rapidly changing. Nevertheless, machine learning algorithms have not yet been applied in several fields, such as personal authentication technology. This technology is an essential tool in the digital information era, walking recognition technology as promising biometrics, and technology for solving state-space problems. Therefore, algorithm technologies of deep learning, reinforcement learning, and Q-learning, which are typical machine learning algorithms in various fields, such as agricultural technology, personal authentication, wireless network, game, biometric recognition, and image recognition, are being improved and expanded in this paper."
+        },
+        {
+          "rank": 6,
+          "score": 0.4816168546676636,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence AbstractThis paper addresses the relations between information retrieval (IR) and AI. It examines document retrieval, summarising its essential features and illustrating the state of its art by presenting one probabilistic model in detail, with some test results showing its value. The paper then analyses this model and related successful approaches, concentrating on and justifying their use of weak, redundant representation and reasoning. It goes on to other information management tasks and considers how the concepts and methods developed for retrieval may be applied to these, concluding by arguing that such ways of dealing with information may also have wider relevance to AI."
+        },
+        {
+          "rank": 7,
+          "score": 0.4783725142478943,
+          "doc_id": "125",
+          "text": "An overview of deep learning techniques ZusammenfassungDeep Learning ist der Ansatz, der die k&uuml;nstliche Intelligenz innerhalb weniger Jahre tiefgreifend ver&auml;ndert hat. Auch wenn sie durch verschiedene algorithmische Fortschritte begleitet wird, ist diese Technik vor allem aus Anwendungssicht &#x201e;disruptiv“: Sie verschiebt die Grenze automatisierbarer Aufgaben betr&auml;chtlich, ver&auml;ndert die Art der Produktentwicklung und steht praktisch jedermann zur Verf&uuml;gung. Gegenstand des Deep Learning sind neuronale Netze mit einer großen Anzahl von Schichten. Verglichen mit fr&uuml;heren Ans&auml;tzen mit idealerweise einer einzigen Schicht, erlaubt dies den Einsatz massiver Rechenhardware, um Black-Box-Modelle mit einem Minimum an Entwicklungsaufwand direkt aus Rohdaten zu trainieren. Die meisten erfolgreichen Anwendungen finden sich in der Auswertung visueller Bilder, aber auch in der Audio- und Text-Modellierung."
+        },
+        {
+          "rank": 8,
+          "score": 0.4769376516342163,
+          "doc_id": "90",
+          "text": "Artificial Intelligence in Personalized ICT Learning Artificial Intelligence has stimulated every aspect of today's life. Human thinking quality is trying to be involved through digital tools in all research areas of the modern era. The education industry is also leveraging artificial intelligence magical power. Uses of digital technologies in pedagogical paradigms are being observed from the last century. The widespread involvement of artificial intelligence starts reshaping the educational landscape. Adaptive learning is an emerging pedagogical technique that uses computer-based algorithms, tools, and technologies for the learning process. These intelligent practices help at each learning curve stage, from content development to student's exam evaluation. The quality of information technology students and professionals training has also improved drastically with the involvement of artificial intelligence systems. In this paper, we will investigate adopted digital methods in the education sector so far. We will focus on intelligent techniques adopted for information technology students and professionals. Our literature review works on our proposed framework that entails four categories. These categories are communication between teacher and student, improved content design for computing course, evaluation of student's performance and intelligent agent. Our research will present the role of artificial intelligence in reshaping the educational process."
+        },
+        {
+          "rank": 9,
+          "score": 0.471812903881073,
+          "doc_id": "37",
+          "text": "Digital Skills, Transmedia, and Artificial Intelligence Communication has been the basis for “key competencies” in every period of history. In the digital age, these competencies cross over lines of disciplines, modalities, approaches, media, and platforms. This paper shows the evolution of communicative competences, and explores the ramifications of the fourth industrial revolution, also known as Industry 4.0, for teaching and learning. In this revolutionary era, transmedia connects directly with changing educational needs, not only to help students learn to use tools driven by artificial intelligence, but to live in a world where we will be communicating with these agents in hybrid communities that include human and digital agents alike. The author approaches the role of the teacher in guiding students through this complex learning space, where plurilingualism and interculturality are prerequisites for success, and offers two simple activities that are easy to reproduce in the classroom that call upon emerging technologies. The activities present different learning situations that integrate reflection about technology and society while building language competencies. The paper also looks at content, its delivery, data and metadata, and the implications for a better world built on the principles of the Sustainable Development Goals (SDG’s) for 2030 enacted in 2015 by the United Nations (UN)."
+        },
+        {
+          "rank": 10,
+          "score": 0.4700968265533447,
+          "doc_id": "78",
+          "text": "Data learning from big data Abstract Technology is generating a huge and growing availability of observations of diverse nature. This big data is placing data learning as a central scientific discipline. It includes collection, storage, preprocessing, visualization and, essentially, statistical analysis of enormous batches of data. In this paper, we discuss the role of statistics regarding some of the issues raised by big data in this new paradigm and also propose the name of data learning to describe all the activities that allow to obtain relevant knowledge from this new source of information."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

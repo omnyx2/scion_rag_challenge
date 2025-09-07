@@ -1,0 +1,221 @@
+{
+  "id": "row_000035",
+  "model_name": "BAAI/bge-m3",
+  "timestamp_kst": "2025-09-07T16:10:12.870457+09:00",
+  "trial_id": "cbfaeacd",
+  "queries": [
+    {
+      "query": "How can you succinctly capture the factors that shape consumer purchase attitudes toward IT-based convergence products and their implications for competitiveness?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7280632257461548,
+          "doc_id": "116",
+          "text": "IT 기반의 convergence 제품의 구입태도에 대한 연구"
+        },
+        {
+          "rank": 2,
+          "score": 0.7241923809051514,
+          "doc_id": "211",
+          "text": "On exploring factors for enhancing export competitiveness in IT Convergence industries"
+        },
+        {
+          "rank": 3,
+          "score": 0.6416311264038086,
+          "doc_id": "229",
+          "text": "Convergence IT 관련 기사"
+        },
+        {
+          "rank": 4,
+          "score": 0.6235758066177368,
+          "doc_id": "54",
+          "text": "Future trends of IT convergence"
+        },
+        {
+          "rank": 5,
+          "score": 0.6000874638557434,
+          "doc_id": "105",
+          "text": "A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data"
+        },
+        {
+          "rank": 6,
+          "score": 0.6000874638557434,
+          "doc_id": "218",
+          "text": "A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data"
+        },
+        {
+          "rank": 7,
+          "score": 0.6000744104385376,
+          "doc_id": "162",
+          "text": "IT 컨버전스의 이해와 법ㆍ기술 방향"
+        },
+        {
+          "rank": 8,
+          "score": 0.5929520726203918,
+          "doc_id": "39",
+          "text": "IT convergence and security"
+        },
+        {
+          "rank": 9,
+          "score": 0.5817813873291016,
+          "doc_id": "136",
+          "text": "IT/automation convergence revisited"
+        },
+        {
+          "rank": 10,
+          "score": 0.5746041536331177,
+          "doc_id": "112",
+          "text": "Convergence of Energy and IT Sectors"
+        }
+      ]
+    },
+    {
+      "query": "What are the factors that shape consumer purchase attitudes toward IT-based convergence products?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7808135747909546,
+          "doc_id": "116",
+          "text": "IT 기반의 convergence 제품의 구입태도에 대한 연구"
+        },
+        {
+          "rank": 2,
+          "score": 0.6990135312080383,
+          "doc_id": "211",
+          "text": "On exploring factors for enhancing export competitiveness in IT Convergence industries"
+        },
+        {
+          "rank": 3,
+          "score": 0.6619466543197632,
+          "doc_id": "229",
+          "text": "Convergence IT 관련 기사"
+        },
+        {
+          "rank": 4,
+          "score": 0.6470241546630859,
+          "doc_id": "54",
+          "text": "Future trends of IT convergence"
+        },
+        {
+          "rank": 5,
+          "score": 0.617992639541626,
+          "doc_id": "39",
+          "text": "IT convergence and security"
+        },
+        {
+          "rank": 6,
+          "score": 0.6075400114059448,
+          "doc_id": "162",
+          "text": "IT 컨버전스의 이해와 법ㆍ기술 방향"
+        },
+        {
+          "rank": 7,
+          "score": 0.6060984134674072,
+          "doc_id": "136",
+          "text": "IT/automation convergence revisited"
+        },
+        {
+          "rank": 8,
+          "score": 0.599309504032135,
+          "doc_id": "112",
+          "text": "Convergence of Energy and IT Sectors"
+        },
+        {
+          "rank": 9,
+          "score": 0.5989867448806763,
+          "doc_id": "94",
+          "text": "The Trends of IT Convergence in Korea"
+        },
+        {
+          "rank": 10,
+          "score": 0.5934485197067261,
+          "doc_id": "67",
+          "text": "Medical Device Connectivity - IT Convergence :"
+        }
+      ]
+    },
+    {
+      "query": "What are the implications of consumer purchase attitudes toward IT-based convergence products for competitiveness?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7356550693511963,
+          "doc_id": "116",
+          "text": "IT 기반의 convergence 제품의 구입태도에 대한 연구"
+        },
+        {
+          "rank": 2,
+          "score": 0.7124865651130676,
+          "doc_id": "211",
+          "text": "On exploring factors for enhancing export competitiveness in IT Convergence industries"
+        },
+        {
+          "rank": 3,
+          "score": 0.6581897735595703,
+          "doc_id": "229",
+          "text": "Convergence IT 관련 기사"
+        },
+        {
+          "rank": 4,
+          "score": 0.6348655223846436,
+          "doc_id": "54",
+          "text": "Future trends of IT convergence"
+        },
+        {
+          "rank": 5,
+          "score": 0.6059349775314331,
+          "doc_id": "39",
+          "text": "IT convergence and security"
+        },
+        {
+          "rank": 6,
+          "score": 0.6041443347930908,
+          "doc_id": "162",
+          "text": "IT 컨버전스의 이해와 법ㆍ기술 방향"
+        },
+        {
+          "rank": 7,
+          "score": 0.5954840779304504,
+          "doc_id": "218",
+          "text": "A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data"
+        },
+        {
+          "rank": 8,
+          "score": 0.5954840779304504,
+          "doc_id": "105",
+          "text": "A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data"
+        },
+        {
+          "rank": 9,
+          "score": 0.5918838977813721,
+          "doc_id": "178",
+          "text": "IT 분야에서 컨버전스의 의미와 미래 전망"
+        },
+        {
+          "rank": 10,
+          "score": 0.5840011239051819,
+          "doc_id": "94",
+          "text": "The Trends of IT Convergence in Korea"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "id": "row_000016",
+  "model_name": "BAAI/bge-m3",
+  "timestamp_kst": "2025-09-07T16:10:36.648478+09:00",
+  "trial_id": "c8d518a3",
+  "queries": [
+    {
+      "query": "Big Data를 이용한 Warehouse Management System 모델에서 제시된 핵심 개념과 방향을 요약해 주시겠습니까?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5716591477394104,
+          "doc_id": "66",
+          "text": "Abstract Future buildings will more and more rely on advanced Building Management Systems (BMS) connected to a variety of sensors, actuators and dedicated networks. Their objectives are to observe the state of rooms and apply automated rules to preserve or increase comfort while economizing energy. In this work, we advocate for the inclusion of a dedicated system for sensors data storage and processing, based on Big Data technologies. This choice enables new potentials in terms of data analytics and applications development, the most obvious one being the ability to scale up seamlessly from one smart building to several, in the direction of smart areas and smart cities. We report in this paper on our system architecture and on several challenges we met in its elaboration, attempting to meet requirements of scalability, data processing, flexibility, interoperability and privacy. We also describe current and future end-user services that our platform will support, including historical data retrieval, visualisation, processing and alarms. The platform, called BBData - Big Building Data, is currently in production at the Smart Living Lab of Fribourg and is offered to several research teams to ease their work, to foster the sharing of historical data and to avoid that each project develops its own data gathering and processing pipeline."
+        },
+        {
+          "rank": 2,
+          "score": 0.5646476745605469,
+          "doc_id": "126",
+          "text": "Abstract The recent explosion in ICT and digital data has led organizations, both private and public, to efficient decision-making. Nowadays organizations can store huge amounts of data, which can be accessible at any time. Big Data governance refers to the management of huge volumes of an organization&rsquo;s data, exploiting it in the organization&rsquo;s decision-making using different analytical tools. Big Data emergence provides great convenience, but it also brings challenges. Nevertheless, for Big Data governance, data has to be prepared in a timely manner, keeping in view the consistency and reliability of the data, and being able to trust its source and the meaningfulness of the result. Hence, a framework for Big Data governance would have many advantages. There are Big Data governance frameworks, which guide the management of Big Data. However, there are also limitations associated with these frameworks. Therefore, this study aims to explore the existing Big Data governance frameworks and their shortcomings, and propose a new framework. The proposed framework consists of eight components. As a framework validation, the proposed framework has been compared with the ISO 8000 data governance framework."
+        },
+        {
+          "rank": 3,
+          "score": 0.563337504863739,
+          "doc_id": "227",
+          "text": "본 연구는 오늘날 산업 전반적으로 영향을 미치고 있는 디지탈 전환(Digital Transformation)의 기술 환경과 디지탈 전환의 산업적 창고관리 부분의 모델연구가 본 논문의 목적이다. &amp;#xD; &amp;#xD; 디지털 전환은 오랫동안 디지털화와 비슷하거나 또는 디지털 방식으로 저장할 수 있도록 기존 데이터 형태를 전환하는 것과 관련이 있다. 물론 이 점이 중요하긴 하지만, 이전의 디지털화는 최신 디지털 전환의 영역을 포함하지 않았었다.&amp;#xD; &amp;#xD; 특히 이번 연구에서는 Big Data를 중심으로 Warehouse Management System의 방향을 제시 하고자 한다."
+        },
+        {
+          "rank": 4,
+          "score": 0.5219274759292603,
+          "doc_id": "187",
+          "text": "Abstract Large amounts of data are increasingly accumulated in the energy sector with the continuous application of sensors, wireless transmission, network communication, and cloud computing technologies. To fulfill the potential of energy big data and obtain insights to achieve smart energy management, we present a comprehensive study of big data driven smart energy management. We first discuss the sources and characteristics of energy big data. Also, a process model of big data driven smart energy management is proposed. Then taking smart grid as the research background, we provide a systematic review of big data analytics for smart energy management. It is discussed from four major aspects, namely power generation side management, microgrid and renewable energy management, asset management and collaborative operation, as well as demand side management (DSM). Afterwards, the industrial development of big data-driven smart energy management is analyzed and discussed. Finally, we point out the challenges of big data-driven smart energy management in IT infrastructure, data collection and governance, data integration and sharing, processing and analysis, security and privacy, and professionals."
+        },
+        {
+          "rank": 5,
+          "score": 0.5205721259117126,
+          "doc_id": "109",
+          "text": "Recently data processing has main gained many attention both from academic and commercial industry. Their term use to tools, technical methods and frameworks made to gathering, collect, store, processing and analysis massive amounts of data. Data processing and analysis are based on structured/semi -structured/unstructured by big data, as well as is generated from various different sources in the system at various rates. For the purpose of processing with their large data and suitable way, voluminous parallelism is usually used. The general architecture of a big data system is made up a shared cluster of their machines. Nonetheless, even in very parallel environment, data processing is often very time-consuming. A various applications can take up to everytime to produce useful results, interactive analysis and debugging. Nevertheless, we have main problems that how we have a high performance requires both quality of data locality and resource. Moreover, big data analysis provide the amount of data that is processed typically large in comparison with computation in their systems. In other words, specified optimization that would relieve low-level to achieve good performance essentially. Accordingly, our main goal of this research paper provide how we have to do to optimize for big data frameworks. Our contribute approach to make big data cloud platform for easy and efficient processing of big data. In addition, we provides results from a study of existing optimization of data processing in MapReduce and Hadoop oriented systems."
+        },
+        {
+          "rank": 6,
+          "score": 0.5170359015464783,
+          "doc_id": "62",
+          "text": "This study reviews the analysis and characteristics of databases from big data and then establishes representational strategy. Thus, analysis has continued for a long time in the quantity and quality of data, and there are changes in the location of data in the social sciences, past trends and the emergence of big data. The introduction of big data is presented as a prototype of new social science and is a useful practical example that empirically shows the need, basis, and direction of analysis through trend prediction services. Big data provides a future perspective as an important foundation for social change within the framework of basic social sciences."
+        },
+        {
+          "rank": 7,
+          "score": 0.5161618590354919,
+          "doc_id": "86",
+          "text": "AbstractValue Chain has been considered as a key model for managing efficiently value creation processes within organizations. However, with the digitization of the end-to-end processes which began to adopt data as a main source of value, traditional value chain models have become outdated. For this, researchers have developed new value chain models, called Data Value Chains, to carry out data driven organizations. Thereafter, new data value chains called Big Data Value chain have emerged with the emergence of Big Data in order to face new data-related challenges such as high volume, velocity, and variety. These Big Data Value Chains describe the data flow within organizations which rely on Big Data to extract valuable insights. It is a set of ordered steps using Big Data Analytics tools and mainly built for going from data generation to knowledge creation. The advances in Big Data and Big Data Value Chain, using clear processes for aggregation and exploitation of data, have given rise to what is called data monetization. Data monetization concept consists of using data from an organization to generate profit. It may be selling the data directly for cash, or relying on that data to create value indirectly. It is important to mention that the concept of monetizing data is not as new as it looks, but with the era of Big Data and Big Data Value Chain it is becoming attractive. The aim of this paper is to provide a comprehensive review of value creation, data value, and Big Data value chains with their different steps. This literature has led us to construct an end-to-end exhaustive BDVC that regroup most of the addressed phases. Furthermore, we present a possible evolution of that generic BDVC to support Big Data Monetization. For this, we discuss different approaches that enable data monetization throughout data value chains. Finally, we highlight the need to adopt specific data monetization models to suit big data specificities."
+        },
+        {
+          "rank": 8,
+          "score": 0.5150502920150757,
+          "doc_id": "120",
+          "text": "The big data term refers to the great volume of data and complicated data structure with difficulties in collecting, storing, processing, and analyzing these data. Big data analytics refers to the operation of disclosing hidden patterns through big data. This information and data set cloud to be useful and provide advanced services. However, analyzing and processing this information could cause revealing and disclosing some sensitive and personal information when the information is contained in applications that are correlated to users such as location-based services, but concerns are diminished if the applications are correlated to general information such as scientific results. In this work, a survey has been done over security and privacy challenges and approaches in big data. The challenges included here are in each of the following areas: privacy, access control, encryption, and authentication in big data. Likewise, the approaches presented here are privacy-preserving approaches in big data, access control approaches in big data, encryption approaches in big data, and authentication approaches in big data."
+        },
+        {
+          "rank": 9,
+          "score": 0.5115365386009216,
+          "doc_id": "217",
+          "text": "Abstract The many advances in data collection computing systems (data collection, database, storage), diagnostic and therapeutic possibilities are responsible for an increase and a diversification of available data. Big data offers the capacities, in the field of health, to accelerate the discoveries and to optimize the management of patients by combining a large volume of data and the creation of therapeutic models. In radiotherapy, the development of big data is attractive because data are very numerous et heterogeneous (demographics, radiomics, genomics, radiogenomics, etc.). The expectation would be to predict the effectiveness and tolerance of radiation therapy. With these new concepts, still at the preliminary stage, it is possible to create a personalized medicine which is always more secure and reliable."
+        },
+        {
+          "rank": 10,
+          "score": 0.5114014148712158,
+          "doc_id": "196",
+          "text": "AbstractPurposeContemporary big data initiatives in health care will benefit from greater integration with nursing science and nursing practice; in turn, nursing science and nursing practice has much to gain from the data science initiatives. Big data arises secondary to scholarly inquiry (e.g., &#8208;omics) and everyday observations like cardiac flow sensors or Twitter feeds. Data science methods that are emerging ensure that these data be leveraged to improve patient care.Organizing ConstructBig data encompasses data that exceed human comprehension, that exist at a volume unmanageable by standard computer systems, that arrive at a velocity not under the control of the investigator and possess a level of imprecision not found in traditional inquiry. Data science methods are emerging to manage and gain insights from big data.MethodsThe primary methods included investigation of emerging federal big data initiatives, and exploration of exemplars from nursing informatics research to benchmark where nursing is already poised to participate in the big data revolution. We provide observations and reflections on experiences in the emerging big data initiatives.ConclusionsExisting approaches to large data set analysis provide a necessary but not sufficient foundation for nursing to participate in the big data revolution. Nursing's Social Policy Statement guides a principled, ethical perspective on big data and data science. There are implications for basic and advanced practice clinical nurses in practice, for the nurse scientist who collaborates with data scientists, and for the nurse data scientist.Clinical RelevanceBig data and data science has the potential to provide greater richness in understanding patient phenomena and in tailoring interventional strategies that are personalized to the patient."
+        }
+      ]
+    },
+    {
+      "query": "Big Data를 이용한 Warehouse Management System 모델의 핵심 개념은 무엇입니까?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5713292956352234,
+          "doc_id": "66",
+          "text": "Abstract Future buildings will more and more rely on advanced Building Management Systems (BMS) connected to a variety of sensors, actuators and dedicated networks. Their objectives are to observe the state of rooms and apply automated rules to preserve or increase comfort while economizing energy. In this work, we advocate for the inclusion of a dedicated system for sensors data storage and processing, based on Big Data technologies. This choice enables new potentials in terms of data analytics and applications development, the most obvious one being the ability to scale up seamlessly from one smart building to several, in the direction of smart areas and smart cities. We report in this paper on our system architecture and on several challenges we met in its elaboration, attempting to meet requirements of scalability, data processing, flexibility, interoperability and privacy. We also describe current and future end-user services that our platform will support, including historical data retrieval, visualisation, processing and alarms. The platform, called BBData - Big Building Data, is currently in production at the Smart Living Lab of Fribourg and is offered to several research teams to ease their work, to foster the sharing of historical data and to avoid that each project develops its own data gathering and processing pipeline."
+        },
+        {
+          "rank": 2,
+          "score": 0.5581387281417847,
+          "doc_id": "227",
+          "text": "본 연구는 오늘날 산업 전반적으로 영향을 미치고 있는 디지탈 전환(Digital Transformation)의 기술 환경과 디지탈 전환의 산업적 창고관리 부분의 모델연구가 본 논문의 목적이다. &amp;#xD; &amp;#xD; 디지털 전환은 오랫동안 디지털화와 비슷하거나 또는 디지털 방식으로 저장할 수 있도록 기존 데이터 형태를 전환하는 것과 관련이 있다. 물론 이 점이 중요하긴 하지만, 이전의 디지털화는 최신 디지털 전환의 영역을 포함하지 않았었다.&amp;#xD; &amp;#xD; 특히 이번 연구에서는 Big Data를 중심으로 Warehouse Management System의 방향을 제시 하고자 한다."
+        },
+        {
+          "rank": 3,
+          "score": 0.5411602258682251,
+          "doc_id": "126",
+          "text": "Abstract The recent explosion in ICT and digital data has led organizations, both private and public, to efficient decision-making. Nowadays organizations can store huge amounts of data, which can be accessible at any time. Big Data governance refers to the management of huge volumes of an organization&rsquo;s data, exploiting it in the organization&rsquo;s decision-making using different analytical tools. Big Data emergence provides great convenience, but it also brings challenges. Nevertheless, for Big Data governance, data has to be prepared in a timely manner, keeping in view the consistency and reliability of the data, and being able to trust its source and the meaningfulness of the result. Hence, a framework for Big Data governance would have many advantages. There are Big Data governance frameworks, which guide the management of Big Data. However, there are also limitations associated with these frameworks. Therefore, this study aims to explore the existing Big Data governance frameworks and their shortcomings, and propose a new framework. The proposed framework consists of eight components. As a framework validation, the proposed framework has been compared with the ISO 8000 data governance framework."
+        },
+        {
+          "rank": 4,
+          "score": 0.5272421836853027,
+          "doc_id": "144",
+          "text": "본 논문은 산업 현장과 민간에서 실시간으로 수집되는 에너지 빅데이터를 수용하는 빅데이터 시스템을 제안한다. 구축된 빅데이터 시스템은 하둡(Hadoop) 기반이며, 빅데이터 처리에 있어 인메모리(in-memory) 분산처리 컴퓨팅을 지원하는 스파크(Spark) 프레임워크가 동시에 적용되었다. 본문에서는 지역난방에 사용되는 열에너지 형태의 빅데이터에 초점을 두어, 입출력되는 에너지의 특성을 고려하며 실시간 수집되는 빅데이터를 적재, 관리, 처리 및 분석하는 방법을 다룬다. 이 때, 외부에서 유입되는 빅데이터는 시스템 내부에 설계된 관계형 데이터베이스 스키마에 따라 저장하고 관리되며, 저장된 빅데이터는 설정된 목적에 따라 처리하고 분석된다. 제안된 빅데이터 시스템과 더불어 지역난방과 관련한 복수의 실증현장으로부터 실시간으로 수집되는 열에너지 빅데이터에 대해 시스템이 활용된 사례를 기술한다."
+        },
+        {
+          "rank": 5,
+          "score": 0.5235102772712708,
+          "doc_id": "109",
+          "text": "Recently data processing has main gained many attention both from academic and commercial industry. Their term use to tools, technical methods and frameworks made to gathering, collect, store, processing and analysis massive amounts of data. Data processing and analysis are based on structured/semi -structured/unstructured by big data, as well as is generated from various different sources in the system at various rates. For the purpose of processing with their large data and suitable way, voluminous parallelism is usually used. The general architecture of a big data system is made up a shared cluster of their machines. Nonetheless, even in very parallel environment, data processing is often very time-consuming. A various applications can take up to everytime to produce useful results, interactive analysis and debugging. Nevertheless, we have main problems that how we have a high performance requires both quality of data locality and resource. Moreover, big data analysis provide the amount of data that is processed typically large in comparison with computation in their systems. In other words, specified optimization that would relieve low-level to achieve good performance essentially. Accordingly, our main goal of this research paper provide how we have to do to optimize for big data frameworks. Our contribute approach to make big data cloud platform for easy and efficient processing of big data. In addition, we provides results from a study of existing optimization of data processing in MapReduce and Hadoop oriented systems."
+        },
+        {
+          "rank": 6,
+          "score": 0.51642906665802,
+          "doc_id": "86",
+          "text": "AbstractValue Chain has been considered as a key model for managing efficiently value creation processes within organizations. However, with the digitization of the end-to-end processes which began to adopt data as a main source of value, traditional value chain models have become outdated. For this, researchers have developed new value chain models, called Data Value Chains, to carry out data driven organizations. Thereafter, new data value chains called Big Data Value chain have emerged with the emergence of Big Data in order to face new data-related challenges such as high volume, velocity, and variety. These Big Data Value Chains describe the data flow within organizations which rely on Big Data to extract valuable insights. It is a set of ordered steps using Big Data Analytics tools and mainly built for going from data generation to knowledge creation. The advances in Big Data and Big Data Value Chain, using clear processes for aggregation and exploitation of data, have given rise to what is called data monetization. Data monetization concept consists of using data from an organization to generate profit. It may be selling the data directly for cash, or relying on that data to create value indirectly. It is important to mention that the concept of monetizing data is not as new as it looks, but with the era of Big Data and Big Data Value Chain it is becoming attractive. The aim of this paper is to provide a comprehensive review of value creation, data value, and Big Data value chains with their different steps. This literature has led us to construct an end-to-end exhaustive BDVC that regroup most of the addressed phases. Furthermore, we present a possible evolution of that generic BDVC to support Big Data Monetization. For this, we discuss different approaches that enable data monetization throughout data value chains. Finally, we highlight the need to adopt specific data monetization models to suit big data specificities."
+        },
+        {
+          "rank": 7,
+          "score": 0.5090138912200928,
+          "doc_id": "71",
+          "text": "Purpose: The main purpose of this work was to present the problems of big data and to present how small data can be used as a complement to big data and its effects step by step in the big data through the concept of value chain. Recently, the big data market is growing rapidly around the world because data is processed on the basis of size, diversity, speed, accuracy and value. Specifically, this study focuses on its application to Jeju tourism. Research design, data, and methodology: The problems of big data were clearly presented using various real-world examples, and the verification of the compromise with small data and its effectiveness were conducted based on research papers discussing Jeju tourism using big data. The results of the study suggested the use of small data to solve and verify the representation of big data at the collection stage of the big data value chain, and the analysis stage suggested combining the identification of behavior patterns, the strengths of small data, and the exploration of causal relationships. Results: Among various stage, in the curation phase, a cause-and-effect analysis using small data suggested a solution to the problem of mistaking the correlation of big data as causality, and in the storage phase, a policy plan using small data was proposed to solve the problem of privacy infringement. The most important part of this study was the application stage, which discussed the specific problems of big data and the possibility of compromise between small data. As well, in the utilization phase, a combination of correlation and causality, as in the curation phase, was proposed. Conclusions: As an implication of this study, we used specific examples to present synergies when big data is compromised with small data. It also showed that the compromised use of big data and small data can contribute not only in terms of research but also in terms of practicality in tourism industry. Finally, we expanded the foundation of research in terms of academic research, discussing the trade-off utilization of big and small data."
+        },
+        {
+          "rank": 8,
+          "score": 0.5085357427597046,
+          "doc_id": "62",
+          "text": "This study reviews the analysis and characteristics of databases from big data and then establishes representational strategy. Thus, analysis has continued for a long time in the quantity and quality of data, and there are changes in the location of data in the social sciences, past trends and the emergence of big data. The introduction of big data is presented as a prototype of new social science and is a useful practical example that empirically shows the need, basis, and direction of analysis through trend prediction services. Big data provides a future perspective as an important foundation for social change within the framework of basic social sciences."
+        },
+        {
+          "rank": 9,
+          "score": 0.5043095350265503,
+          "doc_id": "217",
+          "text": "Abstract The many advances in data collection computing systems (data collection, database, storage), diagnostic and therapeutic possibilities are responsible for an increase and a diversification of available data. Big data offers the capacities, in the field of health, to accelerate the discoveries and to optimize the management of patients by combining a large volume of data and the creation of therapeutic models. In radiotherapy, the development of big data is attractive because data are very numerous et heterogeneous (demographics, radiomics, genomics, radiogenomics, etc.). The expectation would be to predict the effectiveness and tolerance of radiation therapy. With these new concepts, still at the preliminary stage, it is possible to create a personalized medicine which is always more secure and reliable."
+        },
+        {
+          "rank": 10,
+          "score": 0.5036182403564453,
+          "doc_id": "120",
+          "text": "The big data term refers to the great volume of data and complicated data structure with difficulties in collecting, storing, processing, and analyzing these data. Big data analytics refers to the operation of disclosing hidden patterns through big data. This information and data set cloud to be useful and provide advanced services. However, analyzing and processing this information could cause revealing and disclosing some sensitive and personal information when the information is contained in applications that are correlated to users such as location-based services, but concerns are diminished if the applications are correlated to general information such as scientific results. In this work, a survey has been done over security and privacy challenges and approaches in big data. The challenges included here are in each of the following areas: privacy, access control, encryption, and authentication in big data. Likewise, the approaches presented here are privacy-preserving approaches in big data, access control approaches in big data, encryption approaches in big data, and authentication approaches in big data."
+        }
+      ]
+    },
+    {
+      "query": "Big Data를 이용한 Warehouse Management System 모델에서 제시된 방향은 무엇입니까?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6136373281478882,
+          "doc_id": "66",
+          "text": "Abstract Future buildings will more and more rely on advanced Building Management Systems (BMS) connected to a variety of sensors, actuators and dedicated networks. Their objectives are to observe the state of rooms and apply automated rules to preserve or increase comfort while economizing energy. In this work, we advocate for the inclusion of a dedicated system for sensors data storage and processing, based on Big Data technologies. This choice enables new potentials in terms of data analytics and applications development, the most obvious one being the ability to scale up seamlessly from one smart building to several, in the direction of smart areas and smart cities. We report in this paper on our system architecture and on several challenges we met in its elaboration, attempting to meet requirements of scalability, data processing, flexibility, interoperability and privacy. We also describe current and future end-user services that our platform will support, including historical data retrieval, visualisation, processing and alarms. The platform, called BBData - Big Building Data, is currently in production at the Smart Living Lab of Fribourg and is offered to several research teams to ease their work, to foster the sharing of historical data and to avoid that each project develops its own data gathering and processing pipeline."
+        },
+        {
+          "rank": 2,
+          "score": 0.5912656784057617,
+          "doc_id": "227",
+          "text": "본 연구는 오늘날 산업 전반적으로 영향을 미치고 있는 디지탈 전환(Digital Transformation)의 기술 환경과 디지탈 전환의 산업적 창고관리 부분의 모델연구가 본 논문의 목적이다. &amp;#xD; &amp;#xD; 디지털 전환은 오랫동안 디지털화와 비슷하거나 또는 디지털 방식으로 저장할 수 있도록 기존 데이터 형태를 전환하는 것과 관련이 있다. 물론 이 점이 중요하긴 하지만, 이전의 디지털화는 최신 디지털 전환의 영역을 포함하지 않았었다.&amp;#xD; &amp;#xD; 특히 이번 연구에서는 Big Data를 중심으로 Warehouse Management System의 방향을 제시 하고자 한다."
+        },
+        {
+          "rank": 3,
+          "score": 0.55775386095047,
+          "doc_id": "126",
+          "text": "Abstract The recent explosion in ICT and digital data has led organizations, both private and public, to efficient decision-making. Nowadays organizations can store huge amounts of data, which can be accessible at any time. Big Data governance refers to the management of huge volumes of an organization&rsquo;s data, exploiting it in the organization&rsquo;s decision-making using different analytical tools. Big Data emergence provides great convenience, but it also brings challenges. Nevertheless, for Big Data governance, data has to be prepared in a timely manner, keeping in view the consistency and reliability of the data, and being able to trust its source and the meaningfulness of the result. Hence, a framework for Big Data governance would have many advantages. There are Big Data governance frameworks, which guide the management of Big Data. However, there are also limitations associated with these frameworks. Therefore, this study aims to explore the existing Big Data governance frameworks and their shortcomings, and propose a new framework. The proposed framework consists of eight components. As a framework validation, the proposed framework has been compared with the ISO 8000 data governance framework."
+        },
+        {
+          "rank": 4,
+          "score": 0.5455163717269897,
+          "doc_id": "62",
+          "text": "This study reviews the analysis and characteristics of databases from big data and then establishes representational strategy. Thus, analysis has continued for a long time in the quantity and quality of data, and there are changes in the location of data in the social sciences, past trends and the emergence of big data. The introduction of big data is presented as a prototype of new social science and is a useful practical example that empirically shows the need, basis, and direction of analysis through trend prediction services. Big data provides a future perspective as an important foundation for social change within the framework of basic social sciences."
+        },
+        {
+          "rank": 5,
+          "score": 0.5450684428215027,
+          "doc_id": "217",
+          "text": "Abstract The many advances in data collection computing systems (data collection, database, storage), diagnostic and therapeutic possibilities are responsible for an increase and a diversification of available data. Big data offers the capacities, in the field of health, to accelerate the discoveries and to optimize the management of patients by combining a large volume of data and the creation of therapeutic models. In radiotherapy, the development of big data is attractive because data are very numerous et heterogeneous (demographics, radiomics, genomics, radiogenomics, etc.). The expectation would be to predict the effectiveness and tolerance of radiation therapy. With these new concepts, still at the preliminary stage, it is possible to create a personalized medicine which is always more secure and reliable."
+        },
+        {
+          "rank": 6,
+          "score": 0.541124701499939,
+          "doc_id": "196",
+          "text": "AbstractPurposeContemporary big data initiatives in health care will benefit from greater integration with nursing science and nursing practice; in turn, nursing science and nursing practice has much to gain from the data science initiatives. Big data arises secondary to scholarly inquiry (e.g., &#8208;omics) and everyday observations like cardiac flow sensors or Twitter feeds. Data science methods that are emerging ensure that these data be leveraged to improve patient care.Organizing ConstructBig data encompasses data that exceed human comprehension, that exist at a volume unmanageable by standard computer systems, that arrive at a velocity not under the control of the investigator and possess a level of imprecision not found in traditional inquiry. Data science methods are emerging to manage and gain insights from big data.MethodsThe primary methods included investigation of emerging federal big data initiatives, and exploration of exemplars from nursing informatics research to benchmark where nursing is already poised to participate in the big data revolution. We provide observations and reflections on experiences in the emerging big data initiatives.ConclusionsExisting approaches to large data set analysis provide a necessary but not sufficient foundation for nursing to participate in the big data revolution. Nursing's Social Policy Statement guides a principled, ethical perspective on big data and data science. There are implications for basic and advanced practice clinical nurses in practice, for the nurse scientist who collaborates with data scientists, and for the nurse data scientist.Clinical RelevanceBig data and data science has the potential to provide greater richness in understanding patient phenomena and in tailoring interventional strategies that are personalized to the patient."
+        },
+        {
+          "rank": 7,
+          "score": 0.5352586507797241,
+          "doc_id": "187",
+          "text": "Abstract Large amounts of data are increasingly accumulated in the energy sector with the continuous application of sensors, wireless transmission, network communication, and cloud computing technologies. To fulfill the potential of energy big data and obtain insights to achieve smart energy management, we present a comprehensive study of big data driven smart energy management. We first discuss the sources and characteristics of energy big data. Also, a process model of big data driven smart energy management is proposed. Then taking smart grid as the research background, we provide a systematic review of big data analytics for smart energy management. It is discussed from four major aspects, namely power generation side management, microgrid and renewable energy management, asset management and collaborative operation, as well as demand side management (DSM). Afterwards, the industrial development of big data-driven smart energy management is analyzed and discussed. Finally, we point out the challenges of big data-driven smart energy management in IT infrastructure, data collection and governance, data integration and sharing, processing and analysis, security and privacy, and professionals."
+        },
+        {
+          "rank": 8,
+          "score": 0.5299140810966492,
+          "doc_id": "109",
+          "text": "Recently data processing has main gained many attention both from academic and commercial industry. Their term use to tools, technical methods and frameworks made to gathering, collect, store, processing and analysis massive amounts of data. Data processing and analysis are based on structured/semi -structured/unstructured by big data, as well as is generated from various different sources in the system at various rates. For the purpose of processing with their large data and suitable way, voluminous parallelism is usually used. The general architecture of a big data system is made up a shared cluster of their machines. Nonetheless, even in very parallel environment, data processing is often very time-consuming. A various applications can take up to everytime to produce useful results, interactive analysis and debugging. Nevertheless, we have main problems that how we have a high performance requires both quality of data locality and resource. Moreover, big data analysis provide the amount of data that is processed typically large in comparison with computation in their systems. In other words, specified optimization that would relieve low-level to achieve good performance essentially. Accordingly, our main goal of this research paper provide how we have to do to optimize for big data frameworks. Our contribute approach to make big data cloud platform for easy and efficient processing of big data. In addition, we provides results from a study of existing optimization of data processing in MapReduce and Hadoop oriented systems."
+        },
+        {
+          "rank": 9,
+          "score": 0.529321014881134,
+          "doc_id": "189",
+          "text": "Abstract Big data continues to gather increasing interest in the business press as well as within the management literature. While this interest has spilled over into the realm of human resources (HR) management, solid evidence of its positive performance impacts is lacking. I explore three possibilities for this lack of evidence: (1) HR possesses big data but largely lacks the ability to use it; (2) HR does not actually possess big data; and (3) big data is generating value for HR and positively affects organizational performance, but the winners in the race to utilize big data in HR are not publicizing their successes. Following this, I discuss current forms of big data implementation, highlighting an evolutionary progression of implementations in various settings and emphasizing the importance of balancing deductive with inductive analytical approaches. Finally, I discuss conditions under which big data may hold greater value for the HR function, and I suggest ways managers and organizations can make the most of big data."
+        },
+        {
+          "rank": 10,
+          "score": 0.5284579992294312,
+          "doc_id": "86",
+          "text": "AbstractValue Chain has been considered as a key model for managing efficiently value creation processes within organizations. However, with the digitization of the end-to-end processes which began to adopt data as a main source of value, traditional value chain models have become outdated. For this, researchers have developed new value chain models, called Data Value Chains, to carry out data driven organizations. Thereafter, new data value chains called Big Data Value chain have emerged with the emergence of Big Data in order to face new data-related challenges such as high volume, velocity, and variety. These Big Data Value Chains describe the data flow within organizations which rely on Big Data to extract valuable insights. It is a set of ordered steps using Big Data Analytics tools and mainly built for going from data generation to knowledge creation. The advances in Big Data and Big Data Value Chain, using clear processes for aggregation and exploitation of data, have given rise to what is called data monetization. Data monetization concept consists of using data from an organization to generate profit. It may be selling the data directly for cash, or relying on that data to create value indirectly. It is important to mention that the concept of monetizing data is not as new as it looks, but with the era of Big Data and Big Data Value Chain it is becoming attractive. The aim of this paper is to provide a comprehensive review of value creation, data value, and Big Data value chains with their different steps. This literature has led us to construct an end-to-end exhaustive BDVC that regroup most of the addressed phases. Furthermore, we present a possible evolution of that generic BDVC to support Big Data Monetization. For this, we discuss different approaches that enable data monetization throughout data value chains. Finally, we highlight the need to adopt specific data monetization models to suit big data specificities."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

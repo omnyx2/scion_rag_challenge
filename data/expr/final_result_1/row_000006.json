@@ -1,0 +1,101 @@
+{
+    "id": "row_000006",
+    "result": "##제목##\n초등학생을 위한 설명 가능한 인공지능 교육의 핵심 요소와 활용 방안\n\n##서론##\n초등학교 수준의 인공지능(AI) 교육은 학생들이 AI의 기본 원리를 이해하고 실생활 문제를 해결하는 능력을 기르는 데 중점을 둡니다. 특히 '설명 가능한 인공지능 교육'은 인간과 관련된 문제를 다루는 사람 중심의 접근 방식으로, 학생들이 단순히 AI를 사용하는 것을 넘어 그 작동 원리를 설명할 수 있도록 돕는 것을 목표로 합니다.\n\n##본론##\n제시된 자료에 따르면, 초등학교 수준에서 설명 가능한 인공지능 교육의 핵심 요소와 활용 방안은 다음과 같이 요약할 수 있습니다.\n\n### 핵심 요소\n1.  **사람 중심의 교육**: 인간과 관련된 인공지능 문제를 다루며, 학생들의 문제 해결 능력 함양을 최우선 목표로 합니다.\n2.  **알고리즘 교육**: 알고리즘 교육을 통해 인공지능의 기본 원리를 이해하도록 돕습니다.\n3.  **모델 설명 능력**: 학생들이 실생활 문제와 관련된 인공지능 모델을 직접 설명하게 함으로써 이해도를 높이고, AI의 다양한 활용 분야로 지식을 확장할 수 있도록 합니다.\n\n### 활용 방안\n1.  **실생활 예시 활용**: 학생들의 이해를 돕기 위해 실제 삶과 밀접하게 관련된 예시를 사용해야 합니다.\n2.  **해석 가능한 알고리즘 사용**: 교육 과정에서 알고리즘 자체가 해석하기 쉬운, 즉 원리가 명확한 것을 활용하는 것이 효과적입니다.\n3.  **다양한 교수법 및 도구 활용**: 학생들이 단순한 이해를 넘어 직접 설명하는 단계로 나아갈 수 있도록 다양한 교수학습 방법과 머신러닝 교육 도구 등을 적극적으로 활용해야 합니다.\n\n##결론##\n초등학교 수준의 설명 가능한 인공지능 교육은 학생 중심의 접근법을 바탕으로 합니다. 실생활과 연관된 예시, 해석하기 쉬운 알고리즘, 그리고 다양한 교육 도구를 활용하여 학생들이 AI의 원리를 이해하고, 이를 바탕으로 문제 해결 능력을 기르도록 하는 것이 핵심입니다. 이러한 교육 방식은 학생들이 미래 사회의 필수 역량인 AI 소양을 갖추는 데 중요한 기반이 될 것입니다.",
+    "prompt": "You will be given a JSON object as a string which contains a series of related search queries and their retrieved documents ('hits'). Do not make answer from external knowledge. You must make answer inside of Context.\nYour main task is to answer the specific 'Question' provided below. Use the entire JSON data as context to formulate your answer, paying close attention to the 'text' fields within the 'hits' lists.\n\nThe JSON data has a list of queries. The 'original' query is the one you need to answer. The other queries are supplementary and provide additional context.\n\nIf the 'Question' is in Korean, format your answer in Korean as follows:\n##제목##\n\n##서론##\n\n##본론##\n\n##결론##\n\nIf the 'Question' is in English, format your answer in English as follows:\n##Title##\n\n##Introduction##\n\n##Main Body##\n\n##Conclusion##\n\n--- Context (JSON Data) ---\n{\n  \"id\": \"row_000006\",\n  \"model_name\": \"Snowflake/snowflake-arctic-embed-l-v2.0\",\n  \"timestamp_kst\": \"2025-09-07T15:53:02.157469+09:00\",\n  \"trial_id\": \"e4fff789\",\n  \"queries\": [\n    {\n      \"query\": \"초등학교 수준에서 설명 가능한 인공지능 교육의 핵심 요소와 활용 방안을 어떻게 요약할 수 있나요?\",\n      \"query_meta\": {\n        \"type\": \"original\"\n      },\n      \"top_k\": 10,\n      \"hits\": [\n        {\n          \"rank\": 1,\n          \"score\": 0.622070848941803,\n          \"doc_id\": \"181\",\n          \"text\": \"초등 인공지능 교육을 위한 설명 가능한 인공지능의 교육적 의미 연구 초등 인공지능 교육을 위한 설명 가능한 인공지능의 교육적 의미 연구 초등 인공지능 교육을 위한 설명 가능한 인공지능의 교육적 의미 연구 본 연구는 문헌 연구 통해 설명 가능한 인공지능의 개념과 문제해결과정을 탐구하였다. 본 연구를 통하여 설명 가능한 인공지능의 교육적 의미와 적용 방안을 제시하였다. 설명 가능한 인공지능 교육이란 인간과 관련된 인공지능 문제를 다루는 사람 중심의 인공지능 교육으로 학생들은 문제 해결 능력을 함양할 수 있다. 그리고, 알고리즘 교육을 통해 인공지능의 원리를 이해하고 실생활 문제 상황과 관련된 인공지능 모델을 설명하며 인공지능의 활용분야까지 확장할 수 있다. 이러한 설명 가능한 인공지능 교육이 초등학교에서 적용되기 위해서는 실제 삶과 관련된 예를 사용해야 하며 알고리즘 자체가 해석력을 지닌 것을 활용하는 것이 좋다. 또한, 이해가 설명으로 나아가기 위해 다양한 교수학습방법 및 도구를 활용해야 한다. 2022년 개정 교육과정에서 인공지능 도입을 앞두고 본 연구가 실제 수업을 위한 기반으로써 의미 있게 활용되기를 바란다.\"\n        },\n        {\n          \"rank\": 2,\n          \"score\": 0.4183167815208435,\n          \"doc_id\": \"219\",\n          \"text\": \"인공지능(Artificial Intelligence)과 대학수학교육 인공지능(Artificial Intelligence)과 대학수학교육 인공지능(Artificial Intelligence)과 대학수학교육 첨단 정보통신기술(ICT)인 인공지능(AI), 사물인터넷(IoT), 빅데이터(Big Data) 등이 사회와 경제 전반에 융합돼 혁신적인 변화가 일어나는 요즘, 헬스케어, 지능형 로봇, 가정용 인공지능 시스템(스마트홈), 공유자동차 등은 이미 우리 생활에 깊이 영향을 미치고 있다. 이미 오래전부터 공장에서는 로봇이 사람 대신 일을 하고 있으며(FA, OA), 인공지능 의사도 병원에서 활동을 하고 있고(Dr. Watson), 인공지능 스피커(기가지니)와 인공지능 비서인 구글 어시스턴트가 자연어생성을 하며 우리를 돕고 있다. 이제 인공지능을 이해하는 것은 필수가 되었으며, 인공지능을 이해하기 위해서 수학의 지식은 선택이 아니라 필수가 되었다. 따라서 이런 일들을 가능하게 해주는 수학지식을 설명하는 역할이 수학자들에게 주어졌다. 이에 본 연구진은 인공지능과 머신러닝(Machine Learning, 기계학습)을 이해하기 위해 필요한 수학 개념을 우리의 실정에 맞게 한 학기(또는 두 학기) 분량으로 정리하여, 무료 전자교과서 '인공지능을 위한 기초수학'을 집필하고, 인공지능 분야에 관심이 있는 다양한 전공의 대학생과 대학원생을 대상으로 하는 강좌를 개설하였다. 본 논문에서는 그 개발과정과 운영사례를 공유한다. http://matrix.skku.ac.kr/math4ai/\"\n        },\n        {\n          \"rank\": 3,\n          \"score\": 0.41063228249549866,\n          \"doc_id\": \"63\",\n          \"text\": \"Analysis of Machine Learning Education Tool for Kids Analysis of Machine Learning Education Tool for Kids Analysis of Machine Learning Education Tool for Kids Artificial intelligence and machine learning are used in many parts of our daily lives, but the basic processes and concepts are barely exposed to most people. Understanding these basic concepts is becoming increasingly important as kids don't have the opportunity to explore AI processes and improve their understanding of basic machine learning concepts and their essential components. Machine learning educational tools can help children easily understand artificial intelligence and machine learning. In this paper, we examine machine learning education tools and compare their features.\"\n        }\n      ]\n    },\n    {\n      \"query\": \"초등학교 수준에서 설명 가능한 인공지능 교육의 핵심 요소는 무엇인가요?\",\n      \"query_meta\": {\n        \"type\": \"single_hop\",\n        \"index\": 0\n      },\n      \"top_k\": 10,\n      \"hits\": [\n        {\n          \"rank\": 1,\n          \"score\": 0.5738866329193115,\n          \"doc_id\": \"181\",\n          \"text\": \"초등 인공지능 교육을 위한 설명 가능한 인공지능의 교육적 의미 연구 초등 인공지능 교육을 위한 설명 가능한 인공지능의 교육적 의미 연구 초등 인공지능 교육을 위한 설명 가능한 인공지능의 교육적 의미 연구 본 연구는 문헌 연구 통해 설명 가능한 인공지능의 개념과 문제해결과정을 탐구하였다. 본 연구를 통하여 설명 가능한 인공지능의 교육적 의미와 적용 방안을 제시하였다. 설명 가능한 인공지능 교육이란 인간과 관련된 인공지능 문제를 다루는 사람 중심의 인공지능 교육으로 학생들은 문제 해결 능력을 함양할 수 있다. 그리고, 알고리즘 교육을 통해 인공지능의 원리를 이해하고 실생활 문제 상황과 관련된 인공지능 모델을 설명하며 인공지능의 활용분야까지 확장할 수 있다. 이러한 설명 가능한 인공지능 교육이 초등학교에서 적용되기 위해서는 실제 삶과 관련된 예를 사용해야 하며 알고리즘 자체가 해석력을 지닌 것을 활용하는 것이 좋다. 또한, 이해가 설명으로 나아가기 위해 다양한 교수학습방법 및 도구를 활용해야 한다. 2022년 개정 교육과정에서 인공지능 도입을 앞두고 본 연구가 실제 수업을 위한 기반으로써 의미 있게 활용되기를 바란다.\"\n        },\n        {\n          \"rank\": 2,\n          \"score\": 0.3774932622909546,\n          \"doc_id\": \"63\",\n          \"text\": \"Analysis of Machine Learning Education Tool for Kids Analysis of Machine Learning Education Tool for Kids Analysis of Machine Learning Education Tool for Kids Artificial intelligence and machine learning are used in many parts of our daily lives, but the basic processes and concepts are barely exposed to most people. Understanding these basic concepts is becoming increasingly important as kids don't have the opportunity to explore AI processes and improve their understanding of basic machine learning concepts and their essential components. Machine learning educational tools can help children easily understand artificial intelligence and machine learning. In this paper, we examine machine learning education tools and compare their features.\"\n        },\n        {\n          \"rank\": 3,\n          \"score\": 0.3758179545402527,\n          \"doc_id\": \"219\",\n          \"text\": \"인공지능(Artificial Intelligence)과 대학수학교육 인공지능(Artificial Intelligence)과 대학수학교육 인공지능(Artificial Intelligence)과 대학수학교육 첨단 정보통신기술(ICT)인 인공지능(AI), 사물인터넷(IoT), 빅데이터(Big Data) 등이 사회와 경제 전반에 융합돼 혁신적인 변화가 일어나는 요즘, 헬스케어, 지능형 로봇, 가정용 인공지능 시스템(스마트홈), 공유자동차 등은 이미 우리 생활에 깊이 영향을 미치고 있다. 이미 오래전부터 공장에서는 로봇이 사람 대신 일을 하고 있으며(FA, OA), 인공지능 의사도 병원에서 활동을 하고 있고(Dr. Watson), 인공지능 스피커(기가지니)와 인공지능 비서인 구글 어시스턴트가 자연어생성을 하며 우리를 돕고 있다. 이제 인공지능을 이해하는 것은 필수가 되었으며, 인공지능을 이해하기 위해서 수학의 지식은 선택이 아니라 필수가 되었다. 따라서 이런 일들을 가능하게 해주는 수학지식을 설명하는 역할이 수학자들에게 주어졌다. 이에 본 연구진은 인공지능과 머신러닝(Machine Learning, 기계학습)을 이해하기 위해 필요한 수학 개념을 우리의 실정에 맞게 한 학기(또는 두 학기) 분량으로 정리하여, 무료 전자교과서 '인공지능을 위한 기초수학'을 집필하고, 인공지능 분야에 관심이 있는 다양한 전공의 대학생과 대학원생을 대상으로 하는 강좌를 개설하였다. 본 논문에서는 그 개발과정과 운영사례를 공유한다. http://matrix.skku.ac.kr/math4ai/\"\n        }\n      ]\n    },\n    {\n      \"query\": \"초등학교 수준에서 설명 가능한 인공지능 교육의 활용 방안은 무엇인가요?\",\n      \"query_meta\": {\n        \"type\": \"single_hop\",\n        \"index\": 1\n      },\n      \"top_k\": 10,\n      \"hits\": [\n        {\n          \"rank\": 1,\n          \"score\": 0.603388786315918,\n          \"doc_id\": \"181\",\n          \"text\": \"초등 인공지능 교육을 위한 설명 가능한 인공지능의 교육적 의미 연구 초등 인공지능 교육을 위한 설명 가능한 인공지능의 교육적 의미 연구 초등 인공지능 교육을 위한 설명 가능한 인공지능의 교육적 의미 연구 본 연구는 문헌 연구 통해 설명 가능한 인공지능의 개념과 문제해결과정을 탐구하였다. 본 연구를 통하여 설명 가능한 인공지능의 교육적 의미와 적용 방안을 제시하였다. 설명 가능한 인공지능 교육이란 인간과 관련된 인공지능 문제를 다루는 사람 중심의 인공지능 교육으로 학생들은 문제 해결 능력을 함양할 수 있다. 그리고, 알고리즘 교육을 통해 인공지능의 원리를 이해하고 실생활 문제 상황과 관련된 인공지능 모델을 설명하며 인공지능의 활용분야까지 확장할 수 있다. 이러한 설명 가능한 인공지능 교육이 초등학교에서 적용되기 위해서는 실제 삶과 관련된 예를 사용해야 하며 알고리즘 자체가 해석력을 지닌 것을 활용하는 것이 좋다. 또한, 이해가 설명으로 나아가기 위해 다양한 교수학습방법 및 도구를 활용해야 한다. 2022년 개정 교육과정에서 인공지능 도입을 앞두고 본 연구가 실제 수업을 위한 기반으로써 의미 있게 활용되기를 바란다.\"\n        },\n        {\n          \"rank\": 2,\n          \"score\": 0.3868769705295563,\n          \"doc_id\": \"219\",\n          \"text\": \"인공지능(Artificial Intelligence)과 대학수학교육 인공지능(Artificial Intelligence)과 대학수학교육 인공지능(Artificial Intelligence)과 대학수학교육 첨단 정보통신기술(ICT)인 인공지능(AI), 사물인터넷(IoT), 빅데이터(Big Data) 등이 사회와 경제 전반에 융합돼 혁신적인 변화가 일어나는 요즘, 헬스케어, 지능형 로봇, 가정용 인공지능 시스템(스마트홈), 공유자동차 등은 이미 우리 생활에 깊이 영향을 미치고 있다. 이미 오래전부터 공장에서는 로봇이 사람 대신 일을 하고 있으며(FA, OA), 인공지능 의사도 병원에서 활동을 하고 있고(Dr. Watson), 인공지능 스피커(기가지니)와 인공지능 비서인 구글 어시스턴트가 자연어생성을 하며 우리를 돕고 있다. 이제 인공지능을 이해하는 것은 필수가 되었으며, 인공지능을 이해하기 위해서 수학의 지식은 선택이 아니라 필수가 되었다. 따라서 이런 일들을 가능하게 해주는 수학지식을 설명하는 역할이 수학자들에게 주어졌다. 이에 본 연구진은 인공지능과 머신러닝(Machine Learning, 기계학습)을 이해하기 위해 필요한 수학 개념을 우리의 실정에 맞게 한 학기(또는 두 학기) 분량으로 정리하여, 무료 전자교과서 '인공지능을 위한 기초수학'을 집필하고, 인공지능 분야에 관심이 있는 다양한 전공의 대학생과 대학원생을 대상으로 하는 강좌를 개설하였다. 본 논문에서는 그 개발과정과 운영사례를 공유한다. http://matrix.skku.ac.kr/math4ai/\"\n        },\n        {\n          \"rank\": 3,\n          \"score\": 0.3837070167064667,\n          \"doc_id\": \"63\",\n          \"text\": \"Analysis of Machine Learning Education Tool for Kids Analysis of Machine Learning Education Tool for Kids Analysis of Machine Learning Education Tool for Kids Artificial intelligence and machine learning are used in many parts of our daily lives, but the basic processes and concepts are barely exposed to most people. Understanding these basic concepts is becoming increasingly important as kids don't have the opportunity to explore AI processes and improve their understanding of basic machine learning concepts and their essential components. Machine learning educational tools can help children easily understand artificial intelligence and machine learning. In this paper, we examine machine learning education tools and compare their features.\"\n        }\n      ]\n    }\n  ],\n  \"meta\": {\n    \"model\": \"gemini-2.5-flash\",\n    \"temperature\": 0.2\n  }\n}\n\n--- Question ---\n초등학교 수준에서 설명 가능한 인공지능 교육의 핵심 요소와 활용 방안을 어떻게 요약할 수 있나요?\n",
+    "model": "models/gemini-2.5-pro",
+    "retrival": {
+        "id": "row_000006",
+        "model_name": "Snowflake/snowflake-arctic-embed-l-v2.0",
+        "timestamp_kst": "2025-09-07T15:53:02.157469+09:00",
+        "trial_id": "e4fff789",
+        "queries": [
+            {
+                "query": "초등학교 수준에서 설명 가능한 인공지능 교육의 핵심 요소와 활용 방안을 어떻게 요약할 수 있나요?",
+                "query_meta": {
+                    "type": "original"
+                },
+                "top_k": 10,
+                "hits": [
+                    {
+                        "rank": 1,
+                        "score": 0.622070848941803,
+                        "doc_id": "181",
+                        "text": "초등 인공지능 교육을 위한 설명 가능한 인공지능의 교육적 의미 연구 초등 인공지능 교육을 위한 설명 가능한 인공지능의 교육적 의미 연구 초등 인공지능 교육을 위한 설명 가능한 인공지능의 교육적 의미 연구 본 연구는 문헌 연구 통해 설명 가능한 인공지능의 개념과 문제해결과정을 탐구하였다. 본 연구를 통하여 설명 가능한 인공지능의 교육적 의미와 적용 방안을 제시하였다. 설명 가능한 인공지능 교육이란 인간과 관련된 인공지능 문제를 다루는 사람 중심의 인공지능 교육으로 학생들은 문제 해결 능력을 함양할 수 있다. 그리고, 알고리즘 교육을 통해 인공지능의 원리를 이해하고 실생활 문제 상황과 관련된 인공지능 모델을 설명하며 인공지능의 활용분야까지 확장할 수 있다. 이러한 설명 가능한 인공지능 교육이 초등학교에서 적용되기 위해서는 실제 삶과 관련된 예를 사용해야 하며 알고리즘 자체가 해석력을 지닌 것을 활용하는 것이 좋다. 또한, 이해가 설명으로 나아가기 위해 다양한 교수학습방법 및 도구를 활용해야 한다. 2022년 개정 교육과정에서 인공지능 도입을 앞두고 본 연구가 실제 수업을 위한 기반으로써 의미 있게 활용되기를 바란다."
+                    },
+                    {
+                        "rank": 2,
+                        "score": 0.4183167815208435,
+                        "doc_id": "219",
+                        "text": "인공지능(Artificial Intelligence)과 대학수학교육 인공지능(Artificial Intelligence)과 대학수학교육 인공지능(Artificial Intelligence)과 대학수학교육 첨단 정보통신기술(ICT)인 인공지능(AI), 사물인터넷(IoT), 빅데이터(Big Data) 등이 사회와 경제 전반에 융합돼 혁신적인 변화가 일어나는 요즘, 헬스케어, 지능형 로봇, 가정용 인공지능 시스템(스마트홈), 공유자동차 등은 이미 우리 생활에 깊이 영향을 미치고 있다. 이미 오래전부터 공장에서는 로봇이 사람 대신 일을 하고 있으며(FA, OA), 인공지능 의사도 병원에서 활동을 하고 있고(Dr. Watson), 인공지능 스피커(기가지니)와 인공지능 비서인 구글 어시스턴트가 자연어생성을 하며 우리를 돕고 있다. 이제 인공지능을 이해하는 것은 필수가 되었으며, 인공지능을 이해하기 위해서 수학의 지식은 선택이 아니라 필수가 되었다. 따라서 이런 일들을 가능하게 해주는 수학지식을 설명하는 역할이 수학자들에게 주어졌다. 이에 본 연구진은 인공지능과 머신러닝(Machine Learning, 기계학습)을 이해하기 위해 필요한 수학 개념을 우리의 실정에 맞게 한 학기(또는 두 학기) 분량으로 정리하여, 무료 전자교과서 '인공지능을 위한 기초수학'을 집필하고, 인공지능 분야에 관심이 있는 다양한 전공의 대학생과 대학원생을 대상으로 하는 강좌를 개설하였다. 본 논문에서는 그 개발과정과 운영사례를 공유한다. http://matrix.skku.ac.kr/math4ai/"
+                    },
+                    {
+                        "rank": 3,
+                        "score": 0.41063228249549866,
+                        "doc_id": "63",
+                        "text": "Analysis of Machine Learning Education Tool for Kids Analysis of Machine Learning Education Tool for Kids Analysis of Machine Learning Education Tool for Kids Artificial intelligence and machine learning are used in many parts of our daily lives, but the basic processes and concepts are barely exposed to most people. Understanding these basic concepts is becoming increasingly important as kids don't have the opportunity to explore AI processes and improve their understanding of basic machine learning concepts and their essential components. Machine learning educational tools can help children easily understand artificial intelligence and machine learning. In this paper, we examine machine learning education tools and compare their features."
+                    }
+                ]
+            },
+            {
+                "query": "초등학교 수준에서 설명 가능한 인공지능 교육의 핵심 요소는 무엇인가요?",
+                "query_meta": {
+                    "type": "single_hop",
+                    "index": 0
+                },
+                "top_k": 10,
+                "hits": [
+                    {
+                        "rank": 1,
+                        "score": 0.5738866329193115,
+                        "doc_id": "181",
+                        "text": "초등 인공지능 교육을 위한 설명 가능한 인공지능의 교육적 의미 연구 초등 인공지능 교육을 위한 설명 가능한 인공지능의 교육적 의미 연구 초등 인공지능 교육을 위한 설명 가능한 인공지능의 교육적 의미 연구 본 연구는 문헌 연구 통해 설명 가능한 인공지능의 개념과 문제해결과정을 탐구하였다. 본 연구를 통하여 설명 가능한 인공지능의 교육적 의미와 적용 방안을 제시하였다. 설명 가능한 인공지능 교육이란 인간과 관련된 인공지능 문제를 다루는 사람 중심의 인공지능 교육으로 학생들은 문제 해결 능력을 함양할 수 있다. 그리고, 알고리즘 교육을 통해 인공지능의 원리를 이해하고 실생활 문제 상황과 관련된 인공지능 모델을 설명하며 인공지능의 활용분야까지 확장할 수 있다. 이러한 설명 가능한 인공지능 교육이 초등학교에서 적용되기 위해서는 실제 삶과 관련된 예를 사용해야 하며 알고리즘 자체가 해석력을 지닌 것을 활용하는 것이 좋다. 또한, 이해가 설명으로 나아가기 위해 다양한 교수학습방법 및 도구를 활용해야 한다. 2022년 개정 교육과정에서 인공지능 도입을 앞두고 본 연구가 실제 수업을 위한 기반으로써 의미 있게 활용되기를 바란다."
+                    },
+                    {
+                        "rank": 2,
+                        "score": 0.3774932622909546,
+                        "doc_id": "63",
+                        "text": "Analysis of Machine Learning Education Tool for Kids Analysis of Machine Learning Education Tool for Kids Analysis of Machine Learning Education Tool for Kids Artificial intelligence and machine learning are used in many parts of our daily lives, but the basic processes and concepts are barely exposed to most people. Understanding these basic concepts is becoming increasingly important as kids don't have the opportunity to explore AI processes and improve their understanding of basic machine learning concepts and their essential components. Machine learning educational tools can help children easily understand artificial intelligence and machine learning. In this paper, we examine machine learning education tools and compare their features."
+                    },
+                    {
+                        "rank": 3,
+                        "score": 0.3758179545402527,
+                        "doc_id": "219",
+                        "text": "인공지능(Artificial Intelligence)과 대학수학교육 인공지능(Artificial Intelligence)과 대학수학교육 인공지능(Artificial Intelligence)과 대학수학교육 첨단 정보통신기술(ICT)인 인공지능(AI), 사물인터넷(IoT), 빅데이터(Big Data) 등이 사회와 경제 전반에 융합돼 혁신적인 변화가 일어나는 요즘, 헬스케어, 지능형 로봇, 가정용 인공지능 시스템(스마트홈), 공유자동차 등은 이미 우리 생활에 깊이 영향을 미치고 있다. 이미 오래전부터 공장에서는 로봇이 사람 대신 일을 하고 있으며(FA, OA), 인공지능 의사도 병원에서 활동을 하고 있고(Dr. Watson), 인공지능 스피커(기가지니)와 인공지능 비서인 구글 어시스턴트가 자연어생성을 하며 우리를 돕고 있다. 이제 인공지능을 이해하는 것은 필수가 되었으며, 인공지능을 이해하기 위해서 수학의 지식은 선택이 아니라 필수가 되었다. 따라서 이런 일들을 가능하게 해주는 수학지식을 설명하는 역할이 수학자들에게 주어졌다. 이에 본 연구진은 인공지능과 머신러닝(Machine Learning, 기계학습)을 이해하기 위해 필요한 수학 개념을 우리의 실정에 맞게 한 학기(또는 두 학기) 분량으로 정리하여, 무료 전자교과서 '인공지능을 위한 기초수학'을 집필하고, 인공지능 분야에 관심이 있는 다양한 전공의 대학생과 대학원생을 대상으로 하는 강좌를 개설하였다. 본 논문에서는 그 개발과정과 운영사례를 공유한다. http://matrix.skku.ac.kr/math4ai/"
+                    }
+                ]
+            },
+            {
+                "query": "초등학교 수준에서 설명 가능한 인공지능 교육의 활용 방안은 무엇인가요?",
+                "query_meta": {
+                    "type": "single_hop",
+                    "index": 1
+                },
+                "top_k": 10,
+                "hits": [
+                    {
+                        "rank": 1,
+                        "score": 0.603388786315918,
+                        "doc_id": "181",
+                        "text": "초등 인공지능 교육을 위한 설명 가능한 인공지능의 교육적 의미 연구 초등 인공지능 교육을 위한 설명 가능한 인공지능의 교육적 의미 연구 초등 인공지능 교육을 위한 설명 가능한 인공지능의 교육적 의미 연구 본 연구는 문헌 연구 통해 설명 가능한 인공지능의 개념과 문제해결과정을 탐구하였다. 본 연구를 통하여 설명 가능한 인공지능의 교육적 의미와 적용 방안을 제시하였다. 설명 가능한 인공지능 교육이란 인간과 관련된 인공지능 문제를 다루는 사람 중심의 인공지능 교육으로 학생들은 문제 해결 능력을 함양할 수 있다. 그리고, 알고리즘 교육을 통해 인공지능의 원리를 이해하고 실생활 문제 상황과 관련된 인공지능 모델을 설명하며 인공지능의 활용분야까지 확장할 수 있다. 이러한 설명 가능한 인공지능 교육이 초등학교에서 적용되기 위해서는 실제 삶과 관련된 예를 사용해야 하며 알고리즘 자체가 해석력을 지닌 것을 활용하는 것이 좋다. 또한, 이해가 설명으로 나아가기 위해 다양한 교수학습방법 및 도구를 활용해야 한다. 2022년 개정 교육과정에서 인공지능 도입을 앞두고 본 연구가 실제 수업을 위한 기반으로써 의미 있게 활용되기를 바란다."
+                    },
+                    {
+                        "rank": 2,
+                        "score": 0.3868769705295563,
+                        "doc_id": "219",
+                        "text": "인공지능(Artificial Intelligence)과 대학수학교육 인공지능(Artificial Intelligence)과 대학수학교육 인공지능(Artificial Intelligence)과 대학수학교육 첨단 정보통신기술(ICT)인 인공지능(AI), 사물인터넷(IoT), 빅데이터(Big Data) 등이 사회와 경제 전반에 융합돼 혁신적인 변화가 일어나는 요즘, 헬스케어, 지능형 로봇, 가정용 인공지능 시스템(스마트홈), 공유자동차 등은 이미 우리 생활에 깊이 영향을 미치고 있다. 이미 오래전부터 공장에서는 로봇이 사람 대신 일을 하고 있으며(FA, OA), 인공지능 의사도 병원에서 활동을 하고 있고(Dr. Watson), 인공지능 스피커(기가지니)와 인공지능 비서인 구글 어시스턴트가 자연어생성을 하며 우리를 돕고 있다. 이제 인공지능을 이해하는 것은 필수가 되었으며, 인공지능을 이해하기 위해서 수학의 지식은 선택이 아니라 필수가 되었다. 따라서 이런 일들을 가능하게 해주는 수학지식을 설명하는 역할이 수학자들에게 주어졌다. 이에 본 연구진은 인공지능과 머신러닝(Machine Learning, 기계학습)을 이해하기 위해 필요한 수학 개념을 우리의 실정에 맞게 한 학기(또는 두 학기) 분량으로 정리하여, 무료 전자교과서 '인공지능을 위한 기초수학'을 집필하고, 인공지능 분야에 관심이 있는 다양한 전공의 대학생과 대학원생을 대상으로 하는 강좌를 개설하였다. 본 논문에서는 그 개발과정과 운영사례를 공유한다. http://matrix.skku.ac.kr/math4ai/"
+                    },
+                    {
+                        "rank": 3,
+                        "score": 0.3837070167064667,
+                        "doc_id": "63",
+                        "text": "Analysis of Machine Learning Education Tool for Kids Analysis of Machine Learning Education Tool for Kids Analysis of Machine Learning Education Tool for Kids Artificial intelligence and machine learning are used in many parts of our daily lives, but the basic processes and concepts are barely exposed to most people. Understanding these basic concepts is becoming increasingly important as kids don't have the opportunity to explore AI processes and improve their understanding of basic machine learning concepts and their essential components. Machine learning educational tools can help children easily understand artificial intelligence and machine learning. In this paper, we examine machine learning education tools and compare their features."
+                    }
+                ]
+            }
+        ],
+        "meta": {
+            "model": "gemini-2.5-flash",
+            "temperature": 0.2
+        }
+    }
+}

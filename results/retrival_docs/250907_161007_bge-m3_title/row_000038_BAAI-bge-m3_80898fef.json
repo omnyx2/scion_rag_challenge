@@ -1,0 +1,361 @@
+{
+  "id": "row_000038",
+  "model_name": "BAAI/bge-m3",
+  "timestamp_kst": "2025-09-07T16:10:13.279819+09:00",
+  "trial_id": "80898fef",
+  "queries": [
+    {
+      "query": "스마트 농업 분야에서 저탄소 녹색산업 정책을 지원하는 IT 융합 기술 적용 사례와 효과를 요약해 주시겠습니까?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7394927740097046,
+          "doc_id": "19",
+          "text": "그린산업 육성을 위한 농업분야 IT융합기술"
+        },
+        {
+          "rank": 2,
+          "score": 0.5903747081756592,
+          "doc_id": "112",
+          "text": "Convergence of Energy and IT Sectors"
+        },
+        {
+          "rank": 3,
+          "score": 0.5758075714111328,
+          "doc_id": "81",
+          "text": "IT융합 기술을 활용한 스마트 페데스털 시스템의 개발"
+        },
+        {
+          "rank": 4,
+          "score": 0.5745573043823242,
+          "doc_id": "197",
+          "text": "산업생태계 관점에서 바라본 IT융합 촉진전략"
+        },
+        {
+          "rank": 5,
+          "score": 0.5726701617240906,
+          "doc_id": "61",
+          "text": "IT 융합서비스 및 활용기술의 기술속성에 관한 연구 : 산업간 융합을 중심으로"
+        },
+        {
+          "rank": 6,
+          "score": 0.5659534931182861,
+          "doc_id": "113",
+          "text": "건강운동을 위한 IT 융합기술의 접근 동향"
+        },
+        {
+          "rank": 7,
+          "score": 0.5636518597602844,
+          "doc_id": "146",
+          "text": "미래 IT융합 신산업 육성 및 선도방안"
+        },
+        {
+          "rank": 8,
+          "score": 0.56265789270401,
+          "doc_id": "96",
+          "text": "국방IT융합 추진방법론 및 사례 연구"
+        },
+        {
+          "rank": 9,
+          "score": 0.5577672123908997,
+          "doc_id": "211",
+          "text": "On exploring factors for enhancing export competitiveness in IT Convergence industries"
+        },
+        {
+          "rank": 10,
+          "score": 0.5525746941566467,
+          "doc_id": "168",
+          "text": "AHP를 이용한 에너지-IT 융합기술 도출에 관한 연구"
+        }
+      ]
+    },
+    {
+      "query": "스마트 농업 분야에서 활용되는 IT 융합 기술은 무엇입니까?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7540208101272583,
+          "doc_id": "19",
+          "text": "그린산업 육성을 위한 농업분야 IT융합기술"
+        },
+        {
+          "rank": 2,
+          "score": 0.6202735900878906,
+          "doc_id": "81",
+          "text": "IT융합 기술을 활용한 스마트 페데스털 시스템의 개발"
+        },
+        {
+          "rank": 3,
+          "score": 0.580263078212738,
+          "doc_id": "113",
+          "text": "건강운동을 위한 IT 융합기술의 접근 동향"
+        },
+        {
+          "rank": 4,
+          "score": 0.5733809471130371,
+          "doc_id": "112",
+          "text": "Convergence of Energy and IT Sectors"
+        },
+        {
+          "rank": 5,
+          "score": 0.5728870630264282,
+          "doc_id": "61",
+          "text": "IT 융합서비스 및 활용기술의 기술속성에 관한 연구 : 산업간 융합을 중심으로"
+        },
+        {
+          "rank": 6,
+          "score": 0.5647906064987183,
+          "doc_id": "168",
+          "text": "AHP를 이용한 에너지-IT 융합기술 도출에 관한 연구"
+        },
+        {
+          "rank": 7,
+          "score": 0.5639002323150635,
+          "doc_id": "146",
+          "text": "미래 IT융합 신산업 육성 및 선도방안"
+        },
+        {
+          "rank": 8,
+          "score": 0.5579031109809875,
+          "doc_id": "54",
+          "text": "Future trends of IT convergence"
+        },
+        {
+          "rank": 9,
+          "score": 0.5551108121871948,
+          "doc_id": "229",
+          "text": "Convergence IT 관련 기사"
+        },
+        {
+          "rank": 10,
+          "score": 0.552358865737915,
+          "doc_id": "211",
+          "text": "On exploring factors for enhancing export competitiveness in IT Convergence industries"
+        }
+      ]
+    },
+    {
+      "query": "IT 융합 기술이 저탄소 녹색산업 정책을 어떻게 지원할 수 있습니까?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6866127252578735,
+          "doc_id": "19",
+          "text": "그린산업 육성을 위한 농업분야 IT융합기술"
+        },
+        {
+          "rank": 2,
+          "score": 0.6297796964645386,
+          "doc_id": "197",
+          "text": "산업생태계 관점에서 바라본 IT융합 촉진전략"
+        },
+        {
+          "rank": 3,
+          "score": 0.6165840029716492,
+          "doc_id": "112",
+          "text": "Convergence of Energy and IT Sectors"
+        },
+        {
+          "rank": 4,
+          "score": 0.5986376404762268,
+          "doc_id": "146",
+          "text": "미래 IT융합 신산업 육성 및 선도방안"
+        },
+        {
+          "rank": 5,
+          "score": 0.5923438668251038,
+          "doc_id": "113",
+          "text": "건강운동을 위한 IT 융합기술의 접근 동향"
+        },
+        {
+          "rank": 6,
+          "score": 0.5796875953674316,
+          "doc_id": "61",
+          "text": "IT 융합서비스 및 활용기술의 기술속성에 관한 연구 : 산업간 융합을 중심으로"
+        },
+        {
+          "rank": 7,
+          "score": 0.5754519104957581,
+          "doc_id": "168",
+          "text": "AHP를 이용한 에너지-IT 융합기술 도출에 관한 연구"
+        },
+        {
+          "rank": 8,
+          "score": 0.5740561485290527,
+          "doc_id": "198",
+          "text": "국내 중소기업의 기술융합 전략 및 성장 정책: IT & BT 융합기술 기반 네트워크 분석"
+        },
+        {
+          "rank": 9,
+          "score": 0.5700843930244446,
+          "doc_id": "145",
+          "text": "IT기업 관점에서의 국방IT융합 추진방향"
+        },
+        {
+          "rank": 10,
+          "score": 0.5686159729957581,
+          "doc_id": "211",
+          "text": "On exploring factors for enhancing export competitiveness in IT Convergence industries"
+        }
+      ]
+    },
+    {
+      "query": "저탄소 녹색산업 정책을 지원하는 스마트 농업 분야의 IT 융합 기술 적용 사례는 무엇입니까?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 2
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7293049097061157,
+          "doc_id": "19",
+          "text": "그린산업 육성을 위한 농업분야 IT융합기술"
+        },
+        {
+          "rank": 2,
+          "score": 0.5812165141105652,
+          "doc_id": "112",
+          "text": "Convergence of Energy and IT Sectors"
+        },
+        {
+          "rank": 3,
+          "score": 0.5643904805183411,
+          "doc_id": "81",
+          "text": "IT융합 기술을 활용한 스마트 페데스털 시스템의 개발"
+        },
+        {
+          "rank": 4,
+          "score": 0.5624342560768127,
+          "doc_id": "113",
+          "text": "건강운동을 위한 IT 융합기술의 접근 동향"
+        },
+        {
+          "rank": 5,
+          "score": 0.5612286329269409,
+          "doc_id": "197",
+          "text": "산업생태계 관점에서 바라본 IT융합 촉진전략"
+        },
+        {
+          "rank": 6,
+          "score": 0.5572556257247925,
+          "doc_id": "146",
+          "text": "미래 IT융합 신산업 육성 및 선도방안"
+        },
+        {
+          "rank": 7,
+          "score": 0.5566877722740173,
+          "doc_id": "96",
+          "text": "국방IT융합 추진방법론 및 사례 연구"
+        },
+        {
+          "rank": 8,
+          "score": 0.5482481718063354,
+          "doc_id": "211",
+          "text": "On exploring factors for enhancing export competitiveness in IT Convergence industries"
+        },
+        {
+          "rank": 9,
+          "score": 0.5425567626953125,
+          "doc_id": "61",
+          "text": "IT 융합서비스 및 활용기술의 기술속성에 관한 연구 : 산업간 융합을 중심으로"
+        },
+        {
+          "rank": 10,
+          "score": 0.5395455956459045,
+          "doc_id": "168",
+          "text": "AHP를 이용한 에너지-IT 융합기술 도출에 관한 연구"
+        }
+      ]
+    },
+    {
+      "query": "이러한 IT 융합 기술 적용 사례의 주요 효과는 무엇입니까?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 3
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.600724458694458,
+          "doc_id": "96",
+          "text": "국방IT융합 추진방법론 및 사례 연구"
+        },
+        {
+          "rank": 2,
+          "score": 0.5980604887008667,
+          "doc_id": "98",
+          "text": "국방 IT융합 비즈니스 모델 사례와 성과 분석"
+        },
+        {
+          "rank": 3,
+          "score": 0.5923945903778076,
+          "doc_id": "188",
+          "text": "정보기술(IT)의 효율화"
+        },
+        {
+          "rank": 4,
+          "score": 0.590580940246582,
+          "doc_id": "113",
+          "text": "건강운동을 위한 IT 융합기술의 접근 동향"
+        },
+        {
+          "rank": 5,
+          "score": 0.5868661403656006,
+          "doc_id": "61",
+          "text": "IT 융합서비스 및 활용기술의 기술속성에 관한 연구 : 산업간 융합을 중심으로"
+        },
+        {
+          "rank": 6,
+          "score": 0.5790316462516785,
+          "doc_id": "168",
+          "text": "AHP를 이용한 에너지-IT 융합기술 도출에 관한 연구"
+        },
+        {
+          "rank": 7,
+          "score": 0.576282262802124,
+          "doc_id": "41",
+          "text": "정보기술(IT)융합 콘텐츠가 노인의 작업수행능력에 미치는 영향"
+        },
+        {
+          "rank": 8,
+          "score": 0.5756995677947998,
+          "doc_id": "36",
+          "text": "Technological Convergence of IT and BT: Evidence from Patent Analysis"
+        },
+        {
+          "rank": 9,
+          "score": 0.5727089643478394,
+          "doc_id": "19",
+          "text": "그린산업 육성을 위한 농업분야 IT융합기술"
+        },
+        {
+          "rank": 10,
+          "score": 0.571625292301178,
+          "doc_id": "218",
+          "text": "A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

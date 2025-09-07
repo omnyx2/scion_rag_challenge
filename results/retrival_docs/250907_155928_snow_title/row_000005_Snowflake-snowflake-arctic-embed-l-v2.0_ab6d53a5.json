@@ -1,0 +1,221 @@
+{
+  "id": "row_000005",
+  "model_name": "Snowflake/snowflake-arctic-embed-l-v2.0",
+  "timestamp_kst": "2025-09-07T15:59:29.608149+09:00",
+  "trial_id": "ab6d53a5",
+  "queries": [
+    {
+      "query": "How can the main applications of machine learning methods for early diagnosis of maternal-fetal conditions and their ethical considerations be summarized?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5373988151550293,
+          "doc_id": "164",
+          "text": "Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade"
+        },
+        {
+          "rank": 2,
+          "score": 0.4614737927913666,
+          "doc_id": "97",
+          "text": "&#x201e;Machine learning“ in der An&auml;sthesiologie"
+        },
+        {
+          "rank": 3,
+          "score": 0.45421820878982544,
+          "doc_id": "15",
+          "text": "Artificial intelligence, machine learning, and deep learning in women’s health nursing"
+        },
+        {
+          "rank": 4,
+          "score": 0.44296690821647644,
+          "doc_id": "202",
+          "text": "Machine learning"
+        },
+        {
+          "rank": 5,
+          "score": 0.43518298864364624,
+          "doc_id": "75",
+          "text": "MACHINE LEARNING"
+        },
+        {
+          "rank": 6,
+          "score": 0.42437613010406494,
+          "doc_id": "225",
+          "text": "Speech Recognition using Machine Learning"
+        },
+        {
+          "rank": 7,
+          "score": 0.4240877032279968,
+          "doc_id": "221",
+          "text": "Implikationen von Machine Learning auf das Datenmanagement in Unternehmen"
+        },
+        {
+          "rank": 8,
+          "score": 0.41076648235321045,
+          "doc_id": "142",
+          "text": "Machine learning in oncology-Perspectives in patient-reported outcome research"
+        },
+        {
+          "rank": 9,
+          "score": 0.40898844599723816,
+          "doc_id": "87",
+          "text": "Big Data Analysis and Machine Learning in Intensive Care Units"
+        },
+        {
+          "rank": 10,
+          "score": 0.4058407247066498,
+          "doc_id": "43",
+          "text": "Enjeux des big data en sant&eacute;"
+        }
+      ]
+    },
+    {
+      "query": "What are the main applications of machine learning methods for the early diagnosis of maternal-fetal conditions?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5459522008895874,
+          "doc_id": "164",
+          "text": "Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade"
+        },
+        {
+          "rank": 2,
+          "score": 0.49168384075164795,
+          "doc_id": "225",
+          "text": "Speech Recognition using Machine Learning"
+        },
+        {
+          "rank": 3,
+          "score": 0.49067553877830505,
+          "doc_id": "75",
+          "text": "MACHINE LEARNING"
+        },
+        {
+          "rank": 4,
+          "score": 0.4864833354949951,
+          "doc_id": "202",
+          "text": "Machine learning"
+        },
+        {
+          "rank": 5,
+          "score": 0.4787411093711853,
+          "doc_id": "97",
+          "text": "&#x201e;Machine learning“ in der An&auml;sthesiologie"
+        },
+        {
+          "rank": 6,
+          "score": 0.46187126636505127,
+          "doc_id": "15",
+          "text": "Artificial intelligence, machine learning, and deep learning in women’s health nursing"
+        },
+        {
+          "rank": 7,
+          "score": 0.4442111849784851,
+          "doc_id": "147",
+          "text": "A Survey of Topological Machine Learning Methods"
+        },
+        {
+          "rank": 8,
+          "score": 0.425973117351532,
+          "doc_id": "63",
+          "text": "Analysis of Machine Learning Education Tool for Kids"
+        },
+        {
+          "rank": 9,
+          "score": 0.4228613078594208,
+          "doc_id": "221",
+          "text": "Implikationen von Machine Learning auf das Datenmanagement in Unternehmen"
+        },
+        {
+          "rank": 10,
+          "score": 0.4215942621231079,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence"
+        }
+      ]
+    },
+    {
+      "query": "What are the ethical considerations associated with using machine learning methods for the early diagnosis of maternal-fetal conditions?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5144486427307129,
+          "doc_id": "164",
+          "text": "Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade"
+        },
+        {
+          "rank": 2,
+          "score": 0.4846537113189697,
+          "doc_id": "99",
+          "text": "Big Data ethics"
+        },
+        {
+          "rank": 3,
+          "score": 0.47511357069015503,
+          "doc_id": "97",
+          "text": "&#x201e;Machine learning“ in der An&auml;sthesiologie"
+        },
+        {
+          "rank": 4,
+          "score": 0.4537656605243683,
+          "doc_id": "43",
+          "text": "Enjeux des big data en sant&eacute;"
+        },
+        {
+          "rank": 5,
+          "score": 0.44995230436325073,
+          "doc_id": "15",
+          "text": "Artificial intelligence, machine learning, and deep learning in women’s health nursing"
+        },
+        {
+          "rank": 6,
+          "score": 0.4370282292366028,
+          "doc_id": "221",
+          "text": "Implikationen von Machine Learning auf das Datenmanagement in Unternehmen"
+        },
+        {
+          "rank": 7,
+          "score": 0.4362223148345947,
+          "doc_id": "225",
+          "text": "Speech Recognition using Machine Learning"
+        },
+        {
+          "rank": 8,
+          "score": 0.43596214056015015,
+          "doc_id": "202",
+          "text": "Machine learning"
+        },
+        {
+          "rank": 9,
+          "score": 0.4328138828277588,
+          "doc_id": "206",
+          "text": "O&ugrave; en est t’on du Big Data en m&eacute;decine ?"
+        },
+        {
+          "rank": 10,
+          "score": 0.41788601875305176,
+          "doc_id": "75",
+          "text": "MACHINE LEARNING"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

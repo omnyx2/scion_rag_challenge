@@ -1,0 +1,291 @@
+{
+  "id": "row_000024",
+  "model_name": "Snowflake/snowflake-arctic-embed-l-v2.0",
+  "timestamp_kst": "2025-09-07T15:59:32.695152+09:00",
+  "trial_id": "1ef31843",
+  "queries": [
+    {
+      "query": "Can you outline the key deep learning and machine learning models evaluated for electricity demand prediction and their comparative performance in terms of MSE and MAPE?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5496889352798462,
+          "doc_id": "182",
+          "text": "Effective Electricity Demand Prediction via Deep Learning"
+        },
+        {
+          "rank": 2,
+          "score": 0.5257895588874817,
+          "doc_id": "155",
+          "text": "Machine Learning Versus Deep Learning Performances on the Sentiment Analysis of Product Reviews"
+        },
+        {
+          "rank": 3,
+          "score": 0.5179040431976318,
+          "doc_id": "164",
+          "text": "Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade"
+        },
+        {
+          "rank": 4,
+          "score": 0.5065443515777588,
+          "doc_id": "75",
+          "text": "MACHINE LEARNING"
+        },
+        {
+          "rank": 5,
+          "score": 0.4957459270954132,
+          "doc_id": "47",
+          "text": "Econometrics and Machine Learning"
+        },
+        {
+          "rank": 6,
+          "score": 0.490833044052124,
+          "doc_id": "9",
+          "text": "Wave data prediction with optimized machine learning and deep learning techniques"
+        },
+        {
+          "rank": 7,
+          "score": 0.4856799840927124,
+          "doc_id": "97",
+          "text": "&#x201e;Machine learning“ in der An&auml;sthesiologie"
+        },
+        {
+          "rank": 8,
+          "score": 0.47968608140945435,
+          "doc_id": "202",
+          "text": "Machine learning"
+        },
+        {
+          "rank": 9,
+          "score": 0.47850507497787476,
+          "doc_id": "64",
+          "text": "Deep Learning Research Trend Analysis using Text Mining"
+        },
+        {
+          "rank": 10,
+          "score": 0.4744706153869629,
+          "doc_id": "125",
+          "text": "An overview of deep learning techniques"
+        }
+      ]
+    },
+    {
+      "query": "What deep learning and machine learning models were evaluated for electricity demand prediction?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.596077561378479,
+          "doc_id": "182",
+          "text": "Effective Electricity Demand Prediction via Deep Learning"
+        },
+        {
+          "rank": 2,
+          "score": 0.5087128281593323,
+          "doc_id": "155",
+          "text": "Machine Learning Versus Deep Learning Performances on the Sentiment Analysis of Product Reviews"
+        },
+        {
+          "rank": 3,
+          "score": 0.49572810530662537,
+          "doc_id": "164",
+          "text": "Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade"
+        },
+        {
+          "rank": 4,
+          "score": 0.49077308177948,
+          "doc_id": "64",
+          "text": "Deep Learning Research Trend Analysis using Text Mining"
+        },
+        {
+          "rank": 5,
+          "score": 0.4878500699996948,
+          "doc_id": "225",
+          "text": "Speech Recognition using Machine Learning"
+        },
+        {
+          "rank": 6,
+          "score": 0.48742470145225525,
+          "doc_id": "104",
+          "text": "Deep learning"
+        },
+        {
+          "rank": 7,
+          "score": 0.4855501055717468,
+          "doc_id": "123",
+          "text": "딥러닝의 모형과 응용사례"
+        },
+        {
+          "rank": 8,
+          "score": 0.48431137204170227,
+          "doc_id": "125",
+          "text": "An overview of deep learning techniques"
+        },
+        {
+          "rank": 9,
+          "score": 0.4818471670150757,
+          "doc_id": "75",
+          "text": "MACHINE LEARNING"
+        },
+        {
+          "rank": 10,
+          "score": 0.4757349491119385,
+          "doc_id": "15",
+          "text": "Artificial intelligence, machine learning, and deep learning in women’s health nursing"
+        }
+      ]
+    },
+    {
+      "query": "What is the Mean Squared Error (MSE) for each of the evaluated models?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.39765647053718567,
+          "doc_id": "164",
+          "text": "Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade"
+        },
+        {
+          "rank": 2,
+          "score": 0.3874874711036682,
+          "doc_id": "153",
+          "text": "Artificial Intelligence, Language Intelligence, and Mathematics"
+        },
+        {
+          "rank": 3,
+          "score": 0.38576626777648926,
+          "doc_id": "115",
+          "text": "Scientific Machine Learning Seismology"
+        },
+        {
+          "rank": 4,
+          "score": 0.38094237446784973,
+          "doc_id": "151",
+          "text": "마음,지능,인공지능"
+        },
+        {
+          "rank": 5,
+          "score": 0.37621763348579407,
+          "doc_id": "97",
+          "text": "&#x201e;Machine learning“ in der An&auml;sthesiologie"
+        },
+        {
+          "rank": 6,
+          "score": 0.373592734336853,
+          "doc_id": "132",
+          "text": "Artificial intelligence"
+        },
+        {
+          "rank": 7,
+          "score": 0.373592734336853,
+          "doc_id": "60",
+          "text": "Artificial intelligence"
+        },
+        {
+          "rank": 8,
+          "score": 0.373592734336853,
+          "doc_id": "106",
+          "text": "Artificial intelligence"
+        },
+        {
+          "rank": 9,
+          "score": 0.3726968765258789,
+          "doc_id": "62",
+          "text": "Utilization and Analysis of Big-data"
+        },
+        {
+          "rank": 10,
+          "score": 0.3718297481536865,
+          "doc_id": "92",
+          "text": "Statistik, Data Science und Big Data"
+        }
+      ]
+    },
+    {
+      "query": "What is the Mean Absolute Percentage Error (MAPE) for each of the evaluated models?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 2
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.37496334314346313,
+          "doc_id": "164",
+          "text": "Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade"
+        },
+        {
+          "rank": 2,
+          "score": 0.36565226316452026,
+          "doc_id": "153",
+          "text": "Artificial Intelligence, Language Intelligence, and Mathematics"
+        },
+        {
+          "rank": 3,
+          "score": 0.3623208701610565,
+          "doc_id": "97",
+          "text": "&#x201e;Machine learning“ in der An&auml;sthesiologie"
+        },
+        {
+          "rank": 4,
+          "score": 0.3541930913925171,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence"
+        },
+        {
+          "rank": 5,
+          "score": 0.3507201671600342,
+          "doc_id": "62",
+          "text": "Utilization and Analysis of Big-data"
+        },
+        {
+          "rank": 6,
+          "score": 0.34956085681915283,
+          "doc_id": "132",
+          "text": "Artificial intelligence"
+        },
+        {
+          "rank": 7,
+          "score": 0.34956085681915283,
+          "doc_id": "106",
+          "text": "Artificial intelligence"
+        },
+        {
+          "rank": 8,
+          "score": 0.34956085681915283,
+          "doc_id": "60",
+          "text": "Artificial intelligence"
+        },
+        {
+          "rank": 9,
+          "score": 0.346535861492157,
+          "doc_id": "173",
+          "text": "&#x201e;Massendinghaltung“ oder &#x201e;Big Data“?"
+        },
+        {
+          "rank": 10,
+          "score": 0.3434877395629883,
+          "doc_id": "75",
+          "text": "MACHINE LEARNING"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

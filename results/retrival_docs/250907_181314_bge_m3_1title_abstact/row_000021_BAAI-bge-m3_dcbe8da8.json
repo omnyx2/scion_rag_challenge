@@ -1,0 +1,291 @@
+{
+  "id": "row_000021",
+  "model_name": "BAAI/bge-m3",
+  "timestamp_kst": "2025-09-07T18:13:17.589398+09:00",
+  "trial_id": "dcbe8da8",
+  "queries": [
+    {
+      "query": "Could you summarize how deep learning techniques are envisioned to enhance radar imaging and the main challenges and proposed network architecture discussed?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6934581995010376,
+          "doc_id": "85",
+          "text": "Deep learning for radar Motivated by the recent advances in deep learning, we lay out a vision of how deep learning techniques can be used in radar. Specifically, our discussion focuses on the use of deep learning to advance the state-of-the-art in radar imaging. While deep learning can be directly applied to automatic target recognition (ATR), the relevance of these techniques in other radar problems is not obvious. We argue that deep learning can play a central role in advancing the state-of-the-art in a wide range of radar imaging problems, discuss the challenges associated with applying these methods, and the potential advancements that are expected. We lay out an approach to design a network architecture based on the specific structure of the synthetic aperture radar (SAR) imaging problem that augments learning with traditional SAR modelling. This framework allows for capture of the non-linearity of the SAR forward model. Furthermore, we demonstrate how this process can be used to learn and compensate for trajectory based phase error for the autofocus problem."
+        },
+        {
+          "rank": 2,
+          "score": 0.5831009149551392,
+          "doc_id": "179",
+          "text": "Deep Structured Learning: Architectures and Applications Deep learning, a sub-field of machine learning changing the prospects of artificial intelligence (AI) because of its recent advancements and application in various field. Deep learning deals with algorithms inspired by the structure and function of the brain called artificial neural networks. This works reviews basic architecture and recent advancement of deep structured learning. It also describes contemporary applications of deep structured learning and its advantages over the treditional learning in artificial interlligence. This study is useful for the general readers and students who are in the early stage of deep learning studies."
+        },
+        {
+          "rank": 3,
+          "score": 0.578609049320221,
+          "doc_id": "152",
+          "text": "Deep Learning in MR Image Processing Recently, deep learning methods have shown great potential in various tasks that involve handling large amounts of digital data. In the field of MR imaging research, deep learning methods are also rapidly being applied in a wide range of areas to complement or replace traditional model-based methods. Deep learning methods have shown remarkable improvements in several MR image processing areas such as image reconstruction, image quality improvement, parameter mapping, image contrast conversion, and image segmentation. With the current rapid development of deep learning technologies, the importance of the role of deep learning in MR imaging research appears to be growing. In this article, we introduce the basic concepts of deep learning and review recent studies on various MR image processing applications."
+        },
+        {
+          "rank": 4,
+          "score": 0.5747570991516113,
+          "doc_id": "102",
+          "text": "Application of Deep Learning in Dentistry and Implantology Artificial intelligence and deep learning algorithms are infiltrating various fields of medicine and dentistry. The purpose of the current study was to review literatures applying deep learning algorithms to the dentistry and implantology. Electronic literature search through MEDLINE and IEEE Xplore library database was performed at 2019 October by combining free-text terms and entry terms associated with ‘dentistry’ and ‘deep learning’. The searched literature was screened by title/abstract level and full text level. Following data were extracted from the included studies: information of author, publication year, the aim of the study, architecture of deep learning, input data, output data, and performance of the deep learning algorithm in the study. 340 studies were retrieved from the databases and 62 studies were included in the study. Deep learning algorithms were applied to tooth localization and numbering, detection of dental caries/periodontal disease/periapical disease/oral cancerous lesion, localization of cephalometric landmarks, image quality enhancement, prediction and compensation of deformation error in additive manufacturing of prosthesis. Convolutional neural network was used for periapical radiograph, panoramic radiograph, or computed tomography in most of included studies. Deep learning algorithms are expected to help clinicians diagnose and make decisions by extracting dental data, detecting diseases and abnormal lesions, and improving image quality."
+        },
+        {
+          "rank": 5,
+          "score": 0.5707142949104309,
+          "doc_id": "121",
+          "text": "Deep Learning을 기반으로 한 Feature Extraction 알고리즘의 분석 Recently, artificial intelligence related technologies including machine learning are being applied to various fields, and the demand is also increasing. In particular, with the development of AR, VR, and MR technologies related to image processing, the utilization of computer vision based on deep learning has increased. The algorithms for object recognition and detection based on deep learning required for image processing are diversified and advanced. Accordingly, problems that were difficult to solve with the existing methodology were solved more simply and easily by using deep learning. This paper introduces various deep learning-based object recognition and extraction algorithms used to detect and recognize various objects in an image and analyzes the technologies that attract attention."
+        },
+        {
+          "rank": 6,
+          "score": 0.5602267980575562,
+          "doc_id": "42",
+          "text": "Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning In recent years, machine learning algorithms are continuously being used and expanded in various fields, such as facial recognition, signal processing, personal authentication, and stock prediction. In particular, various algorithms, such as deep learning, reinforcement learning, and Q-learning, are continuously being improved. Among these algorithms, the expansion of deep learning is rapidly changing. Nevertheless, machine learning algorithms have not yet been applied in several fields, such as personal authentication technology. This technology is an essential tool in the digital information era, walking recognition technology as promising biometrics, and technology for solving state-space problems. Therefore, algorithm technologies of deep learning, reinforcement learning, and Q-learning, which are typical machine learning algorithms in various fields, such as agricultural technology, personal authentication, wireless network, game, biometric recognition, and image recognition, are being improved and expanded in this paper."
+        },
+        {
+          "rank": 7,
+          "score": 0.55950927734375,
+          "doc_id": "125",
+          "text": "An overview of deep learning techniques ZusammenfassungDeep Learning ist der Ansatz, der die k&uuml;nstliche Intelligenz innerhalb weniger Jahre tiefgreifend ver&auml;ndert hat. Auch wenn sie durch verschiedene algorithmische Fortschritte begleitet wird, ist diese Technik vor allem aus Anwendungssicht &#x201e;disruptiv“: Sie verschiebt die Grenze automatisierbarer Aufgaben betr&auml;chtlich, ver&auml;ndert die Art der Produktentwicklung und steht praktisch jedermann zur Verf&uuml;gung. Gegenstand des Deep Learning sind neuronale Netze mit einer großen Anzahl von Schichten. Verglichen mit fr&uuml;heren Ans&auml;tzen mit idealerweise einer einzigen Schicht, erlaubt dies den Einsatz massiver Rechenhardware, um Black-Box-Modelle mit einem Minimum an Entwicklungsaufwand direkt aus Rohdaten zu trainieren. Die meisten erfolgreichen Anwendungen finden sich in der Auswertung visueller Bilder, aber auch in der Audio- und Text-Modellierung."
+        },
+        {
+          "rank": 8,
+          "score": 0.5472445487976074,
+          "doc_id": "51",
+          "text": "Deep Learning in Dentistry: A Literature Review The aim of this literature review is to investigate current application and diagnostic performance of AI in the dental field, address their limitations, and suggest possible future applications to AI in dentistry. Studies implementing deep learning in the dental field were searched, identified, and extracted from the electronic databases (PubMed, Cochrane Library, Scopus). Full-text articles describing the application of deep learning for the detection, classification, diagnosis, or clinical outcomes of dental problems as well as the study methods and deep learning architecture were included. The initial electronic search identified 1226 titles, and 115 studies were eventually included in the review.According to the evaluation criteria the studies all involved deep learning methods in dentistry (published 2016-2021), and the studies were divided into their scope of each subfield in dentistry; namely, anatomy (n=26), orthodontics (n=12), oral and maxillofacial surgery (n=29), endodontics and conservative dentistry (n=17), periodontology (n=5), implant dentistry (n=7), prosthodontics (n=3), forensic dentistry and identification (n=8), and etc. (n=8). There was a high risk of bias and applicability concerns were detected for most studies, mainly due to data selection and reference test conduct. Application of deep learning proposed in the studies exhibited wide clinical applications in the dental field. However, the evaluation criteria for the efficacy of deep learning have still not been clarified, and further verification of the reliability and applicability of the AI models is essential to implement these models to clinical practice."
+        },
+        {
+          "rank": 9,
+          "score": 0.539610743522644,
+          "doc_id": "123",
+          "text": "딥러닝의 모형과 응용사례 딥러닝은 인공신경망(neural network)이라는 인공지능분야의 모형이 발전된 형태로서, 계층구조로 이루어진 인공신경망의 내부계층(hidden layer)이 여러 단계로 이루어진 구조이다. 딥러닝에서의 주요 모형은 합성곱신경망(convolutional neural network), 순환신경망(recurrent neural network), 그리고 심층신뢰신경망(deep belief network)의 세가지라고 할 수 있다. 그 중에서 현재 흥미로운 연구가 많이 발표되어서 관심이 집중되고 있는 모형은 지도학습(supervised learning)모형인 처음 두 개의 모형이다. 따라서 본 논문에서는 지도학습모형의 가중치를 최적화하는 기본적인 방법인 오류역전파 알고리즘을 살펴본 뒤에 합성곱신경망과 순환신경망의 구조와 응용사례 등을 살펴보고자 한다. 본문에서 다루지 않은 모형인 심층신뢰신경망은 아직까지는 합성곱신경망 이나 순환신경망보다는 상대적으로 주목을 덜 받고 있다. 그러나 심층신뢰신경망은 CNN이나 RNN과는 달리 비지도학습(unsupervised learning)모형이며, 사람이나 동물은 관찰을 통해서 스스로 학습한다는 점에서 궁극적으로는 비지도학습모형이 더 많이 연구되어야 할 주제가 될 것이다."
+        },
+        {
+          "rank": 10,
+          "score": 0.5396051406860352,
+          "doc_id": "25",
+          "text": "A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis The image analysis is an important and predominant task for classifying the different parts of the image. The analysis of complex image analysis like histopathological define a crucial factor in oncology due to its ability to help pathologists for interpretation of images and therefore various feature extraction techniques have been evolved from time to time for such analysis. Although deep reinforcement learning is a new and emerging technique but very less effort has been made to compare the deep learning and deep reinforcement learning for image analysis. The paper highlights how both techniques differ in feature extraction from complex images and discusses the potential pros and cons. The use of Convolution Neural Network (CNN) in image segmentation, detection and diagnosis of tumour, feature extraction is important but there are several challenges that need to be overcome before Deep Learning can be applied to digital pathology. The one being is the availability of sufficient training examples for medical image datasets, feature extraction from whole area of the image, ground truth localized annotations, adversarial effects of input representations and extremely large size of the digital pathological slides (in gigabytes).Even though formulating Histopathological Image Analysis (HIA) as Multi Instance Learning (MIL) problem is a remarkable step where histopathological image is divided into high resolution patches to make predictions for the patch and then combining them for overall slide predictions but it suffers from loss of contextual and spatial information. In such cases the deep reinforcement learning techniques can be used to learn feature from the limited data without losing contextual and spatial information."
+        }
+      ]
+    },
+    {
+      "query": "How are deep learning techniques envisioned to enhance radar imaging?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6852244138717651,
+          "doc_id": "85",
+          "text": "Deep learning for radar Motivated by the recent advances in deep learning, we lay out a vision of how deep learning techniques can be used in radar. Specifically, our discussion focuses on the use of deep learning to advance the state-of-the-art in radar imaging. While deep learning can be directly applied to automatic target recognition (ATR), the relevance of these techniques in other radar problems is not obvious. We argue that deep learning can play a central role in advancing the state-of-the-art in a wide range of radar imaging problems, discuss the challenges associated with applying these methods, and the potential advancements that are expected. We lay out an approach to design a network architecture based on the specific structure of the synthetic aperture radar (SAR) imaging problem that augments learning with traditional SAR modelling. This framework allows for capture of the non-linearity of the SAR forward model. Furthermore, we demonstrate how this process can be used to learn and compensate for trajectory based phase error for the autofocus problem."
+        },
+        {
+          "rank": 2,
+          "score": 0.5969299674034119,
+          "doc_id": "152",
+          "text": "Deep Learning in MR Image Processing Recently, deep learning methods have shown great potential in various tasks that involve handling large amounts of digital data. In the field of MR imaging research, deep learning methods are also rapidly being applied in a wide range of areas to complement or replace traditional model-based methods. Deep learning methods have shown remarkable improvements in several MR image processing areas such as image reconstruction, image quality improvement, parameter mapping, image contrast conversion, and image segmentation. With the current rapid development of deep learning technologies, the importance of the role of deep learning in MR imaging research appears to be growing. In this article, we introduce the basic concepts of deep learning and review recent studies on various MR image processing applications."
+        },
+        {
+          "rank": 3,
+          "score": 0.595694363117218,
+          "doc_id": "102",
+          "text": "Application of Deep Learning in Dentistry and Implantology Artificial intelligence and deep learning algorithms are infiltrating various fields of medicine and dentistry. The purpose of the current study was to review literatures applying deep learning algorithms to the dentistry and implantology. Electronic literature search through MEDLINE and IEEE Xplore library database was performed at 2019 October by combining free-text terms and entry terms associated with ‘dentistry’ and ‘deep learning’. The searched literature was screened by title/abstract level and full text level. Following data were extracted from the included studies: information of author, publication year, the aim of the study, architecture of deep learning, input data, output data, and performance of the deep learning algorithm in the study. 340 studies were retrieved from the databases and 62 studies were included in the study. Deep learning algorithms were applied to tooth localization and numbering, detection of dental caries/periodontal disease/periapical disease/oral cancerous lesion, localization of cephalometric landmarks, image quality enhancement, prediction and compensation of deformation error in additive manufacturing of prosthesis. Convolutional neural network was used for periapical radiograph, panoramic radiograph, or computed tomography in most of included studies. Deep learning algorithms are expected to help clinicians diagnose and make decisions by extracting dental data, detecting diseases and abnormal lesions, and improving image quality."
+        },
+        {
+          "rank": 4,
+          "score": 0.5846901535987854,
+          "doc_id": "42",
+          "text": "Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning In recent years, machine learning algorithms are continuously being used and expanded in various fields, such as facial recognition, signal processing, personal authentication, and stock prediction. In particular, various algorithms, such as deep learning, reinforcement learning, and Q-learning, are continuously being improved. Among these algorithms, the expansion of deep learning is rapidly changing. Nevertheless, machine learning algorithms have not yet been applied in several fields, such as personal authentication technology. This technology is an essential tool in the digital information era, walking recognition technology as promising biometrics, and technology for solving state-space problems. Therefore, algorithm technologies of deep learning, reinforcement learning, and Q-learning, which are typical machine learning algorithms in various fields, such as agricultural technology, personal authentication, wireless network, game, biometric recognition, and image recognition, are being improved and expanded in this paper."
+        },
+        {
+          "rank": 5,
+          "score": 0.5842517614364624,
+          "doc_id": "121",
+          "text": "Deep Learning을 기반으로 한 Feature Extraction 알고리즘의 분석 Recently, artificial intelligence related technologies including machine learning are being applied to various fields, and the demand is also increasing. In particular, with the development of AR, VR, and MR technologies related to image processing, the utilization of computer vision based on deep learning has increased. The algorithms for object recognition and detection based on deep learning required for image processing are diversified and advanced. Accordingly, problems that were difficult to solve with the existing methodology were solved more simply and easily by using deep learning. This paper introduces various deep learning-based object recognition and extraction algorithms used to detect and recognize various objects in an image and analyzes the technologies that attract attention."
+        },
+        {
+          "rank": 6,
+          "score": 0.5622670650482178,
+          "doc_id": "179",
+          "text": "Deep Structured Learning: Architectures and Applications Deep learning, a sub-field of machine learning changing the prospects of artificial intelligence (AI) because of its recent advancements and application in various field. Deep learning deals with algorithms inspired by the structure and function of the brain called artificial neural networks. This works reviews basic architecture and recent advancement of deep structured learning. It also describes contemporary applications of deep structured learning and its advantages over the treditional learning in artificial interlligence. This study is useful for the general readers and students who are in the early stage of deep learning studies."
+        },
+        {
+          "rank": 7,
+          "score": 0.5601677894592285,
+          "doc_id": "130",
+          "text": "딥러닝을 이용한 포트홀 검출 시스템 The automotive industry is developing day by day. Among them, it is very important to prevent accidents while driving. However, despite the importance of developing automobile industry technology, accidents due to road defects increase every year, especially in the rainy season. To this end, we proposed a road defect detection system for road management by converging deep learning and raspberry pi, which show various possibilities. In this paper, we developed a system that visually displays through a map after analyzing the images captured by the Raspberry Pi and the route GPS. The deep learning model trained for this system achieved 96% accuracy. Through this system, it is expected to manage road defects efficiently at a low cost."
+        },
+        {
+          "rank": 8,
+          "score": 0.5571694374084473,
+          "doc_id": "51",
+          "text": "Deep Learning in Dentistry: A Literature Review The aim of this literature review is to investigate current application and diagnostic performance of AI in the dental field, address their limitations, and suggest possible future applications to AI in dentistry. Studies implementing deep learning in the dental field were searched, identified, and extracted from the electronic databases (PubMed, Cochrane Library, Scopus). Full-text articles describing the application of deep learning for the detection, classification, diagnosis, or clinical outcomes of dental problems as well as the study methods and deep learning architecture were included. The initial electronic search identified 1226 titles, and 115 studies were eventually included in the review.According to the evaluation criteria the studies all involved deep learning methods in dentistry (published 2016-2021), and the studies were divided into their scope of each subfield in dentistry; namely, anatomy (n=26), orthodontics (n=12), oral and maxillofacial surgery (n=29), endodontics and conservative dentistry (n=17), periodontology (n=5), implant dentistry (n=7), prosthodontics (n=3), forensic dentistry and identification (n=8), and etc. (n=8). There was a high risk of bias and applicability concerns were detected for most studies, mainly due to data selection and reference test conduct. Application of deep learning proposed in the studies exhibited wide clinical applications in the dental field. However, the evaluation criteria for the efficacy of deep learning have still not been clarified, and further verification of the reliability and applicability of the AI models is essential to implement these models to clinical practice."
+        },
+        {
+          "rank": 9,
+          "score": 0.5533310174942017,
+          "doc_id": "103",
+          "text": "Artificial Intelligence in Neuroimaging: Clinical Applications Artificial intelligence (AI) powered by deep learning (DL) has shown remarkable progress in image recognition tasks. Over the past decade, AI has proven its feasibility for applications in medical imaging. Various aspects of clinical practice in neuroimaging can be improved with the help of AI. For example, AI can aid in detecting brain metastases, predicting treatment response of brain tumors, generating a parametric map of dynamic contrast-enhanced MRI, and enhancing radiomics research by extracting salient features from input images. In addition, image quality can be improved via AI-based image reconstruction or motion artifact reduction. In this review, we summarize recent clinical applications of DL in various aspects of neuroimaging."
+        },
+        {
+          "rank": 10,
+          "score": 0.5487840175628662,
+          "doc_id": "175",
+          "text": "딥 러닝을 이용한 DC 모터 제어 딥 러닝(deep learning)은 최근에 많이 알려지게 된 심층 인공신경망 알고리즘이다. 일반적인 인공신경망보다 은닉층의 개수와 뉴런의 개수를 확장시키고, 학습이 효율적으로 될 수 있게 알고리즘을 개선한 것이 가장 큰 특징이다. 이러한 특징을 활용하여 기존의 인공신경망으로 풀지 못했던 크고 복잡한 문제들을 해결할 수 있게 되었다. 음성인식, 손 글씨 인식, 얼굴 인식 등 복잡한 패턴인식과 분류에 관련된 다양한 분야에 대한 적용 연구가 활발히 진행되고 있다. 하지만 이러한 장점에도 불구하고, 아직까지 딥 러닝이 제어문제를 해결하기 위해 적용된 사례는 찾아보기 어렵다. 본 논문에서는 간단한 사례를 통해 딥 러닝의 제어문제에 대한 적용 가능성을 확인해 본다. 딥 러닝 알고리즘 중에서 가장 잘 알려진, 깊은 믿음 네트워크(deep belief network) 알고리즘을 사용하여 산업현장에서 가장 많이 사용되고 있는 PID 제어기를 모방하는 딥 러닝 제어기를 설계한다. DC 모터를 제어하는 시스템에서 PID 제어기에 들어오는 입력과 PID 제어기에서 나오는 출력값을 학습 데이터로 사용하여 딥 러닝으로 학습하는 방법을 사용한다. 시뮬레이션을 통해 제안한 딥 러닝 제어기와 PID 제어기를 비교하여 딥 러닝 알고리즘의 성능을 검증한다."
+        }
+      ]
+    },
+    {
+      "query": "What are the main challenges discussed regarding deep learning in radar imaging?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6709815263748169,
+          "doc_id": "85",
+          "text": "Deep learning for radar Motivated by the recent advances in deep learning, we lay out a vision of how deep learning techniques can be used in radar. Specifically, our discussion focuses on the use of deep learning to advance the state-of-the-art in radar imaging. While deep learning can be directly applied to automatic target recognition (ATR), the relevance of these techniques in other radar problems is not obvious. We argue that deep learning can play a central role in advancing the state-of-the-art in a wide range of radar imaging problems, discuss the challenges associated with applying these methods, and the potential advancements that are expected. We lay out an approach to design a network architecture based on the specific structure of the synthetic aperture radar (SAR) imaging problem that augments learning with traditional SAR modelling. This framework allows for capture of the non-linearity of the SAR forward model. Furthermore, we demonstrate how this process can be used to learn and compensate for trajectory based phase error for the autofocus problem."
+        },
+        {
+          "rank": 2,
+          "score": 0.5670286417007446,
+          "doc_id": "152",
+          "text": "Deep Learning in MR Image Processing Recently, deep learning methods have shown great potential in various tasks that involve handling large amounts of digital data. In the field of MR imaging research, deep learning methods are also rapidly being applied in a wide range of areas to complement or replace traditional model-based methods. Deep learning methods have shown remarkable improvements in several MR image processing areas such as image reconstruction, image quality improvement, parameter mapping, image contrast conversion, and image segmentation. With the current rapid development of deep learning technologies, the importance of the role of deep learning in MR imaging research appears to be growing. In this article, we introduce the basic concepts of deep learning and review recent studies on various MR image processing applications."
+        },
+        {
+          "rank": 3,
+          "score": 0.5563628673553467,
+          "doc_id": "121",
+          "text": "Deep Learning을 기반으로 한 Feature Extraction 알고리즘의 분석 Recently, artificial intelligence related technologies including machine learning are being applied to various fields, and the demand is also increasing. In particular, with the development of AR, VR, and MR technologies related to image processing, the utilization of computer vision based on deep learning has increased. The algorithms for object recognition and detection based on deep learning required for image processing are diversified and advanced. Accordingly, problems that were difficult to solve with the existing methodology were solved more simply and easily by using deep learning. This paper introduces various deep learning-based object recognition and extraction algorithms used to detect and recognize various objects in an image and analyzes the technologies that attract attention."
+        },
+        {
+          "rank": 4,
+          "score": 0.5479918718338013,
+          "doc_id": "102",
+          "text": "Application of Deep Learning in Dentistry and Implantology Artificial intelligence and deep learning algorithms are infiltrating various fields of medicine and dentistry. The purpose of the current study was to review literatures applying deep learning algorithms to the dentistry and implantology. Electronic literature search through MEDLINE and IEEE Xplore library database was performed at 2019 October by combining free-text terms and entry terms associated with ‘dentistry’ and ‘deep learning’. The searched literature was screened by title/abstract level and full text level. Following data were extracted from the included studies: information of author, publication year, the aim of the study, architecture of deep learning, input data, output data, and performance of the deep learning algorithm in the study. 340 studies were retrieved from the databases and 62 studies were included in the study. Deep learning algorithms were applied to tooth localization and numbering, detection of dental caries/periodontal disease/periapical disease/oral cancerous lesion, localization of cephalometric landmarks, image quality enhancement, prediction and compensation of deformation error in additive manufacturing of prosthesis. Convolutional neural network was used for periapical radiograph, panoramic radiograph, or computed tomography in most of included studies. Deep learning algorithms are expected to help clinicians diagnose and make decisions by extracting dental data, detecting diseases and abnormal lesions, and improving image quality."
+        },
+        {
+          "rank": 5,
+          "score": 0.5472759008407593,
+          "doc_id": "74",
+          "text": "A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis The image analysis is an important and predominant task for classifying the different parts of the image. The analysis of complex image analysis like histopathological define a crucial factor in oncology due to its ability to help pathologists for interpretation of images and therefore various feature extraction techniques have been evolved from time to time for such analysis. Although deep reinforcement learning is a new and emerging technique but very less effort has been made to compare the deep learning and deep reinforcement learning for image analysis. The paper highlights how both techniques differ in feature extraction from complex images and discusses the potential pros and cons. The use of Convolution Neural Network (CNN) in image segmentation, detection and diagnosis of tumour, feature extraction is important but there are several challenges that need to be overcome before Deep Learning can be applied to digital pathology. The one being is the availability of sufficient training examples for medical image datasets, feature extraction from whole area of the image, ground truth localized annotations, adversarial effects of input representations and extremely large size of the digital pathological slides (in gigabytes).Even though formulating Histopathological Image Analysis (HIA) as Multi Instance Learning (MIL) problem is a remarkable step where histopathological image is divided into high resolution patches to make predictions for the patch and then combining them for overall slide predictions but it suffers from loss of contextual and spatial information. In such cases the deep reinforcement learning techniques can be used to learn feature from the limited data without losing contextual and spatial information."
+        },
+        {
+          "rank": 6,
+          "score": 0.5472759008407593,
+          "doc_id": "25",
+          "text": "A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis The image analysis is an important and predominant task for classifying the different parts of the image. The analysis of complex image analysis like histopathological define a crucial factor in oncology due to its ability to help pathologists for interpretation of images and therefore various feature extraction techniques have been evolved from time to time for such analysis. Although deep reinforcement learning is a new and emerging technique but very less effort has been made to compare the deep learning and deep reinforcement learning for image analysis. The paper highlights how both techniques differ in feature extraction from complex images and discusses the potential pros and cons. The use of Convolution Neural Network (CNN) in image segmentation, detection and diagnosis of tumour, feature extraction is important but there are several challenges that need to be overcome before Deep Learning can be applied to digital pathology. The one being is the availability of sufficient training examples for medical image datasets, feature extraction from whole area of the image, ground truth localized annotations, adversarial effects of input representations and extremely large size of the digital pathological slides (in gigabytes).Even though formulating Histopathological Image Analysis (HIA) as Multi Instance Learning (MIL) problem is a remarkable step where histopathological image is divided into high resolution patches to make predictions for the patch and then combining them for overall slide predictions but it suffers from loss of contextual and spatial information. In such cases the deep reinforcement learning techniques can be used to learn feature from the limited data without losing contextual and spatial information."
+        },
+        {
+          "rank": 7,
+          "score": 0.5400469303131104,
+          "doc_id": "42",
+          "text": "Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning In recent years, machine learning algorithms are continuously being used and expanded in various fields, such as facial recognition, signal processing, personal authentication, and stock prediction. In particular, various algorithms, such as deep learning, reinforcement learning, and Q-learning, are continuously being improved. Among these algorithms, the expansion of deep learning is rapidly changing. Nevertheless, machine learning algorithms have not yet been applied in several fields, such as personal authentication technology. This technology is an essential tool in the digital information era, walking recognition technology as promising biometrics, and technology for solving state-space problems. Therefore, algorithm technologies of deep learning, reinforcement learning, and Q-learning, which are typical machine learning algorithms in various fields, such as agricultural technology, personal authentication, wireless network, game, biometric recognition, and image recognition, are being improved and expanded in this paper."
+        },
+        {
+          "rank": 8,
+          "score": 0.5353311896324158,
+          "doc_id": "175",
+          "text": "딥 러닝을 이용한 DC 모터 제어 딥 러닝(deep learning)은 최근에 많이 알려지게 된 심층 인공신경망 알고리즘이다. 일반적인 인공신경망보다 은닉층의 개수와 뉴런의 개수를 확장시키고, 학습이 효율적으로 될 수 있게 알고리즘을 개선한 것이 가장 큰 특징이다. 이러한 특징을 활용하여 기존의 인공신경망으로 풀지 못했던 크고 복잡한 문제들을 해결할 수 있게 되었다. 음성인식, 손 글씨 인식, 얼굴 인식 등 복잡한 패턴인식과 분류에 관련된 다양한 분야에 대한 적용 연구가 활발히 진행되고 있다. 하지만 이러한 장점에도 불구하고, 아직까지 딥 러닝이 제어문제를 해결하기 위해 적용된 사례는 찾아보기 어렵다. 본 논문에서는 간단한 사례를 통해 딥 러닝의 제어문제에 대한 적용 가능성을 확인해 본다. 딥 러닝 알고리즘 중에서 가장 잘 알려진, 깊은 믿음 네트워크(deep belief network) 알고리즘을 사용하여 산업현장에서 가장 많이 사용되고 있는 PID 제어기를 모방하는 딥 러닝 제어기를 설계한다. DC 모터를 제어하는 시스템에서 PID 제어기에 들어오는 입력과 PID 제어기에서 나오는 출력값을 학습 데이터로 사용하여 딥 러닝으로 학습하는 방법을 사용한다. 시뮬레이션을 통해 제안한 딥 러닝 제어기와 PID 제어기를 비교하여 딥 러닝 알고리즘의 성능을 검증한다."
+        },
+        {
+          "rank": 9,
+          "score": 0.5345689654350281,
+          "doc_id": "179",
+          "text": "Deep Structured Learning: Architectures and Applications Deep learning, a sub-field of machine learning changing the prospects of artificial intelligence (AI) because of its recent advancements and application in various field. Deep learning deals with algorithms inspired by the structure and function of the brain called artificial neural networks. This works reviews basic architecture and recent advancement of deep structured learning. It also describes contemporary applications of deep structured learning and its advantages over the treditional learning in artificial interlligence. This study is useful for the general readers and students who are in the early stage of deep learning studies."
+        },
+        {
+          "rank": 10,
+          "score": 0.5256708264350891,
+          "doc_id": "51",
+          "text": "Deep Learning in Dentistry: A Literature Review The aim of this literature review is to investigate current application and diagnostic performance of AI in the dental field, address their limitations, and suggest possible future applications to AI in dentistry. Studies implementing deep learning in the dental field were searched, identified, and extracted from the electronic databases (PubMed, Cochrane Library, Scopus). Full-text articles describing the application of deep learning for the detection, classification, diagnosis, or clinical outcomes of dental problems as well as the study methods and deep learning architecture were included. The initial electronic search identified 1226 titles, and 115 studies were eventually included in the review.According to the evaluation criteria the studies all involved deep learning methods in dentistry (published 2016-2021), and the studies were divided into their scope of each subfield in dentistry; namely, anatomy (n=26), orthodontics (n=12), oral and maxillofacial surgery (n=29), endodontics and conservative dentistry (n=17), periodontology (n=5), implant dentistry (n=7), prosthodontics (n=3), forensic dentistry and identification (n=8), and etc. (n=8). There was a high risk of bias and applicability concerns were detected for most studies, mainly due to data selection and reference test conduct. Application of deep learning proposed in the studies exhibited wide clinical applications in the dental field. However, the evaluation criteria for the efficacy of deep learning have still not been clarified, and further verification of the reliability and applicability of the AI models is essential to implement these models to clinical practice."
+        }
+      ]
+    },
+    {
+      "query": "What is the proposed network architecture discussed for deep learning in radar imaging?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 2
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6669479608535767,
+          "doc_id": "85",
+          "text": "Deep learning for radar Motivated by the recent advances in deep learning, we lay out a vision of how deep learning techniques can be used in radar. Specifically, our discussion focuses on the use of deep learning to advance the state-of-the-art in radar imaging. While deep learning can be directly applied to automatic target recognition (ATR), the relevance of these techniques in other radar problems is not obvious. We argue that deep learning can play a central role in advancing the state-of-the-art in a wide range of radar imaging problems, discuss the challenges associated with applying these methods, and the potential advancements that are expected. We lay out an approach to design a network architecture based on the specific structure of the synthetic aperture radar (SAR) imaging problem that augments learning with traditional SAR modelling. This framework allows for capture of the non-linearity of the SAR forward model. Furthermore, we demonstrate how this process can be used to learn and compensate for trajectory based phase error for the autofocus problem."
+        },
+        {
+          "rank": 2,
+          "score": 0.588782548904419,
+          "doc_id": "179",
+          "text": "Deep Structured Learning: Architectures and Applications Deep learning, a sub-field of machine learning changing the prospects of artificial intelligence (AI) because of its recent advancements and application in various field. Deep learning deals with algorithms inspired by the structure and function of the brain called artificial neural networks. This works reviews basic architecture and recent advancement of deep structured learning. It also describes contemporary applications of deep structured learning and its advantages over the treditional learning in artificial interlligence. This study is useful for the general readers and students who are in the early stage of deep learning studies."
+        },
+        {
+          "rank": 3,
+          "score": 0.5803165435791016,
+          "doc_id": "102",
+          "text": "Application of Deep Learning in Dentistry and Implantology Artificial intelligence and deep learning algorithms are infiltrating various fields of medicine and dentistry. The purpose of the current study was to review literatures applying deep learning algorithms to the dentistry and implantology. Electronic literature search through MEDLINE and IEEE Xplore library database was performed at 2019 October by combining free-text terms and entry terms associated with ‘dentistry’ and ‘deep learning’. The searched literature was screened by title/abstract level and full text level. Following data were extracted from the included studies: information of author, publication year, the aim of the study, architecture of deep learning, input data, output data, and performance of the deep learning algorithm in the study. 340 studies were retrieved from the databases and 62 studies were included in the study. Deep learning algorithms were applied to tooth localization and numbering, detection of dental caries/periodontal disease/periapical disease/oral cancerous lesion, localization of cephalometric landmarks, image quality enhancement, prediction and compensation of deformation error in additive manufacturing of prosthesis. Convolutional neural network was used for periapical radiograph, panoramic radiograph, or computed tomography in most of included studies. Deep learning algorithms are expected to help clinicians diagnose and make decisions by extracting dental data, detecting diseases and abnormal lesions, and improving image quality."
+        },
+        {
+          "rank": 4,
+          "score": 0.5489168763160706,
+          "doc_id": "152",
+          "text": "Deep Learning in MR Image Processing Recently, deep learning methods have shown great potential in various tasks that involve handling large amounts of digital data. In the field of MR imaging research, deep learning methods are also rapidly being applied in a wide range of areas to complement or replace traditional model-based methods. Deep learning methods have shown remarkable improvements in several MR image processing areas such as image reconstruction, image quality improvement, parameter mapping, image contrast conversion, and image segmentation. With the current rapid development of deep learning technologies, the importance of the role of deep learning in MR imaging research appears to be growing. In this article, we introduce the basic concepts of deep learning and review recent studies on various MR image processing applications."
+        },
+        {
+          "rank": 5,
+          "score": 0.5470057725906372,
+          "doc_id": "121",
+          "text": "Deep Learning을 기반으로 한 Feature Extraction 알고리즘의 분석 Recently, artificial intelligence related technologies including machine learning are being applied to various fields, and the demand is also increasing. In particular, with the development of AR, VR, and MR technologies related to image processing, the utilization of computer vision based on deep learning has increased. The algorithms for object recognition and detection based on deep learning required for image processing are diversified and advanced. Accordingly, problems that were difficult to solve with the existing methodology were solved more simply and easily by using deep learning. This paper introduces various deep learning-based object recognition and extraction algorithms used to detect and recognize various objects in an image and analyzes the technologies that attract attention."
+        },
+        {
+          "rank": 6,
+          "score": 0.5434277653694153,
+          "doc_id": "195",
+          "text": "Deep Contour Recovery: Repairing Breaks in Detected Contours using Deep Learning We present a contour recovery framework based on a deep learning model to connect broken contours (breaks) produced by contour detection methods. The idea is that the convolutional neural network iteratively predicts vectors that can grow along the direction of the true contour from the end points of the breaks. For this prediction, we use residual connections training, which models continuous predictions from the previous inference. However, conventional residual connections training is prone to gradually accumulating errors at each inference step. In this work, we propose a ground truth selection algorithm and sub-iteration training to efficiently and reliably train a deep learning model. The ground truth selection extracts a small set of coordinates to represent an actual contour. The sub-iteration training creates the next input that is predicted by additional training of a network replicated from the main network. Our experimental results demonstrate that the ground truth selection creates a ground truth suitable for contour recovery. Moreover, our approach improves the performance of contour detection when applied to the results of existing representative contour detection methods."
+        },
+        {
+          "rank": 7,
+          "score": 0.5367004871368408,
+          "doc_id": "51",
+          "text": "Deep Learning in Dentistry: A Literature Review The aim of this literature review is to investigate current application and diagnostic performance of AI in the dental field, address their limitations, and suggest possible future applications to AI in dentistry. Studies implementing deep learning in the dental field were searched, identified, and extracted from the electronic databases (PubMed, Cochrane Library, Scopus). Full-text articles describing the application of deep learning for the detection, classification, diagnosis, or clinical outcomes of dental problems as well as the study methods and deep learning architecture were included. The initial electronic search identified 1226 titles, and 115 studies were eventually included in the review.According to the evaluation criteria the studies all involved deep learning methods in dentistry (published 2016-2021), and the studies were divided into their scope of each subfield in dentistry; namely, anatomy (n=26), orthodontics (n=12), oral and maxillofacial surgery (n=29), endodontics and conservative dentistry (n=17), periodontology (n=5), implant dentistry (n=7), prosthodontics (n=3), forensic dentistry and identification (n=8), and etc. (n=8). There was a high risk of bias and applicability concerns were detected for most studies, mainly due to data selection and reference test conduct. Application of deep learning proposed in the studies exhibited wide clinical applications in the dental field. However, the evaluation criteria for the efficacy of deep learning have still not been clarified, and further verification of the reliability and applicability of the AI models is essential to implement these models to clinical practice."
+        },
+        {
+          "rank": 8,
+          "score": 0.5364162921905518,
+          "doc_id": "123",
+          "text": "딥러닝의 모형과 응용사례 딥러닝은 인공신경망(neural network)이라는 인공지능분야의 모형이 발전된 형태로서, 계층구조로 이루어진 인공신경망의 내부계층(hidden layer)이 여러 단계로 이루어진 구조이다. 딥러닝에서의 주요 모형은 합성곱신경망(convolutional neural network), 순환신경망(recurrent neural network), 그리고 심층신뢰신경망(deep belief network)의 세가지라고 할 수 있다. 그 중에서 현재 흥미로운 연구가 많이 발표되어서 관심이 집중되고 있는 모형은 지도학습(supervised learning)모형인 처음 두 개의 모형이다. 따라서 본 논문에서는 지도학습모형의 가중치를 최적화하는 기본적인 방법인 오류역전파 알고리즘을 살펴본 뒤에 합성곱신경망과 순환신경망의 구조와 응용사례 등을 살펴보고자 한다. 본문에서 다루지 않은 모형인 심층신뢰신경망은 아직까지는 합성곱신경망 이나 순환신경망보다는 상대적으로 주목을 덜 받고 있다. 그러나 심층신뢰신경망은 CNN이나 RNN과는 달리 비지도학습(unsupervised learning)모형이며, 사람이나 동물은 관찰을 통해서 스스로 학습한다는 점에서 궁극적으로는 비지도학습모형이 더 많이 연구되어야 할 주제가 될 것이다."
+        },
+        {
+          "rank": 9,
+          "score": 0.5282425880432129,
+          "doc_id": "130",
+          "text": "딥러닝을 이용한 포트홀 검출 시스템 The automotive industry is developing day by day. Among them, it is very important to prevent accidents while driving. However, despite the importance of developing automobile industry technology, accidents due to road defects increase every year, especially in the rainy season. To this end, we proposed a road defect detection system for road management by converging deep learning and raspberry pi, which show various possibilities. In this paper, we developed a system that visually displays through a map after analyzing the images captured by the Raspberry Pi and the route GPS. The deep learning model trained for this system achieved 96% accuracy. Through this system, it is expected to manage road defects efficiently at a low cost."
+        },
+        {
+          "rank": 10,
+          "score": 0.5258818864822388,
+          "doc_id": "175",
+          "text": "딥 러닝을 이용한 DC 모터 제어 딥 러닝(deep learning)은 최근에 많이 알려지게 된 심층 인공신경망 알고리즘이다. 일반적인 인공신경망보다 은닉층의 개수와 뉴런의 개수를 확장시키고, 학습이 효율적으로 될 수 있게 알고리즘을 개선한 것이 가장 큰 특징이다. 이러한 특징을 활용하여 기존의 인공신경망으로 풀지 못했던 크고 복잡한 문제들을 해결할 수 있게 되었다. 음성인식, 손 글씨 인식, 얼굴 인식 등 복잡한 패턴인식과 분류에 관련된 다양한 분야에 대한 적용 연구가 활발히 진행되고 있다. 하지만 이러한 장점에도 불구하고, 아직까지 딥 러닝이 제어문제를 해결하기 위해 적용된 사례는 찾아보기 어렵다. 본 논문에서는 간단한 사례를 통해 딥 러닝의 제어문제에 대한 적용 가능성을 확인해 본다. 딥 러닝 알고리즘 중에서 가장 잘 알려진, 깊은 믿음 네트워크(deep belief network) 알고리즘을 사용하여 산업현장에서 가장 많이 사용되고 있는 PID 제어기를 모방하는 딥 러닝 제어기를 설계한다. DC 모터를 제어하는 시스템에서 PID 제어기에 들어오는 입력과 PID 제어기에서 나오는 출력값을 학습 데이터로 사용하여 딥 러닝으로 학습하는 방법을 사용한다. 시뮬레이션을 통해 제안한 딥 러닝 제어기와 PID 제어기를 비교하여 딥 러닝 알고리즘의 성능을 검증한다."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

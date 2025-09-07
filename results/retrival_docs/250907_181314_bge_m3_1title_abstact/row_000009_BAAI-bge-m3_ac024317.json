@@ -1,0 +1,291 @@
+{
+  "id": "row_000009",
+  "model_name": "BAAI/bge-m3",
+  "timestamp_kst": "2025-09-07T18:13:15.910051+09:00",
+  "trial_id": "ac024317",
+  "queries": [
+    {
+      "query": "구성주의 관점에서 인공지능 연구가 확장한 지능 이해의 지평과 주요 기술 동향을 어떻게 요약할 수 있나요?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6734578609466553,
+          "doc_id": "183",
+          "text": "구성적 인공지능 서양철학의 근간을 이루는 데카르트의 이성주의적 인간이해의 반성으로부터 등장한 구성주의는 지능을 포함한 인간이해의 새로운 대안이 될 수 있을 것으로 생각한다. 구성주의는 진화생물학, 진화심리학, 뇌과학, 시스템이론, 복잡계 이론의 성과뿐만 아니라 나아가 인문사회학의 경향과도 설명을 공유할 수 있는 많은 부분이 있다. 또한 인공지능 분야에서도 구성주의적 방법이라고 할 수 있는 연구가 진행되고 있다. 이 글에서는 구성주의적 관점에서 인공지능에서 다루는 지능에 대한 이해의 지평을 넓히고 이를 기반으로 한 방법론에 대한 검토와 그러한 경향에 있는 일부 인공지능 기술을 살펴보고자 한다. 이러한 논의를 통하여 여러 가지 관점의 마음에 대한 이론과 기술을 상호보완적으로 이해하고 다소 등한히 되고 있는 인공지능의 보편지능(general intelligence)의 토대로 삼고자 한다."
+        },
+        {
+          "rank": 2,
+          "score": 0.506989061832428,
+          "doc_id": "69",
+          "text": "Artificial Intelligence The field of artificial intelligence is reviewed. The work of George Stiny and myself on design and criticism is discussed briefly in terms of a paradigm of artificial intelligence research."
+        },
+        {
+          "rank": 3,
+          "score": 0.5068419575691223,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence AbstractThis paper addresses the relations between information retrieval (IR) and AI. It examines document retrieval, summarising its essential features and illustrating the state of its art by presenting one probabilistic model in detail, with some test results showing its value. The paper then analyses this model and related successful approaches, concentrating on and justifying their use of weak, redundant representation and reasoning. It goes on to other information management tasks and considers how the concepts and methods developed for retrieval may be applied to these, concluding by arguing that such ways of dealing with information may also have wider relevance to AI."
+        },
+        {
+          "rank": 4,
+          "score": 0.5045561194419861,
+          "doc_id": "106",
+          "text": "Artificial intelligence AbstractArtificial intelligence (AI) is the Science and Engineering domain concerned with the theory and practice of developing systems that exhibit the characteristics we associate with intelligence in human behavior. Starting with a brief history of artificial intelligence, this article presents a general overview of this broad interdisciplinary field, organized around the main modules of the notional architecture of an intelligent agent (knowledge representation; problem solving and planning; knowledge acquisition and learning; natural language, speech, and vision; action processing and robotics) which highlights both the main areas of artificial intelligence research, development and application, and also their integration. WIREs Comput Stat 2012, 4:168-180. doi: 10.1002/wics.200This article is categorized under: Software for Computational Statistics > Artificial Intelligence and Expert Systems"
+        },
+        {
+          "rank": 5,
+          "score": 0.5025820732116699,
+          "doc_id": "151",
+          "text": "마음,지능,인공지능 최근 여러 학문 분야에서는 논의되고 있는 인공지능(AI)의 문제는 과학적 문제임과 동시에 중요한 철학적 문제이다.본고는 컴퓨터과학자 혹은 인지과학자들이 내리고 있는 AI의 정의들을 분석함으로써 그 속에 함축되어 있는 논쟁점들을 발굴하고,관련된 논변들을 검토함 으로써 AI탐구가 지니는 의의를 명확히 해보려는 데 그 목적이 있다.AI에 대한 정의들은 AI연구가들의 관심과 목표 그리고 그 주장의 강도에 따라 여러 유형으로 분류될 수 있지만 대개가 인간지능을 어떻게 파악하고 있는지,지능과 뇌의 관계가 무엇인지,그리고 그것을 컴퓨터를 통해서 모의하고 복제한다는 것의 논리적 구조가 무엇인지에 대한 이해와 밀접한 관계가 있다.이점에서 AI연구에 있어서 관건이 되는 것은 컴퓨터 기술의 발전과 같은 경험상의 문제라기 보다는 오히려 논리나 개념분석과 같은 선험적인 문제와 밀접하게 연관되어 있다."
+        },
+        {
+          "rank": 6,
+          "score": 0.49111977219581604,
+          "doc_id": "0",
+          "text": "Logic and artificial intelligence The theoretical foundations of the logical approach to artificial intelligence are presented. Logical languages are widely used for expressing the declarative knowledge needed in artificial intelligence systems. Symbolic logic also provides a clear semantics for knowledge representation languages and a methodology for analyzing and comparing deductive inference techniques. Several observations gained from experience with the approach are discussed. Finally, we confront some challenging problems for artificial intelligence and describe what is being done in an attempt to solve them."
+        },
+        {
+          "rank": 7,
+          "score": 0.4875560402870178,
+          "doc_id": "52",
+          "text": "ARTIFICIAL INTELLIGENCE IN TRANSITION In the past fifteen years artificial intelligence has changed from being the preoccupation of a handful of scientists to a thriving enterprise that has captured the imagination of world leaders and ordinary citizens alike. While corporate and government officials organize new projects whose potential impact is widespread, to date few people have been more affected by the transition than those already in the field. The author reviews some aspects of this transition, and poses some issues for AI researchers, developers, and leaders."
+        },
+        {
+          "rank": 8,
+          "score": 0.4852634370326996,
+          "doc_id": "77",
+          "text": "Understanding the Structure of Artificial Intelligence Conscience Purpose This study aims to construct a structure for application to artificial intelligence by analyzing the characteristics of conscience that act as an element of moral behavior. It focuses on enhancing understanding of the structure of artificial intelligence conscience and providing insights for future development of conscience algorithms. Method This study examines in detail the academic concepts and structural properties of conscience. Reviewing the academic literature and the latest data, we propose the structure of artificial intelligence conscience. Results Through the phrase, we found that in order to construct the conscience of artificial intelligence, an algorithm must be constructed by considering the cognitive and emotional aspects. And in the process of constructing an artificial intelligence conscience algorithm, we confirmed that differentiated characteristics should be reflected depending on the situation and the object. Conclusion The value judgment of artificial intelligence is already being realized on universal standards. At the AGI level, in order to achieve value judgment, an algorithm that reflects conscience must be constructed to be close to human value judgment. For this, it is necessary to construct data and algorithms on the situation of value judgment and the relationship with the object."
+        },
+        {
+          "rank": 9,
+          "score": 0.4782041907310486,
+          "doc_id": "125",
+          "text": "An overview of deep learning techniques ZusammenfassungDeep Learning ist der Ansatz, der die k&uuml;nstliche Intelligenz innerhalb weniger Jahre tiefgreifend ver&auml;ndert hat. Auch wenn sie durch verschiedene algorithmische Fortschritte begleitet wird, ist diese Technik vor allem aus Anwendungssicht &#x201e;disruptiv“: Sie verschiebt die Grenze automatisierbarer Aufgaben betr&auml;chtlich, ver&auml;ndert die Art der Produktentwicklung und steht praktisch jedermann zur Verf&uuml;gung. Gegenstand des Deep Learning sind neuronale Netze mit einer großen Anzahl von Schichten. Verglichen mit fr&uuml;heren Ans&auml;tzen mit idealerweise einer einzigen Schicht, erlaubt dies den Einsatz massiver Rechenhardware, um Black-Box-Modelle mit einem Minimum an Entwicklungsaufwand direkt aus Rohdaten zu trainieren. Die meisten erfolgreichen Anwendungen finden sich in der Auswertung visueller Bilder, aber auch in der Audio- und Text-Modellierung."
+        },
+        {
+          "rank": 10,
+          "score": 0.4754714369773865,
+          "doc_id": "181",
+          "text": "초등 인공지능 교육을 위한 설명 가능한 인공지능의 교육적 의미 연구 본 연구는 문헌 연구 통해 설명 가능한 인공지능의 개념과 문제해결과정을 탐구하였다. 본 연구를 통하여 설명 가능한 인공지능의 교육적 의미와 적용 방안을 제시하였다. 설명 가능한 인공지능 교육이란 인간과 관련된 인공지능 문제를 다루는 사람 중심의 인공지능 교육으로 학생들은 문제 해결 능력을 함양할 수 있다. 그리고, 알고리즘 교육을 통해 인공지능의 원리를 이해하고 실생활 문제 상황과 관련된 인공지능 모델을 설명하며 인공지능의 활용분야까지 확장할 수 있다. 이러한 설명 가능한 인공지능 교육이 초등학교에서 적용되기 위해서는 실제 삶과 관련된 예를 사용해야 하며 알고리즘 자체가 해석력을 지닌 것을 활용하는 것이 좋다. 또한, 이해가 설명으로 나아가기 위해 다양한 교수학습방법 및 도구를 활용해야 한다. 2022년 개정 교육과정에서 인공지능 도입을 앞두고 본 연구가 실제 수업을 위한 기반으로써 의미 있게 활용되기를 바란다."
+        }
+      ]
+    },
+    {
+      "query": "구성주의 관점에서 지능은 어떻게 정의되나요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6273099184036255,
+          "doc_id": "183",
+          "text": "구성적 인공지능 서양철학의 근간을 이루는 데카르트의 이성주의적 인간이해의 반성으로부터 등장한 구성주의는 지능을 포함한 인간이해의 새로운 대안이 될 수 있을 것으로 생각한다. 구성주의는 진화생물학, 진화심리학, 뇌과학, 시스템이론, 복잡계 이론의 성과뿐만 아니라 나아가 인문사회학의 경향과도 설명을 공유할 수 있는 많은 부분이 있다. 또한 인공지능 분야에서도 구성주의적 방법이라고 할 수 있는 연구가 진행되고 있다. 이 글에서는 구성주의적 관점에서 인공지능에서 다루는 지능에 대한 이해의 지평을 넓히고 이를 기반으로 한 방법론에 대한 검토와 그러한 경향에 있는 일부 인공지능 기술을 살펴보고자 한다. 이러한 논의를 통하여 여러 가지 관점의 마음에 대한 이론과 기술을 상호보완적으로 이해하고 다소 등한히 되고 있는 인공지능의 보편지능(general intelligence)의 토대로 삼고자 한다."
+        },
+        {
+          "rank": 2,
+          "score": 0.46997368335723877,
+          "doc_id": "106",
+          "text": "Artificial intelligence AbstractArtificial intelligence (AI) is the Science and Engineering domain concerned with the theory and practice of developing systems that exhibit the characteristics we associate with intelligence in human behavior. Starting with a brief history of artificial intelligence, this article presents a general overview of this broad interdisciplinary field, organized around the main modules of the notional architecture of an intelligent agent (knowledge representation; problem solving and planning; knowledge acquisition and learning; natural language, speech, and vision; action processing and robotics) which highlights both the main areas of artificial intelligence research, development and application, and also their integration. WIREs Comput Stat 2012, 4:168-180. doi: 10.1002/wics.200This article is categorized under: Software for Computational Statistics > Artificial Intelligence and Expert Systems"
+        },
+        {
+          "rank": 3,
+          "score": 0.4657556712627411,
+          "doc_id": "77",
+          "text": "Understanding the Structure of Artificial Intelligence Conscience Purpose This study aims to construct a structure for application to artificial intelligence by analyzing the characteristics of conscience that act as an element of moral behavior. It focuses on enhancing understanding of the structure of artificial intelligence conscience and providing insights for future development of conscience algorithms. Method This study examines in detail the academic concepts and structural properties of conscience. Reviewing the academic literature and the latest data, we propose the structure of artificial intelligence conscience. Results Through the phrase, we found that in order to construct the conscience of artificial intelligence, an algorithm must be constructed by considering the cognitive and emotional aspects. And in the process of constructing an artificial intelligence conscience algorithm, we confirmed that differentiated characteristics should be reflected depending on the situation and the object. Conclusion The value judgment of artificial intelligence is already being realized on universal standards. At the AGI level, in order to achieve value judgment, an algorithm that reflects conscience must be constructed to be close to human value judgment. For this, it is necessary to construct data and algorithms on the situation of value judgment and the relationship with the object."
+        },
+        {
+          "rank": 4,
+          "score": 0.45781874656677246,
+          "doc_id": "151",
+          "text": "마음,지능,인공지능 최근 여러 학문 분야에서는 논의되고 있는 인공지능(AI)의 문제는 과학적 문제임과 동시에 중요한 철학적 문제이다.본고는 컴퓨터과학자 혹은 인지과학자들이 내리고 있는 AI의 정의들을 분석함으로써 그 속에 함축되어 있는 논쟁점들을 발굴하고,관련된 논변들을 검토함 으로써 AI탐구가 지니는 의의를 명확히 해보려는 데 그 목적이 있다.AI에 대한 정의들은 AI연구가들의 관심과 목표 그리고 그 주장의 강도에 따라 여러 유형으로 분류될 수 있지만 대개가 인간지능을 어떻게 파악하고 있는지,지능과 뇌의 관계가 무엇인지,그리고 그것을 컴퓨터를 통해서 모의하고 복제한다는 것의 논리적 구조가 무엇인지에 대한 이해와 밀접한 관계가 있다.이점에서 AI연구에 있어서 관건이 되는 것은 컴퓨터 기술의 발전과 같은 경험상의 문제라기 보다는 오히려 논리나 개념분석과 같은 선험적인 문제와 밀접하게 연관되어 있다."
+        },
+        {
+          "rank": 5,
+          "score": 0.44981256127357483,
+          "doc_id": "69",
+          "text": "Artificial Intelligence The field of artificial intelligence is reviewed. The work of George Stiny and myself on design and criticism is discussed briefly in terms of a paradigm of artificial intelligence research."
+        },
+        {
+          "rank": 6,
+          "score": 0.435300350189209,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence AbstractThis paper addresses the relations between information retrieval (IR) and AI. It examines document retrieval, summarising its essential features and illustrating the state of its art by presenting one probabilistic model in detail, with some test results showing its value. The paper then analyses this model and related successful approaches, concentrating on and justifying their use of weak, redundant representation and reasoning. It goes on to other information management tasks and considers how the concepts and methods developed for retrieval may be applied to these, concluding by arguing that such ways of dealing with information may also have wider relevance to AI."
+        },
+        {
+          "rank": 7,
+          "score": 0.4352946877479553,
+          "doc_id": "0",
+          "text": "Logic and artificial intelligence The theoretical foundations of the logical approach to artificial intelligence are presented. Logical languages are widely used for expressing the declarative knowledge needed in artificial intelligence systems. Symbolic logic also provides a clear semantics for knowledge representation languages and a methodology for analyzing and comparing deductive inference techniques. Several observations gained from experience with the approach are discussed. Finally, we confront some challenging problems for artificial intelligence and describe what is being done in an attempt to solve them."
+        },
+        {
+          "rank": 8,
+          "score": 0.43290987610816956,
+          "doc_id": "122",
+          "text": "Artificial Agential Intelligence Since artificial intelligence (AI) emerged in the mid-20th century, it has incurred many theoretical criticisms (Dreyfus, H. [1972] What Computers Can&rsquo;t Do (MIT Press, New York); Dreyfus, H. [1992] What Computers Still Can&rsquo;t Do (MIT Press, New York); Searle, J. [1980] Minds, brains and programs, Behav. Brain Sci.3, 417-457; Searle, J. [1984] Minds, Brains and Sciences (Harvard University Press, Cambridge, MA); Searle, J. [1992] The Rediscovery of the Mind (MIT Press, Cambridge, MA); Fodor, J. [2002] The Mind Doesn&rsquo;t Work that Way: The Scope and Limits of Computational Psychology (MIT Press, Cambridge, MA).). The technical improvements of machine learning and deep learning, though, have been continuing and many breakthroughs have occurred recently. This makes theoretical considerations urgent again: can this new wave of AI fare better than its precursors in emulating or even having human-like minds? I propose a cautious yet positive hypothesis: current AI might create human-like mind, but only if it incorporates certain conceptual rewiring: it needs to shift from a task-based to an agent-based framework, which can be dubbed &ldquo;Artificial Agential Intelligence&rdquo; (AAI). It comprises practical reason (McDowell, J. [1979] Virtue and reason, Monist62(3), 331-350; McDowell, J. [1996] Mind and World (Harvard University Press, Cambridge, MA)), imaginative understanding (Campbell, J. [2020] Causation in Psychology (Harvard University Press, Cambridge, MA)), and animal knowledge (Sosa, E. [2007] A Virtue Epistemology: Apt Belief and Reflective Knowledge, volume 1 (Oxford University Press, Oxford, UK); Sosa, E. [2015] Judgment and Agency (Oxford University Press, Cambridge, MA)). Moreover, I will explore whether and in what way neuroscience-inspired AI and predictive coding (Hassabis, D., Kumaran, D., Summerfield, C., &amp; Botvinick, M. [2017] Neuroscience-inspired artificial intelligence, Neuron95(2), 245-258) can help carry out this project."
+        },
+        {
+          "rank": 9,
+          "score": 0.4292016625404358,
+          "doc_id": "93",
+          "text": "Artificial intelligence and robotics Since Robotics is the field concerned with the connection of perception to action, Artificial Intelligence must have a central role in Robotics if the connection is to be intelligent. Artificial Intelligence addresses the crucial questions of: what knowledge is required in any aspect of thinking; how should that knowledge be represented; and how should that knowledge be used. Robotics challenges AI by forcing it to deal with real objects in the real world. Techniques and representations developed for purely cognitive problems, often in toy domains, do not necessarily extend to meet the challenge. Robots combine mechanical effectors, sensors, and computers. AI has made significant contributions to each component. We review AI contributions to perception and reasoning about physical objects. Such reasoning concerns space, path-planning, uncertainty, and compliance. We conclude with three examples that illustrate the kinds of reasoning or problem-solving abilities we would like to endow robots with and that we believe are worthy goals of both Robotics and Artificial Intelligence, being within reach of both."
+        },
+        {
+          "rank": 10,
+          "score": 0.4223836064338684,
+          "doc_id": "45",
+          "text": "Measuring Intelligence in Natural and Artificial Systems A systematic understanding of the relationship between intelligence and consciousness can only be achieved when we can accurately measure intelligence and consciousness. In other work, I have suggested how the measurement of consciousness can be improved by reframing the science of consciousness as a search for mathematical theories that map between physical and conscious states. This paper discusses the measurement of intelligence in natural and artificial systems. While reasonable methods exist for measuring intelligence in humans, these can only be partly generalized to non-human animals and they cannot be applied to artificial systems. Some universal measures of intelligence have been developed, but their dependence on goals and rewards creates serious problems. This paper sets out a new universal algorithm for measuring intelligence that is based on a system&rsquo;s ability to make accurate predictions. This algorithm can measure intelligence in humans, non-human animals and artificial systems. Preliminary experiments have demonstrated that it can measure the changing intelligence of an agent in a maze environment. This new measure of intelligence could lead to a much better understanding of the relationship between intelligence and consciousness in natural and artificial systems, and it has many practical applications, particularly in AI safety."
+        }
+      ]
+    },
+    {
+      "query": "인공지능 연구는 구성주의적 관점에서 지능 이해의 지평을 어떻게 확장했나요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6506734490394592,
+          "doc_id": "183",
+          "text": "구성적 인공지능 서양철학의 근간을 이루는 데카르트의 이성주의적 인간이해의 반성으로부터 등장한 구성주의는 지능을 포함한 인간이해의 새로운 대안이 될 수 있을 것으로 생각한다. 구성주의는 진화생물학, 진화심리학, 뇌과학, 시스템이론, 복잡계 이론의 성과뿐만 아니라 나아가 인문사회학의 경향과도 설명을 공유할 수 있는 많은 부분이 있다. 또한 인공지능 분야에서도 구성주의적 방법이라고 할 수 있는 연구가 진행되고 있다. 이 글에서는 구성주의적 관점에서 인공지능에서 다루는 지능에 대한 이해의 지평을 넓히고 이를 기반으로 한 방법론에 대한 검토와 그러한 경향에 있는 일부 인공지능 기술을 살펴보고자 한다. 이러한 논의를 통하여 여러 가지 관점의 마음에 대한 이론과 기술을 상호보완적으로 이해하고 다소 등한히 되고 있는 인공지능의 보편지능(general intelligence)의 토대로 삼고자 한다."
+        },
+        {
+          "rank": 2,
+          "score": 0.5204164981842041,
+          "doc_id": "151",
+          "text": "마음,지능,인공지능 최근 여러 학문 분야에서는 논의되고 있는 인공지능(AI)의 문제는 과학적 문제임과 동시에 중요한 철학적 문제이다.본고는 컴퓨터과학자 혹은 인지과학자들이 내리고 있는 AI의 정의들을 분석함으로써 그 속에 함축되어 있는 논쟁점들을 발굴하고,관련된 논변들을 검토함 으로써 AI탐구가 지니는 의의를 명확히 해보려는 데 그 목적이 있다.AI에 대한 정의들은 AI연구가들의 관심과 목표 그리고 그 주장의 강도에 따라 여러 유형으로 분류될 수 있지만 대개가 인간지능을 어떻게 파악하고 있는지,지능과 뇌의 관계가 무엇인지,그리고 그것을 컴퓨터를 통해서 모의하고 복제한다는 것의 논리적 구조가 무엇인지에 대한 이해와 밀접한 관계가 있다.이점에서 AI연구에 있어서 관건이 되는 것은 컴퓨터 기술의 발전과 같은 경험상의 문제라기 보다는 오히려 논리나 개념분석과 같은 선험적인 문제와 밀접하게 연관되어 있다."
+        },
+        {
+          "rank": 3,
+          "score": 0.5087815523147583,
+          "doc_id": "122",
+          "text": "Artificial Agential Intelligence Since artificial intelligence (AI) emerged in the mid-20th century, it has incurred many theoretical criticisms (Dreyfus, H. [1972] What Computers Can&rsquo;t Do (MIT Press, New York); Dreyfus, H. [1992] What Computers Still Can&rsquo;t Do (MIT Press, New York); Searle, J. [1980] Minds, brains and programs, Behav. Brain Sci.3, 417-457; Searle, J. [1984] Minds, Brains and Sciences (Harvard University Press, Cambridge, MA); Searle, J. [1992] The Rediscovery of the Mind (MIT Press, Cambridge, MA); Fodor, J. [2002] The Mind Doesn&rsquo;t Work that Way: The Scope and Limits of Computational Psychology (MIT Press, Cambridge, MA).). The technical improvements of machine learning and deep learning, though, have been continuing and many breakthroughs have occurred recently. This makes theoretical considerations urgent again: can this new wave of AI fare better than its precursors in emulating or even having human-like minds? I propose a cautious yet positive hypothesis: current AI might create human-like mind, but only if it incorporates certain conceptual rewiring: it needs to shift from a task-based to an agent-based framework, which can be dubbed &ldquo;Artificial Agential Intelligence&rdquo; (AAI). It comprises practical reason (McDowell, J. [1979] Virtue and reason, Monist62(3), 331-350; McDowell, J. [1996] Mind and World (Harvard University Press, Cambridge, MA)), imaginative understanding (Campbell, J. [2020] Causation in Psychology (Harvard University Press, Cambridge, MA)), and animal knowledge (Sosa, E. [2007] A Virtue Epistemology: Apt Belief and Reflective Knowledge, volume 1 (Oxford University Press, Oxford, UK); Sosa, E. [2015] Judgment and Agency (Oxford University Press, Cambridge, MA)). Moreover, I will explore whether and in what way neuroscience-inspired AI and predictive coding (Hassabis, D., Kumaran, D., Summerfield, C., &amp; Botvinick, M. [2017] Neuroscience-inspired artificial intelligence, Neuron95(2), 245-258) can help carry out this project."
+        },
+        {
+          "rank": 4,
+          "score": 0.5038818120956421,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence AbstractThis paper addresses the relations between information retrieval (IR) and AI. It examines document retrieval, summarising its essential features and illustrating the state of its art by presenting one probabilistic model in detail, with some test results showing its value. The paper then analyses this model and related successful approaches, concentrating on and justifying their use of weak, redundant representation and reasoning. It goes on to other information management tasks and considers how the concepts and methods developed for retrieval may be applied to these, concluding by arguing that such ways of dealing with information may also have wider relevance to AI."
+        },
+        {
+          "rank": 5,
+          "score": 0.49940788745880127,
+          "doc_id": "77",
+          "text": "Understanding the Structure of Artificial Intelligence Conscience Purpose This study aims to construct a structure for application to artificial intelligence by analyzing the characteristics of conscience that act as an element of moral behavior. It focuses on enhancing understanding of the structure of artificial intelligence conscience and providing insights for future development of conscience algorithms. Method This study examines in detail the academic concepts and structural properties of conscience. Reviewing the academic literature and the latest data, we propose the structure of artificial intelligence conscience. Results Through the phrase, we found that in order to construct the conscience of artificial intelligence, an algorithm must be constructed by considering the cognitive and emotional aspects. And in the process of constructing an artificial intelligence conscience algorithm, we confirmed that differentiated characteristics should be reflected depending on the situation and the object. Conclusion The value judgment of artificial intelligence is already being realized on universal standards. At the AGI level, in order to achieve value judgment, an algorithm that reflects conscience must be constructed to be close to human value judgment. For this, it is necessary to construct data and algorithms on the situation of value judgment and the relationship with the object."
+        },
+        {
+          "rank": 6,
+          "score": 0.4941887855529785,
+          "doc_id": "69",
+          "text": "Artificial Intelligence The field of artificial intelligence is reviewed. The work of George Stiny and myself on design and criticism is discussed briefly in terms of a paradigm of artificial intelligence research."
+        },
+        {
+          "rank": 7,
+          "score": 0.48970937728881836,
+          "doc_id": "106",
+          "text": "Artificial intelligence AbstractArtificial intelligence (AI) is the Science and Engineering domain concerned with the theory and practice of developing systems that exhibit the characteristics we associate with intelligence in human behavior. Starting with a brief history of artificial intelligence, this article presents a general overview of this broad interdisciplinary field, organized around the main modules of the notional architecture of an intelligent agent (knowledge representation; problem solving and planning; knowledge acquisition and learning; natural language, speech, and vision; action processing and robotics) which highlights both the main areas of artificial intelligence research, development and application, and also their integration. WIREs Comput Stat 2012, 4:168-180. doi: 10.1002/wics.200This article is categorized under: Software for Computational Statistics > Artificial Intelligence and Expert Systems"
+        },
+        {
+          "rank": 8,
+          "score": 0.48915642499923706,
+          "doc_id": "181",
+          "text": "초등 인공지능 교육을 위한 설명 가능한 인공지능의 교육적 의미 연구 본 연구는 문헌 연구 통해 설명 가능한 인공지능의 개념과 문제해결과정을 탐구하였다. 본 연구를 통하여 설명 가능한 인공지능의 교육적 의미와 적용 방안을 제시하였다. 설명 가능한 인공지능 교육이란 인간과 관련된 인공지능 문제를 다루는 사람 중심의 인공지능 교육으로 학생들은 문제 해결 능력을 함양할 수 있다. 그리고, 알고리즘 교육을 통해 인공지능의 원리를 이해하고 실생활 문제 상황과 관련된 인공지능 모델을 설명하며 인공지능의 활용분야까지 확장할 수 있다. 이러한 설명 가능한 인공지능 교육이 초등학교에서 적용되기 위해서는 실제 삶과 관련된 예를 사용해야 하며 알고리즘 자체가 해석력을 지닌 것을 활용하는 것이 좋다. 또한, 이해가 설명으로 나아가기 위해 다양한 교수학습방법 및 도구를 활용해야 한다. 2022년 개정 교육과정에서 인공지능 도입을 앞두고 본 연구가 실제 수업을 위한 기반으로써 의미 있게 활용되기를 바란다."
+        },
+        {
+          "rank": 9,
+          "score": 0.4882785677909851,
+          "doc_id": "219",
+          "text": "인공지능(Artificial Intelligence)과 대학수학교육 첨단 정보통신기술(ICT)인 인공지능(AI), 사물인터넷(IoT), 빅데이터(Big Data) 등이 사회와 경제 전반에 융합돼 혁신적인 변화가 일어나는 요즘, 헬스케어, 지능형 로봇, 가정용 인공지능 시스템(스마트홈), 공유자동차 등은 이미 우리 생활에 깊이 영향을 미치고 있다. 이미 오래전부터 공장에서는 로봇이 사람 대신 일을 하고 있으며(FA, OA), 인공지능 의사도 병원에서 활동을 하고 있고(Dr. Watson), 인공지능 스피커(기가지니)와 인공지능 비서인 구글 어시스턴트가 자연어생성을 하며 우리를 돕고 있다. 이제 인공지능을 이해하는 것은 필수가 되었으며, 인공지능을 이해하기 위해서 수학의 지식은 선택이 아니라 필수가 되었다. 따라서 이런 일들을 가능하게 해주는 수학지식을 설명하는 역할이 수학자들에게 주어졌다. 이에 본 연구진은 인공지능과 머신러닝(Machine Learning, 기계학습)을 이해하기 위해 필요한 수학 개념을 우리의 실정에 맞게 한 학기(또는 두 학기) 분량으로 정리하여, 무료 전자교과서 '인공지능을 위한 기초수학'을 집필하고, 인공지능 분야에 관심이 있는 다양한 전공의 대학생과 대학원생을 대상으로 하는 강좌를 개설하였다. 본 논문에서는 그 개발과정과 운영사례를 공유한다. http://matrix.skku.ac.kr/math4ai/"
+        },
+        {
+          "rank": 10,
+          "score": 0.48563629388809204,
+          "doc_id": "0",
+          "text": "Logic and artificial intelligence The theoretical foundations of the logical approach to artificial intelligence are presented. Logical languages are widely used for expressing the declarative knowledge needed in artificial intelligence systems. Symbolic logic also provides a clear semantics for knowledge representation languages and a methodology for analyzing and comparing deductive inference techniques. Several observations gained from experience with the approach are discussed. Finally, we confront some challenging problems for artificial intelligence and describe what is being done in an attempt to solve them."
+        }
+      ]
+    },
+    {
+      "query": "구성주의적 지능 이해와 관련된 인공지능 연구의 주요 기술 동향은 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 2
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.658745527267456,
+          "doc_id": "183",
+          "text": "구성적 인공지능 서양철학의 근간을 이루는 데카르트의 이성주의적 인간이해의 반성으로부터 등장한 구성주의는 지능을 포함한 인간이해의 새로운 대안이 될 수 있을 것으로 생각한다. 구성주의는 진화생물학, 진화심리학, 뇌과학, 시스템이론, 복잡계 이론의 성과뿐만 아니라 나아가 인문사회학의 경향과도 설명을 공유할 수 있는 많은 부분이 있다. 또한 인공지능 분야에서도 구성주의적 방법이라고 할 수 있는 연구가 진행되고 있다. 이 글에서는 구성주의적 관점에서 인공지능에서 다루는 지능에 대한 이해의 지평을 넓히고 이를 기반으로 한 방법론에 대한 검토와 그러한 경향에 있는 일부 인공지능 기술을 살펴보고자 한다. 이러한 논의를 통하여 여러 가지 관점의 마음에 대한 이론과 기술을 상호보완적으로 이해하고 다소 등한히 되고 있는 인공지능의 보편지능(general intelligence)의 토대로 삼고자 한다."
+        },
+        {
+          "rank": 2,
+          "score": 0.5340898633003235,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence AbstractThis paper addresses the relations between information retrieval (IR) and AI. It examines document retrieval, summarising its essential features and illustrating the state of its art by presenting one probabilistic model in detail, with some test results showing its value. The paper then analyses this model and related successful approaches, concentrating on and justifying their use of weak, redundant representation and reasoning. It goes on to other information management tasks and considers how the concepts and methods developed for retrieval may be applied to these, concluding by arguing that such ways of dealing with information may also have wider relevance to AI."
+        },
+        {
+          "rank": 3,
+          "score": 0.5039798021316528,
+          "doc_id": "0",
+          "text": "Logic and artificial intelligence The theoretical foundations of the logical approach to artificial intelligence are presented. Logical languages are widely used for expressing the declarative knowledge needed in artificial intelligence systems. Symbolic logic also provides a clear semantics for knowledge representation languages and a methodology for analyzing and comparing deductive inference techniques. Several observations gained from experience with the approach are discussed. Finally, we confront some challenging problems for artificial intelligence and describe what is being done in an attempt to solve them."
+        },
+        {
+          "rank": 4,
+          "score": 0.5009056329727173,
+          "doc_id": "49",
+          "text": "Artificial Intelligence for the Fourth Industrial Revolution Artificial intelligence is one of the key technologies of the Fourth Industrial Revolution. This paper introduces the diverse kinds of approaches to subjects that tackle diverse kinds of research fields such as model-based MS approach, deep neural network model, image edge detection approach, cross-layer optimization model, LSSVM approach, screen design approach, CPU-GPU hybrid approach and so on. The research on Superintelligence and superconnection for IoT and big data is also described such as 'superintelligence-based systems and infrastructures', 'superconnection-based IoT and big data systems', 'analysis of IoT-based data and big data', 'infrastructure design for IoT and big data', 'artificial intelligence applications', and 'superconnection-based IoT devices'."
+        },
+        {
+          "rank": 5,
+          "score": 0.5007709264755249,
+          "doc_id": "151",
+          "text": "마음,지능,인공지능 최근 여러 학문 분야에서는 논의되고 있는 인공지능(AI)의 문제는 과학적 문제임과 동시에 중요한 철학적 문제이다.본고는 컴퓨터과학자 혹은 인지과학자들이 내리고 있는 AI의 정의들을 분석함으로써 그 속에 함축되어 있는 논쟁점들을 발굴하고,관련된 논변들을 검토함 으로써 AI탐구가 지니는 의의를 명확히 해보려는 데 그 목적이 있다.AI에 대한 정의들은 AI연구가들의 관심과 목표 그리고 그 주장의 강도에 따라 여러 유형으로 분류될 수 있지만 대개가 인간지능을 어떻게 파악하고 있는지,지능과 뇌의 관계가 무엇인지,그리고 그것을 컴퓨터를 통해서 모의하고 복제한다는 것의 논리적 구조가 무엇인지에 대한 이해와 밀접한 관계가 있다.이점에서 AI연구에 있어서 관건이 되는 것은 컴퓨터 기술의 발전과 같은 경험상의 문제라기 보다는 오히려 논리나 개념분석과 같은 선험적인 문제와 밀접하게 연관되어 있다."
+        },
+        {
+          "rank": 6,
+          "score": 0.49348610639572144,
+          "doc_id": "106",
+          "text": "Artificial intelligence AbstractArtificial intelligence (AI) is the Science and Engineering domain concerned with the theory and practice of developing systems that exhibit the characteristics we associate with intelligence in human behavior. Starting with a brief history of artificial intelligence, this article presents a general overview of this broad interdisciplinary field, organized around the main modules of the notional architecture of an intelligent agent (knowledge representation; problem solving and planning; knowledge acquisition and learning; natural language, speech, and vision; action processing and robotics) which highlights both the main areas of artificial intelligence research, development and application, and also their integration. WIREs Comput Stat 2012, 4:168-180. doi: 10.1002/wics.200This article is categorized under: Software for Computational Statistics > Artificial Intelligence and Expert Systems"
+        },
+        {
+          "rank": 7,
+          "score": 0.49260202050209045,
+          "doc_id": "209",
+          "text": "ARTIFICIAL INTELLIGENCE This article reports on Fujitsu's Artificial Intelligence (AI) research and development activities. Starting with research on a machine translation system around 1978, Fujitsu has introduced several AI-related products, including machine translation systems, expert system shells, and AI machines. Numerous different expert systems are now being implemented both by Fujitsu and its users. Long-range AI research activities are now under way at Fujitsu. Fujitsu is also participating in several projects, including the Fifth Generation Computer Systems project (FGCS project) being promoted by the Institute for New Generation Computer Technology (ICOT).(Author abstract)"
+        },
+        {
+          "rank": 8,
+          "score": 0.4898204505443573,
+          "doc_id": "77",
+          "text": "Understanding the Structure of Artificial Intelligence Conscience Purpose This study aims to construct a structure for application to artificial intelligence by analyzing the characteristics of conscience that act as an element of moral behavior. It focuses on enhancing understanding of the structure of artificial intelligence conscience and providing insights for future development of conscience algorithms. Method This study examines in detail the academic concepts and structural properties of conscience. Reviewing the academic literature and the latest data, we propose the structure of artificial intelligence conscience. Results Through the phrase, we found that in order to construct the conscience of artificial intelligence, an algorithm must be constructed by considering the cognitive and emotional aspects. And in the process of constructing an artificial intelligence conscience algorithm, we confirmed that differentiated characteristics should be reflected depending on the situation and the object. Conclusion The value judgment of artificial intelligence is already being realized on universal standards. At the AGI level, in order to achieve value judgment, an algorithm that reflects conscience must be constructed to be close to human value judgment. For this, it is necessary to construct data and algorithms on the situation of value judgment and the relationship with the object."
+        },
+        {
+          "rank": 9,
+          "score": 0.48201435804367065,
+          "doc_id": "122",
+          "text": "Artificial Agential Intelligence Since artificial intelligence (AI) emerged in the mid-20th century, it has incurred many theoretical criticisms (Dreyfus, H. [1972] What Computers Can&rsquo;t Do (MIT Press, New York); Dreyfus, H. [1992] What Computers Still Can&rsquo;t Do (MIT Press, New York); Searle, J. [1980] Minds, brains and programs, Behav. Brain Sci.3, 417-457; Searle, J. [1984] Minds, Brains and Sciences (Harvard University Press, Cambridge, MA); Searle, J. [1992] The Rediscovery of the Mind (MIT Press, Cambridge, MA); Fodor, J. [2002] The Mind Doesn&rsquo;t Work that Way: The Scope and Limits of Computational Psychology (MIT Press, Cambridge, MA).). The technical improvements of machine learning and deep learning, though, have been continuing and many breakthroughs have occurred recently. This makes theoretical considerations urgent again: can this new wave of AI fare better than its precursors in emulating or even having human-like minds? I propose a cautious yet positive hypothesis: current AI might create human-like mind, but only if it incorporates certain conceptual rewiring: it needs to shift from a task-based to an agent-based framework, which can be dubbed &ldquo;Artificial Agential Intelligence&rdquo; (AAI). It comprises practical reason (McDowell, J. [1979] Virtue and reason, Monist62(3), 331-350; McDowell, J. [1996] Mind and World (Harvard University Press, Cambridge, MA)), imaginative understanding (Campbell, J. [2020] Causation in Psychology (Harvard University Press, Cambridge, MA)), and animal knowledge (Sosa, E. [2007] A Virtue Epistemology: Apt Belief and Reflective Knowledge, volume 1 (Oxford University Press, Oxford, UK); Sosa, E. [2015] Judgment and Agency (Oxford University Press, Cambridge, MA)). Moreover, I will explore whether and in what way neuroscience-inspired AI and predictive coding (Hassabis, D., Kumaran, D., Summerfield, C., &amp; Botvinick, M. [2017] Neuroscience-inspired artificial intelligence, Neuron95(2), 245-258) can help carry out this project."
+        },
+        {
+          "rank": 10,
+          "score": 0.4805485010147095,
+          "doc_id": "157",
+          "text": "Engineering artificial intelligence Current Artificial Intelligence can be used to good effect in engineering systems for emulating some high-level mental functions of humans but is not suitable for coping with many other difficult tasks, especially those involving combined perception and cognition. Neural-net computing on the other hand seems to be better suited to meeting the demands of those types of tasks. These matters are discussed in this paper and it is suggested that the type of Artificial Intelligence appropriate for use in an engineering system will be an evolved one combining the strengths of symbolic processing and neural-net computing."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "id": "row_000036",
+  "model_name": "Snowflake/snowflake-arctic-embed-l-v2.0",
+  "timestamp_kst": "2025-09-07T15:59:34.523914+09:00",
+  "trial_id": "7b0e2b42",
+  "queries": [
+    {
+      "query": "한국 IT융합 신산업 역량강화요인과 이를 도출하기 위한 연구 결과를 간결하게 요약해 주시겠습니까?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6406842470169067,
+          "doc_id": "150",
+          "text": "한국 IT융합 신산업 역량강화요인"
+        },
+        {
+          "rank": 2,
+          "score": 0.5360052585601807,
+          "doc_id": "146",
+          "text": "미래 IT융합 신산업 육성 및 선도방안"
+        },
+        {
+          "rank": 3,
+          "score": 0.4807915687561035,
+          "doc_id": "197",
+          "text": "산업생태계 관점에서 바라본 IT융합 촉진전략"
+        },
+        {
+          "rank": 4,
+          "score": 0.47210824489593506,
+          "doc_id": "61",
+          "text": "IT 융합서비스 및 활용기술의 기술속성에 관한 연구 : 산업간 융합을 중심으로"
+        },
+        {
+          "rank": 5,
+          "score": 0.464596688747406,
+          "doc_id": "198",
+          "text": "국내 중소기업의 기술융합 전략 및 성장 정책: IT & BT 융합기술 기반 네트워크 분석"
+        },
+        {
+          "rank": 6,
+          "score": 0.46438825130462646,
+          "doc_id": "96",
+          "text": "국방IT융합 추진방법론 및 사례 연구"
+        },
+        {
+          "rank": 7,
+          "score": 0.4575730860233307,
+          "doc_id": "145",
+          "text": "IT기업 관점에서의 국방IT융합 추진방향"
+        },
+        {
+          "rank": 8,
+          "score": 0.4553690552711487,
+          "doc_id": "98",
+          "text": "국방 IT융합 비즈니스 모델 사례와 성과 분석"
+        },
+        {
+          "rank": 9,
+          "score": 0.45027023553848267,
+          "doc_id": "94",
+          "text": "The Trends of IT Convergence in Korea"
+        },
+        {
+          "rank": 10,
+          "score": 0.44772693514823914,
+          "doc_id": "211",
+          "text": "On exploring factors for enhancing export competitiveness in IT Convergence industries"
+        }
+      ]
+    },
+    {
+      "query": "한국 IT융합 신산업의 역량강화요인은 무엇입니까?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6067727208137512,
+          "doc_id": "150",
+          "text": "한국 IT융합 신산업 역량강화요인"
+        },
+        {
+          "rank": 2,
+          "score": 0.460518479347229,
+          "doc_id": "146",
+          "text": "미래 IT융합 신산업 육성 및 선도방안"
+        },
+        {
+          "rank": 3,
+          "score": 0.4307980537414551,
+          "doc_id": "197",
+          "text": "산업생태계 관점에서 바라본 IT융합 촉진전략"
+        },
+        {
+          "rank": 4,
+          "score": 0.4185841381549835,
+          "doc_id": "145",
+          "text": "IT기업 관점에서의 국방IT융합 추진방향"
+        },
+        {
+          "rank": 5,
+          "score": 0.4077942967414856,
+          "doc_id": "96",
+          "text": "국방IT융합 추진방법론 및 사례 연구"
+        },
+        {
+          "rank": 6,
+          "score": 0.4043664038181305,
+          "doc_id": "211",
+          "text": "On exploring factors for enhancing export competitiveness in IT Convergence industries"
+        },
+        {
+          "rank": 7,
+          "score": 0.40242692828178406,
+          "doc_id": "94",
+          "text": "The Trends of IT Convergence in Korea"
+        },
+        {
+          "rank": 8,
+          "score": 0.40236523747444153,
+          "doc_id": "61",
+          "text": "IT 융합서비스 및 활용기술의 기술속성에 관한 연구 : 산업간 융합을 중심으로"
+        },
+        {
+          "rank": 9,
+          "score": 0.4021483361721039,
+          "doc_id": "98",
+          "text": "국방 IT융합 비즈니스 모델 사례와 성과 분석"
+        },
+        {
+          "rank": 10,
+          "score": 0.3913109600543976,
+          "doc_id": "198",
+          "text": "국내 중소기업의 기술융합 전략 및 성장 정책: IT & BT 융합기술 기반 네트워크 분석"
+        }
+      ]
+    },
+    {
+      "query": "이러한 역량강화요인을 도출하기 위한 연구 결과는 무엇입니까?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.3979814350605011,
+          "doc_id": "150",
+          "text": "한국 IT융합 신산업 역량강화요인"
+        },
+        {
+          "rank": 2,
+          "score": 0.384886234998703,
+          "doc_id": "62",
+          "text": "Utilization and Analysis of Big-data"
+        },
+        {
+          "rank": 3,
+          "score": 0.3756154477596283,
+          "doc_id": "223",
+          "text": "학습전략과 심층학습"
+        },
+        {
+          "rank": 4,
+          "score": 0.3656191825866699,
+          "doc_id": "64",
+          "text": "Deep Learning Research Trend Analysis using Text Mining"
+        },
+        {
+          "rank": 5,
+          "score": 0.3523467183113098,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence"
+        },
+        {
+          "rank": 6,
+          "score": 0.35087496042251587,
+          "doc_id": "164",
+          "text": "Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade"
+        },
+        {
+          "rank": 7,
+          "score": 0.3479422926902771,
+          "doc_id": "96",
+          "text": "국방IT융합 추진방법론 및 사례 연구"
+        },
+        {
+          "rank": 8,
+          "score": 0.3440794348716736,
+          "doc_id": "43",
+          "text": "Enjeux des big data en sant&eacute;"
+        },
+        {
+          "rank": 9,
+          "score": 0.34299516677856445,
+          "doc_id": "181",
+          "text": "초등 인공지능 교육을 위한 설명 가능한 인공지능의 교육적 의미 연구"
+        },
+        {
+          "rank": 10,
+          "score": 0.3277948498725891,
+          "doc_id": "137",
+          "text": "What's Humanity for Artificial Intelligence Jindo Intelligence &#x2014; Dawning of Artificial Intelligence &#x2014;"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "id": "row_000018",
+  "model_name": "BAAI/bge-m3",
+  "timestamp_kst": "2025-09-07T16:10:10.196836+09:00",
+  "trial_id": "d45c0f81",
+  "queries": [
+    {
+      "query": "빅데이터 처리 과정별 위험요인 유형과 우선순위를 간략하게 요약해 주시겠습니까?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7376531362533569,
+          "doc_id": "32",
+          "text": "빅데이터 처리 프로세스에 따른 빅데이터 위험요인 분석"
+        },
+        {
+          "rank": 2,
+          "score": 0.609535813331604,
+          "doc_id": "118",
+          "text": "AHP 기법을 활용한 Big Data 보안관리 요소들의 우선순위 분석에 관한 연구"
+        },
+        {
+          "rank": 3,
+          "score": 0.5361132621765137,
+          "doc_id": "73",
+          "text": "Big data, big data quality problem"
+        },
+        {
+          "rank": 4,
+          "score": 0.5321193933486938,
+          "doc_id": "171",
+          "text": "Protecting Privacy in Big Data"
+        },
+        {
+          "rank": 5,
+          "score": 0.531474232673645,
+          "doc_id": "202",
+          "text": "Machine learning"
+        },
+        {
+          "rank": 6,
+          "score": 0.5248985886573792,
+          "doc_id": "62",
+          "text": "Utilization and Analysis of Big-data"
+        },
+        {
+          "rank": 7,
+          "score": 0.5236607789993286,
+          "doc_id": "88",
+          "text": "Machine learning on Big Data"
+        },
+        {
+          "rank": 8,
+          "score": 0.5231398940086365,
+          "doc_id": "169",
+          "text": "Big Data cluster analysis"
+        },
+        {
+          "rank": 9,
+          "score": 0.5219980478286743,
+          "doc_id": "78",
+          "text": "Data learning from big data"
+        },
+        {
+          "rank": 10,
+          "score": 0.5199199318885803,
+          "doc_id": "34",
+          "text": "Supporting Privacy-Preserving Big Data Analytics on Temporal Open Big Data"
+        }
+      ]
+    },
+    {
+      "query": "빅데이터 처리 과정은 일반적으로 어떻게 구성됩니까?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6012123823165894,
+          "doc_id": "32",
+          "text": "빅데이터 처리 프로세스에 따른 빅데이터 위험요인 분석"
+        },
+        {
+          "rank": 2,
+          "score": 0.562440812587738,
+          "doc_id": "78",
+          "text": "Data learning from big data"
+        },
+        {
+          "rank": 3,
+          "score": 0.5568094253540039,
+          "doc_id": "169",
+          "text": "Big Data cluster analysis"
+        },
+        {
+          "rank": 4,
+          "score": 0.5447847247123718,
+          "doc_id": "144",
+          "text": "에너지 빅데이터를 수용하는 빅데이터 시스템 개발"
+        },
+        {
+          "rank": 5,
+          "score": 0.5424874424934387,
+          "doc_id": "126",
+          "text": "Exploring Big Data Governance Frameworks"
+        },
+        {
+          "rank": 6,
+          "score": 0.5403248071670532,
+          "doc_id": "129",
+          "text": "BIG DATA = CLEAR + DIRTY + DARK DATA"
+        },
+        {
+          "rank": 7,
+          "score": 0.5367785692214966,
+          "doc_id": "165",
+          "text": "패키징(Packaging) 분야에서의 빅데이터(Big data) 적용방안 연구"
+        },
+        {
+          "rank": 8,
+          "score": 0.5307195782661438,
+          "doc_id": "172",
+          "text": "Demystifying big data: Anatomy of big data developmental process"
+        },
+        {
+          "rank": 9,
+          "score": 0.5274379849433899,
+          "doc_id": "88",
+          "text": "Machine learning on Big Data"
+        },
+        {
+          "rank": 10,
+          "score": 0.5273255109786987,
+          "doc_id": "202",
+          "text": "Machine learning"
+        }
+      ]
+    },
+    {
+      "query": "각 빅데이터 처리 과정별로 발생할 수 있는 위험요인의 유형은 무엇입니까?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7513289451599121,
+          "doc_id": "32",
+          "text": "빅데이터 처리 프로세스에 따른 빅데이터 위험요인 분석"
+        },
+        {
+          "rank": 2,
+          "score": 0.5252997279167175,
+          "doc_id": "118",
+          "text": "AHP 기법을 활용한 Big Data 보안관리 요소들의 우선순위 분석에 관한 연구"
+        },
+        {
+          "rank": 3,
+          "score": 0.5243528485298157,
+          "doc_id": "78",
+          "text": "Data learning from big data"
+        },
+        {
+          "rank": 4,
+          "score": 0.5233268141746521,
+          "doc_id": "202",
+          "text": "Machine learning"
+        },
+        {
+          "rank": 5,
+          "score": 0.5185810327529907,
+          "doc_id": "169",
+          "text": "Big Data cluster analysis"
+        },
+        {
+          "rank": 6,
+          "score": 0.513350248336792,
+          "doc_id": "73",
+          "text": "Big data, big data quality problem"
+        },
+        {
+          "rank": 7,
+          "score": 0.5128998756408691,
+          "doc_id": "104",
+          "text": "Deep learning"
+        },
+        {
+          "rank": 8,
+          "score": 0.511430561542511,
+          "doc_id": "171",
+          "text": "Protecting Privacy in Big Data"
+        },
+        {
+          "rank": 9,
+          "score": 0.5070462226867676,
+          "doc_id": "88",
+          "text": "Machine learning on Big Data"
+        },
+        {
+          "rank": 10,
+          "score": 0.5052393674850464,
+          "doc_id": "144",
+          "text": "에너지 빅데이터를 수용하는 빅데이터 시스템 개발"
+        }
+      ]
+    },
+    {
+      "query": "각 빅데이터 처리 과정별 위험요인 유형의 우선순위는 어떻게 됩니까?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 2
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7163880467414856,
+          "doc_id": "32",
+          "text": "빅데이터 처리 프로세스에 따른 빅데이터 위험요인 분석"
+        },
+        {
+          "rank": 2,
+          "score": 0.61936354637146,
+          "doc_id": "118",
+          "text": "AHP 기법을 활용한 Big Data 보안관리 요소들의 우선순위 분석에 관한 연구"
+        },
+        {
+          "rank": 3,
+          "score": 0.5375075340270996,
+          "doc_id": "169",
+          "text": "Big Data cluster analysis"
+        },
+        {
+          "rank": 4,
+          "score": 0.5293488502502441,
+          "doc_id": "202",
+          "text": "Machine learning"
+        },
+        {
+          "rank": 5,
+          "score": 0.5195208191871643,
+          "doc_id": "73",
+          "text": "Big data, big data quality problem"
+        },
+        {
+          "rank": 6,
+          "score": 0.5138769745826721,
+          "doc_id": "104",
+          "text": "Deep learning"
+        },
+        {
+          "rank": 7,
+          "score": 0.5138128399848938,
+          "doc_id": "88",
+          "text": "Machine learning on Big Data"
+        },
+        {
+          "rank": 8,
+          "score": 0.5136570334434509,
+          "doc_id": "171",
+          "text": "Protecting Privacy in Big Data"
+        },
+        {
+          "rank": 9,
+          "score": 0.5100151896476746,
+          "doc_id": "78",
+          "text": "Data learning from big data"
+        },
+        {
+          "rank": 10,
+          "score": 0.4937003254890442,
+          "doc_id": "165",
+          "text": "패키징(Packaging) 분야에서의 빅데이터(Big data) 적용방안 연구"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "id": "row_000045",
+  "model_name": "Snowflake/snowflake-arctic-embed-l-v2.0",
+  "timestamp_kst": "2025-09-07T15:53:08.476963+09:00",
+  "trial_id": "7843efac",
+  "queries": [
+    {
+      "query": "What is the essence of applying various machine and deep learning approaches to pharmacogenomics research for antidepressant treatment prediction?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.4918850064277649,
+          "doc_id": "53",
+          "text": "Machine Learning and Deep Learning for the Pharmacogenomics of Antidepressant Treatments Machine Learning and Deep Learning for the Pharmacogenomics of Antidepressant Treatments Machine Learning and Deep Learning for the Pharmacogenomics of Antidepressant Treatments A growing body of evidence now proposes that machine learning and deep learning techniques can serve as a vital foundation for the pharmacogenomics of antidepressant treatments in patients with major depressive disorder (MDD).In this review, we focus on the latest developments for pharmacogenomics research using machine learning and deep learning approaches together with neuroimaging and multi-omics data. First, we review relevant pharmacogenomics studies that leverage numerous machine learning and deep learning techniques to determine treatment prediction and potential biomarkers for antidepressant treatments in MDD. In addition, we depict some neuroimaging pharmacogenomics studies that utilize various machine learning approaches to predict antidepressant treatment outcomes in MDD based on the integration of research on pharmacogenomics and neuroimaging. Moreover, we summarize the limitations in regard to the past pharmacogenomics studies of antidepressant treatments in MDD. Finally, we outline a discussion of challenges and directions for future research. In light of latest advancements in neuroimaging and multi-omics, various genomic variants and biomarkers associated with antidepressant treatments in MDD are being identified in pharmacogenomics research by employing machine learning and deep learning algorithms."
+        },
+        {
+          "rank": 2,
+          "score": 0.46110841631889343,
+          "doc_id": "164",
+          "text": "Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade 없음"
+        },
+        {
+          "rank": 3,
+          "score": 0.44697660207748413,
+          "doc_id": "202",
+          "text": "Machine learning Machine learning Machine learning A short review of research and applications in machine learning is given. Rather than attempt to cover all areas of ML, the focus is on its role in building expert systems, its approach to classification problems and ML methods of learning control. A relatively new area, inductive logic programming, is also discussed."
+        },
+        {
+          "rank": 4,
+          "score": 0.44272422790527344,
+          "doc_id": "125",
+          "text": "An overview of deep learning techniques An overview of deep learning techniques An overview of deep learning techniques ZusammenfassungDeep Learning ist der Ansatz, der die k&uuml;nstliche Intelligenz innerhalb weniger Jahre tiefgreifend ver&auml;ndert hat. Auch wenn sie durch verschiedene algorithmische Fortschritte begleitet wird, ist diese Technik vor allem aus Anwendungssicht &#x201e;disruptiv“: Sie verschiebt die Grenze automatisierbarer Aufgaben betr&auml;chtlich, ver&auml;ndert die Art der Produktentwicklung und steht praktisch jedermann zur Verf&uuml;gung. Gegenstand des Deep Learning sind neuronale Netze mit einer großen Anzahl von Schichten. Verglichen mit fr&uuml;heren Ans&auml;tzen mit idealerweise einer einzigen Schicht, erlaubt dies den Einsatz massiver Rechenhardware, um Black-Box-Modelle mit einem Minimum an Entwicklungsaufwand direkt aus Rohdaten zu trainieren. Die meisten erfolgreichen Anwendungen finden sich in der Auswertung visueller Bilder, aber auch in der Audio- und Text-Modellierung."
+        },
+        {
+          "rank": 5,
+          "score": 0.4405847191810608,
+          "doc_id": "97",
+          "text": "&#x201e;Machine learning“ in der An&auml;sthesiologie &#x201e;Machine learning“ in der An&auml;sthesiologie &#x201e;Machine learning“ in der An&auml;sthesiologie 없음"
+        },
+        {
+          "rank": 6,
+          "score": 0.4251580238342285,
+          "doc_id": "104",
+          "text": "Deep learning Deep learning Deep learning Artificial intelligence is one of the most beautiful dreams of mankind. Although computer technology has made considerable progress, so far, there is no computer showing intelligence like human beings. The emergence of deep learning gives people a glimmer of hope. So, what is learning deep? Why is it so important? How does it work? And what are the existing achievements and difficulties? This paper provides an overview of deep learning which will answer these questions."
+        },
+        {
+          "rank": 7,
+          "score": 0.40719425678253174,
+          "doc_id": "3",
+          "text": "Deep Learning in der Augenheilkunde Deep Learning in der Augenheilkunde Deep Learning in der Augenheilkunde 없음"
+        },
+        {
+          "rank": 8,
+          "score": 0.395652711391449,
+          "doc_id": "70",
+          "text": "Machine Learning in Predicting Hemoglobin Variants Machine Learning in Predicting Hemoglobin Variants Machine Learning in Predicting Hemoglobin Variants 없음"
+        },
+        {
+          "rank": 9,
+          "score": 0.39065316319465637,
+          "doc_id": "15",
+          "text": "Artificial intelligence, machine learning, and deep learning in women’s health nursing Artificial intelligence, machine learning, and deep learning in women’s health nursing Artificial intelligence, machine learning, and deep learning in women’s health nursing Artificial intelligence (AI), which includes machine learning and deep learning has been introduced to nursing care in recent years. The present study reviews the following topics: the concepts of AI, machine learning, and deep learning; examples of AI-based nursing research; the necessity of education on AI in nursing schools; and the areas of nursing care where AI is useful. AI refers to an intelligent system consisting not of a human, but a machine. Machine learning refers to computers’ ability to learn without being explicitly programmed. Deep learning is a subset of machine learning that uses artificial neural networks consisting of multiple hidden layers. It is suggested that the educational curriculum should include big data, the concept of AI, algorithms and models of machine learning, the model of deep learning, and coding practice. The standard curriculum should be organized by the nursing society. An example of an area of nursing care where AI is useful is prenatal nursing interventions based on pregnant women’s nursing records and AI-based prediction of the risk of delivery according to pregnant women’s age. Nurses should be able to cope with the rapidly developing environment of nursing care influenced by AI and should understand how to apply AI in their field. It is time for Korean nurses to take steps to become familiar with AI in their research, education, and practice."
+        },
+        {
+          "rank": 10,
+          "score": 0.3872393071651459,
+          "doc_id": "42",
+          "text": "Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning In recent years, machine learning algorithms are continuously being used and expanded in various fields, such as facial recognition, signal processing, personal authentication, and stock prediction. In particular, various algorithms, such as deep learning, reinforcement learning, and Q-learning, are continuously being improved. Among these algorithms, the expansion of deep learning is rapidly changing. Nevertheless, machine learning algorithms have not yet been applied in several fields, such as personal authentication technology. This technology is an essential tool in the digital information era, walking recognition technology as promising biometrics, and technology for solving state-space problems. Therefore, algorithm technologies of deep learning, reinforcement learning, and Q-learning, which are typical machine learning algorithms in various fields, such as agricultural technology, personal authentication, wireless network, game, biometric recognition, and image recognition, are being improved and expanded in this paper."
+        }
+      ]
+    },
+    {
+      "query": "What are the primary challenges in predicting antidepressant treatment response using pharmacogenomic data?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.402208149433136,
+          "doc_id": "140",
+          "text": "Sharing Big Data Sharing Big Data Sharing Big Data Macromolecular Big Data provide numerous challenges and a number of initiatives that are starting to overcome these issues are discussed."
+        },
+        {
+          "rank": 2,
+          "score": 0.39924973249435425,
+          "doc_id": "53",
+          "text": "Machine Learning and Deep Learning for the Pharmacogenomics of Antidepressant Treatments Machine Learning and Deep Learning for the Pharmacogenomics of Antidepressant Treatments Machine Learning and Deep Learning for the Pharmacogenomics of Antidepressant Treatments A growing body of evidence now proposes that machine learning and deep learning techniques can serve as a vital foundation for the pharmacogenomics of antidepressant treatments in patients with major depressive disorder (MDD).In this review, we focus on the latest developments for pharmacogenomics research using machine learning and deep learning approaches together with neuroimaging and multi-omics data. First, we review relevant pharmacogenomics studies that leverage numerous machine learning and deep learning techniques to determine treatment prediction and potential biomarkers for antidepressant treatments in MDD. In addition, we depict some neuroimaging pharmacogenomics studies that utilize various machine learning approaches to predict antidepressant treatment outcomes in MDD based on the integration of research on pharmacogenomics and neuroimaging. Moreover, we summarize the limitations in regard to the past pharmacogenomics studies of antidepressant treatments in MDD. Finally, we outline a discussion of challenges and directions for future research. In light of latest advancements in neuroimaging and multi-omics, various genomic variants and biomarkers associated with antidepressant treatments in MDD are being identified in pharmacogenomics research by employing machine learning and deep learning algorithms."
+        },
+        {
+          "rank": 3,
+          "score": 0.39430007338523865,
+          "doc_id": "208",
+          "text": "For Big Data, Big Questions Remain For Big Data, Big Questions Remain For Big Data, Big Questions Remain Medicare&#x2019;s release of practitioner payments highlights the strengths and weaknesses of digging into big data."
+        },
+        {
+          "rank": 4,
+          "score": 0.35638728737831116,
+          "doc_id": "72",
+          "text": "IT Convergence: Advice to Biomeds IT Convergence: Advice to Biomeds IT Convergence: Advice to Biomeds 없음"
+        },
+        {
+          "rank": 5,
+          "score": 0.34943029284477234,
+          "doc_id": "120",
+          "text": "Big Data Key Challenges Big Data Key Challenges Big Data Key Challenges The big data term refers to the great volume of data and complicated data structure with difficulties in collecting, storing, processing, and analyzing these data. Big data analytics refers to the operation of disclosing hidden patterns through big data. This information and data set cloud to be useful and provide advanced services. However, analyzing and processing this information could cause revealing and disclosing some sensitive and personal information when the information is contained in applications that are correlated to users such as location-based services, but concerns are diminished if the applications are correlated to general information such as scientific results. In this work, a survey has been done over security and privacy challenges and approaches in big data. The challenges included here are in each of the following areas: privacy, access control, encryption, and authentication in big data. Likewise, the approaches presented here are privacy-preserving approaches in big data, access control approaches in big data, encryption approaches in big data, and authentication approaches in big data."
+        },
+        {
+          "rank": 6,
+          "score": 0.33229267597198486,
+          "doc_id": "196",
+          "text": "Nursing Needs Big Data and Big Data Needs Nursing Nursing Needs Big Data and Big Data Needs Nursing Nursing Needs Big Data and Big Data Needs Nursing AbstractPurposeContemporary big data initiatives in health care will benefit from greater integration with nursing science and nursing practice; in turn, nursing science and nursing practice has much to gain from the data science initiatives. Big data arises secondary to scholarly inquiry (e.g., &#8208;omics) and everyday observations like cardiac flow sensors or Twitter feeds. Data science methods that are emerging ensure that these data be leveraged to improve patient care.Organizing ConstructBig data encompasses data that exceed human comprehension, that exist at a volume unmanageable by standard computer systems, that arrive at a velocity not under the control of the investigator and possess a level of imprecision not found in traditional inquiry. Data science methods are emerging to manage and gain insights from big data.MethodsThe primary methods included investigation of emerging federal big data initiatives, and exploration of exemplars from nursing informatics research to benchmark where nursing is already poised to participate in the big data revolution. We provide observations and reflections on experiences in the emerging big data initiatives.ConclusionsExisting approaches to large data set analysis provide a necessary but not sufficient foundation for nursing to participate in the big data revolution. Nursing's Social Policy Statement guides a principled, ethical perspective on big data and data science. There are implications for basic and advanced practice clinical nurses in practice, for the nurse scientist who collaborates with data scientists, and for the nurse data scientist.Clinical RelevanceBig data and data science has the potential to provide greater richness in understanding patient phenomena and in tailoring interventional strategies that are personalized to the patient."
+        },
+        {
+          "rank": 7,
+          "score": 0.3280230164527893,
+          "doc_id": "142",
+          "text": "Machine learning in oncology-Perspectives in patient-reported outcome research Machine learning in oncology-Perspectives in patient-reported outcome research Machine learning in oncology-Perspectives in patient-reported outcome research AbstractBackgroundIncreasing data volumes in oncology pose new challenges for data analysis. Machine learning, a branch of artificial intelligence, can identify patterns even in very large and less structured datasets.ObjectiveThis article provides an overview of the possible applications for machine learning in oncology. Furthermore, the potential of machine learning in patient-reported outcome (PRO) research is discussed.Materials and methodsWe conducted a selective literature search (PubMed, MEDLINE, IEEE Xplore) and discuss current research.ResultsThere are three primary applications for machine learning in oncology: (1) cancer detection or classification; (2) overall survival prediction or risk assessment; and (3) supporting therapy decision-making and prediction of treatment response. Generally, machine learning approaches in oncology PRO research are scarce and few studies integrate PRO data into machine learning models.DiscussionMachine learning is a promising area of oncology, but few models have been transferred into clinical practice. The promise of personalized cancer therapy and shared decision-making through machine learning has yet to be realized. As an equally important emerging research area in oncology, PROs should also be incorporated into machine learning approaches. To gather the data necessary for this, broad implementation of PRO assessments in clinical practice, as well as the harmonization of existing datasets, is suggested."
+        },
+        {
+          "rank": 8,
+          "score": 0.32719194889068604,
+          "doc_id": "97",
+          "text": "&#x201e;Machine learning“ in der An&auml;sthesiologie &#x201e;Machine learning“ in der An&auml;sthesiologie &#x201e;Machine learning“ in der An&auml;sthesiologie 없음"
+        },
+        {
+          "rank": 9,
+          "score": 0.3270412087440491,
+          "doc_id": "158",
+          "text": "Big business with Big Data Big Business mit Big Data Big business with Big Data Big Business mit Big Data Big business with Big Data Big Business mit Big Data Big business with Big Data Big Business mit Big Data"
+        },
+        {
+          "rank": 10,
+          "score": 0.32541167736053467,
+          "doc_id": "199",
+          "text": "Sharing big biomedical data Sharing big biomedical data Sharing big biomedical data BackgroundThe promise of Big Biomedical Data may be offset by the enormous challenges in handling, analyzing, and sharing it. In this paper, we provide a framework for developing practical and reasonable data sharing policies that incorporate the sociological, financial, technical and scientific requirements of a sustainable Big Data dependent scientific community.FindingsMany biomedical and healthcare studies may be significantly impacted by using large, heterogeneous and incongruent datasets; however there are significant technical, social, regulatory, and institutional barriers that need to be overcome to ensure the power of Big Data overcomes these detrimental factors.ConclusionsPragmatic policies that demand extensive sharing of data, promotion of data fusion, provenance, interoperability and balance security and protection of personal information are critical for the long term impact of translational Big Data analytics."
+        }
+      ]
+    },
+    {
+      "query": "How do machine learning and deep learning approaches help overcome these challenges in pharmacogenomics research for antidepressant treatment prediction?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5382652282714844,
+          "doc_id": "53",
+          "text": "Machine Learning and Deep Learning for the Pharmacogenomics of Antidepressant Treatments Machine Learning and Deep Learning for the Pharmacogenomics of Antidepressant Treatments Machine Learning and Deep Learning for the Pharmacogenomics of Antidepressant Treatments A growing body of evidence now proposes that machine learning and deep learning techniques can serve as a vital foundation for the pharmacogenomics of antidepressant treatments in patients with major depressive disorder (MDD).In this review, we focus on the latest developments for pharmacogenomics research using machine learning and deep learning approaches together with neuroimaging and multi-omics data. First, we review relevant pharmacogenomics studies that leverage numerous machine learning and deep learning techniques to determine treatment prediction and potential biomarkers for antidepressant treatments in MDD. In addition, we depict some neuroimaging pharmacogenomics studies that utilize various machine learning approaches to predict antidepressant treatment outcomes in MDD based on the integration of research on pharmacogenomics and neuroimaging. Moreover, we summarize the limitations in regard to the past pharmacogenomics studies of antidepressant treatments in MDD. Finally, we outline a discussion of challenges and directions for future research. In light of latest advancements in neuroimaging and multi-omics, various genomic variants and biomarkers associated with antidepressant treatments in MDD are being identified in pharmacogenomics research by employing machine learning and deep learning algorithms."
+        },
+        {
+          "rank": 2,
+          "score": 0.47233086824417114,
+          "doc_id": "104",
+          "text": "Deep learning Deep learning Deep learning Artificial intelligence is one of the most beautiful dreams of mankind. Although computer technology has made considerable progress, so far, there is no computer showing intelligence like human beings. The emergence of deep learning gives people a glimmer of hope. So, what is learning deep? Why is it so important? How does it work? And what are the existing achievements and difficulties? This paper provides an overview of deep learning which will answer these questions."
+        },
+        {
+          "rank": 3,
+          "score": 0.45852208137512207,
+          "doc_id": "202",
+          "text": "Machine learning Machine learning Machine learning A short review of research and applications in machine learning is given. Rather than attempt to cover all areas of ML, the focus is on its role in building expert systems, its approach to classification problems and ML methods of learning control. A relatively new area, inductive logic programming, is also discussed."
+        },
+        {
+          "rank": 4,
+          "score": 0.45669063925743103,
+          "doc_id": "164",
+          "text": "Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade 없음"
+        },
+        {
+          "rank": 5,
+          "score": 0.4523942470550537,
+          "doc_id": "125",
+          "text": "An overview of deep learning techniques An overview of deep learning techniques An overview of deep learning techniques ZusammenfassungDeep Learning ist der Ansatz, der die k&uuml;nstliche Intelligenz innerhalb weniger Jahre tiefgreifend ver&auml;ndert hat. Auch wenn sie durch verschiedene algorithmische Fortschritte begleitet wird, ist diese Technik vor allem aus Anwendungssicht &#x201e;disruptiv“: Sie verschiebt die Grenze automatisierbarer Aufgaben betr&auml;chtlich, ver&auml;ndert die Art der Produktentwicklung und steht praktisch jedermann zur Verf&uuml;gung. Gegenstand des Deep Learning sind neuronale Netze mit einer großen Anzahl von Schichten. Verglichen mit fr&uuml;heren Ans&auml;tzen mit idealerweise einer einzigen Schicht, erlaubt dies den Einsatz massiver Rechenhardware, um Black-Box-Modelle mit einem Minimum an Entwicklungsaufwand direkt aus Rohdaten zu trainieren. Die meisten erfolgreichen Anwendungen finden sich in der Auswertung visueller Bilder, aber auch in der Audio- und Text-Modellierung."
+        },
+        {
+          "rank": 6,
+          "score": 0.4504292607307434,
+          "doc_id": "97",
+          "text": "&#x201e;Machine learning“ in der An&auml;sthesiologie &#x201e;Machine learning“ in der An&auml;sthesiologie &#x201e;Machine learning“ in der An&auml;sthesiologie 없음"
+        },
+        {
+          "rank": 7,
+          "score": 0.4373306334018707,
+          "doc_id": "142",
+          "text": "Machine learning in oncology-Perspectives in patient-reported outcome research Machine learning in oncology-Perspectives in patient-reported outcome research Machine learning in oncology-Perspectives in patient-reported outcome research AbstractBackgroundIncreasing data volumes in oncology pose new challenges for data analysis. Machine learning, a branch of artificial intelligence, can identify patterns even in very large and less structured datasets.ObjectiveThis article provides an overview of the possible applications for machine learning in oncology. Furthermore, the potential of machine learning in patient-reported outcome (PRO) research is discussed.Materials and methodsWe conducted a selective literature search (PubMed, MEDLINE, IEEE Xplore) and discuss current research.ResultsThere are three primary applications for machine learning in oncology: (1) cancer detection or classification; (2) overall survival prediction or risk assessment; and (3) supporting therapy decision-making and prediction of treatment response. Generally, machine learning approaches in oncology PRO research are scarce and few studies integrate PRO data into machine learning models.DiscussionMachine learning is a promising area of oncology, but few models have been transferred into clinical practice. The promise of personalized cancer therapy and shared decision-making through machine learning has yet to be realized. As an equally important emerging research area in oncology, PROs should also be incorporated into machine learning approaches. To gather the data necessary for this, broad implementation of PRO assessments in clinical practice, as well as the harmonization of existing datasets, is suggested."
+        },
+        {
+          "rank": 8,
+          "score": 0.43698328733444214,
+          "doc_id": "15",
+          "text": "Artificial intelligence, machine learning, and deep learning in women’s health nursing Artificial intelligence, machine learning, and deep learning in women’s health nursing Artificial intelligence, machine learning, and deep learning in women’s health nursing Artificial intelligence (AI), which includes machine learning and deep learning has been introduced to nursing care in recent years. The present study reviews the following topics: the concepts of AI, machine learning, and deep learning; examples of AI-based nursing research; the necessity of education on AI in nursing schools; and the areas of nursing care where AI is useful. AI refers to an intelligent system consisting not of a human, but a machine. Machine learning refers to computers’ ability to learn without being explicitly programmed. Deep learning is a subset of machine learning that uses artificial neural networks consisting of multiple hidden layers. It is suggested that the educational curriculum should include big data, the concept of AI, algorithms and models of machine learning, the model of deep learning, and coding practice. The standard curriculum should be organized by the nursing society. An example of an area of nursing care where AI is useful is prenatal nursing interventions based on pregnant women’s nursing records and AI-based prediction of the risk of delivery according to pregnant women’s age. Nurses should be able to cope with the rapidly developing environment of nursing care influenced by AI and should understand how to apply AI in their field. It is time for Korean nurses to take steps to become familiar with AI in their research, education, and practice."
+        },
+        {
+          "rank": 9,
+          "score": 0.4264063835144043,
+          "doc_id": "3",
+          "text": "Deep Learning in der Augenheilkunde Deep Learning in der Augenheilkunde Deep Learning in der Augenheilkunde 없음"
+        },
+        {
+          "rank": 10,
+          "score": 0.42264336347579956,
+          "doc_id": "42",
+          "text": "Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning In recent years, machine learning algorithms are continuously being used and expanded in various fields, such as facial recognition, signal processing, personal authentication, and stock prediction. In particular, various algorithms, such as deep learning, reinforcement learning, and Q-learning, are continuously being improved. Among these algorithms, the expansion of deep learning is rapidly changing. Nevertheless, machine learning algorithms have not yet been applied in several fields, such as personal authentication technology. This technology is an essential tool in the digital information era, walking recognition technology as promising biometrics, and technology for solving state-space problems. Therefore, algorithm technologies of deep learning, reinforcement learning, and Q-learning, which are typical machine learning algorithms in various fields, such as agricultural technology, personal authentication, wireless network, game, biometric recognition, and image recognition, are being improved and expanded in this paper."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

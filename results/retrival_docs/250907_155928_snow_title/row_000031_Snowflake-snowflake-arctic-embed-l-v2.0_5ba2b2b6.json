@@ -1,0 +1,221 @@
+{
+  "id": "row_000031",
+  "model_name": "Snowflake/snowflake-arctic-embed-l-v2.0",
+  "timestamp_kst": "2025-09-07T15:59:33.836081+09:00",
+  "trial_id": "5ba2b2b6",
+  "queries": [
+    {
+      "query": "How would you concisely summarize the strategic landscape and major industry examples that characterize IT convergence developments in Korea?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6129234433174133,
+          "doc_id": "94",
+          "text": "The Trends of IT Convergence in Korea"
+        },
+        {
+          "rank": 2,
+          "score": 0.5399839878082275,
+          "doc_id": "54",
+          "text": "Future trends of IT convergence"
+        },
+        {
+          "rank": 3,
+          "score": 0.5392035245895386,
+          "doc_id": "177",
+          "text": "Defense IT Convergence in South Korea"
+        },
+        {
+          "rank": 4,
+          "score": 0.5161728858947754,
+          "doc_id": "211",
+          "text": "On exploring factors for enhancing export competitiveness in IT Convergence industries"
+        },
+        {
+          "rank": 5,
+          "score": 0.5144308805465698,
+          "doc_id": "178",
+          "text": "IT 분야에서 컨버전스의 의미와 미래 전망"
+        },
+        {
+          "rank": 6,
+          "score": 0.5133167505264282,
+          "doc_id": "162",
+          "text": "IT 컨버전스의 이해와 법ㆍ기술 방향"
+        },
+        {
+          "rank": 7,
+          "score": 0.5125274658203125,
+          "doc_id": "39",
+          "text": "IT convergence and security"
+        },
+        {
+          "rank": 8,
+          "score": 0.5001094341278076,
+          "doc_id": "229",
+          "text": "Convergence IT 관련 기사"
+        },
+        {
+          "rank": 9,
+          "score": 0.48604175448417664,
+          "doc_id": "38",
+          "text": "IT convergence security"
+        },
+        {
+          "rank": 10,
+          "score": 0.48338669538497925,
+          "doc_id": "197",
+          "text": "산업생태계 관점에서 바라본 IT융합 촉진전략"
+        }
+      ]
+    },
+    {
+      "query": "What is the strategic landscape of IT convergence developments in Korea?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5365211963653564,
+          "doc_id": "94",
+          "text": "The Trends of IT Convergence in Korea"
+        },
+        {
+          "rank": 2,
+          "score": 0.5011080503463745,
+          "doc_id": "177",
+          "text": "Defense IT Convergence in South Korea"
+        },
+        {
+          "rank": 3,
+          "score": 0.46206769347190857,
+          "doc_id": "54",
+          "text": "Future trends of IT convergence"
+        },
+        {
+          "rank": 4,
+          "score": 0.45074909925460815,
+          "doc_id": "39",
+          "text": "IT convergence and security"
+        },
+        {
+          "rank": 5,
+          "score": 0.45037925243377686,
+          "doc_id": "162",
+          "text": "IT 컨버전스의 이해와 법ㆍ기술 방향"
+        },
+        {
+          "rank": 6,
+          "score": 0.4412422180175781,
+          "doc_id": "178",
+          "text": "IT 분야에서 컨버전스의 의미와 미래 전망"
+        },
+        {
+          "rank": 7,
+          "score": 0.4312968850135803,
+          "doc_id": "197",
+          "text": "산업생태계 관점에서 바라본 IT융합 촉진전략"
+        },
+        {
+          "rank": 8,
+          "score": 0.4301254153251648,
+          "doc_id": "211",
+          "text": "On exploring factors for enhancing export competitiveness in IT Convergence industries"
+        },
+        {
+          "rank": 9,
+          "score": 0.42796075344085693,
+          "doc_id": "226",
+          "text": "PHOTONICS IT CONVERGENCE - IT Korea, Shanghai EXPO"
+        },
+        {
+          "rank": 10,
+          "score": 0.4133697748184204,
+          "doc_id": "229",
+          "text": "Convergence IT 관련 기사"
+        }
+      ]
+    },
+    {
+      "query": "What are the major industry examples that characterize IT convergence developments in Korea?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5978972315788269,
+          "doc_id": "94",
+          "text": "The Trends of IT Convergence in Korea"
+        },
+        {
+          "rank": 2,
+          "score": 0.5185058116912842,
+          "doc_id": "54",
+          "text": "Future trends of IT convergence"
+        },
+        {
+          "rank": 3,
+          "score": 0.5163075923919678,
+          "doc_id": "211",
+          "text": "On exploring factors for enhancing export competitiveness in IT Convergence industries"
+        },
+        {
+          "rank": 4,
+          "score": 0.5111649036407471,
+          "doc_id": "162",
+          "text": "IT 컨버전스의 이해와 법ㆍ기술 방향"
+        },
+        {
+          "rank": 5,
+          "score": 0.5063111186027527,
+          "doc_id": "177",
+          "text": "Defense IT Convergence in South Korea"
+        },
+        {
+          "rank": 6,
+          "score": 0.5011012554168701,
+          "doc_id": "178",
+          "text": "IT 분야에서 컨버전스의 의미와 미래 전망"
+        },
+        {
+          "rank": 7,
+          "score": 0.49469640851020813,
+          "doc_id": "229",
+          "text": "Convergence IT 관련 기사"
+        },
+        {
+          "rank": 8,
+          "score": 0.49345070123672485,
+          "doc_id": "105",
+          "text": "A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data"
+        },
+        {
+          "rank": 9,
+          "score": 0.49345070123672485,
+          "doc_id": "218",
+          "text": "A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data"
+        },
+        {
+          "rank": 10,
+          "score": 0.4867520332336426,
+          "doc_id": "226",
+          "text": "PHOTONICS IT CONVERGENCE - IT Korea, Shanghai EXPO"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

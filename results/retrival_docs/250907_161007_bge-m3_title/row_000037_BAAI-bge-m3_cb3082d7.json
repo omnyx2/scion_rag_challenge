@@ -1,0 +1,221 @@
+{
+  "id": "row_000037",
+  "model_name": "BAAI/bge-m3",
+  "timestamp_kst": "2025-09-07T16:10:13.109575+09:00",
+  "trial_id": "cb3082d7",
+  "queries": [
+    {
+      "query": "IT와 BT 융합 기술의 특성과 특허 분석 결과를 바탕으로 융합 강도와 협력 네트워크를 요약해 주세요.",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6892572641372681,
+          "doc_id": "36",
+          "text": "Technological Convergence of IT and BT: Evidence from Patent Analysis"
+        },
+        {
+          "rank": 2,
+          "score": 0.6864690184593201,
+          "doc_id": "105",
+          "text": "A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data"
+        },
+        {
+          "rank": 3,
+          "score": 0.6864690184593201,
+          "doc_id": "218",
+          "text": "A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data"
+        },
+        {
+          "rank": 4,
+          "score": 0.6572123765945435,
+          "doc_id": "198",
+          "text": "국내 중소기업의 기술융합 전략 및 성장 정책: IT & BT 융합기술 기반 네트워크 분석"
+        },
+        {
+          "rank": 5,
+          "score": 0.602599024772644,
+          "doc_id": "20",
+          "text": "Investigations on IT/ET and IT/BT Convergence Technology Using Power Line Communications"
+        },
+        {
+          "rank": 6,
+          "score": 0.5895936489105225,
+          "doc_id": "61",
+          "text": "IT 융합서비스 및 활용기술의 기술속성에 관한 연구 : 산업간 융합을 중심으로"
+        },
+        {
+          "rank": 7,
+          "score": 0.5551538467407227,
+          "doc_id": "39",
+          "text": "IT convergence and security"
+        },
+        {
+          "rank": 8,
+          "score": 0.5443750619888306,
+          "doc_id": "168",
+          "text": "AHP를 이용한 에너지-IT 융합기술 도출에 관한 연구"
+        },
+        {
+          "rank": 9,
+          "score": 0.5404762029647827,
+          "doc_id": "211",
+          "text": "On exploring factors for enhancing export competitiveness in IT Convergence industries"
+        },
+        {
+          "rank": 10,
+          "score": 0.5388088822364807,
+          "doc_id": "44",
+          "text": "IT/OT convergence and cyber security"
+        }
+      ]
+    },
+    {
+      "query": "IT와 BT 융합 기술의 특성은 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7088630199432373,
+          "doc_id": "36",
+          "text": "Technological Convergence of IT and BT: Evidence from Patent Analysis"
+        },
+        {
+          "rank": 2,
+          "score": 0.6832480430603027,
+          "doc_id": "105",
+          "text": "A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data"
+        },
+        {
+          "rank": 3,
+          "score": 0.6832480430603027,
+          "doc_id": "218",
+          "text": "A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data"
+        },
+        {
+          "rank": 4,
+          "score": 0.6620052456855774,
+          "doc_id": "198",
+          "text": "국내 중소기업의 기술융합 전략 및 성장 정책: IT & BT 융합기술 기반 네트워크 분석"
+        },
+        {
+          "rank": 5,
+          "score": 0.6234242916107178,
+          "doc_id": "20",
+          "text": "Investigations on IT/ET and IT/BT Convergence Technology Using Power Line Communications"
+        },
+        {
+          "rank": 6,
+          "score": 0.5865728855133057,
+          "doc_id": "112",
+          "text": "Convergence of Energy and IT Sectors"
+        },
+        {
+          "rank": 7,
+          "score": 0.5796377062797546,
+          "doc_id": "39",
+          "text": "IT convergence and security"
+        },
+        {
+          "rank": 8,
+          "score": 0.5795605778694153,
+          "doc_id": "117",
+          "text": "Mining and IT-OT convergence"
+        },
+        {
+          "rank": 9,
+          "score": 0.5792639255523682,
+          "doc_id": "55",
+          "text": "Navigating BAS-IT Convergence"
+        },
+        {
+          "rank": 10,
+          "score": 0.5721019506454468,
+          "doc_id": "44",
+          "text": "IT/OT convergence and cyber security"
+        }
+      ]
+    },
+    {
+      "query": "IT와 BT 융합 기술의 특허 분석 결과는 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.781184732913971,
+          "doc_id": "36",
+          "text": "Technological Convergence of IT and BT: Evidence from Patent Analysis"
+        },
+        {
+          "rank": 2,
+          "score": 0.7401975393295288,
+          "doc_id": "105",
+          "text": "A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data"
+        },
+        {
+          "rank": 3,
+          "score": 0.7401975393295288,
+          "doc_id": "218",
+          "text": "A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data"
+        },
+        {
+          "rank": 4,
+          "score": 0.6467074155807495,
+          "doc_id": "198",
+          "text": "국내 중소기업의 기술융합 전략 및 성장 정책: IT & BT 융합기술 기반 네트워크 분석"
+        },
+        {
+          "rank": 5,
+          "score": 0.6317688226699829,
+          "doc_id": "20",
+          "text": "Investigations on IT/ET and IT/BT Convergence Technology Using Power Line Communications"
+        },
+        {
+          "rank": 6,
+          "score": 0.5864998698234558,
+          "doc_id": "168",
+          "text": "AHP를 이용한 에너지-IT 융합기술 도출에 관한 연구"
+        },
+        {
+          "rank": 7,
+          "score": 0.5625805854797363,
+          "doc_id": "16",
+          "text": "국방IT융합기술의 발전전략에 관한 연구"
+        },
+        {
+          "rank": 8,
+          "score": 0.5551016330718994,
+          "doc_id": "61",
+          "text": "IT 융합서비스 및 활용기술의 기술속성에 관한 연구 : 산업간 융합을 중심으로"
+        },
+        {
+          "rank": 9,
+          "score": 0.5538872480392456,
+          "doc_id": "117",
+          "text": "Mining and IT-OT convergence"
+        },
+        {
+          "rank": 10,
+          "score": 0.5517702698707581,
+          "doc_id": "136",
+          "text": "IT/automation convergence revisited"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

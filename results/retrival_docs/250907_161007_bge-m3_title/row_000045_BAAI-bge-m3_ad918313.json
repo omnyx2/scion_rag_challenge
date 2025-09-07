@@ -1,0 +1,221 @@
+{
+  "id": "row_000045",
+  "model_name": "BAAI/bge-m3",
+  "timestamp_kst": "2025-09-07T16:10:14.353407+09:00",
+  "trial_id": "ad918313",
+  "queries": [
+    {
+      "query": "What is the essence of applying various machine and deep learning approaches to pharmacogenomics research for antidepressant treatment prediction?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.8117249011993408,
+          "doc_id": "53",
+          "text": "Machine Learning and Deep Learning for the Pharmacogenomics of Antidepressant Treatments"
+        },
+        {
+          "rank": 2,
+          "score": 0.5906168222427368,
+          "doc_id": "15",
+          "text": "Artificial intelligence, machine learning, and deep learning in women’s health nursing"
+        },
+        {
+          "rank": 3,
+          "score": 0.5886296629905701,
+          "doc_id": "57",
+          "text": "Application of Machine Learning and Deep Learning in Imaging of Ischemic Stroke"
+        },
+        {
+          "rank": 4,
+          "score": 0.5780324935913086,
+          "doc_id": "125",
+          "text": "An overview of deep learning techniques"
+        },
+        {
+          "rank": 5,
+          "score": 0.5733991265296936,
+          "doc_id": "70",
+          "text": "Machine Learning in Predicting Hemoglobin Variants"
+        },
+        {
+          "rank": 6,
+          "score": 0.5733606219291687,
+          "doc_id": "154",
+          "text": "Diabetes detection using deep learning algorithms"
+        },
+        {
+          "rank": 7,
+          "score": 0.5619339942932129,
+          "doc_id": "26",
+          "text": "Design a personalized recommendation system using deep learning and reinforcement learning"
+        },
+        {
+          "rank": 8,
+          "score": 0.5596507787704468,
+          "doc_id": "64",
+          "text": "Deep Learning Research Trend Analysis using Text Mining"
+        },
+        {
+          "rank": 9,
+          "score": 0.5591453313827515,
+          "doc_id": "102",
+          "text": "Application of Deep Learning in Dentistry and Implantology"
+        },
+        {
+          "rank": 10,
+          "score": 0.5588934421539307,
+          "doc_id": "3",
+          "text": "Deep Learning in der Augenheilkunde"
+        }
+      ]
+    },
+    {
+      "query": "What are the primary challenges in predicting antidepressant treatment response using pharmacogenomic data?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7022933959960938,
+          "doc_id": "53",
+          "text": "Machine Learning and Deep Learning for the Pharmacogenomics of Antidepressant Treatments"
+        },
+        {
+          "rank": 2,
+          "score": 0.5000104308128357,
+          "doc_id": "120",
+          "text": "Big Data Key Challenges"
+        },
+        {
+          "rank": 3,
+          "score": 0.4917917847633362,
+          "doc_id": "70",
+          "text": "Machine Learning in Predicting Hemoglobin Variants"
+        },
+        {
+          "rank": 4,
+          "score": 0.490348756313324,
+          "doc_id": "11",
+          "text": "Big genetic data and its big data protection challenges"
+        },
+        {
+          "rank": 5,
+          "score": 0.47760358452796936,
+          "doc_id": "87",
+          "text": "Big Data Analysis and Machine Learning in Intensive Care Units"
+        },
+        {
+          "rank": 6,
+          "score": 0.45945262908935547,
+          "doc_id": "78",
+          "text": "Data learning from big data"
+        },
+        {
+          "rank": 7,
+          "score": 0.45654192566871643,
+          "doc_id": "118",
+          "text": "AHP 기법을 활용한 Big Data 보안관리 요소들의 우선순위 분석에 관한 연구"
+        },
+        {
+          "rank": 8,
+          "score": 0.4547714293003082,
+          "doc_id": "217",
+          "text": "Les big data, g&eacute;n&eacute;ralit&eacute;s et int&eacute;gration en radioth&eacute;rapie"
+        },
+        {
+          "rank": 9,
+          "score": 0.45454731583595276,
+          "doc_id": "206",
+          "text": "O&ugrave; en est t’on du Big Data en m&eacute;decine ?"
+        },
+        {
+          "rank": 10,
+          "score": 0.45242828130722046,
+          "doc_id": "57",
+          "text": "Application of Machine Learning and Deep Learning in Imaging of Ischemic Stroke"
+        }
+      ]
+    },
+    {
+      "query": "How do machine learning and deep learning approaches help overcome these challenges in pharmacogenomics research for antidepressant treatment prediction?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.8063439130783081,
+          "doc_id": "53",
+          "text": "Machine Learning and Deep Learning for the Pharmacogenomics of Antidepressant Treatments"
+        },
+        {
+          "rank": 2,
+          "score": 0.580833911895752,
+          "doc_id": "15",
+          "text": "Artificial intelligence, machine learning, and deep learning in women’s health nursing"
+        },
+        {
+          "rank": 3,
+          "score": 0.5782467722892761,
+          "doc_id": "70",
+          "text": "Machine Learning in Predicting Hemoglobin Variants"
+        },
+        {
+          "rank": 4,
+          "score": 0.5759931206703186,
+          "doc_id": "57",
+          "text": "Application of Machine Learning and Deep Learning in Imaging of Ischemic Stroke"
+        },
+        {
+          "rank": 5,
+          "score": 0.5695922374725342,
+          "doc_id": "154",
+          "text": "Diabetes detection using deep learning algorithms"
+        },
+        {
+          "rank": 6,
+          "score": 0.5581200122833252,
+          "doc_id": "185",
+          "text": "Topology optimization via machine learning and deep learning: a review"
+        },
+        {
+          "rank": 7,
+          "score": 0.5556683540344238,
+          "doc_id": "125",
+          "text": "An overview of deep learning techniques"
+        },
+        {
+          "rank": 8,
+          "score": 0.5545411109924316,
+          "doc_id": "3",
+          "text": "Deep Learning in der Augenheilkunde"
+        },
+        {
+          "rank": 9,
+          "score": 0.5522371530532837,
+          "doc_id": "101",
+          "text": "Breast cancer detection by leveraging Machine Learning"
+        },
+        {
+          "rank": 10,
+          "score": 0.5521047115325928,
+          "doc_id": "87",
+          "text": "Big Data Analysis and Machine Learning in Intensive Care Units"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "id": "row_000048",
+  "model_name": "SamilPwC-AXNode-GenAI/PwC-Embedding_expr",
+  "timestamp_kst": "2025-09-07T16:47:04.050175+09:00",
+  "trial_id": "0225b33e",
+  "queries": [
+    {
+      "query": "잡음 환경에서 시청각 음성인식의 인식률을 높이기 위해 은닉 마르코프 모델과 신경망 통합 전략이 어떻게 구성되었는지 간략히 설명해 주실 수 있나요?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.61078941822052,
+          "doc_id": "123",
+          "text": "딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝은 인공신경망(neural network)이라는 인공지능분야의 모형이 발전된 형태로서, 계층구조로 이루어진 인공신경망의 내부계층(hidden layer)이 여러 단계로 이루어진 구조이다. 딥러닝에서의 주요 모형은 합성곱신경망(convolutional neural network), 순환신경망(recurrent neural network), 그리고 심층신뢰신경망(deep belief network)의 세가지라고 할 수 있다. 그 중에서 현재 흥미로운 연구가 많이 발표되어서 관심이 집중되고 있는 모형은 지도학습(supervised learning)모형인 처음 두 개의 모형이다. 따라서 본 논문에서는 지도학습모형의 가중치를 최적화하는 기본적인 방법인 오류역전파 알고리즘을 살펴본 뒤에 합성곱신경망과 순환신경망의 구조와 응용사례 등을 살펴보고자 한다. 본문에서 다루지 않은 모형인 심층신뢰신경망은 아직까지는 합성곱신경망 이나 순환신경망보다는 상대적으로 주목을 덜 받고 있다. 그러나 심층신뢰신경망은 CNN이나 RNN과는 달리 비지도학습(unsupervised learning)모형이며, 사람이나 동물은 관찰을 통해서 스스로 학습한다는 점에서 궁극적으로는 비지도학습모형이 더 많이 연구되어야 할 주제가 될 것이다."
+        },
+        {
+          "rank": 2,
+          "score": 0.6079657077789307,
+          "doc_id": "156",
+          "text": "눈 특징의 STFT 결합 영상과 deep learning을 이용한 감성 인식 눈 특징의 STFT 결합 영상과 deep learning을 이용한 감성 인식 눈 특징의 STFT 결합 영상과 deep learning을 이용한 감성 인식 최근 사용자의 요구를 이해하기 위해 인간-컴퓨터 상호작용 (HCI) 분야에서 다양한 연구가 수행되고 있다. HCI의 대표적인 기술 중 하나는 사용자 감정 인식이다. 감정의 중요성이 증대됨에 따라, 사용자의 감정을 인식하기 위해 얼굴 표정, 제스처, 음성신호, 생리신호, 안구특징 및 멀티 모달리티 (Multi-Modality) 신호를 특징으로 사용하는 방법들이 제안되고 있다. &amp;#xD; 특히, 안구 특징은 사용자가 의도적으로 제어할 수 없으며 컴퓨터가 무의식적인 특징들을 인식할 수 있기 때문에 감정인식에 적합하다. 또한 다양한 분야에 적용될 것으로 기대되는 가상현실과 증강현실을 위해 안구 특징에 기반한 감정인식 기술이 연구되어야 한다.&amp;#xD; 합성곱 신경망 (CNN)과 재귀 신경망 (RNN)과 같은 심층 학습 (Deep learning) 기술들이 다양한 분야에서 성공하고 있으며, 다양한 모달리티들을 이용하는 감정인식 연구에 적용되고 있다. 그러나 다른 모달리티들과 달리, 안구 특징만을 사용하는 심층 학습기반의 감정인식 연구는 매우 부족하다.&amp;#xD; 본 학위논문에서는 시간정보와 동공 크기와 눈 움직임 신호와 같은 안구 특징들만을 이용한 심층 학습 기반의 감정인식 방법을 제안한다.&amp;#xD; 그 과정은 다음과 같다. 먼저, 눈 깜빡임 또는 기술적인 결함으로 인해 발생되는 눈 크기 및 눈 움직임 신호들의 데이터 미획득 구간을 채우기 위한 보간을 수행한다. 그 후 데이터의 길이와 범위를 일치시키기 위해, 신호의 시간과 각 피실험자의 신호들에 대해 정규화를 수행한다. 다음으로 동공 크기 및 눈 움직임 신호들의 시간과 주파수 정보를 분석하기 위해 Short-Time Fourier Transform (STFT) 특징들을 추출하고, 그 특징들을 결합하여 STFT 특징 결합 영상이라 불리우는 단일 이미지를 생성한다. 마지막으로, valence-arousal 인식을 수행하기 위해, STFT 특징 결합 영상에 적합한 심층 학습 모델을 생성한 후 leave-one-out cross validation (LOOCV) 방법을 이용하여 제안하는 방법의 성능을 평가한다. &amp;#xD; 대부분의 연구에서, 안구 특징은 다른 모달리티 기반의 감정인식 성능을 향상시키기 위한 보조정보로만 사용하고 있다. 이는 안구 특징이 자극에 민감하고 수동적인 특징 추출방법으로 양질의 특징을 추출하기 어려운 많은 이상치 (Outlier)들을 포함하기 때문이다. 그러나 제안하는 방법의 분류 정확도는 Soleymani [53]가 제안한 결정 수준 융합 (DLF)와 서포트 벡터 머신 (SVM)을 이용한 방법보다 valence와 arousal 감정에 대해 각각 23.6%, 9.8% 향상된 분류 정확도를 달성하였다.&amp;#xD; 실험결과는 제안하는 방법의 효과성을 입증하였고, CNN 모델이 다른 모달리티 기반의 감정인식 방법뿐만 아니라 안구 특징 기반 감정인식에도 효과적이며, 눈 움직임 정보가 valence 감정 인식에도 효과적임을 보였다."
+        },
+        {
+          "rank": 3,
+          "score": 0.599261999130249,
+          "doc_id": "186",
+          "text": "Deep Semi-Supervised Learning 기반 컴퓨터 보조 진단 방법론 Deep Semi-Supervised Learning 기반 컴퓨터 보조 진단 방법론 Deep Semi-Supervised Learning 기반 컴퓨터 보조 진단 방법론 Medical image applications 분야는 가장 인기 있으며 적극적으로 연구되는 현대 Machine Learning 및 Deep Learning applications 중 하나의 분야로 부상되고 있다. Medical image analysis는 환자의 신체 영상의 획득과 의료 전문가의 진단 및 분석을 목적으로 한다. 여러 Machine Learning 방법론을 사용하면 다양한 질병을 진단할 수 있게 된다. 하지만, 보다 효율적이며 강인한 모델을 설계하기 위해서는 Label이 지정된 데이터 샘플이 필요하게 된다. &amp;#xD; 따라서, Label이 지정되지 않은 데이터를 활용하여 모델의 성능을 향상시키는 Medical image 분야에서 semi-supervised Learning의 연구가 활발히 이루어지고 있다. 본 연구에서는 2D 초음파 영상(CADe)와 KL-grade 무릎 방사선사(CADx) 분류에서 유방 병변 Segmentation을 위한 딥러닝 기술을 사용하여 Medical image analysis에서 개선된 Semi-Supervised CAD 시스템을 제안하였다. 본 논문에서는 residual 및 attention block을 통합한 residual-attention-based uncertainty-guided mean teacher framework를 제안한다. 높은 수준의 feature와 attention module의 flow를 가능하게 하여 deep network를 최적화하기 위한 residual은 학습 과정 중에서 가중치를 최적화하기 위해 모델의 focus를 향상시킨다. &amp;#xD; 또한, 본 논문에서는 semi-supervised 학습 방법을 사용하여 학습 과정에서 label이 지정되지 않은 데이터를 활용할 수 있는 가능성을 탐구한다. 특히, uncertainty-guided mean-teacher-student 구조를 활용하여 residual attention U-Net 모델의 학습 중 label이 지정되지 않은 샘플을 통합할 수 있는 가능성을 입증하였다. &amp;#xD; 따라서, label이 지정되지 않은 추가 데이터를 unsupervised 및 supervised 방식으로 활용할 수있는 semi-supervised multitask learning-based 학습 기반 접근 방식을 개발하였다. 구체적으로, 이 과정은 reconstruction에 대해서만 unsupervised 된 상태에서 먼저 학습된 dual-channel adversarial autoencoder를 제안한다. 본 연구는 supervised 방식으로 추가 데이터를 활용하기 위해 auxilary task를 도입하여 multi-task learning framework를 제안한다. 특히, leg side의 식별은 auxilary task로 사용되므로 CHECK 데이터셋과 같은 더 많은 데이터셋을 사용할 수 있게 된다. 따라서, 추가 데이터의 활용이 소수의 label된 데이터만 사용할 수 있는 KL-grade 분류에서 main task의 성능을 향상시킬 수 있음을 보여준다. &amp;#xD; 다양한 측면, 즉 전반적인 성능, label이 지정되지 않은 추가 샘플 및 auxiliary task의 효과, 강인한 분석 등에 대해 공개적으로 사용 가능한 두 개의 가장 큰 데이터셋에 대해 제안된 모델을 평가하였다. 제안된 모델은 각각 75.52%, 78.48%, 75.34%의 Accuracy, Recall, F1-Score를 달성하였다."
+        },
+        {
+          "rank": 4,
+          "score": 0.5965287089347839,
+          "doc_id": "174",
+          "text": "Self-Imitation Learning을 이용한 개선된 Deep Q-Network 알고리즘 Self-Imitation Learning을 이용한 개선된 Deep Q-Network 알고리즘 Self-Imitation Learning을 이용한 개선된 Deep Q-Network 알고리즘 Self-Imitation Learning은 간단한 비활성 정책 actor-critic 알고리즘으로써 에이전트가 과거의 좋은 경험을 활용하여 최적의 정책을 찾을 수 있도록 해준다. 그리고 actor-critic 구조를 갖는 강화학습 알고리즘에 결합되어 다양한 환경들에서 알고리즘의 상당한 개선을 보여주었다. 하지만 Self-Imitation Learning이 강화학습에 큰 도움을 준다고 하더라도 그 적용 분야는 actor-critic architecture를 가지는 강화학습 알고리즘으로 제한되어 있다. 본 논문에서 Self-Imitation Learning의 알고리즘을 가치 기반 강화학습 알고리즘인 DQN에 적용하는 방법을 제안하고, Self-Imitation Learning이 적용된 DQN 알고리즘의 학습을 다양한 환경에서 진행한다. 아울러 그 결과를 기존의 결과와 비교함으로써 Self-Imitation Leaning이 DQN에도 적용될 수 있으며 DQN의 성능을 개선할 수 있음을 보인다."
+        },
+        {
+          "rank": 5,
+          "score": 0.5939707159996033,
+          "doc_id": "33",
+          "text": "Machine Learning을 이용한 자동 돌발상황검지 Machine Learning을 이용한 자동 돌발상황검지 Machine Learning을 이용한 자동 돌발상황검지 Incidents on the freeway disrupt traffic flow and the cost of delay caused by incidents is significant. To reduce the impact of an incident, a traffic management center needs to quickly detect and remove it from the freeway. Quick and efficient automatic incident detection has been a main goal of the transportation research for many years. Also many algorithms based on loop detector data have been developed and tested for the Automatic Incident Detection(AID). However, many of them have a limited success in their overall performance in terms of detection rate, false alarm rate, and the mean time to detect an incident. Until recently, the neural network models have been the one of the popular and efficient approach for real-time automatic incident detection and many researches have shown that the neural network models were much more efficient than various other previous models. The purpose of this research is to propose a more efficient and accurate model than the neural network model in the automatic incident detection problem. For this purpose, a machine learning model, Support Vector Machine (SVM) learning which is based on the statistical learning theory, has been used in this paper. The experiments have been done with real world freeway data, and the results show that the SVM could provide better performance in terms of DR(Detection Rate) and FAR(False Alarm Rate) than Backpropagation which is the most popular neural network model."
+        },
+        {
+          "rank": 6,
+          "score": 0.5911256670951843,
+          "doc_id": "225",
+          "text": "Speech Recognition using Machine Learning Speech Recognition using Machine Learning Speech Recognition using Machine Learning Speech recognition is one of the fastest-growing engineering technologies. It has several applications in different areas, and provides many potential benefits. A lot of people are unable to communicate due to language barriers. We aim to reduce this barrier via our project, which was designed and developed to achieve systems in particular cases to provide significant help so people can share information by operating a computer using voice input. This project keeps that factor in mind, and an effort is made to ensure our project is able to recognize speech and convert input audio into text; it also enables a user to perform file operations like Save, Open, or Exit from voice-only input. We design a system that can recognize the human voice as well as audio clips, and translate between English and Hindi. The output is in text form, and we provide options to convert audio from one language to the other. Going forward, we expect to add functionality that provides dictionary meanings for Hindi and English words. Neural machine translation is the primary algorithm used in the industry to perform machine translation. Two recurrent neural networks used in tandem to construct an encoder–decoder structure are the architecture behind neural machine translation. This work on speech recognition starts with an introduction to the technology and the applications used in different sectors. Part of the report is based on software developments in speech recognition."
+        },
+        {
+          "rank": 7,
+          "score": 0.5867370367050171,
+          "doc_id": "111",
+          "text": "Artificial Intelligence for Artificial Artificial Intelligence Artificial Intelligence for Artificial Artificial Intelligence Artificial Intelligence for Artificial Artificial Intelligence Crowdsourcing platforms such as Amazon Mechanical Turk have become popular for a wide variety of human intelligence tasks; however, quality control continues to be a significant challenge. Recently, we propose TurKontrol, a theoretical model based on POMDPs to optimize iterative, crowd-sourced workflows. However, they neither describe how to learn the model parameters, nor show its effectiveness in a real crowd-sourced setting. Learning is challenging due to the scale of the model and noisy data: there are hundreds of thousands of workers with high-variance abilities. This paper presents an end-to-end system that first learns TurKontrol's POMDP parameters from real Mechanical Turk data, and then applies the model to dynamically optimize live tasks. We validate the model and use it to control a successive-improvement process on Mechanical Turk. By modeling worker accuracy and voting patterns, our system produces significantly superior artifacts compared to those generated through nonadaptive workflows using the same amount of money."
+        },
+        {
+          "rank": 8,
+          "score": 0.5716252326965332,
+          "doc_id": "128",
+          "text": "Machine learning-based adaptive CSI feedback interval Machine learning-based adaptive CSI feedback interval Machine learning-based adaptive CSI feedback interval The channel state information (CSI) is essential for the base station (BS) to schedule user equipments (UEs) and efficiently manage the radio resources. Hence, the BS requests UEs to regularly feed back the CSI. However, frequent CSI reporting causes large signaling overhead. To reduce the feedback overhead, we propose two machine learning-based approaches to adjust the CSI feedback interval. We use a deep neural network and reinforcement learning (RL) to decide whether an UE feeds back the CSI. Simulation results show that the RL-based approach achieves the lowest mean squared error while reducing the number of CSI feedback transmissions."
+        },
+        {
+          "rank": 9,
+          "score": 0.5708311200141907,
+          "doc_id": "200",
+          "text": "딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 본 논문에서는 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조를 개발한다. 제안하는 복합 미생물 배양기는 수집한 복합 미생물 데이터에 대해 복합 미생물 데이터 전처리, 복합 미생물 데이터 구조 변환, 딥러닝 네트워크 설계, 설계한 딥러닝 네트워크 학습, 시제품에 적용되는 GUI 개발 등으로 구성된다. 복합 미생물 데이터 전처리에서는 미생물 배양에 필요한 당밀, 영양제, 식물엑기스, 소금 등의 양에 대해 원-핫 인코딩을 실시하며, 배양된 결과로 측정된 pH 농도와 미생물의 셀 수에 대해 최대-최소 정규화 방법을 사용하여 데이터를 전처리한다. 복합 미생물 데이터 구조 변환에서는 전처리된 데이터를 물 온도와 미생물의 셀 수를 연결하여 그래프 구조로 변환 후, 인접 행렬과 속성 정보로 나타내어 딥러닝 네트워크의 입력 데이터로 사용한다. 딥러닝 네트워크 설계에서는 그래프 구조에 특화된 그래프 합성곱 네트워크를 설계하여 복합 미생물 데이터를 학습시킨다. 설계한 딥러닝 네트워크는 Cosine 손실함수를 사용하여 학습 시에 발생하는 오차를 최소화하는 방향으로 학습을 진행한다. 시제품에 적용되는 GUI 개발은 사용자가 선택하는 물 온도에 따라 목표하는 pH 농도(3.8 이하) 복합 미생물의 셀 수(108 이상)를 배양시키기 적합한 순으로 나타낸다. 제안된 미생물 배양기의 성능을 평가하기 위하여 공인시험기관에서 실험한 결과는, pH 농도의 경우 평균 3.7로, 복합 미생물의 셀 수는 1.7 &#x00D7; 108으로 측정되었다. 따라서, 본 논문에서 제안한 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조의 효용성이 입증되었다."
+        },
+        {
+          "rank": 10,
+          "score": 0.5686579346656799,
+          "doc_id": "42",
+          "text": "Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning In recent years, machine learning algorithms are continuously being used and expanded in various fields, such as facial recognition, signal processing, personal authentication, and stock prediction. In particular, various algorithms, such as deep learning, reinforcement learning, and Q-learning, are continuously being improved. Among these algorithms, the expansion of deep learning is rapidly changing. Nevertheless, machine learning algorithms have not yet been applied in several fields, such as personal authentication technology. This technology is an essential tool in the digital information era, walking recognition technology as promising biometrics, and technology for solving state-space problems. Therefore, algorithm technologies of deep learning, reinforcement learning, and Q-learning, which are typical machine learning algorithms in various fields, such as agricultural technology, personal authentication, wireless network, game, biometric recognition, and image recognition, are being improved and expanded in this paper."
+        }
+      ]
+    },
+    {
+      "query": "잡음 환경에서 시청각 음성인식의 인식률을 높이기 위한 통합 전략에서 은닉 마르코프 모델(HMM)은 어떤 역할을 수행하나요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5872663259506226,
+          "doc_id": "33",
+          "text": "Machine Learning을 이용한 자동 돌발상황검지 Machine Learning을 이용한 자동 돌발상황검지 Machine Learning을 이용한 자동 돌발상황검지 Incidents on the freeway disrupt traffic flow and the cost of delay caused by incidents is significant. To reduce the impact of an incident, a traffic management center needs to quickly detect and remove it from the freeway. Quick and efficient automatic incident detection has been a main goal of the transportation research for many years. Also many algorithms based on loop detector data have been developed and tested for the Automatic Incident Detection(AID). However, many of them have a limited success in their overall performance in terms of detection rate, false alarm rate, and the mean time to detect an incident. Until recently, the neural network models have been the one of the popular and efficient approach for real-time automatic incident detection and many researches have shown that the neural network models were much more efficient than various other previous models. The purpose of this research is to propose a more efficient and accurate model than the neural network model in the automatic incident detection problem. For this purpose, a machine learning model, Support Vector Machine (SVM) learning which is based on the statistical learning theory, has been used in this paper. The experiments have been done with real world freeway data, and the results show that the SVM could provide better performance in terms of DR(Detection Rate) and FAR(False Alarm Rate) than Backpropagation which is the most popular neural network model."
+        },
+        {
+          "rank": 2,
+          "score": 0.5806416869163513,
+          "doc_id": "225",
+          "text": "Speech Recognition using Machine Learning Speech Recognition using Machine Learning Speech Recognition using Machine Learning Speech recognition is one of the fastest-growing engineering technologies. It has several applications in different areas, and provides many potential benefits. A lot of people are unable to communicate due to language barriers. We aim to reduce this barrier via our project, which was designed and developed to achieve systems in particular cases to provide significant help so people can share information by operating a computer using voice input. This project keeps that factor in mind, and an effort is made to ensure our project is able to recognize speech and convert input audio into text; it also enables a user to perform file operations like Save, Open, or Exit from voice-only input. We design a system that can recognize the human voice as well as audio clips, and translate between English and Hindi. The output is in text form, and we provide options to convert audio from one language to the other. Going forward, we expect to add functionality that provides dictionary meanings for Hindi and English words. Neural machine translation is the primary algorithm used in the industry to perform machine translation. Two recurrent neural networks used in tandem to construct an encoder–decoder structure are the architecture behind neural machine translation. This work on speech recognition starts with an introduction to the technology and the applications used in different sectors. Part of the report is based on software developments in speech recognition."
+        },
+        {
+          "rank": 3,
+          "score": 0.5774064064025879,
+          "doc_id": "156",
+          "text": "눈 특징의 STFT 결합 영상과 deep learning을 이용한 감성 인식 눈 특징의 STFT 결합 영상과 deep learning을 이용한 감성 인식 눈 특징의 STFT 결합 영상과 deep learning을 이용한 감성 인식 최근 사용자의 요구를 이해하기 위해 인간-컴퓨터 상호작용 (HCI) 분야에서 다양한 연구가 수행되고 있다. HCI의 대표적인 기술 중 하나는 사용자 감정 인식이다. 감정의 중요성이 증대됨에 따라, 사용자의 감정을 인식하기 위해 얼굴 표정, 제스처, 음성신호, 생리신호, 안구특징 및 멀티 모달리티 (Multi-Modality) 신호를 특징으로 사용하는 방법들이 제안되고 있다. &amp;#xD; 특히, 안구 특징은 사용자가 의도적으로 제어할 수 없으며 컴퓨터가 무의식적인 특징들을 인식할 수 있기 때문에 감정인식에 적합하다. 또한 다양한 분야에 적용될 것으로 기대되는 가상현실과 증강현실을 위해 안구 특징에 기반한 감정인식 기술이 연구되어야 한다.&amp;#xD; 합성곱 신경망 (CNN)과 재귀 신경망 (RNN)과 같은 심층 학습 (Deep learning) 기술들이 다양한 분야에서 성공하고 있으며, 다양한 모달리티들을 이용하는 감정인식 연구에 적용되고 있다. 그러나 다른 모달리티들과 달리, 안구 특징만을 사용하는 심층 학습기반의 감정인식 연구는 매우 부족하다.&amp;#xD; 본 학위논문에서는 시간정보와 동공 크기와 눈 움직임 신호와 같은 안구 특징들만을 이용한 심층 학습 기반의 감정인식 방법을 제안한다.&amp;#xD; 그 과정은 다음과 같다. 먼저, 눈 깜빡임 또는 기술적인 결함으로 인해 발생되는 눈 크기 및 눈 움직임 신호들의 데이터 미획득 구간을 채우기 위한 보간을 수행한다. 그 후 데이터의 길이와 범위를 일치시키기 위해, 신호의 시간과 각 피실험자의 신호들에 대해 정규화를 수행한다. 다음으로 동공 크기 및 눈 움직임 신호들의 시간과 주파수 정보를 분석하기 위해 Short-Time Fourier Transform (STFT) 특징들을 추출하고, 그 특징들을 결합하여 STFT 특징 결합 영상이라 불리우는 단일 이미지를 생성한다. 마지막으로, valence-arousal 인식을 수행하기 위해, STFT 특징 결합 영상에 적합한 심층 학습 모델을 생성한 후 leave-one-out cross validation (LOOCV) 방법을 이용하여 제안하는 방법의 성능을 평가한다. &amp;#xD; 대부분의 연구에서, 안구 특징은 다른 모달리티 기반의 감정인식 성능을 향상시키기 위한 보조정보로만 사용하고 있다. 이는 안구 특징이 자극에 민감하고 수동적인 특징 추출방법으로 양질의 특징을 추출하기 어려운 많은 이상치 (Outlier)들을 포함하기 때문이다. 그러나 제안하는 방법의 분류 정확도는 Soleymani [53]가 제안한 결정 수준 융합 (DLF)와 서포트 벡터 머신 (SVM)을 이용한 방법보다 valence와 arousal 감정에 대해 각각 23.6%, 9.8% 향상된 분류 정확도를 달성하였다.&amp;#xD; 실험결과는 제안하는 방법의 효과성을 입증하였고, CNN 모델이 다른 모달리티 기반의 감정인식 방법뿐만 아니라 안구 특징 기반 감정인식에도 효과적이며, 눈 움직임 정보가 valence 감정 인식에도 효과적임을 보였다."
+        },
+        {
+          "rank": 4,
+          "score": 0.5771077275276184,
+          "doc_id": "111",
+          "text": "Artificial Intelligence for Artificial Artificial Intelligence Artificial Intelligence for Artificial Artificial Intelligence Artificial Intelligence for Artificial Artificial Intelligence Crowdsourcing platforms such as Amazon Mechanical Turk have become popular for a wide variety of human intelligence tasks; however, quality control continues to be a significant challenge. Recently, we propose TurKontrol, a theoretical model based on POMDPs to optimize iterative, crowd-sourced workflows. However, they neither describe how to learn the model parameters, nor show its effectiveness in a real crowd-sourced setting. Learning is challenging due to the scale of the model and noisy data: there are hundreds of thousands of workers with high-variance abilities. This paper presents an end-to-end system that first learns TurKontrol's POMDP parameters from real Mechanical Turk data, and then applies the model to dynamically optimize live tasks. We validate the model and use it to control a successive-improvement process on Mechanical Turk. By modeling worker accuracy and voting patterns, our system produces significantly superior artifacts compared to those generated through nonadaptive workflows using the same amount of money."
+        },
+        {
+          "rank": 5,
+          "score": 0.57330322265625,
+          "doc_id": "186",
+          "text": "Deep Semi-Supervised Learning 기반 컴퓨터 보조 진단 방법론 Deep Semi-Supervised Learning 기반 컴퓨터 보조 진단 방법론 Deep Semi-Supervised Learning 기반 컴퓨터 보조 진단 방법론 Medical image applications 분야는 가장 인기 있으며 적극적으로 연구되는 현대 Machine Learning 및 Deep Learning applications 중 하나의 분야로 부상되고 있다. Medical image analysis는 환자의 신체 영상의 획득과 의료 전문가의 진단 및 분석을 목적으로 한다. 여러 Machine Learning 방법론을 사용하면 다양한 질병을 진단할 수 있게 된다. 하지만, 보다 효율적이며 강인한 모델을 설계하기 위해서는 Label이 지정된 데이터 샘플이 필요하게 된다. &amp;#xD; 따라서, Label이 지정되지 않은 데이터를 활용하여 모델의 성능을 향상시키는 Medical image 분야에서 semi-supervised Learning의 연구가 활발히 이루어지고 있다. 본 연구에서는 2D 초음파 영상(CADe)와 KL-grade 무릎 방사선사(CADx) 분류에서 유방 병변 Segmentation을 위한 딥러닝 기술을 사용하여 Medical image analysis에서 개선된 Semi-Supervised CAD 시스템을 제안하였다. 본 논문에서는 residual 및 attention block을 통합한 residual-attention-based uncertainty-guided mean teacher framework를 제안한다. 높은 수준의 feature와 attention module의 flow를 가능하게 하여 deep network를 최적화하기 위한 residual은 학습 과정 중에서 가중치를 최적화하기 위해 모델의 focus를 향상시킨다. &amp;#xD; 또한, 본 논문에서는 semi-supervised 학습 방법을 사용하여 학습 과정에서 label이 지정되지 않은 데이터를 활용할 수 있는 가능성을 탐구한다. 특히, uncertainty-guided mean-teacher-student 구조를 활용하여 residual attention U-Net 모델의 학습 중 label이 지정되지 않은 샘플을 통합할 수 있는 가능성을 입증하였다. &amp;#xD; 따라서, label이 지정되지 않은 추가 데이터를 unsupervised 및 supervised 방식으로 활용할 수있는 semi-supervised multitask learning-based 학습 기반 접근 방식을 개발하였다. 구체적으로, 이 과정은 reconstruction에 대해서만 unsupervised 된 상태에서 먼저 학습된 dual-channel adversarial autoencoder를 제안한다. 본 연구는 supervised 방식으로 추가 데이터를 활용하기 위해 auxilary task를 도입하여 multi-task learning framework를 제안한다. 특히, leg side의 식별은 auxilary task로 사용되므로 CHECK 데이터셋과 같은 더 많은 데이터셋을 사용할 수 있게 된다. 따라서, 추가 데이터의 활용이 소수의 label된 데이터만 사용할 수 있는 KL-grade 분류에서 main task의 성능을 향상시킬 수 있음을 보여준다. &amp;#xD; 다양한 측면, 즉 전반적인 성능, label이 지정되지 않은 추가 샘플 및 auxiliary task의 효과, 강인한 분석 등에 대해 공개적으로 사용 가능한 두 개의 가장 큰 데이터셋에 대해 제안된 모델을 평가하였다. 제안된 모델은 각각 75.52%, 78.48%, 75.34%의 Accuracy, Recall, F1-Score를 달성하였다."
+        },
+        {
+          "rank": 6,
+          "score": 0.5614843964576721,
+          "doc_id": "205",
+          "text": "Deep Learning을 활용한 산사태 결정론 방법의 활용성 고찰 Deep Learning을 활용한 산사태 결정론 방법의 활용성 고찰 Deep Learning을 활용한 산사태 결정론 방법의 활용성 고찰 산사태 위험지역을 결정론적인 방법으로 도출할 수 있는 Analytic Hierarchy Process (AHP) 기반의 선행 연구가 2017년도에 제안되었다. 해당 연구의 목적은 기존에 제안된 결정론적인 방법의 활용성을 향상시키고자 deep learning 기법을 적용하여 해당 방법의 신뢰성을 검증하는 것이다. AHP 기반의 결정론적인 방법은 8개 인자인 세립분 함량, 표토층 두께, 간극비, 탄성계수, 전단강도, 투수계수, 포화도 그리고 함수비로 구성되며 이를 통해 안전율을 도출할 수 있다. 대상 지역을 1 m 정사각형의 격자로 구성한 후 현장 및 실내 실험을 통해 8개의 인자를 도출하였다. 안전율은 Mohr-Coulomb의 파괴 이론을 통해 계산하여 deep learning의 출력 값으로 활용하였다. Deep learning 기법 적용 시 입력 값과 출력 값의 학습 능률을 향상시키기 위하여 경사하강법 중 Bayesian regularization을 적용하였으며, 학습 결과 실제 안전율과 deep learning 기법으로 예측된 안전율이 train과 test 단계 모두에서 우수한 신뢰성을 보여준다. 해당 연구에서 활용한 deep learning 기법이 산사태 위험지역 선정에 결정론적 방법으로 유용하게 이용될 것으로 사료된다."
+        },
+        {
+          "rank": 7,
+          "score": 0.5612286925315857,
+          "doc_id": "123",
+          "text": "딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝은 인공신경망(neural network)이라는 인공지능분야의 모형이 발전된 형태로서, 계층구조로 이루어진 인공신경망의 내부계층(hidden layer)이 여러 단계로 이루어진 구조이다. 딥러닝에서의 주요 모형은 합성곱신경망(convolutional neural network), 순환신경망(recurrent neural network), 그리고 심층신뢰신경망(deep belief network)의 세가지라고 할 수 있다. 그 중에서 현재 흥미로운 연구가 많이 발표되어서 관심이 집중되고 있는 모형은 지도학습(supervised learning)모형인 처음 두 개의 모형이다. 따라서 본 논문에서는 지도학습모형의 가중치를 최적화하는 기본적인 방법인 오류역전파 알고리즘을 살펴본 뒤에 합성곱신경망과 순환신경망의 구조와 응용사례 등을 살펴보고자 한다. 본문에서 다루지 않은 모형인 심층신뢰신경망은 아직까지는 합성곱신경망 이나 순환신경망보다는 상대적으로 주목을 덜 받고 있다. 그러나 심층신뢰신경망은 CNN이나 RNN과는 달리 비지도학습(unsupervised learning)모형이며, 사람이나 동물은 관찰을 통해서 스스로 학습한다는 점에서 궁극적으로는 비지도학습모형이 더 많이 연구되어야 할 주제가 될 것이다."
+        },
+        {
+          "rank": 8,
+          "score": 0.5598862767219543,
+          "doc_id": "110",
+          "text": "Machine Learning기법을 이용한 Robot 이상 예지 보전 Machine Learning기법을 이용한 Robot 이상 예지 보전 Machine Learning기법을 이용한 Robot 이상 예지 보전 In this paper, a predictive maintenance of the robot trouble using the machine learning method, so called MT(Mahalanobis Taguchi), was studied. Especially, 'MD(Mahalanobis Distance)' was used to compare the robot arm motion difference between before the maintenance(bearing change) and after the maintenance. 6-axies vibration sensor was used to detect the vibration sensing during the motion of the robot arm. The results of the comparison, MD value of the arm motions of the after the maintenance(bearing change) was much lower and stable compared to MD value of the arm motions of the before the maintenance. MD value well distinguished the fine difference of the arm vibration of the robot. The superior performance of the MT method applied to the prediction of the robot trouble was verified by this experiments."
+        },
+        {
+          "rank": 9,
+          "score": 0.5553185939788818,
+          "doc_id": "9",
+          "text": "Wave data prediction with optimized machine learning and deep learning techniques Wave data prediction with optimized machine learning and deep learning techniques Wave data prediction with optimized machine learning and deep learning techniques Maritime Autonomous Surface Ships are in the development stage and they play an important role in the upcoming future. Present generation ships are semi-autonomous and controlled by the ship crew. The performance of the ship is predicted using the data collected from the ship with the help of machine learning and deep learning methods. Path planning for an autonomous ship is necessary for estimating the best possible route with minimum travel time and it depends on the weather. However, even during the navigation, there will be changes in weather and it should be predicted in order to reroute the ship. The weather information such as wave height, wave period, seawater temperature, humidity, atmospheric pressure, etc., is collected by ship external sensors, weather stations, buoys, and satellites. This paper investigates the ensemble machine learning approaches and seasonality approach for wave data prediction. The historical meteorological data are collected from six stations near Puerto Rico offshore and Hawaii offshore. We explore ensemble machine learning techniques on the data collected. The collected data are divided into training and testing data and apply machine learning models to predict the test data. The hyperparameter optimization is performed to find the best parameters before fitting on train data, this is essential to find the best results. Multivariate analysis is performed with all the methods and errors are computed to find the best models."
+        },
+        {
+          "rank": 10,
+          "score": 0.5537104606628418,
+          "doc_id": "174",
+          "text": "Self-Imitation Learning을 이용한 개선된 Deep Q-Network 알고리즘 Self-Imitation Learning을 이용한 개선된 Deep Q-Network 알고리즘 Self-Imitation Learning을 이용한 개선된 Deep Q-Network 알고리즘 Self-Imitation Learning은 간단한 비활성 정책 actor-critic 알고리즘으로써 에이전트가 과거의 좋은 경험을 활용하여 최적의 정책을 찾을 수 있도록 해준다. 그리고 actor-critic 구조를 갖는 강화학습 알고리즘에 결합되어 다양한 환경들에서 알고리즘의 상당한 개선을 보여주었다. 하지만 Self-Imitation Learning이 강화학습에 큰 도움을 준다고 하더라도 그 적용 분야는 actor-critic architecture를 가지는 강화학습 알고리즘으로 제한되어 있다. 본 논문에서 Self-Imitation Learning의 알고리즘을 가치 기반 강화학습 알고리즘인 DQN에 적용하는 방법을 제안하고, Self-Imitation Learning이 적용된 DQN 알고리즘의 학습을 다양한 환경에서 진행한다. 아울러 그 결과를 기존의 결과와 비교함으로써 Self-Imitation Leaning이 DQN에도 적용될 수 있으며 DQN의 성능을 개선할 수 있음을 보인다."
+        }
+      ]
+    },
+    {
+      "query": "잡음 환경에서 시청각 음성인식의 인식률을 높이기 위한 통합 전략에서 신경망(NN)은 어떤 역할을 수행하나요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6153374314308167,
+          "doc_id": "225",
+          "text": "Speech Recognition using Machine Learning Speech Recognition using Machine Learning Speech Recognition using Machine Learning Speech recognition is one of the fastest-growing engineering technologies. It has several applications in different areas, and provides many potential benefits. A lot of people are unable to communicate due to language barriers. We aim to reduce this barrier via our project, which was designed and developed to achieve systems in particular cases to provide significant help so people can share information by operating a computer using voice input. This project keeps that factor in mind, and an effort is made to ensure our project is able to recognize speech and convert input audio into text; it also enables a user to perform file operations like Save, Open, or Exit from voice-only input. We design a system that can recognize the human voice as well as audio clips, and translate between English and Hindi. The output is in text form, and we provide options to convert audio from one language to the other. Going forward, we expect to add functionality that provides dictionary meanings for Hindi and English words. Neural machine translation is the primary algorithm used in the industry to perform machine translation. Two recurrent neural networks used in tandem to construct an encoder–decoder structure are the architecture behind neural machine translation. This work on speech recognition starts with an introduction to the technology and the applications used in different sectors. Part of the report is based on software developments in speech recognition."
+        },
+        {
+          "rank": 2,
+          "score": 0.6094878315925598,
+          "doc_id": "156",
+          "text": "눈 특징의 STFT 결합 영상과 deep learning을 이용한 감성 인식 눈 특징의 STFT 결합 영상과 deep learning을 이용한 감성 인식 눈 특징의 STFT 결합 영상과 deep learning을 이용한 감성 인식 최근 사용자의 요구를 이해하기 위해 인간-컴퓨터 상호작용 (HCI) 분야에서 다양한 연구가 수행되고 있다. HCI의 대표적인 기술 중 하나는 사용자 감정 인식이다. 감정의 중요성이 증대됨에 따라, 사용자의 감정을 인식하기 위해 얼굴 표정, 제스처, 음성신호, 생리신호, 안구특징 및 멀티 모달리티 (Multi-Modality) 신호를 특징으로 사용하는 방법들이 제안되고 있다. &amp;#xD; 특히, 안구 특징은 사용자가 의도적으로 제어할 수 없으며 컴퓨터가 무의식적인 특징들을 인식할 수 있기 때문에 감정인식에 적합하다. 또한 다양한 분야에 적용될 것으로 기대되는 가상현실과 증강현실을 위해 안구 특징에 기반한 감정인식 기술이 연구되어야 한다.&amp;#xD; 합성곱 신경망 (CNN)과 재귀 신경망 (RNN)과 같은 심층 학습 (Deep learning) 기술들이 다양한 분야에서 성공하고 있으며, 다양한 모달리티들을 이용하는 감정인식 연구에 적용되고 있다. 그러나 다른 모달리티들과 달리, 안구 특징만을 사용하는 심층 학습기반의 감정인식 연구는 매우 부족하다.&amp;#xD; 본 학위논문에서는 시간정보와 동공 크기와 눈 움직임 신호와 같은 안구 특징들만을 이용한 심층 학습 기반의 감정인식 방법을 제안한다.&amp;#xD; 그 과정은 다음과 같다. 먼저, 눈 깜빡임 또는 기술적인 결함으로 인해 발생되는 눈 크기 및 눈 움직임 신호들의 데이터 미획득 구간을 채우기 위한 보간을 수행한다. 그 후 데이터의 길이와 범위를 일치시키기 위해, 신호의 시간과 각 피실험자의 신호들에 대해 정규화를 수행한다. 다음으로 동공 크기 및 눈 움직임 신호들의 시간과 주파수 정보를 분석하기 위해 Short-Time Fourier Transform (STFT) 특징들을 추출하고, 그 특징들을 결합하여 STFT 특징 결합 영상이라 불리우는 단일 이미지를 생성한다. 마지막으로, valence-arousal 인식을 수행하기 위해, STFT 특징 결합 영상에 적합한 심층 학습 모델을 생성한 후 leave-one-out cross validation (LOOCV) 방법을 이용하여 제안하는 방법의 성능을 평가한다. &amp;#xD; 대부분의 연구에서, 안구 특징은 다른 모달리티 기반의 감정인식 성능을 향상시키기 위한 보조정보로만 사용하고 있다. 이는 안구 특징이 자극에 민감하고 수동적인 특징 추출방법으로 양질의 특징을 추출하기 어려운 많은 이상치 (Outlier)들을 포함하기 때문이다. 그러나 제안하는 방법의 분류 정확도는 Soleymani [53]가 제안한 결정 수준 융합 (DLF)와 서포트 벡터 머신 (SVM)을 이용한 방법보다 valence와 arousal 감정에 대해 각각 23.6%, 9.8% 향상된 분류 정확도를 달성하였다.&amp;#xD; 실험결과는 제안하는 방법의 효과성을 입증하였고, CNN 모델이 다른 모달리티 기반의 감정인식 방법뿐만 아니라 안구 특징 기반 감정인식에도 효과적이며, 눈 움직임 정보가 valence 감정 인식에도 효과적임을 보였다."
+        },
+        {
+          "rank": 3,
+          "score": 0.6009448170661926,
+          "doc_id": "157",
+          "text": "Engineering artificial intelligence Engineering artificial intelligence Engineering artificial intelligence Current Artificial Intelligence can be used to good effect in engineering systems for emulating some high-level mental functions of humans but is not suitable for coping with many other difficult tasks, especially those involving combined perception and cognition. Neural-net computing on the other hand seems to be better suited to meeting the demands of those types of tasks. These matters are discussed in this paper and it is suggested that the type of Artificial Intelligence appropriate for use in an engineering system will be an evolved one combining the strengths of symbolic processing and neural-net computing."
+        },
+        {
+          "rank": 4,
+          "score": 0.6007171869277954,
+          "doc_id": "174",
+          "text": "Self-Imitation Learning을 이용한 개선된 Deep Q-Network 알고리즘 Self-Imitation Learning을 이용한 개선된 Deep Q-Network 알고리즘 Self-Imitation Learning을 이용한 개선된 Deep Q-Network 알고리즘 Self-Imitation Learning은 간단한 비활성 정책 actor-critic 알고리즘으로써 에이전트가 과거의 좋은 경험을 활용하여 최적의 정책을 찾을 수 있도록 해준다. 그리고 actor-critic 구조를 갖는 강화학습 알고리즘에 결합되어 다양한 환경들에서 알고리즘의 상당한 개선을 보여주었다. 하지만 Self-Imitation Learning이 강화학습에 큰 도움을 준다고 하더라도 그 적용 분야는 actor-critic architecture를 가지는 강화학습 알고리즘으로 제한되어 있다. 본 논문에서 Self-Imitation Learning의 알고리즘을 가치 기반 강화학습 알고리즘인 DQN에 적용하는 방법을 제안하고, Self-Imitation Learning이 적용된 DQN 알고리즘의 학습을 다양한 환경에서 진행한다. 아울러 그 결과를 기존의 결과와 비교함으로써 Self-Imitation Leaning이 DQN에도 적용될 수 있으며 DQN의 성능을 개선할 수 있음을 보인다."
+        },
+        {
+          "rank": 5,
+          "score": 0.5996540188789368,
+          "doc_id": "186",
+          "text": "Deep Semi-Supervised Learning 기반 컴퓨터 보조 진단 방법론 Deep Semi-Supervised Learning 기반 컴퓨터 보조 진단 방법론 Deep Semi-Supervised Learning 기반 컴퓨터 보조 진단 방법론 Medical image applications 분야는 가장 인기 있으며 적극적으로 연구되는 현대 Machine Learning 및 Deep Learning applications 중 하나의 분야로 부상되고 있다. Medical image analysis는 환자의 신체 영상의 획득과 의료 전문가의 진단 및 분석을 목적으로 한다. 여러 Machine Learning 방법론을 사용하면 다양한 질병을 진단할 수 있게 된다. 하지만, 보다 효율적이며 강인한 모델을 설계하기 위해서는 Label이 지정된 데이터 샘플이 필요하게 된다. &amp;#xD; 따라서, Label이 지정되지 않은 데이터를 활용하여 모델의 성능을 향상시키는 Medical image 분야에서 semi-supervised Learning의 연구가 활발히 이루어지고 있다. 본 연구에서는 2D 초음파 영상(CADe)와 KL-grade 무릎 방사선사(CADx) 분류에서 유방 병변 Segmentation을 위한 딥러닝 기술을 사용하여 Medical image analysis에서 개선된 Semi-Supervised CAD 시스템을 제안하였다. 본 논문에서는 residual 및 attention block을 통합한 residual-attention-based uncertainty-guided mean teacher framework를 제안한다. 높은 수준의 feature와 attention module의 flow를 가능하게 하여 deep network를 최적화하기 위한 residual은 학습 과정 중에서 가중치를 최적화하기 위해 모델의 focus를 향상시킨다. &amp;#xD; 또한, 본 논문에서는 semi-supervised 학습 방법을 사용하여 학습 과정에서 label이 지정되지 않은 데이터를 활용할 수 있는 가능성을 탐구한다. 특히, uncertainty-guided mean-teacher-student 구조를 활용하여 residual attention U-Net 모델의 학습 중 label이 지정되지 않은 샘플을 통합할 수 있는 가능성을 입증하였다. &amp;#xD; 따라서, label이 지정되지 않은 추가 데이터를 unsupervised 및 supervised 방식으로 활용할 수있는 semi-supervised multitask learning-based 학습 기반 접근 방식을 개발하였다. 구체적으로, 이 과정은 reconstruction에 대해서만 unsupervised 된 상태에서 먼저 학습된 dual-channel adversarial autoencoder를 제안한다. 본 연구는 supervised 방식으로 추가 데이터를 활용하기 위해 auxilary task를 도입하여 multi-task learning framework를 제안한다. 특히, leg side의 식별은 auxilary task로 사용되므로 CHECK 데이터셋과 같은 더 많은 데이터셋을 사용할 수 있게 된다. 따라서, 추가 데이터의 활용이 소수의 label된 데이터만 사용할 수 있는 KL-grade 분류에서 main task의 성능을 향상시킬 수 있음을 보여준다. &amp;#xD; 다양한 측면, 즉 전반적인 성능, label이 지정되지 않은 추가 샘플 및 auxiliary task의 효과, 강인한 분석 등에 대해 공개적으로 사용 가능한 두 개의 가장 큰 데이터셋에 대해 제안된 모델을 평가하였다. 제안된 모델은 각각 75.52%, 78.48%, 75.34%의 Accuracy, Recall, F1-Score를 달성하였다."
+        },
+        {
+          "rank": 6,
+          "score": 0.5994833111763,
+          "doc_id": "123",
+          "text": "딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝은 인공신경망(neural network)이라는 인공지능분야의 모형이 발전된 형태로서, 계층구조로 이루어진 인공신경망의 내부계층(hidden layer)이 여러 단계로 이루어진 구조이다. 딥러닝에서의 주요 모형은 합성곱신경망(convolutional neural network), 순환신경망(recurrent neural network), 그리고 심층신뢰신경망(deep belief network)의 세가지라고 할 수 있다. 그 중에서 현재 흥미로운 연구가 많이 발표되어서 관심이 집중되고 있는 모형은 지도학습(supervised learning)모형인 처음 두 개의 모형이다. 따라서 본 논문에서는 지도학습모형의 가중치를 최적화하는 기본적인 방법인 오류역전파 알고리즘을 살펴본 뒤에 합성곱신경망과 순환신경망의 구조와 응용사례 등을 살펴보고자 한다. 본문에서 다루지 않은 모형인 심층신뢰신경망은 아직까지는 합성곱신경망 이나 순환신경망보다는 상대적으로 주목을 덜 받고 있다. 그러나 심층신뢰신경망은 CNN이나 RNN과는 달리 비지도학습(unsupervised learning)모형이며, 사람이나 동물은 관찰을 통해서 스스로 학습한다는 점에서 궁극적으로는 비지도학습모형이 더 많이 연구되어야 할 주제가 될 것이다."
+        },
+        {
+          "rank": 7,
+          "score": 0.5926281213760376,
+          "doc_id": "153",
+          "text": "Artificial Intelligence, Language Intelligence, and Mathematics Artificial Intelligence, Language Intelligence, and Mathematics Artificial Intelligence, Language Intelligence, and Mathematics Artificial neural networks(ANN) has provided a theoretical framework on the study of human behavior/cognition and artificial intelligence. This article aims to introduce ANN and its mathematical principle to the field of applied linguistics. An ANN consists of input, hidden, and output vectors and the vectors are connected to one another by weight matrices. Mapping from input to output is accounted for by simple matrix multiplication."
+        },
+        {
+          "rank": 8,
+          "score": 0.5892506837844849,
+          "doc_id": "33",
+          "text": "Machine Learning을 이용한 자동 돌발상황검지 Machine Learning을 이용한 자동 돌발상황검지 Machine Learning을 이용한 자동 돌발상황검지 Incidents on the freeway disrupt traffic flow and the cost of delay caused by incidents is significant. To reduce the impact of an incident, a traffic management center needs to quickly detect and remove it from the freeway. Quick and efficient automatic incident detection has been a main goal of the transportation research for many years. Also many algorithms based on loop detector data have been developed and tested for the Automatic Incident Detection(AID). However, many of them have a limited success in their overall performance in terms of detection rate, false alarm rate, and the mean time to detect an incident. Until recently, the neural network models have been the one of the popular and efficient approach for real-time automatic incident detection and many researches have shown that the neural network models were much more efficient than various other previous models. The purpose of this research is to propose a more efficient and accurate model than the neural network model in the automatic incident detection problem. For this purpose, a machine learning model, Support Vector Machine (SVM) learning which is based on the statistical learning theory, has been used in this paper. The experiments have been done with real world freeway data, and the results show that the SVM could provide better performance in terms of DR(Detection Rate) and FAR(False Alarm Rate) than Backpropagation which is the most popular neural network model."
+        },
+        {
+          "rank": 9,
+          "score": 0.5871456265449524,
+          "doc_id": "200",
+          "text": "딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 본 논문에서는 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조를 개발한다. 제안하는 복합 미생물 배양기는 수집한 복합 미생물 데이터에 대해 복합 미생물 데이터 전처리, 복합 미생물 데이터 구조 변환, 딥러닝 네트워크 설계, 설계한 딥러닝 네트워크 학습, 시제품에 적용되는 GUI 개발 등으로 구성된다. 복합 미생물 데이터 전처리에서는 미생물 배양에 필요한 당밀, 영양제, 식물엑기스, 소금 등의 양에 대해 원-핫 인코딩을 실시하며, 배양된 결과로 측정된 pH 농도와 미생물의 셀 수에 대해 최대-최소 정규화 방법을 사용하여 데이터를 전처리한다. 복합 미생물 데이터 구조 변환에서는 전처리된 데이터를 물 온도와 미생물의 셀 수를 연결하여 그래프 구조로 변환 후, 인접 행렬과 속성 정보로 나타내어 딥러닝 네트워크의 입력 데이터로 사용한다. 딥러닝 네트워크 설계에서는 그래프 구조에 특화된 그래프 합성곱 네트워크를 설계하여 복합 미생물 데이터를 학습시킨다. 설계한 딥러닝 네트워크는 Cosine 손실함수를 사용하여 학습 시에 발생하는 오차를 최소화하는 방향으로 학습을 진행한다. 시제품에 적용되는 GUI 개발은 사용자가 선택하는 물 온도에 따라 목표하는 pH 농도(3.8 이하) 복합 미생물의 셀 수(108 이상)를 배양시키기 적합한 순으로 나타낸다. 제안된 미생물 배양기의 성능을 평가하기 위하여 공인시험기관에서 실험한 결과는, pH 농도의 경우 평균 3.7로, 복합 미생물의 셀 수는 1.7 &#x00D7; 108으로 측정되었다. 따라서, 본 논문에서 제안한 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조의 효용성이 입증되었다."
+        },
+        {
+          "rank": 10,
+          "score": 0.5821061134338379,
+          "doc_id": "148",
+          "text": "A deep-learning-based emergency alert system A deep-learning-based emergency alert system A deep-learning-based emergency alert system Emergency alert systems serve as a critical link in the chain of crisis communication, and they are essential to minimize loss during emergencies. Acts of terrorism and violence, chemical spills, amber alerts, nuclear facility problems, weather-related emergencies, flu pandemics, and other emergencies all require those responsible such as government officials, building managers, and university administrators to be able to quickly and reliably distribute emergency information to the public. This paper presents our design of a deep-learning-based emergency warning system. The proposed system is considered suitable for application in existing infrastructure such as closed-circuit television and other monitoring devices. The experimental results show that in most cases, our system immediately detects emergencies such as car accidents and natural disasters."
+        }
+      ]
+    },
+    {
+      "query": "은닉 마르코프 모델(HMM)과 신경망(NN)은 잡음 환경 시청각 음성인식의 인식률 향상을 위한 통합 전략에서 구체적으로 어떻게 결합되거나 통합되나요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 2
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6332544088363647,
+          "doc_id": "156",
+          "text": "눈 특징의 STFT 결합 영상과 deep learning을 이용한 감성 인식 눈 특징의 STFT 결합 영상과 deep learning을 이용한 감성 인식 눈 특징의 STFT 결합 영상과 deep learning을 이용한 감성 인식 최근 사용자의 요구를 이해하기 위해 인간-컴퓨터 상호작용 (HCI) 분야에서 다양한 연구가 수행되고 있다. HCI의 대표적인 기술 중 하나는 사용자 감정 인식이다. 감정의 중요성이 증대됨에 따라, 사용자의 감정을 인식하기 위해 얼굴 표정, 제스처, 음성신호, 생리신호, 안구특징 및 멀티 모달리티 (Multi-Modality) 신호를 특징으로 사용하는 방법들이 제안되고 있다. &amp;#xD; 특히, 안구 특징은 사용자가 의도적으로 제어할 수 없으며 컴퓨터가 무의식적인 특징들을 인식할 수 있기 때문에 감정인식에 적합하다. 또한 다양한 분야에 적용될 것으로 기대되는 가상현실과 증강현실을 위해 안구 특징에 기반한 감정인식 기술이 연구되어야 한다.&amp;#xD; 합성곱 신경망 (CNN)과 재귀 신경망 (RNN)과 같은 심층 학습 (Deep learning) 기술들이 다양한 분야에서 성공하고 있으며, 다양한 모달리티들을 이용하는 감정인식 연구에 적용되고 있다. 그러나 다른 모달리티들과 달리, 안구 특징만을 사용하는 심층 학습기반의 감정인식 연구는 매우 부족하다.&amp;#xD; 본 학위논문에서는 시간정보와 동공 크기와 눈 움직임 신호와 같은 안구 특징들만을 이용한 심층 학습 기반의 감정인식 방법을 제안한다.&amp;#xD; 그 과정은 다음과 같다. 먼저, 눈 깜빡임 또는 기술적인 결함으로 인해 발생되는 눈 크기 및 눈 움직임 신호들의 데이터 미획득 구간을 채우기 위한 보간을 수행한다. 그 후 데이터의 길이와 범위를 일치시키기 위해, 신호의 시간과 각 피실험자의 신호들에 대해 정규화를 수행한다. 다음으로 동공 크기 및 눈 움직임 신호들의 시간과 주파수 정보를 분석하기 위해 Short-Time Fourier Transform (STFT) 특징들을 추출하고, 그 특징들을 결합하여 STFT 특징 결합 영상이라 불리우는 단일 이미지를 생성한다. 마지막으로, valence-arousal 인식을 수행하기 위해, STFT 특징 결합 영상에 적합한 심층 학습 모델을 생성한 후 leave-one-out cross validation (LOOCV) 방법을 이용하여 제안하는 방법의 성능을 평가한다. &amp;#xD; 대부분의 연구에서, 안구 특징은 다른 모달리티 기반의 감정인식 성능을 향상시키기 위한 보조정보로만 사용하고 있다. 이는 안구 특징이 자극에 민감하고 수동적인 특징 추출방법으로 양질의 특징을 추출하기 어려운 많은 이상치 (Outlier)들을 포함하기 때문이다. 그러나 제안하는 방법의 분류 정확도는 Soleymani [53]가 제안한 결정 수준 융합 (DLF)와 서포트 벡터 머신 (SVM)을 이용한 방법보다 valence와 arousal 감정에 대해 각각 23.6%, 9.8% 향상된 분류 정확도를 달성하였다.&amp;#xD; 실험결과는 제안하는 방법의 효과성을 입증하였고, CNN 모델이 다른 모달리티 기반의 감정인식 방법뿐만 아니라 안구 특징 기반 감정인식에도 효과적이며, 눈 움직임 정보가 valence 감정 인식에도 효과적임을 보였다."
+        },
+        {
+          "rank": 2,
+          "score": 0.613766074180603,
+          "doc_id": "123",
+          "text": "딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝은 인공신경망(neural network)이라는 인공지능분야의 모형이 발전된 형태로서, 계층구조로 이루어진 인공신경망의 내부계층(hidden layer)이 여러 단계로 이루어진 구조이다. 딥러닝에서의 주요 모형은 합성곱신경망(convolutional neural network), 순환신경망(recurrent neural network), 그리고 심층신뢰신경망(deep belief network)의 세가지라고 할 수 있다. 그 중에서 현재 흥미로운 연구가 많이 발표되어서 관심이 집중되고 있는 모형은 지도학습(supervised learning)모형인 처음 두 개의 모형이다. 따라서 본 논문에서는 지도학습모형의 가중치를 최적화하는 기본적인 방법인 오류역전파 알고리즘을 살펴본 뒤에 합성곱신경망과 순환신경망의 구조와 응용사례 등을 살펴보고자 한다. 본문에서 다루지 않은 모형인 심층신뢰신경망은 아직까지는 합성곱신경망 이나 순환신경망보다는 상대적으로 주목을 덜 받고 있다. 그러나 심층신뢰신경망은 CNN이나 RNN과는 달리 비지도학습(unsupervised learning)모형이며, 사람이나 동물은 관찰을 통해서 스스로 학습한다는 점에서 궁극적으로는 비지도학습모형이 더 많이 연구되어야 할 주제가 될 것이다."
+        },
+        {
+          "rank": 3,
+          "score": 0.6017985343933105,
+          "doc_id": "225",
+          "text": "Speech Recognition using Machine Learning Speech Recognition using Machine Learning Speech Recognition using Machine Learning Speech recognition is one of the fastest-growing engineering technologies. It has several applications in different areas, and provides many potential benefits. A lot of people are unable to communicate due to language barriers. We aim to reduce this barrier via our project, which was designed and developed to achieve systems in particular cases to provide significant help so people can share information by operating a computer using voice input. This project keeps that factor in mind, and an effort is made to ensure our project is able to recognize speech and convert input audio into text; it also enables a user to perform file operations like Save, Open, or Exit from voice-only input. We design a system that can recognize the human voice as well as audio clips, and translate between English and Hindi. The output is in text form, and we provide options to convert audio from one language to the other. Going forward, we expect to add functionality that provides dictionary meanings for Hindi and English words. Neural machine translation is the primary algorithm used in the industry to perform machine translation. Two recurrent neural networks used in tandem to construct an encoder–decoder structure are the architecture behind neural machine translation. This work on speech recognition starts with an introduction to the technology and the applications used in different sectors. Part of the report is based on software developments in speech recognition."
+        },
+        {
+          "rank": 4,
+          "score": 0.5951113700866699,
+          "doc_id": "33",
+          "text": "Machine Learning을 이용한 자동 돌발상황검지 Machine Learning을 이용한 자동 돌발상황검지 Machine Learning을 이용한 자동 돌발상황검지 Incidents on the freeway disrupt traffic flow and the cost of delay caused by incidents is significant. To reduce the impact of an incident, a traffic management center needs to quickly detect and remove it from the freeway. Quick and efficient automatic incident detection has been a main goal of the transportation research for many years. Also many algorithms based on loop detector data have been developed and tested for the Automatic Incident Detection(AID). However, many of them have a limited success in their overall performance in terms of detection rate, false alarm rate, and the mean time to detect an incident. Until recently, the neural network models have been the one of the popular and efficient approach for real-time automatic incident detection and many researches have shown that the neural network models were much more efficient than various other previous models. The purpose of this research is to propose a more efficient and accurate model than the neural network model in the automatic incident detection problem. For this purpose, a machine learning model, Support Vector Machine (SVM) learning which is based on the statistical learning theory, has been used in this paper. The experiments have been done with real world freeway data, and the results show that the SVM could provide better performance in terms of DR(Detection Rate) and FAR(False Alarm Rate) than Backpropagation which is the most popular neural network model."
+        },
+        {
+          "rank": 5,
+          "score": 0.5894252061843872,
+          "doc_id": "186",
+          "text": "Deep Semi-Supervised Learning 기반 컴퓨터 보조 진단 방법론 Deep Semi-Supervised Learning 기반 컴퓨터 보조 진단 방법론 Deep Semi-Supervised Learning 기반 컴퓨터 보조 진단 방법론 Medical image applications 분야는 가장 인기 있으며 적극적으로 연구되는 현대 Machine Learning 및 Deep Learning applications 중 하나의 분야로 부상되고 있다. Medical image analysis는 환자의 신체 영상의 획득과 의료 전문가의 진단 및 분석을 목적으로 한다. 여러 Machine Learning 방법론을 사용하면 다양한 질병을 진단할 수 있게 된다. 하지만, 보다 효율적이며 강인한 모델을 설계하기 위해서는 Label이 지정된 데이터 샘플이 필요하게 된다. &amp;#xD; 따라서, Label이 지정되지 않은 데이터를 활용하여 모델의 성능을 향상시키는 Medical image 분야에서 semi-supervised Learning의 연구가 활발히 이루어지고 있다. 본 연구에서는 2D 초음파 영상(CADe)와 KL-grade 무릎 방사선사(CADx) 분류에서 유방 병변 Segmentation을 위한 딥러닝 기술을 사용하여 Medical image analysis에서 개선된 Semi-Supervised CAD 시스템을 제안하였다. 본 논문에서는 residual 및 attention block을 통합한 residual-attention-based uncertainty-guided mean teacher framework를 제안한다. 높은 수준의 feature와 attention module의 flow를 가능하게 하여 deep network를 최적화하기 위한 residual은 학습 과정 중에서 가중치를 최적화하기 위해 모델의 focus를 향상시킨다. &amp;#xD; 또한, 본 논문에서는 semi-supervised 학습 방법을 사용하여 학습 과정에서 label이 지정되지 않은 데이터를 활용할 수 있는 가능성을 탐구한다. 특히, uncertainty-guided mean-teacher-student 구조를 활용하여 residual attention U-Net 모델의 학습 중 label이 지정되지 않은 샘플을 통합할 수 있는 가능성을 입증하였다. &amp;#xD; 따라서, label이 지정되지 않은 추가 데이터를 unsupervised 및 supervised 방식으로 활용할 수있는 semi-supervised multitask learning-based 학습 기반 접근 방식을 개발하였다. 구체적으로, 이 과정은 reconstruction에 대해서만 unsupervised 된 상태에서 먼저 학습된 dual-channel adversarial autoencoder를 제안한다. 본 연구는 supervised 방식으로 추가 데이터를 활용하기 위해 auxilary task를 도입하여 multi-task learning framework를 제안한다. 특히, leg side의 식별은 auxilary task로 사용되므로 CHECK 데이터셋과 같은 더 많은 데이터셋을 사용할 수 있게 된다. 따라서, 추가 데이터의 활용이 소수의 label된 데이터만 사용할 수 있는 KL-grade 분류에서 main task의 성능을 향상시킬 수 있음을 보여준다. &amp;#xD; 다양한 측면, 즉 전반적인 성능, label이 지정되지 않은 추가 샘플 및 auxiliary task의 효과, 강인한 분석 등에 대해 공개적으로 사용 가능한 두 개의 가장 큰 데이터셋에 대해 제안된 모델을 평가하였다. 제안된 모델은 각각 75.52%, 78.48%, 75.34%의 Accuracy, Recall, F1-Score를 달성하였다."
+        },
+        {
+          "rank": 6,
+          "score": 0.5880318880081177,
+          "doc_id": "153",
+          "text": "Artificial Intelligence, Language Intelligence, and Mathematics Artificial Intelligence, Language Intelligence, and Mathematics Artificial Intelligence, Language Intelligence, and Mathematics Artificial neural networks(ANN) has provided a theoretical framework on the study of human behavior/cognition and artificial intelligence. This article aims to introduce ANN and its mathematical principle to the field of applied linguistics. An ANN consists of input, hidden, and output vectors and the vectors are connected to one another by weight matrices. Mapping from input to output is accounted for by simple matrix multiplication."
+        },
+        {
+          "rank": 7,
+          "score": 0.5771466493606567,
+          "doc_id": "9",
+          "text": "Wave data prediction with optimized machine learning and deep learning techniques Wave data prediction with optimized machine learning and deep learning techniques Wave data prediction with optimized machine learning and deep learning techniques Maritime Autonomous Surface Ships are in the development stage and they play an important role in the upcoming future. Present generation ships are semi-autonomous and controlled by the ship crew. The performance of the ship is predicted using the data collected from the ship with the help of machine learning and deep learning methods. Path planning for an autonomous ship is necessary for estimating the best possible route with minimum travel time and it depends on the weather. However, even during the navigation, there will be changes in weather and it should be predicted in order to reroute the ship. The weather information such as wave height, wave period, seawater temperature, humidity, atmospheric pressure, etc., is collected by ship external sensors, weather stations, buoys, and satellites. This paper investigates the ensemble machine learning approaches and seasonality approach for wave data prediction. The historical meteorological data are collected from six stations near Puerto Rico offshore and Hawaii offshore. We explore ensemble machine learning techniques on the data collected. The collected data are divided into training and testing data and apply machine learning models to predict the test data. The hyperparameter optimization is performed to find the best parameters before fitting on train data, this is essential to find the best results. Multivariate analysis is performed with all the methods and errors are computed to find the best models."
+        },
+        {
+          "rank": 8,
+          "score": 0.5723593831062317,
+          "doc_id": "111",
+          "text": "Artificial Intelligence for Artificial Artificial Intelligence Artificial Intelligence for Artificial Artificial Intelligence Artificial Intelligence for Artificial Artificial Intelligence Crowdsourcing platforms such as Amazon Mechanical Turk have become popular for a wide variety of human intelligence tasks; however, quality control continues to be a significant challenge. Recently, we propose TurKontrol, a theoretical model based on POMDPs to optimize iterative, crowd-sourced workflows. However, they neither describe how to learn the model parameters, nor show its effectiveness in a real crowd-sourced setting. Learning is challenging due to the scale of the model and noisy data: there are hundreds of thousands of workers with high-variance abilities. This paper presents an end-to-end system that first learns TurKontrol's POMDP parameters from real Mechanical Turk data, and then applies the model to dynamically optimize live tasks. We validate the model and use it to control a successive-improvement process on Mechanical Turk. By modeling worker accuracy and voting patterns, our system produces significantly superior artifacts compared to those generated through nonadaptive workflows using the same amount of money."
+        },
+        {
+          "rank": 9,
+          "score": 0.5720465183258057,
+          "doc_id": "174",
+          "text": "Self-Imitation Learning을 이용한 개선된 Deep Q-Network 알고리즘 Self-Imitation Learning을 이용한 개선된 Deep Q-Network 알고리즘 Self-Imitation Learning을 이용한 개선된 Deep Q-Network 알고리즘 Self-Imitation Learning은 간단한 비활성 정책 actor-critic 알고리즘으로써 에이전트가 과거의 좋은 경험을 활용하여 최적의 정책을 찾을 수 있도록 해준다. 그리고 actor-critic 구조를 갖는 강화학습 알고리즘에 결합되어 다양한 환경들에서 알고리즘의 상당한 개선을 보여주었다. 하지만 Self-Imitation Learning이 강화학습에 큰 도움을 준다고 하더라도 그 적용 분야는 actor-critic architecture를 가지는 강화학습 알고리즘으로 제한되어 있다. 본 논문에서 Self-Imitation Learning의 알고리즘을 가치 기반 강화학습 알고리즘인 DQN에 적용하는 방법을 제안하고, Self-Imitation Learning이 적용된 DQN 알고리즘의 학습을 다양한 환경에서 진행한다. 아울러 그 결과를 기존의 결과와 비교함으로써 Self-Imitation Leaning이 DQN에도 적용될 수 있으며 DQN의 성능을 개선할 수 있음을 보인다."
+        },
+        {
+          "rank": 10,
+          "score": 0.5695451498031616,
+          "doc_id": "200",
+          "text": "딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 본 논문에서는 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조를 개발한다. 제안하는 복합 미생물 배양기는 수집한 복합 미생물 데이터에 대해 복합 미생물 데이터 전처리, 복합 미생물 데이터 구조 변환, 딥러닝 네트워크 설계, 설계한 딥러닝 네트워크 학습, 시제품에 적용되는 GUI 개발 등으로 구성된다. 복합 미생물 데이터 전처리에서는 미생물 배양에 필요한 당밀, 영양제, 식물엑기스, 소금 등의 양에 대해 원-핫 인코딩을 실시하며, 배양된 결과로 측정된 pH 농도와 미생물의 셀 수에 대해 최대-최소 정규화 방법을 사용하여 데이터를 전처리한다. 복합 미생물 데이터 구조 변환에서는 전처리된 데이터를 물 온도와 미생물의 셀 수를 연결하여 그래프 구조로 변환 후, 인접 행렬과 속성 정보로 나타내어 딥러닝 네트워크의 입력 데이터로 사용한다. 딥러닝 네트워크 설계에서는 그래프 구조에 특화된 그래프 합성곱 네트워크를 설계하여 복합 미생물 데이터를 학습시킨다. 설계한 딥러닝 네트워크는 Cosine 손실함수를 사용하여 학습 시에 발생하는 오차를 최소화하는 방향으로 학습을 진행한다. 시제품에 적용되는 GUI 개발은 사용자가 선택하는 물 온도에 따라 목표하는 pH 농도(3.8 이하) 복합 미생물의 셀 수(108 이상)를 배양시키기 적합한 순으로 나타낸다. 제안된 미생물 배양기의 성능을 평가하기 위하여 공인시험기관에서 실험한 결과는, pH 농도의 경우 평균 3.7로, 복합 미생물의 셀 수는 1.7 &#x00D7; 108으로 측정되었다. 따라서, 본 논문에서 제안한 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조의 효용성이 입증되었다."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "id": "row_000007",
+  "model_name": "SamilPwC-AXNode-GenAI/PwC-Embedding_expr",
+  "timestamp_kst": "2025-09-07T16:46:56.900639+09:00",
+  "trial_id": "e61d59d1",
+  "queries": [
+    {
+      "query": "생성형 AI 콘텐츠의 가치 유형별 소비자 인식과 AI 사용 공개에 대한 인식 특성을 어떻게 요약할 수 있나요?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.8257641792297363,
+          "doc_id": "68",
+          "text": "인공지능 생성 콘텐츠(Artificial Intelligence Generated Content)와 인공지능 사용 공개(Artificial Intelligence Disclaimer)에 대한 소비자 인식 연구: 콘텐츠 가치와 형식을 중심으로 인공지능 생성 콘텐츠(Artificial Intelligence Generated Content)와 인공지능 사용 공개(Artificial Intelligence Disclaimer)에 대한 소비자 인식 연구: 콘텐츠 가치와 형식을 중심으로 인공지능 생성 콘텐츠(Artificial Intelligence Generated Content)와 인공지능 사용 공개(Artificial Intelligence Disclaimer)에 대한 소비자 인식 연구: 콘텐츠 가치와 형식을 중심으로 최근 생성형 인공지능(Artificial Intelligence)은 다양한 형식의 미디어를 포함하여 자율적으로 콘텐츠를 생성할 수 있는 능력으로 주목받고 있다. 그 잠재력에도 불구하고 AI가 생성한 콘텐츠(AI-Generated Content, AIGC)의 진정성(Authenticity) 이슈가 제기됨에 따라 각국에서 AI 사용과 투명성에 대한 규제가 수립되고 있다. 하지만, AIGC와 AI 사용 공개(AI Disclaimer)에 대한 소비자의 이해라는 근본적인 주제는 여전히 탐색되지 않고 있다. 본 연구는 생성형 AI가 제작한 콘텐츠를 실용적, 쾌락적 가치유형으로 구분하고 각각 글, 사진, 영상의 미디어 형식을 적용한 6가지의 경우에 대한 소비자의 인식을 카노 모형을 통해 분석하였다. 나아가, 도출된 결과를 인지된 진정성과 기만으로 그룹을 구분해 인식의 차이가 이에 따라 드러나는지 추가적으로 살펴보았다. 연구 결과, AI가 생성한 콘텐츠에 대한 소비자 인식은 만족도에 큰 영향을 미치지 않았으나, 뉴스로 대표되는 실용적 콘텐츠에서는 AI 사용에 대한 부정적 인식이 확인되었으며, 특히 뉴스 영상 제작에 있어 부정적 인식이 강하게 드러났다. 반면, 영화와 드라마로 대표되는 쾌락적 콘텐츠에서는 생성형 AI 사용에 대한 인식이 무관심하거나 오히려 긍정적이었다. AI 사용 여부의 공개에 대해서는 콘텐츠 가치유형에 관계없이 지켜야 할 원칙으로 인식되었으나, 실용적 콘텐츠에 대해 그러한 인식이 더 강하게 드러났다. 본 연구는 AI 활용의 투명성과 진정성을 제고하는 방안이 필요함을 시사하며, 향후 AI의 발전과 활용이 소비자 인식에 미치는 영향을 지속적으로 연구할 필요가 있음을 강조한다."
+        },
+        {
+          "rank": 2,
+          "score": 0.6372509002685547,
+          "doc_id": "224",
+          "text": "Trends of Artificial Intelligence Product Certification Programs Trends of Artificial Intelligence Product Certification Programs Trends of Artificial Intelligence Product Certification Programs With recent advancements in artificial intelligence (AI) technology, more products based on AI are being launched and used. However, using AI safely requires an awareness of the potential risks it can pose. These concerns must be evaluated by experts and users must be informed of the results. In response to this need, many countries have implemented certification programs for products based on AI. In this study, we analyze several trends and differences in AI product certification programs across several countries and emphasize the importance of such programs in ensuring the safety and trustworthiness of products that include AI. To this end, we examine four international AI product certification programs and suggest methods for improving and promoting these programs. The certification programs target AI products produced for specific purposes such as autonomous intelligence systems and facial recognition technology, or extend a conventional software quality certification based on the ISO/IEC 25000 standard. The results of our analysis show that companies aim to strategically differentiate their products in the market by ensuring the quality and trustworthiness of AI technologies. Additionally, we propose methods to improve and promote the certification programs based on the results. These findings provide new knowledge and insights that contribute to the development of AI-based product certification programs."
+        },
+        {
+          "rank": 3,
+          "score": 0.6337714195251465,
+          "doc_id": "77",
+          "text": "Understanding the Structure of Artificial Intelligence Conscience Understanding the Structure of Artificial Intelligence Conscience Understanding the Structure of Artificial Intelligence Conscience Purpose This study aims to construct a structure for application to artificial intelligence by analyzing the characteristics of conscience that act as an element of moral behavior. It focuses on enhancing understanding of the structure of artificial intelligence conscience and providing insights for future development of conscience algorithms. Method This study examines in detail the academic concepts and structural properties of conscience. Reviewing the academic literature and the latest data, we propose the structure of artificial intelligence conscience. Results Through the phrase, we found that in order to construct the conscience of artificial intelligence, an algorithm must be constructed by considering the cognitive and emotional aspects. And in the process of constructing an artificial intelligence conscience algorithm, we confirmed that differentiated characteristics should be reflected depending on the situation and the object. Conclusion The value judgment of artificial intelligence is already being realized on universal standards. At the AGI level, in order to achieve value judgment, an algorithm that reflects conscience must be constructed to be close to human value judgment. For this, it is necessary to construct data and algorithms on the situation of value judgment and the relationship with the object."
+        },
+        {
+          "rank": 4,
+          "score": 0.6185966730117798,
+          "doc_id": "116",
+          "text": "IT 기반의 convergence 제품의 구입태도에 대한 연구 IT 기반의 convergence 제품의 구입태도에 대한 연구 IT 기반의 convergence 제품의 구입태도에 대한 연구 본 연구의 목적은 소비자들이 IT 기반의 컨버전스 제품을 구매함에 있어서 지각하는 구매태도를 바탕으로 구매의사결정을 이론적 배경에 대한 검토를 바탕으로 가설을 설정하고 이들 가설을 검증하기 위하여 실증연구를 수행하였다. IT 컨버전스 제품에 있어서 효용성이 주는 소비자들이 제품이나 서비스를 채용하는데 있어서 매우 중요한 전략적 접근방법이다. 소비자들의 IT 컨버전스 제품을 구매하는데 있어 기업의 경쟁력 강화전략을 도출하는 것이 성공적인 시장진입에 대한 시사점임을 알 수 있다."
+        },
+        {
+          "rank": 5,
+          "score": 0.6161739826202393,
+          "doc_id": "40",
+          "text": "Human- versus Artificial Intelligence Human- versus Artificial Intelligence Human- versus Artificial Intelligence AI is one of the most debated subjects of today and there seems little common understanding concerning the differences and similarities of human intelligence and artificial intelligence. Discussions on many relevant topics, such as trustworthiness, explainability, and ethics are characterized by implicit anthropocentric and anthropomorphistic conceptions and, for instance, the pursuit of human-like intelligence as the golden standard for Artificial Intelligence. In order to provide more agreement and to substantiate possible future research objectives, this paper presents three notions on the similarities and differences between human- and artificial intelligence: 1) the fundamental constraints of human (and artificial) intelligence, 2) human intelligence as one of many possible forms of general intelligence, and 3) the high potential impact of multiple (integrated) forms of narrow-hybrid AI applications. For the time being, AI systems will have fundamentally different cognitive qualities and abilities than biological systems. For this reason, a most prominent issue is how we can use (and &ldquo;collaborate&rdquo; with) these systems as effectively as possible? For what tasks and under what conditions, decisions are safe to leave to AI and when is human judgment required? How can we capitalize on the specific strengths of human- and artificial intelligence? How to deploy AI systems effectively to complement and compensate for the inherent constraints of human cognition (and vice versa)? Should we pursue the development of AI &ldquo;partners&rdquo; with human (-level) intelligence or should we focus more at supplementing human limitations? In order to answer these questions, humans working with AI systems in the workplace or in policy making have to develop an adequate mental model of the underlying &lsquo;psychological&rsquo; mechanisms of AI. So, in order to obtain well-functioning human-AI systems, Intelligence Awareness in humans should be addressed more vigorously. For this purpose a first framework for educational content is proposed."
+        },
+        {
+          "rank": 6,
+          "score": 0.6120960712432861,
+          "doc_id": "203",
+          "text": "Classification of Beef by Using Artificial Intelligence Classification of Beef by Using Artificial Intelligence Classification of Beef by Using Artificial Intelligence This paper aims to develop an application that classifies the quality of beef via Artificial Intelligence technology, which has experienced rapid technological growth in recent years. The application will allow users to obtain information including, but not limited to, cuts of beef, freshness, and marbling of the beef they are about to purchase. Deep learning image classification was used to classify the cuts of beef, and OpenCV technology was used to determine the freshness and marbling of the beef. The application was developed in a client-server system for real-time action. The mobile phone of the user (the client) will take a photo of the beef and send it to the server, and the server will analyze the received image to identify and determine the cuts of beef, freshness, and marbling of the beef. The results will then be sent back to the client from the server. Artificial Intelligence technology is used to develop applications with these functions. Image classification technology is used for the classification function of beef parts, and OpenCV's clustering technology is used to determine the freshness and marbling grade of beef. Also, Flask web server is used to apply the client-server structure. The developed system worked well for tenderloin, sirloin, and ribs. It provided high confidence over 75% for these cuts. However, it worked poor for other beef cuts. This is simply a learning problem for image classifiers."
+        },
+        {
+          "rank": 7,
+          "score": 0.6038212776184082,
+          "doc_id": "151",
+          "text": "마음,지능,인공지능 마음,지능,인공지능 마음,지능,인공지능 최근 여러 학문 분야에서는 논의되고 있는 인공지능(AI)의 문제는 과학적 문제임과 동시에 중요한 철학적 문제이다.본고는 컴퓨터과학자 혹은 인지과학자들이 내리고 있는 AI의 정의들을 분석함으로써 그 속에 함축되어 있는 논쟁점들을 발굴하고,관련된 논변들을 검토함 으로써 AI탐구가 지니는 의의를 명확히 해보려는 데 그 목적이 있다.AI에 대한 정의들은 AI연구가들의 관심과 목표 그리고 그 주장의 강도에 따라 여러 유형으로 분류될 수 있지만 대개가 인간지능을 어떻게 파악하고 있는지,지능과 뇌의 관계가 무엇인지,그리고 그것을 컴퓨터를 통해서 모의하고 복제한다는 것의 논리적 구조가 무엇인지에 대한 이해와 밀접한 관계가 있다.이점에서 AI연구에 있어서 관건이 되는 것은 컴퓨터 기술의 발전과 같은 경험상의 문제라기 보다는 오히려 논리나 개념분석과 같은 선험적인 문제와 밀접하게 연관되어 있다."
+        },
+        {
+          "rank": 8,
+          "score": 0.5965869426727295,
+          "doc_id": "190",
+          "text": "Affective Computing Among Individuals in Deep Learning Affective Computing Among Individuals in Deep Learning Affective Computing Among Individuals in Deep Learning This paper is a study of deep learning among artificial intelligence technology which has been developing many technologies recently. Especially, I am talking about emotional computing that has been mentioned a lot recently during deep learning. Emotional computing, in other words, is a passive concept that is dominated by people who scientifically analyze human sensibilities and reflect them in product development or system design, and a more active concept that studies how devices and systems understand humans and communicate with people in different modes. This emotional signal extraction, sensitivity, and psychology recognition technology is defined as a technology to process, analyze, and recognize psycho-sensitivity based on micro-small, hyper-sensor technology, and sensitive signals and information that can be sensed by the active movement of the autonomic nervous system caused by human emotional changes in everyday life. Chapter 1 talks about overview and Chapter 2 shows related research. Chapter 3 shows the problems and models of real emotional computing and Chapter 4 shows this paper as a conclusion."
+        },
+        {
+          "rank": 9,
+          "score": 0.5933071374893188,
+          "doc_id": "212",
+          "text": "Exploring Artificial Intelligence Futures Exploring Artificial Intelligence Futures Exploring Artificial Intelligence Futures Artificial intelligence technologies are receiving high levels of attention and ‘hype’, leading to a range of speculation about futures in which such technologies, and their successors, are commonly deployed. By looking at existing AI futures work, this paper surveys, and offers an initial categorisation of, several of the tools available for such futures-exploration, in particular those available to humanities scholars, and discusses some of the benefits and limitations of each. While no tools exist to reliably predict the future of artificial intelligence, several tools can help us expand our range of possible futures in order to reduce unexpected surprises, and to create common languages and models that enable constructive conversations about the kinds of futures we would like to occupy or avoid. The paper points at several tools as particularly promising and currently neglected, calling for more work in data-driven, realistic, integrative, and participatory scenario role-plays."
+        },
+        {
+          "rank": 10,
+          "score": 0.5902841687202454,
+          "doc_id": "95",
+          "text": "Sustainable artificial intelligence: A corporate culture perspective Sustainable artificial intelligence: A corporate culture perspective Sustainable artificial intelligence: A corporate culture perspective AbstractIn recent years, various studies have highlighted the opportunities of artificial intelligence (AI) for our society. For example, AI solutions can help reduce pollution, waste, or carbon footprints. On the other hand, there are also risks associated with the use of AI, such as increasing inequality in society or high resource consumption for computing power. This paper explores the question how corporate culture influences the use of artificial intelligence in terms of sustainable development. This type of use includes a normative element and is referred to in the paper as sustainable artificial intelligence (SAI). Based on a bibliometric literature analysis, we identify features of a sustainability-oriented corporate culture. We offer six propositions examining the influence of specific manifestations on the handling of AI in the sense of SAI. Thus, if companies want to ensure that SAI is realized, corporate culture appears as an important indicator and influencing factor at the same time."
+        }
+      ]
+    },
+    {
+      "query": "생성형 AI 콘텐츠의 가치 유형별 소비자 인식은 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.8055094480514526,
+          "doc_id": "68",
+          "text": "인공지능 생성 콘텐츠(Artificial Intelligence Generated Content)와 인공지능 사용 공개(Artificial Intelligence Disclaimer)에 대한 소비자 인식 연구: 콘텐츠 가치와 형식을 중심으로 인공지능 생성 콘텐츠(Artificial Intelligence Generated Content)와 인공지능 사용 공개(Artificial Intelligence Disclaimer)에 대한 소비자 인식 연구: 콘텐츠 가치와 형식을 중심으로 인공지능 생성 콘텐츠(Artificial Intelligence Generated Content)와 인공지능 사용 공개(Artificial Intelligence Disclaimer)에 대한 소비자 인식 연구: 콘텐츠 가치와 형식을 중심으로 최근 생성형 인공지능(Artificial Intelligence)은 다양한 형식의 미디어를 포함하여 자율적으로 콘텐츠를 생성할 수 있는 능력으로 주목받고 있다. 그 잠재력에도 불구하고 AI가 생성한 콘텐츠(AI-Generated Content, AIGC)의 진정성(Authenticity) 이슈가 제기됨에 따라 각국에서 AI 사용과 투명성에 대한 규제가 수립되고 있다. 하지만, AIGC와 AI 사용 공개(AI Disclaimer)에 대한 소비자의 이해라는 근본적인 주제는 여전히 탐색되지 않고 있다. 본 연구는 생성형 AI가 제작한 콘텐츠를 실용적, 쾌락적 가치유형으로 구분하고 각각 글, 사진, 영상의 미디어 형식을 적용한 6가지의 경우에 대한 소비자의 인식을 카노 모형을 통해 분석하였다. 나아가, 도출된 결과를 인지된 진정성과 기만으로 그룹을 구분해 인식의 차이가 이에 따라 드러나는지 추가적으로 살펴보았다. 연구 결과, AI가 생성한 콘텐츠에 대한 소비자 인식은 만족도에 큰 영향을 미치지 않았으나, 뉴스로 대표되는 실용적 콘텐츠에서는 AI 사용에 대한 부정적 인식이 확인되었으며, 특히 뉴스 영상 제작에 있어 부정적 인식이 강하게 드러났다. 반면, 영화와 드라마로 대표되는 쾌락적 콘텐츠에서는 생성형 AI 사용에 대한 인식이 무관심하거나 오히려 긍정적이었다. AI 사용 여부의 공개에 대해서는 콘텐츠 가치유형에 관계없이 지켜야 할 원칙으로 인식되었으나, 실용적 콘텐츠에 대해 그러한 인식이 더 강하게 드러났다. 본 연구는 AI 활용의 투명성과 진정성을 제고하는 방안이 필요함을 시사하며, 향후 AI의 발전과 활용이 소비자 인식에 미치는 영향을 지속적으로 연구할 필요가 있음을 강조한다."
+        },
+        {
+          "rank": 2,
+          "score": 0.621076226234436,
+          "doc_id": "116",
+          "text": "IT 기반의 convergence 제품의 구입태도에 대한 연구 IT 기반의 convergence 제품의 구입태도에 대한 연구 IT 기반의 convergence 제품의 구입태도에 대한 연구 본 연구의 목적은 소비자들이 IT 기반의 컨버전스 제품을 구매함에 있어서 지각하는 구매태도를 바탕으로 구매의사결정을 이론적 배경에 대한 검토를 바탕으로 가설을 설정하고 이들 가설을 검증하기 위하여 실증연구를 수행하였다. IT 컨버전스 제품에 있어서 효용성이 주는 소비자들이 제품이나 서비스를 채용하는데 있어서 매우 중요한 전략적 접근방법이다. 소비자들의 IT 컨버전스 제품을 구매하는데 있어 기업의 경쟁력 강화전략을 도출하는 것이 성공적인 시장진입에 대한 시사점임을 알 수 있다."
+        },
+        {
+          "rank": 3,
+          "score": 0.6186861991882324,
+          "doc_id": "224",
+          "text": "Trends of Artificial Intelligence Product Certification Programs Trends of Artificial Intelligence Product Certification Programs Trends of Artificial Intelligence Product Certification Programs With recent advancements in artificial intelligence (AI) technology, more products based on AI are being launched and used. However, using AI safely requires an awareness of the potential risks it can pose. These concerns must be evaluated by experts and users must be informed of the results. In response to this need, many countries have implemented certification programs for products based on AI. In this study, we analyze several trends and differences in AI product certification programs across several countries and emphasize the importance of such programs in ensuring the safety and trustworthiness of products that include AI. To this end, we examine four international AI product certification programs and suggest methods for improving and promoting these programs. The certification programs target AI products produced for specific purposes such as autonomous intelligence systems and facial recognition technology, or extend a conventional software quality certification based on the ISO/IEC 25000 standard. The results of our analysis show that companies aim to strategically differentiate their products in the market by ensuring the quality and trustworthiness of AI technologies. Additionally, we propose methods to improve and promote the certification programs based on the results. These findings provide new knowledge and insights that contribute to the development of AI-based product certification programs."
+        },
+        {
+          "rank": 4,
+          "score": 0.6093106269836426,
+          "doc_id": "77",
+          "text": "Understanding the Structure of Artificial Intelligence Conscience Understanding the Structure of Artificial Intelligence Conscience Understanding the Structure of Artificial Intelligence Conscience Purpose This study aims to construct a structure for application to artificial intelligence by analyzing the characteristics of conscience that act as an element of moral behavior. It focuses on enhancing understanding of the structure of artificial intelligence conscience and providing insights for future development of conscience algorithms. Method This study examines in detail the academic concepts and structural properties of conscience. Reviewing the academic literature and the latest data, we propose the structure of artificial intelligence conscience. Results Through the phrase, we found that in order to construct the conscience of artificial intelligence, an algorithm must be constructed by considering the cognitive and emotional aspects. And in the process of constructing an artificial intelligence conscience algorithm, we confirmed that differentiated characteristics should be reflected depending on the situation and the object. Conclusion The value judgment of artificial intelligence is already being realized on universal standards. At the AGI level, in order to achieve value judgment, an algorithm that reflects conscience must be constructed to be close to human value judgment. For this, it is necessary to construct data and algorithms on the situation of value judgment and the relationship with the object."
+        },
+        {
+          "rank": 5,
+          "score": 0.6075851917266846,
+          "doc_id": "82",
+          "text": "Artificial Intelligence for Artificial Artificial Intelligence Artificial Intelligence for Artificial Artificial Intelligence Artificial Intelligence for Artificial Artificial Intelligence 없음"
+        },
+        {
+          "rank": 6,
+          "score": 0.6011766195297241,
+          "doc_id": "220",
+          "text": "딥 러닝기반 고객평점 예측모델 딥 러닝기반 고객평점 예측모델 딥 러닝기반 고객평점 예측모델 인터넷의 발달과 휴대용 기기의 발달로 사용자들이 데이터를 생산하고, 공유하는 일들이 매우 자연스럽고 쉬운 일이 되었다. e-마켓플레스로 대변되는 온라인 쇼핑몰에서도 사용자들의 데이터 생산과 공유가 리뷰의 형식으로 활발하게 이루어지고 있다. 리뷰의 형식은 보통 정해진 형식이 없는 비 정형데이터인 텍스트와 제품에 대한 고객의 평점으로 이루어져있다. 이와 같이 형태로 적극적으로 공유된 정보들은 구매에 중요한 요소로 사용되고 있다. &amp;#xD; 본 논문에서는 이렇게 누적된 리뷰 데이터를 학습하여 고객의 평점을 예측하는 딥 러닝(Deep learning) 모델을 작성하고자 한다. 학습에 필요한 입력데이터 즉 고객의 특성에 관한 일반적인 정보는 쇼핑몰 내부에 있고, 개인 정보가 포함되어 있기 때문에 사용하기 어려운 문제점이 있다. 이를 극복하기 위해 리뷰 자체에서 고객의 특징(feature)을 추출하는 방법을 사용하였다. 비정형 리뷰 데이터에서 텍스트 마이닝 기법을 사용하여 정형화된 고객의 특징을 추출하였다.&amp;#xD; 실험 대상 제품은 11번가 쇼핑몰에서 하나의 화장품을 선정하였다. 최적의 딥 러닝 모델을 찾기 위하여 Drop-Out 및 Rectified Linear hidden Unite(ReLU)를 사용하며 결과를 평가하였다. 딥 러닝의 예측 결과는 고객 평점을 기반으로 하여 좋음, 보통, 나쁨 3가지를 출력 하도록 실험을 진행하였다. 실험을 통해 완성된 딥 러닝 모델이 출력하는 좋은, 보통, 나쁨 3가지 결과와 실제 고객이 입력 한 평점을 비교하였다. 실험 결과 90%의 정확도를 보였다."
+        },
+        {
+          "rank": 7,
+          "score": 0.5981245636940002,
+          "doc_id": "193",
+          "text": "What's Humanity for Artificial Intelligence Humane Artificial Intelligence and Artificial General Intelligence What's Humanity for Artificial Intelligence Humane Artificial Intelligence and Artificial General Intelligence What's Humanity for Artificial Intelligence Humane Artificial Intelligence and Artificial General Intelligence 없음"
+        },
+        {
+          "rank": 8,
+          "score": 0.5963790416717529,
+          "doc_id": "203",
+          "text": "Classification of Beef by Using Artificial Intelligence Classification of Beef by Using Artificial Intelligence Classification of Beef by Using Artificial Intelligence This paper aims to develop an application that classifies the quality of beef via Artificial Intelligence technology, which has experienced rapid technological growth in recent years. The application will allow users to obtain information including, but not limited to, cuts of beef, freshness, and marbling of the beef they are about to purchase. Deep learning image classification was used to classify the cuts of beef, and OpenCV technology was used to determine the freshness and marbling of the beef. The application was developed in a client-server system for real-time action. The mobile phone of the user (the client) will take a photo of the beef and send it to the server, and the server will analyze the received image to identify and determine the cuts of beef, freshness, and marbling of the beef. The results will then be sent back to the client from the server. Artificial Intelligence technology is used to develop applications with these functions. Image classification technology is used for the classification function of beef parts, and OpenCV's clustering technology is used to determine the freshness and marbling grade of beef. Also, Flask web server is used to apply the client-server structure. The developed system worked well for tenderloin, sirloin, and ribs. It provided high confidence over 75% for these cuts. However, it worked poor for other beef cuts. This is simply a learning problem for image classifiers."
+        },
+        {
+          "rank": 9,
+          "score": 0.5916974544525146,
+          "doc_id": "40",
+          "text": "Human- versus Artificial Intelligence Human- versus Artificial Intelligence Human- versus Artificial Intelligence AI is one of the most debated subjects of today and there seems little common understanding concerning the differences and similarities of human intelligence and artificial intelligence. Discussions on many relevant topics, such as trustworthiness, explainability, and ethics are characterized by implicit anthropocentric and anthropomorphistic conceptions and, for instance, the pursuit of human-like intelligence as the golden standard for Artificial Intelligence. In order to provide more agreement and to substantiate possible future research objectives, this paper presents three notions on the similarities and differences between human- and artificial intelligence: 1) the fundamental constraints of human (and artificial) intelligence, 2) human intelligence as one of many possible forms of general intelligence, and 3) the high potential impact of multiple (integrated) forms of narrow-hybrid AI applications. For the time being, AI systems will have fundamentally different cognitive qualities and abilities than biological systems. For this reason, a most prominent issue is how we can use (and &ldquo;collaborate&rdquo; with) these systems as effectively as possible? For what tasks and under what conditions, decisions are safe to leave to AI and when is human judgment required? How can we capitalize on the specific strengths of human- and artificial intelligence? How to deploy AI systems effectively to complement and compensate for the inherent constraints of human cognition (and vice versa)? Should we pursue the development of AI &ldquo;partners&rdquo; with human (-level) intelligence or should we focus more at supplementing human limitations? In order to answer these questions, humans working with AI systems in the workplace or in policy making have to develop an adequate mental model of the underlying &lsquo;psychological&rsquo; mechanisms of AI. So, in order to obtain well-functioning human-AI systems, Intelligence Awareness in humans should be addressed more vigorously. For this purpose a first framework for educational content is proposed."
+        },
+        {
+          "rank": 10,
+          "score": 0.5887904167175293,
+          "doc_id": "137",
+          "text": "What's Humanity for Artificial Intelligence Jindo Intelligence &#x2014; Dawning of Artificial Intelligence &#x2014; What's Humanity for Artificial Intelligence Jindo Intelligence &#x2014; Dawning of Artificial Intelligence &#x2014; What's Humanity for Artificial Intelligence Jindo Intelligence &#x2014; Dawning of Artificial Intelligence &#x2014; 없음"
+        }
+      ]
+    },
+    {
+      "query": "AI 사용 공개에 대한 소비자 인식 특성은 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7561633586883545,
+          "doc_id": "68",
+          "text": "인공지능 생성 콘텐츠(Artificial Intelligence Generated Content)와 인공지능 사용 공개(Artificial Intelligence Disclaimer)에 대한 소비자 인식 연구: 콘텐츠 가치와 형식을 중심으로 인공지능 생성 콘텐츠(Artificial Intelligence Generated Content)와 인공지능 사용 공개(Artificial Intelligence Disclaimer)에 대한 소비자 인식 연구: 콘텐츠 가치와 형식을 중심으로 인공지능 생성 콘텐츠(Artificial Intelligence Generated Content)와 인공지능 사용 공개(Artificial Intelligence Disclaimer)에 대한 소비자 인식 연구: 콘텐츠 가치와 형식을 중심으로 최근 생성형 인공지능(Artificial Intelligence)은 다양한 형식의 미디어를 포함하여 자율적으로 콘텐츠를 생성할 수 있는 능력으로 주목받고 있다. 그 잠재력에도 불구하고 AI가 생성한 콘텐츠(AI-Generated Content, AIGC)의 진정성(Authenticity) 이슈가 제기됨에 따라 각국에서 AI 사용과 투명성에 대한 규제가 수립되고 있다. 하지만, AIGC와 AI 사용 공개(AI Disclaimer)에 대한 소비자의 이해라는 근본적인 주제는 여전히 탐색되지 않고 있다. 본 연구는 생성형 AI가 제작한 콘텐츠를 실용적, 쾌락적 가치유형으로 구분하고 각각 글, 사진, 영상의 미디어 형식을 적용한 6가지의 경우에 대한 소비자의 인식을 카노 모형을 통해 분석하였다. 나아가, 도출된 결과를 인지된 진정성과 기만으로 그룹을 구분해 인식의 차이가 이에 따라 드러나는지 추가적으로 살펴보았다. 연구 결과, AI가 생성한 콘텐츠에 대한 소비자 인식은 만족도에 큰 영향을 미치지 않았으나, 뉴스로 대표되는 실용적 콘텐츠에서는 AI 사용에 대한 부정적 인식이 확인되었으며, 특히 뉴스 영상 제작에 있어 부정적 인식이 강하게 드러났다. 반면, 영화와 드라마로 대표되는 쾌락적 콘텐츠에서는 생성형 AI 사용에 대한 인식이 무관심하거나 오히려 긍정적이었다. AI 사용 여부의 공개에 대해서는 콘텐츠 가치유형에 관계없이 지켜야 할 원칙으로 인식되었으나, 실용적 콘텐츠에 대해 그러한 인식이 더 강하게 드러났다. 본 연구는 AI 활용의 투명성과 진정성을 제고하는 방안이 필요함을 시사하며, 향후 AI의 발전과 활용이 소비자 인식에 미치는 영향을 지속적으로 연구할 필요가 있음을 강조한다."
+        },
+        {
+          "rank": 2,
+          "score": 0.6147003173828125,
+          "doc_id": "224",
+          "text": "Trends of Artificial Intelligence Product Certification Programs Trends of Artificial Intelligence Product Certification Programs Trends of Artificial Intelligence Product Certification Programs With recent advancements in artificial intelligence (AI) technology, more products based on AI are being launched and used. However, using AI safely requires an awareness of the potential risks it can pose. These concerns must be evaluated by experts and users must be informed of the results. In response to this need, many countries have implemented certification programs for products based on AI. In this study, we analyze several trends and differences in AI product certification programs across several countries and emphasize the importance of such programs in ensuring the safety and trustworthiness of products that include AI. To this end, we examine four international AI product certification programs and suggest methods for improving and promoting these programs. The certification programs target AI products produced for specific purposes such as autonomous intelligence systems and facial recognition technology, or extend a conventional software quality certification based on the ISO/IEC 25000 standard. The results of our analysis show that companies aim to strategically differentiate their products in the market by ensuring the quality and trustworthiness of AI technologies. Additionally, we propose methods to improve and promote the certification programs based on the results. These findings provide new knowledge and insights that contribute to the development of AI-based product certification programs."
+        },
+        {
+          "rank": 3,
+          "score": 0.6103496551513672,
+          "doc_id": "40",
+          "text": "Human- versus Artificial Intelligence Human- versus Artificial Intelligence Human- versus Artificial Intelligence AI is one of the most debated subjects of today and there seems little common understanding concerning the differences and similarities of human intelligence and artificial intelligence. Discussions on many relevant topics, such as trustworthiness, explainability, and ethics are characterized by implicit anthropocentric and anthropomorphistic conceptions and, for instance, the pursuit of human-like intelligence as the golden standard for Artificial Intelligence. In order to provide more agreement and to substantiate possible future research objectives, this paper presents three notions on the similarities and differences between human- and artificial intelligence: 1) the fundamental constraints of human (and artificial) intelligence, 2) human intelligence as one of many possible forms of general intelligence, and 3) the high potential impact of multiple (integrated) forms of narrow-hybrid AI applications. For the time being, AI systems will have fundamentally different cognitive qualities and abilities than biological systems. For this reason, a most prominent issue is how we can use (and &ldquo;collaborate&rdquo; with) these systems as effectively as possible? For what tasks and under what conditions, decisions are safe to leave to AI and when is human judgment required? How can we capitalize on the specific strengths of human- and artificial intelligence? How to deploy AI systems effectively to complement and compensate for the inherent constraints of human cognition (and vice versa)? Should we pursue the development of AI &ldquo;partners&rdquo; with human (-level) intelligence or should we focus more at supplementing human limitations? In order to answer these questions, humans working with AI systems in the workplace or in policy making have to develop an adequate mental model of the underlying &lsquo;psychological&rsquo; mechanisms of AI. So, in order to obtain well-functioning human-AI systems, Intelligence Awareness in humans should be addressed more vigorously. For this purpose a first framework for educational content is proposed."
+        },
+        {
+          "rank": 4,
+          "score": 0.6099563837051392,
+          "doc_id": "116",
+          "text": "IT 기반의 convergence 제품의 구입태도에 대한 연구 IT 기반의 convergence 제품의 구입태도에 대한 연구 IT 기반의 convergence 제품의 구입태도에 대한 연구 본 연구의 목적은 소비자들이 IT 기반의 컨버전스 제품을 구매함에 있어서 지각하는 구매태도를 바탕으로 구매의사결정을 이론적 배경에 대한 검토를 바탕으로 가설을 설정하고 이들 가설을 검증하기 위하여 실증연구를 수행하였다. IT 컨버전스 제품에 있어서 효용성이 주는 소비자들이 제품이나 서비스를 채용하는데 있어서 매우 중요한 전략적 접근방법이다. 소비자들의 IT 컨버전스 제품을 구매하는데 있어 기업의 경쟁력 강화전략을 도출하는 것이 성공적인 시장진입에 대한 시사점임을 알 수 있다."
+        },
+        {
+          "rank": 5,
+          "score": 0.5883938074111938,
+          "doc_id": "190",
+          "text": "Affective Computing Among Individuals in Deep Learning Affective Computing Among Individuals in Deep Learning Affective Computing Among Individuals in Deep Learning This paper is a study of deep learning among artificial intelligence technology which has been developing many technologies recently. Especially, I am talking about emotional computing that has been mentioned a lot recently during deep learning. Emotional computing, in other words, is a passive concept that is dominated by people who scientifically analyze human sensibilities and reflect them in product development or system design, and a more active concept that studies how devices and systems understand humans and communicate with people in different modes. This emotional signal extraction, sensitivity, and psychology recognition technology is defined as a technology to process, analyze, and recognize psycho-sensitivity based on micro-small, hyper-sensor technology, and sensitive signals and information that can be sensed by the active movement of the autonomic nervous system caused by human emotional changes in everyday life. Chapter 1 talks about overview and Chapter 2 shows related research. Chapter 3 shows the problems and models of real emotional computing and Chapter 4 shows this paper as a conclusion."
+        },
+        {
+          "rank": 6,
+          "score": 0.5865887403488159,
+          "doc_id": "193",
+          "text": "What's Humanity for Artificial Intelligence Humane Artificial Intelligence and Artificial General Intelligence What's Humanity for Artificial Intelligence Humane Artificial Intelligence and Artificial General Intelligence What's Humanity for Artificial Intelligence Humane Artificial Intelligence and Artificial General Intelligence 없음"
+        },
+        {
+          "rank": 7,
+          "score": 0.5857440233230591,
+          "doc_id": "137",
+          "text": "What's Humanity for Artificial Intelligence Jindo Intelligence &#x2014; Dawning of Artificial Intelligence &#x2014; What's Humanity for Artificial Intelligence Jindo Intelligence &#x2014; Dawning of Artificial Intelligence &#x2014; What's Humanity for Artificial Intelligence Jindo Intelligence &#x2014; Dawning of Artificial Intelligence &#x2014; 없음"
+        },
+        {
+          "rank": 8,
+          "score": 0.5806213617324829,
+          "doc_id": "122",
+          "text": "Artificial Agential Intelligence Artificial Agential Intelligence Artificial Agential Intelligence Since artificial intelligence (AI) emerged in the mid-20th century, it has incurred many theoretical criticisms (Dreyfus, H. [1972] What Computers Can&rsquo;t Do (MIT Press, New York); Dreyfus, H. [1992] What Computers Still Can&rsquo;t Do (MIT Press, New York); Searle, J. [1980] Minds, brains and programs, Behav. Brain Sci.3, 417-457; Searle, J. [1984] Minds, Brains and Sciences (Harvard University Press, Cambridge, MA); Searle, J. [1992] The Rediscovery of the Mind (MIT Press, Cambridge, MA); Fodor, J. [2002] The Mind Doesn&rsquo;t Work that Way: The Scope and Limits of Computational Psychology (MIT Press, Cambridge, MA).). The technical improvements of machine learning and deep learning, though, have been continuing and many breakthroughs have occurred recently. This makes theoretical considerations urgent again: can this new wave of AI fare better than its precursors in emulating or even having human-like minds? I propose a cautious yet positive hypothesis: current AI might create human-like mind, but only if it incorporates certain conceptual rewiring: it needs to shift from a task-based to an agent-based framework, which can be dubbed &ldquo;Artificial Agential Intelligence&rdquo; (AAI). It comprises practical reason (McDowell, J. [1979] Virtue and reason, Monist62(3), 331-350; McDowell, J. [1996] Mind and World (Harvard University Press, Cambridge, MA)), imaginative understanding (Campbell, J. [2020] Causation in Psychology (Harvard University Press, Cambridge, MA)), and animal knowledge (Sosa, E. [2007] A Virtue Epistemology: Apt Belief and Reflective Knowledge, volume 1 (Oxford University Press, Oxford, UK); Sosa, E. [2015] Judgment and Agency (Oxford University Press, Cambridge, MA)). Moreover, I will explore whether and in what way neuroscience-inspired AI and predictive coding (Hassabis, D., Kumaran, D., Summerfield, C., &amp; Botvinick, M. [2017] Neuroscience-inspired artificial intelligence, Neuron95(2), 245-258) can help carry out this project."
+        },
+        {
+          "rank": 9,
+          "score": 0.5788381099700928,
+          "doc_id": "77",
+          "text": "Understanding the Structure of Artificial Intelligence Conscience Understanding the Structure of Artificial Intelligence Conscience Understanding the Structure of Artificial Intelligence Conscience Purpose This study aims to construct a structure for application to artificial intelligence by analyzing the characteristics of conscience that act as an element of moral behavior. It focuses on enhancing understanding of the structure of artificial intelligence conscience and providing insights for future development of conscience algorithms. Method This study examines in detail the academic concepts and structural properties of conscience. Reviewing the academic literature and the latest data, we propose the structure of artificial intelligence conscience. Results Through the phrase, we found that in order to construct the conscience of artificial intelligence, an algorithm must be constructed by considering the cognitive and emotional aspects. And in the process of constructing an artificial intelligence conscience algorithm, we confirmed that differentiated characteristics should be reflected depending on the situation and the object. Conclusion The value judgment of artificial intelligence is already being realized on universal standards. At the AGI level, in order to achieve value judgment, an algorithm that reflects conscience must be constructed to be close to human value judgment. For this, it is necessary to construct data and algorithms on the situation of value judgment and the relationship with the object."
+        },
+        {
+          "rank": 10,
+          "score": 0.5782659649848938,
+          "doc_id": "29",
+          "text": "Artificial intelligence in manufacturing: Forecasts for the use of artificial intelligence in the USA Artificial intelligence in manufacturing: Forecasts for the use of artificial intelligence in the USA Artificial intelligence in manufacturing: Forecasts for the use of artificial intelligence in the USA The use of artificial intelligence in manufacturing has finally emerged as a reality in the United States. Buoyed by the general growth of trained computer scientists, the lower cost hardware and software designed for easier use input, a number of experimental programs are under way to exploit artificial intelligence for manufacturing purposes."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

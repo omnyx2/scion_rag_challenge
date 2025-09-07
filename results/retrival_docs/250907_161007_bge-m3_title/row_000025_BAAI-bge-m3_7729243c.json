@@ -1,0 +1,221 @@
+{
+  "id": "row_000025",
+  "model_name": "BAAI/bge-m3",
+  "timestamp_kst": "2025-09-07T16:10:11.357391+09:00",
+  "trial_id": "7729243c",
+  "queries": [
+    {
+      "query": "Can you summarize the main findings from the topic modeling analysis of deep learning research trends over the past ten years, including country-specific differences?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6376729011535645,
+          "doc_id": "125",
+          "text": "An overview of deep learning techniques"
+        },
+        {
+          "rank": 2,
+          "score": 0.6118280291557312,
+          "doc_id": "64",
+          "text": "Deep Learning Research Trend Analysis using Text Mining"
+        },
+        {
+          "rank": 3,
+          "score": 0.5566859841346741,
+          "doc_id": "51",
+          "text": "Deep Learning in Dentistry: A Literature Review"
+        },
+        {
+          "rank": 4,
+          "score": 0.5515791177749634,
+          "doc_id": "134",
+          "text": "Deep Metric Learning 기반 원격탐사 변화탐지 기술 연구"
+        },
+        {
+          "rank": 5,
+          "score": 0.5400225520133972,
+          "doc_id": "121",
+          "text": "Deep Learning을 기반으로 한 Feature Extraction 알고리즘의 분석"
+        },
+        {
+          "rank": 6,
+          "score": 0.535396933555603,
+          "doc_id": "104",
+          "text": "Deep learning"
+        },
+        {
+          "rank": 7,
+          "score": 0.5332599878311157,
+          "doc_id": "123",
+          "text": "딥러닝의 모형과 응용사례"
+        },
+        {
+          "rank": 8,
+          "score": 0.5246695280075073,
+          "doc_id": "13",
+          "text": "Dance Movement Recognition based on Deep Learning"
+        },
+        {
+          "rank": 9,
+          "score": 0.5229097604751587,
+          "doc_id": "185",
+          "text": "Topology optimization via machine learning and deep learning: a review"
+        },
+        {
+          "rank": 10,
+          "score": 0.5215827226638794,
+          "doc_id": "42",
+          "text": "Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning"
+        }
+      ]
+    },
+    {
+      "query": "What are the main deep learning research trends identified by the topic modeling analysis over the past ten years?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6691889762878418,
+          "doc_id": "64",
+          "text": "Deep Learning Research Trend Analysis using Text Mining"
+        },
+        {
+          "rank": 2,
+          "score": 0.6170811653137207,
+          "doc_id": "125",
+          "text": "An overview of deep learning techniques"
+        },
+        {
+          "rank": 3,
+          "score": 0.5680217742919922,
+          "doc_id": "134",
+          "text": "Deep Metric Learning 기반 원격탐사 변화탐지 기술 연구"
+        },
+        {
+          "rank": 4,
+          "score": 0.5595291256904602,
+          "doc_id": "51",
+          "text": "Deep Learning in Dentistry: A Literature Review"
+        },
+        {
+          "rank": 5,
+          "score": 0.5591064691543579,
+          "doc_id": "104",
+          "text": "Deep learning"
+        },
+        {
+          "rank": 6,
+          "score": 0.5509562492370605,
+          "doc_id": "121",
+          "text": "Deep Learning을 기반으로 한 Feature Extraction 알고리즘의 분석"
+        },
+        {
+          "rank": 7,
+          "score": 0.5500040650367737,
+          "doc_id": "154",
+          "text": "Diabetes detection using deep learning algorithms"
+        },
+        {
+          "rank": 8,
+          "score": 0.5450987219810486,
+          "doc_id": "152",
+          "text": "Deep Learning in MR Image Processing"
+        },
+        {
+          "rank": 9,
+          "score": 0.5367355942726135,
+          "doc_id": "13",
+          "text": "Dance Movement Recognition based on Deep Learning"
+        },
+        {
+          "rank": 10,
+          "score": 0.5366981029510498,
+          "doc_id": "102",
+          "text": "Application of Deep Learning in Dentistry and Implantology"
+        }
+      ]
+    },
+    {
+      "query": "What country-specific differences were observed in these deep learning research trends?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5658694505691528,
+          "doc_id": "125",
+          "text": "An overview of deep learning techniques"
+        },
+        {
+          "rank": 2,
+          "score": 0.5629191398620605,
+          "doc_id": "64",
+          "text": "Deep Learning Research Trend Analysis using Text Mining"
+        },
+        {
+          "rank": 3,
+          "score": 0.5316625237464905,
+          "doc_id": "134",
+          "text": "Deep Metric Learning 기반 원격탐사 변화탐지 기술 연구"
+        },
+        {
+          "rank": 4,
+          "score": 0.528947114944458,
+          "doc_id": "154",
+          "text": "Diabetes detection using deep learning algorithms"
+        },
+        {
+          "rank": 5,
+          "score": 0.5282658338546753,
+          "doc_id": "104",
+          "text": "Deep learning"
+        },
+        {
+          "rank": 6,
+          "score": 0.510582447052002,
+          "doc_id": "121",
+          "text": "Deep Learning을 기반으로 한 Feature Extraction 알고리즘의 분석"
+        },
+        {
+          "rank": 7,
+          "score": 0.5092223882675171,
+          "doc_id": "51",
+          "text": "Deep Learning in Dentistry: A Literature Review"
+        },
+        {
+          "rank": 8,
+          "score": 0.5082473754882812,
+          "doc_id": "26",
+          "text": "Design a personalized recommendation system using deep learning and reinforcement learning"
+        },
+        {
+          "rank": 9,
+          "score": 0.5076128244400024,
+          "doc_id": "25",
+          "text": "A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis"
+        },
+        {
+          "rank": 10,
+          "score": 0.5076128244400024,
+          "doc_id": "74",
+          "text": "A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

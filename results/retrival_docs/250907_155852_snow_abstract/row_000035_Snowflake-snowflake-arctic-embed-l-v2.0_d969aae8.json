@@ -1,0 +1,221 @@
+{
+  "id": "row_000035",
+  "model_name": "Snowflake/snowflake-arctic-embed-l-v2.0",
+  "timestamp_kst": "2025-09-07T15:58:58.428781+09:00",
+  "trial_id": "d969aae8",
+  "queries": [
+    {
+      "query": "How can you succinctly capture the factors that shape consumer purchase attitudes toward IT-based convergence products and their implications for competitiveness?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.4430563151836395,
+          "doc_id": "116",
+          "text": "본 연구의 목적은 소비자들이 IT 기반의 컨버전스 제품을 구매함에 있어서 지각하는 구매태도를 바탕으로 구매의사결정을 이론적 배경에 대한 검토를 바탕으로 가설을 설정하고 이들 가설을 검증하기 위하여 실증연구를 수행하였다. IT 컨버전스 제품에 있어서 효용성이 주는 소비자들이 제품이나 서비스를 채용하는데 있어서 매우 중요한 전략적 접근방법이다. 소비자들의 IT 컨버전스 제품을 구매하는데 있어 기업의 경쟁력 강화전략을 도출하는 것이 성공적인 시장진입에 대한 시사점임을 알 수 있다."
+        },
+        {
+          "rank": 2,
+          "score": 0.38969969749450684,
+          "doc_id": "178",
+          "text": "컨버전스(Convergence)란 단어는 집합, 집중, 수렴, 한 곳으로 모여짐 등의 뜻을 지닌 일반적인 용어로써 매우 발전해가고 있는 IT 분야에서 다양한 수요자의 욕구와 기술의 진화에 따라 최근에 매우 빈번하게 등장하고 있는 용어이자, 중요한 화두 중에 하나가 되고 있다. 이에 단어가 지니고 있는 일반적 의미를 다각적으로 분석함과 동시에 그 의미가 정보통신분야의 기술적 측면에서 또한 활용적인 측면에서 어떤 암시와 효과를 나타내고 있고, 나아가 IT 분야의 발전을 향한 목표 지향적인 측면에서의 역할이 가능한지와 또 다른 발전과 진화에 따라 어느 정도의 생명력과 경쟁력은 지닐 수 있는지를 살펴보고자 한다. 20세기 후반에 등장한 새로운 산업의 빅뱅이 되고 있는 IT 분야가 전세계로 확산, 발전되어감에 따라 수많은 일반적인 단어와 용어 들이 정보통신분야에서 도입, 활용하였고 이러한 용어들은 단어 자체의 의미 보다는 정보통신분야 발전의 현재와 미래를 규정해왔고, 나아가 정보통신 발전에 따른 혜택을 받는 전세계와 국내의 이용자들에게 많은 변화를 제공함과 동시에 연관분야의 산업에도 긍정적이던 부정적이던지 상호간 막대한 영향을 미쳐왔다고 분석된다. 이에 본 논문 자료는 IT 전문 용어가 아닌 일반적인 용어 중에서 IT 분야의 어떤 형태로든 영향을 미칠 용어 중에서 컨버전스란 단어를 통해 IT 분야의 현주소를 사례를 중심으로 분석, 점검하고 향후 IT 분야에서 컨버전스가 적용될 미래의 발전 모습을 전망하고자 하는데 있다."
+        },
+        {
+          "rank": 3,
+          "score": 0.3807792067527771,
+          "doc_id": "211",
+          "text": "Purpose - The IT convergence industry, which is the subject of this study, is the main strategy field during the 4th industrial revolution era. Against this background, it is urgent to establish policy measures to survive and spread export products in the global industries.Research, design, data and methodology - In order to achieve this goal, we conducted the Importance - Performance Analysis (IPA) and found that it is necessary to develop tailor - made marketing support for small and medium sized IT exporters and to develop export strategy products with competitive technologies.Results - Above all, customized marketing support for IT export-related SMEs was needed. Next, in the first quadrant, strategic products, qualitative level, global, value added, and information systems were included, and it was found that 'development of export strategic products with competitive technologies' was necessary. In the third quadrant, related variables calculated at present time are not urgent variables.Conclusions - In this study, it would be necessary to calculate the additional implications of the variables that are not considered in this study, including future studies, because the methods considered here as analysis variables are carried out in comparison with the previous studies."
+        },
+        {
+          "rank": 4,
+          "score": 0.36804887652397156,
+          "doc_id": "143",
+          "text": "Convergence is currently melding entire disciplines to fully new business models and technologies across industries. What used to be embedded systems, on the one hand, with their specific constraints from the physical environments, and IT, on the other hand, are combining.1,2 This will impact education programs as well as classic industry boundaries."
+        },
+        {
+          "rank": 5,
+          "score": 0.3455056846141815,
+          "doc_id": "145",
+          "text": "IT convergence technology can boost the advancement of weapon systems and efficient operation for the military reformation in Korea. This study investigated IT firms' concern about the defense acquisition process for IT-convergent systems and the role of IT firms in the process with Focus Group Interview and in-depth interview on executives of IT firms, and classified the concern to three major issues. They are the clarification of IT firms' role in the defense IT-convergent efforts, the establishment of the control tower for defense IT convergence, and reasonable estimation of software development cost in the defense acquisition process."
+        },
+        {
+          "rank": 6,
+          "score": 0.34170618653297424,
+          "doc_id": "61",
+          "text": "The IT convergence industry is expected to create some high added-value, yet the IT convergence service is still in its introductory stage, which requires the utilization of yet to be tried future technologies and development methodologies that have been never tried in the past; therefore, there is certain risk involved regarding the success of development during the introduction of service and the development of technology. From such perspective, this study found examples of the services in the IT convergence industries and the application technologies for the realization of those services; and conducted a research based on the examples, using the technical Characteristics classification; and based on the result, analyzed the standards and the peculiarity of technologies employed for the IT convergence service and the correlation and the complementarity between them; also identified the standards and the peculiarity of technologies required by the IT convergence services and analyzed the correlation between them; and finally analyzed the compatibility between the IT convergence services and the applied technologies. The conclusion of this study is expected to be utilized for selecting technologies for the introduction and the operation of the optimal IT convergence service and as a benchmark as well."
+        },
+        {
+          "rank": 7,
+          "score": 0.3412973880767822,
+          "doc_id": "36",
+          "text": "In recent innovation trends, one notable feature is the merging and overlapping of technologies: in other words, technological convergence. A key technological convergence is the fusion of biotechnology (BT) and information technology (IT). Major IT advances have led to innovative devices that allow us to advance BT. However, the lack of data on IT-BT convergence is a major impediment: relatively little research has analyzed the inter-disciplinary relationship of different industries. We propose a systematic approach to analyzing the technological convergence of BT and IT. Patent analysis, including citation and co-classification analyses, was adopted as a main method to measure the convergence intensity and coverage, and two portfolio matrices were developed to manage the technological convergence. The contribution of this paper is that it provides practical evidences for IT-BT convergence, based on quantitative data and systematic processes. This has managerial implications for each sector of IT and BT."
+        },
+        {
+          "rank": 8,
+          "score": 0.32554805278778076,
+          "doc_id": "94",
+          "text": "These days, the environment of IT development goes through converging with various industries and technologies. Also, it accelerates to pioneer new markets and develop new technologies. This trend becomes one of the most important factors to explore new national growth engines in Korea. Thus, this research examines current trends of IT convergence in Korea. The strategic characteristics of IT convergence in overseas are briefly explained for comparing purpose. The governmental strategies or efforts regarding the IT convergence have been surveyed. Some example convergences of LG, Samsung, and POSCO as major IT industries in Korea have been introduced. It also identifies several buzz concepts in this field. The study aims to provide an insight about the activities that are happening in the field of IT convergence in Korea. Finally, the findings through the research have been summarized."
+        },
+        {
+          "rank": 9,
+          "score": 0.3211696445941925,
+          "doc_id": "158",
+          "text": "Big business with Big Data Big Business mit Big Data"
+        },
+        {
+          "rank": 10,
+          "score": 0.30684924125671387,
+          "doc_id": "165",
+          "text": "패키징 분야도 4차 산업혁명에 발 맞춰 IoT (Internet of Things), 빅데이터, 클라우드 및 소비자 기반 기술 등이 적용되어 스마트 패키징이 등장하고 있다. 정책, 예측, 마케팅, 디자인 등 다양한 분야에서 빅데이터 분석이 활용되고 있지만 패키징 분야에서의 연구는 아직 초보적 수준이다. 따라서 본 연구는 빅데이터를 패키징 분야에 적용하기 위해 선행연구과 관련서적을 통해 빅데이터의 정의와 연구에서 활용되는 데이터 수집, 저장, 분석방법을 정리하였고 패키징 분야에 적용할 수 있는 분석방법을 제시하였다. 오늘날 패키징 분야는 마케팅적 요소를 요구받고 있기 때문에 패키징에 대한 소비자의 인식을 파악할 필요가 있으며 빅데이터의 근원이 되는 5가지 데이터 중 사유데이터(private data)와 커뮤니티 데이터(community data)를 활용하여 소비자와 제품 간의 상호작용 분석하는데 활용하고자 한다. 패키징은 소비자의 관심을 끌기 위한 전략전인 도구로 사용되며 소비자의 구매위험을 줄이는 수단이 되기 때문에 패키징에 대한 소비자의 인식을 분석할 필요가 있다. 본 연구에서는 제품 개선을 위한 문제점 도출 과정에서 의미연결망 분석(Semantic Network Analysis)과 텍스트마이닝(Text mining)을 활용하여 제품을 구성하는 다양한 요소들을 파악하고 패키징 요소의 빈도분석을 거쳐 패키징의 영향력을 확인하는 방안과 저관여 제품을 대상으로 텍스트 마이닝(Text mining)과 오피니언 마이닝(Opinion Mining), 소셜 네트워크 분석(Social Network Analysis)을 통해 패키징에 대한 감정분석을 하여 동일한 제품군에서 소비자가 선호하는 패키징을 도출하는 방안을 제시하였다. 패키징은 제품을 구성하는 많은 요소들 중 하나이기 때문에 패키징이라는 단일 요소의 영향력을 파악하기란 쉽지 않지만 본 연구는 빅데이터를 활용하여 패키징에 대한 소비자의 인식과 감정을 분석하고 제품에서 패키징이 소비자에게 미치는 영향력을 분석할 수 있는 방안을 제시한 데 의의가 있다."
+        }
+      ]
+    },
+    {
+      "query": "What are the factors that shape consumer purchase attitudes toward IT-based convergence products?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.4251277446746826,
+          "doc_id": "116",
+          "text": "본 연구의 목적은 소비자들이 IT 기반의 컨버전스 제품을 구매함에 있어서 지각하는 구매태도를 바탕으로 구매의사결정을 이론적 배경에 대한 검토를 바탕으로 가설을 설정하고 이들 가설을 검증하기 위하여 실증연구를 수행하였다. IT 컨버전스 제품에 있어서 효용성이 주는 소비자들이 제품이나 서비스를 채용하는데 있어서 매우 중요한 전략적 접근방법이다. 소비자들의 IT 컨버전스 제품을 구매하는데 있어 기업의 경쟁력 강화전략을 도출하는 것이 성공적인 시장진입에 대한 시사점임을 알 수 있다."
+        },
+        {
+          "rank": 2,
+          "score": 0.3403055667877197,
+          "doc_id": "143",
+          "text": "Convergence is currently melding entire disciplines to fully new business models and technologies across industries. What used to be embedded systems, on the one hand, with their specific constraints from the physical environments, and IT, on the other hand, are combining.1,2 This will impact education programs as well as classic industry boundaries."
+        },
+        {
+          "rank": 3,
+          "score": 0.337666779756546,
+          "doc_id": "178",
+          "text": "컨버전스(Convergence)란 단어는 집합, 집중, 수렴, 한 곳으로 모여짐 등의 뜻을 지닌 일반적인 용어로써 매우 발전해가고 있는 IT 분야에서 다양한 수요자의 욕구와 기술의 진화에 따라 최근에 매우 빈번하게 등장하고 있는 용어이자, 중요한 화두 중에 하나가 되고 있다. 이에 단어가 지니고 있는 일반적 의미를 다각적으로 분석함과 동시에 그 의미가 정보통신분야의 기술적 측면에서 또한 활용적인 측면에서 어떤 암시와 효과를 나타내고 있고, 나아가 IT 분야의 발전을 향한 목표 지향적인 측면에서의 역할이 가능한지와 또 다른 발전과 진화에 따라 어느 정도의 생명력과 경쟁력은 지닐 수 있는지를 살펴보고자 한다. 20세기 후반에 등장한 새로운 산업의 빅뱅이 되고 있는 IT 분야가 전세계로 확산, 발전되어감에 따라 수많은 일반적인 단어와 용어 들이 정보통신분야에서 도입, 활용하였고 이러한 용어들은 단어 자체의 의미 보다는 정보통신분야 발전의 현재와 미래를 규정해왔고, 나아가 정보통신 발전에 따른 혜택을 받는 전세계와 국내의 이용자들에게 많은 변화를 제공함과 동시에 연관분야의 산업에도 긍정적이던 부정적이던지 상호간 막대한 영향을 미쳐왔다고 분석된다. 이에 본 논문 자료는 IT 전문 용어가 아닌 일반적인 용어 중에서 IT 분야의 어떤 형태로든 영향을 미칠 용어 중에서 컨버전스란 단어를 통해 IT 분야의 현주소를 사례를 중심으로 분석, 점검하고 향후 IT 분야에서 컨버전스가 적용될 미래의 발전 모습을 전망하고자 하는데 있다."
+        },
+        {
+          "rank": 4,
+          "score": 0.3197318911552429,
+          "doc_id": "61",
+          "text": "The IT convergence industry is expected to create some high added-value, yet the IT convergence service is still in its introductory stage, which requires the utilization of yet to be tried future technologies and development methodologies that have been never tried in the past; therefore, there is certain risk involved regarding the success of development during the introduction of service and the development of technology. From such perspective, this study found examples of the services in the IT convergence industries and the application technologies for the realization of those services; and conducted a research based on the examples, using the technical Characteristics classification; and based on the result, analyzed the standards and the peculiarity of technologies employed for the IT convergence service and the correlation and the complementarity between them; also identified the standards and the peculiarity of technologies required by the IT convergence services and analyzed the correlation between them; and finally analyzed the compatibility between the IT convergence services and the applied technologies. The conclusion of this study is expected to be utilized for selecting technologies for the introduction and the operation of the optimal IT convergence service and as a benchmark as well."
+        },
+        {
+          "rank": 5,
+          "score": 0.31575721502304077,
+          "doc_id": "145",
+          "text": "IT convergence technology can boost the advancement of weapon systems and efficient operation for the military reformation in Korea. This study investigated IT firms' concern about the defense acquisition process for IT-convergent systems and the role of IT firms in the process with Focus Group Interview and in-depth interview on executives of IT firms, and classified the concern to three major issues. They are the clarification of IT firms' role in the defense IT-convergent efforts, the establishment of the control tower for defense IT convergence, and reasonable estimation of software development cost in the defense acquisition process."
+        },
+        {
+          "rank": 6,
+          "score": 0.3064838647842407,
+          "doc_id": "211",
+          "text": "Purpose - The IT convergence industry, which is the subject of this study, is the main strategy field during the 4th industrial revolution era. Against this background, it is urgent to establish policy measures to survive and spread export products in the global industries.Research, design, data and methodology - In order to achieve this goal, we conducted the Importance - Performance Analysis (IPA) and found that it is necessary to develop tailor - made marketing support for small and medium sized IT exporters and to develop export strategy products with competitive technologies.Results - Above all, customized marketing support for IT export-related SMEs was needed. Next, in the first quadrant, strategic products, qualitative level, global, value added, and information systems were included, and it was found that 'development of export strategic products with competitive technologies' was necessary. In the third quadrant, related variables calculated at present time are not urgent variables.Conclusions - In this study, it would be necessary to calculate the additional implications of the variables that are not considered in this study, including future studies, because the methods considered here as analysis variables are carried out in comparison with the previous studies."
+        },
+        {
+          "rank": 7,
+          "score": 0.299224853515625,
+          "doc_id": "94",
+          "text": "These days, the environment of IT development goes through converging with various industries and technologies. Also, it accelerates to pioneer new markets and develop new technologies. This trend becomes one of the most important factors to explore new national growth engines in Korea. Thus, this research examines current trends of IT convergence in Korea. The strategic characteristics of IT convergence in overseas are briefly explained for comparing purpose. The governmental strategies or efforts regarding the IT convergence have been surveyed. Some example convergences of LG, Samsung, and POSCO as major IT industries in Korea have been introduced. It also identifies several buzz concepts in this field. The study aims to provide an insight about the activities that are happening in the field of IT convergence in Korea. Finally, the findings through the research have been summarized."
+        },
+        {
+          "rank": 8,
+          "score": 0.2945219576358795,
+          "doc_id": "158",
+          "text": "Big business with Big Data Big Business mit Big Data"
+        },
+        {
+          "rank": 9,
+          "score": 0.27539265155792236,
+          "doc_id": "36",
+          "text": "In recent innovation trends, one notable feature is the merging and overlapping of technologies: in other words, technological convergence. A key technological convergence is the fusion of biotechnology (BT) and information technology (IT). Major IT advances have led to innovative devices that allow us to advance BT. However, the lack of data on IT-BT convergence is a major impediment: relatively little research has analyzed the inter-disciplinary relationship of different industries. We propose a systematic approach to analyzing the technological convergence of BT and IT. Patent analysis, including citation and co-classification analyses, was adopted as a main method to measure the convergence intensity and coverage, and two portfolio matrices were developed to manage the technological convergence. The contribution of this paper is that it provides practical evidences for IT-BT convergence, based on quantitative data and systematic processes. This has managerial implications for each sector of IT and BT."
+        },
+        {
+          "rank": 10,
+          "score": 0.26508891582489014,
+          "doc_id": "197",
+          "text": "IT융합은 제조업 등 타 산업 분야의 경쟁력을 향상시키는데 기여하고 있다. 지금까지 정부는 융합기술 개발 및 사업화에 많은 지원을 해왔으며 몇몇 선도기업에서는 의미 있는 성과를 거두고 있다. 그러나 IT융합을 기반으로 산업 경쟁력을 강화하기 위해서는 다양한 융합 시도가 이뤄질 수 있는 생태계가 구축되어야 하며, 많은 기업들이 융합에 참여하고 협력하며 그 혜택을 널리 공유할 수 있는 환경이 마련되어야 한다. 본 연구에서는 AHP 분석을 토대로 IT융합을 촉진하기 위한 이해관계자들의 역할을 도출하고자 하였다. 연구 결과, IT융합을 촉진하기 위한 산업 생태계 마련을 위해 정부의 규제 완화와 벤처 육성정책 확대, 키스톤 기업의 협업기반 융합과제 확대와 경험 공유, 벤처기업 등 기술개발 주체의 기술역량 강화, 그리고 크로스오버형 인재양성을 위한 대학의 역할이 필요한 것으로 나타났다."
+        }
+      ]
+    },
+    {
+      "query": "What are the implications of consumer purchase attitudes toward IT-based convergence products for competitiveness?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.51211017370224,
+          "doc_id": "116",
+          "text": "본 연구의 목적은 소비자들이 IT 기반의 컨버전스 제품을 구매함에 있어서 지각하는 구매태도를 바탕으로 구매의사결정을 이론적 배경에 대한 검토를 바탕으로 가설을 설정하고 이들 가설을 검증하기 위하여 실증연구를 수행하였다. IT 컨버전스 제품에 있어서 효용성이 주는 소비자들이 제품이나 서비스를 채용하는데 있어서 매우 중요한 전략적 접근방법이다. 소비자들의 IT 컨버전스 제품을 구매하는데 있어 기업의 경쟁력 강화전략을 도출하는 것이 성공적인 시장진입에 대한 시사점임을 알 수 있다."
+        },
+        {
+          "rank": 2,
+          "score": 0.4622719883918762,
+          "doc_id": "178",
+          "text": "컨버전스(Convergence)란 단어는 집합, 집중, 수렴, 한 곳으로 모여짐 등의 뜻을 지닌 일반적인 용어로써 매우 발전해가고 있는 IT 분야에서 다양한 수요자의 욕구와 기술의 진화에 따라 최근에 매우 빈번하게 등장하고 있는 용어이자, 중요한 화두 중에 하나가 되고 있다. 이에 단어가 지니고 있는 일반적 의미를 다각적으로 분석함과 동시에 그 의미가 정보통신분야의 기술적 측면에서 또한 활용적인 측면에서 어떤 암시와 효과를 나타내고 있고, 나아가 IT 분야의 발전을 향한 목표 지향적인 측면에서의 역할이 가능한지와 또 다른 발전과 진화에 따라 어느 정도의 생명력과 경쟁력은 지닐 수 있는지를 살펴보고자 한다. 20세기 후반에 등장한 새로운 산업의 빅뱅이 되고 있는 IT 분야가 전세계로 확산, 발전되어감에 따라 수많은 일반적인 단어와 용어 들이 정보통신분야에서 도입, 활용하였고 이러한 용어들은 단어 자체의 의미 보다는 정보통신분야 발전의 현재와 미래를 규정해왔고, 나아가 정보통신 발전에 따른 혜택을 받는 전세계와 국내의 이용자들에게 많은 변화를 제공함과 동시에 연관분야의 산업에도 긍정적이던 부정적이던지 상호간 막대한 영향을 미쳐왔다고 분석된다. 이에 본 논문 자료는 IT 전문 용어가 아닌 일반적인 용어 중에서 IT 분야의 어떤 형태로든 영향을 미칠 용어 중에서 컨버전스란 단어를 통해 IT 분야의 현주소를 사례를 중심으로 분석, 점검하고 향후 IT 분야에서 컨버전스가 적용될 미래의 발전 모습을 전망하고자 하는데 있다."
+        },
+        {
+          "rank": 3,
+          "score": 0.4406915307044983,
+          "doc_id": "143",
+          "text": "Convergence is currently melding entire disciplines to fully new business models and technologies across industries. What used to be embedded systems, on the one hand, with their specific constraints from the physical environments, and IT, on the other hand, are combining.1,2 This will impact education programs as well as classic industry boundaries."
+        },
+        {
+          "rank": 4,
+          "score": 0.43140023946762085,
+          "doc_id": "211",
+          "text": "Purpose - The IT convergence industry, which is the subject of this study, is the main strategy field during the 4th industrial revolution era. Against this background, it is urgent to establish policy measures to survive and spread export products in the global industries.Research, design, data and methodology - In order to achieve this goal, we conducted the Importance - Performance Analysis (IPA) and found that it is necessary to develop tailor - made marketing support for small and medium sized IT exporters and to develop export strategy products with competitive technologies.Results - Above all, customized marketing support for IT export-related SMEs was needed. Next, in the first quadrant, strategic products, qualitative level, global, value added, and information systems were included, and it was found that 'development of export strategic products with competitive technologies' was necessary. In the third quadrant, related variables calculated at present time are not urgent variables.Conclusions - In this study, it would be necessary to calculate the additional implications of the variables that are not considered in this study, including future studies, because the methods considered here as analysis variables are carried out in comparison with the previous studies."
+        },
+        {
+          "rank": 5,
+          "score": 0.40548840165138245,
+          "doc_id": "61",
+          "text": "The IT convergence industry is expected to create some high added-value, yet the IT convergence service is still in its introductory stage, which requires the utilization of yet to be tried future technologies and development methodologies that have been never tried in the past; therefore, there is certain risk involved regarding the success of development during the introduction of service and the development of technology. From such perspective, this study found examples of the services in the IT convergence industries and the application technologies for the realization of those services; and conducted a research based on the examples, using the technical Characteristics classification; and based on the result, analyzed the standards and the peculiarity of technologies employed for the IT convergence service and the correlation and the complementarity between them; also identified the standards and the peculiarity of technologies required by the IT convergence services and analyzed the correlation between them; and finally analyzed the compatibility between the IT convergence services and the applied technologies. The conclusion of this study is expected to be utilized for selecting technologies for the introduction and the operation of the optimal IT convergence service and as a benchmark as well."
+        },
+        {
+          "rank": 6,
+          "score": 0.39382442831993103,
+          "doc_id": "145",
+          "text": "IT convergence technology can boost the advancement of weapon systems and efficient operation for the military reformation in Korea. This study investigated IT firms' concern about the defense acquisition process for IT-convergent systems and the role of IT firms in the process with Focus Group Interview and in-depth interview on executives of IT firms, and classified the concern to three major issues. They are the clarification of IT firms' role in the defense IT-convergent efforts, the establishment of the control tower for defense IT convergence, and reasonable estimation of software development cost in the defense acquisition process."
+        },
+        {
+          "rank": 7,
+          "score": 0.3897084891796112,
+          "doc_id": "94",
+          "text": "These days, the environment of IT development goes through converging with various industries and technologies. Also, it accelerates to pioneer new markets and develop new technologies. This trend becomes one of the most important factors to explore new national growth engines in Korea. Thus, this research examines current trends of IT convergence in Korea. The strategic characteristics of IT convergence in overseas are briefly explained for comparing purpose. The governmental strategies or efforts regarding the IT convergence have been surveyed. Some example convergences of LG, Samsung, and POSCO as major IT industries in Korea have been introduced. It also identifies several buzz concepts in this field. The study aims to provide an insight about the activities that are happening in the field of IT convergence in Korea. Finally, the findings through the research have been summarized."
+        },
+        {
+          "rank": 8,
+          "score": 0.3760593831539154,
+          "doc_id": "36",
+          "text": "In recent innovation trends, one notable feature is the merging and overlapping of technologies: in other words, technological convergence. A key technological convergence is the fusion of biotechnology (BT) and information technology (IT). Major IT advances have led to innovative devices that allow us to advance BT. However, the lack of data on IT-BT convergence is a major impediment: relatively little research has analyzed the inter-disciplinary relationship of different industries. We propose a systematic approach to analyzing the technological convergence of BT and IT. Patent analysis, including citation and co-classification analyses, was adopted as a main method to measure the convergence intensity and coverage, and two portfolio matrices were developed to manage the technological convergence. The contribution of this paper is that it provides practical evidences for IT-BT convergence, based on quantitative data and systematic processes. This has managerial implications for each sector of IT and BT."
+        },
+        {
+          "rank": 9,
+          "score": 0.36419376730918884,
+          "doc_id": "96",
+          "text": "Information technology convergence has been recognized one of the key drivers in the industry perspective. Korea government established IT convergence policy in 2008 and has been implementing it to the core industry such as automotive, shipbuilding and defense industries. This research analyzes various IT convergence issues based on an operation of defense IT convergence center, one of the industry IT convergence centers. Defense IT convergence issues are as follows : the methods for introducing rapid changing IT to military area, rapid deployment procedures of verified commercial technologies and products, regulations for using of domestic software promotion and so on. We define the concept of defense IT convergence and propose the framework and processes for applying IT to our defense sector as one of industries. Also, we establish various business models in the military perspective using defense IT convergence framework. In this paper, we focus the development of defense IT convergence through the alignment of national IT convergence policy and propose various business models established through operating a defense IT convergence center."
+        },
+        {
+          "rank": 10,
+          "score": 0.35527098178863525,
+          "doc_id": "105",
+          "text": "Technological convergence is yielding new values and affecting various fields not by single technology but by convergence between technologies. This study aims to analyze the IT -BT-NT convergence and differences between technologies in respect of collaboration within (inventor) and between (assignee) organizations. Among the main technologies leading the technological convergence, IT is the most active of converging with other fields. BT is knowledge-intensive and strong cooperative networks are important in this area.NT is applied in various industrial fields upon the basic technology. Using the data on applied and granted patents by Korean applicants in the U.S., this study conducted quantitative analysis and ANOVA to gain the following results. First, the degree of convergence in between IT-BT-NT is continuously increasing since 2002. Second, BT is where the collaboration within and between organizations is the most active among IT-BT-NT. Third, there were certain differences in the degree of convergence according to the years and the fields of technologies in all the IT-BT-NT. Organizations cooperate with other institutions to sustain their competitiveness with limited internal resources. Companies in these fields are recommended to perform diverse strategies to pursue further collaboration with the outside."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

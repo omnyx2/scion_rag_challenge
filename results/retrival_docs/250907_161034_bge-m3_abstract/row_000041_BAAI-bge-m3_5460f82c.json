@@ -1,0 +1,291 @@
+{
+  "id": "row_000041",
+  "model_name": "BAAI/bge-m3",
+  "timestamp_kst": "2025-09-07T16:10:40.603941+09:00",
+  "trial_id": "5460f82c",
+  "queries": [
+    {
+      "query": "How would you concisely summarize the key findings on using machine learning classifiers combined with molecular docking to predict cytochrome P450 ligand interactions?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5628839731216431,
+          "doc_id": "142",
+          "text": "AbstractBackgroundIncreasing data volumes in oncology pose new challenges for data analysis. Machine learning, a branch of artificial intelligence, can identify patterns even in very large and less structured datasets.ObjectiveThis article provides an overview of the possible applications for machine learning in oncology. Furthermore, the potential of machine learning in patient-reported outcome (PRO) research is discussed.Materials and methodsWe conducted a selective literature search (PubMed, MEDLINE, IEEE Xplore) and discuss current research.ResultsThere are three primary applications for machine learning in oncology: (1) cancer detection or classification; (2) overall survival prediction or risk assessment; and (3) supporting therapy decision-making and prediction of treatment response. Generally, machine learning approaches in oncology PRO research are scarce and few studies integrate PRO data into machine learning models.DiscussionMachine learning is a promising area of oncology, but few models have been transferred into clinical practice. The promise of personalized cancer therapy and shared decision-making through machine learning has yet to be realized. As an equally important emerging research area in oncology, PROs should also be incorporated into machine learning approaches. To gather the data necessary for this, broad implementation of PRO assessments in clinical practice, as well as the harmonization of existing datasets, is suggested."
+        },
+        {
+          "rank": 2,
+          "score": 0.5315088629722595,
+          "doc_id": "102",
+          "text": "Artificial intelligence and deep learning algorithms are infiltrating various fields of medicine and dentistry. The purpose of the current study was to review literatures applying deep learning algorithms to the dentistry and implantology. Electronic literature search through MEDLINE and IEEE Xplore library database was performed at 2019 October by combining free-text terms and entry terms associated with ‘dentistry’ and ‘deep learning’. The searched literature was screened by title/abstract level and full text level. Following data were extracted from the included studies: information of author, publication year, the aim of the study, architecture of deep learning, input data, output data, and performance of the deep learning algorithm in the study. 340 studies were retrieved from the databases and 62 studies were included in the study. Deep learning algorithms were applied to tooth localization and numbering, detection of dental caries/periodontal disease/periapical disease/oral cancerous lesion, localization of cephalometric landmarks, image quality enhancement, prediction and compensation of deformation error in additive manufacturing of prosthesis. Convolutional neural network was used for periapical radiograph, panoramic radiograph, or computed tomography in most of included studies. Deep learning algorithms are expected to help clinicians diagnose and make decisions by extracting dental data, detecting diseases and abnormal lesions, and improving image quality."
+        },
+        {
+          "rank": 3,
+          "score": 0.5290296673774719,
+          "doc_id": "202",
+          "text": "A short review of research and applications in machine learning is given. Rather than attempt to cover all areas of ML, the focus is on its role in building expert systems, its approach to classification problems and ML methods of learning control. A relatively new area, inductive logic programming, is also discussed."
+        },
+        {
+          "rank": 4,
+          "score": 0.5223276615142822,
+          "doc_id": "207",
+          "text": "AbstractThis paper addresses the relations between information retrieval (IR) and AI. It examines document retrieval, summarising its essential features and illustrating the state of its art by presenting one probabilistic model in detail, with some test results showing its value. The paper then analyses this model and related successful approaches, concentrating on and justifying their use of weak, redundant representation and reasoning. It goes on to other information management tasks and considers how the concepts and methods developed for retrieval may be applied to these, concluding by arguing that such ways of dealing with information may also have wider relevance to AI."
+        },
+        {
+          "rank": 5,
+          "score": 0.5146200656890869,
+          "doc_id": "53",
+          "text": "A growing body of evidence now proposes that machine learning and deep learning techniques can serve as a vital foundation for the pharmacogenomics of antidepressant treatments in patients with major depressive disorder (MDD).In this review, we focus on the latest developments for pharmacogenomics research using machine learning and deep learning approaches together with neuroimaging and multi-omics data. First, we review relevant pharmacogenomics studies that leverage numerous machine learning and deep learning techniques to determine treatment prediction and potential biomarkers for antidepressant treatments in MDD. In addition, we depict some neuroimaging pharmacogenomics studies that utilize various machine learning approaches to predict antidepressant treatment outcomes in MDD based on the integration of research on pharmacogenomics and neuroimaging. Moreover, we summarize the limitations in regard to the past pharmacogenomics studies of antidepressant treatments in MDD. Finally, we outline a discussion of challenges and directions for future research. In light of latest advancements in neuroimaging and multi-omics, various genomic variants and biomarkers associated with antidepressant treatments in MDD are being identified in pharmacogenomics research by employing machine learning and deep learning algorithms."
+        },
+        {
+          "rank": 6,
+          "score": 0.5105968117713928,
+          "doc_id": "147",
+          "text": "The last decade saw an enormous boost in the field of computational topology: methods and concepts from algebraic and differential topology, formerly confined to the realm of pure mathematics, have demonstrated their utility in numerous areas such as computational biology personalised medicine, and time-dependent data analysis, to name a few. The newly-emerging domain comprising topology-based techniques is often referred to as topological data analysis (TDA). Next to their applications in the aforementioned areas, TDA methods have also proven to be effective in supporting, enhancing, and augmenting both classical machine learning and deep learning models. In this paper, we review the state of the art of a nascent field we refer to as &ldquo;topological machine learning,&rdquo; i.e., the successful symbiosis of topology-based methods and machine learning algorithms, such as deep neural networks. We identify common threads, current applications, and future challenges."
+        },
+        {
+          "rank": 7,
+          "score": 0.5073984861373901,
+          "doc_id": "20",
+          "text": "Due to enhanced high IT (information technology) development, IT-based technology convergences such as IT/ET(electric technology), IT/BT(biology technology) and IT/NT(nano technology) are actively merging trend and their applications spread wide. In this paper PLC (power line communication), one of the merging IT, is investigated as one of the potential IT candidates for IT/ET and IT/BT convergence technology for DLC (direct load control) or bio-medical engineering such as ubiquitous health cares or D2H2 (distributed diagnosis and home health care)."
+        },
+        {
+          "rank": 8,
+          "score": 0.5062330961227417,
+          "doc_id": "200",
+          "text": "본 논문에서는 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조를 개발한다. 제안하는 복합 미생물 배양기는 수집한 복합 미생물 데이터에 대해 복합 미생물 데이터 전처리, 복합 미생물 데이터 구조 변환, 딥러닝 네트워크 설계, 설계한 딥러닝 네트워크 학습, 시제품에 적용되는 GUI 개발 등으로 구성된다. 복합 미생물 데이터 전처리에서는 미생물 배양에 필요한 당밀, 영양제, 식물엑기스, 소금 등의 양에 대해 원-핫 인코딩을 실시하며, 배양된 결과로 측정된 pH 농도와 미생물의 셀 수에 대해 최대-최소 정규화 방법을 사용하여 데이터를 전처리한다. 복합 미생물 데이터 구조 변환에서는 전처리된 데이터를 물 온도와 미생물의 셀 수를 연결하여 그래프 구조로 변환 후, 인접 행렬과 속성 정보로 나타내어 딥러닝 네트워크의 입력 데이터로 사용한다. 딥러닝 네트워크 설계에서는 그래프 구조에 특화된 그래프 합성곱 네트워크를 설계하여 복합 미생물 데이터를 학습시킨다. 설계한 딥러닝 네트워크는 Cosine 손실함수를 사용하여 학습 시에 발생하는 오차를 최소화하는 방향으로 학습을 진행한다. 시제품에 적용되는 GUI 개발은 사용자가 선택하는 물 온도에 따라 목표하는 pH 농도(3.8 이하) 복합 미생물의 셀 수(108 이상)를 배양시키기 적합한 순으로 나타낸다. 제안된 미생물 배양기의 성능을 평가하기 위하여 공인시험기관에서 실험한 결과는, pH 농도의 경우 평균 3.7로, 복합 미생물의 셀 수는 1.7 &#x00D7; 108으로 측정되었다. 따라서, 본 논문에서 제안한 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조의 효용성이 입증되었다."
+        },
+        {
+          "rank": 9,
+          "score": 0.5030766725540161,
+          "doc_id": "87",
+          "text": "Abstract Intensive care is an ideal environment for the use of Big Data Analysis (BDA) and Machine Learning (ML), due to the huge amount of information processed and stored in electronic format in relation to such care. These tools can improve our clinical research capabilities and clinical decision making in the future. The present study reviews the foundations of BDA and ML, and explores possible applications in our field from a clinical viewpoint. We also suggest potential strategies to optimize these new technologies and describe a new kind of hybrid healthcare-data science professional with a linking role between clinicians and data."
+        },
+        {
+          "rank": 10,
+          "score": 0.4899134635925293,
+          "doc_id": "27",
+          "text": "AbstractMicrobial processes operated under realistic conditions are difficult to describe by mechanistic models, thereby limiting their optimization and control. Responses of living cells to their environment suggest that they possess some &ldquo;innate intelligence&rdquo;. Such responses have been modeled by a cybernetic approach. Furthermore, the overall behavior of a bioreactor containing a population of cells may be described and controlled through artificial intelligence methods. Therefore, it seems logical to combine cybernetic models with artificial intelligence to evolve an integrated intelligence-based strategy that is physiologically more faithful than the current approaches. This possibility is discussed, together with practical considerations favoring a hybrid approach that includes some mathematical modeling."
+        }
+      ]
+    },
+    {
+      "query": "What is the typical performance or accuracy of machine learning classifiers combined with molecular docking for predicting cytochrome P450 ligand interactions?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5488773584365845,
+          "doc_id": "142",
+          "text": "AbstractBackgroundIncreasing data volumes in oncology pose new challenges for data analysis. Machine learning, a branch of artificial intelligence, can identify patterns even in very large and less structured datasets.ObjectiveThis article provides an overview of the possible applications for machine learning in oncology. Furthermore, the potential of machine learning in patient-reported outcome (PRO) research is discussed.Materials and methodsWe conducted a selective literature search (PubMed, MEDLINE, IEEE Xplore) and discuss current research.ResultsThere are three primary applications for machine learning in oncology: (1) cancer detection or classification; (2) overall survival prediction or risk assessment; and (3) supporting therapy decision-making and prediction of treatment response. Generally, machine learning approaches in oncology PRO research are scarce and few studies integrate PRO data into machine learning models.DiscussionMachine learning is a promising area of oncology, but few models have been transferred into clinical practice. The promise of personalized cancer therapy and shared decision-making through machine learning has yet to be realized. As an equally important emerging research area in oncology, PROs should also be incorporated into machine learning approaches. To gather the data necessary for this, broad implementation of PRO assessments in clinical practice, as well as the harmonization of existing datasets, is suggested."
+        },
+        {
+          "rank": 2,
+          "score": 0.515497624874115,
+          "doc_id": "207",
+          "text": "AbstractThis paper addresses the relations between information retrieval (IR) and AI. It examines document retrieval, summarising its essential features and illustrating the state of its art by presenting one probabilistic model in detail, with some test results showing its value. The paper then analyses this model and related successful approaches, concentrating on and justifying their use of weak, redundant representation and reasoning. It goes on to other information management tasks and considers how the concepts and methods developed for retrieval may be applied to these, concluding by arguing that such ways of dealing with information may also have wider relevance to AI."
+        },
+        {
+          "rank": 3,
+          "score": 0.5137865543365479,
+          "doc_id": "102",
+          "text": "Artificial intelligence and deep learning algorithms are infiltrating various fields of medicine and dentistry. The purpose of the current study was to review literatures applying deep learning algorithms to the dentistry and implantology. Electronic literature search through MEDLINE and IEEE Xplore library database was performed at 2019 October by combining free-text terms and entry terms associated with ‘dentistry’ and ‘deep learning’. The searched literature was screened by title/abstract level and full text level. Following data were extracted from the included studies: information of author, publication year, the aim of the study, architecture of deep learning, input data, output data, and performance of the deep learning algorithm in the study. 340 studies were retrieved from the databases and 62 studies were included in the study. Deep learning algorithms were applied to tooth localization and numbering, detection of dental caries/periodontal disease/periapical disease/oral cancerous lesion, localization of cephalometric landmarks, image quality enhancement, prediction and compensation of deformation error in additive manufacturing of prosthesis. Convolutional neural network was used for periapical radiograph, panoramic radiograph, or computed tomography in most of included studies. Deep learning algorithms are expected to help clinicians diagnose and make decisions by extracting dental data, detecting diseases and abnormal lesions, and improving image quality."
+        },
+        {
+          "rank": 4,
+          "score": 0.5031383037567139,
+          "doc_id": "202",
+          "text": "A short review of research and applications in machine learning is given. Rather than attempt to cover all areas of ML, the focus is on its role in building expert systems, its approach to classification problems and ML methods of learning control. A relatively new area, inductive logic programming, is also discussed."
+        },
+        {
+          "rank": 5,
+          "score": 0.5014781951904297,
+          "doc_id": "20",
+          "text": "Due to enhanced high IT (information technology) development, IT-based technology convergences such as IT/ET(electric technology), IT/BT(biology technology) and IT/NT(nano technology) are actively merging trend and their applications spread wide. In this paper PLC (power line communication), one of the merging IT, is investigated as one of the potential IT candidates for IT/ET and IT/BT convergence technology for DLC (direct load control) or bio-medical engineering such as ubiquitous health cares or D2H2 (distributed diagnosis and home health care)."
+        },
+        {
+          "rank": 6,
+          "score": 0.4995332658290863,
+          "doc_id": "50",
+          "text": "통신 기술의 발달로 인한 사람과 사람, 장치와 장치, 사람과 장치 간의 연결성의 증가와 저장 매체 기술의 발달, 그리고 데이터 저장 비용의 감소로 인해 데이터의 양이 폭발적으로 증가했다. 이에 따라 다양한 형태의 대규모의 데이터를 빠른 시간 내에 효율적으로 처리할 수 있는 Cloud Computing 기술이 주목 받고 있고, Cloud Computing을 위한 오픈소스 기반의 솔루션 또한 많이 나타나게 되었다. &amp;#xD; 2012년부터 주목받기 시작한 Deep Learning은 전 세계적으로 가장 많은 관심을 받는 연구 분야 중 하나이며, 이중 CNN(Convolution Neural Network)은 가장 대표적 알고리즘이다. Deep Learning은 미래사회를 이끌어갈 분야로 평가받고 있으며, 이에 따라 많은 연구들이 진행되고 있고, Deep Learning을 쉽게 활용할 수 있도록 하는 많은 프레임워크가 개발되었다. &amp;#xD; 이에 따라 많은 사람들이 쉽게 Deep Learning을 접할 수 있게 되었지만 특정 환경에서 어떤 프레임워크가 더 우수한 성능을 보이는지에 대한 연구는 부족한 실정이다. 본 논문에서는 특정 환경에서의 성능 비교가 부족하다는 기존 연구의 한계점을 개선하고자 가장 대표적인 Cloud Computing용 오픈소스 소프트웨어 중 하나인 OpenStack을 이용하여 Cloud Computing 환경에서 어떤 Deep Learning 프레임워크가 더 우수한 성능을 보이는지 비교해 보고자 한다."
+        },
+        {
+          "rank": 7,
+          "score": 0.49853527545928955,
+          "doc_id": "201",
+          "text": "There are many prediction systems available for problems like stock exchange, medical diagnosis, insurance calculation, etc. Wine Quality is one area where there is a big opportunity to recommend a good quality of wine to users based on their preferences as well as in historical data. This paper describes the work to learn and assess whether a given wine sample is of good quality or not. The use of machine learning techniques specifically the linear regression with stochastic gradient descent were explored, and the features that perform well on this classification were engineered. The main aim is to develop a cost-effective system to acquire knowledge using data analysis through machine learning algorithms to predict the quality of wine in a better way."
+        },
+        {
+          "rank": 8,
+          "score": 0.4961507022380829,
+          "doc_id": "147",
+          "text": "The last decade saw an enormous boost in the field of computational topology: methods and concepts from algebraic and differential topology, formerly confined to the realm of pure mathematics, have demonstrated their utility in numerous areas such as computational biology personalised medicine, and time-dependent data analysis, to name a few. The newly-emerging domain comprising topology-based techniques is often referred to as topological data analysis (TDA). Next to their applications in the aforementioned areas, TDA methods have also proven to be effective in supporting, enhancing, and augmenting both classical machine learning and deep learning models. In this paper, we review the state of the art of a nascent field we refer to as &ldquo;topological machine learning,&rdquo; i.e., the successful symbiosis of topology-based methods and machine learning algorithms, such as deep neural networks. We identify common threads, current applications, and future challenges."
+        },
+        {
+          "rank": 9,
+          "score": 0.4959433674812317,
+          "doc_id": "200",
+          "text": "본 논문에서는 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조를 개발한다. 제안하는 복합 미생물 배양기는 수집한 복합 미생물 데이터에 대해 복합 미생물 데이터 전처리, 복합 미생물 데이터 구조 변환, 딥러닝 네트워크 설계, 설계한 딥러닝 네트워크 학습, 시제품에 적용되는 GUI 개발 등으로 구성된다. 복합 미생물 데이터 전처리에서는 미생물 배양에 필요한 당밀, 영양제, 식물엑기스, 소금 등의 양에 대해 원-핫 인코딩을 실시하며, 배양된 결과로 측정된 pH 농도와 미생물의 셀 수에 대해 최대-최소 정규화 방법을 사용하여 데이터를 전처리한다. 복합 미생물 데이터 구조 변환에서는 전처리된 데이터를 물 온도와 미생물의 셀 수를 연결하여 그래프 구조로 변환 후, 인접 행렬과 속성 정보로 나타내어 딥러닝 네트워크의 입력 데이터로 사용한다. 딥러닝 네트워크 설계에서는 그래프 구조에 특화된 그래프 합성곱 네트워크를 설계하여 복합 미생물 데이터를 학습시킨다. 설계한 딥러닝 네트워크는 Cosine 손실함수를 사용하여 학습 시에 발생하는 오차를 최소화하는 방향으로 학습을 진행한다. 시제품에 적용되는 GUI 개발은 사용자가 선택하는 물 온도에 따라 목표하는 pH 농도(3.8 이하) 복합 미생물의 셀 수(108 이상)를 배양시키기 적합한 순으로 나타낸다. 제안된 미생물 배양기의 성능을 평가하기 위하여 공인시험기관에서 실험한 결과는, pH 농도의 경우 평균 3.7로, 복합 미생물의 셀 수는 1.7 &#x00D7; 108으로 측정되었다. 따라서, 본 논문에서 제안한 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조의 효용성이 입증되었다."
+        },
+        {
+          "rank": 10,
+          "score": 0.49367275834083557,
+          "doc_id": "220",
+          "text": "인터넷의 발달과 휴대용 기기의 발달로 사용자들이 데이터를 생산하고, 공유하는 일들이 매우 자연스럽고 쉬운 일이 되었다. e-마켓플레스로 대변되는 온라인 쇼핑몰에서도 사용자들의 데이터 생산과 공유가 리뷰의 형식으로 활발하게 이루어지고 있다. 리뷰의 형식은 보통 정해진 형식이 없는 비 정형데이터인 텍스트와 제품에 대한 고객의 평점으로 이루어져있다. 이와 같이 형태로 적극적으로 공유된 정보들은 구매에 중요한 요소로 사용되고 있다. &amp;#xD; 본 논문에서는 이렇게 누적된 리뷰 데이터를 학습하여 고객의 평점을 예측하는 딥 러닝(Deep learning) 모델을 작성하고자 한다. 학습에 필요한 입력데이터 즉 고객의 특성에 관한 일반적인 정보는 쇼핑몰 내부에 있고, 개인 정보가 포함되어 있기 때문에 사용하기 어려운 문제점이 있다. 이를 극복하기 위해 리뷰 자체에서 고객의 특징(feature)을 추출하는 방법을 사용하였다. 비정형 리뷰 데이터에서 텍스트 마이닝 기법을 사용하여 정형화된 고객의 특징을 추출하였다.&amp;#xD; 실험 대상 제품은 11번가 쇼핑몰에서 하나의 화장품을 선정하였다. 최적의 딥 러닝 모델을 찾기 위하여 Drop-Out 및 Rectified Linear hidden Unite(ReLU)를 사용하며 결과를 평가하였다. 딥 러닝의 예측 결과는 고객 평점을 기반으로 하여 좋음, 보통, 나쁨 3가지를 출력 하도록 실험을 진행하였다. 실험을 통해 완성된 딥 러닝 모델이 출력하는 좋은, 보통, 나쁨 3가지 결과와 실제 고객이 입력 한 평점을 비교하였다. 실험 결과 90%의 정확도를 보였다."
+        }
+      ]
+    },
+    {
+      "query": "What are the main advantages of using machine learning classifiers combined with molecular docking for predicting cytochrome P450 ligand interactions?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5635192394256592,
+          "doc_id": "142",
+          "text": "AbstractBackgroundIncreasing data volumes in oncology pose new challenges for data analysis. Machine learning, a branch of artificial intelligence, can identify patterns even in very large and less structured datasets.ObjectiveThis article provides an overview of the possible applications for machine learning in oncology. Furthermore, the potential of machine learning in patient-reported outcome (PRO) research is discussed.Materials and methodsWe conducted a selective literature search (PubMed, MEDLINE, IEEE Xplore) and discuss current research.ResultsThere are three primary applications for machine learning in oncology: (1) cancer detection or classification; (2) overall survival prediction or risk assessment; and (3) supporting therapy decision-making and prediction of treatment response. Generally, machine learning approaches in oncology PRO research are scarce and few studies integrate PRO data into machine learning models.DiscussionMachine learning is a promising area of oncology, but few models have been transferred into clinical practice. The promise of personalized cancer therapy and shared decision-making through machine learning has yet to be realized. As an equally important emerging research area in oncology, PROs should also be incorporated into machine learning approaches. To gather the data necessary for this, broad implementation of PRO assessments in clinical practice, as well as the harmonization of existing datasets, is suggested."
+        },
+        {
+          "rank": 2,
+          "score": 0.5109908580780029,
+          "doc_id": "102",
+          "text": "Artificial intelligence and deep learning algorithms are infiltrating various fields of medicine and dentistry. The purpose of the current study was to review literatures applying deep learning algorithms to the dentistry and implantology. Electronic literature search through MEDLINE and IEEE Xplore library database was performed at 2019 October by combining free-text terms and entry terms associated with ‘dentistry’ and ‘deep learning’. The searched literature was screened by title/abstract level and full text level. Following data were extracted from the included studies: information of author, publication year, the aim of the study, architecture of deep learning, input data, output data, and performance of the deep learning algorithm in the study. 340 studies were retrieved from the databases and 62 studies were included in the study. Deep learning algorithms were applied to tooth localization and numbering, detection of dental caries/periodontal disease/periapical disease/oral cancerous lesion, localization of cephalometric landmarks, image quality enhancement, prediction and compensation of deformation error in additive manufacturing of prosthesis. Convolutional neural network was used for periapical radiograph, panoramic radiograph, or computed tomography in most of included studies. Deep learning algorithms are expected to help clinicians diagnose and make decisions by extracting dental data, detecting diseases and abnormal lesions, and improving image quality."
+        },
+        {
+          "rank": 3,
+          "score": 0.5071567296981812,
+          "doc_id": "147",
+          "text": "The last decade saw an enormous boost in the field of computational topology: methods and concepts from algebraic and differential topology, formerly confined to the realm of pure mathematics, have demonstrated their utility in numerous areas such as computational biology personalised medicine, and time-dependent data analysis, to name a few. The newly-emerging domain comprising topology-based techniques is often referred to as topological data analysis (TDA). Next to their applications in the aforementioned areas, TDA methods have also proven to be effective in supporting, enhancing, and augmenting both classical machine learning and deep learning models. In this paper, we review the state of the art of a nascent field we refer to as &ldquo;topological machine learning,&rdquo; i.e., the successful symbiosis of topology-based methods and machine learning algorithms, such as deep neural networks. We identify common threads, current applications, and future challenges."
+        },
+        {
+          "rank": 4,
+          "score": 0.5045554041862488,
+          "doc_id": "87",
+          "text": "Abstract Intensive care is an ideal environment for the use of Big Data Analysis (BDA) and Machine Learning (ML), due to the huge amount of information processed and stored in electronic format in relation to such care. These tools can improve our clinical research capabilities and clinical decision making in the future. The present study reviews the foundations of BDA and ML, and explores possible applications in our field from a clinical viewpoint. We also suggest potential strategies to optimize these new technologies and describe a new kind of hybrid healthcare-data science professional with a linking role between clinicians and data."
+        },
+        {
+          "rank": 5,
+          "score": 0.5040578842163086,
+          "doc_id": "20",
+          "text": "Due to enhanced high IT (information technology) development, IT-based technology convergences such as IT/ET(electric technology), IT/BT(biology technology) and IT/NT(nano technology) are actively merging trend and their applications spread wide. In this paper PLC (power line communication), one of the merging IT, is investigated as one of the potential IT candidates for IT/ET and IT/BT convergence technology for DLC (direct load control) or bio-medical engineering such as ubiquitous health cares or D2H2 (distributed diagnosis and home health care)."
+        },
+        {
+          "rank": 6,
+          "score": 0.501177191734314,
+          "doc_id": "202",
+          "text": "A short review of research and applications in machine learning is given. Rather than attempt to cover all areas of ML, the focus is on its role in building expert systems, its approach to classification problems and ML methods of learning control. A relatively new area, inductive logic programming, is also discussed."
+        },
+        {
+          "rank": 7,
+          "score": 0.5010170340538025,
+          "doc_id": "207",
+          "text": "AbstractThis paper addresses the relations between information retrieval (IR) and AI. It examines document retrieval, summarising its essential features and illustrating the state of its art by presenting one probabilistic model in detail, with some test results showing its value. The paper then analyses this model and related successful approaches, concentrating on and justifying their use of weak, redundant representation and reasoning. It goes on to other information management tasks and considers how the concepts and methods developed for retrieval may be applied to these, concluding by arguing that such ways of dealing with information may also have wider relevance to AI."
+        },
+        {
+          "rank": 8,
+          "score": 0.4996401369571686,
+          "doc_id": "53",
+          "text": "A growing body of evidence now proposes that machine learning and deep learning techniques can serve as a vital foundation for the pharmacogenomics of antidepressant treatments in patients with major depressive disorder (MDD).In this review, we focus on the latest developments for pharmacogenomics research using machine learning and deep learning approaches together with neuroimaging and multi-omics data. First, we review relevant pharmacogenomics studies that leverage numerous machine learning and deep learning techniques to determine treatment prediction and potential biomarkers for antidepressant treatments in MDD. In addition, we depict some neuroimaging pharmacogenomics studies that utilize various machine learning approaches to predict antidepressant treatment outcomes in MDD based on the integration of research on pharmacogenomics and neuroimaging. Moreover, we summarize the limitations in regard to the past pharmacogenomics studies of antidepressant treatments in MDD. Finally, we outline a discussion of challenges and directions for future research. In light of latest advancements in neuroimaging and multi-omics, various genomic variants and biomarkers associated with antidepressant treatments in MDD are being identified in pharmacogenomics research by employing machine learning and deep learning algorithms."
+        },
+        {
+          "rank": 9,
+          "score": 0.49262523651123047,
+          "doc_id": "50",
+          "text": "통신 기술의 발달로 인한 사람과 사람, 장치와 장치, 사람과 장치 간의 연결성의 증가와 저장 매체 기술의 발달, 그리고 데이터 저장 비용의 감소로 인해 데이터의 양이 폭발적으로 증가했다. 이에 따라 다양한 형태의 대규모의 데이터를 빠른 시간 내에 효율적으로 처리할 수 있는 Cloud Computing 기술이 주목 받고 있고, Cloud Computing을 위한 오픈소스 기반의 솔루션 또한 많이 나타나게 되었다. &amp;#xD; 2012년부터 주목받기 시작한 Deep Learning은 전 세계적으로 가장 많은 관심을 받는 연구 분야 중 하나이며, 이중 CNN(Convolution Neural Network)은 가장 대표적 알고리즘이다. Deep Learning은 미래사회를 이끌어갈 분야로 평가받고 있으며, 이에 따라 많은 연구들이 진행되고 있고, Deep Learning을 쉽게 활용할 수 있도록 하는 많은 프레임워크가 개발되었다. &amp;#xD; 이에 따라 많은 사람들이 쉽게 Deep Learning을 접할 수 있게 되었지만 특정 환경에서 어떤 프레임워크가 더 우수한 성능을 보이는지에 대한 연구는 부족한 실정이다. 본 논문에서는 특정 환경에서의 성능 비교가 부족하다는 기존 연구의 한계점을 개선하고자 가장 대표적인 Cloud Computing용 오픈소스 소프트웨어 중 하나인 OpenStack을 이용하여 Cloud Computing 환경에서 어떤 Deep Learning 프레임워크가 더 우수한 성능을 보이는지 비교해 보고자 한다."
+        },
+        {
+          "rank": 10,
+          "score": 0.49200868606567383,
+          "doc_id": "127",
+          "text": "AbstractThis paper highlights how machine learning can help explain terrorism. We note that even though machine learning has a reputation for black box prediction, in fact, it can provide deeply nuanced explanations of terrorism. Moreover, machine learning is not sensitive to the sometimes heroic statistical assumptions necessary when parametric econometrics is applied to the study of terrorism. This increases the reliability of explanations while adding contextual nuance that captures the flavor of individualized case analysis. Nevertheless, this approach also gives us a sense of the replicability of results. We, therefore, suggest that it further expands the role of science in terrorism research."
+        }
+      ]
+    },
+    {
+      "query": "What are the key limitations or challenges of using machine learning classifiers combined with molecular docking for predicting cytochrome P450 ligand interactions?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 2
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5587930083274841,
+          "doc_id": "142",
+          "text": "AbstractBackgroundIncreasing data volumes in oncology pose new challenges for data analysis. Machine learning, a branch of artificial intelligence, can identify patterns even in very large and less structured datasets.ObjectiveThis article provides an overview of the possible applications for machine learning in oncology. Furthermore, the potential of machine learning in patient-reported outcome (PRO) research is discussed.Materials and methodsWe conducted a selective literature search (PubMed, MEDLINE, IEEE Xplore) and discuss current research.ResultsThere are three primary applications for machine learning in oncology: (1) cancer detection or classification; (2) overall survival prediction or risk assessment; and (3) supporting therapy decision-making and prediction of treatment response. Generally, machine learning approaches in oncology PRO research are scarce and few studies integrate PRO data into machine learning models.DiscussionMachine learning is a promising area of oncology, but few models have been transferred into clinical practice. The promise of personalized cancer therapy and shared decision-making through machine learning has yet to be realized. As an equally important emerging research area in oncology, PROs should also be incorporated into machine learning approaches. To gather the data necessary for this, broad implementation of PRO assessments in clinical practice, as well as the harmonization of existing datasets, is suggested."
+        },
+        {
+          "rank": 2,
+          "score": 0.49830952286720276,
+          "doc_id": "202",
+          "text": "A short review of research and applications in machine learning is given. Rather than attempt to cover all areas of ML, the focus is on its role in building expert systems, its approach to classification problems and ML methods of learning control. A relatively new area, inductive logic programming, is also discussed."
+        },
+        {
+          "rank": 3,
+          "score": 0.4899212121963501,
+          "doc_id": "42",
+          "text": "In recent years, machine learning algorithms are continuously being used and expanded in various fields, such as facial recognition, signal processing, personal authentication, and stock prediction. In particular, various algorithms, such as deep learning, reinforcement learning, and Q-learning, are continuously being improved. Among these algorithms, the expansion of deep learning is rapidly changing. Nevertheless, machine learning algorithms have not yet been applied in several fields, such as personal authentication technology. This technology is an essential tool in the digital information era, walking recognition technology as promising biometrics, and technology for solving state-space problems. Therefore, algorithm technologies of deep learning, reinforcement learning, and Q-learning, which are typical machine learning algorithms in various fields, such as agricultural technology, personal authentication, wireless network, game, biometric recognition, and image recognition, are being improved and expanded in this paper."
+        },
+        {
+          "rank": 4,
+          "score": 0.4859650433063507,
+          "doc_id": "53",
+          "text": "A growing body of evidence now proposes that machine learning and deep learning techniques can serve as a vital foundation for the pharmacogenomics of antidepressant treatments in patients with major depressive disorder (MDD).In this review, we focus on the latest developments for pharmacogenomics research using machine learning and deep learning approaches together with neuroimaging and multi-omics data. First, we review relevant pharmacogenomics studies that leverage numerous machine learning and deep learning techniques to determine treatment prediction and potential biomarkers for antidepressant treatments in MDD. In addition, we depict some neuroimaging pharmacogenomics studies that utilize various machine learning approaches to predict antidepressant treatment outcomes in MDD based on the integration of research on pharmacogenomics and neuroimaging. Moreover, we summarize the limitations in regard to the past pharmacogenomics studies of antidepressant treatments in MDD. Finally, we outline a discussion of challenges and directions for future research. In light of latest advancements in neuroimaging and multi-omics, various genomic variants and biomarkers associated with antidepressant treatments in MDD are being identified in pharmacogenomics research by employing machine learning and deep learning algorithms."
+        },
+        {
+          "rank": 5,
+          "score": 0.48507529497146606,
+          "doc_id": "20",
+          "text": "Due to enhanced high IT (information technology) development, IT-based technology convergences such as IT/ET(electric technology), IT/BT(biology technology) and IT/NT(nano technology) are actively merging trend and their applications spread wide. In this paper PLC (power line communication), one of the merging IT, is investigated as one of the potential IT candidates for IT/ET and IT/BT convergence technology for DLC (direct load control) or bio-medical engineering such as ubiquitous health cares or D2H2 (distributed diagnosis and home health care)."
+        },
+        {
+          "rank": 6,
+          "score": 0.48248764872550964,
+          "doc_id": "147",
+          "text": "The last decade saw an enormous boost in the field of computational topology: methods and concepts from algebraic and differential topology, formerly confined to the realm of pure mathematics, have demonstrated their utility in numerous areas such as computational biology personalised medicine, and time-dependent data analysis, to name a few. The newly-emerging domain comprising topology-based techniques is often referred to as topological data analysis (TDA). Next to their applications in the aforementioned areas, TDA methods have also proven to be effective in supporting, enhancing, and augmenting both classical machine learning and deep learning models. In this paper, we review the state of the art of a nascent field we refer to as &ldquo;topological machine learning,&rdquo; i.e., the successful symbiosis of topology-based methods and machine learning algorithms, such as deep neural networks. We identify common threads, current applications, and future challenges."
+        },
+        {
+          "rank": 7,
+          "score": 0.4801894426345825,
+          "doc_id": "214",
+          "text": "The unlimited possibilities of machine learning have been shown in several successful reports and applications. However, how to make sure that the searched results of a machine learning system are not tampered by anyone and how to prevent the other users in the same network environment from easily getting our private data are two critical research issues when we immerse into powerful machine learning-based systems or applications. This situation is just like other modern information systems that confront security and privacy issues. The development of blockchain provides us an alternative way to address these two issues. That is why some recent studies have attempted to develop machine learning systems with blockchain technologies or to apply machine learning methods to blockchain systems. To show what the combination of blockchain and machine learning is capable of doing, in this paper, we proposed a parallel framework to find out suitable hyperparameters of deep learning in a blockchain environment by using a metaheuristic algorithm. The proposed framework also takes into account the issue of communication cost, by limiting the number of information exchanges between miners and blockchain."
+        },
+        {
+          "rank": 8,
+          "score": 0.47951120138168335,
+          "doc_id": "221",
+          "text": "AbstractMachine Learning is a trend research area with great potential and far-reaching application potentials. Big Data is an enabler, as large and high-quality data are always the basis for successful machine learning algorithms and models. There is currently no fully established standard process for the machine learning life cycle, as is the case in data mining with the CRISP-DM-Process, which means that the operationalization of machine learning models in particular can present companies with major challenges. In this article, the implications for data management in companies are worked out on the basis of the view of the nature of the data, the various roles in machine learning teams and the life cycle of machine learning models."
+        },
+        {
+          "rank": 9,
+          "score": 0.47893649339675903,
+          "doc_id": "11",
+          "text": "Abstract The use of various forms of big data have revolutionised scientific research. This includes research in the field of genetics in areas ranging from medical research to anthropology. Developments in this area have inter alia been characterised by the ability to sequence genome wide sequences (GWS) cheaply, the ability to share and combine with other forms of complimentary data and ever more powerful processing techniques that have become possible given tremendous increases in computing power. Given that many if not most of these techniques will make use of personal data it is necessary to take into account data protection law. This article looks at challenges for researchers that will be presented by the EU's General Data Protection Regulation, which will be in effect from May 2018. The very nature of research with big data in general and genetic data in particular means that in many instances compliance will be onerous, whilst in others it may even be difficult to envisage how compliance may be possible. Compliance concerns include issues relating to &lsquo;purpose limitation&rsquo;, &lsquo;data minimisation&rsquo; and &lsquo;storage limitation&rsquo;. Other requirements, including the need to facilitate data subject rights and potentially conduct a Data Protection Impact Assessment (DPIA) may provide further complications for researchers. Further critical issues to consider include the choice of legal base: whether to opt for what is often seen as the &lsquo;default option&rsquo; (i.e. consent) or to process under the so called &lsquo;scientific research exception&rsquo;. Each presents its own challenges (including the likely need to gain ethical approval) and opportunities that will have to be considered according to the particular context in question."
+        },
+        {
+          "rank": 10,
+          "score": 0.4786049723625183,
+          "doc_id": "207",
+          "text": "AbstractThis paper addresses the relations between information retrieval (IR) and AI. It examines document retrieval, summarising its essential features and illustrating the state of its art by presenting one probabilistic model in detail, with some test results showing its value. The paper then analyses this model and related successful approaches, concentrating on and justifying their use of weak, redundant representation and reasoning. It goes on to other information management tasks and considers how the concepts and methods developed for retrieval may be applied to these, concluding by arguing that such ways of dealing with information may also have wider relevance to AI."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

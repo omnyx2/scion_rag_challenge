@@ -1,0 +1,221 @@
+{
+  "id": "row_000001",
+  "model_name": "Snowflake/snowflake-arctic-embed-l-v2.0",
+  "timestamp_kst": "2025-09-07T15:59:28.909298+09:00",
+  "trial_id": "b1f4f7e5",
+  "queries": [
+    {
+      "query": "How can the rationale and structure of the free electronic textbook outlining the essential mathematics for understanding AI in a one- or two-semester undergraduate course be summarized?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.4127243757247925,
+          "doc_id": "153",
+          "text": "Artificial Intelligence, Language Intelligence, and Mathematics"
+        },
+        {
+          "rank": 2,
+          "score": 0.4103708267211914,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence"
+        },
+        {
+          "rank": 3,
+          "score": 0.40385228395462036,
+          "doc_id": "219",
+          "text": "인공지능(Artificial Intelligence)과 대학수학교육"
+        },
+        {
+          "rank": 4,
+          "score": 0.40374913811683655,
+          "doc_id": "0",
+          "text": "Logic and artificial intelligence"
+        },
+        {
+          "rank": 5,
+          "score": 0.3986399173736572,
+          "doc_id": "181",
+          "text": "초등 인공지능 교육을 위한 설명 가능한 인공지능의 교육적 의미 연구"
+        },
+        {
+          "rank": 6,
+          "score": 0.3938297927379608,
+          "doc_id": "216",
+          "text": "A Study on Artificial Intelligence"
+        },
+        {
+          "rank": 7,
+          "score": 0.39107653498649597,
+          "doc_id": "77",
+          "text": "Understanding the Structure of Artificial Intelligence Conscience"
+        },
+        {
+          "rank": 8,
+          "score": 0.3786785900592804,
+          "doc_id": "223",
+          "text": "학습전략과 심층학습"
+        },
+        {
+          "rank": 9,
+          "score": 0.3771076798439026,
+          "doc_id": "46",
+          "text": "Artificial Intelligence Tools for Undergraduate Students"
+        },
+        {
+          "rank": 10,
+          "score": 0.3561437427997589,
+          "doc_id": "164",
+          "text": "Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade"
+        }
+      ]
+    },
+    {
+      "query": "What is the rationale of the free electronic textbook outlining the essential mathematics for understanding AI in a one- or two-semester undergraduate course?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.40714704990386963,
+          "doc_id": "153",
+          "text": "Artificial Intelligence, Language Intelligence, and Mathematics"
+        },
+        {
+          "rank": 2,
+          "score": 0.4001278877258301,
+          "doc_id": "181",
+          "text": "초등 인공지능 교육을 위한 설명 가능한 인공지능의 교육적 의미 연구"
+        },
+        {
+          "rank": 3,
+          "score": 0.39907708764076233,
+          "doc_id": "0",
+          "text": "Logic and artificial intelligence"
+        },
+        {
+          "rank": 4,
+          "score": 0.39812928438186646,
+          "doc_id": "219",
+          "text": "인공지능(Artificial Intelligence)과 대학수학교육"
+        },
+        {
+          "rank": 5,
+          "score": 0.38626065850257874,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence"
+        },
+        {
+          "rank": 6,
+          "score": 0.38462650775909424,
+          "doc_id": "46",
+          "text": "Artificial Intelligence Tools for Undergraduate Students"
+        },
+        {
+          "rank": 7,
+          "score": 0.38271626830101013,
+          "doc_id": "216",
+          "text": "A Study on Artificial Intelligence"
+        },
+        {
+          "rank": 8,
+          "score": 0.3560950756072998,
+          "doc_id": "77",
+          "text": "Understanding the Structure of Artificial Intelligence Conscience"
+        },
+        {
+          "rank": 9,
+          "score": 0.3487938642501831,
+          "doc_id": "106",
+          "text": "Artificial intelligence"
+        },
+        {
+          "rank": 10,
+          "score": 0.3487938642501831,
+          "doc_id": "60",
+          "text": "Artificial intelligence"
+        }
+      ]
+    },
+    {
+      "query": "What is the structure of the free electronic textbook outlining the essential mathematics for understanding AI in a one- or two-semester undergraduate course?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.4264383912086487,
+          "doc_id": "153",
+          "text": "Artificial Intelligence, Language Intelligence, and Mathematics"
+        },
+        {
+          "rank": 2,
+          "score": 0.4168611764907837,
+          "doc_id": "77",
+          "text": "Understanding the Structure of Artificial Intelligence Conscience"
+        },
+        {
+          "rank": 3,
+          "score": 0.41276171803474426,
+          "doc_id": "219",
+          "text": "인공지능(Artificial Intelligence)과 대학수학교육"
+        },
+        {
+          "rank": 4,
+          "score": 0.40665149688720703,
+          "doc_id": "216",
+          "text": "A Study on Artificial Intelligence"
+        },
+        {
+          "rank": 5,
+          "score": 0.4024849534034729,
+          "doc_id": "46",
+          "text": "Artificial Intelligence Tools for Undergraduate Students"
+        },
+        {
+          "rank": 6,
+          "score": 0.40184539556503296,
+          "doc_id": "0",
+          "text": "Logic and artificial intelligence"
+        },
+        {
+          "rank": 7,
+          "score": 0.39441701769828796,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence"
+        },
+        {
+          "rank": 8,
+          "score": 0.3803306818008423,
+          "doc_id": "181",
+          "text": "초등 인공지능 교육을 위한 설명 가능한 인공지능의 교육적 의미 연구"
+        },
+        {
+          "rank": 9,
+          "score": 0.3776736855506897,
+          "doc_id": "106",
+          "text": "Artificial intelligence"
+        },
+        {
+          "rank": 10,
+          "score": 0.3776736855506897,
+          "doc_id": "60",
+          "text": "Artificial intelligence"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "id": "row_000036",
+  "model_name": "BAAI/bge-m3",
+  "timestamp_kst": "2025-09-07T16:10:12.988662+09:00",
+  "trial_id": "5c4abcd4",
+  "queries": [
+    {
+      "query": "한국 IT융합 신산업 역량강화요인과 이를 도출하기 위한 연구 결과를 간결하게 요약해 주시겠습니까?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.695866584777832,
+          "doc_id": "150",
+          "text": "한국 IT융합 신산업 역량강화요인"
+        },
+        {
+          "rank": 2,
+          "score": 0.6088453531265259,
+          "doc_id": "211",
+          "text": "On exploring factors for enhancing export competitiveness in IT Convergence industries"
+        },
+        {
+          "rank": 3,
+          "score": 0.5926802158355713,
+          "doc_id": "146",
+          "text": "미래 IT융합 신산업 육성 및 선도방안"
+        },
+        {
+          "rank": 4,
+          "score": 0.5702340602874756,
+          "doc_id": "61",
+          "text": "IT 융합서비스 및 활용기술의 기술속성에 관한 연구 : 산업간 융합을 중심으로"
+        },
+        {
+          "rank": 5,
+          "score": 0.5685876607894897,
+          "doc_id": "16",
+          "text": "국방IT융합기술의 발전전략에 관한 연구"
+        },
+        {
+          "rank": 6,
+          "score": 0.5601133108139038,
+          "doc_id": "145",
+          "text": "IT기업 관점에서의 국방IT융합 추진방향"
+        },
+        {
+          "rank": 7,
+          "score": 0.5559371709823608,
+          "doc_id": "96",
+          "text": "국방IT융합 추진방법론 및 사례 연구"
+        },
+        {
+          "rank": 8,
+          "score": 0.5546405911445618,
+          "doc_id": "198",
+          "text": "국내 중소기업의 기술융합 전략 및 성장 정책: IT & BT 융합기술 기반 네트워크 분석"
+        },
+        {
+          "rank": 9,
+          "score": 0.5481199026107788,
+          "doc_id": "197",
+          "text": "산업생태계 관점에서 바라본 IT융합 촉진전략"
+        },
+        {
+          "rank": 10,
+          "score": 0.5479057431221008,
+          "doc_id": "19",
+          "text": "그린산업 육성을 위한 농업분야 IT융합기술"
+        }
+      ]
+    },
+    {
+      "query": "한국 IT융합 신산업의 역량강화요인은 무엇입니까?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.765320897102356,
+          "doc_id": "150",
+          "text": "한국 IT융합 신산업 역량강화요인"
+        },
+        {
+          "rank": 2,
+          "score": 0.629714846611023,
+          "doc_id": "211",
+          "text": "On exploring factors for enhancing export competitiveness in IT Convergence industries"
+        },
+        {
+          "rank": 3,
+          "score": 0.6201672554016113,
+          "doc_id": "146",
+          "text": "미래 IT융합 신산업 육성 및 선도방안"
+        },
+        {
+          "rank": 4,
+          "score": 0.5896477699279785,
+          "doc_id": "197",
+          "text": "산업생태계 관점에서 바라본 IT융합 촉진전략"
+        },
+        {
+          "rank": 5,
+          "score": 0.5679705142974854,
+          "doc_id": "145",
+          "text": "IT기업 관점에서의 국방IT융합 추진방향"
+        },
+        {
+          "rank": 6,
+          "score": 0.5660011172294617,
+          "doc_id": "16",
+          "text": "국방IT융합기술의 발전전략에 관한 연구"
+        },
+        {
+          "rank": 7,
+          "score": 0.5641100406646729,
+          "doc_id": "19",
+          "text": "그린산업 육성을 위한 농업분야 IT융합기술"
+        },
+        {
+          "rank": 8,
+          "score": 0.5624897480010986,
+          "doc_id": "96",
+          "text": "국방IT융합 추진방법론 및 사례 연구"
+        },
+        {
+          "rank": 9,
+          "score": 0.5559664964675903,
+          "doc_id": "198",
+          "text": "국내 중소기업의 기술융합 전략 및 성장 정책: IT & BT 융합기술 기반 네트워크 분석"
+        },
+        {
+          "rank": 10,
+          "score": 0.5522603988647461,
+          "doc_id": "61",
+          "text": "IT 융합서비스 및 활용기술의 기술속성에 관한 연구 : 산업간 융합을 중심으로"
+        }
+      ]
+    },
+    {
+      "query": "이러한 역량강화요인을 도출하기 위한 연구 결과는 무엇입니까?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5549885034561157,
+          "doc_id": "211",
+          "text": "On exploring factors for enhancing export competitiveness in IT Convergence industries"
+        },
+        {
+          "rank": 2,
+          "score": 0.5499051213264465,
+          "doc_id": "216",
+          "text": "A Study on Artificial Intelligence"
+        },
+        {
+          "rank": 3,
+          "score": 0.5249812602996826,
+          "doc_id": "150",
+          "text": "한국 IT융합 신산업 역량강화요인"
+        },
+        {
+          "rank": 4,
+          "score": 0.5229336023330688,
+          "doc_id": "42",
+          "text": "Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning"
+        },
+        {
+          "rank": 5,
+          "score": 0.5107201933860779,
+          "doc_id": "225",
+          "text": "Speech Recognition using Machine Learning"
+        },
+        {
+          "rank": 6,
+          "score": 0.5086956024169922,
+          "doc_id": "121",
+          "text": "Deep Learning을 기반으로 한 Feature Extraction 알고리즘의 분석"
+        },
+        {
+          "rank": 7,
+          "score": 0.4933348000049591,
+          "doc_id": "161",
+          "text": "Big Data 활용을 위한 제조 품질 개선 방법에 대한 연구"
+        },
+        {
+          "rank": 8,
+          "score": 0.49327829480171204,
+          "doc_id": "202",
+          "text": "Machine learning"
+        },
+        {
+          "rank": 9,
+          "score": 0.49268993735313416,
+          "doc_id": "174",
+          "text": "Self-Imitation Learning을 이용한 개선된 Deep Q-Network 알고리즘"
+        },
+        {
+          "rank": 10,
+          "score": 0.4888019561767578,
+          "doc_id": "16",
+          "text": "국방IT융합기술의 발전전략에 관한 연구"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

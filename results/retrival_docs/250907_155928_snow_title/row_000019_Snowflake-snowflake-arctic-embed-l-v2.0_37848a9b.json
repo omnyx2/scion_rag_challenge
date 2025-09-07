@@ -1,0 +1,221 @@
+{
+  "id": "row_000019",
+  "model_name": "Snowflake/snowflake-arctic-embed-l-v2.0",
+  "timestamp_kst": "2025-09-07T15:59:31.760668+09:00",
+  "trial_id": "37848a9b",
+  "queries": [
+    {
+      "query": "패키징 분야에서의 빅데이터 분석 기법과 소비자 인식 분석 방안을 요약해 주세요.",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6102870106697083,
+          "doc_id": "165",
+          "text": "패키징(Packaging) 분야에서의 빅데이터(Big data) 적용방안 연구"
+        },
+        {
+          "rank": 2,
+          "score": 0.47645971179008484,
+          "doc_id": "62",
+          "text": "Utilization and Analysis of Big-data"
+        },
+        {
+          "rank": 3,
+          "score": 0.43443864583969116,
+          "doc_id": "32",
+          "text": "빅데이터 처리 프로세스에 따른 빅데이터 위험요인 분석"
+        },
+        {
+          "rank": 4,
+          "score": 0.42411544919013977,
+          "doc_id": "161",
+          "text": "Big Data 활용을 위한 제조 품질 개선 방법에 대한 연구"
+        },
+        {
+          "rank": 5,
+          "score": 0.41726887226104736,
+          "doc_id": "68",
+          "text": "인공지능 생성 콘텐츠(Artificial Intelligence Generated Content)와 인공지능 사용 공개(Artificial Intelligence Disclaimer)에 대한 소비자 인식 연구: 콘텐츠 가치와 형식을 중심으로"
+        },
+        {
+          "rank": 6,
+          "score": 0.41096264123916626,
+          "doc_id": "43",
+          "text": "Enjeux des big data en sant&eacute;"
+        },
+        {
+          "rank": 7,
+          "score": 0.40339696407318115,
+          "doc_id": "109",
+          "text": "Optimized Data Processing Analysis Using Big Data Cloud Platform"
+        },
+        {
+          "rank": 8,
+          "score": 0.3940808176994324,
+          "doc_id": "71",
+          "text": "Compromise between Small Data and Big Data"
+        },
+        {
+          "rank": 9,
+          "score": 0.38617125153541565,
+          "doc_id": "223",
+          "text": "학습전략과 심층학습"
+        },
+        {
+          "rank": 10,
+          "score": 0.3847391605377197,
+          "doc_id": "86",
+          "text": "Big data monetization throughout Big Data Value Chain: a comprehensive review"
+        }
+      ]
+    },
+    {
+      "query": "패키징 분야에서 활용되는 빅데이터 분석 기법은 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.547710657119751,
+          "doc_id": "165",
+          "text": "패키징(Packaging) 분야에서의 빅데이터(Big data) 적용방안 연구"
+        },
+        {
+          "rank": 2,
+          "score": 0.48784106969833374,
+          "doc_id": "62",
+          "text": "Utilization and Analysis of Big-data"
+        },
+        {
+          "rank": 3,
+          "score": 0.42088907957077026,
+          "doc_id": "32",
+          "text": "빅데이터 처리 프로세스에 따른 빅데이터 위험요인 분석"
+        },
+        {
+          "rank": 4,
+          "score": 0.4030451476573944,
+          "doc_id": "109",
+          "text": "Optimized Data Processing Analysis Using Big Data Cloud Platform"
+        },
+        {
+          "rank": 5,
+          "score": 0.39693009853363037,
+          "doc_id": "43",
+          "text": "Enjeux des big data en sant&eacute;"
+        },
+        {
+          "rank": 6,
+          "score": 0.39599359035491943,
+          "doc_id": "217",
+          "text": "Les big data, g&eacute;n&eacute;ralit&eacute;s et int&eacute;gration en radioth&eacute;rapie"
+        },
+        {
+          "rank": 7,
+          "score": 0.3900899589061737,
+          "doc_id": "123",
+          "text": "딥러닝의 모형과 응용사례"
+        },
+        {
+          "rank": 8,
+          "score": 0.38848939538002014,
+          "doc_id": "206",
+          "text": "O&ugrave; en est t’on du Big Data en m&eacute;decine ?"
+        },
+        {
+          "rank": 9,
+          "score": 0.38529855012893677,
+          "doc_id": "161",
+          "text": "Big Data 활용을 위한 제조 품질 개선 방법에 대한 연구"
+        },
+        {
+          "rank": 10,
+          "score": 0.37617599964141846,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence"
+        }
+      ]
+    },
+    {
+      "query": "소비자 인식 분석 방안에는 어떤 것들이 있나요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.3780449628829956,
+          "doc_id": "68",
+          "text": "인공지능 생성 콘텐츠(Artificial Intelligence Generated Content)와 인공지능 사용 공개(Artificial Intelligence Disclaimer)에 대한 소비자 인식 연구: 콘텐츠 가치와 형식을 중심으로"
+        },
+        {
+          "rank": 2,
+          "score": 0.34633898735046387,
+          "doc_id": "62",
+          "text": "Utilization and Analysis of Big-data"
+        },
+        {
+          "rank": 3,
+          "score": 0.3217339515686035,
+          "doc_id": "183",
+          "text": "구성적 인공지능"
+        },
+        {
+          "rank": 4,
+          "score": 0.31792962551116943,
+          "doc_id": "43",
+          "text": "Enjeux des big data en sant&eacute;"
+        },
+        {
+          "rank": 5,
+          "score": 0.3156801760196686,
+          "doc_id": "64",
+          "text": "Deep Learning Research Trend Analysis using Text Mining"
+        },
+        {
+          "rank": 6,
+          "score": 0.31499189138412476,
+          "doc_id": "162",
+          "text": "IT 컨버전스의 이해와 법ㆍ기술 방향"
+        },
+        {
+          "rank": 7,
+          "score": 0.31342238187789917,
+          "doc_id": "220",
+          "text": "딥 러닝기반 고객평점 예측모델"
+        },
+        {
+          "rank": 8,
+          "score": 0.31145817041397095,
+          "doc_id": "223",
+          "text": "학습전략과 심층학습"
+        },
+        {
+          "rank": 9,
+          "score": 0.3094191551208496,
+          "doc_id": "155",
+          "text": "Machine Learning Versus Deep Learning Performances on the Sentiment Analysis of Product Reviews"
+        },
+        {
+          "rank": 10,
+          "score": 0.308055579662323,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

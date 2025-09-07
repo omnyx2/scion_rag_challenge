@@ -1,0 +1,291 @@
+{
+  "id": "row_000042",
+  "model_name": "SamilPwC-AXNode-GenAI/PwC-Embedding_expr",
+  "timestamp_kst": "2025-09-07T16:47:03.000179+09:00",
+  "trial_id": "ca1aa5b9",
+  "queries": [
+    {
+      "query": "Could you outline the main points about the role of large-scale machine learning in bridging database systems and commercial applications?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7687467336654663,
+          "doc_id": "88",
+          "text": "Machine learning on Big Data Machine learning on Big Data Machine learning on Big Data Statistical Machine Learning has undergone a phase transition from a pure academic endeavor to being one of the main drivers of modern commerce and science. Even more so, recent results such as those on tera-scale learning [1] and on very large neural networks [2] suggest that scale is an important ingredient in quality modeling. This tutorial introduces current applications, techniques and systems with the aim of cross-fertilizing research between the database and machine learning communities. The tutorial covers current large scale applications of Machine Learning, their computational model and the workflow behind building those. Based on this foundation, we present the current state-of-the-art in systems support in the bulk of the tutorial. We also identify critical gaps in the state-of-the-art. This leads to the closing of the seminar, where we introduce two sets of open research questions: Better systems support for the already established use cases of Machine Learning and support for recent advances in Machine Learning research."
+        },
+        {
+          "rank": 2,
+          "score": 0.6792830228805542,
+          "doc_id": "202",
+          "text": "Machine learning Machine learning Machine learning A short review of research and applications in machine learning is given. Rather than attempt to cover all areas of ML, the focus is on its role in building expert systems, its approach to classification problems and ML methods of learning control. A relatively new area, inductive logic programming, is also discussed."
+        },
+        {
+          "rank": 3,
+          "score": 0.6716139316558838,
+          "doc_id": "221",
+          "text": "Implikationen von Machine Learning auf das Datenmanagement in Unternehmen Implikationen von Machine Learning auf das Datenmanagement in Unternehmen Implikationen von Machine Learning auf das Datenmanagement in Unternehmen AbstractMachine Learning is a trend research area with great potential and far-reaching application potentials. Big Data is an enabler, as large and high-quality data are always the basis for successful machine learning algorithms and models. There is currently no fully established standard process for the machine learning life cycle, as is the case in data mining with the CRISP-DM-Process, which means that the operationalization of machine learning models in particular can present companies with major challenges. In this article, the implications for data management in companies are worked out on the basis of the view of the nature of the data, the various roles in machine learning teams and the life cycle of machine learning models."
+        },
+        {
+          "rank": 4,
+          "score": 0.6711252927780151,
+          "doc_id": "214",
+          "text": "An Efficient Parallel Machine Learning-based Blockchain Framework An Efficient Parallel Machine Learning-based Blockchain Framework An Efficient Parallel Machine Learning-based Blockchain Framework The unlimited possibilities of machine learning have been shown in several successful reports and applications. However, how to make sure that the searched results of a machine learning system are not tampered by anyone and how to prevent the other users in the same network environment from easily getting our private data are two critical research issues when we immerse into powerful machine learning-based systems or applications. This situation is just like other modern information systems that confront security and privacy issues. The development of blockchain provides us an alternative way to address these two issues. That is why some recent studies have attempted to develop machine learning systems with blockchain technologies or to apply machine learning methods to blockchain systems. To show what the combination of blockchain and machine learning is capable of doing, in this paper, we proposed a parallel framework to find out suitable hyperparameters of deep learning in a blockchain environment by using a metaheuristic algorithm. The proposed framework also takes into account the issue of communication cost, by limiting the number of information exchanges between miners and blockchain."
+        },
+        {
+          "rank": 5,
+          "score": 0.6697477102279663,
+          "doc_id": "87",
+          "text": "Big Data Analysis and Machine Learning in Intensive Care Units Big Data Analysis and Machine Learning in Intensive Care Units Big Data Analysis and Machine Learning in Intensive Care Units Abstract Intensive care is an ideal environment for the use of Big Data Analysis (BDA) and Machine Learning (ML), due to the huge amount of information processed and stored in electronic format in relation to such care. These tools can improve our clinical research capabilities and clinical decision making in the future. The present study reviews the foundations of BDA and ML, and explores possible applications in our field from a clinical viewpoint. We also suggest potential strategies to optimize these new technologies and describe a new kind of hybrid healthcare-data science professional with a linking role between clinicians and data."
+        },
+        {
+          "rank": 6,
+          "score": 0.6634769439697266,
+          "doc_id": "78",
+          "text": "Data learning from big data Data learning from big data Data learning from big data Abstract Technology is generating a huge and growing availability of observations of diverse nature. This big data is placing data learning as a central scientific discipline. It includes collection, storage, preprocessing, visualization and, essentially, statistical analysis of enormous batches of data. In this paper, we discuss the role of statistics regarding some of the issues raised by big data in this new paradigm and also propose the name of data learning to describe all the activities that allow to obtain relevant knowledge from this new source of information."
+        },
+        {
+          "rank": 7,
+          "score": 0.6596527695655823,
+          "doc_id": "75",
+          "text": "MACHINE LEARNING MACHINE LEARNING MACHINE LEARNING The motivation for machine learning is to have computers extract concepts and relations from databases or through interactive sessions with a user and then use them in any knowledge-intensive activity. Developing knowledge bases for expert systems applications is one such activity. Studying computer-based learning techniques gives a better understanding of human mental processes. Two types of programs are considered that learn from examples: those, called data-driven learners, that generalize by relying entirely on the data presented to them, and a group of more elaborate programs, called model-driven learners, that proceed by generating fairly general hypotheses that are subsequently tested against the given examples or against the user in a typical interactive session. The model-driven learner is contrasted with the data-driven learner and an example of the former using a model-driven learner called Marvin is given."
+        },
+        {
+          "rank": 8,
+          "score": 0.6573426723480225,
+          "doc_id": "140",
+          "text": "Sharing Big Data Sharing Big Data Sharing Big Data Macromolecular Big Data provide numerous challenges and a number of initiatives that are starting to overcome these issues are discussed."
+        },
+        {
+          "rank": 9,
+          "score": 0.6435127854347229,
+          "doc_id": "158",
+          "text": "Big business with Big Data Big Business mit Big Data Big business with Big Data Big Business mit Big Data Big business with Big Data Big Business mit Big Data Big business with Big Data Big Business mit Big Data"
+        },
+        {
+          "rank": 10,
+          "score": 0.6416960954666138,
+          "doc_id": "76",
+          "text": "Big Data, Big Knowledge: Big Data for Personalized Healthcare Big Data, Big Knowledge: Big Data for Personalized Healthcare Big Data, Big Knowledge: Big Data for Personalized Healthcare The idea that the purely phenomenological knowledge that we can extract by analyzing large amounts of data can be useful in healthcare seems to contradict the desire of VPH researchers to build detailed mechanistic models for individual patients. But in practice no model is ever entirely phenomenological or entirely mechanistic. We propose in this position paper that big data analytics can be successfully combined with VPH technologies to produce robust and effective in silico medicine solutions. In order to do this, big data technologies must be further developed to cope with some specific requirements that emerge from this application. Such requirements are: working with sensitive data; analytics of complex and heterogeneous data spaces, including nontextual information; distributed data management under security and performance constraints; specialized analytics to integrate bioinformatics and systems biology information with clinical observations at tissue, organ and organisms scales; and specialized analytics to define the &#x201C;physiological envelope&#x201D; during the daily life of each patient. These domain-specific requirements suggest a need for targeted funding, in which big data technologies for in silico medicine becomes the research priority."
+        }
+      ]
+    },
+    {
+      "query": "What kind of data from database systems is relevant for large-scale machine learning?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.754019021987915,
+          "doc_id": "88",
+          "text": "Machine learning on Big Data Machine learning on Big Data Machine learning on Big Data Statistical Machine Learning has undergone a phase transition from a pure academic endeavor to being one of the main drivers of modern commerce and science. Even more so, recent results such as those on tera-scale learning [1] and on very large neural networks [2] suggest that scale is an important ingredient in quality modeling. This tutorial introduces current applications, techniques and systems with the aim of cross-fertilizing research between the database and machine learning communities. The tutorial covers current large scale applications of Machine Learning, their computational model and the workflow behind building those. Based on this foundation, we present the current state-of-the-art in systems support in the bulk of the tutorial. We also identify critical gaps in the state-of-the-art. This leads to the closing of the seminar, where we introduce two sets of open research questions: Better systems support for the already established use cases of Machine Learning and support for recent advances in Machine Learning research."
+        },
+        {
+          "rank": 2,
+          "score": 0.7053978443145752,
+          "doc_id": "78",
+          "text": "Data learning from big data Data learning from big data Data learning from big data Abstract Technology is generating a huge and growing availability of observations of diverse nature. This big data is placing data learning as a central scientific discipline. It includes collection, storage, preprocessing, visualization and, essentially, statistical analysis of enormous batches of data. In this paper, we discuss the role of statistics regarding some of the issues raised by big data in this new paradigm and also propose the name of data learning to describe all the activities that allow to obtain relevant knowledge from this new source of information."
+        },
+        {
+          "rank": 3,
+          "score": 0.6815268397331238,
+          "doc_id": "75",
+          "text": "MACHINE LEARNING MACHINE LEARNING MACHINE LEARNING The motivation for machine learning is to have computers extract concepts and relations from databases or through interactive sessions with a user and then use them in any knowledge-intensive activity. Developing knowledge bases for expert systems applications is one such activity. Studying computer-based learning techniques gives a better understanding of human mental processes. Two types of programs are considered that learn from examples: those, called data-driven learners, that generalize by relying entirely on the data presented to them, and a group of more elaborate programs, called model-driven learners, that proceed by generating fairly general hypotheses that are subsequently tested against the given examples or against the user in a typical interactive session. The model-driven learner is contrasted with the data-driven learner and an example of the former using a model-driven learner called Marvin is given."
+        },
+        {
+          "rank": 4,
+          "score": 0.6766005754470825,
+          "doc_id": "87",
+          "text": "Big Data Analysis and Machine Learning in Intensive Care Units Big Data Analysis and Machine Learning in Intensive Care Units Big Data Analysis and Machine Learning in Intensive Care Units Abstract Intensive care is an ideal environment for the use of Big Data Analysis (BDA) and Machine Learning (ML), due to the huge amount of information processed and stored in electronic format in relation to such care. These tools can improve our clinical research capabilities and clinical decision making in the future. The present study reviews the foundations of BDA and ML, and explores possible applications in our field from a clinical viewpoint. We also suggest potential strategies to optimize these new technologies and describe a new kind of hybrid healthcare-data science professional with a linking role between clinicians and data."
+        },
+        {
+          "rank": 5,
+          "score": 0.6698635816574097,
+          "doc_id": "73",
+          "text": "Big data, big data quality problem Big data, big data quality problem Big data, big data quality problem A USAF sponsored MITRE research team undertook four separate, domain-specific case studies about Big Data applications. Those case studies were initial investigations into the question of whether or not data quality issues encountered in Big Data collections are substantially different in cause, manifestation, or detection than those data quality issues encountered in more traditionally sized data collections. The study addresses several factors affecting Big Data Quality at multiple levels, including collection, processing, and storage. Though not unexpected, the key findings of this study reinforce that the primary factors affecting Big Data reside in the limitations and complexities involved with handling Big Data while maintaining its integrity. These concerns are of a higher magnitude than the provenance of the data, the processing, and the tools used to prepare, manipulate, and store the data. Data quality is extremely important for all data analytics problems. From the study's findings, the 'truth about Big Data' is there are no fundamentally new DQ issues in Big Data analytics projects. Some DQ issues exhibit return-s-to-scale effects, and become more or less pronounced in Big Data analytics, though. Big Data Quality varies from one type of Big Data to another and from one Big Data technology to another."
+        },
+        {
+          "rank": 6,
+          "score": 0.6673963069915771,
+          "doc_id": "202",
+          "text": "Machine learning Machine learning Machine learning A short review of research and applications in machine learning is given. Rather than attempt to cover all areas of ML, the focus is on its role in building expert systems, its approach to classification problems and ML methods of learning control. A relatively new area, inductive logic programming, is also discussed."
+        },
+        {
+          "rank": 7,
+          "score": 0.6655166149139404,
+          "doc_id": "221",
+          "text": "Implikationen von Machine Learning auf das Datenmanagement in Unternehmen Implikationen von Machine Learning auf das Datenmanagement in Unternehmen Implikationen von Machine Learning auf das Datenmanagement in Unternehmen AbstractMachine Learning is a trend research area with great potential and far-reaching application potentials. Big Data is an enabler, as large and high-quality data are always the basis for successful machine learning algorithms and models. There is currently no fully established standard process for the machine learning life cycle, as is the case in data mining with the CRISP-DM-Process, which means that the operationalization of machine learning models in particular can present companies with major challenges. In this article, the implications for data management in companies are worked out on the basis of the view of the nature of the data, the various roles in machine learning teams and the life cycle of machine learning models."
+        },
+        {
+          "rank": 8,
+          "score": 0.6624864339828491,
+          "doc_id": "66",
+          "text": "Big Building Data - a Big Data Platform for Smart Buildings Big Building Data - a Big Data Platform for Smart Buildings Big Building Data - a Big Data Platform for Smart Buildings Abstract Future buildings will more and more rely on advanced Building Management Systems (BMS) connected to a variety of sensors, actuators and dedicated networks. Their objectives are to observe the state of rooms and apply automated rules to preserve or increase comfort while economizing energy. In this work, we advocate for the inclusion of a dedicated system for sensors data storage and processing, based on Big Data technologies. This choice enables new potentials in terms of data analytics and applications development, the most obvious one being the ability to scale up seamlessly from one smart building to several, in the direction of smart areas and smart cities. We report in this paper on our system architecture and on several challenges we met in its elaboration, attempting to meet requirements of scalability, data processing, flexibility, interoperability and privacy. We also describe current and future end-user services that our platform will support, including historical data retrieval, visualisation, processing and alarms. The platform, called BBData - Big Building Data, is currently in production at the Smart Living Lab of Fribourg and is offered to several research teams to ease their work, to foster the sharing of historical data and to avoid that each project develops its own data gathering and processing pipeline."
+        },
+        {
+          "rank": 9,
+          "score": 0.659027636051178,
+          "doc_id": "76",
+          "text": "Big Data, Big Knowledge: Big Data for Personalized Healthcare Big Data, Big Knowledge: Big Data for Personalized Healthcare Big Data, Big Knowledge: Big Data for Personalized Healthcare The idea that the purely phenomenological knowledge that we can extract by analyzing large amounts of data can be useful in healthcare seems to contradict the desire of VPH researchers to build detailed mechanistic models for individual patients. But in practice no model is ever entirely phenomenological or entirely mechanistic. We propose in this position paper that big data analytics can be successfully combined with VPH technologies to produce robust and effective in silico medicine solutions. In order to do this, big data technologies must be further developed to cope with some specific requirements that emerge from this application. Such requirements are: working with sensitive data; analytics of complex and heterogeneous data spaces, including nontextual information; distributed data management under security and performance constraints; specialized analytics to integrate bioinformatics and systems biology information with clinical observations at tissue, organ and organisms scales; and specialized analytics to define the &#x201C;physiological envelope&#x201D; during the daily life of each patient. These domain-specific requirements suggest a need for targeted funding, in which big data technologies for in silico medicine becomes the research priority."
+        },
+        {
+          "rank": 10,
+          "score": 0.6581017374992371,
+          "doc_id": "62",
+          "text": "Utilization and Analysis of Big-data Utilization and Analysis of Big-data Utilization and Analysis of Big-data This study reviews the analysis and characteristics of databases from big data and then establishes representational strategy. Thus, analysis has continued for a long time in the quantity and quality of data, and there are changes in the location of data in the social sciences, past trends and the emergence of big data. The introduction of big data is presented as a prototype of new social science and is a useful practical example that empirically shows the need, basis, and direction of analysis through trend prediction services. Big data provides a future perspective as an important foundation for social change within the framework of basic social sciences."
+        }
+      ]
+    },
+    {
+      "query": "What types of insights or functionalities does large-scale machine learning provide to commercial applications?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7351139783859253,
+          "doc_id": "88",
+          "text": "Machine learning on Big Data Machine learning on Big Data Machine learning on Big Data Statistical Machine Learning has undergone a phase transition from a pure academic endeavor to being one of the main drivers of modern commerce and science. Even more so, recent results such as those on tera-scale learning [1] and on very large neural networks [2] suggest that scale is an important ingredient in quality modeling. This tutorial introduces current applications, techniques and systems with the aim of cross-fertilizing research between the database and machine learning communities. The tutorial covers current large scale applications of Machine Learning, their computational model and the workflow behind building those. Based on this foundation, we present the current state-of-the-art in systems support in the bulk of the tutorial. We also identify critical gaps in the state-of-the-art. This leads to the closing of the seminar, where we introduce two sets of open research questions: Better systems support for the already established use cases of Machine Learning and support for recent advances in Machine Learning research."
+        },
+        {
+          "rank": 2,
+          "score": 0.6767727732658386,
+          "doc_id": "202",
+          "text": "Machine learning Machine learning Machine learning A short review of research and applications in machine learning is given. Rather than attempt to cover all areas of ML, the focus is on its role in building expert systems, its approach to classification problems and ML methods of learning control. A relatively new area, inductive logic programming, is also discussed."
+        },
+        {
+          "rank": 3,
+          "score": 0.6733106970787048,
+          "doc_id": "163",
+          "text": "Comparison of Machine Learning Tools for Mobile Application Comparison of Machine Learning Tools for Mobile Application Comparison of Machine Learning Tools for Mobile Application Demand for machine learning systems continues to grow, and cloud machine learning platforms are widely used to meet this demand. Recently, the performance improvement of the application processor of smartphones has become an opportunity for the machine learning platform to move from the cloud to On-Device AI, and mobile applications equipped with machine learning functions are required. In this paper, machine learning tools for mobile applications are investigated and compared the characteristics of these tools."
+        },
+        {
+          "rank": 4,
+          "score": 0.6671432256698608,
+          "doc_id": "221",
+          "text": "Implikationen von Machine Learning auf das Datenmanagement in Unternehmen Implikationen von Machine Learning auf das Datenmanagement in Unternehmen Implikationen von Machine Learning auf das Datenmanagement in Unternehmen AbstractMachine Learning is a trend research area with great potential and far-reaching application potentials. Big Data is an enabler, as large and high-quality data are always the basis for successful machine learning algorithms and models. There is currently no fully established standard process for the machine learning life cycle, as is the case in data mining with the CRISP-DM-Process, which means that the operationalization of machine learning models in particular can present companies with major challenges. In this article, the implications for data management in companies are worked out on the basis of the view of the nature of the data, the various roles in machine learning teams and the life cycle of machine learning models."
+        },
+        {
+          "rank": 5,
+          "score": 0.6650484800338745,
+          "doc_id": "142",
+          "text": "Machine learning in oncology-Perspectives in patient-reported outcome research Machine learning in oncology-Perspectives in patient-reported outcome research Machine learning in oncology-Perspectives in patient-reported outcome research AbstractBackgroundIncreasing data volumes in oncology pose new challenges for data analysis. Machine learning, a branch of artificial intelligence, can identify patterns even in very large and less structured datasets.ObjectiveThis article provides an overview of the possible applications for machine learning in oncology. Furthermore, the potential of machine learning in patient-reported outcome (PRO) research is discussed.Materials and methodsWe conducted a selective literature search (PubMed, MEDLINE, IEEE Xplore) and discuss current research.ResultsThere are three primary applications for machine learning in oncology: (1) cancer detection or classification; (2) overall survival prediction or risk assessment; and (3) supporting therapy decision-making and prediction of treatment response. Generally, machine learning approaches in oncology PRO research are scarce and few studies integrate PRO data into machine learning models.DiscussionMachine learning is a promising area of oncology, but few models have been transferred into clinical practice. The promise of personalized cancer therapy and shared decision-making through machine learning has yet to be realized. As an equally important emerging research area in oncology, PROs should also be incorporated into machine learning approaches. To gather the data necessary for this, broad implementation of PRO assessments in clinical practice, as well as the harmonization of existing datasets, is suggested."
+        },
+        {
+          "rank": 6,
+          "score": 0.6552799940109253,
+          "doc_id": "87",
+          "text": "Big Data Analysis and Machine Learning in Intensive Care Units Big Data Analysis and Machine Learning in Intensive Care Units Big Data Analysis and Machine Learning in Intensive Care Units Abstract Intensive care is an ideal environment for the use of Big Data Analysis (BDA) and Machine Learning (ML), due to the huge amount of information processed and stored in electronic format in relation to such care. These tools can improve our clinical research capabilities and clinical decision making in the future. The present study reviews the foundations of BDA and ML, and explores possible applications in our field from a clinical viewpoint. We also suggest potential strategies to optimize these new technologies and describe a new kind of hybrid healthcare-data science professional with a linking role between clinicians and data."
+        },
+        {
+          "rank": 7,
+          "score": 0.6550565958023071,
+          "doc_id": "155",
+          "text": "Machine Learning Versus Deep Learning Performances on the Sentiment Analysis of Product Reviews Machine Learning Versus Deep Learning Performances on the Sentiment Analysis of Product Reviews Machine Learning Versus Deep Learning Performances on the Sentiment Analysis of Product Reviews At this current digital era, business platforms have been drastically shifted toward online stores on internet. With the internet-based platform, customers can order goods easily using their smart phones and get delivery at their place without going to the shopping mall. However, the drawback of this business platform is that customers do not really know about the quality of the products they ordered. Therefore, such platform service often provides the review section to let previous customers leave a review about the received product. The reviews are a good source to analyze customer's satisfaction. Business owners can assess review trend as either positive or negative based on a feedback score that customers had given, but it takes too much time for human to analyze this data. In this research, we develop computational models using machine learning techniques to classify product reviews as positive or negative based on the sentiment analysis. In our experiments, we use the book review data from amazon.com to develop the models. For a machine learning based strategy, the data had been transformed with the bag of word technique before developing models using logistic regression, na&iuml;ve bayes, support vector machine, and neural network algorithms. For a deep learning strategy, the word embedding is a technique that we used to transform data before applying the long short-term memory and gated recurrent unit techniques. On comparing performance of machine learning against deep learning models, we compare results from the two methods with both the preprocessed dataset and the non-preprocessed dataset. The result is that the bag of words with neural network outperforms other techniques on both non-preprocess and preprocess datasets."
+        },
+        {
+          "rank": 8,
+          "score": 0.6474414467811584,
+          "doc_id": "179",
+          "text": "Deep Structured Learning: Architectures and Applications Deep Structured Learning: Architectures and Applications Deep Structured Learning: Architectures and Applications Deep learning, a sub-field of machine learning changing the prospects of artificial intelligence (AI) because of its recent advancements and application in various field. Deep learning deals with algorithms inspired by the structure and function of the brain called artificial neural networks. This works reviews basic architecture and recent advancement of deep structured learning. It also describes contemporary applications of deep structured learning and its advantages over the treditional learning in artificial interlligence. This study is useful for the general readers and students who are in the early stage of deep learning studies."
+        },
+        {
+          "rank": 9,
+          "score": 0.6453965902328491,
+          "doc_id": "76",
+          "text": "Big Data, Big Knowledge: Big Data for Personalized Healthcare Big Data, Big Knowledge: Big Data for Personalized Healthcare Big Data, Big Knowledge: Big Data for Personalized Healthcare The idea that the purely phenomenological knowledge that we can extract by analyzing large amounts of data can be useful in healthcare seems to contradict the desire of VPH researchers to build detailed mechanistic models for individual patients. But in practice no model is ever entirely phenomenological or entirely mechanistic. We propose in this position paper that big data analytics can be successfully combined with VPH technologies to produce robust and effective in silico medicine solutions. In order to do this, big data technologies must be further developed to cope with some specific requirements that emerge from this application. Such requirements are: working with sensitive data; analytics of complex and heterogeneous data spaces, including nontextual information; distributed data management under security and performance constraints; specialized analytics to integrate bioinformatics and systems biology information with clinical observations at tissue, organ and organisms scales; and specialized analytics to define the &#x201C;physiological envelope&#x201D; during the daily life of each patient. These domain-specific requirements suggest a need for targeted funding, in which big data technologies for in silico medicine becomes the research priority."
+        },
+        {
+          "rank": 10,
+          "score": 0.6386919021606445,
+          "doc_id": "78",
+          "text": "Data learning from big data Data learning from big data Data learning from big data Abstract Technology is generating a huge and growing availability of observations of diverse nature. This big data is placing data learning as a central scientific discipline. It includes collection, storage, preprocessing, visualization and, essentially, statistical analysis of enormous batches of data. In this paper, we discuss the role of statistics regarding some of the issues raised by big data in this new paradigm and also propose the name of data learning to describe all the activities that allow to obtain relevant knowledge from this new source of information."
+        }
+      ]
+    },
+    {
+      "query": "How does large-scale machine learning facilitate the flow of information or capabilities between database systems and commercial applications?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 2
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7271043062210083,
+          "doc_id": "88",
+          "text": "Machine learning on Big Data Machine learning on Big Data Machine learning on Big Data Statistical Machine Learning has undergone a phase transition from a pure academic endeavor to being one of the main drivers of modern commerce and science. Even more so, recent results such as those on tera-scale learning [1] and on very large neural networks [2] suggest that scale is an important ingredient in quality modeling. This tutorial introduces current applications, techniques and systems with the aim of cross-fertilizing research between the database and machine learning communities. The tutorial covers current large scale applications of Machine Learning, their computational model and the workflow behind building those. Based on this foundation, we present the current state-of-the-art in systems support in the bulk of the tutorial. We also identify critical gaps in the state-of-the-art. This leads to the closing of the seminar, where we introduce two sets of open research questions: Better systems support for the already established use cases of Machine Learning and support for recent advances in Machine Learning research."
+        },
+        {
+          "rank": 2,
+          "score": 0.665517270565033,
+          "doc_id": "214",
+          "text": "An Efficient Parallel Machine Learning-based Blockchain Framework An Efficient Parallel Machine Learning-based Blockchain Framework An Efficient Parallel Machine Learning-based Blockchain Framework The unlimited possibilities of machine learning have been shown in several successful reports and applications. However, how to make sure that the searched results of a machine learning system are not tampered by anyone and how to prevent the other users in the same network environment from easily getting our private data are two critical research issues when we immerse into powerful machine learning-based systems or applications. This situation is just like other modern information systems that confront security and privacy issues. The development of blockchain provides us an alternative way to address these two issues. That is why some recent studies have attempted to develop machine learning systems with blockchain technologies or to apply machine learning methods to blockchain systems. To show what the combination of blockchain and machine learning is capable of doing, in this paper, we proposed a parallel framework to find out suitable hyperparameters of deep learning in a blockchain environment by using a metaheuristic algorithm. The proposed framework also takes into account the issue of communication cost, by limiting the number of information exchanges between miners and blockchain."
+        },
+        {
+          "rank": 3,
+          "score": 0.6602770686149597,
+          "doc_id": "140",
+          "text": "Sharing Big Data Sharing Big Data Sharing Big Data Macromolecular Big Data provide numerous challenges and a number of initiatives that are starting to overcome these issues are discussed."
+        },
+        {
+          "rank": 4,
+          "score": 0.6581429243087769,
+          "doc_id": "221",
+          "text": "Implikationen von Machine Learning auf das Datenmanagement in Unternehmen Implikationen von Machine Learning auf das Datenmanagement in Unternehmen Implikationen von Machine Learning auf das Datenmanagement in Unternehmen AbstractMachine Learning is a trend research area with great potential and far-reaching application potentials. Big Data is an enabler, as large and high-quality data are always the basis for successful machine learning algorithms and models. There is currently no fully established standard process for the machine learning life cycle, as is the case in data mining with the CRISP-DM-Process, which means that the operationalization of machine learning models in particular can present companies with major challenges. In this article, the implications for data management in companies are worked out on the basis of the view of the nature of the data, the various roles in machine learning teams and the life cycle of machine learning models."
+        },
+        {
+          "rank": 5,
+          "score": 0.6486234664916992,
+          "doc_id": "87",
+          "text": "Big Data Analysis and Machine Learning in Intensive Care Units Big Data Analysis and Machine Learning in Intensive Care Units Big Data Analysis and Machine Learning in Intensive Care Units Abstract Intensive care is an ideal environment for the use of Big Data Analysis (BDA) and Machine Learning (ML), due to the huge amount of information processed and stored in electronic format in relation to such care. These tools can improve our clinical research capabilities and clinical decision making in the future. The present study reviews the foundations of BDA and ML, and explores possible applications in our field from a clinical viewpoint. We also suggest potential strategies to optimize these new technologies and describe a new kind of hybrid healthcare-data science professional with a linking role between clinicians and data."
+        },
+        {
+          "rank": 6,
+          "score": 0.6385791301727295,
+          "doc_id": "163",
+          "text": "Comparison of Machine Learning Tools for Mobile Application Comparison of Machine Learning Tools for Mobile Application Comparison of Machine Learning Tools for Mobile Application Demand for machine learning systems continues to grow, and cloud machine learning platforms are widely used to meet this demand. Recently, the performance improvement of the application processor of smartphones has become an opportunity for the machine learning platform to move from the cloud to On-Device AI, and mobile applications equipped with machine learning functions are required. In this paper, machine learning tools for mobile applications are investigated and compared the characteristics of these tools."
+        },
+        {
+          "rank": 7,
+          "score": 0.6374301910400391,
+          "doc_id": "199",
+          "text": "Sharing big biomedical data Sharing big biomedical data Sharing big biomedical data BackgroundThe promise of Big Biomedical Data may be offset by the enormous challenges in handling, analyzing, and sharing it. In this paper, we provide a framework for developing practical and reasonable data sharing policies that incorporate the sociological, financial, technical and scientific requirements of a sustainable Big Data dependent scientific community.FindingsMany biomedical and healthcare studies may be significantly impacted by using large, heterogeneous and incongruent datasets; however there are significant technical, social, regulatory, and institutional barriers that need to be overcome to ensure the power of Big Data overcomes these detrimental factors.ConclusionsPragmatic policies that demand extensive sharing of data, promotion of data fusion, provenance, interoperability and balance security and protection of personal information are critical for the long term impact of translational Big Data analytics."
+        },
+        {
+          "rank": 8,
+          "score": 0.6356817483901978,
+          "doc_id": "78",
+          "text": "Data learning from big data Data learning from big data Data learning from big data Abstract Technology is generating a huge and growing availability of observations of diverse nature. This big data is placing data learning as a central scientific discipline. It includes collection, storage, preprocessing, visualization and, essentially, statistical analysis of enormous batches of data. In this paper, we discuss the role of statistics regarding some of the issues raised by big data in this new paradigm and also propose the name of data learning to describe all the activities that allow to obtain relevant knowledge from this new source of information."
+        },
+        {
+          "rank": 9,
+          "score": 0.6349695324897766,
+          "doc_id": "75",
+          "text": "MACHINE LEARNING MACHINE LEARNING MACHINE LEARNING The motivation for machine learning is to have computers extract concepts and relations from databases or through interactive sessions with a user and then use them in any knowledge-intensive activity. Developing knowledge bases for expert systems applications is one such activity. Studying computer-based learning techniques gives a better understanding of human mental processes. Two types of programs are considered that learn from examples: those, called data-driven learners, that generalize by relying entirely on the data presented to them, and a group of more elaborate programs, called model-driven learners, that proceed by generating fairly general hypotheses that are subsequently tested against the given examples or against the user in a typical interactive session. The model-driven learner is contrasted with the data-driven learner and an example of the former using a model-driven learner called Marvin is given."
+        },
+        {
+          "rank": 10,
+          "score": 0.6311026215553284,
+          "doc_id": "202",
+          "text": "Machine learning Machine learning Machine learning A short review of research and applications in machine learning is given. Rather than attempt to cover all areas of ML, the focus is on its role in building expert systems, its approach to classification problems and ML methods of learning control. A relatively new area, inductive logic programming, is also discussed."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

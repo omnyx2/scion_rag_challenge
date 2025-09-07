@@ -1,0 +1,291 @@
+{
+  "id": "row_000026",
+  "model_name": "Snowflake/snowflake-arctic-embed-l-v2.0",
+  "timestamp_kst": "2025-09-07T15:58:57.031917+09:00",
+  "trial_id": "68fa5bff",
+  "queries": [
+    {
+      "query": "클라우드 컴퓨팅 환경에서 오픈소스 기반 딥 러닝 프레임워크들 간의 성능 비교 결과와 그 의의를 간결하게 정리해 주실 수 있나요?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5298899412155151,
+          "doc_id": "50",
+          "text": "통신 기술의 발달로 인한 사람과 사람, 장치와 장치, 사람과 장치 간의 연결성의 증가와 저장 매체 기술의 발달, 그리고 데이터 저장 비용의 감소로 인해 데이터의 양이 폭발적으로 증가했다. 이에 따라 다양한 형태의 대규모의 데이터를 빠른 시간 내에 효율적으로 처리할 수 있는 Cloud Computing 기술이 주목 받고 있고, Cloud Computing을 위한 오픈소스 기반의 솔루션 또한 많이 나타나게 되었다. &amp;#xD; 2012년부터 주목받기 시작한 Deep Learning은 전 세계적으로 가장 많은 관심을 받는 연구 분야 중 하나이며, 이중 CNN(Convolution Neural Network)은 가장 대표적 알고리즘이다. Deep Learning은 미래사회를 이끌어갈 분야로 평가받고 있으며, 이에 따라 많은 연구들이 진행되고 있고, Deep Learning을 쉽게 활용할 수 있도록 하는 많은 프레임워크가 개발되었다. &amp;#xD; 이에 따라 많은 사람들이 쉽게 Deep Learning을 접할 수 있게 되었지만 특정 환경에서 어떤 프레임워크가 더 우수한 성능을 보이는지에 대한 연구는 부족한 실정이다. 본 논문에서는 특정 환경에서의 성능 비교가 부족하다는 기존 연구의 한계점을 개선하고자 가장 대표적인 Cloud Computing용 오픈소스 소프트웨어 중 하나인 OpenStack을 이용하여 Cloud Computing 환경에서 어떤 Deep Learning 프레임워크가 더 우수한 성능을 보이는지 비교해 보고자 한다."
+        },
+        {
+          "rank": 2,
+          "score": 0.4066109359264374,
+          "doc_id": "125",
+          "text": "ZusammenfassungDeep Learning ist der Ansatz, der die k&uuml;nstliche Intelligenz innerhalb weniger Jahre tiefgreifend ver&auml;ndert hat. Auch wenn sie durch verschiedene algorithmische Fortschritte begleitet wird, ist diese Technik vor allem aus Anwendungssicht &#x201e;disruptiv“: Sie verschiebt die Grenze automatisierbarer Aufgaben betr&auml;chtlich, ver&auml;ndert die Art der Produktentwicklung und steht praktisch jedermann zur Verf&uuml;gung. Gegenstand des Deep Learning sind neuronale Netze mit einer großen Anzahl von Schichten. Verglichen mit fr&uuml;heren Ans&auml;tzen mit idealerweise einer einzigen Schicht, erlaubt dies den Einsatz massiver Rechenhardware, um Black-Box-Modelle mit einem Minimum an Entwicklungsaufwand direkt aus Rohdaten zu trainieren. Die meisten erfolgreichen Anwendungen finden sich in der Auswertung visueller Bilder, aber auch in der Audio- und Text-Modellierung."
+        },
+        {
+          "rank": 3,
+          "score": 0.38638466596603394,
+          "doc_id": "109",
+          "text": "Recently data processing has main gained many attention both from academic and commercial industry. Their term use to tools, technical methods and frameworks made to gathering, collect, store, processing and analysis massive amounts of data. Data processing and analysis are based on structured/semi -structured/unstructured by big data, as well as is generated from various different sources in the system at various rates. For the purpose of processing with their large data and suitable way, voluminous parallelism is usually used. The general architecture of a big data system is made up a shared cluster of their machines. Nonetheless, even in very parallel environment, data processing is often very time-consuming. A various applications can take up to everytime to produce useful results, interactive analysis and debugging. Nevertheless, we have main problems that how we have a high performance requires both quality of data locality and resource. Moreover, big data analysis provide the amount of data that is processed typically large in comparison with computation in their systems. In other words, specified optimization that would relieve low-level to achieve good performance essentially. Accordingly, our main goal of this research paper provide how we have to do to optimize for big data frameworks. Our contribute approach to make big data cloud platform for easy and efficient processing of big data. In addition, we provides results from a study of existing optimization of data processing in MapReduce and Hadoop oriented systems."
+        },
+        {
+          "rank": 4,
+          "score": 0.37776458263397217,
+          "doc_id": "151",
+          "text": "최근 여러 학문 분야에서는 논의되고 있는 인공지능(AI)의 문제는 과학적 문제임과 동시에 중요한 철학적 문제이다.본고는 컴퓨터과학자 혹은 인지과학자들이 내리고 있는 AI의 정의들을 분석함으로써 그 속에 함축되어 있는 논쟁점들을 발굴하고,관련된 논변들을 검토함 으로써 AI탐구가 지니는 의의를 명확히 해보려는 데 그 목적이 있다.AI에 대한 정의들은 AI연구가들의 관심과 목표 그리고 그 주장의 강도에 따라 여러 유형으로 분류될 수 있지만 대개가 인간지능을 어떻게 파악하고 있는지,지능과 뇌의 관계가 무엇인지,그리고 그것을 컴퓨터를 통해서 모의하고 복제한다는 것의 논리적 구조가 무엇인지에 대한 이해와 밀접한 관계가 있다.이점에서 AI연구에 있어서 관건이 되는 것은 컴퓨터 기술의 발전과 같은 경험상의 문제라기 보다는 오히려 논리나 개념분석과 같은 선험적인 문제와 밀접하게 연관되어 있다."
+        },
+        {
+          "rank": 5,
+          "score": 0.3769611120223999,
+          "doc_id": "178",
+          "text": "컨버전스(Convergence)란 단어는 집합, 집중, 수렴, 한 곳으로 모여짐 등의 뜻을 지닌 일반적인 용어로써 매우 발전해가고 있는 IT 분야에서 다양한 수요자의 욕구와 기술의 진화에 따라 최근에 매우 빈번하게 등장하고 있는 용어이자, 중요한 화두 중에 하나가 되고 있다. 이에 단어가 지니고 있는 일반적 의미를 다각적으로 분석함과 동시에 그 의미가 정보통신분야의 기술적 측면에서 또한 활용적인 측면에서 어떤 암시와 효과를 나타내고 있고, 나아가 IT 분야의 발전을 향한 목표 지향적인 측면에서의 역할이 가능한지와 또 다른 발전과 진화에 따라 어느 정도의 생명력과 경쟁력은 지닐 수 있는지를 살펴보고자 한다. 20세기 후반에 등장한 새로운 산업의 빅뱅이 되고 있는 IT 분야가 전세계로 확산, 발전되어감에 따라 수많은 일반적인 단어와 용어 들이 정보통신분야에서 도입, 활용하였고 이러한 용어들은 단어 자체의 의미 보다는 정보통신분야 발전의 현재와 미래를 규정해왔고, 나아가 정보통신 발전에 따른 혜택을 받는 전세계와 국내의 이용자들에게 많은 변화를 제공함과 동시에 연관분야의 산업에도 긍정적이던 부정적이던지 상호간 막대한 영향을 미쳐왔다고 분석된다. 이에 본 논문 자료는 IT 전문 용어가 아닌 일반적인 용어 중에서 IT 분야의 어떤 형태로든 영향을 미칠 용어 중에서 컨버전스란 단어를 통해 IT 분야의 현주소를 사례를 중심으로 분석, 점검하고 향후 IT 분야에서 컨버전스가 적용될 미래의 발전 모습을 전망하고자 하는데 있다."
+        },
+        {
+          "rank": 6,
+          "score": 0.3705056309700012,
+          "doc_id": "179",
+          "text": "Deep learning, a sub-field of machine learning changing the prospects of artificial intelligence (AI) because of its recent advancements and application in various field. Deep learning deals with algorithms inspired by the structure and function of the brain called artificial neural networks. This works reviews basic architecture and recent advancement of deep structured learning. It also describes contemporary applications of deep structured learning and its advantages over the treditional learning in artificial interlligence. This study is useful for the general readers and students who are in the early stage of deep learning studies."
+        },
+        {
+          "rank": 7,
+          "score": 0.3546077311038971,
+          "doc_id": "60",
+          "text": "AI has been well supported by government research and development dollars for decades now, and people are beginning to ask hard questions: What really works? What are the limits? What doesn't work as advertised? What isn't likely to work? What isn't affordable? This article holds a mirror up to the community, both to provide feedback and stimulate more self-assessment. The significant accomplishments and strengths of the field are highlighted. The research agenda, strategy, and heuristics are reviewed, and a change of course is recommended to improve the field's ability to produce reusable and interoperable components.(Author abstract)"
+        },
+        {
+          "rank": 8,
+          "score": 0.3378840684890747,
+          "doc_id": "163",
+          "text": "Demand for machine learning systems continues to grow, and cloud machine learning platforms are widely used to meet this demand. Recently, the performance improvement of the application processor of smartphones has become an opportunity for the machine learning platform to move from the cloud to On-Device AI, and mobile applications equipped with machine learning functions are required. In this paper, machine learning tools for mobile applications are investigated and compared the characteristics of these tools."
+        },
+        {
+          "rank": 9,
+          "score": 0.3347649872303009,
+          "doc_id": "181",
+          "text": "본 연구는 문헌 연구 통해 설명 가능한 인공지능의 개념과 문제해결과정을 탐구하였다. 본 연구를 통하여 설명 가능한 인공지능의 교육적 의미와 적용 방안을 제시하였다. 설명 가능한 인공지능 교육이란 인간과 관련된 인공지능 문제를 다루는 사람 중심의 인공지능 교육으로 학생들은 문제 해결 능력을 함양할 수 있다. 그리고, 알고리즘 교육을 통해 인공지능의 원리를 이해하고 실생활 문제 상황과 관련된 인공지능 모델을 설명하며 인공지능의 활용분야까지 확장할 수 있다. 이러한 설명 가능한 인공지능 교육이 초등학교에서 적용되기 위해서는 실제 삶과 관련된 예를 사용해야 하며 알고리즘 자체가 해석력을 지닌 것을 활용하는 것이 좋다. 또한, 이해가 설명으로 나아가기 위해 다양한 교수학습방법 및 도구를 활용해야 한다. 2022년 개정 교육과정에서 인공지능 도입을 앞두고 본 연구가 실제 수업을 위한 기반으로써 의미 있게 활용되기를 바란다."
+        },
+        {
+          "rank": 10,
+          "score": 0.3341064751148224,
+          "doc_id": "104",
+          "text": "Artificial intelligence is one of the most beautiful dreams of mankind. Although computer technology has made considerable progress, so far, there is no computer showing intelligence like human beings. The emergence of deep learning gives people a glimmer of hope. So, what is learning deep? Why is it so important? How does it work? And what are the existing achievements and difficulties? This paper provides an overview of deep learning which will answer these questions."
+        }
+      ]
+    },
+    {
+      "query": "클라우드 컴퓨팅 환경에서 주로 사용되는 오픈소스 딥 러닝 프레임워크는 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.49356043338775635,
+          "doc_id": "50",
+          "text": "통신 기술의 발달로 인한 사람과 사람, 장치와 장치, 사람과 장치 간의 연결성의 증가와 저장 매체 기술의 발달, 그리고 데이터 저장 비용의 감소로 인해 데이터의 양이 폭발적으로 증가했다. 이에 따라 다양한 형태의 대규모의 데이터를 빠른 시간 내에 효율적으로 처리할 수 있는 Cloud Computing 기술이 주목 받고 있고, Cloud Computing을 위한 오픈소스 기반의 솔루션 또한 많이 나타나게 되었다. &amp;#xD; 2012년부터 주목받기 시작한 Deep Learning은 전 세계적으로 가장 많은 관심을 받는 연구 분야 중 하나이며, 이중 CNN(Convolution Neural Network)은 가장 대표적 알고리즘이다. Deep Learning은 미래사회를 이끌어갈 분야로 평가받고 있으며, 이에 따라 많은 연구들이 진행되고 있고, Deep Learning을 쉽게 활용할 수 있도록 하는 많은 프레임워크가 개발되었다. &amp;#xD; 이에 따라 많은 사람들이 쉽게 Deep Learning을 접할 수 있게 되었지만 특정 환경에서 어떤 프레임워크가 더 우수한 성능을 보이는지에 대한 연구는 부족한 실정이다. 본 논문에서는 특정 환경에서의 성능 비교가 부족하다는 기존 연구의 한계점을 개선하고자 가장 대표적인 Cloud Computing용 오픈소스 소프트웨어 중 하나인 OpenStack을 이용하여 Cloud Computing 환경에서 어떤 Deep Learning 프레임워크가 더 우수한 성능을 보이는지 비교해 보고자 한다."
+        },
+        {
+          "rank": 2,
+          "score": 0.36686769127845764,
+          "doc_id": "178",
+          "text": "컨버전스(Convergence)란 단어는 집합, 집중, 수렴, 한 곳으로 모여짐 등의 뜻을 지닌 일반적인 용어로써 매우 발전해가고 있는 IT 분야에서 다양한 수요자의 욕구와 기술의 진화에 따라 최근에 매우 빈번하게 등장하고 있는 용어이자, 중요한 화두 중에 하나가 되고 있다. 이에 단어가 지니고 있는 일반적 의미를 다각적으로 분석함과 동시에 그 의미가 정보통신분야의 기술적 측면에서 또한 활용적인 측면에서 어떤 암시와 효과를 나타내고 있고, 나아가 IT 분야의 발전을 향한 목표 지향적인 측면에서의 역할이 가능한지와 또 다른 발전과 진화에 따라 어느 정도의 생명력과 경쟁력은 지닐 수 있는지를 살펴보고자 한다. 20세기 후반에 등장한 새로운 산업의 빅뱅이 되고 있는 IT 분야가 전세계로 확산, 발전되어감에 따라 수많은 일반적인 단어와 용어 들이 정보통신분야에서 도입, 활용하였고 이러한 용어들은 단어 자체의 의미 보다는 정보통신분야 발전의 현재와 미래를 규정해왔고, 나아가 정보통신 발전에 따른 혜택을 받는 전세계와 국내의 이용자들에게 많은 변화를 제공함과 동시에 연관분야의 산업에도 긍정적이던 부정적이던지 상호간 막대한 영향을 미쳐왔다고 분석된다. 이에 본 논문 자료는 IT 전문 용어가 아닌 일반적인 용어 중에서 IT 분야의 어떤 형태로든 영향을 미칠 용어 중에서 컨버전스란 단어를 통해 IT 분야의 현주소를 사례를 중심으로 분석, 점검하고 향후 IT 분야에서 컨버전스가 적용될 미래의 발전 모습을 전망하고자 하는데 있다."
+        },
+        {
+          "rank": 3,
+          "score": 0.35881656408309937,
+          "doc_id": "125",
+          "text": "ZusammenfassungDeep Learning ist der Ansatz, der die k&uuml;nstliche Intelligenz innerhalb weniger Jahre tiefgreifend ver&auml;ndert hat. Auch wenn sie durch verschiedene algorithmische Fortschritte begleitet wird, ist diese Technik vor allem aus Anwendungssicht &#x201e;disruptiv“: Sie verschiebt die Grenze automatisierbarer Aufgaben betr&auml;chtlich, ver&auml;ndert die Art der Produktentwicklung und steht praktisch jedermann zur Verf&uuml;gung. Gegenstand des Deep Learning sind neuronale Netze mit einer großen Anzahl von Schichten. Verglichen mit fr&uuml;heren Ans&auml;tzen mit idealerweise einer einzigen Schicht, erlaubt dies den Einsatz massiver Rechenhardware, um Black-Box-Modelle mit einem Minimum an Entwicklungsaufwand direkt aus Rohdaten zu trainieren. Die meisten erfolgreichen Anwendungen finden sich in der Auswertung visueller Bilder, aber auch in der Audio- und Text-Modellierung."
+        },
+        {
+          "rank": 4,
+          "score": 0.34846973419189453,
+          "doc_id": "219",
+          "text": "첨단 정보통신기술(ICT)인 인공지능(AI), 사물인터넷(IoT), 빅데이터(Big Data) 등이 사회와 경제 전반에 융합돼 혁신적인 변화가 일어나는 요즘, 헬스케어, 지능형 로봇, 가정용 인공지능 시스템(스마트홈), 공유자동차 등은 이미 우리 생활에 깊이 영향을 미치고 있다. 이미 오래전부터 공장에서는 로봇이 사람 대신 일을 하고 있으며(FA, OA), 인공지능 의사도 병원에서 활동을 하고 있고(Dr. Watson), 인공지능 스피커(기가지니)와 인공지능 비서인 구글 어시스턴트가 자연어생성을 하며 우리를 돕고 있다. 이제 인공지능을 이해하는 것은 필수가 되었으며, 인공지능을 이해하기 위해서 수학의 지식은 선택이 아니라 필수가 되었다. 따라서 이런 일들을 가능하게 해주는 수학지식을 설명하는 역할이 수학자들에게 주어졌다. 이에 본 연구진은 인공지능과 머신러닝(Machine Learning, 기계학습)을 이해하기 위해 필요한 수학 개념을 우리의 실정에 맞게 한 학기(또는 두 학기) 분량으로 정리하여, 무료 전자교과서 '인공지능을 위한 기초수학'을 집필하고, 인공지능 분야에 관심이 있는 다양한 전공의 대학생과 대학원생을 대상으로 하는 강좌를 개설하였다. 본 논문에서는 그 개발과정과 운영사례를 공유한다. http://matrix.skku.ac.kr/math4ai/"
+        },
+        {
+          "rank": 5,
+          "score": 0.348080575466156,
+          "doc_id": "109",
+          "text": "Recently data processing has main gained many attention both from academic and commercial industry. Their term use to tools, technical methods and frameworks made to gathering, collect, store, processing and analysis massive amounts of data. Data processing and analysis are based on structured/semi -structured/unstructured by big data, as well as is generated from various different sources in the system at various rates. For the purpose of processing with their large data and suitable way, voluminous parallelism is usually used. The general architecture of a big data system is made up a shared cluster of their machines. Nonetheless, even in very parallel environment, data processing is often very time-consuming. A various applications can take up to everytime to produce useful results, interactive analysis and debugging. Nevertheless, we have main problems that how we have a high performance requires both quality of data locality and resource. Moreover, big data analysis provide the amount of data that is processed typically large in comparison with computation in their systems. In other words, specified optimization that would relieve low-level to achieve good performance essentially. Accordingly, our main goal of this research paper provide how we have to do to optimize for big data frameworks. Our contribute approach to make big data cloud platform for easy and efficient processing of big data. In addition, we provides results from a study of existing optimization of data processing in MapReduce and Hadoop oriented systems."
+        },
+        {
+          "rank": 6,
+          "score": 0.3455030024051666,
+          "doc_id": "151",
+          "text": "최근 여러 학문 분야에서는 논의되고 있는 인공지능(AI)의 문제는 과학적 문제임과 동시에 중요한 철학적 문제이다.본고는 컴퓨터과학자 혹은 인지과학자들이 내리고 있는 AI의 정의들을 분석함으로써 그 속에 함축되어 있는 논쟁점들을 발굴하고,관련된 논변들을 검토함 으로써 AI탐구가 지니는 의의를 명확히 해보려는 데 그 목적이 있다.AI에 대한 정의들은 AI연구가들의 관심과 목표 그리고 그 주장의 강도에 따라 여러 유형으로 분류될 수 있지만 대개가 인간지능을 어떻게 파악하고 있는지,지능과 뇌의 관계가 무엇인지,그리고 그것을 컴퓨터를 통해서 모의하고 복제한다는 것의 논리적 구조가 무엇인지에 대한 이해와 밀접한 관계가 있다.이점에서 AI연구에 있어서 관건이 되는 것은 컴퓨터 기술의 발전과 같은 경험상의 문제라기 보다는 오히려 논리나 개념분석과 같은 선험적인 문제와 밀접하게 연관되어 있다."
+        },
+        {
+          "rank": 7,
+          "score": 0.3326312303543091,
+          "doc_id": "181",
+          "text": "본 연구는 문헌 연구 통해 설명 가능한 인공지능의 개념과 문제해결과정을 탐구하였다. 본 연구를 통하여 설명 가능한 인공지능의 교육적 의미와 적용 방안을 제시하였다. 설명 가능한 인공지능 교육이란 인간과 관련된 인공지능 문제를 다루는 사람 중심의 인공지능 교육으로 학생들은 문제 해결 능력을 함양할 수 있다. 그리고, 알고리즘 교육을 통해 인공지능의 원리를 이해하고 실생활 문제 상황과 관련된 인공지능 모델을 설명하며 인공지능의 활용분야까지 확장할 수 있다. 이러한 설명 가능한 인공지능 교육이 초등학교에서 적용되기 위해서는 실제 삶과 관련된 예를 사용해야 하며 알고리즘 자체가 해석력을 지닌 것을 활용하는 것이 좋다. 또한, 이해가 설명으로 나아가기 위해 다양한 교수학습방법 및 도구를 활용해야 한다. 2022년 개정 교육과정에서 인공지능 도입을 앞두고 본 연구가 실제 수업을 위한 기반으로써 의미 있게 활용되기를 바란다."
+        },
+        {
+          "rank": 8,
+          "score": 0.33231234550476074,
+          "doc_id": "123",
+          "text": "딥러닝은 인공신경망(neural network)이라는 인공지능분야의 모형이 발전된 형태로서, 계층구조로 이루어진 인공신경망의 내부계층(hidden layer)이 여러 단계로 이루어진 구조이다. 딥러닝에서의 주요 모형은 합성곱신경망(convolutional neural network), 순환신경망(recurrent neural network), 그리고 심층신뢰신경망(deep belief network)의 세가지라고 할 수 있다. 그 중에서 현재 흥미로운 연구가 많이 발표되어서 관심이 집중되고 있는 모형은 지도학습(supervised learning)모형인 처음 두 개의 모형이다. 따라서 본 논문에서는 지도학습모형의 가중치를 최적화하는 기본적인 방법인 오류역전파 알고리즘을 살펴본 뒤에 합성곱신경망과 순환신경망의 구조와 응용사례 등을 살펴보고자 한다. 본문에서 다루지 않은 모형인 심층신뢰신경망은 아직까지는 합성곱신경망 이나 순환신경망보다는 상대적으로 주목을 덜 받고 있다. 그러나 심층신뢰신경망은 CNN이나 RNN과는 달리 비지도학습(unsupervised learning)모형이며, 사람이나 동물은 관찰을 통해서 스스로 학습한다는 점에서 궁극적으로는 비지도학습모형이 더 많이 연구되어야 할 주제가 될 것이다."
+        },
+        {
+          "rank": 9,
+          "score": 0.3290064036846161,
+          "doc_id": "6",
+          "text": "4 천년 전에 Go-game (바둑) 이 발명되어 널리 지능을 가진 사람들을 가르치기 위해 널리 적용되었습니다. 많은 왕이 그것을 연주하고 지능을 향상시키기 위해 아들을 가르쳤습니다.&amp;#xD; 1980 년대에 퍼스널 컴퓨터가 만들어지고 인기를 얻었습니다. 또한 많은 게임이 사람들이 컴퓨터로 게임을하거나 기존 게임을 플레이 할 때 사용자를 지원할 수 있도록 프로그래밍되어 있습니다. Shogi, Chess, Xiangqi, Go-game, tic-tac-toe 등과 같이 지금까지도 우리 조상이 연주 한 많은 유명한 전통 게임이 컴퓨터 프로그램에 의해 삽화가되고 많은 게임이 성공적으로 프로그래밍되었습니다 . 점진적으로 개선되기 위해 매일 복잡성 게임이 개발되고 있습니다. 특히, 복잡성이 매우 높은 일부 게임은 장군, 체스, 고 게임 등과 같은 전략과 규칙을 가지고 노는 것이 지능적이라고 생각합니다. 인간과 똑같이 지능적으로 플레이 할 수 있도록 프로그램하는 것은 매우 어렵습니다.&amp;#xD; 기계 학습은 컴퓨터가 인간의 두뇌와 유사한 데이터를 생각하고 학습하게하는 솔루션으로 부상했습니다. 알고리즘을 사용하여 분석 모델을 작성하여 컴퓨터가 특정 목적을 위해 주어진 데이터에서 '학습'하도록 돕습니다. 이제는 무인 자동차, 로봇 장치와 같은 흥미 진 진한 새로운 응용 프로그램을 만들기 위해 방대한 양의 데이터에 적용 할 수 있습니다. 딥 러닝 (Deep Learning)은 인공 신경 네트워크 (artificial neural networks)라고 불리는 뇌의 구조와 기능에 영감을받은 알고리즘과 관련된 기계 학습의 하위 분야입니다. 이것은 더 나은 훈련 된 데이터 세트를 얻기 위해 학습 진도를 향상시키는 새로운 접근법으로 알려져있어 더 정확한 결과를 초래합니다.&amp;#xD; 내 논문은 Go-game에 깊은 학습을 적용하는 데 중점을 둡니다. 나는 'Go-game에 적용된 깊은 학습'에 관한 설문 조사를합니다. Go-game에 대한 오픈 소스 코드 프로젝트와 문제 해결을위한 심층적 인 학습 기술을 적용하는 방법을 소개합니다. 정확성과 효과가 더 높은 Go- 게임을위한 다음 동작 계산에 대해 자세히 설명합니다. 저는 고문 교수 인 Jung Keechul과 함께 Go-game의 차세대 제안에 대한 제안을했습니다. 이 방법에서는 3 개의 CNN 레이어가있는 5 개의 숨겨진 레이어를 사용하여 데이터를 학습합니다.&amp;#xD; 저의 논문의 기여는보다 높은 성과와 효과를 가진 HCI에 깊은 학습을 적용하는 접근법을 과시하는 것입니다. 첫째, 심층 학습에 대한 완전한 관찰과 그것을 설문 조사를 통해 적용하는 방법을 제공했습니다. Go-game에 깊은 학습이 적용되었습니다. 둘째, Go-game 연구 및 프로젝트에 필요한 거대한 자원을 보여주었습니다. 셋째, Go-game에 적용된 실험과이 분야에서의 작업을 보여주었습니다. 마지막으로 필자는 내 프로그램 (HuuDucGo), Orego 및 Fuego의 3 가지 프로그램을 비교했습니다. 그들 사이에 제안의 수렴은 다음을 보여줍니다 : HuuDucGo의 제안을 받아 들일 수 있습니다. 우리의 작업에 대한 특별한 실험 : Orego와 Fuego와 같은 다른 두 가지 큰 프로그램의 제안과 수렴되는 수용 가능한 결과를 가지고 Go- 게임을 할 때 다음 행동을 계산하고 제안하는 데 깊은 지식을 적용합니다."
+        },
+        {
+          "rank": 10,
+          "score": 0.3220488727092743,
+          "doc_id": "15",
+          "text": "Artificial intelligence (AI), which includes machine learning and deep learning has been introduced to nursing care in recent years. The present study reviews the following topics: the concepts of AI, machine learning, and deep learning; examples of AI-based nursing research; the necessity of education on AI in nursing schools; and the areas of nursing care where AI is useful. AI refers to an intelligent system consisting not of a human, but a machine. Machine learning refers to computers’ ability to learn without being explicitly programmed. Deep learning is a subset of machine learning that uses artificial neural networks consisting of multiple hidden layers. It is suggested that the educational curriculum should include big data, the concept of AI, algorithms and models of machine learning, the model of deep learning, and coding practice. The standard curriculum should be organized by the nursing society. An example of an area of nursing care where AI is useful is prenatal nursing interventions based on pregnant women’s nursing records and AI-based prediction of the risk of delivery according to pregnant women’s age. Nurses should be able to cope with the rapidly developing environment of nursing care influenced by AI and should understand how to apply AI in their field. It is time for Korean nurses to take steps to become familiar with AI in their research, education, and practice."
+        }
+      ]
+    },
+    {
+      "query": "이러한 오픈소스 딥 러닝 프레임워크들 간의 성능 비교 결과는 어떻게 되나요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.41339439153671265,
+          "doc_id": "50",
+          "text": "통신 기술의 발달로 인한 사람과 사람, 장치와 장치, 사람과 장치 간의 연결성의 증가와 저장 매체 기술의 발달, 그리고 데이터 저장 비용의 감소로 인해 데이터의 양이 폭발적으로 증가했다. 이에 따라 다양한 형태의 대규모의 데이터를 빠른 시간 내에 효율적으로 처리할 수 있는 Cloud Computing 기술이 주목 받고 있고, Cloud Computing을 위한 오픈소스 기반의 솔루션 또한 많이 나타나게 되었다. &amp;#xD; 2012년부터 주목받기 시작한 Deep Learning은 전 세계적으로 가장 많은 관심을 받는 연구 분야 중 하나이며, 이중 CNN(Convolution Neural Network)은 가장 대표적 알고리즘이다. Deep Learning은 미래사회를 이끌어갈 분야로 평가받고 있으며, 이에 따라 많은 연구들이 진행되고 있고, Deep Learning을 쉽게 활용할 수 있도록 하는 많은 프레임워크가 개발되었다. &amp;#xD; 이에 따라 많은 사람들이 쉽게 Deep Learning을 접할 수 있게 되었지만 특정 환경에서 어떤 프레임워크가 더 우수한 성능을 보이는지에 대한 연구는 부족한 실정이다. 본 논문에서는 특정 환경에서의 성능 비교가 부족하다는 기존 연구의 한계점을 개선하고자 가장 대표적인 Cloud Computing용 오픈소스 소프트웨어 중 하나인 OpenStack을 이용하여 Cloud Computing 환경에서 어떤 Deep Learning 프레임워크가 더 우수한 성능을 보이는지 비교해 보고자 한다."
+        },
+        {
+          "rank": 2,
+          "score": 0.4010832905769348,
+          "doc_id": "60",
+          "text": "AI has been well supported by government research and development dollars for decades now, and people are beginning to ask hard questions: What really works? What are the limits? What doesn't work as advertised? What isn't likely to work? What isn't affordable? This article holds a mirror up to the community, both to provide feedback and stimulate more self-assessment. The significant accomplishments and strengths of the field are highlighted. The research agenda, strategy, and heuristics are reviewed, and a change of course is recommended to improve the field's ability to produce reusable and interoperable components.(Author abstract)"
+        },
+        {
+          "rank": 3,
+          "score": 0.37716561555862427,
+          "doc_id": "125",
+          "text": "ZusammenfassungDeep Learning ist der Ansatz, der die k&uuml;nstliche Intelligenz innerhalb weniger Jahre tiefgreifend ver&auml;ndert hat. Auch wenn sie durch verschiedene algorithmische Fortschritte begleitet wird, ist diese Technik vor allem aus Anwendungssicht &#x201e;disruptiv“: Sie verschiebt die Grenze automatisierbarer Aufgaben betr&auml;chtlich, ver&auml;ndert die Art der Produktentwicklung und steht praktisch jedermann zur Verf&uuml;gung. Gegenstand des Deep Learning sind neuronale Netze mit einer großen Anzahl von Schichten. Verglichen mit fr&uuml;heren Ans&auml;tzen mit idealerweise einer einzigen Schicht, erlaubt dies den Einsatz massiver Rechenhardware, um Black-Box-Modelle mit einem Minimum an Entwicklungsaufwand direkt aus Rohdaten zu trainieren. Die meisten erfolgreichen Anwendungen finden sich in der Auswertung visueller Bilder, aber auch in der Audio- und Text-Modellierung."
+        },
+        {
+          "rank": 4,
+          "score": 0.3496569097042084,
+          "doc_id": "151",
+          "text": "최근 여러 학문 분야에서는 논의되고 있는 인공지능(AI)의 문제는 과학적 문제임과 동시에 중요한 철학적 문제이다.본고는 컴퓨터과학자 혹은 인지과학자들이 내리고 있는 AI의 정의들을 분석함으로써 그 속에 함축되어 있는 논쟁점들을 발굴하고,관련된 논변들을 검토함 으로써 AI탐구가 지니는 의의를 명확히 해보려는 데 그 목적이 있다.AI에 대한 정의들은 AI연구가들의 관심과 목표 그리고 그 주장의 강도에 따라 여러 유형으로 분류될 수 있지만 대개가 인간지능을 어떻게 파악하고 있는지,지능과 뇌의 관계가 무엇인지,그리고 그것을 컴퓨터를 통해서 모의하고 복제한다는 것의 논리적 구조가 무엇인지에 대한 이해와 밀접한 관계가 있다.이점에서 AI연구에 있어서 관건이 되는 것은 컴퓨터 기술의 발전과 같은 경험상의 문제라기 보다는 오히려 논리나 개념분석과 같은 선험적인 문제와 밀접하게 연관되어 있다."
+        },
+        {
+          "rank": 5,
+          "score": 0.3434903025627136,
+          "doc_id": "179",
+          "text": "Deep learning, a sub-field of machine learning changing the prospects of artificial intelligence (AI) because of its recent advancements and application in various field. Deep learning deals with algorithms inspired by the structure and function of the brain called artificial neural networks. This works reviews basic architecture and recent advancement of deep structured learning. It also describes contemporary applications of deep structured learning and its advantages over the treditional learning in artificial interlligence. This study is useful for the general readers and students who are in the early stage of deep learning studies."
+        },
+        {
+          "rank": 6,
+          "score": 0.3296985626220703,
+          "doc_id": "225",
+          "text": "Speech recognition is one of the fastest-growing engineering technologies. It has several applications in different areas, and provides many potential benefits. A lot of people are unable to communicate due to language barriers. We aim to reduce this barrier via our project, which was designed and developed to achieve systems in particular cases to provide significant help so people can share information by operating a computer using voice input. This project keeps that factor in mind, and an effort is made to ensure our project is able to recognize speech and convert input audio into text; it also enables a user to perform file operations like Save, Open, or Exit from voice-only input. We design a system that can recognize the human voice as well as audio clips, and translate between English and Hindi. The output is in text form, and we provide options to convert audio from one language to the other. Going forward, we expect to add functionality that provides dictionary meanings for Hindi and English words. Neural machine translation is the primary algorithm used in the industry to perform machine translation. Two recurrent neural networks used in tandem to construct an encoder–decoder structure are the architecture behind neural machine translation. This work on speech recognition starts with an introduction to the technology and the applications used in different sectors. Part of the report is based on software developments in speech recognition."
+        },
+        {
+          "rank": 7,
+          "score": 0.3216383159160614,
+          "doc_id": "104",
+          "text": "Artificial intelligence is one of the most beautiful dreams of mankind. Although computer technology has made considerable progress, so far, there is no computer showing intelligence like human beings. The emergence of deep learning gives people a glimmer of hope. So, what is learning deep? Why is it so important? How does it work? And what are the existing achievements and difficulties? This paper provides an overview of deep learning which will answer these questions."
+        },
+        {
+          "rank": 8,
+          "score": 0.3164578676223755,
+          "doc_id": "69",
+          "text": "The field of artificial intelligence is reviewed. The work of George Stiny and myself on design and criticism is discussed briefly in terms of a paradigm of artificial intelligence research."
+        },
+        {
+          "rank": 9,
+          "score": 0.309112012386322,
+          "doc_id": "158",
+          "text": "Big business with Big Data Big Business mit Big Data"
+        },
+        {
+          "rank": 10,
+          "score": 0.3066555857658386,
+          "doc_id": "6",
+          "text": "4 천년 전에 Go-game (바둑) 이 발명되어 널리 지능을 가진 사람들을 가르치기 위해 널리 적용되었습니다. 많은 왕이 그것을 연주하고 지능을 향상시키기 위해 아들을 가르쳤습니다.&amp;#xD; 1980 년대에 퍼스널 컴퓨터가 만들어지고 인기를 얻었습니다. 또한 많은 게임이 사람들이 컴퓨터로 게임을하거나 기존 게임을 플레이 할 때 사용자를 지원할 수 있도록 프로그래밍되어 있습니다. Shogi, Chess, Xiangqi, Go-game, tic-tac-toe 등과 같이 지금까지도 우리 조상이 연주 한 많은 유명한 전통 게임이 컴퓨터 프로그램에 의해 삽화가되고 많은 게임이 성공적으로 프로그래밍되었습니다 . 점진적으로 개선되기 위해 매일 복잡성 게임이 개발되고 있습니다. 특히, 복잡성이 매우 높은 일부 게임은 장군, 체스, 고 게임 등과 같은 전략과 규칙을 가지고 노는 것이 지능적이라고 생각합니다. 인간과 똑같이 지능적으로 플레이 할 수 있도록 프로그램하는 것은 매우 어렵습니다.&amp;#xD; 기계 학습은 컴퓨터가 인간의 두뇌와 유사한 데이터를 생각하고 학습하게하는 솔루션으로 부상했습니다. 알고리즘을 사용하여 분석 모델을 작성하여 컴퓨터가 특정 목적을 위해 주어진 데이터에서 '학습'하도록 돕습니다. 이제는 무인 자동차, 로봇 장치와 같은 흥미 진 진한 새로운 응용 프로그램을 만들기 위해 방대한 양의 데이터에 적용 할 수 있습니다. 딥 러닝 (Deep Learning)은 인공 신경 네트워크 (artificial neural networks)라고 불리는 뇌의 구조와 기능에 영감을받은 알고리즘과 관련된 기계 학습의 하위 분야입니다. 이것은 더 나은 훈련 된 데이터 세트를 얻기 위해 학습 진도를 향상시키는 새로운 접근법으로 알려져있어 더 정확한 결과를 초래합니다.&amp;#xD; 내 논문은 Go-game에 깊은 학습을 적용하는 데 중점을 둡니다. 나는 'Go-game에 적용된 깊은 학습'에 관한 설문 조사를합니다. Go-game에 대한 오픈 소스 코드 프로젝트와 문제 해결을위한 심층적 인 학습 기술을 적용하는 방법을 소개합니다. 정확성과 효과가 더 높은 Go- 게임을위한 다음 동작 계산에 대해 자세히 설명합니다. 저는 고문 교수 인 Jung Keechul과 함께 Go-game의 차세대 제안에 대한 제안을했습니다. 이 방법에서는 3 개의 CNN 레이어가있는 5 개의 숨겨진 레이어를 사용하여 데이터를 학습합니다.&amp;#xD; 저의 논문의 기여는보다 높은 성과와 효과를 가진 HCI에 깊은 학습을 적용하는 접근법을 과시하는 것입니다. 첫째, 심층 학습에 대한 완전한 관찰과 그것을 설문 조사를 통해 적용하는 방법을 제공했습니다. Go-game에 깊은 학습이 적용되었습니다. 둘째, Go-game 연구 및 프로젝트에 필요한 거대한 자원을 보여주었습니다. 셋째, Go-game에 적용된 실험과이 분야에서의 작업을 보여주었습니다. 마지막으로 필자는 내 프로그램 (HuuDucGo), Orego 및 Fuego의 3 가지 프로그램을 비교했습니다. 그들 사이에 제안의 수렴은 다음을 보여줍니다 : HuuDucGo의 제안을 받아 들일 수 있습니다. 우리의 작업에 대한 특별한 실험 : Orego와 Fuego와 같은 다른 두 가지 큰 프로그램의 제안과 수렴되는 수용 가능한 결과를 가지고 Go- 게임을 할 때 다음 행동을 계산하고 제안하는 데 깊은 지식을 적용합니다."
+        }
+      ]
+    },
+    {
+      "query": "이러한 성능 비교 결과의 의의는 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 2
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.33614394068717957,
+          "doc_id": "151",
+          "text": "최근 여러 학문 분야에서는 논의되고 있는 인공지능(AI)의 문제는 과학적 문제임과 동시에 중요한 철학적 문제이다.본고는 컴퓨터과학자 혹은 인지과학자들이 내리고 있는 AI의 정의들을 분석함으로써 그 속에 함축되어 있는 논쟁점들을 발굴하고,관련된 논변들을 검토함 으로써 AI탐구가 지니는 의의를 명확히 해보려는 데 그 목적이 있다.AI에 대한 정의들은 AI연구가들의 관심과 목표 그리고 그 주장의 강도에 따라 여러 유형으로 분류될 수 있지만 대개가 인간지능을 어떻게 파악하고 있는지,지능과 뇌의 관계가 무엇인지,그리고 그것을 컴퓨터를 통해서 모의하고 복제한다는 것의 논리적 구조가 무엇인지에 대한 이해와 밀접한 관계가 있다.이점에서 AI연구에 있어서 관건이 되는 것은 컴퓨터 기술의 발전과 같은 경험상의 문제라기 보다는 오히려 논리나 개념분석과 같은 선험적인 문제와 밀접하게 연관되어 있다."
+        },
+        {
+          "rank": 2,
+          "score": 0.31292054057121277,
+          "doc_id": "178",
+          "text": "컨버전스(Convergence)란 단어는 집합, 집중, 수렴, 한 곳으로 모여짐 등의 뜻을 지닌 일반적인 용어로써 매우 발전해가고 있는 IT 분야에서 다양한 수요자의 욕구와 기술의 진화에 따라 최근에 매우 빈번하게 등장하고 있는 용어이자, 중요한 화두 중에 하나가 되고 있다. 이에 단어가 지니고 있는 일반적 의미를 다각적으로 분석함과 동시에 그 의미가 정보통신분야의 기술적 측면에서 또한 활용적인 측면에서 어떤 암시와 효과를 나타내고 있고, 나아가 IT 분야의 발전을 향한 목표 지향적인 측면에서의 역할이 가능한지와 또 다른 발전과 진화에 따라 어느 정도의 생명력과 경쟁력은 지닐 수 있는지를 살펴보고자 한다. 20세기 후반에 등장한 새로운 산업의 빅뱅이 되고 있는 IT 분야가 전세계로 확산, 발전되어감에 따라 수많은 일반적인 단어와 용어 들이 정보통신분야에서 도입, 활용하였고 이러한 용어들은 단어 자체의 의미 보다는 정보통신분야 발전의 현재와 미래를 규정해왔고, 나아가 정보통신 발전에 따른 혜택을 받는 전세계와 국내의 이용자들에게 많은 변화를 제공함과 동시에 연관분야의 산업에도 긍정적이던 부정적이던지 상호간 막대한 영향을 미쳐왔다고 분석된다. 이에 본 논문 자료는 IT 전문 용어가 아닌 일반적인 용어 중에서 IT 분야의 어떤 형태로든 영향을 미칠 용어 중에서 컨버전스란 단어를 통해 IT 분야의 현주소를 사례를 중심으로 분석, 점검하고 향후 IT 분야에서 컨버전스가 적용될 미래의 발전 모습을 전망하고자 하는데 있다."
+        },
+        {
+          "rank": 3,
+          "score": 0.2825128436088562,
+          "doc_id": "181",
+          "text": "본 연구는 문헌 연구 통해 설명 가능한 인공지능의 개념과 문제해결과정을 탐구하였다. 본 연구를 통하여 설명 가능한 인공지능의 교육적 의미와 적용 방안을 제시하였다. 설명 가능한 인공지능 교육이란 인간과 관련된 인공지능 문제를 다루는 사람 중심의 인공지능 교육으로 학생들은 문제 해결 능력을 함양할 수 있다. 그리고, 알고리즘 교육을 통해 인공지능의 원리를 이해하고 실생활 문제 상황과 관련된 인공지능 모델을 설명하며 인공지능의 활용분야까지 확장할 수 있다. 이러한 설명 가능한 인공지능 교육이 초등학교에서 적용되기 위해서는 실제 삶과 관련된 예를 사용해야 하며 알고리즘 자체가 해석력을 지닌 것을 활용하는 것이 좋다. 또한, 이해가 설명으로 나아가기 위해 다양한 교수학습방법 및 도구를 활용해야 한다. 2022년 개정 교육과정에서 인공지능 도입을 앞두고 본 연구가 실제 수업을 위한 기반으로써 의미 있게 활용되기를 바란다."
+        },
+        {
+          "rank": 4,
+          "score": 0.265737384557724,
+          "doc_id": "225",
+          "text": "Speech recognition is one of the fastest-growing engineering technologies. It has several applications in different areas, and provides many potential benefits. A lot of people are unable to communicate due to language barriers. We aim to reduce this barrier via our project, which was designed and developed to achieve systems in particular cases to provide significant help so people can share information by operating a computer using voice input. This project keeps that factor in mind, and an effort is made to ensure our project is able to recognize speech and convert input audio into text; it also enables a user to perform file operations like Save, Open, or Exit from voice-only input. We design a system that can recognize the human voice as well as audio clips, and translate between English and Hindi. The output is in text form, and we provide options to convert audio from one language to the other. Going forward, we expect to add functionality that provides dictionary meanings for Hindi and English words. Neural machine translation is the primary algorithm used in the industry to perform machine translation. Two recurrent neural networks used in tandem to construct an encoder–decoder structure are the architecture behind neural machine translation. This work on speech recognition starts with an introduction to the technology and the applications used in different sectors. Part of the report is based on software developments in speech recognition."
+        },
+        {
+          "rank": 5,
+          "score": 0.26059120893478394,
+          "doc_id": "116",
+          "text": "본 연구의 목적은 소비자들이 IT 기반의 컨버전스 제품을 구매함에 있어서 지각하는 구매태도를 바탕으로 구매의사결정을 이론적 배경에 대한 검토를 바탕으로 가설을 설정하고 이들 가설을 검증하기 위하여 실증연구를 수행하였다. IT 컨버전스 제품에 있어서 효용성이 주는 소비자들이 제품이나 서비스를 채용하는데 있어서 매우 중요한 전략적 접근방법이다. 소비자들의 IT 컨버전스 제품을 구매하는데 있어 기업의 경쟁력 강화전략을 도출하는 것이 성공적인 시장진입에 대한 시사점임을 알 수 있다."
+        },
+        {
+          "rank": 6,
+          "score": 0.23966023325920105,
+          "doc_id": "6",
+          "text": "4 천년 전에 Go-game (바둑) 이 발명되어 널리 지능을 가진 사람들을 가르치기 위해 널리 적용되었습니다. 많은 왕이 그것을 연주하고 지능을 향상시키기 위해 아들을 가르쳤습니다.&amp;#xD; 1980 년대에 퍼스널 컴퓨터가 만들어지고 인기를 얻었습니다. 또한 많은 게임이 사람들이 컴퓨터로 게임을하거나 기존 게임을 플레이 할 때 사용자를 지원할 수 있도록 프로그래밍되어 있습니다. Shogi, Chess, Xiangqi, Go-game, tic-tac-toe 등과 같이 지금까지도 우리 조상이 연주 한 많은 유명한 전통 게임이 컴퓨터 프로그램에 의해 삽화가되고 많은 게임이 성공적으로 프로그래밍되었습니다 . 점진적으로 개선되기 위해 매일 복잡성 게임이 개발되고 있습니다. 특히, 복잡성이 매우 높은 일부 게임은 장군, 체스, 고 게임 등과 같은 전략과 규칙을 가지고 노는 것이 지능적이라고 생각합니다. 인간과 똑같이 지능적으로 플레이 할 수 있도록 프로그램하는 것은 매우 어렵습니다.&amp;#xD; 기계 학습은 컴퓨터가 인간의 두뇌와 유사한 데이터를 생각하고 학습하게하는 솔루션으로 부상했습니다. 알고리즘을 사용하여 분석 모델을 작성하여 컴퓨터가 특정 목적을 위해 주어진 데이터에서 '학습'하도록 돕습니다. 이제는 무인 자동차, 로봇 장치와 같은 흥미 진 진한 새로운 응용 프로그램을 만들기 위해 방대한 양의 데이터에 적용 할 수 있습니다. 딥 러닝 (Deep Learning)은 인공 신경 네트워크 (artificial neural networks)라고 불리는 뇌의 구조와 기능에 영감을받은 알고리즘과 관련된 기계 학습의 하위 분야입니다. 이것은 더 나은 훈련 된 데이터 세트를 얻기 위해 학습 진도를 향상시키는 새로운 접근법으로 알려져있어 더 정확한 결과를 초래합니다.&amp;#xD; 내 논문은 Go-game에 깊은 학습을 적용하는 데 중점을 둡니다. 나는 'Go-game에 적용된 깊은 학습'에 관한 설문 조사를합니다. Go-game에 대한 오픈 소스 코드 프로젝트와 문제 해결을위한 심층적 인 학습 기술을 적용하는 방법을 소개합니다. 정확성과 효과가 더 높은 Go- 게임을위한 다음 동작 계산에 대해 자세히 설명합니다. 저는 고문 교수 인 Jung Keechul과 함께 Go-game의 차세대 제안에 대한 제안을했습니다. 이 방법에서는 3 개의 CNN 레이어가있는 5 개의 숨겨진 레이어를 사용하여 데이터를 학습합니다.&amp;#xD; 저의 논문의 기여는보다 높은 성과와 효과를 가진 HCI에 깊은 학습을 적용하는 접근법을 과시하는 것입니다. 첫째, 심층 학습에 대한 완전한 관찰과 그것을 설문 조사를 통해 적용하는 방법을 제공했습니다. Go-game에 깊은 학습이 적용되었습니다. 둘째, Go-game 연구 및 프로젝트에 필요한 거대한 자원을 보여주었습니다. 셋째, Go-game에 적용된 실험과이 분야에서의 작업을 보여주었습니다. 마지막으로 필자는 내 프로그램 (HuuDucGo), Orego 및 Fuego의 3 가지 프로그램을 비교했습니다. 그들 사이에 제안의 수렴은 다음을 보여줍니다 : HuuDucGo의 제안을 받아 들일 수 있습니다. 우리의 작업에 대한 특별한 실험 : Orego와 Fuego와 같은 다른 두 가지 큰 프로그램의 제안과 수렴되는 수용 가능한 결과를 가지고 Go- 게임을 할 때 다음 행동을 계산하고 제안하는 데 깊은 지식을 적용합니다."
+        },
+        {
+          "rank": 7,
+          "score": 0.23619748651981354,
+          "doc_id": "207",
+          "text": "AbstractThis paper addresses the relations between information retrieval (IR) and AI. It examines document retrieval, summarising its essential features and illustrating the state of its art by presenting one probabilistic model in detail, with some test results showing its value. The paper then analyses this model and related successful approaches, concentrating on and justifying their use of weak, redundant representation and reasoning. It goes on to other information management tasks and considers how the concepts and methods developed for retrieval may be applied to these, concluding by arguing that such ways of dealing with information may also have wider relevance to AI."
+        },
+        {
+          "rank": 8,
+          "score": 0.2347581386566162,
+          "doc_id": "202",
+          "text": "A short review of research and applications in machine learning is given. Rather than attempt to cover all areas of ML, the focus is on its role in building expert systems, its approach to classification problems and ML methods of learning control. A relatively new area, inductive logic programming, is also discussed."
+        },
+        {
+          "rank": 9,
+          "score": 0.23350629210472107,
+          "doc_id": "208",
+          "text": "Medicare&#x2019;s release of practitioner payments highlights the strengths and weaknesses of digging into big data."
+        },
+        {
+          "rank": 10,
+          "score": 0.23297688364982605,
+          "doc_id": "62",
+          "text": "This study reviews the analysis and characteristics of databases from big data and then establishes representational strategy. Thus, analysis has continued for a long time in the quantity and quality of data, and there are changes in the location of data in the social sciences, past trends and the emergence of big data. The introduction of big data is presented as a prototype of new social science and is a useful practical example that empirically shows the need, basis, and direction of analysis through trend prediction services. Big data provides a future perspective as an important foundation for social change within the framework of basic social sciences."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

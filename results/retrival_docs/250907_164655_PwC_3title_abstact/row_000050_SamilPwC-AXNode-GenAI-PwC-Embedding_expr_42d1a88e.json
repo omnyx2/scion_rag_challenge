@@ -1,0 +1,221 @@
+{
+  "id": "row_000050",
+  "model_name": "SamilPwC-AXNode-GenAI/PwC-Embedding_expr",
+  "timestamp_kst": "2025-09-07T16:47:04.449209+09:00",
+  "trial_id": "42d1a88e",
+  "queries": [
+    {
+      "query": "Lifelong Machine Learning 앙상블 방식으로 스팸 메시지 필터링 성능을 개선한 방법의 주요 아이디어와 장점을 간결하게 제시해 주실 수 있나요?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6302157640457153,
+          "doc_id": "33",
+          "text": "Machine Learning을 이용한 자동 돌발상황검지 Machine Learning을 이용한 자동 돌발상황검지 Machine Learning을 이용한 자동 돌발상황검지 Incidents on the freeway disrupt traffic flow and the cost of delay caused by incidents is significant. To reduce the impact of an incident, a traffic management center needs to quickly detect and remove it from the freeway. Quick and efficient automatic incident detection has been a main goal of the transportation research for many years. Also many algorithms based on loop detector data have been developed and tested for the Automatic Incident Detection(AID). However, many of them have a limited success in their overall performance in terms of detection rate, false alarm rate, and the mean time to detect an incident. Until recently, the neural network models have been the one of the popular and efficient approach for real-time automatic incident detection and many researches have shown that the neural network models were much more efficient than various other previous models. The purpose of this research is to propose a more efficient and accurate model than the neural network model in the automatic incident detection problem. For this purpose, a machine learning model, Support Vector Machine (SVM) learning which is based on the statistical learning theory, has been used in this paper. The experiments have been done with real world freeway data, and the results show that the SVM could provide better performance in terms of DR(Detection Rate) and FAR(False Alarm Rate) than Backpropagation which is the most popular neural network model."
+        },
+        {
+          "rank": 2,
+          "score": 0.6250152587890625,
+          "doc_id": "110",
+          "text": "Machine Learning기법을 이용한 Robot 이상 예지 보전 Machine Learning기법을 이용한 Robot 이상 예지 보전 Machine Learning기법을 이용한 Robot 이상 예지 보전 In this paper, a predictive maintenance of the robot trouble using the machine learning method, so called MT(Mahalanobis Taguchi), was studied. Especially, 'MD(Mahalanobis Distance)' was used to compare the robot arm motion difference between before the maintenance(bearing change) and after the maintenance. 6-axies vibration sensor was used to detect the vibration sensing during the motion of the robot arm. The results of the comparison, MD value of the arm motions of the after the maintenance(bearing change) was much lower and stable compared to MD value of the arm motions of the before the maintenance. MD value well distinguished the fine difference of the arm vibration of the robot. The superior performance of the MT method applied to the prediction of the robot trouble was verified by this experiments."
+        },
+        {
+          "rank": 3,
+          "score": 0.6234409809112549,
+          "doc_id": "42",
+          "text": "Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning In recent years, machine learning algorithms are continuously being used and expanded in various fields, such as facial recognition, signal processing, personal authentication, and stock prediction. In particular, various algorithms, such as deep learning, reinforcement learning, and Q-learning, are continuously being improved. Among these algorithms, the expansion of deep learning is rapidly changing. Nevertheless, machine learning algorithms have not yet been applied in several fields, such as personal authentication technology. This technology is an essential tool in the digital information era, walking recognition technology as promising biometrics, and technology for solving state-space problems. Therefore, algorithm technologies of deep learning, reinforcement learning, and Q-learning, which are typical machine learning algorithms in various fields, such as agricultural technology, personal authentication, wireless network, game, biometric recognition, and image recognition, are being improved and expanded in this paper."
+        },
+        {
+          "rank": 4,
+          "score": 0.6198582649230957,
+          "doc_id": "214",
+          "text": "An Efficient Parallel Machine Learning-based Blockchain Framework An Efficient Parallel Machine Learning-based Blockchain Framework An Efficient Parallel Machine Learning-based Blockchain Framework The unlimited possibilities of machine learning have been shown in several successful reports and applications. However, how to make sure that the searched results of a machine learning system are not tampered by anyone and how to prevent the other users in the same network environment from easily getting our private data are two critical research issues when we immerse into powerful machine learning-based systems or applications. This situation is just like other modern information systems that confront security and privacy issues. The development of blockchain provides us an alternative way to address these two issues. That is why some recent studies have attempted to develop machine learning systems with blockchain technologies or to apply machine learning methods to blockchain systems. To show what the combination of blockchain and machine learning is capable of doing, in this paper, we proposed a parallel framework to find out suitable hyperparameters of deep learning in a blockchain environment by using a metaheuristic algorithm. The proposed framework also takes into account the issue of communication cost, by limiting the number of information exchanges between miners and blockchain."
+        },
+        {
+          "rank": 5,
+          "score": 0.6161191463470459,
+          "doc_id": "22",
+          "text": "Effective E-Learning Practices by Machine Learning and Artificial Intelligence Effective E-Learning Practices by Machine Learning and Artificial Intelligence Effective E-Learning Practices by Machine Learning and Artificial Intelligence This is an extended research paper focusing on the applications of Machine Learing and Artificial Intelligence in virtual learning environment. The world is moving at a fast pace having the application of Machine Learning (ML) and Artificial Intelligence (AI) in all the major disciplines and the educational sector is also not untouched by its impact especially in an online learning environment. This paper attempts to elaborate on the benefits of ML and AI in E-Learning (EL) in general and explain how King Khalid University (KKU) EL Deanship is making the best of ML and AI in its practices. Also, researchers have focused on the future of ML and AI in any academic program. This research is descriptive in nature; results are based on qualitative analysis done through tools and techniques of EL applied in KKU as an example but the same modus operandi can be implemented by any institution in its EL platform. KKU is using Learning Management Services (LMS) for providing online learning practices and Blackboard (BB) for sharing online learning resources, therefore these tools are considered by the researchers for explaining the results of ML and AI."
+        },
+        {
+          "rank": 6,
+          "score": 0.6037641763687134,
+          "doc_id": "192",
+          "text": "USING MACHINE LEARNING METHODS IN CYBERSECURITY USING MACHINE LEARNING METHODS IN CYBERSECURITY USING MACHINE LEARNING METHODS IN CYBERSECURITY Abstract Cybersecurity is an ever-changing field, with advances in technology that open up new opportunities for cyberattacks. In addition, even though serious secu- rity breaches are often reported, small organizations still have to worry about security breaches as they can often be the target of viruses and phishing. This is why it is so important to ensure the privacy of your user profile in cyberspace. The past few years have seen a rise in machine learning algorithms that address major cybersecu- rity issues such as intrusion detection systems (IDS), detection of new modifications of known malware, malware, and spam detection, and malware analysis. In this arti- cle, algorithms have been analyzed using data mining collected from various libraries, and analytics with additional emerging data-driven models to provide more effective security solutions. In addition, an analysis was carried out of companies that are en- gaged in cyber attacks using machine learning. According to the research results, it was revealed that the concept of cybersecurity data science allows you to make the computing process more efficient and intelligent compared to traditional processes in the field of cybersecurity. As a result, according to the results of the study, it was revealed that machine learning, namely unsupervised learning, is an effective method of dealing with risks in cybersecurity and cyberattacks."
+        },
+        {
+          "rank": 7,
+          "score": 0.596763014793396,
+          "doc_id": "26",
+          "text": "Design a personalized recommendation system using deep learning and reinforcement learning Design a personalized recommendation system using deep learning and reinforcement learning Design a personalized recommendation system using deep learning and reinforcement learning As the E-commerce market grows, the importance of personalized recommendation systems is increasing. Existing collaborative filtering and content-based filtering methods have shown a certain level of performance, but they have limitations such as cold start, data sparseness, and lack of long-term pattern learning. In this study, we design a matching system that combines a hybrid recommendation system and hyper-personalization technology and propose an efficient recommendation system. The core of the study is to develop a recommendation model that can improve recommendation accuracy and increase user satisfaction compared to existing systems. The proposed elements are as follows. First, the hybrid-hyper-personalization matching system provides recommendation accuracy compared to existing methods. Second, we propose an optimal product matching model that reflects user context using real-time data. Third, we optimize Personalized Recommendation System using deep learning and reinforcement learning. Fourth, we present a method to objectively evaluate recommendation performance through A/B testing."
+        },
+        {
+          "rank": 8,
+          "score": 0.5931044816970825,
+          "doc_id": "123",
+          "text": "딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝은 인공신경망(neural network)이라는 인공지능분야의 모형이 발전된 형태로서, 계층구조로 이루어진 인공신경망의 내부계층(hidden layer)이 여러 단계로 이루어진 구조이다. 딥러닝에서의 주요 모형은 합성곱신경망(convolutional neural network), 순환신경망(recurrent neural network), 그리고 심층신뢰신경망(deep belief network)의 세가지라고 할 수 있다. 그 중에서 현재 흥미로운 연구가 많이 발표되어서 관심이 집중되고 있는 모형은 지도학습(supervised learning)모형인 처음 두 개의 모형이다. 따라서 본 논문에서는 지도학습모형의 가중치를 최적화하는 기본적인 방법인 오류역전파 알고리즘을 살펴본 뒤에 합성곱신경망과 순환신경망의 구조와 응용사례 등을 살펴보고자 한다. 본문에서 다루지 않은 모형인 심층신뢰신경망은 아직까지는 합성곱신경망 이나 순환신경망보다는 상대적으로 주목을 덜 받고 있다. 그러나 심층신뢰신경망은 CNN이나 RNN과는 달리 비지도학습(unsupervised learning)모형이며, 사람이나 동물은 관찰을 통해서 스스로 학습한다는 점에서 궁극적으로는 비지도학습모형이 더 많이 연구되어야 할 주제가 될 것이다."
+        },
+        {
+          "rank": 9,
+          "score": 0.5920512676239014,
+          "doc_id": "142",
+          "text": "Machine learning in oncology-Perspectives in patient-reported outcome research Machine learning in oncology-Perspectives in patient-reported outcome research Machine learning in oncology-Perspectives in patient-reported outcome research AbstractBackgroundIncreasing data volumes in oncology pose new challenges for data analysis. Machine learning, a branch of artificial intelligence, can identify patterns even in very large and less structured datasets.ObjectiveThis article provides an overview of the possible applications for machine learning in oncology. Furthermore, the potential of machine learning in patient-reported outcome (PRO) research is discussed.Materials and methodsWe conducted a selective literature search (PubMed, MEDLINE, IEEE Xplore) and discuss current research.ResultsThere are three primary applications for machine learning in oncology: (1) cancer detection or classification; (2) overall survival prediction or risk assessment; and (3) supporting therapy decision-making and prediction of treatment response. Generally, machine learning approaches in oncology PRO research are scarce and few studies integrate PRO data into machine learning models.DiscussionMachine learning is a promising area of oncology, but few models have been transferred into clinical practice. The promise of personalized cancer therapy and shared decision-making through machine learning has yet to be realized. As an equally important emerging research area in oncology, PROs should also be incorporated into machine learning approaches. To gather the data necessary for this, broad implementation of PRO assessments in clinical practice, as well as the harmonization of existing datasets, is suggested."
+        },
+        {
+          "rank": 10,
+          "score": 0.5889804363250732,
+          "doc_id": "88",
+          "text": "Machine learning on Big Data Machine learning on Big Data Machine learning on Big Data Statistical Machine Learning has undergone a phase transition from a pure academic endeavor to being one of the main drivers of modern commerce and science. Even more so, recent results such as those on tera-scale learning [1] and on very large neural networks [2] suggest that scale is an important ingredient in quality modeling. This tutorial introduces current applications, techniques and systems with the aim of cross-fertilizing research between the database and machine learning communities. The tutorial covers current large scale applications of Machine Learning, their computational model and the workflow behind building those. Based on this foundation, we present the current state-of-the-art in systems support in the bulk of the tutorial. We also identify critical gaps in the state-of-the-art. This leads to the closing of the seminar, where we introduce two sets of open research questions: Better systems support for the already established use cases of Machine Learning and support for recent advances in Machine Learning research."
+        }
+      ]
+    },
+    {
+      "query": "Lifelong Machine Learning 앙상블 방식을 스팸 메시지 필터링에 적용했을 때의 주요 아이디어는 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6254448890686035,
+          "doc_id": "110",
+          "text": "Machine Learning기법을 이용한 Robot 이상 예지 보전 Machine Learning기법을 이용한 Robot 이상 예지 보전 Machine Learning기법을 이용한 Robot 이상 예지 보전 In this paper, a predictive maintenance of the robot trouble using the machine learning method, so called MT(Mahalanobis Taguchi), was studied. Especially, 'MD(Mahalanobis Distance)' was used to compare the robot arm motion difference between before the maintenance(bearing change) and after the maintenance. 6-axies vibration sensor was used to detect the vibration sensing during the motion of the robot arm. The results of the comparison, MD value of the arm motions of the after the maintenance(bearing change) was much lower and stable compared to MD value of the arm motions of the before the maintenance. MD value well distinguished the fine difference of the arm vibration of the robot. The superior performance of the MT method applied to the prediction of the robot trouble was verified by this experiments."
+        },
+        {
+          "rank": 2,
+          "score": 0.6117429733276367,
+          "doc_id": "33",
+          "text": "Machine Learning을 이용한 자동 돌발상황검지 Machine Learning을 이용한 자동 돌발상황검지 Machine Learning을 이용한 자동 돌발상황검지 Incidents on the freeway disrupt traffic flow and the cost of delay caused by incidents is significant. To reduce the impact of an incident, a traffic management center needs to quickly detect and remove it from the freeway. Quick and efficient automatic incident detection has been a main goal of the transportation research for many years. Also many algorithms based on loop detector data have been developed and tested for the Automatic Incident Detection(AID). However, many of them have a limited success in their overall performance in terms of detection rate, false alarm rate, and the mean time to detect an incident. Until recently, the neural network models have been the one of the popular and efficient approach for real-time automatic incident detection and many researches have shown that the neural network models were much more efficient than various other previous models. The purpose of this research is to propose a more efficient and accurate model than the neural network model in the automatic incident detection problem. For this purpose, a machine learning model, Support Vector Machine (SVM) learning which is based on the statistical learning theory, has been used in this paper. The experiments have been done with real world freeway data, and the results show that the SVM could provide better performance in terms of DR(Detection Rate) and FAR(False Alarm Rate) than Backpropagation which is the most popular neural network model."
+        },
+        {
+          "rank": 3,
+          "score": 0.5981862545013428,
+          "doc_id": "214",
+          "text": "An Efficient Parallel Machine Learning-based Blockchain Framework An Efficient Parallel Machine Learning-based Blockchain Framework An Efficient Parallel Machine Learning-based Blockchain Framework The unlimited possibilities of machine learning have been shown in several successful reports and applications. However, how to make sure that the searched results of a machine learning system are not tampered by anyone and how to prevent the other users in the same network environment from easily getting our private data are two critical research issues when we immerse into powerful machine learning-based systems or applications. This situation is just like other modern information systems that confront security and privacy issues. The development of blockchain provides us an alternative way to address these two issues. That is why some recent studies have attempted to develop machine learning systems with blockchain technologies or to apply machine learning methods to blockchain systems. To show what the combination of blockchain and machine learning is capable of doing, in this paper, we proposed a parallel framework to find out suitable hyperparameters of deep learning in a blockchain environment by using a metaheuristic algorithm. The proposed framework also takes into account the issue of communication cost, by limiting the number of information exchanges between miners and blockchain."
+        },
+        {
+          "rank": 4,
+          "score": 0.597477912902832,
+          "doc_id": "123",
+          "text": "딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝은 인공신경망(neural network)이라는 인공지능분야의 모형이 발전된 형태로서, 계층구조로 이루어진 인공신경망의 내부계층(hidden layer)이 여러 단계로 이루어진 구조이다. 딥러닝에서의 주요 모형은 합성곱신경망(convolutional neural network), 순환신경망(recurrent neural network), 그리고 심층신뢰신경망(deep belief network)의 세가지라고 할 수 있다. 그 중에서 현재 흥미로운 연구가 많이 발표되어서 관심이 집중되고 있는 모형은 지도학습(supervised learning)모형인 처음 두 개의 모형이다. 따라서 본 논문에서는 지도학습모형의 가중치를 최적화하는 기본적인 방법인 오류역전파 알고리즘을 살펴본 뒤에 합성곱신경망과 순환신경망의 구조와 응용사례 등을 살펴보고자 한다. 본문에서 다루지 않은 모형인 심층신뢰신경망은 아직까지는 합성곱신경망 이나 순환신경망보다는 상대적으로 주목을 덜 받고 있다. 그러나 심층신뢰신경망은 CNN이나 RNN과는 달리 비지도학습(unsupervised learning)모형이며, 사람이나 동물은 관찰을 통해서 스스로 학습한다는 점에서 궁극적으로는 비지도학습모형이 더 많이 연구되어야 할 주제가 될 것이다."
+        },
+        {
+          "rank": 5,
+          "score": 0.5920799970626831,
+          "doc_id": "42",
+          "text": "Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning In recent years, machine learning algorithms are continuously being used and expanded in various fields, such as facial recognition, signal processing, personal authentication, and stock prediction. In particular, various algorithms, such as deep learning, reinforcement learning, and Q-learning, are continuously being improved. Among these algorithms, the expansion of deep learning is rapidly changing. Nevertheless, machine learning algorithms have not yet been applied in several fields, such as personal authentication technology. This technology is an essential tool in the digital information era, walking recognition technology as promising biometrics, and technology for solving state-space problems. Therefore, algorithm technologies of deep learning, reinforcement learning, and Q-learning, which are typical machine learning algorithms in various fields, such as agricultural technology, personal authentication, wireless network, game, biometric recognition, and image recognition, are being improved and expanded in this paper."
+        },
+        {
+          "rank": 6,
+          "score": 0.5837257504463196,
+          "doc_id": "192",
+          "text": "USING MACHINE LEARNING METHODS IN CYBERSECURITY USING MACHINE LEARNING METHODS IN CYBERSECURITY USING MACHINE LEARNING METHODS IN CYBERSECURITY Abstract Cybersecurity is an ever-changing field, with advances in technology that open up new opportunities for cyberattacks. In addition, even though serious secu- rity breaches are often reported, small organizations still have to worry about security breaches as they can often be the target of viruses and phishing. This is why it is so important to ensure the privacy of your user profile in cyberspace. The past few years have seen a rise in machine learning algorithms that address major cybersecu- rity issues such as intrusion detection systems (IDS), detection of new modifications of known malware, malware, and spam detection, and malware analysis. In this arti- cle, algorithms have been analyzed using data mining collected from various libraries, and analytics with additional emerging data-driven models to provide more effective security solutions. In addition, an analysis was carried out of companies that are en- gaged in cyber attacks using machine learning. According to the research results, it was revealed that the concept of cybersecurity data science allows you to make the computing process more efficient and intelligent compared to traditional processes in the field of cybersecurity. As a result, according to the results of the study, it was revealed that machine learning, namely unsupervised learning, is an effective method of dealing with risks in cybersecurity and cyberattacks."
+        },
+        {
+          "rank": 7,
+          "score": 0.5804769992828369,
+          "doc_id": "26",
+          "text": "Design a personalized recommendation system using deep learning and reinforcement learning Design a personalized recommendation system using deep learning and reinforcement learning Design a personalized recommendation system using deep learning and reinforcement learning As the E-commerce market grows, the importance of personalized recommendation systems is increasing. Existing collaborative filtering and content-based filtering methods have shown a certain level of performance, but they have limitations such as cold start, data sparseness, and lack of long-term pattern learning. In this study, we design a matching system that combines a hybrid recommendation system and hyper-personalization technology and propose an efficient recommendation system. The core of the study is to develop a recommendation model that can improve recommendation accuracy and increase user satisfaction compared to existing systems. The proposed elements are as follows. First, the hybrid-hyper-personalization matching system provides recommendation accuracy compared to existing methods. Second, we propose an optimal product matching model that reflects user context using real-time data. Third, we optimize Personalized Recommendation System using deep learning and reinforcement learning. Fourth, we present a method to objectively evaluate recommendation performance through A/B testing."
+        },
+        {
+          "rank": 8,
+          "score": 0.5779587030410767,
+          "doc_id": "186",
+          "text": "Deep Semi-Supervised Learning 기반 컴퓨터 보조 진단 방법론 Deep Semi-Supervised Learning 기반 컴퓨터 보조 진단 방법론 Deep Semi-Supervised Learning 기반 컴퓨터 보조 진단 방법론 Medical image applications 분야는 가장 인기 있으며 적극적으로 연구되는 현대 Machine Learning 및 Deep Learning applications 중 하나의 분야로 부상되고 있다. Medical image analysis는 환자의 신체 영상의 획득과 의료 전문가의 진단 및 분석을 목적으로 한다. 여러 Machine Learning 방법론을 사용하면 다양한 질병을 진단할 수 있게 된다. 하지만, 보다 효율적이며 강인한 모델을 설계하기 위해서는 Label이 지정된 데이터 샘플이 필요하게 된다. &amp;#xD; 따라서, Label이 지정되지 않은 데이터를 활용하여 모델의 성능을 향상시키는 Medical image 분야에서 semi-supervised Learning의 연구가 활발히 이루어지고 있다. 본 연구에서는 2D 초음파 영상(CADe)와 KL-grade 무릎 방사선사(CADx) 분류에서 유방 병변 Segmentation을 위한 딥러닝 기술을 사용하여 Medical image analysis에서 개선된 Semi-Supervised CAD 시스템을 제안하였다. 본 논문에서는 residual 및 attention block을 통합한 residual-attention-based uncertainty-guided mean teacher framework를 제안한다. 높은 수준의 feature와 attention module의 flow를 가능하게 하여 deep network를 최적화하기 위한 residual은 학습 과정 중에서 가중치를 최적화하기 위해 모델의 focus를 향상시킨다. &amp;#xD; 또한, 본 논문에서는 semi-supervised 학습 방법을 사용하여 학습 과정에서 label이 지정되지 않은 데이터를 활용할 수 있는 가능성을 탐구한다. 특히, uncertainty-guided mean-teacher-student 구조를 활용하여 residual attention U-Net 모델의 학습 중 label이 지정되지 않은 샘플을 통합할 수 있는 가능성을 입증하였다. &amp;#xD; 따라서, label이 지정되지 않은 추가 데이터를 unsupervised 및 supervised 방식으로 활용할 수있는 semi-supervised multitask learning-based 학습 기반 접근 방식을 개발하였다. 구체적으로, 이 과정은 reconstruction에 대해서만 unsupervised 된 상태에서 먼저 학습된 dual-channel adversarial autoencoder를 제안한다. 본 연구는 supervised 방식으로 추가 데이터를 활용하기 위해 auxilary task를 도입하여 multi-task learning framework를 제안한다. 특히, leg side의 식별은 auxilary task로 사용되므로 CHECK 데이터셋과 같은 더 많은 데이터셋을 사용할 수 있게 된다. 따라서, 추가 데이터의 활용이 소수의 label된 데이터만 사용할 수 있는 KL-grade 분류에서 main task의 성능을 향상시킬 수 있음을 보여준다. &amp;#xD; 다양한 측면, 즉 전반적인 성능, label이 지정되지 않은 추가 샘플 및 auxiliary task의 효과, 강인한 분석 등에 대해 공개적으로 사용 가능한 두 개의 가장 큰 데이터셋에 대해 제안된 모델을 평가하였다. 제안된 모델은 각각 75.52%, 78.48%, 75.34%의 Accuracy, Recall, F1-Score를 달성하였다."
+        },
+        {
+          "rank": 9,
+          "score": 0.5777745246887207,
+          "doc_id": "22",
+          "text": "Effective E-Learning Practices by Machine Learning and Artificial Intelligence Effective E-Learning Practices by Machine Learning and Artificial Intelligence Effective E-Learning Practices by Machine Learning and Artificial Intelligence This is an extended research paper focusing on the applications of Machine Learing and Artificial Intelligence in virtual learning environment. The world is moving at a fast pace having the application of Machine Learning (ML) and Artificial Intelligence (AI) in all the major disciplines and the educational sector is also not untouched by its impact especially in an online learning environment. This paper attempts to elaborate on the benefits of ML and AI in E-Learning (EL) in general and explain how King Khalid University (KKU) EL Deanship is making the best of ML and AI in its practices. Also, researchers have focused on the future of ML and AI in any academic program. This research is descriptive in nature; results are based on qualitative analysis done through tools and techniques of EL applied in KKU as an example but the same modus operandi can be implemented by any institution in its EL platform. KKU is using Learning Management Services (LMS) for providing online learning practices and Blackboard (BB) for sharing online learning resources, therefore these tools are considered by the researchers for explaining the results of ML and AI."
+        },
+        {
+          "rank": 10,
+          "score": 0.5744196176528931,
+          "doc_id": "88",
+          "text": "Machine learning on Big Data Machine learning on Big Data Machine learning on Big Data Statistical Machine Learning has undergone a phase transition from a pure academic endeavor to being one of the main drivers of modern commerce and science. Even more so, recent results such as those on tera-scale learning [1] and on very large neural networks [2] suggest that scale is an important ingredient in quality modeling. This tutorial introduces current applications, techniques and systems with the aim of cross-fertilizing research between the database and machine learning communities. The tutorial covers current large scale applications of Machine Learning, their computational model and the workflow behind building those. Based on this foundation, we present the current state-of-the-art in systems support in the bulk of the tutorial. We also identify critical gaps in the state-of-the-art. This leads to the closing of the seminar, where we introduce two sets of open research questions: Better systems support for the already established use cases of Machine Learning and support for recent advances in Machine Learning research."
+        }
+      ]
+    },
+    {
+      "query": "Lifelong Machine Learning 앙상블 방식을 스팸 메시지 필터링에 적용했을 때의 장점은 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6251529455184937,
+          "doc_id": "110",
+          "text": "Machine Learning기법을 이용한 Robot 이상 예지 보전 Machine Learning기법을 이용한 Robot 이상 예지 보전 Machine Learning기법을 이용한 Robot 이상 예지 보전 In this paper, a predictive maintenance of the robot trouble using the machine learning method, so called MT(Mahalanobis Taguchi), was studied. Especially, 'MD(Mahalanobis Distance)' was used to compare the robot arm motion difference between before the maintenance(bearing change) and after the maintenance. 6-axies vibration sensor was used to detect the vibration sensing during the motion of the robot arm. The results of the comparison, MD value of the arm motions of the after the maintenance(bearing change) was much lower and stable compared to MD value of the arm motions of the before the maintenance. MD value well distinguished the fine difference of the arm vibration of the robot. The superior performance of the MT method applied to the prediction of the robot trouble was verified by this experiments."
+        },
+        {
+          "rank": 2,
+          "score": 0.6145608425140381,
+          "doc_id": "33",
+          "text": "Machine Learning을 이용한 자동 돌발상황검지 Machine Learning을 이용한 자동 돌발상황검지 Machine Learning을 이용한 자동 돌발상황검지 Incidents on the freeway disrupt traffic flow and the cost of delay caused by incidents is significant. To reduce the impact of an incident, a traffic management center needs to quickly detect and remove it from the freeway. Quick and efficient automatic incident detection has been a main goal of the transportation research for many years. Also many algorithms based on loop detector data have been developed and tested for the Automatic Incident Detection(AID). However, many of them have a limited success in their overall performance in terms of detection rate, false alarm rate, and the mean time to detect an incident. Until recently, the neural network models have been the one of the popular and efficient approach for real-time automatic incident detection and many researches have shown that the neural network models were much more efficient than various other previous models. The purpose of this research is to propose a more efficient and accurate model than the neural network model in the automatic incident detection problem. For this purpose, a machine learning model, Support Vector Machine (SVM) learning which is based on the statistical learning theory, has been used in this paper. The experiments have been done with real world freeway data, and the results show that the SVM could provide better performance in terms of DR(Detection Rate) and FAR(False Alarm Rate) than Backpropagation which is the most popular neural network model."
+        },
+        {
+          "rank": 3,
+          "score": 0.6006444692611694,
+          "doc_id": "214",
+          "text": "An Efficient Parallel Machine Learning-based Blockchain Framework An Efficient Parallel Machine Learning-based Blockchain Framework An Efficient Parallel Machine Learning-based Blockchain Framework The unlimited possibilities of machine learning have been shown in several successful reports and applications. However, how to make sure that the searched results of a machine learning system are not tampered by anyone and how to prevent the other users in the same network environment from easily getting our private data are two critical research issues when we immerse into powerful machine learning-based systems or applications. This situation is just like other modern information systems that confront security and privacy issues. The development of blockchain provides us an alternative way to address these two issues. That is why some recent studies have attempted to develop machine learning systems with blockchain technologies or to apply machine learning methods to blockchain systems. To show what the combination of blockchain and machine learning is capable of doing, in this paper, we proposed a parallel framework to find out suitable hyperparameters of deep learning in a blockchain environment by using a metaheuristic algorithm. The proposed framework also takes into account the issue of communication cost, by limiting the number of information exchanges between miners and blockchain."
+        },
+        {
+          "rank": 4,
+          "score": 0.595444917678833,
+          "doc_id": "22",
+          "text": "Effective E-Learning Practices by Machine Learning and Artificial Intelligence Effective E-Learning Practices by Machine Learning and Artificial Intelligence Effective E-Learning Practices by Machine Learning and Artificial Intelligence This is an extended research paper focusing on the applications of Machine Learing and Artificial Intelligence in virtual learning environment. The world is moving at a fast pace having the application of Machine Learning (ML) and Artificial Intelligence (AI) in all the major disciplines and the educational sector is also not untouched by its impact especially in an online learning environment. This paper attempts to elaborate on the benefits of ML and AI in E-Learning (EL) in general and explain how King Khalid University (KKU) EL Deanship is making the best of ML and AI in its practices. Also, researchers have focused on the future of ML and AI in any academic program. This research is descriptive in nature; results are based on qualitative analysis done through tools and techniques of EL applied in KKU as an example but the same modus operandi can be implemented by any institution in its EL platform. KKU is using Learning Management Services (LMS) for providing online learning practices and Blackboard (BB) for sharing online learning resources, therefore these tools are considered by the researchers for explaining the results of ML and AI."
+        },
+        {
+          "rank": 5,
+          "score": 0.5897943377494812,
+          "doc_id": "123",
+          "text": "딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝은 인공신경망(neural network)이라는 인공지능분야의 모형이 발전된 형태로서, 계층구조로 이루어진 인공신경망의 내부계층(hidden layer)이 여러 단계로 이루어진 구조이다. 딥러닝에서의 주요 모형은 합성곱신경망(convolutional neural network), 순환신경망(recurrent neural network), 그리고 심층신뢰신경망(deep belief network)의 세가지라고 할 수 있다. 그 중에서 현재 흥미로운 연구가 많이 발표되어서 관심이 집중되고 있는 모형은 지도학습(supervised learning)모형인 처음 두 개의 모형이다. 따라서 본 논문에서는 지도학습모형의 가중치를 최적화하는 기본적인 방법인 오류역전파 알고리즘을 살펴본 뒤에 합성곱신경망과 순환신경망의 구조와 응용사례 등을 살펴보고자 한다. 본문에서 다루지 않은 모형인 심층신뢰신경망은 아직까지는 합성곱신경망 이나 순환신경망보다는 상대적으로 주목을 덜 받고 있다. 그러나 심층신뢰신경망은 CNN이나 RNN과는 달리 비지도학습(unsupervised learning)모형이며, 사람이나 동물은 관찰을 통해서 스스로 학습한다는 점에서 궁극적으로는 비지도학습모형이 더 많이 연구되어야 할 주제가 될 것이다."
+        },
+        {
+          "rank": 6,
+          "score": 0.5887338519096375,
+          "doc_id": "42",
+          "text": "Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning In recent years, machine learning algorithms are continuously being used and expanded in various fields, such as facial recognition, signal processing, personal authentication, and stock prediction. In particular, various algorithms, such as deep learning, reinforcement learning, and Q-learning, are continuously being improved. Among these algorithms, the expansion of deep learning is rapidly changing. Nevertheless, machine learning algorithms have not yet been applied in several fields, such as personal authentication technology. This technology is an essential tool in the digital information era, walking recognition technology as promising biometrics, and technology for solving state-space problems. Therefore, algorithm technologies of deep learning, reinforcement learning, and Q-learning, which are typical machine learning algorithms in various fields, such as agricultural technology, personal authentication, wireless network, game, biometric recognition, and image recognition, are being improved and expanded in this paper."
+        },
+        {
+          "rank": 7,
+          "score": 0.5831241607666016,
+          "doc_id": "97",
+          "text": "&#x201e;Machine learning“ in der An&auml;sthesiologie &#x201e;Machine learning“ in der An&auml;sthesiologie &#x201e;Machine learning“ in der An&auml;sthesiologie 없음"
+        },
+        {
+          "rank": 8,
+          "score": 0.577075183391571,
+          "doc_id": "192",
+          "text": "USING MACHINE LEARNING METHODS IN CYBERSECURITY USING MACHINE LEARNING METHODS IN CYBERSECURITY USING MACHINE LEARNING METHODS IN CYBERSECURITY Abstract Cybersecurity is an ever-changing field, with advances in technology that open up new opportunities for cyberattacks. In addition, even though serious secu- rity breaches are often reported, small organizations still have to worry about security breaches as they can often be the target of viruses and phishing. This is why it is so important to ensure the privacy of your user profile in cyberspace. The past few years have seen a rise in machine learning algorithms that address major cybersecu- rity issues such as intrusion detection systems (IDS), detection of new modifications of known malware, malware, and spam detection, and malware analysis. In this arti- cle, algorithms have been analyzed using data mining collected from various libraries, and analytics with additional emerging data-driven models to provide more effective security solutions. In addition, an analysis was carried out of companies that are en- gaged in cyber attacks using machine learning. According to the research results, it was revealed that the concept of cybersecurity data science allows you to make the computing process more efficient and intelligent compared to traditional processes in the field of cybersecurity. As a result, according to the results of the study, it was revealed that machine learning, namely unsupervised learning, is an effective method of dealing with risks in cybersecurity and cyberattacks."
+        },
+        {
+          "rank": 9,
+          "score": 0.5738990306854248,
+          "doc_id": "221",
+          "text": "Implikationen von Machine Learning auf das Datenmanagement in Unternehmen Implikationen von Machine Learning auf das Datenmanagement in Unternehmen Implikationen von Machine Learning auf das Datenmanagement in Unternehmen AbstractMachine Learning is a trend research area with great potential and far-reaching application potentials. Big Data is an enabler, as large and high-quality data are always the basis for successful machine learning algorithms and models. There is currently no fully established standard process for the machine learning life cycle, as is the case in data mining with the CRISP-DM-Process, which means that the operationalization of machine learning models in particular can present companies with major challenges. In this article, the implications for data management in companies are worked out on the basis of the view of the nature of the data, the various roles in machine learning teams and the life cycle of machine learning models."
+        },
+        {
+          "rank": 10,
+          "score": 0.5681328177452087,
+          "doc_id": "164",
+          "text": "Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade 없음"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

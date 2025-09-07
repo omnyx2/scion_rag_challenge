@@ -1,0 +1,221 @@
+{
+  "id": "row_000016",
+  "model_name": "BAAI/bge-m3",
+  "timestamp_kst": "2025-09-07T16:10:09.915615+09:00",
+  "trial_id": "1e15c6b4",
+  "queries": [
+    {
+      "query": "Big Data를 이용한 Warehouse Management System 모델에서 제시된 핵심 개념과 방향을 요약해 주시겠습니까?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.647424578666687,
+          "doc_id": "227",
+          "text": "Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로"
+        },
+        {
+          "rank": 2,
+          "score": 0.5717880725860596,
+          "doc_id": "126",
+          "text": "Exploring Big Data Governance Frameworks"
+        },
+        {
+          "rank": 3,
+          "score": 0.559373140335083,
+          "doc_id": "62",
+          "text": "Utilization and Analysis of Big-data"
+        },
+        {
+          "rank": 4,
+          "score": 0.5520793199539185,
+          "doc_id": "88",
+          "text": "Machine learning on Big Data"
+        },
+        {
+          "rank": 5,
+          "score": 0.5443120002746582,
+          "doc_id": "43",
+          "text": "Enjeux des big data en sant&eacute;"
+        },
+        {
+          "rank": 6,
+          "score": 0.5440771579742432,
+          "doc_id": "78",
+          "text": "Data learning from big data"
+        },
+        {
+          "rank": 7,
+          "score": 0.5418709516525269,
+          "doc_id": "161",
+          "text": "Big Data 활용을 위한 제조 품질 개선 방법에 대한 연구"
+        },
+        {
+          "rank": 8,
+          "score": 0.5338786840438843,
+          "doc_id": "87",
+          "text": "Big Data Analysis and Machine Learning in Intensive Care Units"
+        },
+        {
+          "rank": 9,
+          "score": 0.5324392318725586,
+          "doc_id": "66",
+          "text": "Big Building Data - a Big Data Platform for Smart Buildings"
+        },
+        {
+          "rank": 10,
+          "score": 0.5292485952377319,
+          "doc_id": "196",
+          "text": "Nursing Needs Big Data and Big Data Needs Nursing"
+        }
+      ]
+    },
+    {
+      "query": "Big Data를 이용한 Warehouse Management System 모델의 핵심 개념은 무엇입니까?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6834833025932312,
+          "doc_id": "227",
+          "text": "Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로"
+        },
+        {
+          "rank": 2,
+          "score": 0.5866035223007202,
+          "doc_id": "126",
+          "text": "Exploring Big Data Governance Frameworks"
+        },
+        {
+          "rank": 3,
+          "score": 0.5852341055870056,
+          "doc_id": "78",
+          "text": "Data learning from big data"
+        },
+        {
+          "rank": 4,
+          "score": 0.5838103294372559,
+          "doc_id": "88",
+          "text": "Machine learning on Big Data"
+        },
+        {
+          "rank": 5,
+          "score": 0.5800198912620544,
+          "doc_id": "161",
+          "text": "Big Data 활용을 위한 제조 품질 개선 방법에 대한 연구"
+        },
+        {
+          "rank": 6,
+          "score": 0.5743401050567627,
+          "doc_id": "62",
+          "text": "Utilization and Analysis of Big-data"
+        },
+        {
+          "rank": 7,
+          "score": 0.5592969655990601,
+          "doc_id": "165",
+          "text": "패키징(Packaging) 분야에서의 빅데이터(Big data) 적용방안 연구"
+        },
+        {
+          "rank": 8,
+          "score": 0.5546209216117859,
+          "doc_id": "140",
+          "text": "Sharing Big Data"
+        },
+        {
+          "rank": 9,
+          "score": 0.5534290671348572,
+          "doc_id": "173",
+          "text": "&#x201e;Massendinghaltung“ oder &#x201e;Big Data“?"
+        },
+        {
+          "rank": 10,
+          "score": 0.5420705080032349,
+          "doc_id": "66",
+          "text": "Big Building Data - a Big Data Platform for Smart Buildings"
+        }
+      ]
+    },
+    {
+      "query": "Big Data를 이용한 Warehouse Management System 모델에서 제시된 방향은 무엇입니까?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6599224209785461,
+          "doc_id": "227",
+          "text": "Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로"
+        },
+        {
+          "rank": 2,
+          "score": 0.60125732421875,
+          "doc_id": "126",
+          "text": "Exploring Big Data Governance Frameworks"
+        },
+        {
+          "rank": 3,
+          "score": 0.5960820317268372,
+          "doc_id": "161",
+          "text": "Big Data 활용을 위한 제조 품질 개선 방법에 대한 연구"
+        },
+        {
+          "rank": 4,
+          "score": 0.5925271511077881,
+          "doc_id": "88",
+          "text": "Machine learning on Big Data"
+        },
+        {
+          "rank": 5,
+          "score": 0.5848821401596069,
+          "doc_id": "165",
+          "text": "패키징(Packaging) 분야에서의 빅데이터(Big data) 적용방안 연구"
+        },
+        {
+          "rank": 6,
+          "score": 0.579860508441925,
+          "doc_id": "62",
+          "text": "Utilization and Analysis of Big-data"
+        },
+        {
+          "rank": 7,
+          "score": 0.5776060819625854,
+          "doc_id": "78",
+          "text": "Data learning from big data"
+        },
+        {
+          "rank": 8,
+          "score": 0.5756155252456665,
+          "doc_id": "173",
+          "text": "&#x201e;Massendinghaltung“ oder &#x201e;Big Data“?"
+        },
+        {
+          "rank": 9,
+          "score": 0.5692504048347473,
+          "doc_id": "196",
+          "text": "Nursing Needs Big Data and Big Data Needs Nursing"
+        },
+        {
+          "rank": 10,
+          "score": 0.5582374930381775,
+          "doc_id": "140",
+          "text": "Sharing Big Data"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

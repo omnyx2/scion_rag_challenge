@@ -1,0 +1,221 @@
+{
+  "id": "row_000033",
+  "model_name": "Snowflake/snowflake-arctic-embed-l-v2.0",
+  "timestamp_kst": "2025-09-07T15:59:34.086078+09:00",
+  "trial_id": "93fb9859",
+  "queries": [
+    {
+      "query": "How would you distill the key design elements and convergence concepts of an IT/OT-based advanced distribution management system?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5101398229598999,
+          "doc_id": "162",
+          "text": "IT 컨버전스의 이해와 법ㆍ기술 방향"
+        },
+        {
+          "rank": 2,
+          "score": 0.5027142763137817,
+          "doc_id": "59",
+          "text": "IT/OT Convergence 기반의 Advanced Distribution Management System의 설계"
+        },
+        {
+          "rank": 3,
+          "score": 0.5027142763137817,
+          "doc_id": "149",
+          "text": "IT/OT Convergence 기반의 Advanced Distribution Management System의 설계"
+        },
+        {
+          "rank": 4,
+          "score": 0.49202197790145874,
+          "doc_id": "54",
+          "text": "Future trends of IT convergence"
+        },
+        {
+          "rank": 5,
+          "score": 0.4887672960758209,
+          "doc_id": "136",
+          "text": "IT/automation convergence revisited"
+        },
+        {
+          "rank": 6,
+          "score": 0.48133817315101624,
+          "doc_id": "55",
+          "text": "Navigating BAS-IT Convergence"
+        },
+        {
+          "rank": 7,
+          "score": 0.47895389795303345,
+          "doc_id": "39",
+          "text": "IT convergence and security"
+        },
+        {
+          "rank": 8,
+          "score": 0.4761628210544586,
+          "doc_id": "72",
+          "text": "IT Convergence: Advice to Biomeds"
+        },
+        {
+          "rank": 9,
+          "score": 0.4723159670829773,
+          "doc_id": "133",
+          "text": "IT and OT convergence"
+        },
+        {
+          "rank": 10,
+          "score": 0.468914270401001,
+          "doc_id": "44",
+          "text": "IT/OT convergence and cyber security"
+        }
+      ]
+    },
+    {
+      "query": "What are the key design elements of an IT/OT-based advanced distribution management system?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.45736271142959595,
+          "doc_id": "59",
+          "text": "IT/OT Convergence 기반의 Advanced Distribution Management System의 설계"
+        },
+        {
+          "rank": 2,
+          "score": 0.45736271142959595,
+          "doc_id": "149",
+          "text": "IT/OT Convergence 기반의 Advanced Distribution Management System의 설계"
+        },
+        {
+          "rank": 3,
+          "score": 0.4327569603919983,
+          "doc_id": "162",
+          "text": "IT 컨버전스의 이해와 법ㆍ기술 방향"
+        },
+        {
+          "rank": 4,
+          "score": 0.40862393379211426,
+          "doc_id": "8",
+          "text": "정보통신 융합기기 연계를 고려한 데이터 중심의 정보시스템 모델의 설계 및 분석"
+        },
+        {
+          "rank": 5,
+          "score": 0.38439998030662537,
+          "doc_id": "44",
+          "text": "IT/OT convergence and cyber security"
+        },
+        {
+          "rank": 6,
+          "score": 0.3833446204662323,
+          "doc_id": "54",
+          "text": "Future trends of IT convergence"
+        },
+        {
+          "rank": 7,
+          "score": 0.38211023807525635,
+          "doc_id": "183",
+          "text": "구성적 인공지능"
+        },
+        {
+          "rank": 8,
+          "score": 0.38130736351013184,
+          "doc_id": "55",
+          "text": "Navigating BAS-IT Convergence"
+        },
+        {
+          "rank": 9,
+          "score": 0.38060301542282104,
+          "doc_id": "218",
+          "text": "A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data"
+        },
+        {
+          "rank": 10,
+          "score": 0.38060301542282104,
+          "doc_id": "105",
+          "text": "A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data"
+        }
+      ]
+    },
+    {
+      "query": "What are the convergence concepts associated with an IT/OT-based advanced distribution management system?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5824922323226929,
+          "doc_id": "162",
+          "text": "IT 컨버전스의 이해와 법ㆍ기술 방향"
+        },
+        {
+          "rank": 2,
+          "score": 0.581326961517334,
+          "doc_id": "54",
+          "text": "Future trends of IT convergence"
+        },
+        {
+          "rank": 3,
+          "score": 0.5741009712219238,
+          "doc_id": "136",
+          "text": "IT/automation convergence revisited"
+        },
+        {
+          "rank": 4,
+          "score": 0.5728344917297363,
+          "doc_id": "133",
+          "text": "IT and OT convergence"
+        },
+        {
+          "rank": 5,
+          "score": 0.5717417001724243,
+          "doc_id": "39",
+          "text": "IT convergence and security"
+        },
+        {
+          "rank": 6,
+          "score": 0.5577290058135986,
+          "doc_id": "178",
+          "text": "IT 분야에서 컨버전스의 의미와 미래 전망"
+        },
+        {
+          "rank": 7,
+          "score": 0.557503879070282,
+          "doc_id": "44",
+          "text": "IT/OT convergence and cyber security"
+        },
+        {
+          "rank": 8,
+          "score": 0.5565526485443115,
+          "doc_id": "229",
+          "text": "Convergence IT 관련 기사"
+        },
+        {
+          "rank": 9,
+          "score": 0.5465998649597168,
+          "doc_id": "55",
+          "text": "Navigating BAS-IT Convergence"
+        },
+        {
+          "rank": 10,
+          "score": 0.5454641580581665,
+          "doc_id": "67",
+          "text": "Medical Device Connectivity - IT Convergence :"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

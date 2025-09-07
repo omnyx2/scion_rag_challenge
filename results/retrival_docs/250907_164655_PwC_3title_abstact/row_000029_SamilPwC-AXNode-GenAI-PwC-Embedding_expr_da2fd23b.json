@@ -1,0 +1,291 @@
+{
+  "id": "row_000029",
+  "model_name": "SamilPwC-AXNode-GenAI/PwC-Embedding_expr",
+  "timestamp_kst": "2025-09-07T16:47:00.833263+09:00",
+  "trial_id": "da2fd23b",
+  "queries": [
+    {
+      "query": "비정형 리뷰 데이터를 활용해 고객 평점을 예측하기 위해 설계된 딥 러닝 모델 구조와 주요 실험 결과(정확도·출력 카테고리)를 요약해 주실 수 있나요?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.808859646320343,
+          "doc_id": "220",
+          "text": "딥 러닝기반 고객평점 예측모델 딥 러닝기반 고객평점 예측모델 딥 러닝기반 고객평점 예측모델 인터넷의 발달과 휴대용 기기의 발달로 사용자들이 데이터를 생산하고, 공유하는 일들이 매우 자연스럽고 쉬운 일이 되었다. e-마켓플레스로 대변되는 온라인 쇼핑몰에서도 사용자들의 데이터 생산과 공유가 리뷰의 형식으로 활발하게 이루어지고 있다. 리뷰의 형식은 보통 정해진 형식이 없는 비 정형데이터인 텍스트와 제품에 대한 고객의 평점으로 이루어져있다. 이와 같이 형태로 적극적으로 공유된 정보들은 구매에 중요한 요소로 사용되고 있다. &amp;#xD; 본 논문에서는 이렇게 누적된 리뷰 데이터를 학습하여 고객의 평점을 예측하는 딥 러닝(Deep learning) 모델을 작성하고자 한다. 학습에 필요한 입력데이터 즉 고객의 특성에 관한 일반적인 정보는 쇼핑몰 내부에 있고, 개인 정보가 포함되어 있기 때문에 사용하기 어려운 문제점이 있다. 이를 극복하기 위해 리뷰 자체에서 고객의 특징(feature)을 추출하는 방법을 사용하였다. 비정형 리뷰 데이터에서 텍스트 마이닝 기법을 사용하여 정형화된 고객의 특징을 추출하였다.&amp;#xD; 실험 대상 제품은 11번가 쇼핑몰에서 하나의 화장품을 선정하였다. 최적의 딥 러닝 모델을 찾기 위하여 Drop-Out 및 Rectified Linear hidden Unite(ReLU)를 사용하며 결과를 평가하였다. 딥 러닝의 예측 결과는 고객 평점을 기반으로 하여 좋음, 보통, 나쁨 3가지를 출력 하도록 실험을 진행하였다. 실험을 통해 완성된 딥 러닝 모델이 출력하는 좋은, 보통, 나쁨 3가지 결과와 실제 고객이 입력 한 평점을 비교하였다. 실험 결과 90%의 정확도를 보였다."
+        },
+        {
+          "rank": 2,
+          "score": 0.707675039768219,
+          "doc_id": "200",
+          "text": "딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 본 논문에서는 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조를 개발한다. 제안하는 복합 미생물 배양기는 수집한 복합 미생물 데이터에 대해 복합 미생물 데이터 전처리, 복합 미생물 데이터 구조 변환, 딥러닝 네트워크 설계, 설계한 딥러닝 네트워크 학습, 시제품에 적용되는 GUI 개발 등으로 구성된다. 복합 미생물 데이터 전처리에서는 미생물 배양에 필요한 당밀, 영양제, 식물엑기스, 소금 등의 양에 대해 원-핫 인코딩을 실시하며, 배양된 결과로 측정된 pH 농도와 미생물의 셀 수에 대해 최대-최소 정규화 방법을 사용하여 데이터를 전처리한다. 복합 미생물 데이터 구조 변환에서는 전처리된 데이터를 물 온도와 미생물의 셀 수를 연결하여 그래프 구조로 변환 후, 인접 행렬과 속성 정보로 나타내어 딥러닝 네트워크의 입력 데이터로 사용한다. 딥러닝 네트워크 설계에서는 그래프 구조에 특화된 그래프 합성곱 네트워크를 설계하여 복합 미생물 데이터를 학습시킨다. 설계한 딥러닝 네트워크는 Cosine 손실함수를 사용하여 학습 시에 발생하는 오차를 최소화하는 방향으로 학습을 진행한다. 시제품에 적용되는 GUI 개발은 사용자가 선택하는 물 온도에 따라 목표하는 pH 농도(3.8 이하) 복합 미생물의 셀 수(108 이상)를 배양시키기 적합한 순으로 나타낸다. 제안된 미생물 배양기의 성능을 평가하기 위하여 공인시험기관에서 실험한 결과는, pH 농도의 경우 평균 3.7로, 복합 미생물의 셀 수는 1.7 &#x00D7; 108으로 측정되었다. 따라서, 본 논문에서 제안한 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조의 효용성이 입증되었다."
+        },
+        {
+          "rank": 3,
+          "score": 0.6642521023750305,
+          "doc_id": "155",
+          "text": "Machine Learning Versus Deep Learning Performances on the Sentiment Analysis of Product Reviews Machine Learning Versus Deep Learning Performances on the Sentiment Analysis of Product Reviews Machine Learning Versus Deep Learning Performances on the Sentiment Analysis of Product Reviews At this current digital era, business platforms have been drastically shifted toward online stores on internet. With the internet-based platform, customers can order goods easily using their smart phones and get delivery at their place without going to the shopping mall. However, the drawback of this business platform is that customers do not really know about the quality of the products they ordered. Therefore, such platform service often provides the review section to let previous customers leave a review about the received product. The reviews are a good source to analyze customer's satisfaction. Business owners can assess review trend as either positive or negative based on a feedback score that customers had given, but it takes too much time for human to analyze this data. In this research, we develop computational models using machine learning techniques to classify product reviews as positive or negative based on the sentiment analysis. In our experiments, we use the book review data from amazon.com to develop the models. For a machine learning based strategy, the data had been transformed with the bag of word technique before developing models using logistic regression, na&iuml;ve bayes, support vector machine, and neural network algorithms. For a deep learning strategy, the word embedding is a technique that we used to transform data before applying the long short-term memory and gated recurrent unit techniques. On comparing performance of machine learning against deep learning models, we compare results from the two methods with both the preprocessed dataset and the non-preprocessed dataset. The result is that the bag of words with neural network outperforms other techniques on both non-preprocess and preprocess datasets."
+        },
+        {
+          "rank": 4,
+          "score": 0.6636415719985962,
+          "doc_id": "123",
+          "text": "딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝은 인공신경망(neural network)이라는 인공지능분야의 모형이 발전된 형태로서, 계층구조로 이루어진 인공신경망의 내부계층(hidden layer)이 여러 단계로 이루어진 구조이다. 딥러닝에서의 주요 모형은 합성곱신경망(convolutional neural network), 순환신경망(recurrent neural network), 그리고 심층신뢰신경망(deep belief network)의 세가지라고 할 수 있다. 그 중에서 현재 흥미로운 연구가 많이 발표되어서 관심이 집중되고 있는 모형은 지도학습(supervised learning)모형인 처음 두 개의 모형이다. 따라서 본 논문에서는 지도학습모형의 가중치를 최적화하는 기본적인 방법인 오류역전파 알고리즘을 살펴본 뒤에 합성곱신경망과 순환신경망의 구조와 응용사례 등을 살펴보고자 한다. 본문에서 다루지 않은 모형인 심층신뢰신경망은 아직까지는 합성곱신경망 이나 순환신경망보다는 상대적으로 주목을 덜 받고 있다. 그러나 심층신뢰신경망은 CNN이나 RNN과는 달리 비지도학습(unsupervised learning)모형이며, 사람이나 동물은 관찰을 통해서 스스로 학습한다는 점에서 궁극적으로는 비지도학습모형이 더 많이 연구되어야 할 주제가 될 것이다."
+        },
+        {
+          "rank": 5,
+          "score": 0.6502504944801331,
+          "doc_id": "31",
+          "text": "딥러닝 알고리즘에 기반한 기업부도 예측 딥러닝 알고리즘에 기반한 기업부도 예측 딥러닝 알고리즘에 기반한 기업부도 예측 기업의 부도는 국가경제에 막대한 손실을 입히며, 해당기업의 이해관계자들 모두에게 경제적 손실을 초래하고 사회적 부를 감소시킨다. 따라서 기업의 부도를 좀 더 정확하게 예측하는 것은 사회적·경제적 측면에서 매우 중요한 연구라 할 수 있다. &amp;#xD; 이에 최근 이미지 인식, 음성 인식, 자연어 처리 등 여러 분야에서 우수한 예측력을 보여주고 있는 딥러닝(Deep Learning)을 기업부도예측에 이용하고자 하며, 본 논문에서는 기업부도예측 방법으로 여러 딥러닝 알고리즘 중 DBN(Deep Belief Network)을 제안한다. 기존에 사용되던 분석기법 대비 우수성을 확인하기 위해 최근까지 기업부도예측에서 연구되고 있는 SVM(Support Vector Machine)과 비교하고자 하였으며, 1999년부터 2015년 사이에 국내 코스닥·코스피에 상장된 비금융업의 기업데이터를 이용하였다. 건실기업의 수는 1669개, 부도기업의 수는 495개이며, 한국은행의 기업경영분석에서 소개된 재무비율 변수를 이용하여 분석을 진행하였다. 분석결과 DBN이 SVM보다 여러 평가척도에서 더 좋은 성능을 보였다. 특히 시험데이터에 대해 부도기업을 부도기업으로 예측하는 민감도에서 5%이상의 더 뛰어난 성능을 보였으며, 이에 기업부도예측분야에 딥러닝의 적용가능성을 확인해 볼 수 있었다."
+        },
+        {
+          "rank": 6,
+          "score": 0.6486177444458008,
+          "doc_id": "18",
+          "text": "Deep Learning 기반의 DGA 개발에 대한 연구 Deep Learning 기반의 DGA 개발에 대한 연구 Deep Learning 기반의 DGA 개발에 대한 연구 Recently, there are many companies that use systems based on artificial intelligence. The accuracy of artificial intelligence depends on the amount of learning data and the appropriate algorithm. However, it is not easy to obtain learning data with a large number of entity. Less data set have large generalization errors due to overfitting. In order to minimize this generalization error, this study proposed DGA which can expect relatively high accuracy even though data with a less data set is applied to machine learning based genetic algorithm to deep learning based dropout. The idea of this paper is to determine the active state of the nodes. Using Gradient about loss function, A new fitness function is defined. Proposed Algorithm DGA is supplementing stochastic inconsistency about Dropout. Also DGA solved problem by the complexity of the fitness function and expression range of the model about Genetic Algorithm As a result of experiments using MNIST data proposed algorithm accuracy is 75.3%. Using only Dropout algorithm accuracy is 41.4%. It is shown that DGA is better than using only dropout."
+        },
+        {
+          "rank": 7,
+          "score": 0.6392937898635864,
+          "doc_id": "26",
+          "text": "Design a personalized recommendation system using deep learning and reinforcement learning Design a personalized recommendation system using deep learning and reinforcement learning Design a personalized recommendation system using deep learning and reinforcement learning As the E-commerce market grows, the importance of personalized recommendation systems is increasing. Existing collaborative filtering and content-based filtering methods have shown a certain level of performance, but they have limitations such as cold start, data sparseness, and lack of long-term pattern learning. In this study, we design a matching system that combines a hybrid recommendation system and hyper-personalization technology and propose an efficient recommendation system. The core of the study is to develop a recommendation model that can improve recommendation accuracy and increase user satisfaction compared to existing systems. The proposed elements are as follows. First, the hybrid-hyper-personalization matching system provides recommendation accuracy compared to existing methods. Second, we propose an optimal product matching model that reflects user context using real-time data. Third, we optimize Personalized Recommendation System using deep learning and reinforcement learning. Fourth, we present a method to objectively evaluate recommendation performance through A/B testing."
+        },
+        {
+          "rank": 8,
+          "score": 0.6348174810409546,
+          "doc_id": "180",
+          "text": "딥러닝 기반의 딥 클러스터링 방법에 대한 분석 딥러닝 기반의 딥 클러스터링 방법에 대한 분석 딥러닝 기반의 딥 클러스터링 방법에 대한 분석 클러스터링은 데이터의 정답값(실제값)이 없는 데이터를 기반으로 데이터의 특징벡터의 거리 기반 등으로 군집화를 하는 비지도학습 방법이다. 이 방법은 이미지, 텍스트, 음성 등 다양한 데이터에 대해서 라벨링이 없이 적용할 수 있다는 장점이 있다. 기존 클러스터링을 하기 위해 차원축소 기법을 적용하거나 특정 특징만을 추출하여 군집화하는 방법이 적용되었다. 하지만 딥러닝 기반 모델이 발전하면서 입력 데이터를 잠재 벡터로 표현하는 오토인코더, 생성 적대적 네트워크 등을 통해서 딥 클러스터링의 기술이 연구가 되고 있다. 본 연구에서, 딥러닝 기반의 딥 클러스터링 기법을 제안하였다. 이 방법에서 오토인코더를 이용하여 입력 데이터를 잠재 벡터로 변환하고 이 잠재 벡터를 클러스터 구조에 맞게 벡터 공간을 구성 및 k-평균 클러스터링을 하였다. 실험 환경으로 pytorch 머신러닝 라이브러리를 이용하여 데이터셋으로 MNIST와 Fashion-MNIST을 적용하였다. 모델로는 컨볼루션 신경망 기반인 오토인코더 모델을 사용하였다. 실험결과로 k가 10일 때, MNIST에 대해서 89.42% 정확도를 가졌으며 Fashion-MNIST에 대해서 56.64% 정확도를 가진다."
+        },
+        {
+          "rank": 9,
+          "score": 0.6344343423843384,
+          "doc_id": "24",
+          "text": "포인트 클라우드 기반 딥 러닝 기법을 이용한 BIM 객체 분류에 관한 연구 포인트 클라우드 기반 딥 러닝 기법을 이용한 BIM 객체 분류에 관한 연구 포인트 클라우드 기반 딥 러닝 기법을 이용한 BIM 객체 분류에 관한 연구 건축 산업 전반에 BIM(Building Information Modeling)의 활용이 확대되고 있다. BIM은 3차원 건축물 객체 데이터를 기반으로 건축물이 지닌 다양한 정보를 담고 있는 데이터 형태이다. BIM 데이터는 IFC(Industry Foundation Classes) 표준 형태로 제작 및 배포된다. 이 때 BIM 데이터를 IFC 표준으로 생성하는 과정에서 설계자가 직접 IFC 데이터의 정보를 매핑해야 하는 문제가 존재한다. 이는 전문 인력 자원의 소요와 인적 오류의 발생 가능성을 높일 수 있는 위험을 지니고 있다. 본 연구에서는 이러한 위험을 줄이고, 보다 효과적으로 IFC 표준에 맞는 BIM 데이터 생성을 위한 딥 러닝 기법을 이용하여 학습한 모델을 통한 자동화된 BIM-IFC간 클래스 매핑 과정을 제안하였다.표준 BIM 라이브러리 데이터인 KBIMS 데이터를 이용한 실험에서 심층 신경망, 합성곱 신경망, Pointnet 총 3개의 딥 러닝 구조를 학습하여 평가하였다. 실험 결과 세 모델 모두 85% 이상의 높은 성능을 보였으며 그 중 3차원 객체의 위치 정보를 점들의 집합 형태의 데이터인 포인트 클라우드 형태로 표현한 Pointnet이 95% 이상의 정확도를 보여 가장 높은 성능의 모델임을 확인할 수 있었다. 본 연구의 의의는 BIM-IFC 클래스 매핑 작업에서 자동화된 딥 러닝 기반 모델 학습 과정을 통해 기존의 설계 전문가가 수작업으로 수행하는 정보 입력 과정을 자동화할 수 있다는 가능성을 보여준 것에 있다."
+        },
+        {
+          "rank": 10,
+          "score": 0.6293143033981323,
+          "doc_id": "10",
+          "text": "딥 러닝 기반 머리 포즈 추정 및 얼굴 특징점 정렬에 관한 연구 딥 러닝 기반 머리 포즈 추정 및 얼굴 특징점 정렬에 관한 연구 딥 러닝 기반 머리 포즈 추정 및 얼굴 특징점 정렬에 관한 연구 컴퓨터 비전은 어떤 영상에서 장면이나 특징을 인식하는 분야로 근본적인 목적은 입체를 인식하거나 영상 내의 객체를 인식, 또는 객체 간의 관계를 이해하는 것이다. 1982년 D. Marr의 “Vision”이 출간된 이후 생물학적 접근에 의한 비전 연구가 주목을 받기 시작하면서 인공신경망을 이용한 컴퓨터 비전 연구가 활발히 진행되었다. 이후 1998년 Yann LeCun 등이 Convolutional Neural Network의 구조를 제안하였고, 이것이 초기의 CNN 모델이다. 본격적으로 Deep Learning이라는 용어는 Geoffrey Hinton에 의해서 사용되었다. 2006년 Geoffrey Hinton은 기존 신경망의 문제점을 해결하기 위해 Unsupervised Learning을 적용하는 방법을 제안하였다. 또한 최근 GPU의 발전으로 기존의 학습 속도의 한계를 극복하였고, 각종 Social Network Service(SNS)가 활발해 짐에 따라 다양한 형태의 데이터를 활용할 수 있게 되었다. 본 연구은 딥 러닝 기술 중 컴퓨터 비전에서 대표적으로 사용하는 Convolutional Neural Network(CNN)를 적용하여 사람의 머리 포즈를 추정하고 얼굴 특징점을 정렬하는 방법을 구현한다. 머리 포즈를 추정하기 위해서 CNN 중 분류(Classification)기법을 사용하고 각 층(Layer)의 수를 3, 4, 5개의 비지도학습(Unsupervised Learning)과 2개의 지도학습( Supervised Learning)을 이용한 구성을 비교하여 실험한다. 또한 입력 데이터의 채널 및 데이터의 양과 입력 방법에 따른 결과를 비교, 분석한다. 얼굴 특징점을 정렬하기 위해서 계층구조(Hierarchical Structure)를 사용하고 각 특징의 상관관계를 포함하지 않는 패치(Patch)를 적용하는 방법을 구현한다. 머리 포즈 추정에 사용한 데이터베이스는 ICT-3DHP, Biwi, GI4E와 자체 제작한 DB로 총 36,000장의 데이터를 사용하여 학습 및 실험을 한다. 또한 얼굴 특징점 정렬에 사용한 데이터베이스는 AFLW 10,000장을 학습하고 5,000장을 테스트한다. 머리 포즈 추정 실험의 오류를 측정하는 방법으로 Mean Absolute Error(MAE)를 사용하여 비교하였으며, Roll, Pitch, Yaw의 MAE는 각각 0.78, 0.99, 1.40의 값을 얻었다. 또한 얼굴 특징점 정렬은 Mean Absolute Percent Error(MAPE)를 사용하여 오차를 계산하였다. 21개의 각각의 특징점 평균 오차 약 1.0으로 기존의 평균보다 뛰어난 성능을 보인다. 이는 기존의 POSIT으로 추정한 값과 달리 얼굴 특징점을 사용하지 않고 영상만을 보고 판단할 수 있는 컴퓨터 비전에서 궁극적 형태의 새로운 학습 모델을 제안한다."
+        }
+      ]
+    },
+    {
+      "query": "비정형 리뷰 데이터를 활용해 고객 평점을 예측하기 위해 설계된 딥 러닝 모델의 구조는 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.8133856654167175,
+          "doc_id": "220",
+          "text": "딥 러닝기반 고객평점 예측모델 딥 러닝기반 고객평점 예측모델 딥 러닝기반 고객평점 예측모델 인터넷의 발달과 휴대용 기기의 발달로 사용자들이 데이터를 생산하고, 공유하는 일들이 매우 자연스럽고 쉬운 일이 되었다. e-마켓플레스로 대변되는 온라인 쇼핑몰에서도 사용자들의 데이터 생산과 공유가 리뷰의 형식으로 활발하게 이루어지고 있다. 리뷰의 형식은 보통 정해진 형식이 없는 비 정형데이터인 텍스트와 제품에 대한 고객의 평점으로 이루어져있다. 이와 같이 형태로 적극적으로 공유된 정보들은 구매에 중요한 요소로 사용되고 있다. &amp;#xD; 본 논문에서는 이렇게 누적된 리뷰 데이터를 학습하여 고객의 평점을 예측하는 딥 러닝(Deep learning) 모델을 작성하고자 한다. 학습에 필요한 입력데이터 즉 고객의 특성에 관한 일반적인 정보는 쇼핑몰 내부에 있고, 개인 정보가 포함되어 있기 때문에 사용하기 어려운 문제점이 있다. 이를 극복하기 위해 리뷰 자체에서 고객의 특징(feature)을 추출하는 방법을 사용하였다. 비정형 리뷰 데이터에서 텍스트 마이닝 기법을 사용하여 정형화된 고객의 특징을 추출하였다.&amp;#xD; 실험 대상 제품은 11번가 쇼핑몰에서 하나의 화장품을 선정하였다. 최적의 딥 러닝 모델을 찾기 위하여 Drop-Out 및 Rectified Linear hidden Unite(ReLU)를 사용하며 결과를 평가하였다. 딥 러닝의 예측 결과는 고객 평점을 기반으로 하여 좋음, 보통, 나쁨 3가지를 출력 하도록 실험을 진행하였다. 실험을 통해 완성된 딥 러닝 모델이 출력하는 좋은, 보통, 나쁨 3가지 결과와 실제 고객이 입력 한 평점을 비교하였다. 실험 결과 90%의 정확도를 보였다."
+        },
+        {
+          "rank": 2,
+          "score": 0.6745094656944275,
+          "doc_id": "200",
+          "text": "딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 본 논문에서는 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조를 개발한다. 제안하는 복합 미생물 배양기는 수집한 복합 미생물 데이터에 대해 복합 미생물 데이터 전처리, 복합 미생물 데이터 구조 변환, 딥러닝 네트워크 설계, 설계한 딥러닝 네트워크 학습, 시제품에 적용되는 GUI 개발 등으로 구성된다. 복합 미생물 데이터 전처리에서는 미생물 배양에 필요한 당밀, 영양제, 식물엑기스, 소금 등의 양에 대해 원-핫 인코딩을 실시하며, 배양된 결과로 측정된 pH 농도와 미생물의 셀 수에 대해 최대-최소 정규화 방법을 사용하여 데이터를 전처리한다. 복합 미생물 데이터 구조 변환에서는 전처리된 데이터를 물 온도와 미생물의 셀 수를 연결하여 그래프 구조로 변환 후, 인접 행렬과 속성 정보로 나타내어 딥러닝 네트워크의 입력 데이터로 사용한다. 딥러닝 네트워크 설계에서는 그래프 구조에 특화된 그래프 합성곱 네트워크를 설계하여 복합 미생물 데이터를 학습시킨다. 설계한 딥러닝 네트워크는 Cosine 손실함수를 사용하여 학습 시에 발생하는 오차를 최소화하는 방향으로 학습을 진행한다. 시제품에 적용되는 GUI 개발은 사용자가 선택하는 물 온도에 따라 목표하는 pH 농도(3.8 이하) 복합 미생물의 셀 수(108 이상)를 배양시키기 적합한 순으로 나타낸다. 제안된 미생물 배양기의 성능을 평가하기 위하여 공인시험기관에서 실험한 결과는, pH 농도의 경우 평균 3.7로, 복합 미생물의 셀 수는 1.7 &#x00D7; 108으로 측정되었다. 따라서, 본 논문에서 제안한 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조의 효용성이 입증되었다."
+        },
+        {
+          "rank": 3,
+          "score": 0.6460386514663696,
+          "doc_id": "123",
+          "text": "딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝은 인공신경망(neural network)이라는 인공지능분야의 모형이 발전된 형태로서, 계층구조로 이루어진 인공신경망의 내부계층(hidden layer)이 여러 단계로 이루어진 구조이다. 딥러닝에서의 주요 모형은 합성곱신경망(convolutional neural network), 순환신경망(recurrent neural network), 그리고 심층신뢰신경망(deep belief network)의 세가지라고 할 수 있다. 그 중에서 현재 흥미로운 연구가 많이 발표되어서 관심이 집중되고 있는 모형은 지도학습(supervised learning)모형인 처음 두 개의 모형이다. 따라서 본 논문에서는 지도학습모형의 가중치를 최적화하는 기본적인 방법인 오류역전파 알고리즘을 살펴본 뒤에 합성곱신경망과 순환신경망의 구조와 응용사례 등을 살펴보고자 한다. 본문에서 다루지 않은 모형인 심층신뢰신경망은 아직까지는 합성곱신경망 이나 순환신경망보다는 상대적으로 주목을 덜 받고 있다. 그러나 심층신뢰신경망은 CNN이나 RNN과는 달리 비지도학습(unsupervised learning)모형이며, 사람이나 동물은 관찰을 통해서 스스로 학습한다는 점에서 궁극적으로는 비지도학습모형이 더 많이 연구되어야 할 주제가 될 것이다."
+        },
+        {
+          "rank": 4,
+          "score": 0.6373099088668823,
+          "doc_id": "31",
+          "text": "딥러닝 알고리즘에 기반한 기업부도 예측 딥러닝 알고리즘에 기반한 기업부도 예측 딥러닝 알고리즘에 기반한 기업부도 예측 기업의 부도는 국가경제에 막대한 손실을 입히며, 해당기업의 이해관계자들 모두에게 경제적 손실을 초래하고 사회적 부를 감소시킨다. 따라서 기업의 부도를 좀 더 정확하게 예측하는 것은 사회적·경제적 측면에서 매우 중요한 연구라 할 수 있다. &amp;#xD; 이에 최근 이미지 인식, 음성 인식, 자연어 처리 등 여러 분야에서 우수한 예측력을 보여주고 있는 딥러닝(Deep Learning)을 기업부도예측에 이용하고자 하며, 본 논문에서는 기업부도예측 방법으로 여러 딥러닝 알고리즘 중 DBN(Deep Belief Network)을 제안한다. 기존에 사용되던 분석기법 대비 우수성을 확인하기 위해 최근까지 기업부도예측에서 연구되고 있는 SVM(Support Vector Machine)과 비교하고자 하였으며, 1999년부터 2015년 사이에 국내 코스닥·코스피에 상장된 비금융업의 기업데이터를 이용하였다. 건실기업의 수는 1669개, 부도기업의 수는 495개이며, 한국은행의 기업경영분석에서 소개된 재무비율 변수를 이용하여 분석을 진행하였다. 분석결과 DBN이 SVM보다 여러 평가척도에서 더 좋은 성능을 보였다. 특히 시험데이터에 대해 부도기업을 부도기업으로 예측하는 민감도에서 5%이상의 더 뛰어난 성능을 보였으며, 이에 기업부도예측분야에 딥러닝의 적용가능성을 확인해 볼 수 있었다."
+        },
+        {
+          "rank": 5,
+          "score": 0.6271877884864807,
+          "doc_id": "155",
+          "text": "Machine Learning Versus Deep Learning Performances on the Sentiment Analysis of Product Reviews Machine Learning Versus Deep Learning Performances on the Sentiment Analysis of Product Reviews Machine Learning Versus Deep Learning Performances on the Sentiment Analysis of Product Reviews At this current digital era, business platforms have been drastically shifted toward online stores on internet. With the internet-based platform, customers can order goods easily using their smart phones and get delivery at their place without going to the shopping mall. However, the drawback of this business platform is that customers do not really know about the quality of the products they ordered. Therefore, such platform service often provides the review section to let previous customers leave a review about the received product. The reviews are a good source to analyze customer's satisfaction. Business owners can assess review trend as either positive or negative based on a feedback score that customers had given, but it takes too much time for human to analyze this data. In this research, we develop computational models using machine learning techniques to classify product reviews as positive or negative based on the sentiment analysis. In our experiments, we use the book review data from amazon.com to develop the models. For a machine learning based strategy, the data had been transformed with the bag of word technique before developing models using logistic regression, na&iuml;ve bayes, support vector machine, and neural network algorithms. For a deep learning strategy, the word embedding is a technique that we used to transform data before applying the long short-term memory and gated recurrent unit techniques. On comparing performance of machine learning against deep learning models, we compare results from the two methods with both the preprocessed dataset and the non-preprocessed dataset. The result is that the bag of words with neural network outperforms other techniques on both non-preprocess and preprocess datasets."
+        },
+        {
+          "rank": 6,
+          "score": 0.6259551048278809,
+          "doc_id": "26",
+          "text": "Design a personalized recommendation system using deep learning and reinforcement learning Design a personalized recommendation system using deep learning and reinforcement learning Design a personalized recommendation system using deep learning and reinforcement learning As the E-commerce market grows, the importance of personalized recommendation systems is increasing. Existing collaborative filtering and content-based filtering methods have shown a certain level of performance, but they have limitations such as cold start, data sparseness, and lack of long-term pattern learning. In this study, we design a matching system that combines a hybrid recommendation system and hyper-personalization technology and propose an efficient recommendation system. The core of the study is to develop a recommendation model that can improve recommendation accuracy and increase user satisfaction compared to existing systems. The proposed elements are as follows. First, the hybrid-hyper-personalization matching system provides recommendation accuracy compared to existing methods. Second, we propose an optimal product matching model that reflects user context using real-time data. Third, we optimize Personalized Recommendation System using deep learning and reinforcement learning. Fourth, we present a method to objectively evaluate recommendation performance through A/B testing."
+        },
+        {
+          "rank": 7,
+          "score": 0.604572594165802,
+          "doc_id": "180",
+          "text": "딥러닝 기반의 딥 클러스터링 방법에 대한 분석 딥러닝 기반의 딥 클러스터링 방법에 대한 분석 딥러닝 기반의 딥 클러스터링 방법에 대한 분석 클러스터링은 데이터의 정답값(실제값)이 없는 데이터를 기반으로 데이터의 특징벡터의 거리 기반 등으로 군집화를 하는 비지도학습 방법이다. 이 방법은 이미지, 텍스트, 음성 등 다양한 데이터에 대해서 라벨링이 없이 적용할 수 있다는 장점이 있다. 기존 클러스터링을 하기 위해 차원축소 기법을 적용하거나 특정 특징만을 추출하여 군집화하는 방법이 적용되었다. 하지만 딥러닝 기반 모델이 발전하면서 입력 데이터를 잠재 벡터로 표현하는 오토인코더, 생성 적대적 네트워크 등을 통해서 딥 클러스터링의 기술이 연구가 되고 있다. 본 연구에서, 딥러닝 기반의 딥 클러스터링 기법을 제안하였다. 이 방법에서 오토인코더를 이용하여 입력 데이터를 잠재 벡터로 변환하고 이 잠재 벡터를 클러스터 구조에 맞게 벡터 공간을 구성 및 k-평균 클러스터링을 하였다. 실험 환경으로 pytorch 머신러닝 라이브러리를 이용하여 데이터셋으로 MNIST와 Fashion-MNIST을 적용하였다. 모델로는 컨볼루션 신경망 기반인 오토인코더 모델을 사용하였다. 실험결과로 k가 10일 때, MNIST에 대해서 89.42% 정확도를 가졌으며 Fashion-MNIST에 대해서 56.64% 정확도를 가진다."
+        },
+        {
+          "rank": 8,
+          "score": 0.5980074405670166,
+          "doc_id": "182",
+          "text": "Effective Electricity Demand Prediction via Deep Learning Effective Electricity Demand Prediction via Deep Learning Effective Electricity Demand Prediction via Deep Learning Prediction of electricity demand in homes and buildings can be used to optimize an energy management system by decreasing energy wastage. A time-series prediction system is still a challenging problem in machine learning and deep learning. Our main idea is to compare three methods. For this work, we analyzed an electricity demand prediction system using the current state-of-the-art deep-learning methods with a machine-learning method: error correction with multi-layer perceptron (eMLP) structure, autoregressive integrated moving average (ARIMA) structure, and a proposed structure named CNN-LSTM. For this, we measured and collected electricity demand data in Germany for home appliances. We report the prediction accuracy in terms of the mean square error (MSE) and mean absolute percentage error (MAPE). The experimental result indicates that CNN-LSTM outperforms eMLP and ARIMA in accuracy."
+        },
+        {
+          "rank": 9,
+          "score": 0.5974997282028198,
+          "doc_id": "9",
+          "text": "Wave data prediction with optimized machine learning and deep learning techniques Wave data prediction with optimized machine learning and deep learning techniques Wave data prediction with optimized machine learning and deep learning techniques Maritime Autonomous Surface Ships are in the development stage and they play an important role in the upcoming future. Present generation ships are semi-autonomous and controlled by the ship crew. The performance of the ship is predicted using the data collected from the ship with the help of machine learning and deep learning methods. Path planning for an autonomous ship is necessary for estimating the best possible route with minimum travel time and it depends on the weather. However, even during the navigation, there will be changes in weather and it should be predicted in order to reroute the ship. The weather information such as wave height, wave period, seawater temperature, humidity, atmospheric pressure, etc., is collected by ship external sensors, weather stations, buoys, and satellites. This paper investigates the ensemble machine learning approaches and seasonality approach for wave data prediction. The historical meteorological data are collected from six stations near Puerto Rico offshore and Hawaii offshore. We explore ensemble machine learning techniques on the data collected. The collected data are divided into training and testing data and apply machine learning models to predict the test data. The hyperparameter optimization is performed to find the best parameters before fitting on train data, this is essential to find the best results. Multivariate analysis is performed with all the methods and errors are computed to find the best models."
+        },
+        {
+          "rank": 10,
+          "score": 0.5973512530326843,
+          "doc_id": "18",
+          "text": "Deep Learning 기반의 DGA 개발에 대한 연구 Deep Learning 기반의 DGA 개발에 대한 연구 Deep Learning 기반의 DGA 개발에 대한 연구 Recently, there are many companies that use systems based on artificial intelligence. The accuracy of artificial intelligence depends on the amount of learning data and the appropriate algorithm. However, it is not easy to obtain learning data with a large number of entity. Less data set have large generalization errors due to overfitting. In order to minimize this generalization error, this study proposed DGA which can expect relatively high accuracy even though data with a less data set is applied to machine learning based genetic algorithm to deep learning based dropout. The idea of this paper is to determine the active state of the nodes. Using Gradient about loss function, A new fitness function is defined. Proposed Algorithm DGA is supplementing stochastic inconsistency about Dropout. Also DGA solved problem by the complexity of the fitness function and expression range of the model about Genetic Algorithm As a result of experiments using MNIST data proposed algorithm accuracy is 75.3%. Using only Dropout algorithm accuracy is 41.4%. It is shown that DGA is better than using only dropout."
+        }
+      ]
+    },
+    {
+      "query": "해당 딥 러닝 모델의 주요 실험 결과 중 정확도는 어떻게 되나요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6507518887519836,
+          "doc_id": "18",
+          "text": "Deep Learning 기반의 DGA 개발에 대한 연구 Deep Learning 기반의 DGA 개발에 대한 연구 Deep Learning 기반의 DGA 개발에 대한 연구 Recently, there are many companies that use systems based on artificial intelligence. The accuracy of artificial intelligence depends on the amount of learning data and the appropriate algorithm. However, it is not easy to obtain learning data with a large number of entity. Less data set have large generalization errors due to overfitting. In order to minimize this generalization error, this study proposed DGA which can expect relatively high accuracy even though data with a less data set is applied to machine learning based genetic algorithm to deep learning based dropout. The idea of this paper is to determine the active state of the nodes. Using Gradient about loss function, A new fitness function is defined. Proposed Algorithm DGA is supplementing stochastic inconsistency about Dropout. Also DGA solved problem by the complexity of the fitness function and expression range of the model about Genetic Algorithm As a result of experiments using MNIST data proposed algorithm accuracy is 75.3%. Using only Dropout algorithm accuracy is 41.4%. It is shown that DGA is better than using only dropout."
+        },
+        {
+          "rank": 2,
+          "score": 0.6253541111946106,
+          "doc_id": "123",
+          "text": "딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝은 인공신경망(neural network)이라는 인공지능분야의 모형이 발전된 형태로서, 계층구조로 이루어진 인공신경망의 내부계층(hidden layer)이 여러 단계로 이루어진 구조이다. 딥러닝에서의 주요 모형은 합성곱신경망(convolutional neural network), 순환신경망(recurrent neural network), 그리고 심층신뢰신경망(deep belief network)의 세가지라고 할 수 있다. 그 중에서 현재 흥미로운 연구가 많이 발표되어서 관심이 집중되고 있는 모형은 지도학습(supervised learning)모형인 처음 두 개의 모형이다. 따라서 본 논문에서는 지도학습모형의 가중치를 최적화하는 기본적인 방법인 오류역전파 알고리즘을 살펴본 뒤에 합성곱신경망과 순환신경망의 구조와 응용사례 등을 살펴보고자 한다. 본문에서 다루지 않은 모형인 심층신뢰신경망은 아직까지는 합성곱신경망 이나 순환신경망보다는 상대적으로 주목을 덜 받고 있다. 그러나 심층신뢰신경망은 CNN이나 RNN과는 달리 비지도학습(unsupervised learning)모형이며, 사람이나 동물은 관찰을 통해서 스스로 학습한다는 점에서 궁극적으로는 비지도학습모형이 더 많이 연구되어야 할 주제가 될 것이다."
+        },
+        {
+          "rank": 3,
+          "score": 0.6221829652786255,
+          "doc_id": "200",
+          "text": "딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 본 논문에서는 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조를 개발한다. 제안하는 복합 미생물 배양기는 수집한 복합 미생물 데이터에 대해 복합 미생물 데이터 전처리, 복합 미생물 데이터 구조 변환, 딥러닝 네트워크 설계, 설계한 딥러닝 네트워크 학습, 시제품에 적용되는 GUI 개발 등으로 구성된다. 복합 미생물 데이터 전처리에서는 미생물 배양에 필요한 당밀, 영양제, 식물엑기스, 소금 등의 양에 대해 원-핫 인코딩을 실시하며, 배양된 결과로 측정된 pH 농도와 미생물의 셀 수에 대해 최대-최소 정규화 방법을 사용하여 데이터를 전처리한다. 복합 미생물 데이터 구조 변환에서는 전처리된 데이터를 물 온도와 미생물의 셀 수를 연결하여 그래프 구조로 변환 후, 인접 행렬과 속성 정보로 나타내어 딥러닝 네트워크의 입력 데이터로 사용한다. 딥러닝 네트워크 설계에서는 그래프 구조에 특화된 그래프 합성곱 네트워크를 설계하여 복합 미생물 데이터를 학습시킨다. 설계한 딥러닝 네트워크는 Cosine 손실함수를 사용하여 학습 시에 발생하는 오차를 최소화하는 방향으로 학습을 진행한다. 시제품에 적용되는 GUI 개발은 사용자가 선택하는 물 온도에 따라 목표하는 pH 농도(3.8 이하) 복합 미생물의 셀 수(108 이상)를 배양시키기 적합한 순으로 나타낸다. 제안된 미생물 배양기의 성능을 평가하기 위하여 공인시험기관에서 실험한 결과는, pH 농도의 경우 평균 3.7로, 복합 미생물의 셀 수는 1.7 &#x00D7; 108으로 측정되었다. 따라서, 본 논문에서 제안한 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조의 효용성이 입증되었다."
+        },
+        {
+          "rank": 4,
+          "score": 0.6205934286117554,
+          "doc_id": "220",
+          "text": "딥 러닝기반 고객평점 예측모델 딥 러닝기반 고객평점 예측모델 딥 러닝기반 고객평점 예측모델 인터넷의 발달과 휴대용 기기의 발달로 사용자들이 데이터를 생산하고, 공유하는 일들이 매우 자연스럽고 쉬운 일이 되었다. e-마켓플레스로 대변되는 온라인 쇼핑몰에서도 사용자들의 데이터 생산과 공유가 리뷰의 형식으로 활발하게 이루어지고 있다. 리뷰의 형식은 보통 정해진 형식이 없는 비 정형데이터인 텍스트와 제품에 대한 고객의 평점으로 이루어져있다. 이와 같이 형태로 적극적으로 공유된 정보들은 구매에 중요한 요소로 사용되고 있다. &amp;#xD; 본 논문에서는 이렇게 누적된 리뷰 데이터를 학습하여 고객의 평점을 예측하는 딥 러닝(Deep learning) 모델을 작성하고자 한다. 학습에 필요한 입력데이터 즉 고객의 특성에 관한 일반적인 정보는 쇼핑몰 내부에 있고, 개인 정보가 포함되어 있기 때문에 사용하기 어려운 문제점이 있다. 이를 극복하기 위해 리뷰 자체에서 고객의 특징(feature)을 추출하는 방법을 사용하였다. 비정형 리뷰 데이터에서 텍스트 마이닝 기법을 사용하여 정형화된 고객의 특징을 추출하였다.&amp;#xD; 실험 대상 제품은 11번가 쇼핑몰에서 하나의 화장품을 선정하였다. 최적의 딥 러닝 모델을 찾기 위하여 Drop-Out 및 Rectified Linear hidden Unite(ReLU)를 사용하며 결과를 평가하였다. 딥 러닝의 예측 결과는 고객 평점을 기반으로 하여 좋음, 보통, 나쁨 3가지를 출력 하도록 실험을 진행하였다. 실험을 통해 완성된 딥 러닝 모델이 출력하는 좋은, 보통, 나쁨 3가지 결과와 실제 고객이 입력 한 평점을 비교하였다. 실험 결과 90%의 정확도를 보였다."
+        },
+        {
+          "rank": 5,
+          "score": 0.6083859205245972,
+          "doc_id": "114",
+          "text": "Deep Learning and Mathematical Models in Dermatology Deep Learning and Mathematical Models in Dermatology Deep Learning and Mathematical Models in Dermatology 없음"
+        },
+        {
+          "rank": 6,
+          "score": 0.5970759987831116,
+          "doc_id": "175",
+          "text": "딥 러닝을 이용한 DC 모터 제어 딥 러닝을 이용한 DC 모터 제어 딥 러닝을 이용한 DC 모터 제어 딥 러닝(deep learning)은 최근에 많이 알려지게 된 심층 인공신경망 알고리즘이다. 일반적인 인공신경망보다 은닉층의 개수와 뉴런의 개수를 확장시키고, 학습이 효율적으로 될 수 있게 알고리즘을 개선한 것이 가장 큰 특징이다. 이러한 특징을 활용하여 기존의 인공신경망으로 풀지 못했던 크고 복잡한 문제들을 해결할 수 있게 되었다. 음성인식, 손 글씨 인식, 얼굴 인식 등 복잡한 패턴인식과 분류에 관련된 다양한 분야에 대한 적용 연구가 활발히 진행되고 있다. 하지만 이러한 장점에도 불구하고, 아직까지 딥 러닝이 제어문제를 해결하기 위해 적용된 사례는 찾아보기 어렵다. 본 논문에서는 간단한 사례를 통해 딥 러닝의 제어문제에 대한 적용 가능성을 확인해 본다. 딥 러닝 알고리즘 중에서 가장 잘 알려진, 깊은 믿음 네트워크(deep belief network) 알고리즘을 사용하여 산업현장에서 가장 많이 사용되고 있는 PID 제어기를 모방하는 딥 러닝 제어기를 설계한다. DC 모터를 제어하는 시스템에서 PID 제어기에 들어오는 입력과 PID 제어기에서 나오는 출력값을 학습 데이터로 사용하여 딥 러닝으로 학습하는 방법을 사용한다. 시뮬레이션을 통해 제안한 딥 러닝 제어기와 PID 제어기를 비교하여 딥 러닝 알고리즘의 성능을 검증한다."
+        },
+        {
+          "rank": 7,
+          "score": 0.5952012538909912,
+          "doc_id": "6",
+          "text": "바둑에 적용된 깊은 학습: 응용 및 실험에 대한 조사 바둑에 적용된 깊은 학습: 응용 및 실험에 대한 조사 바둑에 적용된 깊은 학습: 응용 및 실험에 대한 조사 4 천년 전에 Go-game (바둑) 이 발명되어 널리 지능을 가진 사람들을 가르치기 위해 널리 적용되었습니다. 많은 왕이 그것을 연주하고 지능을 향상시키기 위해 아들을 가르쳤습니다.&amp;#xD; 1980 년대에 퍼스널 컴퓨터가 만들어지고 인기를 얻었습니다. 또한 많은 게임이 사람들이 컴퓨터로 게임을하거나 기존 게임을 플레이 할 때 사용자를 지원할 수 있도록 프로그래밍되어 있습니다. Shogi, Chess, Xiangqi, Go-game, tic-tac-toe 등과 같이 지금까지도 우리 조상이 연주 한 많은 유명한 전통 게임이 컴퓨터 프로그램에 의해 삽화가되고 많은 게임이 성공적으로 프로그래밍되었습니다 . 점진적으로 개선되기 위해 매일 복잡성 게임이 개발되고 있습니다. 특히, 복잡성이 매우 높은 일부 게임은 장군, 체스, 고 게임 등과 같은 전략과 규칙을 가지고 노는 것이 지능적이라고 생각합니다. 인간과 똑같이 지능적으로 플레이 할 수 있도록 프로그램하는 것은 매우 어렵습니다.&amp;#xD; 기계 학습은 컴퓨터가 인간의 두뇌와 유사한 데이터를 생각하고 학습하게하는 솔루션으로 부상했습니다. 알고리즘을 사용하여 분석 모델을 작성하여 컴퓨터가 특정 목적을 위해 주어진 데이터에서 '학습'하도록 돕습니다. 이제는 무인 자동차, 로봇 장치와 같은 흥미 진 진한 새로운 응용 프로그램을 만들기 위해 방대한 양의 데이터에 적용 할 수 있습니다. 딥 러닝 (Deep Learning)은 인공 신경 네트워크 (artificial neural networks)라고 불리는 뇌의 구조와 기능에 영감을받은 알고리즘과 관련된 기계 학습의 하위 분야입니다. 이것은 더 나은 훈련 된 데이터 세트를 얻기 위해 학습 진도를 향상시키는 새로운 접근법으로 알려져있어 더 정확한 결과를 초래합니다.&amp;#xD; 내 논문은 Go-game에 깊은 학습을 적용하는 데 중점을 둡니다. 나는 'Go-game에 적용된 깊은 학습'에 관한 설문 조사를합니다. Go-game에 대한 오픈 소스 코드 프로젝트와 문제 해결을위한 심층적 인 학습 기술을 적용하는 방법을 소개합니다. 정확성과 효과가 더 높은 Go- 게임을위한 다음 동작 계산에 대해 자세히 설명합니다. 저는 고문 교수 인 Jung Keechul과 함께 Go-game의 차세대 제안에 대한 제안을했습니다. 이 방법에서는 3 개의 CNN 레이어가있는 5 개의 숨겨진 레이어를 사용하여 데이터를 학습합니다.&amp;#xD; 저의 논문의 기여는보다 높은 성과와 효과를 가진 HCI에 깊은 학습을 적용하는 접근법을 과시하는 것입니다. 첫째, 심층 학습에 대한 완전한 관찰과 그것을 설문 조사를 통해 적용하는 방법을 제공했습니다. Go-game에 깊은 학습이 적용되었습니다. 둘째, Go-game 연구 및 프로젝트에 필요한 거대한 자원을 보여주었습니다. 셋째, Go-game에 적용된 실험과이 분야에서의 작업을 보여주었습니다. 마지막으로 필자는 내 프로그램 (HuuDucGo), Orego 및 Fuego의 3 가지 프로그램을 비교했습니다. 그들 사이에 제안의 수렴은 다음을 보여줍니다 : HuuDucGo의 제안을 받아 들일 수 있습니다. 우리의 작업에 대한 특별한 실험 : Orego와 Fuego와 같은 다른 두 가지 큰 프로그램의 제안과 수렴되는 수용 가능한 결과를 가지고 Go- 게임을 할 때 다음 행동을 계산하고 제안하는 데 깊은 지식을 적용합니다."
+        },
+        {
+          "rank": 8,
+          "score": 0.5938388705253601,
+          "doc_id": "180",
+          "text": "딥러닝 기반의 딥 클러스터링 방법에 대한 분석 딥러닝 기반의 딥 클러스터링 방법에 대한 분석 딥러닝 기반의 딥 클러스터링 방법에 대한 분석 클러스터링은 데이터의 정답값(실제값)이 없는 데이터를 기반으로 데이터의 특징벡터의 거리 기반 등으로 군집화를 하는 비지도학습 방법이다. 이 방법은 이미지, 텍스트, 음성 등 다양한 데이터에 대해서 라벨링이 없이 적용할 수 있다는 장점이 있다. 기존 클러스터링을 하기 위해 차원축소 기법을 적용하거나 특정 특징만을 추출하여 군집화하는 방법이 적용되었다. 하지만 딥러닝 기반 모델이 발전하면서 입력 데이터를 잠재 벡터로 표현하는 오토인코더, 생성 적대적 네트워크 등을 통해서 딥 클러스터링의 기술이 연구가 되고 있다. 본 연구에서, 딥러닝 기반의 딥 클러스터링 기법을 제안하였다. 이 방법에서 오토인코더를 이용하여 입력 데이터를 잠재 벡터로 변환하고 이 잠재 벡터를 클러스터 구조에 맞게 벡터 공간을 구성 및 k-평균 클러스터링을 하였다. 실험 환경으로 pytorch 머신러닝 라이브러리를 이용하여 데이터셋으로 MNIST와 Fashion-MNIST을 적용하였다. 모델로는 컨볼루션 신경망 기반인 오토인코더 모델을 사용하였다. 실험결과로 k가 10일 때, MNIST에 대해서 89.42% 정확도를 가졌으며 Fashion-MNIST에 대해서 56.64% 정확도를 가진다."
+        },
+        {
+          "rank": 9,
+          "score": 0.5920226573944092,
+          "doc_id": "50",
+          "text": "Deep Learning 프레임워크 성능 비교 연구 : Cloud Computing 환경에서 Deep Learning 프레임워크 성능 비교 연구 : Cloud Computing 환경에서 Deep Learning 프레임워크 성능 비교 연구 : Cloud Computing 환경에서 통신 기술의 발달로 인한 사람과 사람, 장치와 장치, 사람과 장치 간의 연결성의 증가와 저장 매체 기술의 발달, 그리고 데이터 저장 비용의 감소로 인해 데이터의 양이 폭발적으로 증가했다. 이에 따라 다양한 형태의 대규모의 데이터를 빠른 시간 내에 효율적으로 처리할 수 있는 Cloud Computing 기술이 주목 받고 있고, Cloud Computing을 위한 오픈소스 기반의 솔루션 또한 많이 나타나게 되었다. &amp;#xD; 2012년부터 주목받기 시작한 Deep Learning은 전 세계적으로 가장 많은 관심을 받는 연구 분야 중 하나이며, 이중 CNN(Convolution Neural Network)은 가장 대표적 알고리즘이다. Deep Learning은 미래사회를 이끌어갈 분야로 평가받고 있으며, 이에 따라 많은 연구들이 진행되고 있고, Deep Learning을 쉽게 활용할 수 있도록 하는 많은 프레임워크가 개발되었다. &amp;#xD; 이에 따라 많은 사람들이 쉽게 Deep Learning을 접할 수 있게 되었지만 특정 환경에서 어떤 프레임워크가 더 우수한 성능을 보이는지에 대한 연구는 부족한 실정이다. 본 논문에서는 특정 환경에서의 성능 비교가 부족하다는 기존 연구의 한계점을 개선하고자 가장 대표적인 Cloud Computing용 오픈소스 소프트웨어 중 하나인 OpenStack을 이용하여 Cloud Computing 환경에서 어떤 Deep Learning 프레임워크가 더 우수한 성능을 보이는지 비교해 보고자 한다."
+        },
+        {
+          "rank": 10,
+          "score": 0.589190661907196,
+          "doc_id": "10",
+          "text": "딥 러닝 기반 머리 포즈 추정 및 얼굴 특징점 정렬에 관한 연구 딥 러닝 기반 머리 포즈 추정 및 얼굴 특징점 정렬에 관한 연구 딥 러닝 기반 머리 포즈 추정 및 얼굴 특징점 정렬에 관한 연구 컴퓨터 비전은 어떤 영상에서 장면이나 특징을 인식하는 분야로 근본적인 목적은 입체를 인식하거나 영상 내의 객체를 인식, 또는 객체 간의 관계를 이해하는 것이다. 1982년 D. Marr의 “Vision”이 출간된 이후 생물학적 접근에 의한 비전 연구가 주목을 받기 시작하면서 인공신경망을 이용한 컴퓨터 비전 연구가 활발히 진행되었다. 이후 1998년 Yann LeCun 등이 Convolutional Neural Network의 구조를 제안하였고, 이것이 초기의 CNN 모델이다. 본격적으로 Deep Learning이라는 용어는 Geoffrey Hinton에 의해서 사용되었다. 2006년 Geoffrey Hinton은 기존 신경망의 문제점을 해결하기 위해 Unsupervised Learning을 적용하는 방법을 제안하였다. 또한 최근 GPU의 발전으로 기존의 학습 속도의 한계를 극복하였고, 각종 Social Network Service(SNS)가 활발해 짐에 따라 다양한 형태의 데이터를 활용할 수 있게 되었다. 본 연구은 딥 러닝 기술 중 컴퓨터 비전에서 대표적으로 사용하는 Convolutional Neural Network(CNN)를 적용하여 사람의 머리 포즈를 추정하고 얼굴 특징점을 정렬하는 방법을 구현한다. 머리 포즈를 추정하기 위해서 CNN 중 분류(Classification)기법을 사용하고 각 층(Layer)의 수를 3, 4, 5개의 비지도학습(Unsupervised Learning)과 2개의 지도학습( Supervised Learning)을 이용한 구성을 비교하여 실험한다. 또한 입력 데이터의 채널 및 데이터의 양과 입력 방법에 따른 결과를 비교, 분석한다. 얼굴 특징점을 정렬하기 위해서 계층구조(Hierarchical Structure)를 사용하고 각 특징의 상관관계를 포함하지 않는 패치(Patch)를 적용하는 방법을 구현한다. 머리 포즈 추정에 사용한 데이터베이스는 ICT-3DHP, Biwi, GI4E와 자체 제작한 DB로 총 36,000장의 데이터를 사용하여 학습 및 실험을 한다. 또한 얼굴 특징점 정렬에 사용한 데이터베이스는 AFLW 10,000장을 학습하고 5,000장을 테스트한다. 머리 포즈 추정 실험의 오류를 측정하는 방법으로 Mean Absolute Error(MAE)를 사용하여 비교하였으며, Roll, Pitch, Yaw의 MAE는 각각 0.78, 0.99, 1.40의 값을 얻었다. 또한 얼굴 특징점 정렬은 Mean Absolute Percent Error(MAPE)를 사용하여 오차를 계산하였다. 21개의 각각의 특징점 평균 오차 약 1.0으로 기존의 평균보다 뛰어난 성능을 보인다. 이는 기존의 POSIT으로 추정한 값과 달리 얼굴 특징점을 사용하지 않고 영상만을 보고 판단할 수 있는 컴퓨터 비전에서 궁극적 형태의 새로운 학습 모델을 제안한다."
+        }
+      ]
+    },
+    {
+      "query": "해당 딥 러닝 모델의 출력 카테고리는 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 2
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6632357239723206,
+          "doc_id": "114",
+          "text": "Deep Learning and Mathematical Models in Dermatology Deep Learning and Mathematical Models in Dermatology Deep Learning and Mathematical Models in Dermatology 없음"
+        },
+        {
+          "rank": 2,
+          "score": 0.6473652720451355,
+          "doc_id": "220",
+          "text": "딥 러닝기반 고객평점 예측모델 딥 러닝기반 고객평점 예측모델 딥 러닝기반 고객평점 예측모델 인터넷의 발달과 휴대용 기기의 발달로 사용자들이 데이터를 생산하고, 공유하는 일들이 매우 자연스럽고 쉬운 일이 되었다. e-마켓플레스로 대변되는 온라인 쇼핑몰에서도 사용자들의 데이터 생산과 공유가 리뷰의 형식으로 활발하게 이루어지고 있다. 리뷰의 형식은 보통 정해진 형식이 없는 비 정형데이터인 텍스트와 제품에 대한 고객의 평점으로 이루어져있다. 이와 같이 형태로 적극적으로 공유된 정보들은 구매에 중요한 요소로 사용되고 있다. &amp;#xD; 본 논문에서는 이렇게 누적된 리뷰 데이터를 학습하여 고객의 평점을 예측하는 딥 러닝(Deep learning) 모델을 작성하고자 한다. 학습에 필요한 입력데이터 즉 고객의 특성에 관한 일반적인 정보는 쇼핑몰 내부에 있고, 개인 정보가 포함되어 있기 때문에 사용하기 어려운 문제점이 있다. 이를 극복하기 위해 리뷰 자체에서 고객의 특징(feature)을 추출하는 방법을 사용하였다. 비정형 리뷰 데이터에서 텍스트 마이닝 기법을 사용하여 정형화된 고객의 특징을 추출하였다.&amp;#xD; 실험 대상 제품은 11번가 쇼핑몰에서 하나의 화장품을 선정하였다. 최적의 딥 러닝 모델을 찾기 위하여 Drop-Out 및 Rectified Linear hidden Unite(ReLU)를 사용하며 결과를 평가하였다. 딥 러닝의 예측 결과는 고객 평점을 기반으로 하여 좋음, 보통, 나쁨 3가지를 출력 하도록 실험을 진행하였다. 실험을 통해 완성된 딥 러닝 모델이 출력하는 좋은, 보통, 나쁨 3가지 결과와 실제 고객이 입력 한 평점을 비교하였다. 실험 결과 90%의 정확도를 보였다."
+        },
+        {
+          "rank": 3,
+          "score": 0.6466294527053833,
+          "doc_id": "200",
+          "text": "딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 본 논문에서는 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조를 개발한다. 제안하는 복합 미생물 배양기는 수집한 복합 미생물 데이터에 대해 복합 미생물 데이터 전처리, 복합 미생물 데이터 구조 변환, 딥러닝 네트워크 설계, 설계한 딥러닝 네트워크 학습, 시제품에 적용되는 GUI 개발 등으로 구성된다. 복합 미생물 데이터 전처리에서는 미생물 배양에 필요한 당밀, 영양제, 식물엑기스, 소금 등의 양에 대해 원-핫 인코딩을 실시하며, 배양된 결과로 측정된 pH 농도와 미생물의 셀 수에 대해 최대-최소 정규화 방법을 사용하여 데이터를 전처리한다. 복합 미생물 데이터 구조 변환에서는 전처리된 데이터를 물 온도와 미생물의 셀 수를 연결하여 그래프 구조로 변환 후, 인접 행렬과 속성 정보로 나타내어 딥러닝 네트워크의 입력 데이터로 사용한다. 딥러닝 네트워크 설계에서는 그래프 구조에 특화된 그래프 합성곱 네트워크를 설계하여 복합 미생물 데이터를 학습시킨다. 설계한 딥러닝 네트워크는 Cosine 손실함수를 사용하여 학습 시에 발생하는 오차를 최소화하는 방향으로 학습을 진행한다. 시제품에 적용되는 GUI 개발은 사용자가 선택하는 물 온도에 따라 목표하는 pH 농도(3.8 이하) 복합 미생물의 셀 수(108 이상)를 배양시키기 적합한 순으로 나타낸다. 제안된 미생물 배양기의 성능을 평가하기 위하여 공인시험기관에서 실험한 결과는, pH 농도의 경우 평균 3.7로, 복합 미생물의 셀 수는 1.7 &#x00D7; 108으로 측정되었다. 따라서, 본 논문에서 제안한 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조의 효용성이 입증되었다."
+        },
+        {
+          "rank": 4,
+          "score": 0.6457701921463013,
+          "doc_id": "123",
+          "text": "딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝은 인공신경망(neural network)이라는 인공지능분야의 모형이 발전된 형태로서, 계층구조로 이루어진 인공신경망의 내부계층(hidden layer)이 여러 단계로 이루어진 구조이다. 딥러닝에서의 주요 모형은 합성곱신경망(convolutional neural network), 순환신경망(recurrent neural network), 그리고 심층신뢰신경망(deep belief network)의 세가지라고 할 수 있다. 그 중에서 현재 흥미로운 연구가 많이 발표되어서 관심이 집중되고 있는 모형은 지도학습(supervised learning)모형인 처음 두 개의 모형이다. 따라서 본 논문에서는 지도학습모형의 가중치를 최적화하는 기본적인 방법인 오류역전파 알고리즘을 살펴본 뒤에 합성곱신경망과 순환신경망의 구조와 응용사례 등을 살펴보고자 한다. 본문에서 다루지 않은 모형인 심층신뢰신경망은 아직까지는 합성곱신경망 이나 순환신경망보다는 상대적으로 주목을 덜 받고 있다. 그러나 심층신뢰신경망은 CNN이나 RNN과는 달리 비지도학습(unsupervised learning)모형이며, 사람이나 동물은 관찰을 통해서 스스로 학습한다는 점에서 궁극적으로는 비지도학습모형이 더 많이 연구되어야 할 주제가 될 것이다."
+        },
+        {
+          "rank": 5,
+          "score": 0.6274228692054749,
+          "doc_id": "175",
+          "text": "딥 러닝을 이용한 DC 모터 제어 딥 러닝을 이용한 DC 모터 제어 딥 러닝을 이용한 DC 모터 제어 딥 러닝(deep learning)은 최근에 많이 알려지게 된 심층 인공신경망 알고리즘이다. 일반적인 인공신경망보다 은닉층의 개수와 뉴런의 개수를 확장시키고, 학습이 효율적으로 될 수 있게 알고리즘을 개선한 것이 가장 큰 특징이다. 이러한 특징을 활용하여 기존의 인공신경망으로 풀지 못했던 크고 복잡한 문제들을 해결할 수 있게 되었다. 음성인식, 손 글씨 인식, 얼굴 인식 등 복잡한 패턴인식과 분류에 관련된 다양한 분야에 대한 적용 연구가 활발히 진행되고 있다. 하지만 이러한 장점에도 불구하고, 아직까지 딥 러닝이 제어문제를 해결하기 위해 적용된 사례는 찾아보기 어렵다. 본 논문에서는 간단한 사례를 통해 딥 러닝의 제어문제에 대한 적용 가능성을 확인해 본다. 딥 러닝 알고리즘 중에서 가장 잘 알려진, 깊은 믿음 네트워크(deep belief network) 알고리즘을 사용하여 산업현장에서 가장 많이 사용되고 있는 PID 제어기를 모방하는 딥 러닝 제어기를 설계한다. DC 모터를 제어하는 시스템에서 PID 제어기에 들어오는 입력과 PID 제어기에서 나오는 출력값을 학습 데이터로 사용하여 딥 러닝으로 학습하는 방법을 사용한다. 시뮬레이션을 통해 제안한 딥 러닝 제어기와 PID 제어기를 비교하여 딥 러닝 알고리즘의 성능을 검증한다."
+        },
+        {
+          "rank": 6,
+          "score": 0.626010537147522,
+          "doc_id": "179",
+          "text": "Deep Structured Learning: Architectures and Applications Deep Structured Learning: Architectures and Applications Deep Structured Learning: Architectures and Applications Deep learning, a sub-field of machine learning changing the prospects of artificial intelligence (AI) because of its recent advancements and application in various field. Deep learning deals with algorithms inspired by the structure and function of the brain called artificial neural networks. This works reviews basic architecture and recent advancement of deep structured learning. It also describes contemporary applications of deep structured learning and its advantages over the treditional learning in artificial interlligence. This study is useful for the general readers and students who are in the early stage of deep learning studies."
+        },
+        {
+          "rank": 7,
+          "score": 0.6234513521194458,
+          "doc_id": "18",
+          "text": "Deep Learning 기반의 DGA 개발에 대한 연구 Deep Learning 기반의 DGA 개발에 대한 연구 Deep Learning 기반의 DGA 개발에 대한 연구 Recently, there are many companies that use systems based on artificial intelligence. The accuracy of artificial intelligence depends on the amount of learning data and the appropriate algorithm. However, it is not easy to obtain learning data with a large number of entity. Less data set have large generalization errors due to overfitting. In order to minimize this generalization error, this study proposed DGA which can expect relatively high accuracy even though data with a less data set is applied to machine learning based genetic algorithm to deep learning based dropout. The idea of this paper is to determine the active state of the nodes. Using Gradient about loss function, A new fitness function is defined. Proposed Algorithm DGA is supplementing stochastic inconsistency about Dropout. Also DGA solved problem by the complexity of the fitness function and expression range of the model about Genetic Algorithm As a result of experiments using MNIST data proposed algorithm accuracy is 75.3%. Using only Dropout algorithm accuracy is 41.4%. It is shown that DGA is better than using only dropout."
+        },
+        {
+          "rank": 8,
+          "score": 0.6176819801330566,
+          "doc_id": "83",
+          "text": "Machine Learning and Cryptography Machine Learning and Cryptography Machine Learning and Cryptography 없음"
+        },
+        {
+          "rank": 9,
+          "score": 0.6171191334724426,
+          "doc_id": "14",
+          "text": "Emulearner: Deep Learning Library for Utilizing Emulab Emulearner: Deep Learning Library for Utilizing Emulab Emulearner: Deep Learning Library for Utilizing Emulab Recently, deep learning has been actively studied and applied in various fields even to novel writing and painting in ways we could not imagine before. A key feature is that high-performance computing device, especially CUDA-enabled GPU, supports this trend. Researchers who have difficulty accessing such systems fall behind in this fast-changing trend. In this study, we propose and implement a library called Emulearner that helps users to utilize Emulab with ease. Emulab is a research framework equipped with up to thousands of nodes developed by the University of Utah. To use Emulab nodes for deep learning requires a lot of human interactions, however. To solve this problem, Emulearner completely automates operations from authentication of Emulab log-in, node creation, configuration of deep learning to training. By installing Emulearner with a legitimate Emulab account, users can focus on their research on deep learning without hassle."
+        },
+        {
+          "rank": 10,
+          "score": 0.6141842007637024,
+          "doc_id": "31",
+          "text": "딥러닝 알고리즘에 기반한 기업부도 예측 딥러닝 알고리즘에 기반한 기업부도 예측 딥러닝 알고리즘에 기반한 기업부도 예측 기업의 부도는 국가경제에 막대한 손실을 입히며, 해당기업의 이해관계자들 모두에게 경제적 손실을 초래하고 사회적 부를 감소시킨다. 따라서 기업의 부도를 좀 더 정확하게 예측하는 것은 사회적·경제적 측면에서 매우 중요한 연구라 할 수 있다. &amp;#xD; 이에 최근 이미지 인식, 음성 인식, 자연어 처리 등 여러 분야에서 우수한 예측력을 보여주고 있는 딥러닝(Deep Learning)을 기업부도예측에 이용하고자 하며, 본 논문에서는 기업부도예측 방법으로 여러 딥러닝 알고리즘 중 DBN(Deep Belief Network)을 제안한다. 기존에 사용되던 분석기법 대비 우수성을 확인하기 위해 최근까지 기업부도예측에서 연구되고 있는 SVM(Support Vector Machine)과 비교하고자 하였으며, 1999년부터 2015년 사이에 국내 코스닥·코스피에 상장된 비금융업의 기업데이터를 이용하였다. 건실기업의 수는 1669개, 부도기업의 수는 495개이며, 한국은행의 기업경영분석에서 소개된 재무비율 변수를 이용하여 분석을 진행하였다. 분석결과 DBN이 SVM보다 여러 평가척도에서 더 좋은 성능을 보였다. 특히 시험데이터에 대해 부도기업을 부도기업으로 예측하는 민감도에서 5%이상의 더 뛰어난 성능을 보였으며, 이에 기업부도예측분야에 딥러닝의 적용가능성을 확인해 볼 수 있었다."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

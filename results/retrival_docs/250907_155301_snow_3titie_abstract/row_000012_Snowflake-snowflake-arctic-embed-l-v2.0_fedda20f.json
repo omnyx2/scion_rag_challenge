@@ -1,0 +1,221 @@
+{
+  "id": "row_000012",
+  "model_name": "Snowflake/snowflake-arctic-embed-l-v2.0",
+  "timestamp_kst": "2025-09-07T15:53:03.387543+09:00",
+  "trial_id": "fedda20f",
+  "queries": [
+    {
+      "query": "Can you outline the main advances and challenges in applying artificial intelligence and Big Data to medical imaging in neurology?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5575725436210632,
+          "doc_id": "204",
+          "text": "Artificial intelligence and Big Data in neurology Artificial intelligence and Big Data in neurology Artificial intelligence and Big Data in neurology ABSTRACTRecent advances in technology have allowed us access to a multitude of datasets pertaining to various dimensions in neurology. Together with the enormous opportunities, we also face challenges related to data quality, ethics and intrinsic difficulties related to the application of data science in healthcare. In this article we will describe the main advances in the field of artificial intelligence and Big Data applied to neurology with a focus on neurosciences based on medical images. Real-World Data (RWD) and analytics related to large volumes of information will be described as well as some of the most relevant scientific initiatives at the time of this writing."
+        },
+        {
+          "rank": 2,
+          "score": 0.47640490531921387,
+          "doc_id": "103",
+          "text": "Artificial Intelligence in Neuroimaging: Clinical Applications Artificial Intelligence in Neuroimaging: Clinical Applications Artificial Intelligence in Neuroimaging: Clinical Applications Artificial intelligence (AI) powered by deep learning (DL) has shown remarkable progress in image recognition tasks. Over the past decade, AI has proven its feasibility for applications in medical imaging. Various aspects of clinical practice in neuroimaging can be improved with the help of AI. For example, AI can aid in detecting brain metastases, predicting treatment response of brain tumors, generating a parametric map of dynamic contrast-enhanced MRI, and enhancing radiomics research by extracting salient features from input images. In addition, image quality can be improved via AI-based image reconstruction or motion artifact reduction. In this review, we summarize recent clinical applications of DL in various aspects of neuroimaging."
+        },
+        {
+          "rank": 3,
+          "score": 0.45668697357177734,
+          "doc_id": "17",
+          "text": "Artificial Intelligence in Nephrology: How Can Artificial Intelligence Augment Nephrologists’ Intelligence? Artificial Intelligence in Nephrology: How Can Artificial Intelligence Augment Nephrologists’ Intelligence? Artificial Intelligence in Nephrology: How Can Artificial Intelligence Augment Nephrologists’ Intelligence? Background: Artificial intelligence (AI) now plays a critical role in almost every area of our daily lives and academic disciplines due to the growth of computing power, advances in methods and techniques, and the explosion of the amount of data; medicine is not an exception. Rather than replacing clinicians, AI is augmenting the intelligence of clinicians in diagnosis, prognosis, and treatment decisions. Summary: Kidney disease is a substantial medical and public health burden globally, with both acute kidney injury and chronic kidney disease bringing about high morbidity and mortality as well as a huge economic burden. Even though the existing research and applied works have made certain contributions to more accurate prediction and better understanding of histologic pathology, there is a lot more work to be done and problems to solve. Key Messages: AI applications of diagnostics and prognostics for high-prevalence and high-morbidity types of nephropathy in medical-resource-inadequate areas need special attention; high-volume and high-quality data need to be collected and prepared; a consensus on ethics and safety in the use of AI technologies needs to be built."
+        },
+        {
+          "rank": 4,
+          "score": 0.4536402225494385,
+          "doc_id": "164",
+          "text": "Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade 없음"
+        },
+        {
+          "rank": 5,
+          "score": 0.45016664266586304,
+          "doc_id": "206",
+          "text": "O&ugrave; en est t’on du Big Data en m&eacute;decine ? O&ugrave; en est t’on du Big Data en m&eacute;decine ? O&ugrave; en est t’on du Big Data en m&eacute;decine ? Abstract Opening of medical datas and files is nowadays an important challenge. French Government increments new rules to allow access to these data files."
+        },
+        {
+          "rank": 6,
+          "score": 0.44951131939888,
+          "doc_id": "208",
+          "text": "For Big Data, Big Questions Remain For Big Data, Big Questions Remain For Big Data, Big Questions Remain Medicare&#x2019;s release of practitioner payments highlights the strengths and weaknesses of digging into big data."
+        },
+        {
+          "rank": 7,
+          "score": 0.4421863257884979,
+          "doc_id": "97",
+          "text": "&#x201e;Machine learning“ in der An&auml;sthesiologie &#x201e;Machine learning“ in der An&auml;sthesiologie &#x201e;Machine learning“ in der An&auml;sthesiologie 없음"
+        },
+        {
+          "rank": 8,
+          "score": 0.43820762634277344,
+          "doc_id": "60",
+          "text": "Artificial intelligence Artificial intelligence Artificial intelligence AI has been well supported by government research and development dollars for decades now, and people are beginning to ask hard questions: What really works? What are the limits? What doesn't work as advertised? What isn't likely to work? What isn't affordable? This article holds a mirror up to the community, both to provide feedback and stimulate more self-assessment. The significant accomplishments and strengths of the field are highlighted. The research agenda, strategy, and heuristics are reviewed, and a change of course is recommended to improve the field's ability to produce reusable and interoperable components.(Author abstract)"
+        },
+        {
+          "rank": 9,
+          "score": 0.43267548084259033,
+          "doc_id": "196",
+          "text": "Nursing Needs Big Data and Big Data Needs Nursing Nursing Needs Big Data and Big Data Needs Nursing Nursing Needs Big Data and Big Data Needs Nursing AbstractPurposeContemporary big data initiatives in health care will benefit from greater integration with nursing science and nursing practice; in turn, nursing science and nursing practice has much to gain from the data science initiatives. Big data arises secondary to scholarly inquiry (e.g., &#8208;omics) and everyday observations like cardiac flow sensors or Twitter feeds. Data science methods that are emerging ensure that these data be leveraged to improve patient care.Organizing ConstructBig data encompasses data that exceed human comprehension, that exist at a volume unmanageable by standard computer systems, that arrive at a velocity not under the control of the investigator and possess a level of imprecision not found in traditional inquiry. Data science methods are emerging to manage and gain insights from big data.MethodsThe primary methods included investigation of emerging federal big data initiatives, and exploration of exemplars from nursing informatics research to benchmark where nursing is already poised to participate in the big data revolution. We provide observations and reflections on experiences in the emerging big data initiatives.ConclusionsExisting approaches to large data set analysis provide a necessary but not sufficient foundation for nursing to participate in the big data revolution. Nursing's Social Policy Statement guides a principled, ethical perspective on big data and data science. There are implications for basic and advanced practice clinical nurses in practice, for the nurse scientist who collaborates with data scientists, and for the nurse data scientist.Clinical RelevanceBig data and data science has the potential to provide greater richness in understanding patient phenomena and in tailoring interventional strategies that are personalized to the patient."
+        },
+        {
+          "rank": 10,
+          "score": 0.41382521390914917,
+          "doc_id": "43",
+          "text": "Enjeux des big data en sant&eacute; Enjeux des big data en sant&eacute; Enjeux des big data en sant&eacute; Summary The government has commissioned a report on the topic, the Estates General on Bioethics refer to it and the Order of Doctors have published a white paper. Everybody is talking about big data and artificial intelligence but few have witnessed these innovations at work, innovations which now seem to be within reach of health professionals. This field, unknown to the general public a few years ago, has become an object of all fantasies and is bringing about a new industrial revolution."
+        }
+      ]
+    },
+    {
+      "query": "What are the main advances in applying artificial intelligence and Big Data to medical imaging in neurology?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5626810789108276,
+          "doc_id": "204",
+          "text": "Artificial intelligence and Big Data in neurology Artificial intelligence and Big Data in neurology Artificial intelligence and Big Data in neurology ABSTRACTRecent advances in technology have allowed us access to a multitude of datasets pertaining to various dimensions in neurology. Together with the enormous opportunities, we also face challenges related to data quality, ethics and intrinsic difficulties related to the application of data science in healthcare. In this article we will describe the main advances in the field of artificial intelligence and Big Data applied to neurology with a focus on neurosciences based on medical images. Real-World Data (RWD) and analytics related to large volumes of information will be described as well as some of the most relevant scientific initiatives at the time of this writing."
+        },
+        {
+          "rank": 2,
+          "score": 0.4957274794578552,
+          "doc_id": "103",
+          "text": "Artificial Intelligence in Neuroimaging: Clinical Applications Artificial Intelligence in Neuroimaging: Clinical Applications Artificial Intelligence in Neuroimaging: Clinical Applications Artificial intelligence (AI) powered by deep learning (DL) has shown remarkable progress in image recognition tasks. Over the past decade, AI has proven its feasibility for applications in medical imaging. Various aspects of clinical practice in neuroimaging can be improved with the help of AI. For example, AI can aid in detecting brain metastases, predicting treatment response of brain tumors, generating a parametric map of dynamic contrast-enhanced MRI, and enhancing radiomics research by extracting salient features from input images. In addition, image quality can be improved via AI-based image reconstruction or motion artifact reduction. In this review, we summarize recent clinical applications of DL in various aspects of neuroimaging."
+        },
+        {
+          "rank": 3,
+          "score": 0.4574022889137268,
+          "doc_id": "97",
+          "text": "&#x201e;Machine learning“ in der An&auml;sthesiologie &#x201e;Machine learning“ in der An&auml;sthesiologie &#x201e;Machine learning“ in der An&auml;sthesiologie 없음"
+        },
+        {
+          "rank": 4,
+          "score": 0.4515431523323059,
+          "doc_id": "164",
+          "text": "Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade 없음"
+        },
+        {
+          "rank": 5,
+          "score": 0.45018470287323,
+          "doc_id": "17",
+          "text": "Artificial Intelligence in Nephrology: How Can Artificial Intelligence Augment Nephrologists’ Intelligence? Artificial Intelligence in Nephrology: How Can Artificial Intelligence Augment Nephrologists’ Intelligence? Artificial Intelligence in Nephrology: How Can Artificial Intelligence Augment Nephrologists’ Intelligence? Background: Artificial intelligence (AI) now plays a critical role in almost every area of our daily lives and academic disciplines due to the growth of computing power, advances in methods and techniques, and the explosion of the amount of data; medicine is not an exception. Rather than replacing clinicians, AI is augmenting the intelligence of clinicians in diagnosis, prognosis, and treatment decisions. Summary: Kidney disease is a substantial medical and public health burden globally, with both acute kidney injury and chronic kidney disease bringing about high morbidity and mortality as well as a huge economic burden. Even though the existing research and applied works have made certain contributions to more accurate prediction and better understanding of histologic pathology, there is a lot more work to be done and problems to solve. Key Messages: AI applications of diagnostics and prognostics for high-prevalence and high-morbidity types of nephropathy in medical-resource-inadequate areas need special attention; high-volume and high-quality data need to be collected and prepared; a consensus on ethics and safety in the use of AI technologies needs to be built."
+        },
+        {
+          "rank": 6,
+          "score": 0.44483453035354614,
+          "doc_id": "60",
+          "text": "Artificial intelligence Artificial intelligence Artificial intelligence AI has been well supported by government research and development dollars for decades now, and people are beginning to ask hard questions: What really works? What are the limits? What doesn't work as advertised? What isn't likely to work? What isn't affordable? This article holds a mirror up to the community, both to provide feedback and stimulate more self-assessment. The significant accomplishments and strengths of the field are highlighted. The research agenda, strategy, and heuristics are reviewed, and a change of course is recommended to improve the field's ability to produce reusable and interoperable components.(Author abstract)"
+        },
+        {
+          "rank": 7,
+          "score": 0.4390837252140045,
+          "doc_id": "15",
+          "text": "Artificial intelligence, machine learning, and deep learning in women’s health nursing Artificial intelligence, machine learning, and deep learning in women’s health nursing Artificial intelligence, machine learning, and deep learning in women’s health nursing Artificial intelligence (AI), which includes machine learning and deep learning has been introduced to nursing care in recent years. The present study reviews the following topics: the concepts of AI, machine learning, and deep learning; examples of AI-based nursing research; the necessity of education on AI in nursing schools; and the areas of nursing care where AI is useful. AI refers to an intelligent system consisting not of a human, but a machine. Machine learning refers to computers’ ability to learn without being explicitly programmed. Deep learning is a subset of machine learning that uses artificial neural networks consisting of multiple hidden layers. It is suggested that the educational curriculum should include big data, the concept of AI, algorithms and models of machine learning, the model of deep learning, and coding practice. The standard curriculum should be organized by the nursing society. An example of an area of nursing care where AI is useful is prenatal nursing interventions based on pregnant women’s nursing records and AI-based prediction of the risk of delivery according to pregnant women’s age. Nurses should be able to cope with the rapidly developing environment of nursing care influenced by AI and should understand how to apply AI in their field. It is time for Korean nurses to take steps to become familiar with AI in their research, education, and practice."
+        },
+        {
+          "rank": 8,
+          "score": 0.43634292483329773,
+          "doc_id": "196",
+          "text": "Nursing Needs Big Data and Big Data Needs Nursing Nursing Needs Big Data and Big Data Needs Nursing Nursing Needs Big Data and Big Data Needs Nursing AbstractPurposeContemporary big data initiatives in health care will benefit from greater integration with nursing science and nursing practice; in turn, nursing science and nursing practice has much to gain from the data science initiatives. Big data arises secondary to scholarly inquiry (e.g., &#8208;omics) and everyday observations like cardiac flow sensors or Twitter feeds. Data science methods that are emerging ensure that these data be leveraged to improve patient care.Organizing ConstructBig data encompasses data that exceed human comprehension, that exist at a volume unmanageable by standard computer systems, that arrive at a velocity not under the control of the investigator and possess a level of imprecision not found in traditional inquiry. Data science methods are emerging to manage and gain insights from big data.MethodsThe primary methods included investigation of emerging federal big data initiatives, and exploration of exemplars from nursing informatics research to benchmark where nursing is already poised to participate in the big data revolution. We provide observations and reflections on experiences in the emerging big data initiatives.ConclusionsExisting approaches to large data set analysis provide a necessary but not sufficient foundation for nursing to participate in the big data revolution. Nursing's Social Policy Statement guides a principled, ethical perspective on big data and data science. There are implications for basic and advanced practice clinical nurses in practice, for the nurse scientist who collaborates with data scientists, and for the nurse data scientist.Clinical RelevanceBig data and data science has the potential to provide greater richness in understanding patient phenomena and in tailoring interventional strategies that are personalized to the patient."
+        },
+        {
+          "rank": 9,
+          "score": 0.429076611995697,
+          "doc_id": "206",
+          "text": "O&ugrave; en est t’on du Big Data en m&eacute;decine ? O&ugrave; en est t’on du Big Data en m&eacute;decine ? O&ugrave; en est t’on du Big Data en m&eacute;decine ? Abstract Opening of medical datas and files is nowadays an important challenge. French Government increments new rules to allow access to these data files."
+        },
+        {
+          "rank": 10,
+          "score": 0.4248204231262207,
+          "doc_id": "216",
+          "text": "A Study on Artificial Intelligence A Study on Artificial Intelligence A Study on Artificial Intelligence 없음"
+        }
+      ]
+    },
+    {
+      "query": "What are the main challenges in applying artificial intelligence and Big Data to medical imaging in neurology?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5570911169052124,
+          "doc_id": "204",
+          "text": "Artificial intelligence and Big Data in neurology Artificial intelligence and Big Data in neurology Artificial intelligence and Big Data in neurology ABSTRACTRecent advances in technology have allowed us access to a multitude of datasets pertaining to various dimensions in neurology. Together with the enormous opportunities, we also face challenges related to data quality, ethics and intrinsic difficulties related to the application of data science in healthcare. In this article we will describe the main advances in the field of artificial intelligence and Big Data applied to neurology with a focus on neurosciences based on medical images. Real-World Data (RWD) and analytics related to large volumes of information will be described as well as some of the most relevant scientific initiatives at the time of this writing."
+        },
+        {
+          "rank": 2,
+          "score": 0.47161954641342163,
+          "doc_id": "103",
+          "text": "Artificial Intelligence in Neuroimaging: Clinical Applications Artificial Intelligence in Neuroimaging: Clinical Applications Artificial Intelligence in Neuroimaging: Clinical Applications Artificial intelligence (AI) powered by deep learning (DL) has shown remarkable progress in image recognition tasks. Over the past decade, AI has proven its feasibility for applications in medical imaging. Various aspects of clinical practice in neuroimaging can be improved with the help of AI. For example, AI can aid in detecting brain metastases, predicting treatment response of brain tumors, generating a parametric map of dynamic contrast-enhanced MRI, and enhancing radiomics research by extracting salient features from input images. In addition, image quality can be improved via AI-based image reconstruction or motion artifact reduction. In this review, we summarize recent clinical applications of DL in various aspects of neuroimaging."
+        },
+        {
+          "rank": 3,
+          "score": 0.46504953503608704,
+          "doc_id": "60",
+          "text": "Artificial intelligence Artificial intelligence Artificial intelligence AI has been well supported by government research and development dollars for decades now, and people are beginning to ask hard questions: What really works? What are the limits? What doesn't work as advertised? What isn't likely to work? What isn't affordable? This article holds a mirror up to the community, both to provide feedback and stimulate more self-assessment. The significant accomplishments and strengths of the field are highlighted. The research agenda, strategy, and heuristics are reviewed, and a change of course is recommended to improve the field's ability to produce reusable and interoperable components.(Author abstract)"
+        },
+        {
+          "rank": 4,
+          "score": 0.45600685477256775,
+          "doc_id": "208",
+          "text": "For Big Data, Big Questions Remain For Big Data, Big Questions Remain For Big Data, Big Questions Remain Medicare&#x2019;s release of practitioner payments highlights the strengths and weaknesses of digging into big data."
+        },
+        {
+          "rank": 5,
+          "score": 0.4523927569389343,
+          "doc_id": "206",
+          "text": "O&ugrave; en est t’on du Big Data en m&eacute;decine ? O&ugrave; en est t’on du Big Data en m&eacute;decine ? O&ugrave; en est t’on du Big Data en m&eacute;decine ? Abstract Opening of medical datas and files is nowadays an important challenge. French Government increments new rules to allow access to these data files."
+        },
+        {
+          "rank": 6,
+          "score": 0.44084545969963074,
+          "doc_id": "17",
+          "text": "Artificial Intelligence in Nephrology: How Can Artificial Intelligence Augment Nephrologists’ Intelligence? Artificial Intelligence in Nephrology: How Can Artificial Intelligence Augment Nephrologists’ Intelligence? Artificial Intelligence in Nephrology: How Can Artificial Intelligence Augment Nephrologists’ Intelligence? Background: Artificial intelligence (AI) now plays a critical role in almost every area of our daily lives and academic disciplines due to the growth of computing power, advances in methods and techniques, and the explosion of the amount of data; medicine is not an exception. Rather than replacing clinicians, AI is augmenting the intelligence of clinicians in diagnosis, prognosis, and treatment decisions. Summary: Kidney disease is a substantial medical and public health burden globally, with both acute kidney injury and chronic kidney disease bringing about high morbidity and mortality as well as a huge economic burden. Even though the existing research and applied works have made certain contributions to more accurate prediction and better understanding of histologic pathology, there is a lot more work to be done and problems to solve. Key Messages: AI applications of diagnostics and prognostics for high-prevalence and high-morbidity types of nephropathy in medical-resource-inadequate areas need special attention; high-volume and high-quality data need to be collected and prepared; a consensus on ethics and safety in the use of AI technologies needs to be built."
+        },
+        {
+          "rank": 7,
+          "score": 0.4388431906700134,
+          "doc_id": "164",
+          "text": "Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade 없음"
+        },
+        {
+          "rank": 8,
+          "score": 0.43877848982810974,
+          "doc_id": "97",
+          "text": "&#x201e;Machine learning“ in der An&auml;sthesiologie &#x201e;Machine learning“ in der An&auml;sthesiologie &#x201e;Machine learning“ in der An&auml;sthesiologie 없음"
+        },
+        {
+          "rank": 9,
+          "score": 0.43565329909324646,
+          "doc_id": "140",
+          "text": "Sharing Big Data Sharing Big Data Sharing Big Data Macromolecular Big Data provide numerous challenges and a number of initiatives that are starting to overcome these issues are discussed."
+        },
+        {
+          "rank": 10,
+          "score": 0.43519657850265503,
+          "doc_id": "120",
+          "text": "Big Data Key Challenges Big Data Key Challenges Big Data Key Challenges The big data term refers to the great volume of data and complicated data structure with difficulties in collecting, storing, processing, and analyzing these data. Big data analytics refers to the operation of disclosing hidden patterns through big data. This information and data set cloud to be useful and provide advanced services. However, analyzing and processing this information could cause revealing and disclosing some sensitive and personal information when the information is contained in applications that are correlated to users such as location-based services, but concerns are diminished if the applications are correlated to general information such as scientific results. In this work, a survey has been done over security and privacy challenges and approaches in big data. The challenges included here are in each of the following areas: privacy, access control, encryption, and authentication in big data. Likewise, the approaches presented here are privacy-preserving approaches in big data, access control approaches in big data, encryption approaches in big data, and authentication approaches in big data."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

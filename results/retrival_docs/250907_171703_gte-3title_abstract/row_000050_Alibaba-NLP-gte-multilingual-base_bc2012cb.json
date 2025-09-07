@@ -1,0 +1,221 @@
+{
+  "id": "row_000050",
+  "model_name": "Alibaba-NLP/gte-multilingual-base",
+  "timestamp_kst": "2025-09-07T17:17:06.461242+09:00",
+  "trial_id": "bc2012cb",
+  "queries": [
+    {
+      "query": "Lifelong Machine Learning 앙상블 방식으로 스팸 메시지 필터링 성능을 개선한 방법의 주요 아이디어와 장점을 간결하게 제시해 주실 수 있나요?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5884578824043274,
+          "doc_id": "192",
+          "text": "USING MACHINE LEARNING METHODS IN CYBERSECURITY USING MACHINE LEARNING METHODS IN CYBERSECURITY USING MACHINE LEARNING METHODS IN CYBERSECURITY Abstract Cybersecurity is an ever-changing field, with advances in technology that open up new opportunities for cyberattacks. In addition, even though serious secu- rity breaches are often reported, small organizations still have to worry about security breaches as they can often be the target of viruses and phishing. This is why it is so important to ensure the privacy of your user profile in cyberspace. The past few years have seen a rise in machine learning algorithms that address major cybersecu- rity issues such as intrusion detection systems (IDS), detection of new modifications of known malware, malware, and spam detection, and malware analysis. In this arti- cle, algorithms have been analyzed using data mining collected from various libraries, and analytics with additional emerging data-driven models to provide more effective security solutions. In addition, an analysis was carried out of companies that are en- gaged in cyber attacks using machine learning. According to the research results, it was revealed that the concept of cybersecurity data science allows you to make the computing process more efficient and intelligent compared to traditional processes in the field of cybersecurity. As a result, according to the results of the study, it was revealed that machine learning, namely unsupervised learning, is an effective method of dealing with risks in cybersecurity and cyberattacks."
+        },
+        {
+          "rank": 2,
+          "score": 0.5867851376533508,
+          "doc_id": "214",
+          "text": "An Efficient Parallel Machine Learning-based Blockchain Framework An Efficient Parallel Machine Learning-based Blockchain Framework An Efficient Parallel Machine Learning-based Blockchain Framework The unlimited possibilities of machine learning have been shown in several successful reports and applications. However, how to make sure that the searched results of a machine learning system are not tampered by anyone and how to prevent the other users in the same network environment from easily getting our private data are two critical research issues when we immerse into powerful machine learning-based systems or applications. This situation is just like other modern information systems that confront security and privacy issues. The development of blockchain provides us an alternative way to address these two issues. That is why some recent studies have attempted to develop machine learning systems with blockchain technologies or to apply machine learning methods to blockchain systems. To show what the combination of blockchain and machine learning is capable of doing, in this paper, we proposed a parallel framework to find out suitable hyperparameters of deep learning in a blockchain environment by using a metaheuristic algorithm. The proposed framework also takes into account the issue of communication cost, by limiting the number of information exchanges between miners and blockchain."
+        },
+        {
+          "rank": 3,
+          "score": 0.5861102938652039,
+          "doc_id": "128",
+          "text": "Machine learning-based adaptive CSI feedback interval Machine learning-based adaptive CSI feedback interval Machine learning-based adaptive CSI feedback interval The channel state information (CSI) is essential for the base station (BS) to schedule user equipments (UEs) and efficiently manage the radio resources. Hence, the BS requests UEs to regularly feed back the CSI. However, frequent CSI reporting causes large signaling overhead. To reduce the feedback overhead, we propose two machine learning-based approaches to adjust the CSI feedback interval. We use a deep neural network and reinforcement learning (RL) to decide whether an UE feeds back the CSI. Simulation results show that the RL-based approach achieves the lowest mean squared error while reducing the number of CSI feedback transmissions."
+        },
+        {
+          "rank": 4,
+          "score": 0.5733011960983276,
+          "doc_id": "33",
+          "text": "Machine Learning을 이용한 자동 돌발상황검지 Machine Learning을 이용한 자동 돌발상황검지 Machine Learning을 이용한 자동 돌발상황검지 Incidents on the freeway disrupt traffic flow and the cost of delay caused by incidents is significant. To reduce the impact of an incident, a traffic management center needs to quickly detect and remove it from the freeway. Quick and efficient automatic incident detection has been a main goal of the transportation research for many years. Also many algorithms based on loop detector data have been developed and tested for the Automatic Incident Detection(AID). However, many of them have a limited success in their overall performance in terms of detection rate, false alarm rate, and the mean time to detect an incident. Until recently, the neural network models have been the one of the popular and efficient approach for real-time automatic incident detection and many researches have shown that the neural network models were much more efficient than various other previous models. The purpose of this research is to propose a more efficient and accurate model than the neural network model in the automatic incident detection problem. For this purpose, a machine learning model, Support Vector Machine (SVM) learning which is based on the statistical learning theory, has been used in this paper. The experiments have been done with real world freeway data, and the results show that the SVM could provide better performance in terms of DR(Detection Rate) and FAR(False Alarm Rate) than Backpropagation which is the most popular neural network model."
+        },
+        {
+          "rank": 5,
+          "score": 0.5712666511535645,
+          "doc_id": "180",
+          "text": "딥러닝 기반의 딥 클러스터링 방법에 대한 분석 딥러닝 기반의 딥 클러스터링 방법에 대한 분석 딥러닝 기반의 딥 클러스터링 방법에 대한 분석 클러스터링은 데이터의 정답값(실제값)이 없는 데이터를 기반으로 데이터의 특징벡터의 거리 기반 등으로 군집화를 하는 비지도학습 방법이다. 이 방법은 이미지, 텍스트, 음성 등 다양한 데이터에 대해서 라벨링이 없이 적용할 수 있다는 장점이 있다. 기존 클러스터링을 하기 위해 차원축소 기법을 적용하거나 특정 특징만을 추출하여 군집화하는 방법이 적용되었다. 하지만 딥러닝 기반 모델이 발전하면서 입력 데이터를 잠재 벡터로 표현하는 오토인코더, 생성 적대적 네트워크 등을 통해서 딥 클러스터링의 기술이 연구가 되고 있다. 본 연구에서, 딥러닝 기반의 딥 클러스터링 기법을 제안하였다. 이 방법에서 오토인코더를 이용하여 입력 데이터를 잠재 벡터로 변환하고 이 잠재 벡터를 클러스터 구조에 맞게 벡터 공간을 구성 및 k-평균 클러스터링을 하였다. 실험 환경으로 pytorch 머신러닝 라이브러리를 이용하여 데이터셋으로 MNIST와 Fashion-MNIST을 적용하였다. 모델로는 컨볼루션 신경망 기반인 오토인코더 모델을 사용하였다. 실험결과로 k가 10일 때, MNIST에 대해서 89.42% 정확도를 가졌으며 Fashion-MNIST에 대해서 56.64% 정확도를 가진다."
+        },
+        {
+          "rank": 6,
+          "score": 0.5662565231323242,
+          "doc_id": "194",
+          "text": "Real-Time Monitoring of COVID-19 Vaccination Compliance: A Ubiquitous IT Convergence Approach Real-Time Monitoring of COVID-19 Vaccination Compliance: A Ubiquitous IT Convergence Approach Real-Time Monitoring of COVID-19 Vaccination Compliance: A Ubiquitous IT Convergence Approach As most countries relax restrictions on lockdown and social activities returns due to massive response to COVID-19 vaccination, there is need to put in place a universally acceptable technological innovation that can checkmate and enforce compliance to avoid resurgence of another deadly wave as witnessed previously. Combining vaccination effort with disruptive technology for compliance enforcement is an unarguable panacea. This paper presents an IT-convergence solution that fuses disruptive technologies to distinguish between vaccinated and non-vaccinated individuals in real-time and initiate strict and appropriate compliance directives and consequent denial of access to certain places. The proposed design is a fusion of facial recognition, mask wearing detection technology using Yolov5 deep learning model, network-based vaccination record management application, biometric feature-based vaccination status validation, and compliance enforcement in real-time. The system achieved 99.5&#x0025; accurate detection and 100&#x0025; real-time authentication with less computational complexities. This innovation guarantees intuitive monitoring of vaccination progress and curtailment of COVID-19 spread through compliance enforcement."
+        },
+        {
+          "rank": 7,
+          "score": 0.5661598443984985,
+          "doc_id": "111",
+          "text": "Artificial Intelligence for Artificial Artificial Intelligence Artificial Intelligence for Artificial Artificial Intelligence Artificial Intelligence for Artificial Artificial Intelligence Crowdsourcing platforms such as Amazon Mechanical Turk have become popular for a wide variety of human intelligence tasks; however, quality control continues to be a significant challenge. Recently, we propose TurKontrol, a theoretical model based on POMDPs to optimize iterative, crowd-sourced workflows. However, they neither describe how to learn the model parameters, nor show its effectiveness in a real crowd-sourced setting. Learning is challenging due to the scale of the model and noisy data: there are hundreds of thousands of workers with high-variance abilities. This paper presents an end-to-end system that first learns TurKontrol's POMDP parameters from real Mechanical Turk data, and then applies the model to dynamically optimize live tasks. We validate the model and use it to control a successive-improvement process on Mechanical Turk. By modeling worker accuracy and voting patterns, our system produces significantly superior artifacts compared to those generated through nonadaptive workflows using the same amount of money."
+        },
+        {
+          "rank": 8,
+          "score": 0.5631833076477051,
+          "doc_id": "220",
+          "text": "딥 러닝기반 고객평점 예측모델 딥 러닝기반 고객평점 예측모델 딥 러닝기반 고객평점 예측모델 인터넷의 발달과 휴대용 기기의 발달로 사용자들이 데이터를 생산하고, 공유하는 일들이 매우 자연스럽고 쉬운 일이 되었다. e-마켓플레스로 대변되는 온라인 쇼핑몰에서도 사용자들의 데이터 생산과 공유가 리뷰의 형식으로 활발하게 이루어지고 있다. 리뷰의 형식은 보통 정해진 형식이 없는 비 정형데이터인 텍스트와 제품에 대한 고객의 평점으로 이루어져있다. 이와 같이 형태로 적극적으로 공유된 정보들은 구매에 중요한 요소로 사용되고 있다. &amp;#xD; 본 논문에서는 이렇게 누적된 리뷰 데이터를 학습하여 고객의 평점을 예측하는 딥 러닝(Deep learning) 모델을 작성하고자 한다. 학습에 필요한 입력데이터 즉 고객의 특성에 관한 일반적인 정보는 쇼핑몰 내부에 있고, 개인 정보가 포함되어 있기 때문에 사용하기 어려운 문제점이 있다. 이를 극복하기 위해 리뷰 자체에서 고객의 특징(feature)을 추출하는 방법을 사용하였다. 비정형 리뷰 데이터에서 텍스트 마이닝 기법을 사용하여 정형화된 고객의 특징을 추출하였다.&amp;#xD; 실험 대상 제품은 11번가 쇼핑몰에서 하나의 화장품을 선정하였다. 최적의 딥 러닝 모델을 찾기 위하여 Drop-Out 및 Rectified Linear hidden Unite(ReLU)를 사용하며 결과를 평가하였다. 딥 러닝의 예측 결과는 고객 평점을 기반으로 하여 좋음, 보통, 나쁨 3가지를 출력 하도록 실험을 진행하였다. 실험을 통해 완성된 딥 러닝 모델이 출력하는 좋은, 보통, 나쁨 3가지 결과와 실제 고객이 입력 한 평점을 비교하였다. 실험 결과 90%의 정확도를 보였다."
+        },
+        {
+          "rank": 9,
+          "score": 0.5628386735916138,
+          "doc_id": "110",
+          "text": "Machine Learning기법을 이용한 Robot 이상 예지 보전 Machine Learning기법을 이용한 Robot 이상 예지 보전 Machine Learning기법을 이용한 Robot 이상 예지 보전 In this paper, a predictive maintenance of the robot trouble using the machine learning method, so called MT(Mahalanobis Taguchi), was studied. Especially, 'MD(Mahalanobis Distance)' was used to compare the robot arm motion difference between before the maintenance(bearing change) and after the maintenance. 6-axies vibration sensor was used to detect the vibration sensing during the motion of the robot arm. The results of the comparison, MD value of the arm motions of the after the maintenance(bearing change) was much lower and stable compared to MD value of the arm motions of the before the maintenance. MD value well distinguished the fine difference of the arm vibration of the robot. The superior performance of the MT method applied to the prediction of the robot trouble was verified by this experiments."
+        },
+        {
+          "rank": 10,
+          "score": 0.5606371164321899,
+          "doc_id": "213",
+          "text": "Artificial intelligence-driven radiomics: developing valuable radiomics signatures with the use of artificial intelligence Artificial intelligence-driven radiomics: developing valuable radiomics signatures with the use of artificial intelligence Artificial intelligence-driven radiomics: developing valuable radiomics signatures with the use of artificial intelligence AbstractThe advent of radiomics has revolutionized medical image analysis, affording the extraction of high dimensional quantitative data for the detailed examination of normal and abnormal tissues. Artificial intelligence (AI) can be used for the enhancement of a series of steps in the radiomics pipeline, from image acquisition and preprocessing, to segmentation, feature extraction, feature selection, and model development. The aim of this review is to present the most used AI methods for radiomics analysis, explaining the advantages and limitations of the methods. Some of the most prominent AI architectures mentioned in this review include Boruta, random forests, gradient boosting, generative adversarial networks, convolutional neural networks, and transformers. Employing these models in the process of radiomics analysis can significantly enhance the quality and effectiveness of the analysis, while addressing several limitations that can reduce the quality of predictions. Addressing these limitations can enable high quality clinical decisions and wider clinical adoption. Importantly, this review will aim to highlight how AI can assist radiomics in overcoming major bottlenecks in clinical implementation, ultimately improving the translation potential of the method."
+        }
+      ]
+    },
+    {
+      "query": "Lifelong Machine Learning 앙상블 방식을 스팸 메시지 필터링에 적용했을 때의 주요 아이디어는 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6128703355789185,
+          "doc_id": "192",
+          "text": "USING MACHINE LEARNING METHODS IN CYBERSECURITY USING MACHINE LEARNING METHODS IN CYBERSECURITY USING MACHINE LEARNING METHODS IN CYBERSECURITY Abstract Cybersecurity is an ever-changing field, with advances in technology that open up new opportunities for cyberattacks. In addition, even though serious secu- rity breaches are often reported, small organizations still have to worry about security breaches as they can often be the target of viruses and phishing. This is why it is so important to ensure the privacy of your user profile in cyberspace. The past few years have seen a rise in machine learning algorithms that address major cybersecu- rity issues such as intrusion detection systems (IDS), detection of new modifications of known malware, malware, and spam detection, and malware analysis. In this arti- cle, algorithms have been analyzed using data mining collected from various libraries, and analytics with additional emerging data-driven models to provide more effective security solutions. In addition, an analysis was carried out of companies that are en- gaged in cyber attacks using machine learning. According to the research results, it was revealed that the concept of cybersecurity data science allows you to make the computing process more efficient and intelligent compared to traditional processes in the field of cybersecurity. As a result, according to the results of the study, it was revealed that machine learning, namely unsupervised learning, is an effective method of dealing with risks in cybersecurity and cyberattacks."
+        },
+        {
+          "rank": 2,
+          "score": 0.6098893880844116,
+          "doc_id": "214",
+          "text": "An Efficient Parallel Machine Learning-based Blockchain Framework An Efficient Parallel Machine Learning-based Blockchain Framework An Efficient Parallel Machine Learning-based Blockchain Framework The unlimited possibilities of machine learning have been shown in several successful reports and applications. However, how to make sure that the searched results of a machine learning system are not tampered by anyone and how to prevent the other users in the same network environment from easily getting our private data are two critical research issues when we immerse into powerful machine learning-based systems or applications. This situation is just like other modern information systems that confront security and privacy issues. The development of blockchain provides us an alternative way to address these two issues. That is why some recent studies have attempted to develop machine learning systems with blockchain technologies or to apply machine learning methods to blockchain systems. To show what the combination of blockchain and machine learning is capable of doing, in this paper, we proposed a parallel framework to find out suitable hyperparameters of deep learning in a blockchain environment by using a metaheuristic algorithm. The proposed framework also takes into account the issue of communication cost, by limiting the number of information exchanges between miners and blockchain."
+        },
+        {
+          "rank": 3,
+          "score": 0.6068187355995178,
+          "doc_id": "123",
+          "text": "딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝은 인공신경망(neural network)이라는 인공지능분야의 모형이 발전된 형태로서, 계층구조로 이루어진 인공신경망의 내부계층(hidden layer)이 여러 단계로 이루어진 구조이다. 딥러닝에서의 주요 모형은 합성곱신경망(convolutional neural network), 순환신경망(recurrent neural network), 그리고 심층신뢰신경망(deep belief network)의 세가지라고 할 수 있다. 그 중에서 현재 흥미로운 연구가 많이 발표되어서 관심이 집중되고 있는 모형은 지도학습(supervised learning)모형인 처음 두 개의 모형이다. 따라서 본 논문에서는 지도학습모형의 가중치를 최적화하는 기본적인 방법인 오류역전파 알고리즘을 살펴본 뒤에 합성곱신경망과 순환신경망의 구조와 응용사례 등을 살펴보고자 한다. 본문에서 다루지 않은 모형인 심층신뢰신경망은 아직까지는 합성곱신경망 이나 순환신경망보다는 상대적으로 주목을 덜 받고 있다. 그러나 심층신뢰신경망은 CNN이나 RNN과는 달리 비지도학습(unsupervised learning)모형이며, 사람이나 동물은 관찰을 통해서 스스로 학습한다는 점에서 궁극적으로는 비지도학습모형이 더 많이 연구되어야 할 주제가 될 것이다."
+        },
+        {
+          "rank": 4,
+          "score": 0.6066969633102417,
+          "doc_id": "147",
+          "text": "A Survey of Topological Machine Learning Methods A Survey of Topological Machine Learning Methods A Survey of Topological Machine Learning Methods The last decade saw an enormous boost in the field of computational topology: methods and concepts from algebraic and differential topology, formerly confined to the realm of pure mathematics, have demonstrated their utility in numerous areas such as computational biology personalised medicine, and time-dependent data analysis, to name a few. The newly-emerging domain comprising topology-based techniques is often referred to as topological data analysis (TDA). Next to their applications in the aforementioned areas, TDA methods have also proven to be effective in supporting, enhancing, and augmenting both classical machine learning and deep learning models. In this paper, we review the state of the art of a nascent field we refer to as &ldquo;topological machine learning,&rdquo; i.e., the successful symbiosis of topology-based methods and machine learning algorithms, such as deep neural networks. We identify common threads, current applications, and future challenges."
+        },
+        {
+          "rank": 5,
+          "score": 0.6005122661590576,
+          "doc_id": "128",
+          "text": "Machine learning-based adaptive CSI feedback interval Machine learning-based adaptive CSI feedback interval Machine learning-based adaptive CSI feedback interval The channel state information (CSI) is essential for the base station (BS) to schedule user equipments (UEs) and efficiently manage the radio resources. Hence, the BS requests UEs to regularly feed back the CSI. However, frequent CSI reporting causes large signaling overhead. To reduce the feedback overhead, we propose two machine learning-based approaches to adjust the CSI feedback interval. We use a deep neural network and reinforcement learning (RL) to decide whether an UE feeds back the CSI. Simulation results show that the RL-based approach achieves the lowest mean squared error while reducing the number of CSI feedback transmissions."
+        },
+        {
+          "rank": 6,
+          "score": 0.5975168943405151,
+          "doc_id": "110",
+          "text": "Machine Learning기법을 이용한 Robot 이상 예지 보전 Machine Learning기법을 이용한 Robot 이상 예지 보전 Machine Learning기법을 이용한 Robot 이상 예지 보전 In this paper, a predictive maintenance of the robot trouble using the machine learning method, so called MT(Mahalanobis Taguchi), was studied. Especially, 'MD(Mahalanobis Distance)' was used to compare the robot arm motion difference between before the maintenance(bearing change) and after the maintenance. 6-axies vibration sensor was used to detect the vibration sensing during the motion of the robot arm. The results of the comparison, MD value of the arm motions of the after the maintenance(bearing change) was much lower and stable compared to MD value of the arm motions of the before the maintenance. MD value well distinguished the fine difference of the arm vibration of the robot. The superior performance of the MT method applied to the prediction of the robot trouble was verified by this experiments."
+        },
+        {
+          "rank": 7,
+          "score": 0.5948523283004761,
+          "doc_id": "194",
+          "text": "Real-Time Monitoring of COVID-19 Vaccination Compliance: A Ubiquitous IT Convergence Approach Real-Time Monitoring of COVID-19 Vaccination Compliance: A Ubiquitous IT Convergence Approach Real-Time Monitoring of COVID-19 Vaccination Compliance: A Ubiquitous IT Convergence Approach As most countries relax restrictions on lockdown and social activities returns due to massive response to COVID-19 vaccination, there is need to put in place a universally acceptable technological innovation that can checkmate and enforce compliance to avoid resurgence of another deadly wave as witnessed previously. Combining vaccination effort with disruptive technology for compliance enforcement is an unarguable panacea. This paper presents an IT-convergence solution that fuses disruptive technologies to distinguish between vaccinated and non-vaccinated individuals in real-time and initiate strict and appropriate compliance directives and consequent denial of access to certain places. The proposed design is a fusion of facial recognition, mask wearing detection technology using Yolov5 deep learning model, network-based vaccination record management application, biometric feature-based vaccination status validation, and compliance enforcement in real-time. The system achieved 99.5&#x0025; accurate detection and 100&#x0025; real-time authentication with less computational complexities. This innovation guarantees intuitive monitoring of vaccination progress and curtailment of COVID-19 spread through compliance enforcement."
+        },
+        {
+          "rank": 8,
+          "score": 0.5918554663658142,
+          "doc_id": "33",
+          "text": "Machine Learning을 이용한 자동 돌발상황검지 Machine Learning을 이용한 자동 돌발상황검지 Machine Learning을 이용한 자동 돌발상황검지 Incidents on the freeway disrupt traffic flow and the cost of delay caused by incidents is significant. To reduce the impact of an incident, a traffic management center needs to quickly detect and remove it from the freeway. Quick and efficient automatic incident detection has been a main goal of the transportation research for many years. Also many algorithms based on loop detector data have been developed and tested for the Automatic Incident Detection(AID). However, many of them have a limited success in their overall performance in terms of detection rate, false alarm rate, and the mean time to detect an incident. Until recently, the neural network models have been the one of the popular and efficient approach for real-time automatic incident detection and many researches have shown that the neural network models were much more efficient than various other previous models. The purpose of this research is to propose a more efficient and accurate model than the neural network model in the automatic incident detection problem. For this purpose, a machine learning model, Support Vector Machine (SVM) learning which is based on the statistical learning theory, has been used in this paper. The experiments have been done with real world freeway data, and the results show that the SVM could provide better performance in terms of DR(Detection Rate) and FAR(False Alarm Rate) than Backpropagation which is the most popular neural network model."
+        },
+        {
+          "rank": 9,
+          "score": 0.5885038375854492,
+          "doc_id": "6",
+          "text": "바둑에 적용된 깊은 학습: 응용 및 실험에 대한 조사 바둑에 적용된 깊은 학습: 응용 및 실험에 대한 조사 바둑에 적용된 깊은 학습: 응용 및 실험에 대한 조사 4 천년 전에 Go-game (바둑) 이 발명되어 널리 지능을 가진 사람들을 가르치기 위해 널리 적용되었습니다. 많은 왕이 그것을 연주하고 지능을 향상시키기 위해 아들을 가르쳤습니다.&amp;#xD; 1980 년대에 퍼스널 컴퓨터가 만들어지고 인기를 얻었습니다. 또한 많은 게임이 사람들이 컴퓨터로 게임을하거나 기존 게임을 플레이 할 때 사용자를 지원할 수 있도록 프로그래밍되어 있습니다. Shogi, Chess, Xiangqi, Go-game, tic-tac-toe 등과 같이 지금까지도 우리 조상이 연주 한 많은 유명한 전통 게임이 컴퓨터 프로그램에 의해 삽화가되고 많은 게임이 성공적으로 프로그래밍되었습니다 . 점진적으로 개선되기 위해 매일 복잡성 게임이 개발되고 있습니다. 특히, 복잡성이 매우 높은 일부 게임은 장군, 체스, 고 게임 등과 같은 전략과 규칙을 가지고 노는 것이 지능적이라고 생각합니다. 인간과 똑같이 지능적으로 플레이 할 수 있도록 프로그램하는 것은 매우 어렵습니다.&amp;#xD; 기계 학습은 컴퓨터가 인간의 두뇌와 유사한 데이터를 생각하고 학습하게하는 솔루션으로 부상했습니다. 알고리즘을 사용하여 분석 모델을 작성하여 컴퓨터가 특정 목적을 위해 주어진 데이터에서 '학습'하도록 돕습니다. 이제는 무인 자동차, 로봇 장치와 같은 흥미 진 진한 새로운 응용 프로그램을 만들기 위해 방대한 양의 데이터에 적용 할 수 있습니다. 딥 러닝 (Deep Learning)은 인공 신경 네트워크 (artificial neural networks)라고 불리는 뇌의 구조와 기능에 영감을받은 알고리즘과 관련된 기계 학습의 하위 분야입니다. 이것은 더 나은 훈련 된 데이터 세트를 얻기 위해 학습 진도를 향상시키는 새로운 접근법으로 알려져있어 더 정확한 결과를 초래합니다.&amp;#xD; 내 논문은 Go-game에 깊은 학습을 적용하는 데 중점을 둡니다. 나는 'Go-game에 적용된 깊은 학습'에 관한 설문 조사를합니다. Go-game에 대한 오픈 소스 코드 프로젝트와 문제 해결을위한 심층적 인 학습 기술을 적용하는 방법을 소개합니다. 정확성과 효과가 더 높은 Go- 게임을위한 다음 동작 계산에 대해 자세히 설명합니다. 저는 고문 교수 인 Jung Keechul과 함께 Go-game의 차세대 제안에 대한 제안을했습니다. 이 방법에서는 3 개의 CNN 레이어가있는 5 개의 숨겨진 레이어를 사용하여 데이터를 학습합니다.&amp;#xD; 저의 논문의 기여는보다 높은 성과와 효과를 가진 HCI에 깊은 학습을 적용하는 접근법을 과시하는 것입니다. 첫째, 심층 학습에 대한 완전한 관찰과 그것을 설문 조사를 통해 적용하는 방법을 제공했습니다. Go-game에 깊은 학습이 적용되었습니다. 둘째, Go-game 연구 및 프로젝트에 필요한 거대한 자원을 보여주었습니다. 셋째, Go-game에 적용된 실험과이 분야에서의 작업을 보여주었습니다. 마지막으로 필자는 내 프로그램 (HuuDucGo), Orego 및 Fuego의 3 가지 프로그램을 비교했습니다. 그들 사이에 제안의 수렴은 다음을 보여줍니다 : HuuDucGo의 제안을 받아 들일 수 있습니다. 우리의 작업에 대한 특별한 실험 : Orego와 Fuego와 같은 다른 두 가지 큰 프로그램의 제안과 수렴되는 수용 가능한 결과를 가지고 Go- 게임을 할 때 다음 행동을 계산하고 제안하는 데 깊은 지식을 적용합니다."
+        },
+        {
+          "rank": 10,
+          "score": 0.5838137865066528,
+          "doc_id": "111",
+          "text": "Artificial Intelligence for Artificial Artificial Intelligence Artificial Intelligence for Artificial Artificial Intelligence Artificial Intelligence for Artificial Artificial Intelligence Crowdsourcing platforms such as Amazon Mechanical Turk have become popular for a wide variety of human intelligence tasks; however, quality control continues to be a significant challenge. Recently, we propose TurKontrol, a theoretical model based on POMDPs to optimize iterative, crowd-sourced workflows. However, they neither describe how to learn the model parameters, nor show its effectiveness in a real crowd-sourced setting. Learning is challenging due to the scale of the model and noisy data: there are hundreds of thousands of workers with high-variance abilities. This paper presents an end-to-end system that first learns TurKontrol's POMDP parameters from real Mechanical Turk data, and then applies the model to dynamically optimize live tasks. We validate the model and use it to control a successive-improvement process on Mechanical Turk. By modeling worker accuracy and voting patterns, our system produces significantly superior artifacts compared to those generated through nonadaptive workflows using the same amount of money."
+        }
+      ]
+    },
+    {
+      "query": "Lifelong Machine Learning 앙상블 방식을 스팸 메시지 필터링에 적용했을 때의 장점은 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6039080619812012,
+          "doc_id": "192",
+          "text": "USING MACHINE LEARNING METHODS IN CYBERSECURITY USING MACHINE LEARNING METHODS IN CYBERSECURITY USING MACHINE LEARNING METHODS IN CYBERSECURITY Abstract Cybersecurity is an ever-changing field, with advances in technology that open up new opportunities for cyberattacks. In addition, even though serious secu- rity breaches are often reported, small organizations still have to worry about security breaches as they can often be the target of viruses and phishing. This is why it is so important to ensure the privacy of your user profile in cyberspace. The past few years have seen a rise in machine learning algorithms that address major cybersecu- rity issues such as intrusion detection systems (IDS), detection of new modifications of known malware, malware, and spam detection, and malware analysis. In this arti- cle, algorithms have been analyzed using data mining collected from various libraries, and analytics with additional emerging data-driven models to provide more effective security solutions. In addition, an analysis was carried out of companies that are en- gaged in cyber attacks using machine learning. According to the research results, it was revealed that the concept of cybersecurity data science allows you to make the computing process more efficient and intelligent compared to traditional processes in the field of cybersecurity. As a result, according to the results of the study, it was revealed that machine learning, namely unsupervised learning, is an effective method of dealing with risks in cybersecurity and cyberattacks."
+        },
+        {
+          "rank": 2,
+          "score": 0.5977301597595215,
+          "doc_id": "128",
+          "text": "Machine learning-based adaptive CSI feedback interval Machine learning-based adaptive CSI feedback interval Machine learning-based adaptive CSI feedback interval The channel state information (CSI) is essential for the base station (BS) to schedule user equipments (UEs) and efficiently manage the radio resources. Hence, the BS requests UEs to regularly feed back the CSI. However, frequent CSI reporting causes large signaling overhead. To reduce the feedback overhead, we propose two machine learning-based approaches to adjust the CSI feedback interval. We use a deep neural network and reinforcement learning (RL) to decide whether an UE feeds back the CSI. Simulation results show that the RL-based approach achieves the lowest mean squared error while reducing the number of CSI feedback transmissions."
+        },
+        {
+          "rank": 3,
+          "score": 0.5914696455001831,
+          "doc_id": "110",
+          "text": "Machine Learning기법을 이용한 Robot 이상 예지 보전 Machine Learning기법을 이용한 Robot 이상 예지 보전 Machine Learning기법을 이용한 Robot 이상 예지 보전 In this paper, a predictive maintenance of the robot trouble using the machine learning method, so called MT(Mahalanobis Taguchi), was studied. Especially, 'MD(Mahalanobis Distance)' was used to compare the robot arm motion difference between before the maintenance(bearing change) and after the maintenance. 6-axies vibration sensor was used to detect the vibration sensing during the motion of the robot arm. The results of the comparison, MD value of the arm motions of the after the maintenance(bearing change) was much lower and stable compared to MD value of the arm motions of the before the maintenance. MD value well distinguished the fine difference of the arm vibration of the robot. The superior performance of the MT method applied to the prediction of the robot trouble was verified by this experiments."
+        },
+        {
+          "rank": 4,
+          "score": 0.5896705985069275,
+          "doc_id": "33",
+          "text": "Machine Learning을 이용한 자동 돌발상황검지 Machine Learning을 이용한 자동 돌발상황검지 Machine Learning을 이용한 자동 돌발상황검지 Incidents on the freeway disrupt traffic flow and the cost of delay caused by incidents is significant. To reduce the impact of an incident, a traffic management center needs to quickly detect and remove it from the freeway. Quick and efficient automatic incident detection has been a main goal of the transportation research for many years. Also many algorithms based on loop detector data have been developed and tested for the Automatic Incident Detection(AID). However, many of them have a limited success in their overall performance in terms of detection rate, false alarm rate, and the mean time to detect an incident. Until recently, the neural network models have been the one of the popular and efficient approach for real-time automatic incident detection and many researches have shown that the neural network models were much more efficient than various other previous models. The purpose of this research is to propose a more efficient and accurate model than the neural network model in the automatic incident detection problem. For this purpose, a machine learning model, Support Vector Machine (SVM) learning which is based on the statistical learning theory, has been used in this paper. The experiments have been done with real world freeway data, and the results show that the SVM could provide better performance in terms of DR(Detection Rate) and FAR(False Alarm Rate) than Backpropagation which is the most popular neural network model."
+        },
+        {
+          "rank": 5,
+          "score": 0.5865576267242432,
+          "doc_id": "214",
+          "text": "An Efficient Parallel Machine Learning-based Blockchain Framework An Efficient Parallel Machine Learning-based Blockchain Framework An Efficient Parallel Machine Learning-based Blockchain Framework The unlimited possibilities of machine learning have been shown in several successful reports and applications. However, how to make sure that the searched results of a machine learning system are not tampered by anyone and how to prevent the other users in the same network environment from easily getting our private data are two critical research issues when we immerse into powerful machine learning-based systems or applications. This situation is just like other modern information systems that confront security and privacy issues. The development of blockchain provides us an alternative way to address these two issues. That is why some recent studies have attempted to develop machine learning systems with blockchain technologies or to apply machine learning methods to blockchain systems. To show what the combination of blockchain and machine learning is capable of doing, in this paper, we proposed a parallel framework to find out suitable hyperparameters of deep learning in a blockchain environment by using a metaheuristic algorithm. The proposed framework also takes into account the issue of communication cost, by limiting the number of information exchanges between miners and blockchain."
+        },
+        {
+          "rank": 6,
+          "score": 0.5856621265411377,
+          "doc_id": "180",
+          "text": "딥러닝 기반의 딥 클러스터링 방법에 대한 분석 딥러닝 기반의 딥 클러스터링 방법에 대한 분석 딥러닝 기반의 딥 클러스터링 방법에 대한 분석 클러스터링은 데이터의 정답값(실제값)이 없는 데이터를 기반으로 데이터의 특징벡터의 거리 기반 등으로 군집화를 하는 비지도학습 방법이다. 이 방법은 이미지, 텍스트, 음성 등 다양한 데이터에 대해서 라벨링이 없이 적용할 수 있다는 장점이 있다. 기존 클러스터링을 하기 위해 차원축소 기법을 적용하거나 특정 특징만을 추출하여 군집화하는 방법이 적용되었다. 하지만 딥러닝 기반 모델이 발전하면서 입력 데이터를 잠재 벡터로 표현하는 오토인코더, 생성 적대적 네트워크 등을 통해서 딥 클러스터링의 기술이 연구가 되고 있다. 본 연구에서, 딥러닝 기반의 딥 클러스터링 기법을 제안하였다. 이 방법에서 오토인코더를 이용하여 입력 데이터를 잠재 벡터로 변환하고 이 잠재 벡터를 클러스터 구조에 맞게 벡터 공간을 구성 및 k-평균 클러스터링을 하였다. 실험 환경으로 pytorch 머신러닝 라이브러리를 이용하여 데이터셋으로 MNIST와 Fashion-MNIST을 적용하였다. 모델로는 컨볼루션 신경망 기반인 오토인코더 모델을 사용하였다. 실험결과로 k가 10일 때, MNIST에 대해서 89.42% 정확도를 가졌으며 Fashion-MNIST에 대해서 56.64% 정확도를 가진다."
+        },
+        {
+          "rank": 7,
+          "score": 0.5854408740997314,
+          "doc_id": "147",
+          "text": "A Survey of Topological Machine Learning Methods A Survey of Topological Machine Learning Methods A Survey of Topological Machine Learning Methods The last decade saw an enormous boost in the field of computational topology: methods and concepts from algebraic and differential topology, formerly confined to the realm of pure mathematics, have demonstrated their utility in numerous areas such as computational biology personalised medicine, and time-dependent data analysis, to name a few. The newly-emerging domain comprising topology-based techniques is often referred to as topological data analysis (TDA). Next to their applications in the aforementioned areas, TDA methods have also proven to be effective in supporting, enhancing, and augmenting both classical machine learning and deep learning models. In this paper, we review the state of the art of a nascent field we refer to as &ldquo;topological machine learning,&rdquo; i.e., the successful symbiosis of topology-based methods and machine learning algorithms, such as deep neural networks. We identify common threads, current applications, and future challenges."
+        },
+        {
+          "rank": 8,
+          "score": 0.5819842219352722,
+          "doc_id": "221",
+          "text": "Implikationen von Machine Learning auf das Datenmanagement in Unternehmen Implikationen von Machine Learning auf das Datenmanagement in Unternehmen Implikationen von Machine Learning auf das Datenmanagement in Unternehmen AbstractMachine Learning is a trend research area with great potential and far-reaching application potentials. Big Data is an enabler, as large and high-quality data are always the basis for successful machine learning algorithms and models. There is currently no fully established standard process for the machine learning life cycle, as is the case in data mining with the CRISP-DM-Process, which means that the operationalization of machine learning models in particular can present companies with major challenges. In this article, the implications for data management in companies are worked out on the basis of the view of the nature of the data, the various roles in machine learning teams and the life cycle of machine learning models."
+        },
+        {
+          "rank": 9,
+          "score": 0.5773915648460388,
+          "doc_id": "123",
+          "text": "딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝은 인공신경망(neural network)이라는 인공지능분야의 모형이 발전된 형태로서, 계층구조로 이루어진 인공신경망의 내부계층(hidden layer)이 여러 단계로 이루어진 구조이다. 딥러닝에서의 주요 모형은 합성곱신경망(convolutional neural network), 순환신경망(recurrent neural network), 그리고 심층신뢰신경망(deep belief network)의 세가지라고 할 수 있다. 그 중에서 현재 흥미로운 연구가 많이 발표되어서 관심이 집중되고 있는 모형은 지도학습(supervised learning)모형인 처음 두 개의 모형이다. 따라서 본 논문에서는 지도학습모형의 가중치를 최적화하는 기본적인 방법인 오류역전파 알고리즘을 살펴본 뒤에 합성곱신경망과 순환신경망의 구조와 응용사례 등을 살펴보고자 한다. 본문에서 다루지 않은 모형인 심층신뢰신경망은 아직까지는 합성곱신경망 이나 순환신경망보다는 상대적으로 주목을 덜 받고 있다. 그러나 심층신뢰신경망은 CNN이나 RNN과는 달리 비지도학습(unsupervised learning)모형이며, 사람이나 동물은 관찰을 통해서 스스로 학습한다는 점에서 궁극적으로는 비지도학습모형이 더 많이 연구되어야 할 주제가 될 것이다."
+        },
+        {
+          "rank": 10,
+          "score": 0.5764914751052856,
+          "doc_id": "220",
+          "text": "딥 러닝기반 고객평점 예측모델 딥 러닝기반 고객평점 예측모델 딥 러닝기반 고객평점 예측모델 인터넷의 발달과 휴대용 기기의 발달로 사용자들이 데이터를 생산하고, 공유하는 일들이 매우 자연스럽고 쉬운 일이 되었다. e-마켓플레스로 대변되는 온라인 쇼핑몰에서도 사용자들의 데이터 생산과 공유가 리뷰의 형식으로 활발하게 이루어지고 있다. 리뷰의 형식은 보통 정해진 형식이 없는 비 정형데이터인 텍스트와 제품에 대한 고객의 평점으로 이루어져있다. 이와 같이 형태로 적극적으로 공유된 정보들은 구매에 중요한 요소로 사용되고 있다. &amp;#xD; 본 논문에서는 이렇게 누적된 리뷰 데이터를 학습하여 고객의 평점을 예측하는 딥 러닝(Deep learning) 모델을 작성하고자 한다. 학습에 필요한 입력데이터 즉 고객의 특성에 관한 일반적인 정보는 쇼핑몰 내부에 있고, 개인 정보가 포함되어 있기 때문에 사용하기 어려운 문제점이 있다. 이를 극복하기 위해 리뷰 자체에서 고객의 특징(feature)을 추출하는 방법을 사용하였다. 비정형 리뷰 데이터에서 텍스트 마이닝 기법을 사용하여 정형화된 고객의 특징을 추출하였다.&amp;#xD; 실험 대상 제품은 11번가 쇼핑몰에서 하나의 화장품을 선정하였다. 최적의 딥 러닝 모델을 찾기 위하여 Drop-Out 및 Rectified Linear hidden Unite(ReLU)를 사용하며 결과를 평가하였다. 딥 러닝의 예측 결과는 고객 평점을 기반으로 하여 좋음, 보통, 나쁨 3가지를 출력 하도록 실험을 진행하였다. 실험을 통해 완성된 딥 러닝 모델이 출력하는 좋은, 보통, 나쁨 3가지 결과와 실제 고객이 입력 한 평점을 비교하였다. 실험 결과 90%의 정확도를 보였다."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

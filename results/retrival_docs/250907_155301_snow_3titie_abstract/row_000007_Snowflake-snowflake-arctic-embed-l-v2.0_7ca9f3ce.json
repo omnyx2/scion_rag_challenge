@@ -1,0 +1,221 @@
+{
+  "id": "row_000007",
+  "model_name": "Snowflake/snowflake-arctic-embed-l-v2.0",
+  "timestamp_kst": "2025-09-07T15:53:02.280602+09:00",
+  "trial_id": "7ca9f3ce",
+  "queries": [
+    {
+      "query": "생성형 AI 콘텐츠의 가치 유형별 소비자 인식과 AI 사용 공개에 대한 인식 특성을 어떻게 요약할 수 있나요?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.625996470451355,
+          "doc_id": "68",
+          "text": "인공지능 생성 콘텐츠(Artificial Intelligence Generated Content)와 인공지능 사용 공개(Artificial Intelligence Disclaimer)에 대한 소비자 인식 연구: 콘텐츠 가치와 형식을 중심으로 인공지능 생성 콘텐츠(Artificial Intelligence Generated Content)와 인공지능 사용 공개(Artificial Intelligence Disclaimer)에 대한 소비자 인식 연구: 콘텐츠 가치와 형식을 중심으로 인공지능 생성 콘텐츠(Artificial Intelligence Generated Content)와 인공지능 사용 공개(Artificial Intelligence Disclaimer)에 대한 소비자 인식 연구: 콘텐츠 가치와 형식을 중심으로 최근 생성형 인공지능(Artificial Intelligence)은 다양한 형식의 미디어를 포함하여 자율적으로 콘텐츠를 생성할 수 있는 능력으로 주목받고 있다. 그 잠재력에도 불구하고 AI가 생성한 콘텐츠(AI-Generated Content, AIGC)의 진정성(Authenticity) 이슈가 제기됨에 따라 각국에서 AI 사용과 투명성에 대한 규제가 수립되고 있다. 하지만, AIGC와 AI 사용 공개(AI Disclaimer)에 대한 소비자의 이해라는 근본적인 주제는 여전히 탐색되지 않고 있다. 본 연구는 생성형 AI가 제작한 콘텐츠를 실용적, 쾌락적 가치유형으로 구분하고 각각 글, 사진, 영상의 미디어 형식을 적용한 6가지의 경우에 대한 소비자의 인식을 카노 모형을 통해 분석하였다. 나아가, 도출된 결과를 인지된 진정성과 기만으로 그룹을 구분해 인식의 차이가 이에 따라 드러나는지 추가적으로 살펴보았다. 연구 결과, AI가 생성한 콘텐츠에 대한 소비자 인식은 만족도에 큰 영향을 미치지 않았으나, 뉴스로 대표되는 실용적 콘텐츠에서는 AI 사용에 대한 부정적 인식이 확인되었으며, 특히 뉴스 영상 제작에 있어 부정적 인식이 강하게 드러났다. 반면, 영화와 드라마로 대표되는 쾌락적 콘텐츠에서는 생성형 AI 사용에 대한 인식이 무관심하거나 오히려 긍정적이었다. AI 사용 여부의 공개에 대해서는 콘텐츠 가치유형에 관계없이 지켜야 할 원칙으로 인식되었으나, 실용적 콘텐츠에 대해 그러한 인식이 더 강하게 드러났다. 본 연구는 AI 활용의 투명성과 진정성을 제고하는 방안이 필요함을 시사하며, 향후 AI의 발전과 활용이 소비자 인식에 미치는 영향을 지속적으로 연구할 필요가 있음을 강조한다."
+        },
+        {
+          "rank": 2,
+          "score": 0.44013670086860657,
+          "doc_id": "151",
+          "text": "마음,지능,인공지능 마음,지능,인공지능 마음,지능,인공지능 최근 여러 학문 분야에서는 논의되고 있는 인공지능(AI)의 문제는 과학적 문제임과 동시에 중요한 철학적 문제이다.본고는 컴퓨터과학자 혹은 인지과학자들이 내리고 있는 AI의 정의들을 분석함으로써 그 속에 함축되어 있는 논쟁점들을 발굴하고,관련된 논변들을 검토함 으로써 AI탐구가 지니는 의의를 명확히 해보려는 데 그 목적이 있다.AI에 대한 정의들은 AI연구가들의 관심과 목표 그리고 그 주장의 강도에 따라 여러 유형으로 분류될 수 있지만 대개가 인간지능을 어떻게 파악하고 있는지,지능과 뇌의 관계가 무엇인지,그리고 그것을 컴퓨터를 통해서 모의하고 복제한다는 것의 논리적 구조가 무엇인지에 대한 이해와 밀접한 관계가 있다.이점에서 AI연구에 있어서 관건이 되는 것은 컴퓨터 기술의 발전과 같은 경험상의 문제라기 보다는 오히려 논리나 개념분석과 같은 선험적인 문제와 밀접하게 연관되어 있다."
+        },
+        {
+          "rank": 3,
+          "score": 0.40526282787323,
+          "doc_id": "132",
+          "text": "Artificial intelligence Artificial intelligence Artificial intelligence 없음"
+        },
+        {
+          "rank": 4,
+          "score": 0.39942997694015503,
+          "doc_id": "183",
+          "text": "구성적 인공지능 구성적 인공지능 구성적 인공지능 서양철학의 근간을 이루는 데카르트의 이성주의적 인간이해의 반성으로부터 등장한 구성주의는 지능을 포함한 인간이해의 새로운 대안이 될 수 있을 것으로 생각한다. 구성주의는 진화생물학, 진화심리학, 뇌과학, 시스템이론, 복잡계 이론의 성과뿐만 아니라 나아가 인문사회학의 경향과도 설명을 공유할 수 있는 많은 부분이 있다. 또한 인공지능 분야에서도 구성주의적 방법이라고 할 수 있는 연구가 진행되고 있다. 이 글에서는 구성주의적 관점에서 인공지능에서 다루는 지능에 대한 이해의 지평을 넓히고 이를 기반으로 한 방법론에 대한 검토와 그러한 경향에 있는 일부 인공지능 기술을 살펴보고자 한다. 이러한 논의를 통하여 여러 가지 관점의 마음에 대한 이론과 기술을 상호보완적으로 이해하고 다소 등한히 되고 있는 인공지능의 보편지능(general intelligence)의 토대로 삼고자 한다."
+        },
+        {
+          "rank": 5,
+          "score": 0.39472925662994385,
+          "doc_id": "82",
+          "text": "Artificial Intelligence for Artificial Artificial Intelligence Artificial Intelligence for Artificial Artificial Intelligence Artificial Intelligence for Artificial Artificial Intelligence 없음"
+        },
+        {
+          "rank": 6,
+          "score": 0.39105838537216187,
+          "doc_id": "77",
+          "text": "Understanding the Structure of Artificial Intelligence Conscience Understanding the Structure of Artificial Intelligence Conscience Understanding the Structure of Artificial Intelligence Conscience Purpose This study aims to construct a structure for application to artificial intelligence by analyzing the characteristics of conscience that act as an element of moral behavior. It focuses on enhancing understanding of the structure of artificial intelligence conscience and providing insights for future development of conscience algorithms. Method This study examines in detail the academic concepts and structural properties of conscience. Reviewing the academic literature and the latest data, we propose the structure of artificial intelligence conscience. Results Through the phrase, we found that in order to construct the conscience of artificial intelligence, an algorithm must be constructed by considering the cognitive and emotional aspects. And in the process of constructing an artificial intelligence conscience algorithm, we confirmed that differentiated characteristics should be reflected depending on the situation and the object. Conclusion The value judgment of artificial intelligence is already being realized on universal standards. At the AGI level, in order to achieve value judgment, an algorithm that reflects conscience must be constructed to be close to human value judgment. For this, it is necessary to construct data and algorithms on the situation of value judgment and the relationship with the object."
+        },
+        {
+          "rank": 7,
+          "score": 0.38938555121421814,
+          "doc_id": "106",
+          "text": "Artificial intelligence Artificial intelligence Artificial intelligence AbstractArtificial intelligence (AI) is the Science and Engineering domain concerned with the theory and practice of developing systems that exhibit the characteristics we associate with intelligence in human behavior. Starting with a brief history of artificial intelligence, this article presents a general overview of this broad interdisciplinary field, organized around the main modules of the notional architecture of an intelligent agent (knowledge representation; problem solving and planning; knowledge acquisition and learning; natural language, speech, and vision; action processing and robotics) which highlights both the main areas of artificial intelligence research, development and application, and also their integration. WIREs Comput Stat 2012, 4:168-180. doi: 10.1002/wics.200This article is categorized under: Software for Computational Statistics > Artificial Intelligence and Expert Systems"
+        },
+        {
+          "rank": 8,
+          "score": 0.38300204277038574,
+          "doc_id": "216",
+          "text": "A Study on Artificial Intelligence A Study on Artificial Intelligence A Study on Artificial Intelligence 없음"
+        },
+        {
+          "rank": 9,
+          "score": 0.37689897418022156,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence Information retrieval and artificial intelligence Information retrieval and artificial intelligence AbstractThis paper addresses the relations between information retrieval (IR) and AI. It examines document retrieval, summarising its essential features and illustrating the state of its art by presenting one probabilistic model in detail, with some test results showing its value. The paper then analyses this model and related successful approaches, concentrating on and justifying their use of weak, redundant representation and reasoning. It goes on to other information management tasks and considers how the concepts and methods developed for retrieval may be applied to these, concluding by arguing that such ways of dealing with information may also have wider relevance to AI."
+        },
+        {
+          "rank": 10,
+          "score": 0.3738551437854767,
+          "doc_id": "181",
+          "text": "초등 인공지능 교육을 위한 설명 가능한 인공지능의 교육적 의미 연구 초등 인공지능 교육을 위한 설명 가능한 인공지능의 교육적 의미 연구 초등 인공지능 교육을 위한 설명 가능한 인공지능의 교육적 의미 연구 본 연구는 문헌 연구 통해 설명 가능한 인공지능의 개념과 문제해결과정을 탐구하였다. 본 연구를 통하여 설명 가능한 인공지능의 교육적 의미와 적용 방안을 제시하였다. 설명 가능한 인공지능 교육이란 인간과 관련된 인공지능 문제를 다루는 사람 중심의 인공지능 교육으로 학생들은 문제 해결 능력을 함양할 수 있다. 그리고, 알고리즘 교육을 통해 인공지능의 원리를 이해하고 실생활 문제 상황과 관련된 인공지능 모델을 설명하며 인공지능의 활용분야까지 확장할 수 있다. 이러한 설명 가능한 인공지능 교육이 초등학교에서 적용되기 위해서는 실제 삶과 관련된 예를 사용해야 하며 알고리즘 자체가 해석력을 지닌 것을 활용하는 것이 좋다. 또한, 이해가 설명으로 나아가기 위해 다양한 교수학습방법 및 도구를 활용해야 한다. 2022년 개정 교육과정에서 인공지능 도입을 앞두고 본 연구가 실제 수업을 위한 기반으로써 의미 있게 활용되기를 바란다."
+        }
+      ]
+    },
+    {
+      "query": "생성형 AI 콘텐츠의 가치 유형별 소비자 인식은 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5447388887405396,
+          "doc_id": "68",
+          "text": "인공지능 생성 콘텐츠(Artificial Intelligence Generated Content)와 인공지능 사용 공개(Artificial Intelligence Disclaimer)에 대한 소비자 인식 연구: 콘텐츠 가치와 형식을 중심으로 인공지능 생성 콘텐츠(Artificial Intelligence Generated Content)와 인공지능 사용 공개(Artificial Intelligence Disclaimer)에 대한 소비자 인식 연구: 콘텐츠 가치와 형식을 중심으로 인공지능 생성 콘텐츠(Artificial Intelligence Generated Content)와 인공지능 사용 공개(Artificial Intelligence Disclaimer)에 대한 소비자 인식 연구: 콘텐츠 가치와 형식을 중심으로 최근 생성형 인공지능(Artificial Intelligence)은 다양한 형식의 미디어를 포함하여 자율적으로 콘텐츠를 생성할 수 있는 능력으로 주목받고 있다. 그 잠재력에도 불구하고 AI가 생성한 콘텐츠(AI-Generated Content, AIGC)의 진정성(Authenticity) 이슈가 제기됨에 따라 각국에서 AI 사용과 투명성에 대한 규제가 수립되고 있다. 하지만, AIGC와 AI 사용 공개(AI Disclaimer)에 대한 소비자의 이해라는 근본적인 주제는 여전히 탐색되지 않고 있다. 본 연구는 생성형 AI가 제작한 콘텐츠를 실용적, 쾌락적 가치유형으로 구분하고 각각 글, 사진, 영상의 미디어 형식을 적용한 6가지의 경우에 대한 소비자의 인식을 카노 모형을 통해 분석하였다. 나아가, 도출된 결과를 인지된 진정성과 기만으로 그룹을 구분해 인식의 차이가 이에 따라 드러나는지 추가적으로 살펴보았다. 연구 결과, AI가 생성한 콘텐츠에 대한 소비자 인식은 만족도에 큰 영향을 미치지 않았으나, 뉴스로 대표되는 실용적 콘텐츠에서는 AI 사용에 대한 부정적 인식이 확인되었으며, 특히 뉴스 영상 제작에 있어 부정적 인식이 강하게 드러났다. 반면, 영화와 드라마로 대표되는 쾌락적 콘텐츠에서는 생성형 AI 사용에 대한 인식이 무관심하거나 오히려 긍정적이었다. AI 사용 여부의 공개에 대해서는 콘텐츠 가치유형에 관계없이 지켜야 할 원칙으로 인식되었으나, 실용적 콘텐츠에 대해 그러한 인식이 더 강하게 드러났다. 본 연구는 AI 활용의 투명성과 진정성을 제고하는 방안이 필요함을 시사하며, 향후 AI의 발전과 활용이 소비자 인식에 미치는 영향을 지속적으로 연구할 필요가 있음을 강조한다."
+        },
+        {
+          "rank": 2,
+          "score": 0.4171351194381714,
+          "doc_id": "132",
+          "text": "Artificial intelligence Artificial intelligence Artificial intelligence 없음"
+        },
+        {
+          "rank": 3,
+          "score": 0.40631869435310364,
+          "doc_id": "151",
+          "text": "마음,지능,인공지능 마음,지능,인공지능 마음,지능,인공지능 최근 여러 학문 분야에서는 논의되고 있는 인공지능(AI)의 문제는 과학적 문제임과 동시에 중요한 철학적 문제이다.본고는 컴퓨터과학자 혹은 인지과학자들이 내리고 있는 AI의 정의들을 분석함으로써 그 속에 함축되어 있는 논쟁점들을 발굴하고,관련된 논변들을 검토함 으로써 AI탐구가 지니는 의의를 명확히 해보려는 데 그 목적이 있다.AI에 대한 정의들은 AI연구가들의 관심과 목표 그리고 그 주장의 강도에 따라 여러 유형으로 분류될 수 있지만 대개가 인간지능을 어떻게 파악하고 있는지,지능과 뇌의 관계가 무엇인지,그리고 그것을 컴퓨터를 통해서 모의하고 복제한다는 것의 논리적 구조가 무엇인지에 대한 이해와 밀접한 관계가 있다.이점에서 AI연구에 있어서 관건이 되는 것은 컴퓨터 기술의 발전과 같은 경험상의 문제라기 보다는 오히려 논리나 개념분석과 같은 선험적인 문제와 밀접하게 연관되어 있다."
+        },
+        {
+          "rank": 4,
+          "score": 0.4061116576194763,
+          "doc_id": "82",
+          "text": "Artificial Intelligence for Artificial Artificial Intelligence Artificial Intelligence for Artificial Artificial Intelligence Artificial Intelligence for Artificial Artificial Intelligence 없음"
+        },
+        {
+          "rank": 5,
+          "score": 0.3899708390235901,
+          "doc_id": "216",
+          "text": "A Study on Artificial Intelligence A Study on Artificial Intelligence A Study on Artificial Intelligence 없음"
+        },
+        {
+          "rank": 6,
+          "score": 0.3891986608505249,
+          "doc_id": "137",
+          "text": "What's Humanity for Artificial Intelligence Jindo Intelligence &#x2014; Dawning of Artificial Intelligence &#x2014; What's Humanity for Artificial Intelligence Jindo Intelligence &#x2014; Dawning of Artificial Intelligence &#x2014; What's Humanity for Artificial Intelligence Jindo Intelligence &#x2014; Dawning of Artificial Intelligence &#x2014; 없음"
+        },
+        {
+          "rank": 7,
+          "score": 0.38504159450531006,
+          "doc_id": "23",
+          "text": "Big data, Big bang? Big data, Big bang? Big data, Big bang? 없음"
+        },
+        {
+          "rank": 8,
+          "score": 0.3806160092353821,
+          "doc_id": "183",
+          "text": "구성적 인공지능 구성적 인공지능 구성적 인공지능 서양철학의 근간을 이루는 데카르트의 이성주의적 인간이해의 반성으로부터 등장한 구성주의는 지능을 포함한 인간이해의 새로운 대안이 될 수 있을 것으로 생각한다. 구성주의는 진화생물학, 진화심리학, 뇌과학, 시스템이론, 복잡계 이론의 성과뿐만 아니라 나아가 인문사회학의 경향과도 설명을 공유할 수 있는 많은 부분이 있다. 또한 인공지능 분야에서도 구성주의적 방법이라고 할 수 있는 연구가 진행되고 있다. 이 글에서는 구성주의적 관점에서 인공지능에서 다루는 지능에 대한 이해의 지평을 넓히고 이를 기반으로 한 방법론에 대한 검토와 그러한 경향에 있는 일부 인공지능 기술을 살펴보고자 한다. 이러한 논의를 통하여 여러 가지 관점의 마음에 대한 이론과 기술을 상호보완적으로 이해하고 다소 등한히 되고 있는 인공지능의 보편지능(general intelligence)의 토대로 삼고자 한다."
+        },
+        {
+          "rank": 9,
+          "score": 0.3656960725784302,
+          "doc_id": "193",
+          "text": "What's Humanity for Artificial Intelligence Humane Artificial Intelligence and Artificial General Intelligence What's Humanity for Artificial Intelligence Humane Artificial Intelligence and Artificial General Intelligence What's Humanity for Artificial Intelligence Humane Artificial Intelligence and Artificial General Intelligence 없음"
+        },
+        {
+          "rank": 10,
+          "score": 0.3631698191165924,
+          "doc_id": "97",
+          "text": "&#x201e;Machine learning“ in der An&auml;sthesiologie &#x201e;Machine learning“ in der An&auml;sthesiologie &#x201e;Machine learning“ in der An&auml;sthesiologie 없음"
+        }
+      ]
+    },
+    {
+      "query": "AI 사용 공개에 대한 소비자 인식 특성은 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.4501979351043701,
+          "doc_id": "68",
+          "text": "인공지능 생성 콘텐츠(Artificial Intelligence Generated Content)와 인공지능 사용 공개(Artificial Intelligence Disclaimer)에 대한 소비자 인식 연구: 콘텐츠 가치와 형식을 중심으로 인공지능 생성 콘텐츠(Artificial Intelligence Generated Content)와 인공지능 사용 공개(Artificial Intelligence Disclaimer)에 대한 소비자 인식 연구: 콘텐츠 가치와 형식을 중심으로 인공지능 생성 콘텐츠(Artificial Intelligence Generated Content)와 인공지능 사용 공개(Artificial Intelligence Disclaimer)에 대한 소비자 인식 연구: 콘텐츠 가치와 형식을 중심으로 최근 생성형 인공지능(Artificial Intelligence)은 다양한 형식의 미디어를 포함하여 자율적으로 콘텐츠를 생성할 수 있는 능력으로 주목받고 있다. 그 잠재력에도 불구하고 AI가 생성한 콘텐츠(AI-Generated Content, AIGC)의 진정성(Authenticity) 이슈가 제기됨에 따라 각국에서 AI 사용과 투명성에 대한 규제가 수립되고 있다. 하지만, AIGC와 AI 사용 공개(AI Disclaimer)에 대한 소비자의 이해라는 근본적인 주제는 여전히 탐색되지 않고 있다. 본 연구는 생성형 AI가 제작한 콘텐츠를 실용적, 쾌락적 가치유형으로 구분하고 각각 글, 사진, 영상의 미디어 형식을 적용한 6가지의 경우에 대한 소비자의 인식을 카노 모형을 통해 분석하였다. 나아가, 도출된 결과를 인지된 진정성과 기만으로 그룹을 구분해 인식의 차이가 이에 따라 드러나는지 추가적으로 살펴보았다. 연구 결과, AI가 생성한 콘텐츠에 대한 소비자 인식은 만족도에 큰 영향을 미치지 않았으나, 뉴스로 대표되는 실용적 콘텐츠에서는 AI 사용에 대한 부정적 인식이 확인되었으며, 특히 뉴스 영상 제작에 있어 부정적 인식이 강하게 드러났다. 반면, 영화와 드라마로 대표되는 쾌락적 콘텐츠에서는 생성형 AI 사용에 대한 인식이 무관심하거나 오히려 긍정적이었다. AI 사용 여부의 공개에 대해서는 콘텐츠 가치유형에 관계없이 지켜야 할 원칙으로 인식되었으나, 실용적 콘텐츠에 대해 그러한 인식이 더 강하게 드러났다. 본 연구는 AI 활용의 투명성과 진정성을 제고하는 방안이 필요함을 시사하며, 향후 AI의 발전과 활용이 소비자 인식에 미치는 영향을 지속적으로 연구할 필요가 있음을 강조한다."
+        },
+        {
+          "rank": 2,
+          "score": 0.4018070101737976,
+          "doc_id": "132",
+          "text": "Artificial intelligence Artificial intelligence Artificial intelligence 없음"
+        },
+        {
+          "rank": 3,
+          "score": 0.40093791484832764,
+          "doc_id": "216",
+          "text": "A Study on Artificial Intelligence A Study on Artificial Intelligence A Study on Artificial Intelligence 없음"
+        },
+        {
+          "rank": 4,
+          "score": 0.3986726999282837,
+          "doc_id": "151",
+          "text": "마음,지능,인공지능 마음,지능,인공지능 마음,지능,인공지능 최근 여러 학문 분야에서는 논의되고 있는 인공지능(AI)의 문제는 과학적 문제임과 동시에 중요한 철학적 문제이다.본고는 컴퓨터과학자 혹은 인지과학자들이 내리고 있는 AI의 정의들을 분석함으로써 그 속에 함축되어 있는 논쟁점들을 발굴하고,관련된 논변들을 검토함 으로써 AI탐구가 지니는 의의를 명확히 해보려는 데 그 목적이 있다.AI에 대한 정의들은 AI연구가들의 관심과 목표 그리고 그 주장의 강도에 따라 여러 유형으로 분류될 수 있지만 대개가 인간지능을 어떻게 파악하고 있는지,지능과 뇌의 관계가 무엇인지,그리고 그것을 컴퓨터를 통해서 모의하고 복제한다는 것의 논리적 구조가 무엇인지에 대한 이해와 밀접한 관계가 있다.이점에서 AI연구에 있어서 관건이 되는 것은 컴퓨터 기술의 발전과 같은 경험상의 문제라기 보다는 오히려 논리나 개념분석과 같은 선험적인 문제와 밀접하게 연관되어 있다."
+        },
+        {
+          "rank": 5,
+          "score": 0.3805086016654968,
+          "doc_id": "82",
+          "text": "Artificial Intelligence for Artificial Artificial Intelligence Artificial Intelligence for Artificial Artificial Intelligence Artificial Intelligence for Artificial Artificial Intelligence 없음"
+        },
+        {
+          "rank": 6,
+          "score": 0.3663729131221771,
+          "doc_id": "184",
+          "text": "Artificial Intelligence in Pharmacy Artificial Intelligence in Pharmacy Artificial Intelligence in Pharmacy 없음"
+        },
+        {
+          "rank": 7,
+          "score": 0.3599308133125305,
+          "doc_id": "193",
+          "text": "What's Humanity for Artificial Intelligence Humane Artificial Intelligence and Artificial General Intelligence What's Humanity for Artificial Intelligence Humane Artificial Intelligence and Artificial General Intelligence What's Humanity for Artificial Intelligence Humane Artificial Intelligence and Artificial General Intelligence 없음"
+        },
+        {
+          "rank": 8,
+          "score": 0.3562943935394287,
+          "doc_id": "181",
+          "text": "초등 인공지능 교육을 위한 설명 가능한 인공지능의 교육적 의미 연구 초등 인공지능 교육을 위한 설명 가능한 인공지능의 교육적 의미 연구 초등 인공지능 교육을 위한 설명 가능한 인공지능의 교육적 의미 연구 본 연구는 문헌 연구 통해 설명 가능한 인공지능의 개념과 문제해결과정을 탐구하였다. 본 연구를 통하여 설명 가능한 인공지능의 교육적 의미와 적용 방안을 제시하였다. 설명 가능한 인공지능 교육이란 인간과 관련된 인공지능 문제를 다루는 사람 중심의 인공지능 교육으로 학생들은 문제 해결 능력을 함양할 수 있다. 그리고, 알고리즘 교육을 통해 인공지능의 원리를 이해하고 실생활 문제 상황과 관련된 인공지능 모델을 설명하며 인공지능의 활용분야까지 확장할 수 있다. 이러한 설명 가능한 인공지능 교육이 초등학교에서 적용되기 위해서는 실제 삶과 관련된 예를 사용해야 하며 알고리즘 자체가 해석력을 지닌 것을 활용하는 것이 좋다. 또한, 이해가 설명으로 나아가기 위해 다양한 교수학습방법 및 도구를 활용해야 한다. 2022년 개정 교육과정에서 인공지능 도입을 앞두고 본 연구가 실제 수업을 위한 기반으로써 의미 있게 활용되기를 바란다."
+        },
+        {
+          "rank": 9,
+          "score": 0.3539007902145386,
+          "doc_id": "97",
+          "text": "&#x201e;Machine learning“ in der An&auml;sthesiologie &#x201e;Machine learning“ in der An&auml;sthesiologie &#x201e;Machine learning“ in der An&auml;sthesiologie 없음"
+        },
+        {
+          "rank": 10,
+          "score": 0.35256487131118774,
+          "doc_id": "137",
+          "text": "What's Humanity for Artificial Intelligence Jindo Intelligence &#x2014; Dawning of Artificial Intelligence &#x2014; What's Humanity for Artificial Intelligence Jindo Intelligence &#x2014; Dawning of Artificial Intelligence &#x2014; What's Humanity for Artificial Intelligence Jindo Intelligence &#x2014; Dawning of Artificial Intelligence &#x2014; 없음"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

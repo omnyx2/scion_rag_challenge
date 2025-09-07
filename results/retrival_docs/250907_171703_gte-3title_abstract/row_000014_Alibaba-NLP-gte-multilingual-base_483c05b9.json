@@ -1,0 +1,291 @@
+{
+  "id": "row_000014",
+  "model_name": "Alibaba-NLP/gte-multilingual-base",
+  "timestamp_kst": "2025-09-07T17:17:04.000472+09:00",
+  "trial_id": "483c05b9",
+  "queries": [
+    {
+      "query": "How does the content describe the combination of phenomenological and mechanistic approaches through Big Data analytics to support personalized healthcare?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7203267812728882,
+          "doc_id": "76",
+          "text": "Big Data, Big Knowledge: Big Data for Personalized Healthcare Big Data, Big Knowledge: Big Data for Personalized Healthcare Big Data, Big Knowledge: Big Data for Personalized Healthcare The idea that the purely phenomenological knowledge that we can extract by analyzing large amounts of data can be useful in healthcare seems to contradict the desire of VPH researchers to build detailed mechanistic models for individual patients. But in practice no model is ever entirely phenomenological or entirely mechanistic. We propose in this position paper that big data analytics can be successfully combined with VPH technologies to produce robust and effective in silico medicine solutions. In order to do this, big data technologies must be further developed to cope with some specific requirements that emerge from this application. Such requirements are: working with sensitive data; analytics of complex and heterogeneous data spaces, including nontextual information; distributed data management under security and performance constraints; specialized analytics to integrate bioinformatics and systems biology information with clinical observations at tissue, organ and organisms scales; and specialized analytics to define the &#x201C;physiological envelope&#x201D; during the daily life of each patient. These domain-specific requirements suggest a need for targeted funding, in which big data technologies for in silico medicine becomes the research priority."
+        },
+        {
+          "rank": 2,
+          "score": 0.7043516039848328,
+          "doc_id": "196",
+          "text": "Nursing Needs Big Data and Big Data Needs Nursing Nursing Needs Big Data and Big Data Needs Nursing Nursing Needs Big Data and Big Data Needs Nursing AbstractPurposeContemporary big data initiatives in health care will benefit from greater integration with nursing science and nursing practice; in turn, nursing science and nursing practice has much to gain from the data science initiatives. Big data arises secondary to scholarly inquiry (e.g., &#8208;omics) and everyday observations like cardiac flow sensors or Twitter feeds. Data science methods that are emerging ensure that these data be leveraged to improve patient care.Organizing ConstructBig data encompasses data that exceed human comprehension, that exist at a volume unmanageable by standard computer systems, that arrive at a velocity not under the control of the investigator and possess a level of imprecision not found in traditional inquiry. Data science methods are emerging to manage and gain insights from big data.MethodsThe primary methods included investigation of emerging federal big data initiatives, and exploration of exemplars from nursing informatics research to benchmark where nursing is already poised to participate in the big data revolution. We provide observations and reflections on experiences in the emerging big data initiatives.ConclusionsExisting approaches to large data set analysis provide a necessary but not sufficient foundation for nursing to participate in the big data revolution. Nursing's Social Policy Statement guides a principled, ethical perspective on big data and data science. There are implications for basic and advanced practice clinical nurses in practice, for the nurse scientist who collaborates with data scientists, and for the nurse data scientist.Clinical RelevanceBig data and data science has the potential to provide greater richness in understanding patient phenomena and in tailoring interventional strategies that are personalized to the patient."
+        },
+        {
+          "rank": 3,
+          "score": 0.6974511742591858,
+          "doc_id": "87",
+          "text": "Big Data Analysis and Machine Learning in Intensive Care Units Big Data Analysis and Machine Learning in Intensive Care Units Big Data Analysis and Machine Learning in Intensive Care Units Abstract Intensive care is an ideal environment for the use of Big Data Analysis (BDA) and Machine Learning (ML), due to the huge amount of information processed and stored in electronic format in relation to such care. These tools can improve our clinical research capabilities and clinical decision making in the future. The present study reviews the foundations of BDA and ML, and explores possible applications in our field from a clinical viewpoint. We also suggest potential strategies to optimize these new technologies and describe a new kind of hybrid healthcare-data science professional with a linking role between clinicians and data."
+        },
+        {
+          "rank": 4,
+          "score": 0.681927502155304,
+          "doc_id": "199",
+          "text": "Sharing big biomedical data Sharing big biomedical data Sharing big biomedical data BackgroundThe promise of Big Biomedical Data may be offset by the enormous challenges in handling, analyzing, and sharing it. In this paper, we provide a framework for developing practical and reasonable data sharing policies that incorporate the sociological, financial, technical and scientific requirements of a sustainable Big Data dependent scientific community.FindingsMany biomedical and healthcare studies may be significantly impacted by using large, heterogeneous and incongruent datasets; however there are significant technical, social, regulatory, and institutional barriers that need to be overcome to ensure the power of Big Data overcomes these detrimental factors.ConclusionsPragmatic policies that demand extensive sharing of data, promotion of data fusion, provenance, interoperability and balance security and protection of personal information are critical for the long term impact of translational Big Data analytics."
+        },
+        {
+          "rank": 5,
+          "score": 0.6692358255386353,
+          "doc_id": "217",
+          "text": "Les big data, g&eacute;n&eacute;ralit&eacute;s et int&eacute;gration en radioth&eacute;rapie Les big data, g&eacute;n&eacute;ralit&eacute;s et int&eacute;gration en radioth&eacute;rapie Les big data, g&eacute;n&eacute;ralit&eacute;s et int&eacute;gration en radioth&eacute;rapie Abstract The many advances in data collection computing systems (data collection, database, storage), diagnostic and therapeutic possibilities are responsible for an increase and a diversification of available data. Big data offers the capacities, in the field of health, to accelerate the discoveries and to optimize the management of patients by combining a large volume of data and the creation of therapeutic models. In radiotherapy, the development of big data is attractive because data are very numerous et heterogeneous (demographics, radiomics, genomics, radiogenomics, etc.). The expectation would be to predict the effectiveness and tolerance of radiation therapy. With these new concepts, still at the preliminary stage, it is possible to create a personalized medicine which is always more secure and reliable."
+        },
+        {
+          "rank": 6,
+          "score": 0.6326767206192017,
+          "doc_id": "43",
+          "text": "Enjeux des big data en sant&eacute; Enjeux des big data en sant&eacute; Enjeux des big data en sant&eacute; Summary The government has commissioned a report on the topic, the Estates General on Bioethics refer to it and the Order of Doctors have published a white paper. Everybody is talking about big data and artificial intelligence but few have witnessed these innovations at work, innovations which now seem to be within reach of health professionals. This field, unknown to the general public a few years ago, has become an object of all fantasies and is bringing about a new industrial revolution."
+        },
+        {
+          "rank": 7,
+          "score": 0.6324267983436584,
+          "doc_id": "62",
+          "text": "Utilization and Analysis of Big-data Utilization and Analysis of Big-data Utilization and Analysis of Big-data This study reviews the analysis and characteristics of databases from big data and then establishes representational strategy. Thus, analysis has continued for a long time in the quantity and quality of data, and there are changes in the location of data in the social sciences, past trends and the emergence of big data. The introduction of big data is presented as a prototype of new social science and is a useful practical example that empirically shows the need, basis, and direction of analysis through trend prediction services. Big data provides a future perspective as an important foundation for social change within the framework of basic social sciences."
+        },
+        {
+          "rank": 8,
+          "score": 0.6251453757286072,
+          "doc_id": "120",
+          "text": "Big Data Key Challenges Big Data Key Challenges Big Data Key Challenges The big data term refers to the great volume of data and complicated data structure with difficulties in collecting, storing, processing, and analyzing these data. Big data analytics refers to the operation of disclosing hidden patterns through big data. This information and data set cloud to be useful and provide advanced services. However, analyzing and processing this information could cause revealing and disclosing some sensitive and personal information when the information is contained in applications that are correlated to users such as location-based services, but concerns are diminished if the applications are correlated to general information such as scientific results. In this work, a survey has been done over security and privacy challenges and approaches in big data. The challenges included here are in each of the following areas: privacy, access control, encryption, and authentication in big data. Likewise, the approaches presented here are privacy-preserving approaches in big data, access control approaches in big data, encryption approaches in big data, and authentication approaches in big data."
+        },
+        {
+          "rank": 9,
+          "score": 0.6238583922386169,
+          "doc_id": "208",
+          "text": "For Big Data, Big Questions Remain For Big Data, Big Questions Remain For Big Data, Big Questions Remain Medicare&#x2019;s release of practitioner payments highlights the strengths and weaknesses of digging into big data."
+        },
+        {
+          "rank": 10,
+          "score": 0.6188576221466064,
+          "doc_id": "34",
+          "text": "Supporting Privacy-Preserving Big Data Analytics on Temporal Open Big Data Supporting Privacy-Preserving Big Data Analytics on Temporal Open Big Data Supporting Privacy-Preserving Big Data Analytics on Temporal Open Big Data Abstract Nowadays, valuable big data are generated and collected rapidly from numerous rich data sources. Following the initiatives of open data, many organizations including municipal governments are willing to share their data such as open big data regarding parking violations. While there have been models to preserve privacy of sensitive personal data like patient data for health informatics, privacy of individuals who violated parking regulations should also be protected. Hence, in this article, we present a model for supporting privacy-preserving big data analytics on temporal open big data. This temporally hierarchical privacy-preserving model (THPPM) adapts and extends the traditional temporal hierarchy to generalize spatial data generated within a time interval with an aim to preserve privacy of individuals who violated parking regulations during some time intervals at certain geographic locations. Evaluation on open big data from two North American cities demonstrates the usefulness of our model in supporting privacy-preserving big data analytics on temporal open big data."
+        }
+      ]
+    },
+    {
+      "query": "How does the content describe the combination of phenomenological and mechanistic approaches?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5860679149627686,
+          "doc_id": "27",
+          "text": "Synthesizing cellular intelligence and artificial intelligence for bioprocesses Synthesizing cellular intelligence and artificial intelligence for bioprocesses Synthesizing cellular intelligence and artificial intelligence for bioprocesses AbstractMicrobial processes operated under realistic conditions are difficult to describe by mechanistic models, thereby limiting their optimization and control. Responses of living cells to their environment suggest that they possess some &ldquo;innate intelligence&rdquo;. Such responses have been modeled by a cybernetic approach. Furthermore, the overall behavior of a bioreactor containing a population of cells may be described and controlled through artificial intelligence methods. Therefore, it seems logical to combine cybernetic models with artificial intelligence to evolve an integrated intelligence-based strategy that is physiologically more faithful than the current approaches. This possibility is discussed, together with practical considerations favoring a hybrid approach that includes some mathematical modeling."
+        },
+        {
+          "rank": 2,
+          "score": 0.5785679817199707,
+          "doc_id": "93",
+          "text": "Artificial intelligence and robotics Artificial intelligence and robotics Artificial intelligence and robotics Since Robotics is the field concerned with the connection of perception to action, Artificial Intelligence must have a central role in Robotics if the connection is to be intelligent. Artificial Intelligence addresses the crucial questions of: what knowledge is required in any aspect of thinking; how should that knowledge be represented; and how should that knowledge be used. Robotics challenges AI by forcing it to deal with real objects in the real world. Techniques and representations developed for purely cognitive problems, often in toy domains, do not necessarily extend to meet the challenge. Robots combine mechanical effectors, sensors, and computers. AI has made significant contributions to each component. We review AI contributions to perception and reasoning about physical objects. Such reasoning concerns space, path-planning, uncertainty, and compliance. We conclude with three examples that illustrate the kinds of reasoning or problem-solving abilities we would like to endow robots with and that we believe are worthy goals of both Robotics and Artificial Intelligence, being within reach of both."
+        },
+        {
+          "rank": 3,
+          "score": 0.5527071356773376,
+          "doc_id": "183",
+          "text": "구성적 인공지능 구성적 인공지능 구성적 인공지능 서양철학의 근간을 이루는 데카르트의 이성주의적 인간이해의 반성으로부터 등장한 구성주의는 지능을 포함한 인간이해의 새로운 대안이 될 수 있을 것으로 생각한다. 구성주의는 진화생물학, 진화심리학, 뇌과학, 시스템이론, 복잡계 이론의 성과뿐만 아니라 나아가 인문사회학의 경향과도 설명을 공유할 수 있는 많은 부분이 있다. 또한 인공지능 분야에서도 구성주의적 방법이라고 할 수 있는 연구가 진행되고 있다. 이 글에서는 구성주의적 관점에서 인공지능에서 다루는 지능에 대한 이해의 지평을 넓히고 이를 기반으로 한 방법론에 대한 검토와 그러한 경향에 있는 일부 인공지능 기술을 살펴보고자 한다. 이러한 논의를 통하여 여러 가지 관점의 마음에 대한 이론과 기술을 상호보완적으로 이해하고 다소 등한히 되고 있는 인공지능의 보편지능(general intelligence)의 토대로 삼고자 한다."
+        },
+        {
+          "rank": 4,
+          "score": 0.5405498147010803,
+          "doc_id": "122",
+          "text": "Artificial Agential Intelligence Artificial Agential Intelligence Artificial Agential Intelligence Since artificial intelligence (AI) emerged in the mid-20th century, it has incurred many theoretical criticisms (Dreyfus, H. [1972] What Computers Can&rsquo;t Do (MIT Press, New York); Dreyfus, H. [1992] What Computers Still Can&rsquo;t Do (MIT Press, New York); Searle, J. [1980] Minds, brains and programs, Behav. Brain Sci.3, 417-457; Searle, J. [1984] Minds, Brains and Sciences (Harvard University Press, Cambridge, MA); Searle, J. [1992] The Rediscovery of the Mind (MIT Press, Cambridge, MA); Fodor, J. [2002] The Mind Doesn&rsquo;t Work that Way: The Scope and Limits of Computational Psychology (MIT Press, Cambridge, MA).). The technical improvements of machine learning and deep learning, though, have been continuing and many breakthroughs have occurred recently. This makes theoretical considerations urgent again: can this new wave of AI fare better than its precursors in emulating or even having human-like minds? I propose a cautious yet positive hypothesis: current AI might create human-like mind, but only if it incorporates certain conceptual rewiring: it needs to shift from a task-based to an agent-based framework, which can be dubbed &ldquo;Artificial Agential Intelligence&rdquo; (AAI). It comprises practical reason (McDowell, J. [1979] Virtue and reason, Monist62(3), 331-350; McDowell, J. [1996] Mind and World (Harvard University Press, Cambridge, MA)), imaginative understanding (Campbell, J. [2020] Causation in Psychology (Harvard University Press, Cambridge, MA)), and animal knowledge (Sosa, E. [2007] A Virtue Epistemology: Apt Belief and Reflective Knowledge, volume 1 (Oxford University Press, Oxford, UK); Sosa, E. [2015] Judgment and Agency (Oxford University Press, Cambridge, MA)). Moreover, I will explore whether and in what way neuroscience-inspired AI and predictive coding (Hassabis, D., Kumaran, D., Summerfield, C., &amp; Botvinick, M. [2017] Neuroscience-inspired artificial intelligence, Neuron95(2), 245-258) can help carry out this project."
+        },
+        {
+          "rank": 5,
+          "score": 0.5366314649581909,
+          "doc_id": "147",
+          "text": "A Survey of Topological Machine Learning Methods A Survey of Topological Machine Learning Methods A Survey of Topological Machine Learning Methods The last decade saw an enormous boost in the field of computational topology: methods and concepts from algebraic and differential topology, formerly confined to the realm of pure mathematics, have demonstrated their utility in numerous areas such as computational biology personalised medicine, and time-dependent data analysis, to name a few. The newly-emerging domain comprising topology-based techniques is often referred to as topological data analysis (TDA). Next to their applications in the aforementioned areas, TDA methods have also proven to be effective in supporting, enhancing, and augmenting both classical machine learning and deep learning models. In this paper, we review the state of the art of a nascent field we refer to as &ldquo;topological machine learning,&rdquo; i.e., the successful symbiosis of topology-based methods and machine learning algorithms, such as deep neural networks. We identify common threads, current applications, and future challenges."
+        },
+        {
+          "rank": 6,
+          "score": 0.5296469926834106,
+          "doc_id": "131",
+          "text": "Machine learning political orders Machine learning political orders Machine learning political orders AbstractA significant set of epistemic and political transformations are taking place as states and societies begin to understand themselves and their problems through the paradigm of deep neural network algorithms. A machine learning political order does not merely change the political technologies of governance, but is itself a reordering of politics, of what the political can be. When algorithmic systems reduce the pluridimensionality of politics to the output of a model, they simultaneously foreclose the potential for other political claims to be made and alternative political projects to be built. More than this foreclosure, a machine learning political order actively profits and learns from the fracturing of communities and the destabilising of democratic rights. The transformation from rules-based algorithms to deep learning models has paralleled the undoing of rules-based social and international orders - from the use of machine learning in the campaigns of the UK EU referendum, to the trialling of algorithmic immigration and welfare systems, and the use of deep learning in the COVID-19 pandemic - with political problems becoming reconfigured as machine learning problems. Machine learning political orders decouple their attributes, features and clusters from underlying social values, no longer tethered to notions of good governance or a good society, but searching instead for the optimal function of abstract representations of data."
+        },
+        {
+          "rank": 7,
+          "score": 0.5295120477676392,
+          "doc_id": "76",
+          "text": "Big Data, Big Knowledge: Big Data for Personalized Healthcare Big Data, Big Knowledge: Big Data for Personalized Healthcare Big Data, Big Knowledge: Big Data for Personalized Healthcare The idea that the purely phenomenological knowledge that we can extract by analyzing large amounts of data can be useful in healthcare seems to contradict the desire of VPH researchers to build detailed mechanistic models for individual patients. But in practice no model is ever entirely phenomenological or entirely mechanistic. We propose in this position paper that big data analytics can be successfully combined with VPH technologies to produce robust and effective in silico medicine solutions. In order to do this, big data technologies must be further developed to cope with some specific requirements that emerge from this application. Such requirements are: working with sensitive data; analytics of complex and heterogeneous data spaces, including nontextual information; distributed data management under security and performance constraints; specialized analytics to integrate bioinformatics and systems biology information with clinical observations at tissue, organ and organisms scales; and specialized analytics to define the &#x201C;physiological envelope&#x201D; during the daily life of each patient. These domain-specific requirements suggest a need for targeted funding, in which big data technologies for in silico medicine becomes the research priority."
+        },
+        {
+          "rank": 8,
+          "score": 0.5291399955749512,
+          "doc_id": "127",
+          "text": "Predicting Terrorism with Machine Learning: Lessons from “Predicting Terrorism: A Machine Learning Approach” Predicting Terrorism with Machine Learning: Lessons from “Predicting Terrorism: A Machine Learning Approach” Predicting Terrorism with Machine Learning: Lessons from “Predicting Terrorism: A Machine Learning Approach” AbstractThis paper highlights how machine learning can help explain terrorism. We note that even though machine learning has a reputation for black box prediction, in fact, it can provide deeply nuanced explanations of terrorism. Moreover, machine learning is not sensitive to the sometimes heroic statistical assumptions necessary when parametric econometrics is applied to the study of terrorism. This increases the reliability of explanations while adding contextual nuance that captures the flavor of individualized case analysis. Nevertheless, this approach also gives us a sense of the replicability of results. We, therefore, suggest that it further expands the role of science in terrorism research."
+        },
+        {
+          "rank": 9,
+          "score": 0.528954267501831,
+          "doc_id": "48",
+          "text": "Color Convergence: Is it Only Mimetic? Color Convergence: Is it Only Mimetic? Color Convergence: Is it Only Mimetic? 없음"
+        },
+        {
+          "rank": 10,
+          "score": 0.5274776220321655,
+          "doc_id": "185",
+          "text": "Topology optimization via machine learning and deep learning: a review Topology optimization via machine learning and deep learning: a review Topology optimization via machine learning and deep learning: a review Topology optimization (TO) is a method of deriving an optimal design that satisfies a given load and boundary conditions within a design domain. This method enables effective design without initial design, but has been limited in use due to high computational costs. At the same time, machine learning (ML) methodology including deep learning has made great progress in the 21st century, and accordingly, many studies have been conducted to enable effective and rapid optimization by applying ML to TO. Therefore, this study reviews and analyzes previous research on ML-based TO (MLTO). Two different perspectives of MLTO are used to review studies: (i) TO and (ii) ML perspectives. The TO perspective addresses “why” to use ML for TO, while the ML perspective addresses “how” to apply ML to TO. In addition, the limitations of current MLTO research and future research directions are examined."
+        }
+      ]
+    },
+    {
+      "query": "How does the content describe the role of Big Data analytics in combining phenomenological and mechanistic approaches?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6916109919548035,
+          "doc_id": "62",
+          "text": "Utilization and Analysis of Big-data Utilization and Analysis of Big-data Utilization and Analysis of Big-data This study reviews the analysis and characteristics of databases from big data and then establishes representational strategy. Thus, analysis has continued for a long time in the quantity and quality of data, and there are changes in the location of data in the social sciences, past trends and the emergence of big data. The introduction of big data is presented as a prototype of new social science and is a useful practical example that empirically shows the need, basis, and direction of analysis through trend prediction services. Big data provides a future perspective as an important foundation for social change within the framework of basic social sciences."
+        },
+        {
+          "rank": 2,
+          "score": 0.6806501746177673,
+          "doc_id": "87",
+          "text": "Big Data Analysis and Machine Learning in Intensive Care Units Big Data Analysis and Machine Learning in Intensive Care Units Big Data Analysis and Machine Learning in Intensive Care Units Abstract Intensive care is an ideal environment for the use of Big Data Analysis (BDA) and Machine Learning (ML), due to the huge amount of information processed and stored in electronic format in relation to such care. These tools can improve our clinical research capabilities and clinical decision making in the future. The present study reviews the foundations of BDA and ML, and explores possible applications in our field from a clinical viewpoint. We also suggest potential strategies to optimize these new technologies and describe a new kind of hybrid healthcare-data science professional with a linking role between clinicians and data."
+        },
+        {
+          "rank": 3,
+          "score": 0.6758707165718079,
+          "doc_id": "100",
+          "text": "Synchrotron Big Data Science Synchrotron Big Data Science Synchrotron Big Data Science AbstractThe rapid development of synchrotrons has massively increased the speed at which experiments can be performed, while new techniques have increased the amount of raw data collected during each experiment. While this has created enormous new opportunities, it has also created tremendous challenges for national facilities and users. With the huge increase in data volume, the manual analysis of data is no longer possible. As a result, only a fraction of the data collected during the time&#8208; and money&#8208;expensive synchrotron beam&#8208;time is analyzed and used to deliver new science. Additionally, the lack of an appropriate data analysis environment limits the realization of experiments that generate a large amount of data in a very short period of time. The current lack of automated data analysis pipelines prevents the fine&#8208;tuning of beam&#8208;time experiments, further reducing their potential usage. These effects, collectively known as the &ldquo;data deluge,&rdquo; affect synchrotrons in several different ways including fast data collection, available local storage, data management systems, and curation of the data. This review highlights the Big Data strategies adopted nowadays at synchrotrons, documenting this novel and promising hybridization between science and technology, which promise a dramatic increase in the number of scientific discoveries."
+        },
+        {
+          "rank": 4,
+          "score": 0.6752004623413086,
+          "doc_id": "196",
+          "text": "Nursing Needs Big Data and Big Data Needs Nursing Nursing Needs Big Data and Big Data Needs Nursing Nursing Needs Big Data and Big Data Needs Nursing AbstractPurposeContemporary big data initiatives in health care will benefit from greater integration with nursing science and nursing practice; in turn, nursing science and nursing practice has much to gain from the data science initiatives. Big data arises secondary to scholarly inquiry (e.g., &#8208;omics) and everyday observations like cardiac flow sensors or Twitter feeds. Data science methods that are emerging ensure that these data be leveraged to improve patient care.Organizing ConstructBig data encompasses data that exceed human comprehension, that exist at a volume unmanageable by standard computer systems, that arrive at a velocity not under the control of the investigator and possess a level of imprecision not found in traditional inquiry. Data science methods are emerging to manage and gain insights from big data.MethodsThe primary methods included investigation of emerging federal big data initiatives, and exploration of exemplars from nursing informatics research to benchmark where nursing is already poised to participate in the big data revolution. We provide observations and reflections on experiences in the emerging big data initiatives.ConclusionsExisting approaches to large data set analysis provide a necessary but not sufficient foundation for nursing to participate in the big data revolution. Nursing's Social Policy Statement guides a principled, ethical perspective on big data and data science. There are implications for basic and advanced practice clinical nurses in practice, for the nurse scientist who collaborates with data scientists, and for the nurse data scientist.Clinical RelevanceBig data and data science has the potential to provide greater richness in understanding patient phenomena and in tailoring interventional strategies that are personalized to the patient."
+        },
+        {
+          "rank": 5,
+          "score": 0.6710817813873291,
+          "doc_id": "124",
+          "text": "Big Data in Building Energy Efficiency: Understanding of Big Data and Main Challenges Big Data in Building Energy Efficiency: Understanding of Big Data and Main Challenges Big Data in Building Energy Efficiency: Understanding of Big Data and Main Challenges Data generation has increased drastically over the past few years. Data management has also grown in importance because extracting the significant value out of a huge pile of raw data is of prime important thing to make different decisions. One of the important sectors nowadays is construction sector, especially building energy efficiency field. Collecting big amount of data, using different kinds of big data analysis can help to improve construction process from the energy efficiency perspective. This article reviews the understanding of Big Data, methods used for Big Data analysis and the main problems with Big Data in the field of energy."
+        },
+        {
+          "rank": 6,
+          "score": 0.6610668301582336,
+          "doc_id": "199",
+          "text": "Sharing big biomedical data Sharing big biomedical data Sharing big biomedical data BackgroundThe promise of Big Biomedical Data may be offset by the enormous challenges in handling, analyzing, and sharing it. In this paper, we provide a framework for developing practical and reasonable data sharing policies that incorporate the sociological, financial, technical and scientific requirements of a sustainable Big Data dependent scientific community.FindingsMany biomedical and healthcare studies may be significantly impacted by using large, heterogeneous and incongruent datasets; however there are significant technical, social, regulatory, and institutional barriers that need to be overcome to ensure the power of Big Data overcomes these detrimental factors.ConclusionsPragmatic policies that demand extensive sharing of data, promotion of data fusion, provenance, interoperability and balance security and protection of personal information are critical for the long term impact of translational Big Data analytics."
+        },
+        {
+          "rank": 7,
+          "score": 0.6516667604446411,
+          "doc_id": "120",
+          "text": "Big Data Key Challenges Big Data Key Challenges Big Data Key Challenges The big data term refers to the great volume of data and complicated data structure with difficulties in collecting, storing, processing, and analyzing these data. Big data analytics refers to the operation of disclosing hidden patterns through big data. This information and data set cloud to be useful and provide advanced services. However, analyzing and processing this information could cause revealing and disclosing some sensitive and personal information when the information is contained in applications that are correlated to users such as location-based services, but concerns are diminished if the applications are correlated to general information such as scientific results. In this work, a survey has been done over security and privacy challenges and approaches in big data. The challenges included here are in each of the following areas: privacy, access control, encryption, and authentication in big data. Likewise, the approaches presented here are privacy-preserving approaches in big data, access control approaches in big data, encryption approaches in big data, and authentication approaches in big data."
+        },
+        {
+          "rank": 8,
+          "score": 0.6513980031013489,
+          "doc_id": "23",
+          "text": "Big data, Big bang? Big data, Big bang? Big data, Big bang? 없음"
+        },
+        {
+          "rank": 9,
+          "score": 0.6497178077697754,
+          "doc_id": "76",
+          "text": "Big Data, Big Knowledge: Big Data for Personalized Healthcare Big Data, Big Knowledge: Big Data for Personalized Healthcare Big Data, Big Knowledge: Big Data for Personalized Healthcare The idea that the purely phenomenological knowledge that we can extract by analyzing large amounts of data can be useful in healthcare seems to contradict the desire of VPH researchers to build detailed mechanistic models for individual patients. But in practice no model is ever entirely phenomenological or entirely mechanistic. We propose in this position paper that big data analytics can be successfully combined with VPH technologies to produce robust and effective in silico medicine solutions. In order to do this, big data technologies must be further developed to cope with some specific requirements that emerge from this application. Such requirements are: working with sensitive data; analytics of complex and heterogeneous data spaces, including nontextual information; distributed data management under security and performance constraints; specialized analytics to integrate bioinformatics and systems biology information with clinical observations at tissue, organ and organisms scales; and specialized analytics to define the &#x201C;physiological envelope&#x201D; during the daily life of each patient. These domain-specific requirements suggest a need for targeted funding, in which big data technologies for in silico medicine becomes the research priority."
+        },
+        {
+          "rank": 10,
+          "score": 0.6468508839607239,
+          "doc_id": "78",
+          "text": "Data learning from big data Data learning from big data Data learning from big data Abstract Technology is generating a huge and growing availability of observations of diverse nature. This big data is placing data learning as a central scientific discipline. It includes collection, storage, preprocessing, visualization and, essentially, statistical analysis of enormous batches of data. In this paper, we discuss the role of statistics regarding some of the issues raised by big data in this new paradigm and also propose the name of data learning to describe all the activities that allow to obtain relevant knowledge from this new source of information."
+        }
+      ]
+    },
+    {
+      "query": "How does the content describe how the combination of phenomenological and mechanistic approaches, facilitated by Big Data analytics, supports personalized healthcare?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 2
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7196516990661621,
+          "doc_id": "76",
+          "text": "Big Data, Big Knowledge: Big Data for Personalized Healthcare Big Data, Big Knowledge: Big Data for Personalized Healthcare Big Data, Big Knowledge: Big Data for Personalized Healthcare The idea that the purely phenomenological knowledge that we can extract by analyzing large amounts of data can be useful in healthcare seems to contradict the desire of VPH researchers to build detailed mechanistic models for individual patients. But in practice no model is ever entirely phenomenological or entirely mechanistic. We propose in this position paper that big data analytics can be successfully combined with VPH technologies to produce robust and effective in silico medicine solutions. In order to do this, big data technologies must be further developed to cope with some specific requirements that emerge from this application. Such requirements are: working with sensitive data; analytics of complex and heterogeneous data spaces, including nontextual information; distributed data management under security and performance constraints; specialized analytics to integrate bioinformatics and systems biology information with clinical observations at tissue, organ and organisms scales; and specialized analytics to define the &#x201C;physiological envelope&#x201D; during the daily life of each patient. These domain-specific requirements suggest a need for targeted funding, in which big data technologies for in silico medicine becomes the research priority."
+        },
+        {
+          "rank": 2,
+          "score": 0.7051565647125244,
+          "doc_id": "196",
+          "text": "Nursing Needs Big Data and Big Data Needs Nursing Nursing Needs Big Data and Big Data Needs Nursing Nursing Needs Big Data and Big Data Needs Nursing AbstractPurposeContemporary big data initiatives in health care will benefit from greater integration with nursing science and nursing practice; in turn, nursing science and nursing practice has much to gain from the data science initiatives. Big data arises secondary to scholarly inquiry (e.g., &#8208;omics) and everyday observations like cardiac flow sensors or Twitter feeds. Data science methods that are emerging ensure that these data be leveraged to improve patient care.Organizing ConstructBig data encompasses data that exceed human comprehension, that exist at a volume unmanageable by standard computer systems, that arrive at a velocity not under the control of the investigator and possess a level of imprecision not found in traditional inquiry. Data science methods are emerging to manage and gain insights from big data.MethodsThe primary methods included investigation of emerging federal big data initiatives, and exploration of exemplars from nursing informatics research to benchmark where nursing is already poised to participate in the big data revolution. We provide observations and reflections on experiences in the emerging big data initiatives.ConclusionsExisting approaches to large data set analysis provide a necessary but not sufficient foundation for nursing to participate in the big data revolution. Nursing's Social Policy Statement guides a principled, ethical perspective on big data and data science. There are implications for basic and advanced practice clinical nurses in practice, for the nurse scientist who collaborates with data scientists, and for the nurse data scientist.Clinical RelevanceBig data and data science has the potential to provide greater richness in understanding patient phenomena and in tailoring interventional strategies that are personalized to the patient."
+        },
+        {
+          "rank": 3,
+          "score": 0.6936591267585754,
+          "doc_id": "87",
+          "text": "Big Data Analysis and Machine Learning in Intensive Care Units Big Data Analysis and Machine Learning in Intensive Care Units Big Data Analysis and Machine Learning in Intensive Care Units Abstract Intensive care is an ideal environment for the use of Big Data Analysis (BDA) and Machine Learning (ML), due to the huge amount of information processed and stored in electronic format in relation to such care. These tools can improve our clinical research capabilities and clinical decision making in the future. The present study reviews the foundations of BDA and ML, and explores possible applications in our field from a clinical viewpoint. We also suggest potential strategies to optimize these new technologies and describe a new kind of hybrid healthcare-data science professional with a linking role between clinicians and data."
+        },
+        {
+          "rank": 4,
+          "score": 0.6803892850875854,
+          "doc_id": "199",
+          "text": "Sharing big biomedical data Sharing big biomedical data Sharing big biomedical data BackgroundThe promise of Big Biomedical Data may be offset by the enormous challenges in handling, analyzing, and sharing it. In this paper, we provide a framework for developing practical and reasonable data sharing policies that incorporate the sociological, financial, technical and scientific requirements of a sustainable Big Data dependent scientific community.FindingsMany biomedical and healthcare studies may be significantly impacted by using large, heterogeneous and incongruent datasets; however there are significant technical, social, regulatory, and institutional barriers that need to be overcome to ensure the power of Big Data overcomes these detrimental factors.ConclusionsPragmatic policies that demand extensive sharing of data, promotion of data fusion, provenance, interoperability and balance security and protection of personal information are critical for the long term impact of translational Big Data analytics."
+        },
+        {
+          "rank": 5,
+          "score": 0.675582230091095,
+          "doc_id": "217",
+          "text": "Les big data, g&eacute;n&eacute;ralit&eacute;s et int&eacute;gration en radioth&eacute;rapie Les big data, g&eacute;n&eacute;ralit&eacute;s et int&eacute;gration en radioth&eacute;rapie Les big data, g&eacute;n&eacute;ralit&eacute;s et int&eacute;gration en radioth&eacute;rapie Abstract The many advances in data collection computing systems (data collection, database, storage), diagnostic and therapeutic possibilities are responsible for an increase and a diversification of available data. Big data offers the capacities, in the field of health, to accelerate the discoveries and to optimize the management of patients by combining a large volume of data and the creation of therapeutic models. In radiotherapy, the development of big data is attractive because data are very numerous et heterogeneous (demographics, radiomics, genomics, radiogenomics, etc.). The expectation would be to predict the effectiveness and tolerance of radiation therapy. With these new concepts, still at the preliminary stage, it is possible to create a personalized medicine which is always more secure and reliable."
+        },
+        {
+          "rank": 6,
+          "score": 0.6391596794128418,
+          "doc_id": "43",
+          "text": "Enjeux des big data en sant&eacute; Enjeux des big data en sant&eacute; Enjeux des big data en sant&eacute; Summary The government has commissioned a report on the topic, the Estates General on Bioethics refer to it and the Order of Doctors have published a white paper. Everybody is talking about big data and artificial intelligence but few have witnessed these innovations at work, innovations which now seem to be within reach of health professionals. This field, unknown to the general public a few years ago, has become an object of all fantasies and is bringing about a new industrial revolution."
+        },
+        {
+          "rank": 7,
+          "score": 0.6375610828399658,
+          "doc_id": "62",
+          "text": "Utilization and Analysis of Big-data Utilization and Analysis of Big-data Utilization and Analysis of Big-data This study reviews the analysis and characteristics of databases from big data and then establishes representational strategy. Thus, analysis has continued for a long time in the quantity and quality of data, and there are changes in the location of data in the social sciences, past trends and the emergence of big data. The introduction of big data is presented as a prototype of new social science and is a useful practical example that empirically shows the need, basis, and direction of analysis through trend prediction services. Big data provides a future perspective as an important foundation for social change within the framework of basic social sciences."
+        },
+        {
+          "rank": 8,
+          "score": 0.6317884922027588,
+          "doc_id": "208",
+          "text": "For Big Data, Big Questions Remain For Big Data, Big Questions Remain For Big Data, Big Questions Remain Medicare&#x2019;s release of practitioner payments highlights the strengths and weaknesses of digging into big data."
+        },
+        {
+          "rank": 9,
+          "score": 0.6242608428001404,
+          "doc_id": "58",
+          "text": "Why Big Data = Big Deal Why Big Data = Big Deal Why Big Data = Big Deal 없음"
+        },
+        {
+          "rank": 10,
+          "score": 0.6210823655128479,
+          "doc_id": "189",
+          "text": "Big data? Big deal: Searching for big data’s performance effects in HR Big data? Big deal: Searching for big data’s performance effects in HR Big data? Big deal: Searching for big data’s performance effects in HR Abstract Big data continues to gather increasing interest in the business press as well as within the management literature. While this interest has spilled over into the realm of human resources (HR) management, solid evidence of its positive performance impacts is lacking. I explore three possibilities for this lack of evidence: (1) HR possesses big data but largely lacks the ability to use it; (2) HR does not actually possess big data; and (3) big data is generating value for HR and positively affects organizational performance, but the winners in the race to utilize big data in HR are not publicizing their successes. Following this, I discuss current forms of big data implementation, highlighting an evolutionary progression of implementations in various settings and emphasizing the importance of balancing deductive with inductive analytical approaches. Finally, I discuss conditions under which big data may hold greater value for the HR function, and I suggest ways managers and organizations can make the most of big data."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

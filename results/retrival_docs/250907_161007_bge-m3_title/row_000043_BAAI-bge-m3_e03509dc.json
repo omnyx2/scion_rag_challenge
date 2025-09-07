@@ -1,0 +1,221 @@
+{
+  "id": "row_000043",
+  "model_name": "BAAI/bge-m3",
+  "timestamp_kst": "2025-09-07T16:10:13.976014+09:00",
+  "trial_id": "e03509dc",
+  "queries": [
+    {
+      "query": "What are the core contributions of spatial and temporal adaptation techniques in machine learning–based scheduling knowledge acquisition?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5419762134552002,
+          "doc_id": "128",
+          "text": "Machine learning-based adaptive CSI feedback interval"
+        },
+        {
+          "rank": 2,
+          "score": 0.5387881994247437,
+          "doc_id": "75",
+          "text": "MACHINE LEARNING"
+        },
+        {
+          "rank": 3,
+          "score": 0.5361109972000122,
+          "doc_id": "202",
+          "text": "Machine learning"
+        },
+        {
+          "rank": 4,
+          "score": 0.5196238160133362,
+          "doc_id": "225",
+          "text": "Speech Recognition using Machine Learning"
+        },
+        {
+          "rank": 5,
+          "score": 0.516766369342804,
+          "doc_id": "192",
+          "text": "USING MACHINE LEARNING METHODS IN CYBERSECURITY"
+        },
+        {
+          "rank": 6,
+          "score": 0.5144980549812317,
+          "doc_id": "87",
+          "text": "Big Data Analysis and Machine Learning in Intensive Care Units"
+        },
+        {
+          "rank": 7,
+          "score": 0.5139724016189575,
+          "doc_id": "185",
+          "text": "Topology optimization via machine learning and deep learning: a review"
+        },
+        {
+          "rank": 8,
+          "score": 0.5133770704269409,
+          "doc_id": "147",
+          "text": "A Survey of Topological Machine Learning Methods"
+        },
+        {
+          "rank": 9,
+          "score": 0.5133610963821411,
+          "doc_id": "134",
+          "text": "Deep Metric Learning 기반 원격탐사 변화탐지 기술 연구"
+        },
+        {
+          "rank": 10,
+          "score": 0.513215184211731,
+          "doc_id": "22",
+          "text": "Effective E-Learning Practices by Machine Learning and Artificial Intelligence"
+        }
+      ]
+    },
+    {
+      "query": "What are the core contributions of spatial adaptation techniques in machine learning-based scheduling knowledge acquisition?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5412548780441284,
+          "doc_id": "128",
+          "text": "Machine learning-based adaptive CSI feedback interval"
+        },
+        {
+          "rank": 2,
+          "score": 0.5261132717132568,
+          "doc_id": "75",
+          "text": "MACHINE LEARNING"
+        },
+        {
+          "rank": 3,
+          "score": 0.5208773612976074,
+          "doc_id": "202",
+          "text": "Machine learning"
+        },
+        {
+          "rank": 4,
+          "score": 0.5158194303512573,
+          "doc_id": "134",
+          "text": "Deep Metric Learning 기반 원격탐사 변화탐지 기술 연구"
+        },
+        {
+          "rank": 5,
+          "score": 0.5098670721054077,
+          "doc_id": "192",
+          "text": "USING MACHINE LEARNING METHODS IN CYBERSECURITY"
+        },
+        {
+          "rank": 6,
+          "score": 0.5097861289978027,
+          "doc_id": "225",
+          "text": "Speech Recognition using Machine Learning"
+        },
+        {
+          "rank": 7,
+          "score": 0.5074571967124939,
+          "doc_id": "101",
+          "text": "Breast cancer detection by leveraging Machine Learning"
+        },
+        {
+          "rank": 8,
+          "score": 0.5064089298248291,
+          "doc_id": "147",
+          "text": "A Survey of Topological Machine Learning Methods"
+        },
+        {
+          "rank": 9,
+          "score": 0.502142071723938,
+          "doc_id": "42",
+          "text": "Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning"
+        },
+        {
+          "rank": 10,
+          "score": 0.4985122084617615,
+          "doc_id": "70",
+          "text": "Machine Learning in Predicting Hemoglobin Variants"
+        }
+      ]
+    },
+    {
+      "query": "What are the core contributions of temporal adaptation techniques in machine learning-based scheduling knowledge acquisition?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5425417423248291,
+          "doc_id": "128",
+          "text": "Machine learning-based adaptive CSI feedback interval"
+        },
+        {
+          "rank": 2,
+          "score": 0.524726390838623,
+          "doc_id": "202",
+          "text": "Machine learning"
+        },
+        {
+          "rank": 3,
+          "score": 0.521874725818634,
+          "doc_id": "75",
+          "text": "MACHINE LEARNING"
+        },
+        {
+          "rank": 4,
+          "score": 0.5217911005020142,
+          "doc_id": "147",
+          "text": "A Survey of Topological Machine Learning Methods"
+        },
+        {
+          "rank": 5,
+          "score": 0.5154629945755005,
+          "doc_id": "125",
+          "text": "An overview of deep learning techniques"
+        },
+        {
+          "rank": 6,
+          "score": 0.5094203948974609,
+          "doc_id": "52",
+          "text": "ARTIFICIAL INTELLIGENCE IN TRANSITION"
+        },
+        {
+          "rank": 7,
+          "score": 0.5083720088005066,
+          "doc_id": "70",
+          "text": "Machine Learning in Predicting Hemoglobin Variants"
+        },
+        {
+          "rank": 8,
+          "score": 0.5081577301025391,
+          "doc_id": "42",
+          "text": "Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning"
+        },
+        {
+          "rank": 9,
+          "score": 0.5077189207077026,
+          "doc_id": "225",
+          "text": "Speech Recognition using Machine Learning"
+        },
+        {
+          "rank": 10,
+          "score": 0.5055785775184631,
+          "doc_id": "134",
+          "text": "Deep Metric Learning 기반 원격탐사 변화탐지 기술 연구"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

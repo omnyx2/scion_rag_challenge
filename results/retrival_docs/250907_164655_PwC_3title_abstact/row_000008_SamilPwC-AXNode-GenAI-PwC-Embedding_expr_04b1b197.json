@@ -1,0 +1,291 @@
+{
+  "id": "row_000008",
+  "model_name": "SamilPwC-AXNode-GenAI/PwC-Embedding_expr",
+  "timestamp_kst": "2025-09-07T16:46:57.154349+09:00",
+  "trial_id": "04b1b197",
+  "queries": [
+    {
+      "query": "항공 분야에 적용된 인공지능의 기본 개념과 산업적 의미, 직면 과제를 간략하게 정리할 수 있나요?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7392956018447876,
+          "doc_id": "228",
+          "text": "항공분야의 인공지능 항공분야의 인공지능 항공분야의 인공지능 Artificial Intelligence (AI) born in 1956 is a general term that implies the use of a computer to make intelligent machines with minimal human intervention. AI is a topic dominating diverse discussions on the future of professional employment, change in the social standard and economic performance. In this paper, I describe fundamental concepts underlying AI and their significance to various fields including aviation and medicine. I highlight issues involved and describe the potential impacts and challenges to the industrial fields. While many benefits are expected in human life with AI integration, problems are needed to be identified and discussed with respect to ethical issues and the future roles of professionals and specialists for their wider application of AI."
+        },
+        {
+          "rank": 2,
+          "score": 0.6460250020027161,
+          "doc_id": "181",
+          "text": "초등 인공지능 교육을 위한 설명 가능한 인공지능의 교육적 의미 연구 초등 인공지능 교육을 위한 설명 가능한 인공지능의 교육적 의미 연구 초등 인공지능 교육을 위한 설명 가능한 인공지능의 교육적 의미 연구 본 연구는 문헌 연구 통해 설명 가능한 인공지능의 개념과 문제해결과정을 탐구하였다. 본 연구를 통하여 설명 가능한 인공지능의 교육적 의미와 적용 방안을 제시하였다. 설명 가능한 인공지능 교육이란 인간과 관련된 인공지능 문제를 다루는 사람 중심의 인공지능 교육으로 학생들은 문제 해결 능력을 함양할 수 있다. 그리고, 알고리즘 교육을 통해 인공지능의 원리를 이해하고 실생활 문제 상황과 관련된 인공지능 모델을 설명하며 인공지능의 활용분야까지 확장할 수 있다. 이러한 설명 가능한 인공지능 교육이 초등학교에서 적용되기 위해서는 실제 삶과 관련된 예를 사용해야 하며 알고리즘 자체가 해석력을 지닌 것을 활용하는 것이 좋다. 또한, 이해가 설명으로 나아가기 위해 다양한 교수학습방법 및 도구를 활용해야 한다. 2022년 개정 교육과정에서 인공지능 도입을 앞두고 본 연구가 실제 수업을 위한 기반으로써 의미 있게 활용되기를 바란다."
+        },
+        {
+          "rank": 3,
+          "score": 0.6307773590087891,
+          "doc_id": "151",
+          "text": "마음,지능,인공지능 마음,지능,인공지능 마음,지능,인공지능 최근 여러 학문 분야에서는 논의되고 있는 인공지능(AI)의 문제는 과학적 문제임과 동시에 중요한 철학적 문제이다.본고는 컴퓨터과학자 혹은 인지과학자들이 내리고 있는 AI의 정의들을 분석함으로써 그 속에 함축되어 있는 논쟁점들을 발굴하고,관련된 논변들을 검토함 으로써 AI탐구가 지니는 의의를 명확히 해보려는 데 그 목적이 있다.AI에 대한 정의들은 AI연구가들의 관심과 목표 그리고 그 주장의 강도에 따라 여러 유형으로 분류될 수 있지만 대개가 인간지능을 어떻게 파악하고 있는지,지능과 뇌의 관계가 무엇인지,그리고 그것을 컴퓨터를 통해서 모의하고 복제한다는 것의 논리적 구조가 무엇인지에 대한 이해와 밀접한 관계가 있다.이점에서 AI연구에 있어서 관건이 되는 것은 컴퓨터 기술의 발전과 같은 경험상의 문제라기 보다는 오히려 논리나 개념분석과 같은 선험적인 문제와 밀접하게 연관되어 있다."
+        },
+        {
+          "rank": 4,
+          "score": 0.6034457683563232,
+          "doc_id": "106",
+          "text": "Artificial intelligence Artificial intelligence Artificial intelligence AbstractArtificial intelligence (AI) is the Science and Engineering domain concerned with the theory and practice of developing systems that exhibit the characteristics we associate with intelligence in human behavior. Starting with a brief history of artificial intelligence, this article presents a general overview of this broad interdisciplinary field, organized around the main modules of the notional architecture of an intelligent agent (knowledge representation; problem solving and planning; knowledge acquisition and learning; natural language, speech, and vision; action processing and robotics) which highlights both the main areas of artificial intelligence research, development and application, and also their integration. WIREs Comput Stat 2012, 4:168-180. doi: 10.1002/wics.200This article is categorized under: Software for Computational Statistics > Artificial Intelligence and Expert Systems"
+        },
+        {
+          "rank": 5,
+          "score": 0.601091742515564,
+          "doc_id": "1",
+          "text": "The Importance of Artificial Intelligence to Economic Growth The Importance of Artificial Intelligence to Economic Growth The Importance of Artificial Intelligence to Economic Growth The rapid development of artificial intelligence technology has exerted a great influence on all fields of the world, which of course also affects the world economy. This has also aroused a large number of economists' interest in this proposition. Since the definition of artificial intelligence is not unified yet, the results from previous researches are not reliable enough. At present, most scholars use the neoclassical growth model or task-based model to explore the path of artificial intelligence on economic variables. There into, most of them use the degree of automation to represent the artificial intelligence. They find that the degree of automation can change the proportion of industries. This only verifies that artificial intelligence can affect the economic variables. But the magnitude of artificial intelligence on economic variables can not be correctly estimated. Therefore, in order to have a better understanding on the impact of artificial intelligence on economic growth, this paper systematically reviews and collates previous literature on this topic. The results of this paper indicate that both in theoretical and empirical studies, artificial intelligence has a positive effect on economic growth. Then, some suggestions and limitations have also been put forward accordingly."
+        },
+        {
+          "rank": 6,
+          "score": 0.5997186899185181,
+          "doc_id": "219",
+          "text": "인공지능(Artificial Intelligence)과 대학수학교육 인공지능(Artificial Intelligence)과 대학수학교육 인공지능(Artificial Intelligence)과 대학수학교육 첨단 정보통신기술(ICT)인 인공지능(AI), 사물인터넷(IoT), 빅데이터(Big Data) 등이 사회와 경제 전반에 융합돼 혁신적인 변화가 일어나는 요즘, 헬스케어, 지능형 로봇, 가정용 인공지능 시스템(스마트홈), 공유자동차 등은 이미 우리 생활에 깊이 영향을 미치고 있다. 이미 오래전부터 공장에서는 로봇이 사람 대신 일을 하고 있으며(FA, OA), 인공지능 의사도 병원에서 활동을 하고 있고(Dr. Watson), 인공지능 스피커(기가지니)와 인공지능 비서인 구글 어시스턴트가 자연어생성을 하며 우리를 돕고 있다. 이제 인공지능을 이해하는 것은 필수가 되었으며, 인공지능을 이해하기 위해서 수학의 지식은 선택이 아니라 필수가 되었다. 따라서 이런 일들을 가능하게 해주는 수학지식을 설명하는 역할이 수학자들에게 주어졌다. 이에 본 연구진은 인공지능과 머신러닝(Machine Learning, 기계학습)을 이해하기 위해 필요한 수학 개념을 우리의 실정에 맞게 한 학기(또는 두 학기) 분량으로 정리하여, 무료 전자교과서 '인공지능을 위한 기초수학'을 집필하고, 인공지능 분야에 관심이 있는 다양한 전공의 대학생과 대학원생을 대상으로 하는 강좌를 개설하였다. 본 논문에서는 그 개발과정과 운영사례를 공유한다. http://matrix.skku.ac.kr/math4ai/"
+        },
+        {
+          "rank": 7,
+          "score": 0.581961989402771,
+          "doc_id": "49",
+          "text": "Artificial Intelligence for the Fourth Industrial Revolution Artificial Intelligence for the Fourth Industrial Revolution Artificial Intelligence for the Fourth Industrial Revolution Artificial intelligence is one of the key technologies of the Fourth Industrial Revolution. This paper introduces the diverse kinds of approaches to subjects that tackle diverse kinds of research fields such as model-based MS approach, deep neural network model, image edge detection approach, cross-layer optimization model, LSSVM approach, screen design approach, CPU-GPU hybrid approach and so on. The research on Superintelligence and superconnection for IoT and big data is also described such as 'superintelligence-based systems and infrastructures', 'superconnection-based IoT and big data systems', 'analysis of IoT-based data and big data', 'infrastructure design for IoT and big data', 'artificial intelligence applications', and 'superconnection-based IoT devices'."
+        },
+        {
+          "rank": 8,
+          "score": 0.5762932300567627,
+          "doc_id": "0",
+          "text": "Logic and artificial intelligence Logic and artificial intelligence Logic and artificial intelligence The theoretical foundations of the logical approach to artificial intelligence are presented. Logical languages are widely used for expressing the declarative knowledge needed in artificial intelligence systems. Symbolic logic also provides a clear semantics for knowledge representation languages and a methodology for analyzing and comparing deductive inference techniques. Several observations gained from experience with the approach are discussed. Finally, we confront some challenging problems for artificial intelligence and describe what is being done in an attempt to solve them."
+        },
+        {
+          "rank": 9,
+          "score": 0.57585608959198,
+          "doc_id": "193",
+          "text": "What's Humanity for Artificial Intelligence Humane Artificial Intelligence and Artificial General Intelligence What's Humanity for Artificial Intelligence Humane Artificial Intelligence and Artificial General Intelligence What's Humanity for Artificial Intelligence Humane Artificial Intelligence and Artificial General Intelligence 없음"
+        },
+        {
+          "rank": 10,
+          "score": 0.5753589868545532,
+          "doc_id": "137",
+          "text": "What's Humanity for Artificial Intelligence Jindo Intelligence &#x2014; Dawning of Artificial Intelligence &#x2014; What's Humanity for Artificial Intelligence Jindo Intelligence &#x2014; Dawning of Artificial Intelligence &#x2014; What's Humanity for Artificial Intelligence Jindo Intelligence &#x2014; Dawning of Artificial Intelligence &#x2014; 없음"
+        }
+      ]
+    },
+    {
+      "query": "항공 분야에 적용된 인공지능의 기본 개념은 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7454633712768555,
+          "doc_id": "228",
+          "text": "항공분야의 인공지능 항공분야의 인공지능 항공분야의 인공지능 Artificial Intelligence (AI) born in 1956 is a general term that implies the use of a computer to make intelligent machines with minimal human intervention. AI is a topic dominating diverse discussions on the future of professional employment, change in the social standard and economic performance. In this paper, I describe fundamental concepts underlying AI and their significance to various fields including aviation and medicine. I highlight issues involved and describe the potential impacts and challenges to the industrial fields. While many benefits are expected in human life with AI integration, problems are needed to be identified and discussed with respect to ethical issues and the future roles of professionals and specialists for their wider application of AI."
+        },
+        {
+          "rank": 2,
+          "score": 0.6231791973114014,
+          "doc_id": "219",
+          "text": "인공지능(Artificial Intelligence)과 대학수학교육 인공지능(Artificial Intelligence)과 대학수학교육 인공지능(Artificial Intelligence)과 대학수학교육 첨단 정보통신기술(ICT)인 인공지능(AI), 사물인터넷(IoT), 빅데이터(Big Data) 등이 사회와 경제 전반에 융합돼 혁신적인 변화가 일어나는 요즘, 헬스케어, 지능형 로봇, 가정용 인공지능 시스템(스마트홈), 공유자동차 등은 이미 우리 생활에 깊이 영향을 미치고 있다. 이미 오래전부터 공장에서는 로봇이 사람 대신 일을 하고 있으며(FA, OA), 인공지능 의사도 병원에서 활동을 하고 있고(Dr. Watson), 인공지능 스피커(기가지니)와 인공지능 비서인 구글 어시스턴트가 자연어생성을 하며 우리를 돕고 있다. 이제 인공지능을 이해하는 것은 필수가 되었으며, 인공지능을 이해하기 위해서 수학의 지식은 선택이 아니라 필수가 되었다. 따라서 이런 일들을 가능하게 해주는 수학지식을 설명하는 역할이 수학자들에게 주어졌다. 이에 본 연구진은 인공지능과 머신러닝(Machine Learning, 기계학습)을 이해하기 위해 필요한 수학 개념을 우리의 실정에 맞게 한 학기(또는 두 학기) 분량으로 정리하여, 무료 전자교과서 '인공지능을 위한 기초수학'을 집필하고, 인공지능 분야에 관심이 있는 다양한 전공의 대학생과 대학원생을 대상으로 하는 강좌를 개설하였다. 본 논문에서는 그 개발과정과 운영사례를 공유한다. http://matrix.skku.ac.kr/math4ai/"
+        },
+        {
+          "rank": 3,
+          "score": 0.6221423149108887,
+          "doc_id": "151",
+          "text": "마음,지능,인공지능 마음,지능,인공지능 마음,지능,인공지능 최근 여러 학문 분야에서는 논의되고 있는 인공지능(AI)의 문제는 과학적 문제임과 동시에 중요한 철학적 문제이다.본고는 컴퓨터과학자 혹은 인지과학자들이 내리고 있는 AI의 정의들을 분석함으로써 그 속에 함축되어 있는 논쟁점들을 발굴하고,관련된 논변들을 검토함 으로써 AI탐구가 지니는 의의를 명확히 해보려는 데 그 목적이 있다.AI에 대한 정의들은 AI연구가들의 관심과 목표 그리고 그 주장의 강도에 따라 여러 유형으로 분류될 수 있지만 대개가 인간지능을 어떻게 파악하고 있는지,지능과 뇌의 관계가 무엇인지,그리고 그것을 컴퓨터를 통해서 모의하고 복제한다는 것의 논리적 구조가 무엇인지에 대한 이해와 밀접한 관계가 있다.이점에서 AI연구에 있어서 관건이 되는 것은 컴퓨터 기술의 발전과 같은 경험상의 문제라기 보다는 오히려 논리나 개념분석과 같은 선험적인 문제와 밀접하게 연관되어 있다."
+        },
+        {
+          "rank": 4,
+          "score": 0.6142377853393555,
+          "doc_id": "183",
+          "text": "구성적 인공지능 구성적 인공지능 구성적 인공지능 서양철학의 근간을 이루는 데카르트의 이성주의적 인간이해의 반성으로부터 등장한 구성주의는 지능을 포함한 인간이해의 새로운 대안이 될 수 있을 것으로 생각한다. 구성주의는 진화생물학, 진화심리학, 뇌과학, 시스템이론, 복잡계 이론의 성과뿐만 아니라 나아가 인문사회학의 경향과도 설명을 공유할 수 있는 많은 부분이 있다. 또한 인공지능 분야에서도 구성주의적 방법이라고 할 수 있는 연구가 진행되고 있다. 이 글에서는 구성주의적 관점에서 인공지능에서 다루는 지능에 대한 이해의 지평을 넓히고 이를 기반으로 한 방법론에 대한 검토와 그러한 경향에 있는 일부 인공지능 기술을 살펴보고자 한다. 이러한 논의를 통하여 여러 가지 관점의 마음에 대한 이론과 기술을 상호보완적으로 이해하고 다소 등한히 되고 있는 인공지능의 보편지능(general intelligence)의 토대로 삼고자 한다."
+        },
+        {
+          "rank": 5,
+          "score": 0.6083813309669495,
+          "doc_id": "181",
+          "text": "초등 인공지능 교육을 위한 설명 가능한 인공지능의 교육적 의미 연구 초등 인공지능 교육을 위한 설명 가능한 인공지능의 교육적 의미 연구 초등 인공지능 교육을 위한 설명 가능한 인공지능의 교육적 의미 연구 본 연구는 문헌 연구 통해 설명 가능한 인공지능의 개념과 문제해결과정을 탐구하였다. 본 연구를 통하여 설명 가능한 인공지능의 교육적 의미와 적용 방안을 제시하였다. 설명 가능한 인공지능 교육이란 인간과 관련된 인공지능 문제를 다루는 사람 중심의 인공지능 교육으로 학생들은 문제 해결 능력을 함양할 수 있다. 그리고, 알고리즘 교육을 통해 인공지능의 원리를 이해하고 실생활 문제 상황과 관련된 인공지능 모델을 설명하며 인공지능의 활용분야까지 확장할 수 있다. 이러한 설명 가능한 인공지능 교육이 초등학교에서 적용되기 위해서는 실제 삶과 관련된 예를 사용해야 하며 알고리즘 자체가 해석력을 지닌 것을 활용하는 것이 좋다. 또한, 이해가 설명으로 나아가기 위해 다양한 교수학습방법 및 도구를 활용해야 한다. 2022년 개정 교육과정에서 인공지능 도입을 앞두고 본 연구가 실제 수업을 위한 기반으로써 의미 있게 활용되기를 바란다."
+        },
+        {
+          "rank": 6,
+          "score": 0.6048539876937866,
+          "doc_id": "106",
+          "text": "Artificial intelligence Artificial intelligence Artificial intelligence AbstractArtificial intelligence (AI) is the Science and Engineering domain concerned with the theory and practice of developing systems that exhibit the characteristics we associate with intelligence in human behavior. Starting with a brief history of artificial intelligence, this article presents a general overview of this broad interdisciplinary field, organized around the main modules of the notional architecture of an intelligent agent (knowledge representation; problem solving and planning; knowledge acquisition and learning; natural language, speech, and vision; action processing and robotics) which highlights both the main areas of artificial intelligence research, development and application, and also their integration. WIREs Comput Stat 2012, 4:168-180. doi: 10.1002/wics.200This article is categorized under: Software for Computational Statistics > Artificial Intelligence and Expert Systems"
+        },
+        {
+          "rank": 7,
+          "score": 0.6008731126785278,
+          "doc_id": "153",
+          "text": "Artificial Intelligence, Language Intelligence, and Mathematics Artificial Intelligence, Language Intelligence, and Mathematics Artificial Intelligence, Language Intelligence, and Mathematics Artificial neural networks(ANN) has provided a theoretical framework on the study of human behavior/cognition and artificial intelligence. This article aims to introduce ANN and its mathematical principle to the field of applied linguistics. An ANN consists of input, hidden, and output vectors and the vectors are connected to one another by weight matrices. Mapping from input to output is accounted for by simple matrix multiplication."
+        },
+        {
+          "rank": 8,
+          "score": 0.5968627333641052,
+          "doc_id": "137",
+          "text": "What's Humanity for Artificial Intelligence Jindo Intelligence &#x2014; Dawning of Artificial Intelligence &#x2014; What's Humanity for Artificial Intelligence Jindo Intelligence &#x2014; Dawning of Artificial Intelligence &#x2014; What's Humanity for Artificial Intelligence Jindo Intelligence &#x2014; Dawning of Artificial Intelligence &#x2014; 없음"
+        },
+        {
+          "rank": 9,
+          "score": 0.5963782072067261,
+          "doc_id": "123",
+          "text": "딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝은 인공신경망(neural network)이라는 인공지능분야의 모형이 발전된 형태로서, 계층구조로 이루어진 인공신경망의 내부계층(hidden layer)이 여러 단계로 이루어진 구조이다. 딥러닝에서의 주요 모형은 합성곱신경망(convolutional neural network), 순환신경망(recurrent neural network), 그리고 심층신뢰신경망(deep belief network)의 세가지라고 할 수 있다. 그 중에서 현재 흥미로운 연구가 많이 발표되어서 관심이 집중되고 있는 모형은 지도학습(supervised learning)모형인 처음 두 개의 모형이다. 따라서 본 논문에서는 지도학습모형의 가중치를 최적화하는 기본적인 방법인 오류역전파 알고리즘을 살펴본 뒤에 합성곱신경망과 순환신경망의 구조와 응용사례 등을 살펴보고자 한다. 본문에서 다루지 않은 모형인 심층신뢰신경망은 아직까지는 합성곱신경망 이나 순환신경망보다는 상대적으로 주목을 덜 받고 있다. 그러나 심층신뢰신경망은 CNN이나 RNN과는 달리 비지도학습(unsupervised learning)모형이며, 사람이나 동물은 관찰을 통해서 스스로 학습한다는 점에서 궁극적으로는 비지도학습모형이 더 많이 연구되어야 할 주제가 될 것이다."
+        },
+        {
+          "rank": 10,
+          "score": 0.5904550552368164,
+          "doc_id": "193",
+          "text": "What's Humanity for Artificial Intelligence Humane Artificial Intelligence and Artificial General Intelligence What's Humanity for Artificial Intelligence Humane Artificial Intelligence and Artificial General Intelligence What's Humanity for Artificial Intelligence Humane Artificial Intelligence and Artificial General Intelligence 없음"
+        }
+      ]
+    },
+    {
+      "query": "항공 분야에서 인공지능의 산업적 의미는 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7420877814292908,
+          "doc_id": "228",
+          "text": "항공분야의 인공지능 항공분야의 인공지능 항공분야의 인공지능 Artificial Intelligence (AI) born in 1956 is a general term that implies the use of a computer to make intelligent machines with minimal human intervention. AI is a topic dominating diverse discussions on the future of professional employment, change in the social standard and economic performance. In this paper, I describe fundamental concepts underlying AI and their significance to various fields including aviation and medicine. I highlight issues involved and describe the potential impacts and challenges to the industrial fields. While many benefits are expected in human life with AI integration, problems are needed to be identified and discussed with respect to ethical issues and the future roles of professionals and specialists for their wider application of AI."
+        },
+        {
+          "rank": 2,
+          "score": 0.6467352509498596,
+          "doc_id": "1",
+          "text": "The Importance of Artificial Intelligence to Economic Growth The Importance of Artificial Intelligence to Economic Growth The Importance of Artificial Intelligence to Economic Growth The rapid development of artificial intelligence technology has exerted a great influence on all fields of the world, which of course also affects the world economy. This has also aroused a large number of economists' interest in this proposition. Since the definition of artificial intelligence is not unified yet, the results from previous researches are not reliable enough. At present, most scholars use the neoclassical growth model or task-based model to explore the path of artificial intelligence on economic variables. There into, most of them use the degree of automation to represent the artificial intelligence. They find that the degree of automation can change the proportion of industries. This only verifies that artificial intelligence can affect the economic variables. But the magnitude of artificial intelligence on economic variables can not be correctly estimated. Therefore, in order to have a better understanding on the impact of artificial intelligence on economic growth, this paper systematically reviews and collates previous literature on this topic. The results of this paper indicate that both in theoretical and empirical studies, artificial intelligence has a positive effect on economic growth. Then, some suggestions and limitations have also been put forward accordingly."
+        },
+        {
+          "rank": 3,
+          "score": 0.6180826425552368,
+          "doc_id": "181",
+          "text": "초등 인공지능 교육을 위한 설명 가능한 인공지능의 교육적 의미 연구 초등 인공지능 교육을 위한 설명 가능한 인공지능의 교육적 의미 연구 초등 인공지능 교육을 위한 설명 가능한 인공지능의 교육적 의미 연구 본 연구는 문헌 연구 통해 설명 가능한 인공지능의 개념과 문제해결과정을 탐구하였다. 본 연구를 통하여 설명 가능한 인공지능의 교육적 의미와 적용 방안을 제시하였다. 설명 가능한 인공지능 교육이란 인간과 관련된 인공지능 문제를 다루는 사람 중심의 인공지능 교육으로 학생들은 문제 해결 능력을 함양할 수 있다. 그리고, 알고리즘 교육을 통해 인공지능의 원리를 이해하고 실생활 문제 상황과 관련된 인공지능 모델을 설명하며 인공지능의 활용분야까지 확장할 수 있다. 이러한 설명 가능한 인공지능 교육이 초등학교에서 적용되기 위해서는 실제 삶과 관련된 예를 사용해야 하며 알고리즘 자체가 해석력을 지닌 것을 활용하는 것이 좋다. 또한, 이해가 설명으로 나아가기 위해 다양한 교수학습방법 및 도구를 활용해야 한다. 2022년 개정 교육과정에서 인공지능 도입을 앞두고 본 연구가 실제 수업을 위한 기반으로써 의미 있게 활용되기를 바란다."
+        },
+        {
+          "rank": 4,
+          "score": 0.613693118095398,
+          "doc_id": "137",
+          "text": "What's Humanity for Artificial Intelligence Jindo Intelligence &#x2014; Dawning of Artificial Intelligence &#x2014; What's Humanity for Artificial Intelligence Jindo Intelligence &#x2014; Dawning of Artificial Intelligence &#x2014; What's Humanity for Artificial Intelligence Jindo Intelligence &#x2014; Dawning of Artificial Intelligence &#x2014; 없음"
+        },
+        {
+          "rank": 5,
+          "score": 0.6043526530265808,
+          "doc_id": "151",
+          "text": "마음,지능,인공지능 마음,지능,인공지능 마음,지능,인공지능 최근 여러 학문 분야에서는 논의되고 있는 인공지능(AI)의 문제는 과학적 문제임과 동시에 중요한 철학적 문제이다.본고는 컴퓨터과학자 혹은 인지과학자들이 내리고 있는 AI의 정의들을 분석함으로써 그 속에 함축되어 있는 논쟁점들을 발굴하고,관련된 논변들을 검토함 으로써 AI탐구가 지니는 의의를 명확히 해보려는 데 그 목적이 있다.AI에 대한 정의들은 AI연구가들의 관심과 목표 그리고 그 주장의 강도에 따라 여러 유형으로 분류될 수 있지만 대개가 인간지능을 어떻게 파악하고 있는지,지능과 뇌의 관계가 무엇인지,그리고 그것을 컴퓨터를 통해서 모의하고 복제한다는 것의 논리적 구조가 무엇인지에 대한 이해와 밀접한 관계가 있다.이점에서 AI연구에 있어서 관건이 되는 것은 컴퓨터 기술의 발전과 같은 경험상의 문제라기 보다는 오히려 논리나 개념분석과 같은 선험적인 문제와 밀접하게 연관되어 있다."
+        },
+        {
+          "rank": 6,
+          "score": 0.6032872796058655,
+          "doc_id": "29",
+          "text": "Artificial intelligence in manufacturing: Forecasts for the use of artificial intelligence in the USA Artificial intelligence in manufacturing: Forecasts for the use of artificial intelligence in the USA Artificial intelligence in manufacturing: Forecasts for the use of artificial intelligence in the USA The use of artificial intelligence in manufacturing has finally emerged as a reality in the United States. Buoyed by the general growth of trained computer scientists, the lower cost hardware and software designed for easier use input, a number of experimental programs are under way to exploit artificial intelligence for manufacturing purposes."
+        },
+        {
+          "rank": 7,
+          "score": 0.596520721912384,
+          "doc_id": "193",
+          "text": "What's Humanity for Artificial Intelligence Humane Artificial Intelligence and Artificial General Intelligence What's Humanity for Artificial Intelligence Humane Artificial Intelligence and Artificial General Intelligence What's Humanity for Artificial Intelligence Humane Artificial Intelligence and Artificial General Intelligence 없음"
+        },
+        {
+          "rank": 8,
+          "score": 0.5935823917388916,
+          "doc_id": "178",
+          "text": "IT 분야에서 컨버전스의 의미와 미래 전망 IT 분야에서 컨버전스의 의미와 미래 전망 IT 분야에서 컨버전스의 의미와 미래 전망 컨버전스(Convergence)란 단어는 집합, 집중, 수렴, 한 곳으로 모여짐 등의 뜻을 지닌 일반적인 용어로써 매우 발전해가고 있는 IT 분야에서 다양한 수요자의 욕구와 기술의 진화에 따라 최근에 매우 빈번하게 등장하고 있는 용어이자, 중요한 화두 중에 하나가 되고 있다. 이에 단어가 지니고 있는 일반적 의미를 다각적으로 분석함과 동시에 그 의미가 정보통신분야의 기술적 측면에서 또한 활용적인 측면에서 어떤 암시와 효과를 나타내고 있고, 나아가 IT 분야의 발전을 향한 목표 지향적인 측면에서의 역할이 가능한지와 또 다른 발전과 진화에 따라 어느 정도의 생명력과 경쟁력은 지닐 수 있는지를 살펴보고자 한다. 20세기 후반에 등장한 새로운 산업의 빅뱅이 되고 있는 IT 분야가 전세계로 확산, 발전되어감에 따라 수많은 일반적인 단어와 용어 들이 정보통신분야에서 도입, 활용하였고 이러한 용어들은 단어 자체의 의미 보다는 정보통신분야 발전의 현재와 미래를 규정해왔고, 나아가 정보통신 발전에 따른 혜택을 받는 전세계와 국내의 이용자들에게 많은 변화를 제공함과 동시에 연관분야의 산업에도 긍정적이던 부정적이던지 상호간 막대한 영향을 미쳐왔다고 분석된다. 이에 본 논문 자료는 IT 전문 용어가 아닌 일반적인 용어 중에서 IT 분야의 어떤 형태로든 영향을 미칠 용어 중에서 컨버전스란 단어를 통해 IT 분야의 현주소를 사례를 중심으로 분석, 점검하고 향후 IT 분야에서 컨버전스가 적용될 미래의 발전 모습을 전망하고자 하는데 있다."
+        },
+        {
+          "rank": 9,
+          "score": 0.5862059593200684,
+          "doc_id": "49",
+          "text": "Artificial Intelligence for the Fourth Industrial Revolution Artificial Intelligence for the Fourth Industrial Revolution Artificial Intelligence for the Fourth Industrial Revolution Artificial intelligence is one of the key technologies of the Fourth Industrial Revolution. This paper introduces the diverse kinds of approaches to subjects that tackle diverse kinds of research fields such as model-based MS approach, deep neural network model, image edge detection approach, cross-layer optimization model, LSSVM approach, screen design approach, CPU-GPU hybrid approach and so on. The research on Superintelligence and superconnection for IoT and big data is also described such as 'superintelligence-based systems and infrastructures', 'superconnection-based IoT and big data systems', 'analysis of IoT-based data and big data', 'infrastructure design for IoT and big data', 'artificial intelligence applications', and 'superconnection-based IoT devices'."
+        },
+        {
+          "rank": 10,
+          "score": 0.5818928480148315,
+          "doc_id": "97",
+          "text": "&#x201e;Machine learning“ in der An&auml;sthesiologie &#x201e;Machine learning“ in der An&auml;sthesiologie &#x201e;Machine learning“ in der An&auml;sthesiologie 없음"
+        }
+      ]
+    },
+    {
+      "query": "항공 분야에서 인공지능이 직면한 과제는 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 2
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7066875696182251,
+          "doc_id": "228",
+          "text": "항공분야의 인공지능 항공분야의 인공지능 항공분야의 인공지능 Artificial Intelligence (AI) born in 1956 is a general term that implies the use of a computer to make intelligent machines with minimal human intervention. AI is a topic dominating diverse discussions on the future of professional employment, change in the social standard and economic performance. In this paper, I describe fundamental concepts underlying AI and their significance to various fields including aviation and medicine. I highlight issues involved and describe the potential impacts and challenges to the industrial fields. While many benefits are expected in human life with AI integration, problems are needed to be identified and discussed with respect to ethical issues and the future roles of professionals and specialists for their wider application of AI."
+        },
+        {
+          "rank": 2,
+          "score": 0.6097230911254883,
+          "doc_id": "137",
+          "text": "What's Humanity for Artificial Intelligence Jindo Intelligence &#x2014; Dawning of Artificial Intelligence &#x2014; What's Humanity for Artificial Intelligence Jindo Intelligence &#x2014; Dawning of Artificial Intelligence &#x2014; What's Humanity for Artificial Intelligence Jindo Intelligence &#x2014; Dawning of Artificial Intelligence &#x2014; 없음"
+        },
+        {
+          "rank": 3,
+          "score": 0.6055819392204285,
+          "doc_id": "151",
+          "text": "마음,지능,인공지능 마음,지능,인공지능 마음,지능,인공지능 최근 여러 학문 분야에서는 논의되고 있는 인공지능(AI)의 문제는 과학적 문제임과 동시에 중요한 철학적 문제이다.본고는 컴퓨터과학자 혹은 인지과학자들이 내리고 있는 AI의 정의들을 분석함으로써 그 속에 함축되어 있는 논쟁점들을 발굴하고,관련된 논변들을 검토함 으로써 AI탐구가 지니는 의의를 명확히 해보려는 데 그 목적이 있다.AI에 대한 정의들은 AI연구가들의 관심과 목표 그리고 그 주장의 강도에 따라 여러 유형으로 분류될 수 있지만 대개가 인간지능을 어떻게 파악하고 있는지,지능과 뇌의 관계가 무엇인지,그리고 그것을 컴퓨터를 통해서 모의하고 복제한다는 것의 논리적 구조가 무엇인지에 대한 이해와 밀접한 관계가 있다.이점에서 AI연구에 있어서 관건이 되는 것은 컴퓨터 기술의 발전과 같은 경험상의 문제라기 보다는 오히려 논리나 개념분석과 같은 선험적인 문제와 밀접하게 연관되어 있다."
+        },
+        {
+          "rank": 4,
+          "score": 0.6007776260375977,
+          "doc_id": "93",
+          "text": "Artificial intelligence and robotics Artificial intelligence and robotics Artificial intelligence and robotics Since Robotics is the field concerned with the connection of perception to action, Artificial Intelligence must have a central role in Robotics if the connection is to be intelligent. Artificial Intelligence addresses the crucial questions of: what knowledge is required in any aspect of thinking; how should that knowledge be represented; and how should that knowledge be used. Robotics challenges AI by forcing it to deal with real objects in the real world. Techniques and representations developed for purely cognitive problems, often in toy domains, do not necessarily extend to meet the challenge. Robots combine mechanical effectors, sensors, and computers. AI has made significant contributions to each component. We review AI contributions to perception and reasoning about physical objects. Such reasoning concerns space, path-planning, uncertainty, and compliance. We conclude with three examples that illustrate the kinds of reasoning or problem-solving abilities we would like to endow robots with and that we believe are worthy goals of both Robotics and Artificial Intelligence, being within reach of both."
+        },
+        {
+          "rank": 5,
+          "score": 0.5963330268859863,
+          "doc_id": "193",
+          "text": "What's Humanity for Artificial Intelligence Humane Artificial Intelligence and Artificial General Intelligence What's Humanity for Artificial Intelligence Humane Artificial Intelligence and Artificial General Intelligence What's Humanity for Artificial Intelligence Humane Artificial Intelligence and Artificial General Intelligence 없음"
+        },
+        {
+          "rank": 6,
+          "score": 0.5814550518989563,
+          "doc_id": "82",
+          "text": "Artificial Intelligence for Artificial Artificial Intelligence Artificial Intelligence for Artificial Artificial Intelligence Artificial Intelligence for Artificial Artificial Intelligence 없음"
+        },
+        {
+          "rank": 7,
+          "score": 0.581129789352417,
+          "doc_id": "132",
+          "text": "Artificial intelligence Artificial intelligence Artificial intelligence 없음"
+        },
+        {
+          "rank": 8,
+          "score": 0.5791542530059814,
+          "doc_id": "157",
+          "text": "Engineering artificial intelligence Engineering artificial intelligence Engineering artificial intelligence Current Artificial Intelligence can be used to good effect in engineering systems for emulating some high-level mental functions of humans but is not suitable for coping with many other difficult tasks, especially those involving combined perception and cognition. Neural-net computing on the other hand seems to be better suited to meeting the demands of those types of tasks. These matters are discussed in this paper and it is suggested that the type of Artificial Intelligence appropriate for use in an engineering system will be an evolved one combining the strengths of symbolic processing and neural-net computing."
+        },
+        {
+          "rank": 9,
+          "score": 0.5769050717353821,
+          "doc_id": "60",
+          "text": "Artificial intelligence Artificial intelligence Artificial intelligence AI has been well supported by government research and development dollars for decades now, and people are beginning to ask hard questions: What really works? What are the limits? What doesn't work as advertised? What isn't likely to work? What isn't affordable? This article holds a mirror up to the community, both to provide feedback and stimulate more self-assessment. The significant accomplishments and strengths of the field are highlighted. The research agenda, strategy, and heuristics are reviewed, and a change of course is recommended to improve the field's ability to produce reusable and interoperable components.(Author abstract)"
+        },
+        {
+          "rank": 10,
+          "score": 0.5760113000869751,
+          "doc_id": "69",
+          "text": "Artificial Intelligence Artificial Intelligence Artificial Intelligence The field of artificial intelligence is reviewed. The work of George Stiny and myself on design and criticism is discussed briefly in terms of a paradigm of artificial intelligence research."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

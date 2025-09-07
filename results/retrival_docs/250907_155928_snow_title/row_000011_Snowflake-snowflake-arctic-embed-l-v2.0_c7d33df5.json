@@ -1,0 +1,291 @@
+{
+  "id": "row_000011",
+  "model_name": "Snowflake/snowflake-arctic-embed-l-v2.0",
+  "timestamp_kst": "2025-09-07T15:59:30.614188+09:00",
+  "trial_id": "c7d33df5",
+  "queries": [
+    {
+      "query": "How would you summarize the proposed enabling framework for achieving the second Sustainable Development Goal, emphasizing the role of data sharing and near real-time analytics?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5473421812057495,
+          "doc_id": "7",
+          "text": "Keynote speech 6: Big Data, IoT and the 2nd sustainable development goal"
+        },
+        {
+          "rank": 2,
+          "score": 0.4536128044128418,
+          "doc_id": "126",
+          "text": "Exploring Big Data Governance Frameworks"
+        },
+        {
+          "rank": 3,
+          "score": 0.4504184424877167,
+          "doc_id": "43",
+          "text": "Enjeux des big data en sant&eacute;"
+        },
+        {
+          "rank": 4,
+          "score": 0.4332536458969116,
+          "doc_id": "62",
+          "text": "Utilization and Analysis of Big-data"
+        },
+        {
+          "rank": 5,
+          "score": 0.4090307354927063,
+          "doc_id": "146",
+          "text": "미래 IT융합 신산업 육성 및 선도방안"
+        },
+        {
+          "rank": 6,
+          "score": 0.4070100486278534,
+          "doc_id": "172",
+          "text": "Demystifying big data: Anatomy of big data developmental process"
+        },
+        {
+          "rank": 7,
+          "score": 0.4046502113342285,
+          "doc_id": "140",
+          "text": "Sharing Big Data"
+        },
+        {
+          "rank": 8,
+          "score": 0.40401703119277954,
+          "doc_id": "34",
+          "text": "Supporting Privacy-Preserving Big Data Analytics on Temporal Open Big Data"
+        },
+        {
+          "rank": 9,
+          "score": 0.40388229489326477,
+          "doc_id": "217",
+          "text": "Les big data, g&eacute;n&eacute;ralit&eacute;s et int&eacute;gration en radioth&eacute;rapie"
+        },
+        {
+          "rank": 10,
+          "score": 0.40343576669692993,
+          "doc_id": "196",
+          "text": "Nursing Needs Big Data and Big Data Needs Nursing"
+        }
+      ]
+    },
+    {
+      "query": "What is the proposed enabling framework for achieving the second Sustainable Development Goal?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.41871553659439087,
+          "doc_id": "7",
+          "text": "Keynote speech 6: Big Data, IoT and the 2nd sustainable development goal"
+        },
+        {
+          "rank": 2,
+          "score": 0.3483635187149048,
+          "doc_id": "126",
+          "text": "Exploring Big Data Governance Frameworks"
+        },
+        {
+          "rank": 3,
+          "score": 0.3336702585220337,
+          "doc_id": "137",
+          "text": "What's Humanity for Artificial Intelligence Jindo Intelligence &#x2014; Dawning of Artificial Intelligence &#x2014;"
+        },
+        {
+          "rank": 4,
+          "score": 0.32508084177970886,
+          "doc_id": "162",
+          "text": "IT 컨버전스의 이해와 법ㆍ기술 방향"
+        },
+        {
+          "rank": 5,
+          "score": 0.32322320342063904,
+          "doc_id": "146",
+          "text": "미래 IT융합 신산업 육성 및 선도방안"
+        },
+        {
+          "rank": 6,
+          "score": 0.3224295377731323,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence"
+        },
+        {
+          "rank": 7,
+          "score": 0.31139039993286133,
+          "doc_id": "212",
+          "text": "Exploring Artificial Intelligence Futures"
+        },
+        {
+          "rank": 8,
+          "score": 0.3093968629837036,
+          "doc_id": "225",
+          "text": "Speech Recognition using Machine Learning"
+        },
+        {
+          "rank": 9,
+          "score": 0.3093244433403015,
+          "doc_id": "43",
+          "text": "Enjeux des big data en sant&eacute;"
+        },
+        {
+          "rank": 10,
+          "score": 0.2958471477031708,
+          "doc_id": "54",
+          "text": "Future trends of IT convergence"
+        }
+      ]
+    },
+    {
+      "query": "What is the role of data sharing within this framework?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.45582786202430725,
+          "doc_id": "62",
+          "text": "Utilization and Analysis of Big-data"
+        },
+        {
+          "rank": 2,
+          "score": 0.4539582133293152,
+          "doc_id": "126",
+          "text": "Exploring Big Data Governance Frameworks"
+        },
+        {
+          "rank": 3,
+          "score": 0.4454367756843567,
+          "doc_id": "43",
+          "text": "Enjeux des big data en sant&eacute;"
+        },
+        {
+          "rank": 4,
+          "score": 0.4334738850593567,
+          "doc_id": "140",
+          "text": "Sharing Big Data"
+        },
+        {
+          "rank": 5,
+          "score": 0.42235392332077026,
+          "doc_id": "178",
+          "text": "IT 분야에서 컨버전스의 의미와 미래 전망"
+        },
+        {
+          "rank": 6,
+          "score": 0.4196088910102844,
+          "doc_id": "206",
+          "text": "O&ugrave; en est t’on du Big Data en m&eacute;decine ?"
+        },
+        {
+          "rank": 7,
+          "score": 0.4187498688697815,
+          "doc_id": "162",
+          "text": "IT 컨버전스의 이해와 법ㆍ기술 방향"
+        },
+        {
+          "rank": 8,
+          "score": 0.4185948371887207,
+          "doc_id": "196",
+          "text": "Nursing Needs Big Data and Big Data Needs Nursing"
+        },
+        {
+          "rank": 9,
+          "score": 0.4137396216392517,
+          "doc_id": "217",
+          "text": "Les big data, g&eacute;n&eacute;ralit&eacute;s et int&eacute;gration en radioth&eacute;rapie"
+        },
+        {
+          "rank": 10,
+          "score": 0.4110249876976013,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence"
+        }
+      ]
+    },
+    {
+      "query": "What is the role of near real-time analytics within this framework?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 2
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.512485146522522,
+          "doc_id": "62",
+          "text": "Utilization and Analysis of Big-data"
+        },
+        {
+          "rank": 2,
+          "score": 0.4758014678955078,
+          "doc_id": "206",
+          "text": "O&ugrave; en est t’on du Big Data en m&eacute;decine ?"
+        },
+        {
+          "rank": 3,
+          "score": 0.470866322517395,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence"
+        },
+        {
+          "rank": 4,
+          "score": 0.46879053115844727,
+          "doc_id": "43",
+          "text": "Enjeux des big data en sant&eacute;"
+        },
+        {
+          "rank": 5,
+          "score": 0.455989807844162,
+          "doc_id": "217",
+          "text": "Les big data, g&eacute;n&eacute;ralit&eacute;s et int&eacute;gration en radioth&eacute;rapie"
+        },
+        {
+          "rank": 6,
+          "score": 0.4515399932861328,
+          "doc_id": "196",
+          "text": "Nursing Needs Big Data and Big Data Needs Nursing"
+        },
+        {
+          "rank": 7,
+          "score": 0.45009756088256836,
+          "doc_id": "212",
+          "text": "Exploring Artificial Intelligence Futures"
+        },
+        {
+          "rank": 8,
+          "score": 0.44280239939689636,
+          "doc_id": "178",
+          "text": "IT 분야에서 컨버전스의 의미와 미래 전망"
+        },
+        {
+          "rank": 9,
+          "score": 0.43477076292037964,
+          "doc_id": "159",
+          "text": "Artificial Intelligence in a historical perspective"
+        },
+        {
+          "rank": 10,
+          "score": 0.43340325355529785,
+          "doc_id": "172",
+          "text": "Demystifying big data: Anatomy of big data developmental process"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

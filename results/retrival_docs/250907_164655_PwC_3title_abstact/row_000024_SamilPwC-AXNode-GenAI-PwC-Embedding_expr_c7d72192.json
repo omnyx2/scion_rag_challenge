@@ -1,0 +1,291 @@
+{
+  "id": "row_000024",
+  "model_name": "SamilPwC-AXNode-GenAI/PwC-Embedding_expr",
+  "timestamp_kst": "2025-09-07T16:46:59.977749+09:00",
+  "trial_id": "c7d72192",
+  "queries": [
+    {
+      "query": "Can you outline the key deep learning and machine learning models evaluated for electricity demand prediction and their comparative performance in terms of MSE and MAPE?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.8019111156463623,
+          "doc_id": "182",
+          "text": "Effective Electricity Demand Prediction via Deep Learning Effective Electricity Demand Prediction via Deep Learning Effective Electricity Demand Prediction via Deep Learning Prediction of electricity demand in homes and buildings can be used to optimize an energy management system by decreasing energy wastage. A time-series prediction system is still a challenging problem in machine learning and deep learning. Our main idea is to compare three methods. For this work, we analyzed an electricity demand prediction system using the current state-of-the-art deep-learning methods with a machine-learning method: error correction with multi-layer perceptron (eMLP) structure, autoregressive integrated moving average (ARIMA) structure, and a proposed structure named CNN-LSTM. For this, we measured and collected electricity demand data in Germany for home appliances. We report the prediction accuracy in terms of the mean square error (MSE) and mean absolute percentage error (MAPE). The experimental result indicates that CNN-LSTM outperforms eMLP and ARIMA in accuracy."
+        },
+        {
+          "rank": 2,
+          "score": 0.6678892970085144,
+          "doc_id": "9",
+          "text": "Wave data prediction with optimized machine learning and deep learning techniques Wave data prediction with optimized machine learning and deep learning techniques Wave data prediction with optimized machine learning and deep learning techniques Maritime Autonomous Surface Ships are in the development stage and they play an important role in the upcoming future. Present generation ships are semi-autonomous and controlled by the ship crew. The performance of the ship is predicted using the data collected from the ship with the help of machine learning and deep learning methods. Path planning for an autonomous ship is necessary for estimating the best possible route with minimum travel time and it depends on the weather. However, even during the navigation, there will be changes in weather and it should be predicted in order to reroute the ship. The weather information such as wave height, wave period, seawater temperature, humidity, atmospheric pressure, etc., is collected by ship external sensors, weather stations, buoys, and satellites. This paper investigates the ensemble machine learning approaches and seasonality approach for wave data prediction. The historical meteorological data are collected from six stations near Puerto Rico offshore and Hawaii offshore. We explore ensemble machine learning techniques on the data collected. The collected data are divided into training and testing data and apply machine learning models to predict the test data. The hyperparameter optimization is performed to find the best parameters before fitting on train data, this is essential to find the best results. Multivariate analysis is performed with all the methods and errors are computed to find the best models."
+        },
+        {
+          "rank": 3,
+          "score": 0.6616051197052002,
+          "doc_id": "155",
+          "text": "Machine Learning Versus Deep Learning Performances on the Sentiment Analysis of Product Reviews Machine Learning Versus Deep Learning Performances on the Sentiment Analysis of Product Reviews Machine Learning Versus Deep Learning Performances on the Sentiment Analysis of Product Reviews At this current digital era, business platforms have been drastically shifted toward online stores on internet. With the internet-based platform, customers can order goods easily using their smart phones and get delivery at their place without going to the shopping mall. However, the drawback of this business platform is that customers do not really know about the quality of the products they ordered. Therefore, such platform service often provides the review section to let previous customers leave a review about the received product. The reviews are a good source to analyze customer's satisfaction. Business owners can assess review trend as either positive or negative based on a feedback score that customers had given, but it takes too much time for human to analyze this data. In this research, we develop computational models using machine learning techniques to classify product reviews as positive or negative based on the sentiment analysis. In our experiments, we use the book review data from amazon.com to develop the models. For a machine learning based strategy, the data had been transformed with the bag of word technique before developing models using logistic regression, na&iuml;ve bayes, support vector machine, and neural network algorithms. For a deep learning strategy, the word embedding is a technique that we used to transform data before applying the long short-term memory and gated recurrent unit techniques. On comparing performance of machine learning against deep learning models, we compare results from the two methods with both the preprocessed dataset and the non-preprocessed dataset. The result is that the bag of words with neural network outperforms other techniques on both non-preprocess and preprocess datasets."
+        },
+        {
+          "rank": 4,
+          "score": 0.6573967933654785,
+          "doc_id": "88",
+          "text": "Machine learning on Big Data Machine learning on Big Data Machine learning on Big Data Statistical Machine Learning has undergone a phase transition from a pure academic endeavor to being one of the main drivers of modern commerce and science. Even more so, recent results such as those on tera-scale learning [1] and on very large neural networks [2] suggest that scale is an important ingredient in quality modeling. This tutorial introduces current applications, techniques and systems with the aim of cross-fertilizing research between the database and machine learning communities. The tutorial covers current large scale applications of Machine Learning, their computational model and the workflow behind building those. Based on this foundation, we present the current state-of-the-art in systems support in the bulk of the tutorial. We also identify critical gaps in the state-of-the-art. This leads to the closing of the seminar, where we introduce two sets of open research questions: Better systems support for the already established use cases of Machine Learning and support for recent advances in Machine Learning research."
+        },
+        {
+          "rank": 5,
+          "score": 0.6569617986679077,
+          "doc_id": "163",
+          "text": "Comparison of Machine Learning Tools for Mobile Application Comparison of Machine Learning Tools for Mobile Application Comparison of Machine Learning Tools for Mobile Application Demand for machine learning systems continues to grow, and cloud machine learning platforms are widely used to meet this demand. Recently, the performance improvement of the application processor of smartphones has become an opportunity for the machine learning platform to move from the cloud to On-Device AI, and mobile applications equipped with machine learning functions are required. In this paper, machine learning tools for mobile applications are investigated and compared the characteristics of these tools."
+        },
+        {
+          "rank": 6,
+          "score": 0.6501352787017822,
+          "doc_id": "50",
+          "text": "Deep Learning 프레임워크 성능 비교 연구 : Cloud Computing 환경에서 Deep Learning 프레임워크 성능 비교 연구 : Cloud Computing 환경에서 Deep Learning 프레임워크 성능 비교 연구 : Cloud Computing 환경에서 통신 기술의 발달로 인한 사람과 사람, 장치와 장치, 사람과 장치 간의 연결성의 증가와 저장 매체 기술의 발달, 그리고 데이터 저장 비용의 감소로 인해 데이터의 양이 폭발적으로 증가했다. 이에 따라 다양한 형태의 대규모의 데이터를 빠른 시간 내에 효율적으로 처리할 수 있는 Cloud Computing 기술이 주목 받고 있고, Cloud Computing을 위한 오픈소스 기반의 솔루션 또한 많이 나타나게 되었다. &amp;#xD; 2012년부터 주목받기 시작한 Deep Learning은 전 세계적으로 가장 많은 관심을 받는 연구 분야 중 하나이며, 이중 CNN(Convolution Neural Network)은 가장 대표적 알고리즘이다. Deep Learning은 미래사회를 이끌어갈 분야로 평가받고 있으며, 이에 따라 많은 연구들이 진행되고 있고, Deep Learning을 쉽게 활용할 수 있도록 하는 많은 프레임워크가 개발되었다. &amp;#xD; 이에 따라 많은 사람들이 쉽게 Deep Learning을 접할 수 있게 되었지만 특정 환경에서 어떤 프레임워크가 더 우수한 성능을 보이는지에 대한 연구는 부족한 실정이다. 본 논문에서는 특정 환경에서의 성능 비교가 부족하다는 기존 연구의 한계점을 개선하고자 가장 대표적인 Cloud Computing용 오픈소스 소프트웨어 중 하나인 OpenStack을 이용하여 Cloud Computing 환경에서 어떤 Deep Learning 프레임워크가 더 우수한 성능을 보이는지 비교해 보고자 한다."
+        },
+        {
+          "rank": 7,
+          "score": 0.6439135074615479,
+          "doc_id": "42",
+          "text": "Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning In recent years, machine learning algorithms are continuously being used and expanded in various fields, such as facial recognition, signal processing, personal authentication, and stock prediction. In particular, various algorithms, such as deep learning, reinforcement learning, and Q-learning, are continuously being improved. Among these algorithms, the expansion of deep learning is rapidly changing. Nevertheless, machine learning algorithms have not yet been applied in several fields, such as personal authentication technology. This technology is an essential tool in the digital information era, walking recognition technology as promising biometrics, and technology for solving state-space problems. Therefore, algorithm technologies of deep learning, reinforcement learning, and Q-learning, which are typical machine learning algorithms in various fields, such as agricultural technology, personal authentication, wireless network, game, biometric recognition, and image recognition, are being improved and expanded in this paper."
+        },
+        {
+          "rank": 8,
+          "score": 0.6435043811798096,
+          "doc_id": "74",
+          "text": "A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis The image analysis is an important and predominant task for classifying the different parts of the image. The analysis of complex image analysis like histopathological define a crucial factor in oncology due to its ability to help pathologists for interpretation of images and therefore various feature extraction techniques have been evolved from time to time for such analysis. Although deep reinforcement learning is a new and emerging technique but very less effort has been made to compare the deep learning and deep reinforcement learning for image analysis. The paper highlights how both techniques differ in feature extraction from complex images and discusses the potential pros and cons. The use of Convolution Neural Network (CNN) in image segmentation, detection and diagnosis of tumour, feature extraction is important but there are several challenges that need to be overcome before Deep Learning can be applied to digital pathology. The one being is the availability of sufficient training examples for medical image datasets, feature extraction from whole area of the image, ground truth localized annotations, adversarial effects of input representations and extremely large size of the digital pathological slides (in gigabytes).Even though formulating Histopathological Image Analysis (HIA) as Multi Instance Learning (MIL) problem is a remarkable step where histopathological image is divided into high resolution patches to make predictions for the patch and then combining them for overall slide predictions but it suffers from loss of contextual and spatial information. In such cases the deep reinforcement learning techniques can be used to learn feature from the limited data without losing contextual and spatial information."
+        },
+        {
+          "rank": 9,
+          "score": 0.6435043811798096,
+          "doc_id": "25",
+          "text": "A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis The image analysis is an important and predominant task for classifying the different parts of the image. The analysis of complex image analysis like histopathological define a crucial factor in oncology due to its ability to help pathologists for interpretation of images and therefore various feature extraction techniques have been evolved from time to time for such analysis. Although deep reinforcement learning is a new and emerging technique but very less effort has been made to compare the deep learning and deep reinforcement learning for image analysis. The paper highlights how both techniques differ in feature extraction from complex images and discusses the potential pros and cons. The use of Convolution Neural Network (CNN) in image segmentation, detection and diagnosis of tumour, feature extraction is important but there are several challenges that need to be overcome before Deep Learning can be applied to digital pathology. The one being is the availability of sufficient training examples for medical image datasets, feature extraction from whole area of the image, ground truth localized annotations, adversarial effects of input representations and extremely large size of the digital pathological slides (in gigabytes).Even though formulating Histopathological Image Analysis (HIA) as Multi Instance Learning (MIL) problem is a remarkable step where histopathological image is divided into high resolution patches to make predictions for the patch and then combining them for overall slide predictions but it suffers from loss of contextual and spatial information. In such cases the deep reinforcement learning techniques can be used to learn feature from the limited data without losing contextual and spatial information."
+        },
+        {
+          "rank": 10,
+          "score": 0.6430383920669556,
+          "doc_id": "18",
+          "text": "Deep Learning 기반의 DGA 개발에 대한 연구 Deep Learning 기반의 DGA 개발에 대한 연구 Deep Learning 기반의 DGA 개발에 대한 연구 Recently, there are many companies that use systems based on artificial intelligence. The accuracy of artificial intelligence depends on the amount of learning data and the appropriate algorithm. However, it is not easy to obtain learning data with a large number of entity. Less data set have large generalization errors due to overfitting. In order to minimize this generalization error, this study proposed DGA which can expect relatively high accuracy even though data with a less data set is applied to machine learning based genetic algorithm to deep learning based dropout. The idea of this paper is to determine the active state of the nodes. Using Gradient about loss function, A new fitness function is defined. Proposed Algorithm DGA is supplementing stochastic inconsistency about Dropout. Also DGA solved problem by the complexity of the fitness function and expression range of the model about Genetic Algorithm As a result of experiments using MNIST data proposed algorithm accuracy is 75.3%. Using only Dropout algorithm accuracy is 41.4%. It is shown that DGA is better than using only dropout."
+        }
+      ]
+    },
+    {
+      "query": "What deep learning and machine learning models were evaluated for electricity demand prediction?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.8103481531143188,
+          "doc_id": "182",
+          "text": "Effective Electricity Demand Prediction via Deep Learning Effective Electricity Demand Prediction via Deep Learning Effective Electricity Demand Prediction via Deep Learning Prediction of electricity demand in homes and buildings can be used to optimize an energy management system by decreasing energy wastage. A time-series prediction system is still a challenging problem in machine learning and deep learning. Our main idea is to compare three methods. For this work, we analyzed an electricity demand prediction system using the current state-of-the-art deep-learning methods with a machine-learning method: error correction with multi-layer perceptron (eMLP) structure, autoregressive integrated moving average (ARIMA) structure, and a proposed structure named CNN-LSTM. For this, we measured and collected electricity demand data in Germany for home appliances. We report the prediction accuracy in terms of the mean square error (MSE) and mean absolute percentage error (MAPE). The experimental result indicates that CNN-LSTM outperforms eMLP and ARIMA in accuracy."
+        },
+        {
+          "rank": 2,
+          "score": 0.6486904621124268,
+          "doc_id": "9",
+          "text": "Wave data prediction with optimized machine learning and deep learning techniques Wave data prediction with optimized machine learning and deep learning techniques Wave data prediction with optimized machine learning and deep learning techniques Maritime Autonomous Surface Ships are in the development stage and they play an important role in the upcoming future. Present generation ships are semi-autonomous and controlled by the ship crew. The performance of the ship is predicted using the data collected from the ship with the help of machine learning and deep learning methods. Path planning for an autonomous ship is necessary for estimating the best possible route with minimum travel time and it depends on the weather. However, even during the navigation, there will be changes in weather and it should be predicted in order to reroute the ship. The weather information such as wave height, wave period, seawater temperature, humidity, atmospheric pressure, etc., is collected by ship external sensors, weather stations, buoys, and satellites. This paper investigates the ensemble machine learning approaches and seasonality approach for wave data prediction. The historical meteorological data are collected from six stations near Puerto Rico offshore and Hawaii offshore. We explore ensemble machine learning techniques on the data collected. The collected data are divided into training and testing data and apply machine learning models to predict the test data. The hyperparameter optimization is performed to find the best parameters before fitting on train data, this is essential to find the best results. Multivariate analysis is performed with all the methods and errors are computed to find the best models."
+        },
+        {
+          "rank": 3,
+          "score": 0.6474109292030334,
+          "doc_id": "179",
+          "text": "Deep Structured Learning: Architectures and Applications Deep Structured Learning: Architectures and Applications Deep Structured Learning: Architectures and Applications Deep learning, a sub-field of machine learning changing the prospects of artificial intelligence (AI) because of its recent advancements and application in various field. Deep learning deals with algorithms inspired by the structure and function of the brain called artificial neural networks. This works reviews basic architecture and recent advancement of deep structured learning. It also describes contemporary applications of deep structured learning and its advantages over the treditional learning in artificial interlligence. This study is useful for the general readers and students who are in the early stage of deep learning studies."
+        },
+        {
+          "rank": 4,
+          "score": 0.6461277008056641,
+          "doc_id": "47",
+          "text": "Econometrics and Machine Learning Econometrics and Machine Learning Econometrics and Machine Learning 없음"
+        },
+        {
+          "rank": 5,
+          "score": 0.6457259654998779,
+          "doc_id": "88",
+          "text": "Machine learning on Big Data Machine learning on Big Data Machine learning on Big Data Statistical Machine Learning has undergone a phase transition from a pure academic endeavor to being one of the main drivers of modern commerce and science. Even more so, recent results such as those on tera-scale learning [1] and on very large neural networks [2] suggest that scale is an important ingredient in quality modeling. This tutorial introduces current applications, techniques and systems with the aim of cross-fertilizing research between the database and machine learning communities. The tutorial covers current large scale applications of Machine Learning, their computational model and the workflow behind building those. Based on this foundation, we present the current state-of-the-art in systems support in the bulk of the tutorial. We also identify critical gaps in the state-of-the-art. This leads to the closing of the seminar, where we introduce two sets of open research questions: Better systems support for the already established use cases of Machine Learning and support for recent advances in Machine Learning research."
+        },
+        {
+          "rank": 6,
+          "score": 0.643690824508667,
+          "doc_id": "214",
+          "text": "An Efficient Parallel Machine Learning-based Blockchain Framework An Efficient Parallel Machine Learning-based Blockchain Framework An Efficient Parallel Machine Learning-based Blockchain Framework The unlimited possibilities of machine learning have been shown in several successful reports and applications. However, how to make sure that the searched results of a machine learning system are not tampered by anyone and how to prevent the other users in the same network environment from easily getting our private data are two critical research issues when we immerse into powerful machine learning-based systems or applications. This situation is just like other modern information systems that confront security and privacy issues. The development of blockchain provides us an alternative way to address these two issues. That is why some recent studies have attempted to develop machine learning systems with blockchain technologies or to apply machine learning methods to blockchain systems. To show what the combination of blockchain and machine learning is capable of doing, in this paper, we proposed a parallel framework to find out suitable hyperparameters of deep learning in a blockchain environment by using a metaheuristic algorithm. The proposed framework also takes into account the issue of communication cost, by limiting the number of information exchanges between miners and blockchain."
+        },
+        {
+          "rank": 7,
+          "score": 0.6429854035377502,
+          "doc_id": "163",
+          "text": "Comparison of Machine Learning Tools for Mobile Application Comparison of Machine Learning Tools for Mobile Application Comparison of Machine Learning Tools for Mobile Application Demand for machine learning systems continues to grow, and cloud machine learning platforms are widely used to meet this demand. Recently, the performance improvement of the application processor of smartphones has become an opportunity for the machine learning platform to move from the cloud to On-Device AI, and mobile applications equipped with machine learning functions are required. In this paper, machine learning tools for mobile applications are investigated and compared the characteristics of these tools."
+        },
+        {
+          "rank": 8,
+          "score": 0.6388773918151855,
+          "doc_id": "42",
+          "text": "Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning In recent years, machine learning algorithms are continuously being used and expanded in various fields, such as facial recognition, signal processing, personal authentication, and stock prediction. In particular, various algorithms, such as deep learning, reinforcement learning, and Q-learning, are continuously being improved. Among these algorithms, the expansion of deep learning is rapidly changing. Nevertheless, machine learning algorithms have not yet been applied in several fields, such as personal authentication technology. This technology is an essential tool in the digital information era, walking recognition technology as promising biometrics, and technology for solving state-space problems. Therefore, algorithm technologies of deep learning, reinforcement learning, and Q-learning, which are typical machine learning algorithms in various fields, such as agricultural technology, personal authentication, wireless network, game, biometric recognition, and image recognition, are being improved and expanded in this paper."
+        },
+        {
+          "rank": 9,
+          "score": 0.6374459862709045,
+          "doc_id": "148",
+          "text": "A deep-learning-based emergency alert system A deep-learning-based emergency alert system A deep-learning-based emergency alert system Emergency alert systems serve as a critical link in the chain of crisis communication, and they are essential to minimize loss during emergencies. Acts of terrorism and violence, chemical spills, amber alerts, nuclear facility problems, weather-related emergencies, flu pandemics, and other emergencies all require those responsible such as government officials, building managers, and university administrators to be able to quickly and reliably distribute emergency information to the public. This paper presents our design of a deep-learning-based emergency warning system. The proposed system is considered suitable for application in existing infrastructure such as closed-circuit television and other monitoring devices. The experimental results show that in most cases, our system immediately detects emergencies such as car accidents and natural disasters."
+        },
+        {
+          "rank": 10,
+          "score": 0.6364239454269409,
+          "doc_id": "202",
+          "text": "Machine learning Machine learning Machine learning A short review of research and applications in machine learning is given. Rather than attempt to cover all areas of ML, the focus is on its role in building expert systems, its approach to classification problems and ML methods of learning control. A relatively new area, inductive logic programming, is also discussed."
+        }
+      ]
+    },
+    {
+      "query": "What is the Mean Squared Error (MSE) for each of the evaluated models?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.585511326789856,
+          "doc_id": "128",
+          "text": "Machine learning-based adaptive CSI feedback interval Machine learning-based adaptive CSI feedback interval Machine learning-based adaptive CSI feedback interval The channel state information (CSI) is essential for the base station (BS) to schedule user equipments (UEs) and efficiently manage the radio resources. Hence, the BS requests UEs to regularly feed back the CSI. However, frequent CSI reporting causes large signaling overhead. To reduce the feedback overhead, we propose two machine learning-based approaches to adjust the CSI feedback interval. We use a deep neural network and reinforcement learning (RL) to decide whether an UE feeds back the CSI. Simulation results show that the RL-based approach achieves the lowest mean squared error while reducing the number of CSI feedback transmissions."
+        },
+        {
+          "rank": 2,
+          "score": 0.5826137065887451,
+          "doc_id": "135",
+          "text": "Liver Fibrosis Biomarker Validation Using Machine Learning Algorithms Liver Fibrosis Biomarker Validation Using Machine Learning Algorithms Liver Fibrosis Biomarker Validation Using Machine Learning Algorithms Background: Liver fibrosis which causes several liver diseases, requires early screening and management. The gold standard for fibrosis assessment, liver biopsy, has recently been replaced by noninvasive scores. In this study, we validated liver fibrosis-associated biomarkers using machine learning techniques applied in medical research and evaluated their prediction models.Methods: Noninvasive scores were assayed in 144 patients who underwent transient elastography (TE). The patients were divided into three groups (<7 kPa, 7–10 kPa, ≥10 kPa) according to their TE results. Feature selection and modeling for predicting liver fibrosis were performed using random forest (RF) and support vector machine (SVM).Results: Considering the mean decrease in impurity, permutation importance, and multicollinear analysis, the important features for differentiating between the three groups were Mac-2 binding protein glycosylation isomer (M2BPGi), platelet count, and aspartate aminotransferase (AST). Using these features, the RF and SVM models showed equivalent or better performance than noninvasive scores. The sensitivities of RF and SVM models for predicting ≥7 kPa TE results were higher than noninvasive scores (83.3% and 90.0% vs. <80%, respectively). The sensitivity and specificity of RF and SVM models for ≥10 kPa TE result was 100%.Conclusions: We used machine learning techniques to verify the usefulness of established serological biomarkers (M2BPGi, PLT, and AST) that predict liver fibrosis. Conclusively, machine learning models showed better performance than noninvasive scores."
+        },
+        {
+          "rank": 3,
+          "score": 0.5593755841255188,
+          "doc_id": "201",
+          "text": "Wine Quality Evaluation Using Machine Learning Algorithms Wine Quality Evaluation Using Machine Learning Algorithms Wine Quality Evaluation Using Machine Learning Algorithms There are many prediction systems available for problems like stock exchange, medical diagnosis, insurance calculation, etc. Wine Quality is one area where there is a big opportunity to recommend a good quality of wine to users based on their preferences as well as in historical data. This paper describes the work to learn and assess whether a given wine sample is of good quality or not. The use of machine learning techniques specifically the linear regression with stochastic gradient descent were explored, and the features that perform well on this classification were engineered. The main aim is to develop a cost-effective system to acquire knowledge using data analysis through machine learning algorithms to predict the quality of wine in a better way."
+        },
+        {
+          "rank": 4,
+          "score": 0.5550342798233032,
+          "doc_id": "163",
+          "text": "Comparison of Machine Learning Tools for Mobile Application Comparison of Machine Learning Tools for Mobile Application Comparison of Machine Learning Tools for Mobile Application Demand for machine learning systems continues to grow, and cloud machine learning platforms are widely used to meet this demand. Recently, the performance improvement of the application processor of smartphones has become an opportunity for the machine learning platform to move from the cloud to On-Device AI, and mobile applications equipped with machine learning functions are required. In this paper, machine learning tools for mobile applications are investigated and compared the characteristics of these tools."
+        },
+        {
+          "rank": 5,
+          "score": 0.5544484257698059,
+          "doc_id": "182",
+          "text": "Effective Electricity Demand Prediction via Deep Learning Effective Electricity Demand Prediction via Deep Learning Effective Electricity Demand Prediction via Deep Learning Prediction of electricity demand in homes and buildings can be used to optimize an energy management system by decreasing energy wastage. A time-series prediction system is still a challenging problem in machine learning and deep learning. Our main idea is to compare three methods. For this work, we analyzed an electricity demand prediction system using the current state-of-the-art deep-learning methods with a machine-learning method: error correction with multi-layer perceptron (eMLP) structure, autoregressive integrated moving average (ARIMA) structure, and a proposed structure named CNN-LSTM. For this, we measured and collected electricity demand data in Germany for home appliances. We report the prediction accuracy in terms of the mean square error (MSE) and mean absolute percentage error (MAPE). The experimental result indicates that CNN-LSTM outperforms eMLP and ARIMA in accuracy."
+        },
+        {
+          "rank": 6,
+          "score": 0.5528618097305298,
+          "doc_id": "75",
+          "text": "MACHINE LEARNING MACHINE LEARNING MACHINE LEARNING The motivation for machine learning is to have computers extract concepts and relations from databases or through interactive sessions with a user and then use them in any knowledge-intensive activity. Developing knowledge bases for expert systems applications is one such activity. Studying computer-based learning techniques gives a better understanding of human mental processes. Two types of programs are considered that learn from examples: those, called data-driven learners, that generalize by relying entirely on the data presented to them, and a group of more elaborate programs, called model-driven learners, that proceed by generating fairly general hypotheses that are subsequently tested against the given examples or against the user in a typical interactive session. The model-driven learner is contrasted with the data-driven learner and an example of the former using a model-driven learner called Marvin is given."
+        },
+        {
+          "rank": 7,
+          "score": 0.5473099946975708,
+          "doc_id": "63",
+          "text": "Analysis of Machine Learning Education Tool for Kids Analysis of Machine Learning Education Tool for Kids Analysis of Machine Learning Education Tool for Kids Artificial intelligence and machine learning are used in many parts of our daily lives, but the basic processes and concepts are barely exposed to most people. Understanding these basic concepts is becoming increasingly important as kids don't have the opportunity to explore AI processes and improve their understanding of basic machine learning concepts and their essential components. Machine learning educational tools can help children easily understand artificial intelligence and machine learning. In this paper, we examine machine learning education tools and compare their features."
+        },
+        {
+          "rank": 8,
+          "score": 0.5428940057754517,
+          "doc_id": "115",
+          "text": "Scientific Machine Learning Seismology Scientific Machine Learning Seismology Scientific Machine Learning Seismology 없음"
+        },
+        {
+          "rank": 9,
+          "score": 0.5395904779434204,
+          "doc_id": "155",
+          "text": "Machine Learning Versus Deep Learning Performances on the Sentiment Analysis of Product Reviews Machine Learning Versus Deep Learning Performances on the Sentiment Analysis of Product Reviews Machine Learning Versus Deep Learning Performances on the Sentiment Analysis of Product Reviews At this current digital era, business platforms have been drastically shifted toward online stores on internet. With the internet-based platform, customers can order goods easily using their smart phones and get delivery at their place without going to the shopping mall. However, the drawback of this business platform is that customers do not really know about the quality of the products they ordered. Therefore, such platform service often provides the review section to let previous customers leave a review about the received product. The reviews are a good source to analyze customer's satisfaction. Business owners can assess review trend as either positive or negative based on a feedback score that customers had given, but it takes too much time for human to analyze this data. In this research, we develop computational models using machine learning techniques to classify product reviews as positive or negative based on the sentiment analysis. In our experiments, we use the book review data from amazon.com to develop the models. For a machine learning based strategy, the data had been transformed with the bag of word technique before developing models using logistic regression, na&iuml;ve bayes, support vector machine, and neural network algorithms. For a deep learning strategy, the word embedding is a technique that we used to transform data before applying the long short-term memory and gated recurrent unit techniques. On comparing performance of machine learning against deep learning models, we compare results from the two methods with both the preprocessed dataset and the non-preprocessed dataset. The result is that the bag of words with neural network outperforms other techniques on both non-preprocess and preprocess datasets."
+        },
+        {
+          "rank": 10,
+          "score": 0.5390469431877136,
+          "doc_id": "70",
+          "text": "Machine Learning in Predicting Hemoglobin Variants Machine Learning in Predicting Hemoglobin Variants Machine Learning in Predicting Hemoglobin Variants 없음"
+        }
+      ]
+    },
+    {
+      "query": "What is the Mean Absolute Percentage Error (MAPE) for each of the evaluated models?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 2
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5735269784927368,
+          "doc_id": "135",
+          "text": "Liver Fibrosis Biomarker Validation Using Machine Learning Algorithms Liver Fibrosis Biomarker Validation Using Machine Learning Algorithms Liver Fibrosis Biomarker Validation Using Machine Learning Algorithms Background: Liver fibrosis which causes several liver diseases, requires early screening and management. The gold standard for fibrosis assessment, liver biopsy, has recently been replaced by noninvasive scores. In this study, we validated liver fibrosis-associated biomarkers using machine learning techniques applied in medical research and evaluated their prediction models.Methods: Noninvasive scores were assayed in 144 patients who underwent transient elastography (TE). The patients were divided into three groups (<7 kPa, 7–10 kPa, ≥10 kPa) according to their TE results. Feature selection and modeling for predicting liver fibrosis were performed using random forest (RF) and support vector machine (SVM).Results: Considering the mean decrease in impurity, permutation importance, and multicollinear analysis, the important features for differentiating between the three groups were Mac-2 binding protein glycosylation isomer (M2BPGi), platelet count, and aspartate aminotransferase (AST). Using these features, the RF and SVM models showed equivalent or better performance than noninvasive scores. The sensitivities of RF and SVM models for predicting ≥7 kPa TE results were higher than noninvasive scores (83.3% and 90.0% vs. <80%, respectively). The sensitivity and specificity of RF and SVM models for ≥10 kPa TE result was 100%.Conclusions: We used machine learning techniques to verify the usefulness of established serological biomarkers (M2BPGi, PLT, and AST) that predict liver fibrosis. Conclusively, machine learning models showed better performance than noninvasive scores."
+        },
+        {
+          "rank": 2,
+          "score": 0.5483532547950745,
+          "doc_id": "163",
+          "text": "Comparison of Machine Learning Tools for Mobile Application Comparison of Machine Learning Tools for Mobile Application Comparison of Machine Learning Tools for Mobile Application Demand for machine learning systems continues to grow, and cloud machine learning platforms are widely used to meet this demand. Recently, the performance improvement of the application processor of smartphones has become an opportunity for the machine learning platform to move from the cloud to On-Device AI, and mobile applications equipped with machine learning functions are required. In this paper, machine learning tools for mobile applications are investigated and compared the characteristics of these tools."
+        },
+        {
+          "rank": 3,
+          "score": 0.5443230271339417,
+          "doc_id": "75",
+          "text": "MACHINE LEARNING MACHINE LEARNING MACHINE LEARNING The motivation for machine learning is to have computers extract concepts and relations from databases or through interactive sessions with a user and then use them in any knowledge-intensive activity. Developing knowledge bases for expert systems applications is one such activity. Studying computer-based learning techniques gives a better understanding of human mental processes. Two types of programs are considered that learn from examples: those, called data-driven learners, that generalize by relying entirely on the data presented to them, and a group of more elaborate programs, called model-driven learners, that proceed by generating fairly general hypotheses that are subsequently tested against the given examples or against the user in a typical interactive session. The model-driven learner is contrasted with the data-driven learner and an example of the former using a model-driven learner called Marvin is given."
+        },
+        {
+          "rank": 4,
+          "score": 0.5436172485351562,
+          "doc_id": "63",
+          "text": "Analysis of Machine Learning Education Tool for Kids Analysis of Machine Learning Education Tool for Kids Analysis of Machine Learning Education Tool for Kids Artificial intelligence and machine learning are used in many parts of our daily lives, but the basic processes and concepts are barely exposed to most people. Understanding these basic concepts is becoming increasingly important as kids don't have the opportunity to explore AI processes and improve their understanding of basic machine learning concepts and their essential components. Machine learning educational tools can help children easily understand artificial intelligence and machine learning. In this paper, we examine machine learning education tools and compare their features."
+        },
+        {
+          "rank": 5,
+          "score": 0.542950451374054,
+          "doc_id": "201",
+          "text": "Wine Quality Evaluation Using Machine Learning Algorithms Wine Quality Evaluation Using Machine Learning Algorithms Wine Quality Evaluation Using Machine Learning Algorithms There are many prediction systems available for problems like stock exchange, medical diagnosis, insurance calculation, etc. Wine Quality is one area where there is a big opportunity to recommend a good quality of wine to users based on their preferences as well as in historical data. This paper describes the work to learn and assess whether a given wine sample is of good quality or not. The use of machine learning techniques specifically the linear regression with stochastic gradient descent were explored, and the features that perform well on this classification were engineered. The main aim is to develop a cost-effective system to acquire knowledge using data analysis through machine learning algorithms to predict the quality of wine in a better way."
+        },
+        {
+          "rank": 6,
+          "score": 0.5416653156280518,
+          "doc_id": "182",
+          "text": "Effective Electricity Demand Prediction via Deep Learning Effective Electricity Demand Prediction via Deep Learning Effective Electricity Demand Prediction via Deep Learning Prediction of electricity demand in homes and buildings can be used to optimize an energy management system by decreasing energy wastage. A time-series prediction system is still a challenging problem in machine learning and deep learning. Our main idea is to compare three methods. For this work, we analyzed an electricity demand prediction system using the current state-of-the-art deep-learning methods with a machine-learning method: error correction with multi-layer perceptron (eMLP) structure, autoregressive integrated moving average (ARIMA) structure, and a proposed structure named CNN-LSTM. For this, we measured and collected electricity demand data in Germany for home appliances. We report the prediction accuracy in terms of the mean square error (MSE) and mean absolute percentage error (MAPE). The experimental result indicates that CNN-LSTM outperforms eMLP and ARIMA in accuracy."
+        },
+        {
+          "rank": 7,
+          "score": 0.5410311818122864,
+          "doc_id": "111",
+          "text": "Artificial Intelligence for Artificial Artificial Intelligence Artificial Intelligence for Artificial Artificial Intelligence Artificial Intelligence for Artificial Artificial Intelligence Crowdsourcing platforms such as Amazon Mechanical Turk have become popular for a wide variety of human intelligence tasks; however, quality control continues to be a significant challenge. Recently, we propose TurKontrol, a theoretical model based on POMDPs to optimize iterative, crowd-sourced workflows. However, they neither describe how to learn the model parameters, nor show its effectiveness in a real crowd-sourced setting. Learning is challenging due to the scale of the model and noisy data: there are hundreds of thousands of workers with high-variance abilities. This paper presents an end-to-end system that first learns TurKontrol's POMDP parameters from real Mechanical Turk data, and then applies the model to dynamically optimize live tasks. We validate the model and use it to control a successive-improvement process on Mechanical Turk. By modeling worker accuracy and voting patterns, our system produces significantly superior artifacts compared to those generated through nonadaptive workflows using the same amount of money."
+        },
+        {
+          "rank": 8,
+          "score": 0.5372955799102783,
+          "doc_id": "128",
+          "text": "Machine learning-based adaptive CSI feedback interval Machine learning-based adaptive CSI feedback interval Machine learning-based adaptive CSI feedback interval The channel state information (CSI) is essential for the base station (BS) to schedule user equipments (UEs) and efficiently manage the radio resources. Hence, the BS requests UEs to regularly feed back the CSI. However, frequent CSI reporting causes large signaling overhead. To reduce the feedback overhead, we propose two machine learning-based approaches to adjust the CSI feedback interval. We use a deep neural network and reinforcement learning (RL) to decide whether an UE feeds back the CSI. Simulation results show that the RL-based approach achieves the lowest mean squared error while reducing the number of CSI feedback transmissions."
+        },
+        {
+          "rank": 9,
+          "score": 0.5333008766174316,
+          "doc_id": "147",
+          "text": "A Survey of Topological Machine Learning Methods A Survey of Topological Machine Learning Methods A Survey of Topological Machine Learning Methods The last decade saw an enormous boost in the field of computational topology: methods and concepts from algebraic and differential topology, formerly confined to the realm of pure mathematics, have demonstrated their utility in numerous areas such as computational biology personalised medicine, and time-dependent data analysis, to name a few. The newly-emerging domain comprising topology-based techniques is often referred to as topological data analysis (TDA). Next to their applications in the aforementioned areas, TDA methods have also proven to be effective in supporting, enhancing, and augmenting both classical machine learning and deep learning models. In this paper, we review the state of the art of a nascent field we refer to as &ldquo;topological machine learning,&rdquo; i.e., the successful symbiosis of topology-based methods and machine learning algorithms, such as deep neural networks. We identify common threads, current applications, and future challenges."
+        },
+        {
+          "rank": 10,
+          "score": 0.5289015173912048,
+          "doc_id": "110",
+          "text": "Machine Learning기법을 이용한 Robot 이상 예지 보전 Machine Learning기법을 이용한 Robot 이상 예지 보전 Machine Learning기법을 이용한 Robot 이상 예지 보전 In this paper, a predictive maintenance of the robot trouble using the machine learning method, so called MT(Mahalanobis Taguchi), was studied. Especially, 'MD(Mahalanobis Distance)' was used to compare the robot arm motion difference between before the maintenance(bearing change) and after the maintenance. 6-axies vibration sensor was used to detect the vibration sensing during the motion of the robot arm. The results of the comparison, MD value of the arm motions of the after the maintenance(bearing change) was much lower and stable compared to MD value of the arm motions of the before the maintenance. MD value well distinguished the fine difference of the arm vibration of the robot. The superior performance of the MT method applied to the prediction of the robot trouble was verified by this experiments."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

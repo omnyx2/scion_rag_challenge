@@ -12,7 +12,7 @@ Dense Retrieval with BGE-M3 on a CSV VectorDB and JSONL Questions.
 
 Example:
     python src/retriever_methods/dense_retrieval_bge_m3.py \
-      --vectordb_csv /workspace/results/vectordb/250906_153020/bge_m3_test_3title_abstract_BAAI_bge-m3.csv \
+      --vectordb_csv /workspace/results/vectordb/250906_000003/bge_m3_test_3title_abstract_BAAI_bge-m3.csv \
       --config_json /workspace/configs/query_encoder/config_bge_m3.json \
       --questions_jsonl /workspace/data/expr/singlehop_decompose.jsonl \
       --ids row_000018,row_000042 \

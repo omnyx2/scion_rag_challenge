@@ -1,0 +1,151 @@
+{
+  "id": "row_000017",
+  "model_name": "Snowflake/snowflake-arctic-embed-l-v2.0",
+  "timestamp_kst": "2025-09-07T15:58:55.528737+09:00",
+  "trial_id": "c7252dd3",
+  "queries": [
+    {
+      "query": "DTG 실 주행데이터와 공간정보를 활용한 연료소모량 추정 모델 SBiFEM의 핵심 구성 요소를 요약해 주세요.",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6465713381767273,
+          "doc_id": "21",
+          "text": "한국에서 교통사고를 줄이는 목적으로 디지털운행기록계(DTG) 장치가 모든 상용차량에 의무 장착이 되어 GPS 궤적을 포함한 많은 양의 운행기록 데이터가 생성되고 있다. 지금까지 이러한 DTG 데이터는 주로 교통안전운전을 유도하는 용도로 사용되어왔다. 그러나 DTG데이터는 연료소모량을 줄일 수 있는 에코드라이빙 분야 등 다양한 분야로 활용도를 확대할 수 있다. 본 연구는 실제 운행한 대규모 DTG운행 데이터를 공간 빅데이터 분석을 통해 연료소모량을 추정할 수 있는 모델을 수립하는 연구이다. 기존의 연료소모량 추정 모델은 주로 실험실 환경 또는 일부 지역에 국한되어 검증한 모델로 실제 운행되는 상용차량 대상으로 분석할 경우 수집하기 어려운 변수들이 많고, 한국의 전국을 운행한 다양한 운행기록 데이터를 적용하면 정확도가 낮아지는 문제점이 있다. 본 연구에서는 이러한 문제를 개선하기 위해 DTG데이터와 공간 빅데이터를 이용한 연료소모량 추정 모델인 SBiFEM(Spatial Big Data Fuel Estimation Model)을 제안하였다. SBiFEM은 운전자 운행특성 및 도로의 다양한 환경정보를 반영하기 위해 운행 패턴과 공간 빅데이터 맵매칭 기술을 이용해 다양한 도로정보들을 입력변수로 추가 활용하는 분석 방법이다. 본 연구에서는 전처리, 공간빅데이터, 운행 패턴 생성에 이르는 전 과정에서 빅데이터 Map Reduce를 활용하는 공간빅데이터 분석 프로세스를 다음과 같이 수립하고 구현, 검증을 하였다. 첫째로, 전처리 기술 고도화이다. 센싱 데이터 및 GPS공간데이터 특성상 많은 양의 이상치 데이터(Outlier)가 존재하고 있어 이를 정제하지 않으면 분석결과도 신뢰할 수 없다. 이를 위해 통계기법 및 운행 패턴 분석을 이용한 필터링 기법을 연구하였다. 둘째로, 대량의 GPS궤적 데이터를 이용한 공간빅데이터 분석 체계이다. 차량 이동 데이터를 분석하기 위해서는 차량이 어느 도로에 위치 했는지를 알기 위한 전자지도와 매칭하는 맵매칭 기술이 필수적이다. 대부분의 맵매칭 기술은 실시간 내비게이션 용도로 주로 사용되어왔기 때문에 빠른 분석 속도를 요하는 빅데이터 분석에 적합하지 않다. 본 연구에서는 대량의 GPS궤적데이터를 전자지도에 매칭하는 빅데이터 맵매칭 기술을 연구하였다. 셋째로, 연료소모량을 추정하는 모델이다. 기존 추정 모델과의 차별점은 실제 운행환경을 반영하기 위한 변수들을 추가했다는 것이다. 한 종류는 차량 운행특성을 반영하는 운행 패턴이고, 또 한 종류는 전국의 다양한 도로 환경 정보이다. 이러한 도로 환경정보를 반영하기 위해 맵매칭 공간빅데이터 프로세스를 이용하였다. SBiFEM 빅데이터 분석시스템 테스트 및 검증은 5대의 분산 서버에 Hadoop, HBase와 Map Reduce프로그램을 수행하여 성능 검증을 하였다. 또한 연료소모량 추정 모델 검증은 대표적인 연료소모량 및 배출가스 추정 모델인 SIDRA, VSP, VT-Micro등을 DTG데이터를 적용하여 분석한 결과와 본 연구의 모델을 적용한 결과를 비교하여 검증하였다. 비교결과 추정 값과 실제 값을 비교한 Correlation이 0.9169, MAPE(평균절대백분비오차)가 0.1846으로 본 연구의 모델 적용시 가장 우수하게 나와 본 논문에서 개발한 모델의 우수성을 검증하였다."
+        },
+        {
+          "rank": 2,
+          "score": 0.3614031672477722,
+          "doc_id": "8",
+          "text": "데이터 중심 정보시스템 구축 모델은 그간 정보화 사업 추진이 HW, SW기능 중심으로 이루어지던 것을, 데이터 구조 및 데이터 수집 배포 채널에 대한 체계적인 분석과 설계, 데이터표준 적용, 정보통신 융합기기의 데이터 설정의 유연성 확보 등의 고려하여 개선한 모델이다. 이 모델의 주요 특성인 정보통신 융합기기에 데이터 유연성이 보장되는 개선 효과에 대해 센서와 반응기로 구분하여 이들 기기에 새로운 정보시스템이 추가적으로 연계되는 상황을 가정하여 시스템 개선 복잡도와 네트워크 환경에 대한 지수를 산정하여 기존의 일반적인 구축 방식과 비교하였다. 본 모델을 확산함으로써, 일반 업무용 정보시스템 외에 나날이 늘어나는 정보기술 융 복합 기기들이 처리하는 데이터에 대해서도 품질과 상호운용성을 통제하게 되어, 정보화 거버넌스의 영역 확대를 통해 종합적인 정보화 기획 및 성과 관리 등이 가능하게 되는 개선 효과가 있다."
+        },
+        {
+          "rank": 3,
+          "score": 0.3312780261039734,
+          "doc_id": "165",
+          "text": "패키징 분야도 4차 산업혁명에 발 맞춰 IoT (Internet of Things), 빅데이터, 클라우드 및 소비자 기반 기술 등이 적용되어 스마트 패키징이 등장하고 있다. 정책, 예측, 마케팅, 디자인 등 다양한 분야에서 빅데이터 분석이 활용되고 있지만 패키징 분야에서의 연구는 아직 초보적 수준이다. 따라서 본 연구는 빅데이터를 패키징 분야에 적용하기 위해 선행연구과 관련서적을 통해 빅데이터의 정의와 연구에서 활용되는 데이터 수집, 저장, 분석방법을 정리하였고 패키징 분야에 적용할 수 있는 분석방법을 제시하였다. 오늘날 패키징 분야는 마케팅적 요소를 요구받고 있기 때문에 패키징에 대한 소비자의 인식을 파악할 필요가 있으며 빅데이터의 근원이 되는 5가지 데이터 중 사유데이터(private data)와 커뮤니티 데이터(community data)를 활용하여 소비자와 제품 간의 상호작용 분석하는데 활용하고자 한다. 패키징은 소비자의 관심을 끌기 위한 전략전인 도구로 사용되며 소비자의 구매위험을 줄이는 수단이 되기 때문에 패키징에 대한 소비자의 인식을 분석할 필요가 있다. 본 연구에서는 제품 개선을 위한 문제점 도출 과정에서 의미연결망 분석(Semantic Network Analysis)과 텍스트마이닝(Text mining)을 활용하여 제품을 구성하는 다양한 요소들을 파악하고 패키징 요소의 빈도분석을 거쳐 패키징의 영향력을 확인하는 방안과 저관여 제품을 대상으로 텍스트 마이닝(Text mining)과 오피니언 마이닝(Opinion Mining), 소셜 네트워크 분석(Social Network Analysis)을 통해 패키징에 대한 감정분석을 하여 동일한 제품군에서 소비자가 선호하는 패키징을 도출하는 방안을 제시하였다. 패키징은 제품을 구성하는 많은 요소들 중 하나이기 때문에 패키징이라는 단일 요소의 영향력을 파악하기란 쉽지 않지만 본 연구는 빅데이터를 활용하여 패키징에 대한 소비자의 인식과 감정을 분석하고 제품에서 패키징이 소비자에게 미치는 영향력을 분석할 수 있는 방안을 제시한 데 의의가 있다."
+        },
+        {
+          "rank": 4,
+          "score": 0.3244534134864807,
+          "doc_id": "144",
+          "text": "본 논문은 산업 현장과 민간에서 실시간으로 수집되는 에너지 빅데이터를 수용하는 빅데이터 시스템을 제안한다. 구축된 빅데이터 시스템은 하둡(Hadoop) 기반이며, 빅데이터 처리에 있어 인메모리(in-memory) 분산처리 컴퓨팅을 지원하는 스파크(Spark) 프레임워크가 동시에 적용되었다. 본문에서는 지역난방에 사용되는 열에너지 형태의 빅데이터에 초점을 두어, 입출력되는 에너지의 특성을 고려하며 실시간 수집되는 빅데이터를 적재, 관리, 처리 및 분석하는 방법을 다룬다. 이 때, 외부에서 유입되는 빅데이터는 시스템 내부에 설계된 관계형 데이터베이스 스키마에 따라 저장하고 관리되며, 저장된 빅데이터는 설정된 목적에 따라 처리하고 분석된다. 제안된 빅데이터 시스템과 더불어 지역난방과 관련한 복수의 실증현장으로부터 실시간으로 수집되는 열에너지 빅데이터에 대해 시스템이 활용된 사례를 기술한다."
+        },
+        {
+          "rank": 5,
+          "score": 0.31531792879104614,
+          "doc_id": "71",
+          "text": "Purpose: The main purpose of this work was to present the problems of big data and to present how small data can be used as a complement to big data and its effects step by step in the big data through the concept of value chain. Recently, the big data market is growing rapidly around the world because data is processed on the basis of size, diversity, speed, accuracy and value. Specifically, this study focuses on its application to Jeju tourism. Research design, data, and methodology: The problems of big data were clearly presented using various real-world examples, and the verification of the compromise with small data and its effectiveness were conducted based on research papers discussing Jeju tourism using big data. The results of the study suggested the use of small data to solve and verify the representation of big data at the collection stage of the big data value chain, and the analysis stage suggested combining the identification of behavior patterns, the strengths of small data, and the exploration of causal relationships. Results: Among various stage, in the curation phase, a cause-and-effect analysis using small data suggested a solution to the problem of mistaking the correlation of big data as causality, and in the storage phase, a policy plan using small data was proposed to solve the problem of privacy infringement. The most important part of this study was the application stage, which discussed the specific problems of big data and the possibility of compromise between small data. As well, in the utilization phase, a combination of correlation and causality, as in the curation phase, was proposed. Conclusions: As an implication of this study, we used specific examples to present synergies when big data is compromised with small data. It also showed that the compromised use of big data and small data can contribute not only in terms of research but also in terms of practicality in tourism industry. Finally, we expanded the foundation of research in terms of academic research, discussing the trade-off utilization of big and small data."
+        },
+        {
+          "rank": 6,
+          "score": 0.31180375814437866,
+          "doc_id": "220",
+          "text": "인터넷의 발달과 휴대용 기기의 발달로 사용자들이 데이터를 생산하고, 공유하는 일들이 매우 자연스럽고 쉬운 일이 되었다. e-마켓플레스로 대변되는 온라인 쇼핑몰에서도 사용자들의 데이터 생산과 공유가 리뷰의 형식으로 활발하게 이루어지고 있다. 리뷰의 형식은 보통 정해진 형식이 없는 비 정형데이터인 텍스트와 제품에 대한 고객의 평점으로 이루어져있다. 이와 같이 형태로 적극적으로 공유된 정보들은 구매에 중요한 요소로 사용되고 있다. &amp;#xD; 본 논문에서는 이렇게 누적된 리뷰 데이터를 학습하여 고객의 평점을 예측하는 딥 러닝(Deep learning) 모델을 작성하고자 한다. 학습에 필요한 입력데이터 즉 고객의 특성에 관한 일반적인 정보는 쇼핑몰 내부에 있고, 개인 정보가 포함되어 있기 때문에 사용하기 어려운 문제점이 있다. 이를 극복하기 위해 리뷰 자체에서 고객의 특징(feature)을 추출하는 방법을 사용하였다. 비정형 리뷰 데이터에서 텍스트 마이닝 기법을 사용하여 정형화된 고객의 특징을 추출하였다.&amp;#xD; 실험 대상 제품은 11번가 쇼핑몰에서 하나의 화장품을 선정하였다. 최적의 딥 러닝 모델을 찾기 위하여 Drop-Out 및 Rectified Linear hidden Unite(ReLU)를 사용하며 결과를 평가하였다. 딥 러닝의 예측 결과는 고객 평점을 기반으로 하여 좋음, 보통, 나쁨 3가지를 출력 하도록 실험을 진행하였다. 실험을 통해 완성된 딥 러닝 모델이 출력하는 좋은, 보통, 나쁨 3가지 결과와 실제 고객이 입력 한 평점을 비교하였다. 실험 결과 90%의 정확도를 보였다."
+        },
+        {
+          "rank": 7,
+          "score": 0.30302467942237854,
+          "doc_id": "156",
+          "text": "최근 사용자의 요구를 이해하기 위해 인간-컴퓨터 상호작용 (HCI) 분야에서 다양한 연구가 수행되고 있다. HCI의 대표적인 기술 중 하나는 사용자 감정 인식이다. 감정의 중요성이 증대됨에 따라, 사용자의 감정을 인식하기 위해 얼굴 표정, 제스처, 음성신호, 생리신호, 안구특징 및 멀티 모달리티 (Multi-Modality) 신호를 특징으로 사용하는 방법들이 제안되고 있다. &amp;#xD; 특히, 안구 특징은 사용자가 의도적으로 제어할 수 없으며 컴퓨터가 무의식적인 특징들을 인식할 수 있기 때문에 감정인식에 적합하다. 또한 다양한 분야에 적용될 것으로 기대되는 가상현실과 증강현실을 위해 안구 특징에 기반한 감정인식 기술이 연구되어야 한다.&amp;#xD; 합성곱 신경망 (CNN)과 재귀 신경망 (RNN)과 같은 심층 학습 (Deep learning) 기술들이 다양한 분야에서 성공하고 있으며, 다양한 모달리티들을 이용하는 감정인식 연구에 적용되고 있다. 그러나 다른 모달리티들과 달리, 안구 특징만을 사용하는 심층 학습기반의 감정인식 연구는 매우 부족하다.&amp;#xD; 본 학위논문에서는 시간정보와 동공 크기와 눈 움직임 신호와 같은 안구 특징들만을 이용한 심층 학습 기반의 감정인식 방법을 제안한다.&amp;#xD; 그 과정은 다음과 같다. 먼저, 눈 깜빡임 또는 기술적인 결함으로 인해 발생되는 눈 크기 및 눈 움직임 신호들의 데이터 미획득 구간을 채우기 위한 보간을 수행한다. 그 후 데이터의 길이와 범위를 일치시키기 위해, 신호의 시간과 각 피실험자의 신호들에 대해 정규화를 수행한다. 다음으로 동공 크기 및 눈 움직임 신호들의 시간과 주파수 정보를 분석하기 위해 Short-Time Fourier Transform (STFT) 특징들을 추출하고, 그 특징들을 결합하여 STFT 특징 결합 영상이라 불리우는 단일 이미지를 생성한다. 마지막으로, valence-arousal 인식을 수행하기 위해, STFT 특징 결합 영상에 적합한 심층 학습 모델을 생성한 후 leave-one-out cross validation (LOOCV) 방법을 이용하여 제안하는 방법의 성능을 평가한다. &amp;#xD; 대부분의 연구에서, 안구 특징은 다른 모달리티 기반의 감정인식 성능을 향상시키기 위한 보조정보로만 사용하고 있다. 이는 안구 특징이 자극에 민감하고 수동적인 특징 추출방법으로 양질의 특징을 추출하기 어려운 많은 이상치 (Outlier)들을 포함하기 때문이다. 그러나 제안하는 방법의 분류 정확도는 Soleymani [53]가 제안한 결정 수준 융합 (DLF)와 서포트 벡터 머신 (SVM)을 이용한 방법보다 valence와 arousal 감정에 대해 각각 23.6%, 9.8% 향상된 분류 정확도를 달성하였다.&amp;#xD; 실험결과는 제안하는 방법의 효과성을 입증하였고, CNN 모델이 다른 모달리티 기반의 감정인식 방법뿐만 아니라 안구 특징 기반 감정인식에도 효과적이며, 눈 움직임 정보가 valence 감정 인식에도 효과적임을 보였다."
+        },
+        {
+          "rank": 8,
+          "score": 0.2994694709777832,
+          "doc_id": "200",
+          "text": "본 논문에서는 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조를 개발한다. 제안하는 복합 미생물 배양기는 수집한 복합 미생물 데이터에 대해 복합 미생물 데이터 전처리, 복합 미생물 데이터 구조 변환, 딥러닝 네트워크 설계, 설계한 딥러닝 네트워크 학습, 시제품에 적용되는 GUI 개발 등으로 구성된다. 복합 미생물 데이터 전처리에서는 미생물 배양에 필요한 당밀, 영양제, 식물엑기스, 소금 등의 양에 대해 원-핫 인코딩을 실시하며, 배양된 결과로 측정된 pH 농도와 미생물의 셀 수에 대해 최대-최소 정규화 방법을 사용하여 데이터를 전처리한다. 복합 미생물 데이터 구조 변환에서는 전처리된 데이터를 물 온도와 미생물의 셀 수를 연결하여 그래프 구조로 변환 후, 인접 행렬과 속성 정보로 나타내어 딥러닝 네트워크의 입력 데이터로 사용한다. 딥러닝 네트워크 설계에서는 그래프 구조에 특화된 그래프 합성곱 네트워크를 설계하여 복합 미생물 데이터를 학습시킨다. 설계한 딥러닝 네트워크는 Cosine 손실함수를 사용하여 학습 시에 발생하는 오차를 최소화하는 방향으로 학습을 진행한다. 시제품에 적용되는 GUI 개발은 사용자가 선택하는 물 온도에 따라 목표하는 pH 농도(3.8 이하) 복합 미생물의 셀 수(108 이상)를 배양시키기 적합한 순으로 나타낸다. 제안된 미생물 배양기의 성능을 평가하기 위하여 공인시험기관에서 실험한 결과는, pH 농도의 경우 평균 3.7로, 복합 미생물의 셀 수는 1.7 &#x00D7; 108으로 측정되었다. 따라서, 본 논문에서 제안한 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조의 효용성이 입증되었다."
+        },
+        {
+          "rank": 9,
+          "score": 0.2950299382209778,
+          "doc_id": "168",
+          "text": "세계적으로 비효율적인 에너지 소비로 인한 에너지 및 환경 문제가 지속적으로 대두되고 있다. 최근 이 같은 문제를 해결하기 위해서 에너지-IT(Energy-IT, EIT)융합기술이 효과적인 해결책으로 큰 관심을 받고 있다. 하지만 국내에서는 스마트그리드 외 EIT 융합기술에 대한 정책적 연구개발 및 투자가 미흡한 실정이다. 따라서 본 논문에서는 EIT 융합 기술의 효용성을 조사하고 AHP(Analytic Hierarchy Process) 기법을 이용하여 EIT 융합기술을 도출한다. 본 연구를 통하여 정부의 국가 에너지 문제 해결과 경쟁력을 향상을 위한 정책 결정에 기여할 것으로 기대한다. 연구결과 에너지 저감 분야 중에서는 에너지절약형건물(green building) 분야가 가장 효용성 있는 융합분야로 분석되었고, 에너지절약형건물 분야 내의 융합기술 중에서 네트워크 기능을 활용한 건물 내 에너지소비기기가 기술성, 경제성 부문에서 높은 중요도를 받으면서 가장 높은 기술로 평가 되었다."
+        },
+        {
+          "rank": 10,
+          "score": 0.2947309911251068,
+          "doc_id": "123",
+          "text": "딥러닝은 인공신경망(neural network)이라는 인공지능분야의 모형이 발전된 형태로서, 계층구조로 이루어진 인공신경망의 내부계층(hidden layer)이 여러 단계로 이루어진 구조이다. 딥러닝에서의 주요 모형은 합성곱신경망(convolutional neural network), 순환신경망(recurrent neural network), 그리고 심층신뢰신경망(deep belief network)의 세가지라고 할 수 있다. 그 중에서 현재 흥미로운 연구가 많이 발표되어서 관심이 집중되고 있는 모형은 지도학습(supervised learning)모형인 처음 두 개의 모형이다. 따라서 본 논문에서는 지도학습모형의 가중치를 최적화하는 기본적인 방법인 오류역전파 알고리즘을 살펴본 뒤에 합성곱신경망과 순환신경망의 구조와 응용사례 등을 살펴보고자 한다. 본문에서 다루지 않은 모형인 심층신뢰신경망은 아직까지는 합성곱신경망 이나 순환신경망보다는 상대적으로 주목을 덜 받고 있다. 그러나 심층신뢰신경망은 CNN이나 RNN과는 달리 비지도학습(unsupervised learning)모형이며, 사람이나 동물은 관찰을 통해서 스스로 학습한다는 점에서 궁극적으로는 비지도학습모형이 더 많이 연구되어야 할 주제가 될 것이다."
+        }
+      ]
+    },
+    {
+      "query": "DTG 실 주행데이터와 공간정보를 활용하는 SBiFEM 연료소모량 추정 모델의 핵심 구성 요소는 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.595615029335022,
+          "doc_id": "21",
+          "text": "한국에서 교통사고를 줄이는 목적으로 디지털운행기록계(DTG) 장치가 모든 상용차량에 의무 장착이 되어 GPS 궤적을 포함한 많은 양의 운행기록 데이터가 생성되고 있다. 지금까지 이러한 DTG 데이터는 주로 교통안전운전을 유도하는 용도로 사용되어왔다. 그러나 DTG데이터는 연료소모량을 줄일 수 있는 에코드라이빙 분야 등 다양한 분야로 활용도를 확대할 수 있다. 본 연구는 실제 운행한 대규모 DTG운행 데이터를 공간 빅데이터 분석을 통해 연료소모량을 추정할 수 있는 모델을 수립하는 연구이다. 기존의 연료소모량 추정 모델은 주로 실험실 환경 또는 일부 지역에 국한되어 검증한 모델로 실제 운행되는 상용차량 대상으로 분석할 경우 수집하기 어려운 변수들이 많고, 한국의 전국을 운행한 다양한 운행기록 데이터를 적용하면 정확도가 낮아지는 문제점이 있다. 본 연구에서는 이러한 문제를 개선하기 위해 DTG데이터와 공간 빅데이터를 이용한 연료소모량 추정 모델인 SBiFEM(Spatial Big Data Fuel Estimation Model)을 제안하였다. SBiFEM은 운전자 운행특성 및 도로의 다양한 환경정보를 반영하기 위해 운행 패턴과 공간 빅데이터 맵매칭 기술을 이용해 다양한 도로정보들을 입력변수로 추가 활용하는 분석 방법이다. 본 연구에서는 전처리, 공간빅데이터, 운행 패턴 생성에 이르는 전 과정에서 빅데이터 Map Reduce를 활용하는 공간빅데이터 분석 프로세스를 다음과 같이 수립하고 구현, 검증을 하였다. 첫째로, 전처리 기술 고도화이다. 센싱 데이터 및 GPS공간데이터 특성상 많은 양의 이상치 데이터(Outlier)가 존재하고 있어 이를 정제하지 않으면 분석결과도 신뢰할 수 없다. 이를 위해 통계기법 및 운행 패턴 분석을 이용한 필터링 기법을 연구하였다. 둘째로, 대량의 GPS궤적 데이터를 이용한 공간빅데이터 분석 체계이다. 차량 이동 데이터를 분석하기 위해서는 차량이 어느 도로에 위치 했는지를 알기 위한 전자지도와 매칭하는 맵매칭 기술이 필수적이다. 대부분의 맵매칭 기술은 실시간 내비게이션 용도로 주로 사용되어왔기 때문에 빠른 분석 속도를 요하는 빅데이터 분석에 적합하지 않다. 본 연구에서는 대량의 GPS궤적데이터를 전자지도에 매칭하는 빅데이터 맵매칭 기술을 연구하였다. 셋째로, 연료소모량을 추정하는 모델이다. 기존 추정 모델과의 차별점은 실제 운행환경을 반영하기 위한 변수들을 추가했다는 것이다. 한 종류는 차량 운행특성을 반영하는 운행 패턴이고, 또 한 종류는 전국의 다양한 도로 환경 정보이다. 이러한 도로 환경정보를 반영하기 위해 맵매칭 공간빅데이터 프로세스를 이용하였다. SBiFEM 빅데이터 분석시스템 테스트 및 검증은 5대의 분산 서버에 Hadoop, HBase와 Map Reduce프로그램을 수행하여 성능 검증을 하였다. 또한 연료소모량 추정 모델 검증은 대표적인 연료소모량 및 배출가스 추정 모델인 SIDRA, VSP, VT-Micro등을 DTG데이터를 적용하여 분석한 결과와 본 연구의 모델을 적용한 결과를 비교하여 검증하였다. 비교결과 추정 값과 실제 값을 비교한 Correlation이 0.9169, MAPE(평균절대백분비오차)가 0.1846으로 본 연구의 모델 적용시 가장 우수하게 나와 본 논문에서 개발한 모델의 우수성을 검증하였다."
+        },
+        {
+          "rank": 2,
+          "score": 0.34774112701416016,
+          "doc_id": "8",
+          "text": "데이터 중심 정보시스템 구축 모델은 그간 정보화 사업 추진이 HW, SW기능 중심으로 이루어지던 것을, 데이터 구조 및 데이터 수집 배포 채널에 대한 체계적인 분석과 설계, 데이터표준 적용, 정보통신 융합기기의 데이터 설정의 유연성 확보 등의 고려하여 개선한 모델이다. 이 모델의 주요 특성인 정보통신 융합기기에 데이터 유연성이 보장되는 개선 효과에 대해 센서와 반응기로 구분하여 이들 기기에 새로운 정보시스템이 추가적으로 연계되는 상황을 가정하여 시스템 개선 복잡도와 네트워크 환경에 대한 지수를 산정하여 기존의 일반적인 구축 방식과 비교하였다. 본 모델을 확산함으로써, 일반 업무용 정보시스템 외에 나날이 늘어나는 정보기술 융 복합 기기들이 처리하는 데이터에 대해서도 품질과 상호운용성을 통제하게 되어, 정보화 거버넌스의 영역 확대를 통해 종합적인 정보화 기획 및 성과 관리 등이 가능하게 되는 개선 효과가 있다."
+        },
+        {
+          "rank": 3,
+          "score": 0.3312411904335022,
+          "doc_id": "165",
+          "text": "패키징 분야도 4차 산업혁명에 발 맞춰 IoT (Internet of Things), 빅데이터, 클라우드 및 소비자 기반 기술 등이 적용되어 스마트 패키징이 등장하고 있다. 정책, 예측, 마케팅, 디자인 등 다양한 분야에서 빅데이터 분석이 활용되고 있지만 패키징 분야에서의 연구는 아직 초보적 수준이다. 따라서 본 연구는 빅데이터를 패키징 분야에 적용하기 위해 선행연구과 관련서적을 통해 빅데이터의 정의와 연구에서 활용되는 데이터 수집, 저장, 분석방법을 정리하였고 패키징 분야에 적용할 수 있는 분석방법을 제시하였다. 오늘날 패키징 분야는 마케팅적 요소를 요구받고 있기 때문에 패키징에 대한 소비자의 인식을 파악할 필요가 있으며 빅데이터의 근원이 되는 5가지 데이터 중 사유데이터(private data)와 커뮤니티 데이터(community data)를 활용하여 소비자와 제품 간의 상호작용 분석하는데 활용하고자 한다. 패키징은 소비자의 관심을 끌기 위한 전략전인 도구로 사용되며 소비자의 구매위험을 줄이는 수단이 되기 때문에 패키징에 대한 소비자의 인식을 분석할 필요가 있다. 본 연구에서는 제품 개선을 위한 문제점 도출 과정에서 의미연결망 분석(Semantic Network Analysis)과 텍스트마이닝(Text mining)을 활용하여 제품을 구성하는 다양한 요소들을 파악하고 패키징 요소의 빈도분석을 거쳐 패키징의 영향력을 확인하는 방안과 저관여 제품을 대상으로 텍스트 마이닝(Text mining)과 오피니언 마이닝(Opinion Mining), 소셜 네트워크 분석(Social Network Analysis)을 통해 패키징에 대한 감정분석을 하여 동일한 제품군에서 소비자가 선호하는 패키징을 도출하는 방안을 제시하였다. 패키징은 제품을 구성하는 많은 요소들 중 하나이기 때문에 패키징이라는 단일 요소의 영향력을 파악하기란 쉽지 않지만 본 연구는 빅데이터를 활용하여 패키징에 대한 소비자의 인식과 감정을 분석하고 제품에서 패키징이 소비자에게 미치는 영향력을 분석할 수 있는 방안을 제시한 데 의의가 있다."
+        },
+        {
+          "rank": 4,
+          "score": 0.3135237395763397,
+          "doc_id": "71",
+          "text": "Purpose: The main purpose of this work was to present the problems of big data and to present how small data can be used as a complement to big data and its effects step by step in the big data through the concept of value chain. Recently, the big data market is growing rapidly around the world because data is processed on the basis of size, diversity, speed, accuracy and value. Specifically, this study focuses on its application to Jeju tourism. Research design, data, and methodology: The problems of big data were clearly presented using various real-world examples, and the verification of the compromise with small data and its effectiveness were conducted based on research papers discussing Jeju tourism using big data. The results of the study suggested the use of small data to solve and verify the representation of big data at the collection stage of the big data value chain, and the analysis stage suggested combining the identification of behavior patterns, the strengths of small data, and the exploration of causal relationships. Results: Among various stage, in the curation phase, a cause-and-effect analysis using small data suggested a solution to the problem of mistaking the correlation of big data as causality, and in the storage phase, a policy plan using small data was proposed to solve the problem of privacy infringement. The most important part of this study was the application stage, which discussed the specific problems of big data and the possibility of compromise between small data. As well, in the utilization phase, a combination of correlation and causality, as in the curation phase, was proposed. Conclusions: As an implication of this study, we used specific examples to present synergies when big data is compromised with small data. It also showed that the compromised use of big data and small data can contribute not only in terms of research but also in terms of practicality in tourism industry. Finally, we expanded the foundation of research in terms of academic research, discussing the trade-off utilization of big and small data."
+        },
+        {
+          "rank": 5,
+          "score": 0.305292546749115,
+          "doc_id": "144",
+          "text": "본 논문은 산업 현장과 민간에서 실시간으로 수집되는 에너지 빅데이터를 수용하는 빅데이터 시스템을 제안한다. 구축된 빅데이터 시스템은 하둡(Hadoop) 기반이며, 빅데이터 처리에 있어 인메모리(in-memory) 분산처리 컴퓨팅을 지원하는 스파크(Spark) 프레임워크가 동시에 적용되었다. 본문에서는 지역난방에 사용되는 열에너지 형태의 빅데이터에 초점을 두어, 입출력되는 에너지의 특성을 고려하며 실시간 수집되는 빅데이터를 적재, 관리, 처리 및 분석하는 방법을 다룬다. 이 때, 외부에서 유입되는 빅데이터는 시스템 내부에 설계된 관계형 데이터베이스 스키마에 따라 저장하고 관리되며, 저장된 빅데이터는 설정된 목적에 따라 처리하고 분석된다. 제안된 빅데이터 시스템과 더불어 지역난방과 관련한 복수의 실증현장으로부터 실시간으로 수집되는 열에너지 빅데이터에 대해 시스템이 활용된 사례를 기술한다."
+        },
+        {
+          "rank": 6,
+          "score": 0.30475330352783203,
+          "doc_id": "220",
+          "text": "인터넷의 발달과 휴대용 기기의 발달로 사용자들이 데이터를 생산하고, 공유하는 일들이 매우 자연스럽고 쉬운 일이 되었다. e-마켓플레스로 대변되는 온라인 쇼핑몰에서도 사용자들의 데이터 생산과 공유가 리뷰의 형식으로 활발하게 이루어지고 있다. 리뷰의 형식은 보통 정해진 형식이 없는 비 정형데이터인 텍스트와 제품에 대한 고객의 평점으로 이루어져있다. 이와 같이 형태로 적극적으로 공유된 정보들은 구매에 중요한 요소로 사용되고 있다. &amp;#xD; 본 논문에서는 이렇게 누적된 리뷰 데이터를 학습하여 고객의 평점을 예측하는 딥 러닝(Deep learning) 모델을 작성하고자 한다. 학습에 필요한 입력데이터 즉 고객의 특성에 관한 일반적인 정보는 쇼핑몰 내부에 있고, 개인 정보가 포함되어 있기 때문에 사용하기 어려운 문제점이 있다. 이를 극복하기 위해 리뷰 자체에서 고객의 특징(feature)을 추출하는 방법을 사용하였다. 비정형 리뷰 데이터에서 텍스트 마이닝 기법을 사용하여 정형화된 고객의 특징을 추출하였다.&amp;#xD; 실험 대상 제품은 11번가 쇼핑몰에서 하나의 화장품을 선정하였다. 최적의 딥 러닝 모델을 찾기 위하여 Drop-Out 및 Rectified Linear hidden Unite(ReLU)를 사용하며 결과를 평가하였다. 딥 러닝의 예측 결과는 고객 평점을 기반으로 하여 좋음, 보통, 나쁨 3가지를 출력 하도록 실험을 진행하였다. 실험을 통해 완성된 딥 러닝 모델이 출력하는 좋은, 보통, 나쁨 3가지 결과와 실제 고객이 입력 한 평점을 비교하였다. 실험 결과 90%의 정확도를 보였다."
+        },
+        {
+          "rank": 7,
+          "score": 0.29218244552612305,
+          "doc_id": "123",
+          "text": "딥러닝은 인공신경망(neural network)이라는 인공지능분야의 모형이 발전된 형태로서, 계층구조로 이루어진 인공신경망의 내부계층(hidden layer)이 여러 단계로 이루어진 구조이다. 딥러닝에서의 주요 모형은 합성곱신경망(convolutional neural network), 순환신경망(recurrent neural network), 그리고 심층신뢰신경망(deep belief network)의 세가지라고 할 수 있다. 그 중에서 현재 흥미로운 연구가 많이 발표되어서 관심이 집중되고 있는 모형은 지도학습(supervised learning)모형인 처음 두 개의 모형이다. 따라서 본 논문에서는 지도학습모형의 가중치를 최적화하는 기본적인 방법인 오류역전파 알고리즘을 살펴본 뒤에 합성곱신경망과 순환신경망의 구조와 응용사례 등을 살펴보고자 한다. 본문에서 다루지 않은 모형인 심층신뢰신경망은 아직까지는 합성곱신경망 이나 순환신경망보다는 상대적으로 주목을 덜 받고 있다. 그러나 심층신뢰신경망은 CNN이나 RNN과는 달리 비지도학습(unsupervised learning)모형이며, 사람이나 동물은 관찰을 통해서 스스로 학습한다는 점에서 궁극적으로는 비지도학습모형이 더 많이 연구되어야 할 주제가 될 것이다."
+        },
+        {
+          "rank": 8,
+          "score": 0.28983765840530396,
+          "doc_id": "56",
+          "text": "본 연구에서는 IT 선도 기술의 동향을 분석하고 IT 컨버전스 산업의 방향을 분석하였다. 또한 특정 지역의 산업 및 기술동향을 분석하여 산업간 융합을 통한 신산업 도출방법을 제안 하였는 바, 지역별 특수성을 분석하기 위하여 산업정책, 지역기반 산업과 IT 산업 그리고 인프라 등 과 같은 현황을 고려하였다. 결과적으로, 지역사업화 매력도와 사업화 경쟁력을 고려한 육성 사업군이 선정된 바, 방재산업과 연계된 방재정보통신 산업 모델을 제안한다."
+        },
+        {
+          "rank": 9,
+          "score": 0.28743776679039,
+          "doc_id": "227",
+          "text": "본 연구는 오늘날 산업 전반적으로 영향을 미치고 있는 디지탈 전환(Digital Transformation)의 기술 환경과 디지탈 전환의 산업적 창고관리 부분의 모델연구가 본 논문의 목적이다. &amp;#xD; &amp;#xD; 디지털 전환은 오랫동안 디지털화와 비슷하거나 또는 디지털 방식으로 저장할 수 있도록 기존 데이터 형태를 전환하는 것과 관련이 있다. 물론 이 점이 중요하긴 하지만, 이전의 디지털화는 최신 디지털 전환의 영역을 포함하지 않았었다.&amp;#xD; &amp;#xD; 특히 이번 연구에서는 Big Data를 중심으로 Warehouse Management System의 방향을 제시 하고자 한다."
+        },
+        {
+          "rank": 10,
+          "score": 0.28475767374038696,
+          "doc_id": "200",
+          "text": "본 논문에서는 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조를 개발한다. 제안하는 복합 미생물 배양기는 수집한 복합 미생물 데이터에 대해 복합 미생물 데이터 전처리, 복합 미생물 데이터 구조 변환, 딥러닝 네트워크 설계, 설계한 딥러닝 네트워크 학습, 시제품에 적용되는 GUI 개발 등으로 구성된다. 복합 미생물 데이터 전처리에서는 미생물 배양에 필요한 당밀, 영양제, 식물엑기스, 소금 등의 양에 대해 원-핫 인코딩을 실시하며, 배양된 결과로 측정된 pH 농도와 미생물의 셀 수에 대해 최대-최소 정규화 방법을 사용하여 데이터를 전처리한다. 복합 미생물 데이터 구조 변환에서는 전처리된 데이터를 물 온도와 미생물의 셀 수를 연결하여 그래프 구조로 변환 후, 인접 행렬과 속성 정보로 나타내어 딥러닝 네트워크의 입력 데이터로 사용한다. 딥러닝 네트워크 설계에서는 그래프 구조에 특화된 그래프 합성곱 네트워크를 설계하여 복합 미생물 데이터를 학습시킨다. 설계한 딥러닝 네트워크는 Cosine 손실함수를 사용하여 학습 시에 발생하는 오차를 최소화하는 방향으로 학습을 진행한다. 시제품에 적용되는 GUI 개발은 사용자가 선택하는 물 온도에 따라 목표하는 pH 농도(3.8 이하) 복합 미생물의 셀 수(108 이상)를 배양시키기 적합한 순으로 나타낸다. 제안된 미생물 배양기의 성능을 평가하기 위하여 공인시험기관에서 실험한 결과는, pH 농도의 경우 평균 3.7로, 복합 미생물의 셀 수는 1.7 &#x00D7; 108으로 측정되었다. 따라서, 본 논문에서 제안한 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조의 효용성이 입증되었다."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

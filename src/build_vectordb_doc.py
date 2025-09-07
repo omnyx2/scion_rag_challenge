@@ -38,7 +38,7 @@ def load_jsonl_docs(jsonl_path, embedding_mode="title+abstract"):
             elif embedding_mode == "abstract":
                 text = abstract
             elif embedding_mode == "title+abstract":
-                text = f"{title} {title} {title} {abstract}"
+                text = f"{title} {abstract}"
             else:
                 raise ValueError(f"Invalid embedding_mode: {embedding_mode}")
             
@@ -67,7 +67,7 @@ def save_as_jsonl(doc_ids, texts, embeddings, output_file):
             })
 
 
-def main(config_path="../configs/query_encoder/config_jina.json"):
+def main(config_path="../configs/query_encoder/config_gte-multilingual-base.json"):
     # 1. 설정 로드
     config = load_config(config_path)
     
@@ -85,12 +85,12 @@ def main(config_path="../configs/query_encoder/config_jina.json"):
     model_name = config["model_name"]
     print(f"Loading model: {model_name}")
    
-    model = SentenceTransformer(model_name)
+    model = SentenceTransformer(model_name,trust_remote_code=True)
     
     # 5. 임베딩 생성
     print("Encoding documents...")
-    task = "retrieval.query"
-    embeddings = model.encode(texts, task=task, convert_to_numpy=True, show_progress_bar=True)
+    
+    embeddings = model.encode(texts,convert_to_numpy=True, show_progress_bar=True)
 
     # 6. 저장 경로 생성
     timestamp = datetime.now().strftime("%y%m%d_%H%M%S")

@@ -1,0 +1,291 @@
+{
+  "id": "row_000041",
+  "model_name": "SamilPwC-AXNode-GenAI/PwC-Embedding_expr",
+  "timestamp_kst": "2025-09-07T16:47:02.839095+09:00",
+  "trial_id": "50936cd9",
+  "queries": [
+    {
+      "query": "How would you concisely summarize the key findings on using machine learning classifiers combined with molecular docking to predict cytochrome P450 ligand interactions?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6818286776542664,
+          "doc_id": "135",
+          "text": "Liver Fibrosis Biomarker Validation Using Machine Learning Algorithms Liver Fibrosis Biomarker Validation Using Machine Learning Algorithms Liver Fibrosis Biomarker Validation Using Machine Learning Algorithms Background: Liver fibrosis which causes several liver diseases, requires early screening and management. The gold standard for fibrosis assessment, liver biopsy, has recently been replaced by noninvasive scores. In this study, we validated liver fibrosis-associated biomarkers using machine learning techniques applied in medical research and evaluated their prediction models.Methods: Noninvasive scores were assayed in 144 patients who underwent transient elastography (TE). The patients were divided into three groups (<7 kPa, 7–10 kPa, ≥10 kPa) according to their TE results. Feature selection and modeling for predicting liver fibrosis were performed using random forest (RF) and support vector machine (SVM).Results: Considering the mean decrease in impurity, permutation importance, and multicollinear analysis, the important features for differentiating between the three groups were Mac-2 binding protein glycosylation isomer (M2BPGi), platelet count, and aspartate aminotransferase (AST). Using these features, the RF and SVM models showed equivalent or better performance than noninvasive scores. The sensitivities of RF and SVM models for predicting ≥7 kPa TE results were higher than noninvasive scores (83.3% and 90.0% vs. <80%, respectively). The sensitivity and specificity of RF and SVM models for ≥10 kPa TE result was 100%.Conclusions: We used machine learning techniques to verify the usefulness of established serological biomarkers (M2BPGi, PLT, and AST) that predict liver fibrosis. Conclusively, machine learning models showed better performance than noninvasive scores."
+        },
+        {
+          "rank": 2,
+          "score": 0.6797677278518677,
+          "doc_id": "53",
+          "text": "Machine Learning and Deep Learning for the Pharmacogenomics of Antidepressant Treatments Machine Learning and Deep Learning for the Pharmacogenomics of Antidepressant Treatments Machine Learning and Deep Learning for the Pharmacogenomics of Antidepressant Treatments A growing body of evidence now proposes that machine learning and deep learning techniques can serve as a vital foundation for the pharmacogenomics of antidepressant treatments in patients with major depressive disorder (MDD).In this review, we focus on the latest developments for pharmacogenomics research using machine learning and deep learning approaches together with neuroimaging and multi-omics data. First, we review relevant pharmacogenomics studies that leverage numerous machine learning and deep learning techniques to determine treatment prediction and potential biomarkers for antidepressant treatments in MDD. In addition, we depict some neuroimaging pharmacogenomics studies that utilize various machine learning approaches to predict antidepressant treatment outcomes in MDD based on the integration of research on pharmacogenomics and neuroimaging. Moreover, we summarize the limitations in regard to the past pharmacogenomics studies of antidepressant treatments in MDD. Finally, we outline a discussion of challenges and directions for future research. In light of latest advancements in neuroimaging and multi-omics, various genomic variants and biomarkers associated with antidepressant treatments in MDD are being identified in pharmacogenomics research by employing machine learning and deep learning algorithms."
+        },
+        {
+          "rank": 3,
+          "score": 0.6549574732780457,
+          "doc_id": "200",
+          "text": "딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 본 논문에서는 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조를 개발한다. 제안하는 복합 미생물 배양기는 수집한 복합 미생물 데이터에 대해 복합 미생물 데이터 전처리, 복합 미생물 데이터 구조 변환, 딥러닝 네트워크 설계, 설계한 딥러닝 네트워크 학습, 시제품에 적용되는 GUI 개발 등으로 구성된다. 복합 미생물 데이터 전처리에서는 미생물 배양에 필요한 당밀, 영양제, 식물엑기스, 소금 등의 양에 대해 원-핫 인코딩을 실시하며, 배양된 결과로 측정된 pH 농도와 미생물의 셀 수에 대해 최대-최소 정규화 방법을 사용하여 데이터를 전처리한다. 복합 미생물 데이터 구조 변환에서는 전처리된 데이터를 물 온도와 미생물의 셀 수를 연결하여 그래프 구조로 변환 후, 인접 행렬과 속성 정보로 나타내어 딥러닝 네트워크의 입력 데이터로 사용한다. 딥러닝 네트워크 설계에서는 그래프 구조에 특화된 그래프 합성곱 네트워크를 설계하여 복합 미생물 데이터를 학습시킨다. 설계한 딥러닝 네트워크는 Cosine 손실함수를 사용하여 학습 시에 발생하는 오차를 최소화하는 방향으로 학습을 진행한다. 시제품에 적용되는 GUI 개발은 사용자가 선택하는 물 온도에 따라 목표하는 pH 농도(3.8 이하) 복합 미생물의 셀 수(108 이상)를 배양시키기 적합한 순으로 나타낸다. 제안된 미생물 배양기의 성능을 평가하기 위하여 공인시험기관에서 실험한 결과는, pH 농도의 경우 평균 3.7로, 복합 미생물의 셀 수는 1.7 &#x00D7; 108으로 측정되었다. 따라서, 본 논문에서 제안한 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조의 효용성이 입증되었다."
+        },
+        {
+          "rank": 4,
+          "score": 0.6431350111961365,
+          "doc_id": "142",
+          "text": "Machine learning in oncology-Perspectives in patient-reported outcome research Machine learning in oncology-Perspectives in patient-reported outcome research Machine learning in oncology-Perspectives in patient-reported outcome research AbstractBackgroundIncreasing data volumes in oncology pose new challenges for data analysis. Machine learning, a branch of artificial intelligence, can identify patterns even in very large and less structured datasets.ObjectiveThis article provides an overview of the possible applications for machine learning in oncology. Furthermore, the potential of machine learning in patient-reported outcome (PRO) research is discussed.Materials and methodsWe conducted a selective literature search (PubMed, MEDLINE, IEEE Xplore) and discuss current research.ResultsThere are three primary applications for machine learning in oncology: (1) cancer detection or classification; (2) overall survival prediction or risk assessment; and (3) supporting therapy decision-making and prediction of treatment response. Generally, machine learning approaches in oncology PRO research are scarce and few studies integrate PRO data into machine learning models.DiscussionMachine learning is a promising area of oncology, but few models have been transferred into clinical practice. The promise of personalized cancer therapy and shared decision-making through machine learning has yet to be realized. As an equally important emerging research area in oncology, PROs should also be incorporated into machine learning approaches. To gather the data necessary for this, broad implementation of PRO assessments in clinical practice, as well as the harmonization of existing datasets, is suggested."
+        },
+        {
+          "rank": 5,
+          "score": 0.6393092274665833,
+          "doc_id": "214",
+          "text": "An Efficient Parallel Machine Learning-based Blockchain Framework An Efficient Parallel Machine Learning-based Blockchain Framework An Efficient Parallel Machine Learning-based Blockchain Framework The unlimited possibilities of machine learning have been shown in several successful reports and applications. However, how to make sure that the searched results of a machine learning system are not tampered by anyone and how to prevent the other users in the same network environment from easily getting our private data are two critical research issues when we immerse into powerful machine learning-based systems or applications. This situation is just like other modern information systems that confront security and privacy issues. The development of blockchain provides us an alternative way to address these two issues. That is why some recent studies have attempted to develop machine learning systems with blockchain technologies or to apply machine learning methods to blockchain systems. To show what the combination of blockchain and machine learning is capable of doing, in this paper, we proposed a parallel framework to find out suitable hyperparameters of deep learning in a blockchain environment by using a metaheuristic algorithm. The proposed framework also takes into account the issue of communication cost, by limiting the number of information exchanges between miners and blockchain."
+        },
+        {
+          "rank": 6,
+          "score": 0.6352418661117554,
+          "doc_id": "202",
+          "text": "Machine learning Machine learning Machine learning A short review of research and applications in machine learning is given. Rather than attempt to cover all areas of ML, the focus is on its role in building expert systems, its approach to classification problems and ML methods of learning control. A relatively new area, inductive logic programming, is also discussed."
+        },
+        {
+          "rank": 7,
+          "score": 0.6185737252235413,
+          "doc_id": "70",
+          "text": "Machine Learning in Predicting Hemoglobin Variants Machine Learning in Predicting Hemoglobin Variants Machine Learning in Predicting Hemoglobin Variants 없음"
+        },
+        {
+          "rank": 8,
+          "score": 0.6181105375289917,
+          "doc_id": "88",
+          "text": "Machine learning on Big Data Machine learning on Big Data Machine learning on Big Data Statistical Machine Learning has undergone a phase transition from a pure academic endeavor to being one of the main drivers of modern commerce and science. Even more so, recent results such as those on tera-scale learning [1] and on very large neural networks [2] suggest that scale is an important ingredient in quality modeling. This tutorial introduces current applications, techniques and systems with the aim of cross-fertilizing research between the database and machine learning communities. The tutorial covers current large scale applications of Machine Learning, their computational model and the workflow behind building those. Based on this foundation, we present the current state-of-the-art in systems support in the bulk of the tutorial. We also identify critical gaps in the state-of-the-art. This leads to the closing of the seminar, where we introduce two sets of open research questions: Better systems support for the already established use cases of Machine Learning and support for recent advances in Machine Learning research."
+        },
+        {
+          "rank": 9,
+          "score": 0.6179434657096863,
+          "doc_id": "186",
+          "text": "Deep Semi-Supervised Learning 기반 컴퓨터 보조 진단 방법론 Deep Semi-Supervised Learning 기반 컴퓨터 보조 진단 방법론 Deep Semi-Supervised Learning 기반 컴퓨터 보조 진단 방법론 Medical image applications 분야는 가장 인기 있으며 적극적으로 연구되는 현대 Machine Learning 및 Deep Learning applications 중 하나의 분야로 부상되고 있다. Medical image analysis는 환자의 신체 영상의 획득과 의료 전문가의 진단 및 분석을 목적으로 한다. 여러 Machine Learning 방법론을 사용하면 다양한 질병을 진단할 수 있게 된다. 하지만, 보다 효율적이며 강인한 모델을 설계하기 위해서는 Label이 지정된 데이터 샘플이 필요하게 된다. &amp;#xD; 따라서, Label이 지정되지 않은 데이터를 활용하여 모델의 성능을 향상시키는 Medical image 분야에서 semi-supervised Learning의 연구가 활발히 이루어지고 있다. 본 연구에서는 2D 초음파 영상(CADe)와 KL-grade 무릎 방사선사(CADx) 분류에서 유방 병변 Segmentation을 위한 딥러닝 기술을 사용하여 Medical image analysis에서 개선된 Semi-Supervised CAD 시스템을 제안하였다. 본 논문에서는 residual 및 attention block을 통합한 residual-attention-based uncertainty-guided mean teacher framework를 제안한다. 높은 수준의 feature와 attention module의 flow를 가능하게 하여 deep network를 최적화하기 위한 residual은 학습 과정 중에서 가중치를 최적화하기 위해 모델의 focus를 향상시킨다. &amp;#xD; 또한, 본 논문에서는 semi-supervised 학습 방법을 사용하여 학습 과정에서 label이 지정되지 않은 데이터를 활용할 수 있는 가능성을 탐구한다. 특히, uncertainty-guided mean-teacher-student 구조를 활용하여 residual attention U-Net 모델의 학습 중 label이 지정되지 않은 샘플을 통합할 수 있는 가능성을 입증하였다. &amp;#xD; 따라서, label이 지정되지 않은 추가 데이터를 unsupervised 및 supervised 방식으로 활용할 수있는 semi-supervised multitask learning-based 학습 기반 접근 방식을 개발하였다. 구체적으로, 이 과정은 reconstruction에 대해서만 unsupervised 된 상태에서 먼저 학습된 dual-channel adversarial autoencoder를 제안한다. 본 연구는 supervised 방식으로 추가 데이터를 활용하기 위해 auxilary task를 도입하여 multi-task learning framework를 제안한다. 특히, leg side의 식별은 auxilary task로 사용되므로 CHECK 데이터셋과 같은 더 많은 데이터셋을 사용할 수 있게 된다. 따라서, 추가 데이터의 활용이 소수의 label된 데이터만 사용할 수 있는 KL-grade 분류에서 main task의 성능을 향상시킬 수 있음을 보여준다. &amp;#xD; 다양한 측면, 즉 전반적인 성능, label이 지정되지 않은 추가 샘플 및 auxiliary task의 효과, 강인한 분석 등에 대해 공개적으로 사용 가능한 두 개의 가장 큰 데이터셋에 대해 제안된 모델을 평가하였다. 제안된 모델은 각각 75.52%, 78.48%, 75.34%의 Accuracy, Recall, F1-Score를 달성하였다."
+        },
+        {
+          "rank": 10,
+          "score": 0.6174821257591248,
+          "doc_id": "26",
+          "text": "Design a personalized recommendation system using deep learning and reinforcement learning Design a personalized recommendation system using deep learning and reinforcement learning Design a personalized recommendation system using deep learning and reinforcement learning As the E-commerce market grows, the importance of personalized recommendation systems is increasing. Existing collaborative filtering and content-based filtering methods have shown a certain level of performance, but they have limitations such as cold start, data sparseness, and lack of long-term pattern learning. In this study, we design a matching system that combines a hybrid recommendation system and hyper-personalization technology and propose an efficient recommendation system. The core of the study is to develop a recommendation model that can improve recommendation accuracy and increase user satisfaction compared to existing systems. The proposed elements are as follows. First, the hybrid-hyper-personalization matching system provides recommendation accuracy compared to existing methods. Second, we propose an optimal product matching model that reflects user context using real-time data. Third, we optimize Personalized Recommendation System using deep learning and reinforcement learning. Fourth, we present a method to objectively evaluate recommendation performance through A/B testing."
+        }
+      ]
+    },
+    {
+      "query": "What is the typical performance or accuracy of machine learning classifiers combined with molecular docking for predicting cytochrome P450 ligand interactions?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6765087842941284,
+          "doc_id": "135",
+          "text": "Liver Fibrosis Biomarker Validation Using Machine Learning Algorithms Liver Fibrosis Biomarker Validation Using Machine Learning Algorithms Liver Fibrosis Biomarker Validation Using Machine Learning Algorithms Background: Liver fibrosis which causes several liver diseases, requires early screening and management. The gold standard for fibrosis assessment, liver biopsy, has recently been replaced by noninvasive scores. In this study, we validated liver fibrosis-associated biomarkers using machine learning techniques applied in medical research and evaluated their prediction models.Methods: Noninvasive scores were assayed in 144 patients who underwent transient elastography (TE). The patients were divided into three groups (<7 kPa, 7–10 kPa, ≥10 kPa) according to their TE results. Feature selection and modeling for predicting liver fibrosis were performed using random forest (RF) and support vector machine (SVM).Results: Considering the mean decrease in impurity, permutation importance, and multicollinear analysis, the important features for differentiating between the three groups were Mac-2 binding protein glycosylation isomer (M2BPGi), platelet count, and aspartate aminotransferase (AST). Using these features, the RF and SVM models showed equivalent or better performance than noninvasive scores. The sensitivities of RF and SVM models for predicting ≥7 kPa TE results were higher than noninvasive scores (83.3% and 90.0% vs. <80%, respectively). The sensitivity and specificity of RF and SVM models for ≥10 kPa TE result was 100%.Conclusions: We used machine learning techniques to verify the usefulness of established serological biomarkers (M2BPGi, PLT, and AST) that predict liver fibrosis. Conclusively, machine learning models showed better performance than noninvasive scores."
+        },
+        {
+          "rank": 2,
+          "score": 0.6689145565032959,
+          "doc_id": "53",
+          "text": "Machine Learning and Deep Learning for the Pharmacogenomics of Antidepressant Treatments Machine Learning and Deep Learning for the Pharmacogenomics of Antidepressant Treatments Machine Learning and Deep Learning for the Pharmacogenomics of Antidepressant Treatments A growing body of evidence now proposes that machine learning and deep learning techniques can serve as a vital foundation for the pharmacogenomics of antidepressant treatments in patients with major depressive disorder (MDD).In this review, we focus on the latest developments for pharmacogenomics research using machine learning and deep learning approaches together with neuroimaging and multi-omics data. First, we review relevant pharmacogenomics studies that leverage numerous machine learning and deep learning techniques to determine treatment prediction and potential biomarkers for antidepressant treatments in MDD. In addition, we depict some neuroimaging pharmacogenomics studies that utilize various machine learning approaches to predict antidepressant treatment outcomes in MDD based on the integration of research on pharmacogenomics and neuroimaging. Moreover, we summarize the limitations in regard to the past pharmacogenomics studies of antidepressant treatments in MDD. Finally, we outline a discussion of challenges and directions for future research. In light of latest advancements in neuroimaging and multi-omics, various genomic variants and biomarkers associated with antidepressant treatments in MDD are being identified in pharmacogenomics research by employing machine learning and deep learning algorithms."
+        },
+        {
+          "rank": 3,
+          "score": 0.6508046984672546,
+          "doc_id": "200",
+          "text": "딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 본 논문에서는 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조를 개발한다. 제안하는 복합 미생물 배양기는 수집한 복합 미생물 데이터에 대해 복합 미생물 데이터 전처리, 복합 미생물 데이터 구조 변환, 딥러닝 네트워크 설계, 설계한 딥러닝 네트워크 학습, 시제품에 적용되는 GUI 개발 등으로 구성된다. 복합 미생물 데이터 전처리에서는 미생물 배양에 필요한 당밀, 영양제, 식물엑기스, 소금 등의 양에 대해 원-핫 인코딩을 실시하며, 배양된 결과로 측정된 pH 농도와 미생물의 셀 수에 대해 최대-최소 정규화 방법을 사용하여 데이터를 전처리한다. 복합 미생물 데이터 구조 변환에서는 전처리된 데이터를 물 온도와 미생물의 셀 수를 연결하여 그래프 구조로 변환 후, 인접 행렬과 속성 정보로 나타내어 딥러닝 네트워크의 입력 데이터로 사용한다. 딥러닝 네트워크 설계에서는 그래프 구조에 특화된 그래프 합성곱 네트워크를 설계하여 복합 미생물 데이터를 학습시킨다. 설계한 딥러닝 네트워크는 Cosine 손실함수를 사용하여 학습 시에 발생하는 오차를 최소화하는 방향으로 학습을 진행한다. 시제품에 적용되는 GUI 개발은 사용자가 선택하는 물 온도에 따라 목표하는 pH 농도(3.8 이하) 복합 미생물의 셀 수(108 이상)를 배양시키기 적합한 순으로 나타낸다. 제안된 미생물 배양기의 성능을 평가하기 위하여 공인시험기관에서 실험한 결과는, pH 농도의 경우 평균 3.7로, 복합 미생물의 셀 수는 1.7 &#x00D7; 108으로 측정되었다. 따라서, 본 논문에서 제안한 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조의 효용성이 입증되었다."
+        },
+        {
+          "rank": 4,
+          "score": 0.6328761577606201,
+          "doc_id": "214",
+          "text": "An Efficient Parallel Machine Learning-based Blockchain Framework An Efficient Parallel Machine Learning-based Blockchain Framework An Efficient Parallel Machine Learning-based Blockchain Framework The unlimited possibilities of machine learning have been shown in several successful reports and applications. However, how to make sure that the searched results of a machine learning system are not tampered by anyone and how to prevent the other users in the same network environment from easily getting our private data are two critical research issues when we immerse into powerful machine learning-based systems or applications. This situation is just like other modern information systems that confront security and privacy issues. The development of blockchain provides us an alternative way to address these two issues. That is why some recent studies have attempted to develop machine learning systems with blockchain technologies or to apply machine learning methods to blockchain systems. To show what the combination of blockchain and machine learning is capable of doing, in this paper, we proposed a parallel framework to find out suitable hyperparameters of deep learning in a blockchain environment by using a metaheuristic algorithm. The proposed framework also takes into account the issue of communication cost, by limiting the number of information exchanges between miners and blockchain."
+        },
+        {
+          "rank": 5,
+          "score": 0.6328579187393188,
+          "doc_id": "142",
+          "text": "Machine learning in oncology-Perspectives in patient-reported outcome research Machine learning in oncology-Perspectives in patient-reported outcome research Machine learning in oncology-Perspectives in patient-reported outcome research AbstractBackgroundIncreasing data volumes in oncology pose new challenges for data analysis. Machine learning, a branch of artificial intelligence, can identify patterns even in very large and less structured datasets.ObjectiveThis article provides an overview of the possible applications for machine learning in oncology. Furthermore, the potential of machine learning in patient-reported outcome (PRO) research is discussed.Materials and methodsWe conducted a selective literature search (PubMed, MEDLINE, IEEE Xplore) and discuss current research.ResultsThere are three primary applications for machine learning in oncology: (1) cancer detection or classification; (2) overall survival prediction or risk assessment; and (3) supporting therapy decision-making and prediction of treatment response. Generally, machine learning approaches in oncology PRO research are scarce and few studies integrate PRO data into machine learning models.DiscussionMachine learning is a promising area of oncology, but few models have been transferred into clinical practice. The promise of personalized cancer therapy and shared decision-making through machine learning has yet to be realized. As an equally important emerging research area in oncology, PROs should also be incorporated into machine learning approaches. To gather the data necessary for this, broad implementation of PRO assessments in clinical practice, as well as the harmonization of existing datasets, is suggested."
+        },
+        {
+          "rank": 6,
+          "score": 0.6325105428695679,
+          "doc_id": "182",
+          "text": "Effective Electricity Demand Prediction via Deep Learning Effective Electricity Demand Prediction via Deep Learning Effective Electricity Demand Prediction via Deep Learning Prediction of electricity demand in homes and buildings can be used to optimize an energy management system by decreasing energy wastage. A time-series prediction system is still a challenging problem in machine learning and deep learning. Our main idea is to compare three methods. For this work, we analyzed an electricity demand prediction system using the current state-of-the-art deep-learning methods with a machine-learning method: error correction with multi-layer perceptron (eMLP) structure, autoregressive integrated moving average (ARIMA) structure, and a proposed structure named CNN-LSTM. For this, we measured and collected electricity demand data in Germany for home appliances. We report the prediction accuracy in terms of the mean square error (MSE) and mean absolute percentage error (MAPE). The experimental result indicates that CNN-LSTM outperforms eMLP and ARIMA in accuracy."
+        },
+        {
+          "rank": 7,
+          "score": 0.6243174076080322,
+          "doc_id": "111",
+          "text": "Artificial Intelligence for Artificial Artificial Intelligence Artificial Intelligence for Artificial Artificial Intelligence Artificial Intelligence for Artificial Artificial Intelligence Crowdsourcing platforms such as Amazon Mechanical Turk have become popular for a wide variety of human intelligence tasks; however, quality control continues to be a significant challenge. Recently, we propose TurKontrol, a theoretical model based on POMDPs to optimize iterative, crowd-sourced workflows. However, they neither describe how to learn the model parameters, nor show its effectiveness in a real crowd-sourced setting. Learning is challenging due to the scale of the model and noisy data: there are hundreds of thousands of workers with high-variance abilities. This paper presents an end-to-end system that first learns TurKontrol's POMDP parameters from real Mechanical Turk data, and then applies the model to dynamically optimize live tasks. We validate the model and use it to control a successive-improvement process on Mechanical Turk. By modeling worker accuracy and voting patterns, our system produces significantly superior artifacts compared to those generated through nonadaptive workflows using the same amount of money."
+        },
+        {
+          "rank": 8,
+          "score": 0.6233338117599487,
+          "doc_id": "201",
+          "text": "Wine Quality Evaluation Using Machine Learning Algorithms Wine Quality Evaluation Using Machine Learning Algorithms Wine Quality Evaluation Using Machine Learning Algorithms There are many prediction systems available for problems like stock exchange, medical diagnosis, insurance calculation, etc. Wine Quality is one area where there is a big opportunity to recommend a good quality of wine to users based on their preferences as well as in historical data. This paper describes the work to learn and assess whether a given wine sample is of good quality or not. The use of machine learning techniques specifically the linear regression with stochastic gradient descent were explored, and the features that perform well on this classification were engineered. The main aim is to develop a cost-effective system to acquire knowledge using data analysis through machine learning algorithms to predict the quality of wine in a better way."
+        },
+        {
+          "rank": 9,
+          "score": 0.6201664209365845,
+          "doc_id": "110",
+          "text": "Machine Learning기법을 이용한 Robot 이상 예지 보전 Machine Learning기법을 이용한 Robot 이상 예지 보전 Machine Learning기법을 이용한 Robot 이상 예지 보전 In this paper, a predictive maintenance of the robot trouble using the machine learning method, so called MT(Mahalanobis Taguchi), was studied. Especially, 'MD(Mahalanobis Distance)' was used to compare the robot arm motion difference between before the maintenance(bearing change) and after the maintenance. 6-axies vibration sensor was used to detect the vibration sensing during the motion of the robot arm. The results of the comparison, MD value of the arm motions of the after the maintenance(bearing change) was much lower and stable compared to MD value of the arm motions of the before the maintenance. MD value well distinguished the fine difference of the arm vibration of the robot. The superior performance of the MT method applied to the prediction of the robot trouble was verified by this experiments."
+        },
+        {
+          "rank": 10,
+          "score": 0.6174652576446533,
+          "doc_id": "160",
+          "text": "Crop Prediction Using Machine Learning Crop Prediction Using Machine Learning Crop Prediction Using Machine Learning 없음"
+        }
+      ]
+    },
+    {
+      "query": "What are the main advantages of using machine learning classifiers combined with molecular docking for predicting cytochrome P450 ligand interactions?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6739770770072937,
+          "doc_id": "53",
+          "text": "Machine Learning and Deep Learning for the Pharmacogenomics of Antidepressant Treatments Machine Learning and Deep Learning for the Pharmacogenomics of Antidepressant Treatments Machine Learning and Deep Learning for the Pharmacogenomics of Antidepressant Treatments A growing body of evidence now proposes that machine learning and deep learning techniques can serve as a vital foundation for the pharmacogenomics of antidepressant treatments in patients with major depressive disorder (MDD).In this review, we focus on the latest developments for pharmacogenomics research using machine learning and deep learning approaches together with neuroimaging and multi-omics data. First, we review relevant pharmacogenomics studies that leverage numerous machine learning and deep learning techniques to determine treatment prediction and potential biomarkers for antidepressant treatments in MDD. In addition, we depict some neuroimaging pharmacogenomics studies that utilize various machine learning approaches to predict antidepressant treatment outcomes in MDD based on the integration of research on pharmacogenomics and neuroimaging. Moreover, we summarize the limitations in regard to the past pharmacogenomics studies of antidepressant treatments in MDD. Finally, we outline a discussion of challenges and directions for future research. In light of latest advancements in neuroimaging and multi-omics, various genomic variants and biomarkers associated with antidepressant treatments in MDD are being identified in pharmacogenomics research by employing machine learning and deep learning algorithms."
+        },
+        {
+          "rank": 2,
+          "score": 0.6699782013893127,
+          "doc_id": "135",
+          "text": "Liver Fibrosis Biomarker Validation Using Machine Learning Algorithms Liver Fibrosis Biomarker Validation Using Machine Learning Algorithms Liver Fibrosis Biomarker Validation Using Machine Learning Algorithms Background: Liver fibrosis which causes several liver diseases, requires early screening and management. The gold standard for fibrosis assessment, liver biopsy, has recently been replaced by noninvasive scores. In this study, we validated liver fibrosis-associated biomarkers using machine learning techniques applied in medical research and evaluated their prediction models.Methods: Noninvasive scores were assayed in 144 patients who underwent transient elastography (TE). The patients were divided into three groups (<7 kPa, 7–10 kPa, ≥10 kPa) according to their TE results. Feature selection and modeling for predicting liver fibrosis were performed using random forest (RF) and support vector machine (SVM).Results: Considering the mean decrease in impurity, permutation importance, and multicollinear analysis, the important features for differentiating between the three groups were Mac-2 binding protein glycosylation isomer (M2BPGi), platelet count, and aspartate aminotransferase (AST). Using these features, the RF and SVM models showed equivalent or better performance than noninvasive scores. The sensitivities of RF and SVM models for predicting ≥7 kPa TE results were higher than noninvasive scores (83.3% and 90.0% vs. <80%, respectively). The sensitivity and specificity of RF and SVM models for ≥10 kPa TE result was 100%.Conclusions: We used machine learning techniques to verify the usefulness of established serological biomarkers (M2BPGi, PLT, and AST) that predict liver fibrosis. Conclusively, machine learning models showed better performance than noninvasive scores."
+        },
+        {
+          "rank": 3,
+          "score": 0.6487025618553162,
+          "doc_id": "200",
+          "text": "딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 본 논문에서는 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조를 개발한다. 제안하는 복합 미생물 배양기는 수집한 복합 미생물 데이터에 대해 복합 미생물 데이터 전처리, 복합 미생물 데이터 구조 변환, 딥러닝 네트워크 설계, 설계한 딥러닝 네트워크 학습, 시제품에 적용되는 GUI 개발 등으로 구성된다. 복합 미생물 데이터 전처리에서는 미생물 배양에 필요한 당밀, 영양제, 식물엑기스, 소금 등의 양에 대해 원-핫 인코딩을 실시하며, 배양된 결과로 측정된 pH 농도와 미생물의 셀 수에 대해 최대-최소 정규화 방법을 사용하여 데이터를 전처리한다. 복합 미생물 데이터 구조 변환에서는 전처리된 데이터를 물 온도와 미생물의 셀 수를 연결하여 그래프 구조로 변환 후, 인접 행렬과 속성 정보로 나타내어 딥러닝 네트워크의 입력 데이터로 사용한다. 딥러닝 네트워크 설계에서는 그래프 구조에 특화된 그래프 합성곱 네트워크를 설계하여 복합 미생물 데이터를 학습시킨다. 설계한 딥러닝 네트워크는 Cosine 손실함수를 사용하여 학습 시에 발생하는 오차를 최소화하는 방향으로 학습을 진행한다. 시제품에 적용되는 GUI 개발은 사용자가 선택하는 물 온도에 따라 목표하는 pH 농도(3.8 이하) 복합 미생물의 셀 수(108 이상)를 배양시키기 적합한 순으로 나타낸다. 제안된 미생물 배양기의 성능을 평가하기 위하여 공인시험기관에서 실험한 결과는, pH 농도의 경우 평균 3.7로, 복합 미생물의 셀 수는 1.7 &#x00D7; 108으로 측정되었다. 따라서, 본 논문에서 제안한 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조의 효용성이 입증되었다."
+        },
+        {
+          "rank": 4,
+          "score": 0.6468155384063721,
+          "doc_id": "214",
+          "text": "An Efficient Parallel Machine Learning-based Blockchain Framework An Efficient Parallel Machine Learning-based Blockchain Framework An Efficient Parallel Machine Learning-based Blockchain Framework The unlimited possibilities of machine learning have been shown in several successful reports and applications. However, how to make sure that the searched results of a machine learning system are not tampered by anyone and how to prevent the other users in the same network environment from easily getting our private data are two critical research issues when we immerse into powerful machine learning-based systems or applications. This situation is just like other modern information systems that confront security and privacy issues. The development of blockchain provides us an alternative way to address these two issues. That is why some recent studies have attempted to develop machine learning systems with blockchain technologies or to apply machine learning methods to blockchain systems. To show what the combination of blockchain and machine learning is capable of doing, in this paper, we proposed a parallel framework to find out suitable hyperparameters of deep learning in a blockchain environment by using a metaheuristic algorithm. The proposed framework also takes into account the issue of communication cost, by limiting the number of information exchanges between miners and blockchain."
+        },
+        {
+          "rank": 5,
+          "score": 0.6433853507041931,
+          "doc_id": "110",
+          "text": "Machine Learning기법을 이용한 Robot 이상 예지 보전 Machine Learning기법을 이용한 Robot 이상 예지 보전 Machine Learning기법을 이용한 Robot 이상 예지 보전 In this paper, a predictive maintenance of the robot trouble using the machine learning method, so called MT(Mahalanobis Taguchi), was studied. Especially, 'MD(Mahalanobis Distance)' was used to compare the robot arm motion difference between before the maintenance(bearing change) and after the maintenance. 6-axies vibration sensor was used to detect the vibration sensing during the motion of the robot arm. The results of the comparison, MD value of the arm motions of the after the maintenance(bearing change) was much lower and stable compared to MD value of the arm motions of the before the maintenance. MD value well distinguished the fine difference of the arm vibration of the robot. The superior performance of the MT method applied to the prediction of the robot trouble was verified by this experiments."
+        },
+        {
+          "rank": 6,
+          "score": 0.6376714706420898,
+          "doc_id": "142",
+          "text": "Machine learning in oncology-Perspectives in patient-reported outcome research Machine learning in oncology-Perspectives in patient-reported outcome research Machine learning in oncology-Perspectives in patient-reported outcome research AbstractBackgroundIncreasing data volumes in oncology pose new challenges for data analysis. Machine learning, a branch of artificial intelligence, can identify patterns even in very large and less structured datasets.ObjectiveThis article provides an overview of the possible applications for machine learning in oncology. Furthermore, the potential of machine learning in patient-reported outcome (PRO) research is discussed.Materials and methodsWe conducted a selective literature search (PubMed, MEDLINE, IEEE Xplore) and discuss current research.ResultsThere are three primary applications for machine learning in oncology: (1) cancer detection or classification; (2) overall survival prediction or risk assessment; and (3) supporting therapy decision-making and prediction of treatment response. Generally, machine learning approaches in oncology PRO research are scarce and few studies integrate PRO data into machine learning models.DiscussionMachine learning is a promising area of oncology, but few models have been transferred into clinical practice. The promise of personalized cancer therapy and shared decision-making through machine learning has yet to be realized. As an equally important emerging research area in oncology, PROs should also be incorporated into machine learning approaches. To gather the data necessary for this, broad implementation of PRO assessments in clinical practice, as well as the harmonization of existing datasets, is suggested."
+        },
+        {
+          "rank": 7,
+          "score": 0.6351293921470642,
+          "doc_id": "70",
+          "text": "Machine Learning in Predicting Hemoglobin Variants Machine Learning in Predicting Hemoglobin Variants Machine Learning in Predicting Hemoglobin Variants 없음"
+        },
+        {
+          "rank": 8,
+          "score": 0.6314517259597778,
+          "doc_id": "22",
+          "text": "Effective E-Learning Practices by Machine Learning and Artificial Intelligence Effective E-Learning Practices by Machine Learning and Artificial Intelligence Effective E-Learning Practices by Machine Learning and Artificial Intelligence This is an extended research paper focusing on the applications of Machine Learing and Artificial Intelligence in virtual learning environment. The world is moving at a fast pace having the application of Machine Learning (ML) and Artificial Intelligence (AI) in all the major disciplines and the educational sector is also not untouched by its impact especially in an online learning environment. This paper attempts to elaborate on the benefits of ML and AI in E-Learning (EL) in general and explain how King Khalid University (KKU) EL Deanship is making the best of ML and AI in its practices. Also, researchers have focused on the future of ML and AI in any academic program. This research is descriptive in nature; results are based on qualitative analysis done through tools and techniques of EL applied in KKU as an example but the same modus operandi can be implemented by any institution in its EL platform. KKU is using Learning Management Services (LMS) for providing online learning practices and Blackboard (BB) for sharing online learning resources, therefore these tools are considered by the researchers for explaining the results of ML and AI."
+        },
+        {
+          "rank": 9,
+          "score": 0.6303666830062866,
+          "doc_id": "163",
+          "text": "Comparison of Machine Learning Tools for Mobile Application Comparison of Machine Learning Tools for Mobile Application Comparison of Machine Learning Tools for Mobile Application Demand for machine learning systems continues to grow, and cloud machine learning platforms are widely used to meet this demand. Recently, the performance improvement of the application processor of smartphones has become an opportunity for the machine learning platform to move from the cloud to On-Device AI, and mobile applications equipped with machine learning functions are required. In this paper, machine learning tools for mobile applications are investigated and compared the characteristics of these tools."
+        },
+        {
+          "rank": 10,
+          "score": 0.6238517761230469,
+          "doc_id": "57",
+          "text": "Application of Machine Learning and Deep Learning in Imaging of Ischemic Stroke Application of Machine Learning and Deep Learning in Imaging of Ischemic Stroke Application of Machine Learning and Deep Learning in Imaging of Ischemic Stroke Timely analysis of imaging data is critical for diagnosis and decision-making for proper treatment strategy in the cases of ischemic stroke. Various efforts have been made to develop computer-assisted systems to improve the accuracy of stroke diagnosis and acute stroke triage. The widespread emergence of artificial intelligence technology has been integrated into the field of medicine. Artificial intelligence can play an important role in providing care to patients with stroke. In the past few decades, numerous studies have explored the use of machine learning and deep learning algorithms for application in the management of stroke. In this review, we will start with a brief introduction to machine learning and deep learning and provide clinical applications of machine learning and deep learning in various aspects of stroke management, including rapid diagnosis and improved triage, identifying large vessel occlusion, predicting time from stroke onset, automated ASPECTS (Alberta Stroke Program Early CT Score) measurement, lesion segmentation, and predicting treatment outcome. This work is focused on providing the current application of artificial intelligence techniques in the imaging of ischemic stroke, including MRI and CT."
+        }
+      ]
+    },
+    {
+      "query": "What are the key limitations or challenges of using machine learning classifiers combined with molecular docking for predicting cytochrome P450 ligand interactions?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 2
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6563776731491089,
+          "doc_id": "53",
+          "text": "Machine Learning and Deep Learning for the Pharmacogenomics of Antidepressant Treatments Machine Learning and Deep Learning for the Pharmacogenomics of Antidepressant Treatments Machine Learning and Deep Learning for the Pharmacogenomics of Antidepressant Treatments A growing body of evidence now proposes that machine learning and deep learning techniques can serve as a vital foundation for the pharmacogenomics of antidepressant treatments in patients with major depressive disorder (MDD).In this review, we focus on the latest developments for pharmacogenomics research using machine learning and deep learning approaches together with neuroimaging and multi-omics data. First, we review relevant pharmacogenomics studies that leverage numerous machine learning and deep learning techniques to determine treatment prediction and potential biomarkers for antidepressant treatments in MDD. In addition, we depict some neuroimaging pharmacogenomics studies that utilize various machine learning approaches to predict antidepressant treatment outcomes in MDD based on the integration of research on pharmacogenomics and neuroimaging. Moreover, we summarize the limitations in regard to the past pharmacogenomics studies of antidepressant treatments in MDD. Finally, we outline a discussion of challenges and directions for future research. In light of latest advancements in neuroimaging and multi-omics, various genomic variants and biomarkers associated with antidepressant treatments in MDD are being identified in pharmacogenomics research by employing machine learning and deep learning algorithms."
+        },
+        {
+          "rank": 2,
+          "score": 0.6430227160453796,
+          "doc_id": "135",
+          "text": "Liver Fibrosis Biomarker Validation Using Machine Learning Algorithms Liver Fibrosis Biomarker Validation Using Machine Learning Algorithms Liver Fibrosis Biomarker Validation Using Machine Learning Algorithms Background: Liver fibrosis which causes several liver diseases, requires early screening and management. The gold standard for fibrosis assessment, liver biopsy, has recently been replaced by noninvasive scores. In this study, we validated liver fibrosis-associated biomarkers using machine learning techniques applied in medical research and evaluated their prediction models.Methods: Noninvasive scores were assayed in 144 patients who underwent transient elastography (TE). The patients were divided into three groups (<7 kPa, 7–10 kPa, ≥10 kPa) according to their TE results. Feature selection and modeling for predicting liver fibrosis were performed using random forest (RF) and support vector machine (SVM).Results: Considering the mean decrease in impurity, permutation importance, and multicollinear analysis, the important features for differentiating between the three groups were Mac-2 binding protein glycosylation isomer (M2BPGi), platelet count, and aspartate aminotransferase (AST). Using these features, the RF and SVM models showed equivalent or better performance than noninvasive scores. The sensitivities of RF and SVM models for predicting ≥7 kPa TE results were higher than noninvasive scores (83.3% and 90.0% vs. <80%, respectively). The sensitivity and specificity of RF and SVM models for ≥10 kPa TE result was 100%.Conclusions: We used machine learning techniques to verify the usefulness of established serological biomarkers (M2BPGi, PLT, and AST) that predict liver fibrosis. Conclusively, machine learning models showed better performance than noninvasive scores."
+        },
+        {
+          "rank": 3,
+          "score": 0.6405594348907471,
+          "doc_id": "214",
+          "text": "An Efficient Parallel Machine Learning-based Blockchain Framework An Efficient Parallel Machine Learning-based Blockchain Framework An Efficient Parallel Machine Learning-based Blockchain Framework The unlimited possibilities of machine learning have been shown in several successful reports and applications. However, how to make sure that the searched results of a machine learning system are not tampered by anyone and how to prevent the other users in the same network environment from easily getting our private data are two critical research issues when we immerse into powerful machine learning-based systems or applications. This situation is just like other modern information systems that confront security and privacy issues. The development of blockchain provides us an alternative way to address these two issues. That is why some recent studies have attempted to develop machine learning systems with blockchain technologies or to apply machine learning methods to blockchain systems. To show what the combination of blockchain and machine learning is capable of doing, in this paper, we proposed a parallel framework to find out suitable hyperparameters of deep learning in a blockchain environment by using a metaheuristic algorithm. The proposed framework also takes into account the issue of communication cost, by limiting the number of information exchanges between miners and blockchain."
+        },
+        {
+          "rank": 4,
+          "score": 0.6363338232040405,
+          "doc_id": "140",
+          "text": "Sharing Big Data Sharing Big Data Sharing Big Data Macromolecular Big Data provide numerous challenges and a number of initiatives that are starting to overcome these issues are discussed."
+        },
+        {
+          "rank": 5,
+          "score": 0.6223884224891663,
+          "doc_id": "202",
+          "text": "Machine learning Machine learning Machine learning A short review of research and applications in machine learning is given. Rather than attempt to cover all areas of ML, the focus is on its role in building expert systems, its approach to classification problems and ML methods of learning control. A relatively new area, inductive logic programming, is also discussed."
+        },
+        {
+          "rank": 6,
+          "score": 0.6209073066711426,
+          "doc_id": "111",
+          "text": "Artificial Intelligence for Artificial Artificial Intelligence Artificial Intelligence for Artificial Artificial Intelligence Artificial Intelligence for Artificial Artificial Intelligence Crowdsourcing platforms such as Amazon Mechanical Turk have become popular for a wide variety of human intelligence tasks; however, quality control continues to be a significant challenge. Recently, we propose TurKontrol, a theoretical model based on POMDPs to optimize iterative, crowd-sourced workflows. However, they neither describe how to learn the model parameters, nor show its effectiveness in a real crowd-sourced setting. Learning is challenging due to the scale of the model and noisy data: there are hundreds of thousands of workers with high-variance abilities. This paper presents an end-to-end system that first learns TurKontrol's POMDP parameters from real Mechanical Turk data, and then applies the model to dynamically optimize live tasks. We validate the model and use it to control a successive-improvement process on Mechanical Turk. By modeling worker accuracy and voting patterns, our system produces significantly superior artifacts compared to those generated through nonadaptive workflows using the same amount of money."
+        },
+        {
+          "rank": 7,
+          "score": 0.6180890798568726,
+          "doc_id": "163",
+          "text": "Comparison of Machine Learning Tools for Mobile Application Comparison of Machine Learning Tools for Mobile Application Comparison of Machine Learning Tools for Mobile Application Demand for machine learning systems continues to grow, and cloud machine learning platforms are widely used to meet this demand. Recently, the performance improvement of the application processor of smartphones has become an opportunity for the machine learning platform to move from the cloud to On-Device AI, and mobile applications equipped with machine learning functions are required. In this paper, machine learning tools for mobile applications are investigated and compared the characteristics of these tools."
+        },
+        {
+          "rank": 8,
+          "score": 0.6172359585762024,
+          "doc_id": "70",
+          "text": "Machine Learning in Predicting Hemoglobin Variants Machine Learning in Predicting Hemoglobin Variants Machine Learning in Predicting Hemoglobin Variants 없음"
+        },
+        {
+          "rank": 9,
+          "score": 0.6136134266853333,
+          "doc_id": "200",
+          "text": "딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 본 논문에서는 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조를 개발한다. 제안하는 복합 미생물 배양기는 수집한 복합 미생물 데이터에 대해 복합 미생물 데이터 전처리, 복합 미생물 데이터 구조 변환, 딥러닝 네트워크 설계, 설계한 딥러닝 네트워크 학습, 시제품에 적용되는 GUI 개발 등으로 구성된다. 복합 미생물 데이터 전처리에서는 미생물 배양에 필요한 당밀, 영양제, 식물엑기스, 소금 등의 양에 대해 원-핫 인코딩을 실시하며, 배양된 결과로 측정된 pH 농도와 미생물의 셀 수에 대해 최대-최소 정규화 방법을 사용하여 데이터를 전처리한다. 복합 미생물 데이터 구조 변환에서는 전처리된 데이터를 물 온도와 미생물의 셀 수를 연결하여 그래프 구조로 변환 후, 인접 행렬과 속성 정보로 나타내어 딥러닝 네트워크의 입력 데이터로 사용한다. 딥러닝 네트워크 설계에서는 그래프 구조에 특화된 그래프 합성곱 네트워크를 설계하여 복합 미생물 데이터를 학습시킨다. 설계한 딥러닝 네트워크는 Cosine 손실함수를 사용하여 학습 시에 발생하는 오차를 최소화하는 방향으로 학습을 진행한다. 시제품에 적용되는 GUI 개발은 사용자가 선택하는 물 온도에 따라 목표하는 pH 농도(3.8 이하) 복합 미생물의 셀 수(108 이상)를 배양시키기 적합한 순으로 나타낸다. 제안된 미생물 배양기의 성능을 평가하기 위하여 공인시험기관에서 실험한 결과는, pH 농도의 경우 평균 3.7로, 복합 미생물의 셀 수는 1.7 &#x00D7; 108으로 측정되었다. 따라서, 본 논문에서 제안한 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조의 효용성이 입증되었다."
+        },
+        {
+          "rank": 10,
+          "score": 0.6107734441757202,
+          "doc_id": "142",
+          "text": "Machine learning in oncology-Perspectives in patient-reported outcome research Machine learning in oncology-Perspectives in patient-reported outcome research Machine learning in oncology-Perspectives in patient-reported outcome research AbstractBackgroundIncreasing data volumes in oncology pose new challenges for data analysis. Machine learning, a branch of artificial intelligence, can identify patterns even in very large and less structured datasets.ObjectiveThis article provides an overview of the possible applications for machine learning in oncology. Furthermore, the potential of machine learning in patient-reported outcome (PRO) research is discussed.Materials and methodsWe conducted a selective literature search (PubMed, MEDLINE, IEEE Xplore) and discuss current research.ResultsThere are three primary applications for machine learning in oncology: (1) cancer detection or classification; (2) overall survival prediction or risk assessment; and (3) supporting therapy decision-making and prediction of treatment response. Generally, machine learning approaches in oncology PRO research are scarce and few studies integrate PRO data into machine learning models.DiscussionMachine learning is a promising area of oncology, but few models have been transferred into clinical practice. The promise of personalized cancer therapy and shared decision-making through machine learning has yet to be realized. As an equally important emerging research area in oncology, PROs should also be incorporated into machine learning approaches. To gather the data necessary for this, broad implementation of PRO assessments in clinical practice, as well as the harmonization of existing datasets, is suggested."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

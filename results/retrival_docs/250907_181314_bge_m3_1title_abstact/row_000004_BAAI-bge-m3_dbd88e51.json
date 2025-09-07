@@ -1,0 +1,291 @@
+{
+  "id": "row_000004",
+  "model_name": "BAAI/bge-m3",
+  "timestamp_kst": "2025-09-07T18:13:15.250847+09:00",
+  "trial_id": "dbd88e51",
+  "queries": [
+    {
+      "query": "What are the key features of a sustainability-oriented corporate culture that shape the development and management of sustainable artificial intelligence?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.701789140701294,
+          "doc_id": "95",
+          "text": "Sustainable artificial intelligence: A corporate culture perspective AbstractIn recent years, various studies have highlighted the opportunities of artificial intelligence (AI) for our society. For example, AI solutions can help reduce pollution, waste, or carbon footprints. On the other hand, there are also risks associated with the use of AI, such as increasing inequality in society or high resource consumption for computing power. This paper explores the question how corporate culture influences the use of artificial intelligence in terms of sustainable development. This type of use includes a normative element and is referred to in the paper as sustainable artificial intelligence (SAI). Based on a bibliometric literature analysis, we identify features of a sustainability-oriented corporate culture. We offer six propositions examining the influence of specific manifestations on the handling of AI in the sense of SAI. Thus, if companies want to ensure that SAI is realized, corporate culture appears as an important indicator and influencing factor at the same time."
+        },
+        {
+          "rank": 2,
+          "score": 0.5247066617012024,
+          "doc_id": "77",
+          "text": "Understanding the Structure of Artificial Intelligence Conscience Purpose This study aims to construct a structure for application to artificial intelligence by analyzing the characteristics of conscience that act as an element of moral behavior. It focuses on enhancing understanding of the structure of artificial intelligence conscience and providing insights for future development of conscience algorithms. Method This study examines in detail the academic concepts and structural properties of conscience. Reviewing the academic literature and the latest data, we propose the structure of artificial intelligence conscience. Results Through the phrase, we found that in order to construct the conscience of artificial intelligence, an algorithm must be constructed by considering the cognitive and emotional aspects. And in the process of constructing an artificial intelligence conscience algorithm, we confirmed that differentiated characteristics should be reflected depending on the situation and the object. Conclusion The value judgment of artificial intelligence is already being realized on universal standards. At the AGI level, in order to achieve value judgment, an algorithm that reflects conscience must be constructed to be close to human value judgment. For this, it is necessary to construct data and algorithms on the situation of value judgment and the relationship with the object."
+        },
+        {
+          "rank": 3,
+          "score": 0.5070219039916992,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence AbstractThis paper addresses the relations between information retrieval (IR) and AI. It examines document retrieval, summarising its essential features and illustrating the state of its art by presenting one probabilistic model in detail, with some test results showing its value. The paper then analyses this model and related successful approaches, concentrating on and justifying their use of weak, redundant representation and reasoning. It goes on to other information management tasks and considers how the concepts and methods developed for retrieval may be applied to these, concluding by arguing that such ways of dealing with information may also have wider relevance to AI."
+        },
+        {
+          "rank": 4,
+          "score": 0.4980079233646393,
+          "doc_id": "37",
+          "text": "Digital Skills, Transmedia, and Artificial Intelligence Communication has been the basis for “key competencies” in every period of history. In the digital age, these competencies cross over lines of disciplines, modalities, approaches, media, and platforms. This paper shows the evolution of communicative competences, and explores the ramifications of the fourth industrial revolution, also known as Industry 4.0, for teaching and learning. In this revolutionary era, transmedia connects directly with changing educational needs, not only to help students learn to use tools driven by artificial intelligence, but to live in a world where we will be communicating with these agents in hybrid communities that include human and digital agents alike. The author approaches the role of the teacher in guiding students through this complex learning space, where plurilingualism and interculturality are prerequisites for success, and offers two simple activities that are easy to reproduce in the classroom that call upon emerging technologies. The activities present different learning situations that integrate reflection about technology and society while building language competencies. The paper also looks at content, its delivery, data and metadata, and the implications for a better world built on the principles of the Sustainable Development Goals (SDG’s) for 2030 enacted in 2015 by the United Nations (UN)."
+        },
+        {
+          "rank": 5,
+          "score": 0.4928944706916809,
+          "doc_id": "122",
+          "text": "Artificial Agential Intelligence Since artificial intelligence (AI) emerged in the mid-20th century, it has incurred many theoretical criticisms (Dreyfus, H. [1972] What Computers Can&rsquo;t Do (MIT Press, New York); Dreyfus, H. [1992] What Computers Still Can&rsquo;t Do (MIT Press, New York); Searle, J. [1980] Minds, brains and programs, Behav. Brain Sci.3, 417-457; Searle, J. [1984] Minds, Brains and Sciences (Harvard University Press, Cambridge, MA); Searle, J. [1992] The Rediscovery of the Mind (MIT Press, Cambridge, MA); Fodor, J. [2002] The Mind Doesn&rsquo;t Work that Way: The Scope and Limits of Computational Psychology (MIT Press, Cambridge, MA).). The technical improvements of machine learning and deep learning, though, have been continuing and many breakthroughs have occurred recently. This makes theoretical considerations urgent again: can this new wave of AI fare better than its precursors in emulating or even having human-like minds? I propose a cautious yet positive hypothesis: current AI might create human-like mind, but only if it incorporates certain conceptual rewiring: it needs to shift from a task-based to an agent-based framework, which can be dubbed &ldquo;Artificial Agential Intelligence&rdquo; (AAI). It comprises practical reason (McDowell, J. [1979] Virtue and reason, Monist62(3), 331-350; McDowell, J. [1996] Mind and World (Harvard University Press, Cambridge, MA)), imaginative understanding (Campbell, J. [2020] Causation in Psychology (Harvard University Press, Cambridge, MA)), and animal knowledge (Sosa, E. [2007] A Virtue Epistemology: Apt Belief and Reflective Knowledge, volume 1 (Oxford University Press, Oxford, UK); Sosa, E. [2015] Judgment and Agency (Oxford University Press, Cambridge, MA)). Moreover, I will explore whether and in what way neuroscience-inspired AI and predictive coding (Hassabis, D., Kumaran, D., Summerfield, C., &amp; Botvinick, M. [2017] Neuroscience-inspired artificial intelligence, Neuron95(2), 245-258) can help carry out this project."
+        },
+        {
+          "rank": 6,
+          "score": 0.4861953854560852,
+          "doc_id": "49",
+          "text": "Artificial Intelligence for the Fourth Industrial Revolution Artificial intelligence is one of the key technologies of the Fourth Industrial Revolution. This paper introduces the diverse kinds of approaches to subjects that tackle diverse kinds of research fields such as model-based MS approach, deep neural network model, image edge detection approach, cross-layer optimization model, LSSVM approach, screen design approach, CPU-GPU hybrid approach and so on. The research on Superintelligence and superconnection for IoT and big data is also described such as 'superintelligence-based systems and infrastructures', 'superconnection-based IoT and big data systems', 'analysis of IoT-based data and big data', 'infrastructure design for IoT and big data', 'artificial intelligence applications', and 'superconnection-based IoT devices'."
+        },
+        {
+          "rank": 7,
+          "score": 0.48447683453559875,
+          "doc_id": "212",
+          "text": "Exploring Artificial Intelligence Futures Artificial intelligence technologies are receiving high levels of attention and ‘hype’, leading to a range of speculation about futures in which such technologies, and their successors, are commonly deployed. By looking at existing AI futures work, this paper surveys, and offers an initial categorisation of, several of the tools available for such futures-exploration, in particular those available to humanities scholars, and discusses some of the benefits and limitations of each. While no tools exist to reliably predict the future of artificial intelligence, several tools can help us expand our range of possible futures in order to reduce unexpected surprises, and to create common languages and models that enable constructive conversations about the kinds of futures we would like to occupy or avoid. The paper points at several tools as particularly promising and currently neglected, calling for more work in data-driven, realistic, integrative, and participatory scenario role-plays."
+        },
+        {
+          "rank": 8,
+          "score": 0.4837518632411957,
+          "doc_id": "106",
+          "text": "Artificial intelligence AbstractArtificial intelligence (AI) is the Science and Engineering domain concerned with the theory and practice of developing systems that exhibit the characteristics we associate with intelligence in human behavior. Starting with a brief history of artificial intelligence, this article presents a general overview of this broad interdisciplinary field, organized around the main modules of the notional architecture of an intelligent agent (knowledge representation; problem solving and planning; knowledge acquisition and learning; natural language, speech, and vision; action processing and robotics) which highlights both the main areas of artificial intelligence research, development and application, and also their integration. WIREs Comput Stat 2012, 4:168-180. doi: 10.1002/wics.200This article is categorized under: Software for Computational Statistics > Artificial Intelligence and Expert Systems"
+        },
+        {
+          "rank": 9,
+          "score": 0.4835186302661896,
+          "doc_id": "40",
+          "text": "Human- versus Artificial Intelligence AI is one of the most debated subjects of today and there seems little common understanding concerning the differences and similarities of human intelligence and artificial intelligence. Discussions on many relevant topics, such as trustworthiness, explainability, and ethics are characterized by implicit anthropocentric and anthropomorphistic conceptions and, for instance, the pursuit of human-like intelligence as the golden standard for Artificial Intelligence. In order to provide more agreement and to substantiate possible future research objectives, this paper presents three notions on the similarities and differences between human- and artificial intelligence: 1) the fundamental constraints of human (and artificial) intelligence, 2) human intelligence as one of many possible forms of general intelligence, and 3) the high potential impact of multiple (integrated) forms of narrow-hybrid AI applications. For the time being, AI systems will have fundamentally different cognitive qualities and abilities than biological systems. For this reason, a most prominent issue is how we can use (and &ldquo;collaborate&rdquo; with) these systems as effectively as possible? For what tasks and under what conditions, decisions are safe to leave to AI and when is human judgment required? How can we capitalize on the specific strengths of human- and artificial intelligence? How to deploy AI systems effectively to complement and compensate for the inherent constraints of human cognition (and vice versa)? Should we pursue the development of AI &ldquo;partners&rdquo; with human (-level) intelligence or should we focus more at supplementing human limitations? In order to answer these questions, humans working with AI systems in the workplace or in policy making have to develop an adequate mental model of the underlying &lsquo;psychological&rsquo; mechanisms of AI. So, in order to obtain well-functioning human-AI systems, Intelligence Awareness in humans should be addressed more vigorously. For this purpose a first framework for educational content is proposed."
+        },
+        {
+          "rank": 10,
+          "score": 0.48244011402130127,
+          "doc_id": "7",
+          "text": "Keynote speech 6: Big Data, IoT and the 2nd sustainable development goal The risks associated with the global food system are widely acknowledged and implicate a complex nexus of factors including increasing population, changing diets, erosion of natural capital, uncertain future climate, food price fluctuations, growing economic disparity and differential access to sufficient safe and nutritious food. The second sustainable development goal (SDG2) aims to address these challenges in every country to ensure not only that we eradicate global hunger, but also that everyone has access to safe and nutritious food that is produced in an environmentally, socially and economically sustainable manner. SDG2 creates an unprecedented challenge to overcome the complexity of coordinating interventions that span the whole food chain (more accurately, `food network') and engage a bewildering breadth of individuals, stakeholders and agencies. The Sustainable Development Solutions Network recommends a generic enabling framework for SDG2 that connects the various stakeholders, and indicates the feedbacks and information flows that are needed to ensure effective execution. This platform is broadly relevant to all countries irrespective of their development status. A clear requirement for the success of this framework is the availability and free exchange of data, together with near real-time analytics on that data to create the necessary knowledge flows. The potential role of data-driven innovation in implementing the enabling framework in developing and western economies will be discussed using various case studies. The opportunities for deploying existing and new kinds of sensor and networking technologies will be explored. This will include the potential role of IoT and Big Data related technologies and an evaluation of the feasibilities and risks associated with their deployment. The presentation will conclude with a set of requirements and a summary of recommendations for future priorities."
+        }
+      ]
+    },
+    {
+      "query": "What are the key features of a sustainability-oriented corporate culture?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5383892059326172,
+          "doc_id": "95",
+          "text": "Sustainable artificial intelligence: A corporate culture perspective AbstractIn recent years, various studies have highlighted the opportunities of artificial intelligence (AI) for our society. For example, AI solutions can help reduce pollution, waste, or carbon footprints. On the other hand, there are also risks associated with the use of AI, such as increasing inequality in society or high resource consumption for computing power. This paper explores the question how corporate culture influences the use of artificial intelligence in terms of sustainable development. This type of use includes a normative element and is referred to in the paper as sustainable artificial intelligence (SAI). Based on a bibliometric literature analysis, we identify features of a sustainability-oriented corporate culture. We offer six propositions examining the influence of specific manifestations on the handling of AI in the sense of SAI. Thus, if companies want to ensure that SAI is realized, corporate culture appears as an important indicator and influencing factor at the same time."
+        },
+        {
+          "rank": 2,
+          "score": 0.40970030426979065,
+          "doc_id": "94",
+          "text": "The Trends of IT Convergence in Korea These days, the environment of IT development goes through converging with various industries and technologies. Also, it accelerates to pioneer new markets and develop new technologies. This trend becomes one of the most important factors to explore new national growth engines in Korea. Thus, this research examines current trends of IT convergence in Korea. The strategic characteristics of IT convergence in overseas are briefly explained for comparing purpose. The governmental strategies or efforts regarding the IT convergence have been surveyed. Some example convergences of LG, Samsung, and POSCO as major IT industries in Korea have been introduced. It also identifies several buzz concepts in this field. The study aims to provide an insight about the activities that are happening in the field of IT convergence in Korea. Finally, the findings through the research have been summarized."
+        },
+        {
+          "rank": 3,
+          "score": 0.40885865688323975,
+          "doc_id": "211",
+          "text": "On exploring factors for enhancing export competitiveness in IT Convergence industries Purpose - The IT convergence industry, which is the subject of this study, is the main strategy field during the 4th industrial revolution era. Against this background, it is urgent to establish policy measures to survive and spread export products in the global industries.Research, design, data and methodology - In order to achieve this goal, we conducted the Importance - Performance Analysis (IPA) and found that it is necessary to develop tailor - made marketing support for small and medium sized IT exporters and to develop export strategy products with competitive technologies.Results - Above all, customized marketing support for IT export-related SMEs was needed. Next, in the first quadrant, strategic products, qualitative level, global, value added, and information systems were included, and it was found that 'development of export strategic products with competitive technologies' was necessary. In the third quadrant, related variables calculated at present time are not urgent variables.Conclusions - In this study, it would be necessary to calculate the additional implications of the variables that are not considered in this study, including future studies, because the methods considered here as analysis variables are carried out in comparison with the previous studies."
+        },
+        {
+          "rank": 4,
+          "score": 0.40874922275543213,
+          "doc_id": "218",
+          "text": "A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data Technological convergence is yielding new values and affecting various fields not by single technology but by convergence between technologies. This study aims to analyze the IT -BT-NT convergence and differences between technologies in respect of collaboration within (inventor) and between (assignee) organizations. Among the main technologies leading the technological convergence, IT is the most active of converging with other fields. BT is knowledge-intensive and strong cooperative networks are important in this area. NT is applied in various industrial fields upon the basic technology. Using the data on applied and granted patents by Korean applicants in the U.S., this study conducted quantitative analysis and ANOVA to gain the following results. First, the degree of convergence in between IT-BT-NT is continuously increasing since 2002. Second, BT is where the collaboration within and between organizations is the most active among IT-BT-NT. Third, there were certain differences in the degree of convergence according to the years and the fields of technologies in all the IT-BT-NT. Organizations cooperate with other institutions to sustain their competitiveness with limited internal resources. Companies in these fields are recommended to perform diverse strategies to pursue further collaboration with the outside."
+        },
+        {
+          "rank": 5,
+          "score": 0.40691882371902466,
+          "doc_id": "105",
+          "text": "A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data Technological convergence is yielding new values and affecting various fields not by single technology but by convergence between technologies. This study aims to analyze the IT -BT-NT convergence and differences between technologies in respect of collaboration within (inventor) and between (assignee) organizations. Among the main technologies leading the technological convergence, IT is the most active of converging with other fields. BT is knowledge-intensive and strong cooperative networks are important in this area.NT is applied in various industrial fields upon the basic technology. Using the data on applied and granted patents by Korean applicants in the U.S., this study conducted quantitative analysis and ANOVA to gain the following results. First, the degree of convergence in between IT-BT-NT is continuously increasing since 2002. Second, BT is where the collaboration within and between organizations is the most active among IT-BT-NT. Third, there were certain differences in the degree of convergence according to the years and the fields of technologies in all the IT-BT-NT. Organizations cooperate with other institutions to sustain their competitiveness with limited internal resources. Companies in these fields are recommended to perform diverse strategies to pursue further collaboration with the outside."
+        },
+        {
+          "rank": 6,
+          "score": 0.4051130414009094,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence AbstractThis paper addresses the relations between information retrieval (IR) and AI. It examines document retrieval, summarising its essential features and illustrating the state of its art by presenting one probabilistic model in detail, with some test results showing its value. The paper then analyses this model and related successful approaches, concentrating on and justifying their use of weak, redundant representation and reasoning. It goes on to other information management tasks and considers how the concepts and methods developed for retrieval may be applied to these, concluding by arguing that such ways of dealing with information may also have wider relevance to AI."
+        },
+        {
+          "rank": 7,
+          "score": 0.40486037731170654,
+          "doc_id": "198",
+          "text": "국내 중소기업의 기술융합 전략 및 성장 정책: IT & BT 융합기술 기반 네트워크 분석 Many scholars have addressed the technological convergence of small-medium sized firms in Korea and their impact on the economic growth of nation. Nevertheless, most studies have been investigated the relationship between entrepreneurship and venture creation, and a few studies have analyzed the innovation and technological convergence of SMEs. The purpose of this research is to gain industrial insight into the technological convergence and to suggest a dynamic growth policy for entrepreneurs of SMEs to improve their convergence performance based on IT and BT. Therefore, we intend to propose solutions to these key questions in convergence such as; what are the key patterns in the process of technological convergence of SMEs on IT and BT, and what kinds of strategy do their need? In order to answer these research questions, we adopt network analysis using patent citation information. Results of network analysis revealed that building ecosystem based on government and universities is one of the most important factors for the future growth of SMEs in Korea. Also, the fit between technological convergence direction of SMEs and division of convergence structure of government and universities will be positively associated with dynamic growth of SMEs in Korea. In conclusion, this research extends the current studies on important aspects of SMEs in the technological convergence process by proposing their growth in convergence process to a newly converging context, IT and BT, and shed light on the integrative perspectives of crucial roles of SMEs on innovation performance in the IT and BT technological convergence."
+        },
+        {
+          "rank": 8,
+          "score": 0.40270256996154785,
+          "doc_id": "172",
+          "text": "Demystifying big data: Anatomy of big data developmental process This study seeks to understand big data ecology, how it is perceived by different stakeholders, the potential value and challenges, and the implications for the private sector and public organizations, as well as for policy makers. With Normalization Process Theory in place, this study conducts socio-technical evaluation on the big data phenomenon to understand the developmental processes through which new practices of thinking and enacting are implemented, embedded, and integrated in South Korea. It also undertakes empirical analyses of user modeling to explore the factors influencing users' adoption of big data by integrating cognitive motivations as well as user values as the primary determining factors. Based on the qualitative and quantitative findings, this study concludes that big data should be developed with user-centered ideas and that users should be the focus of big data design. (C) 2015 Elsevier Ltd. All rights reserved."
+        },
+        {
+          "rank": 9,
+          "score": 0.40092089772224426,
+          "doc_id": "98",
+          "text": "국방 IT융합 비즈니스 모델 사례와 성과 분석 Information technology (IT) convergence have been recognized one of the key drivers in the industry perspective. Especially, IT convergence have been one of the most important innovative way for defense sector. Korea government established IT convergence policy in 2008 and have been applying it to the core industry such as automotive, shipbuilding and defense industries. Recently, the creative vitamin project has been launched. Vitamin 'D' means the way to create the value of defense industry. This research analyzes and evaluates various IT convergence business models based on an operation of defense IT convergence center from 2011 to 2014, which is the industry IT convergence centers. Defense IT convergence business models can be classified into four types of mission area as follows : weapon acquisition and management, military intelligence, military power construction, and resources management. We define the concept of defense IT convergence and describe the framework and processes for applying IT to the defense sector. We analyzes and evaluates various business models designed through defense IT convergence framework and processes."
+        },
+        {
+          "rank": 10,
+          "score": 0.3997637629508972,
+          "doc_id": "126",
+          "text": "Exploring Big Data Governance Frameworks Abstract The recent explosion in ICT and digital data has led organizations, both private and public, to efficient decision-making. Nowadays organizations can store huge amounts of data, which can be accessible at any time. Big Data governance refers to the management of huge volumes of an organization&rsquo;s data, exploiting it in the organization&rsquo;s decision-making using different analytical tools. Big Data emergence provides great convenience, but it also brings challenges. Nevertheless, for Big Data governance, data has to be prepared in a timely manner, keeping in view the consistency and reliability of the data, and being able to trust its source and the meaningfulness of the result. Hence, a framework for Big Data governance would have many advantages. There are Big Data governance frameworks, which guide the management of Big Data. However, there are also limitations associated with these frameworks. Therefore, this study aims to explore the existing Big Data governance frameworks and their shortcomings, and propose a new framework. The proposed framework consists of eight components. As a framework validation, the proposed framework has been compared with the ISO 8000 data governance framework."
+        }
+      ]
+    },
+    {
+      "query": "How do these features influence the development of sustainable artificial intelligence?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.608187198638916,
+          "doc_id": "95",
+          "text": "Sustainable artificial intelligence: A corporate culture perspective AbstractIn recent years, various studies have highlighted the opportunities of artificial intelligence (AI) for our society. For example, AI solutions can help reduce pollution, waste, or carbon footprints. On the other hand, there are also risks associated with the use of AI, such as increasing inequality in society or high resource consumption for computing power. This paper explores the question how corporate culture influences the use of artificial intelligence in terms of sustainable development. This type of use includes a normative element and is referred to in the paper as sustainable artificial intelligence (SAI). Based on a bibliometric literature analysis, we identify features of a sustainability-oriented corporate culture. We offer six propositions examining the influence of specific manifestations on the handling of AI in the sense of SAI. Thus, if companies want to ensure that SAI is realized, corporate culture appears as an important indicator and influencing factor at the same time."
+        },
+        {
+          "rank": 2,
+          "score": 0.5376105904579163,
+          "doc_id": "77",
+          "text": "Understanding the Structure of Artificial Intelligence Conscience Purpose This study aims to construct a structure for application to artificial intelligence by analyzing the characteristics of conscience that act as an element of moral behavior. It focuses on enhancing understanding of the structure of artificial intelligence conscience and providing insights for future development of conscience algorithms. Method This study examines in detail the academic concepts and structural properties of conscience. Reviewing the academic literature and the latest data, we propose the structure of artificial intelligence conscience. Results Through the phrase, we found that in order to construct the conscience of artificial intelligence, an algorithm must be constructed by considering the cognitive and emotional aspects. And in the process of constructing an artificial intelligence conscience algorithm, we confirmed that differentiated characteristics should be reflected depending on the situation and the object. Conclusion The value judgment of artificial intelligence is already being realized on universal standards. At the AGI level, in order to achieve value judgment, an algorithm that reflects conscience must be constructed to be close to human value judgment. For this, it is necessary to construct data and algorithms on the situation of value judgment and the relationship with the object."
+        },
+        {
+          "rank": 3,
+          "score": 0.5295270681381226,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence AbstractThis paper addresses the relations between information retrieval (IR) and AI. It examines document retrieval, summarising its essential features and illustrating the state of its art by presenting one probabilistic model in detail, with some test results showing its value. The paper then analyses this model and related successful approaches, concentrating on and justifying their use of weak, redundant representation and reasoning. It goes on to other information management tasks and considers how the concepts and methods developed for retrieval may be applied to these, concluding by arguing that such ways of dealing with information may also have wider relevance to AI."
+        },
+        {
+          "rank": 4,
+          "score": 0.5235002636909485,
+          "doc_id": "60",
+          "text": "Artificial intelligence AI has been well supported by government research and development dollars for decades now, and people are beginning to ask hard questions: What really works? What are the limits? What doesn't work as advertised? What isn't likely to work? What isn't affordable? This article holds a mirror up to the community, both to provide feedback and stimulate more self-assessment. The significant accomplishments and strengths of the field are highlighted. The research agenda, strategy, and heuristics are reviewed, and a change of course is recommended to improve the field's ability to produce reusable and interoperable components.(Author abstract)"
+        },
+        {
+          "rank": 5,
+          "score": 0.5199378728866577,
+          "doc_id": "170",
+          "text": "Swarm Intelligence and Artificial Life Swarm intelligence and artificial life have been developed rapidly in the last decade. As two artificial intelligence patterns, they open out the living phenomena and evolutive rules in different hierarchies by simulating natural living phenomena , and provide a new kind of thought for complicated behaviors modeling and simulation The origin and development of swarm intelligence and artificial life are reviewed in this paper. The difference and relation between them are analysed and the future of them is also speculated about."
+        },
+        {
+          "rank": 6,
+          "score": 0.5094077587127686,
+          "doc_id": "212",
+          "text": "Exploring Artificial Intelligence Futures Artificial intelligence technologies are receiving high levels of attention and ‘hype’, leading to a range of speculation about futures in which such technologies, and their successors, are commonly deployed. By looking at existing AI futures work, this paper surveys, and offers an initial categorisation of, several of the tools available for such futures-exploration, in particular those available to humanities scholars, and discusses some of the benefits and limitations of each. While no tools exist to reliably predict the future of artificial intelligence, several tools can help us expand our range of possible futures in order to reduce unexpected surprises, and to create common languages and models that enable constructive conversations about the kinds of futures we would like to occupy or avoid. The paper points at several tools as particularly promising and currently neglected, calling for more work in data-driven, realistic, integrative, and participatory scenario role-plays."
+        },
+        {
+          "rank": 7,
+          "score": 0.506362795829773,
+          "doc_id": "122",
+          "text": "Artificial Agential Intelligence Since artificial intelligence (AI) emerged in the mid-20th century, it has incurred many theoretical criticisms (Dreyfus, H. [1972] What Computers Can&rsquo;t Do (MIT Press, New York); Dreyfus, H. [1992] What Computers Still Can&rsquo;t Do (MIT Press, New York); Searle, J. [1980] Minds, brains and programs, Behav. Brain Sci.3, 417-457; Searle, J. [1984] Minds, Brains and Sciences (Harvard University Press, Cambridge, MA); Searle, J. [1992] The Rediscovery of the Mind (MIT Press, Cambridge, MA); Fodor, J. [2002] The Mind Doesn&rsquo;t Work that Way: The Scope and Limits of Computational Psychology (MIT Press, Cambridge, MA).). The technical improvements of machine learning and deep learning, though, have been continuing and many breakthroughs have occurred recently. This makes theoretical considerations urgent again: can this new wave of AI fare better than its precursors in emulating or even having human-like minds? I propose a cautious yet positive hypothesis: current AI might create human-like mind, but only if it incorporates certain conceptual rewiring: it needs to shift from a task-based to an agent-based framework, which can be dubbed &ldquo;Artificial Agential Intelligence&rdquo; (AAI). It comprises practical reason (McDowell, J. [1979] Virtue and reason, Monist62(3), 331-350; McDowell, J. [1996] Mind and World (Harvard University Press, Cambridge, MA)), imaginative understanding (Campbell, J. [2020] Causation in Psychology (Harvard University Press, Cambridge, MA)), and animal knowledge (Sosa, E. [2007] A Virtue Epistemology: Apt Belief and Reflective Knowledge, volume 1 (Oxford University Press, Oxford, UK); Sosa, E. [2015] Judgment and Agency (Oxford University Press, Cambridge, MA)). Moreover, I will explore whether and in what way neuroscience-inspired AI and predictive coding (Hassabis, D., Kumaran, D., Summerfield, C., &amp; Botvinick, M. [2017] Neuroscience-inspired artificial intelligence, Neuron95(2), 245-258) can help carry out this project."
+        },
+        {
+          "rank": 8,
+          "score": 0.5023455619812012,
+          "doc_id": "40",
+          "text": "Human- versus Artificial Intelligence AI is one of the most debated subjects of today and there seems little common understanding concerning the differences and similarities of human intelligence and artificial intelligence. Discussions on many relevant topics, such as trustworthiness, explainability, and ethics are characterized by implicit anthropocentric and anthropomorphistic conceptions and, for instance, the pursuit of human-like intelligence as the golden standard for Artificial Intelligence. In order to provide more agreement and to substantiate possible future research objectives, this paper presents three notions on the similarities and differences between human- and artificial intelligence: 1) the fundamental constraints of human (and artificial) intelligence, 2) human intelligence as one of many possible forms of general intelligence, and 3) the high potential impact of multiple (integrated) forms of narrow-hybrid AI applications. For the time being, AI systems will have fundamentally different cognitive qualities and abilities than biological systems. For this reason, a most prominent issue is how we can use (and &ldquo;collaborate&rdquo; with) these systems as effectively as possible? For what tasks and under what conditions, decisions are safe to leave to AI and when is human judgment required? How can we capitalize on the specific strengths of human- and artificial intelligence? How to deploy AI systems effectively to complement and compensate for the inherent constraints of human cognition (and vice versa)? Should we pursue the development of AI &ldquo;partners&rdquo; with human (-level) intelligence or should we focus more at supplementing human limitations? In order to answer these questions, humans working with AI systems in the workplace or in policy making have to develop an adequate mental model of the underlying &lsquo;psychological&rsquo; mechanisms of AI. So, in order to obtain well-functioning human-AI systems, Intelligence Awareness in humans should be addressed more vigorously. For this purpose a first framework for educational content is proposed."
+        },
+        {
+          "rank": 9,
+          "score": 0.5019434690475464,
+          "doc_id": "1",
+          "text": "The Importance of Artificial Intelligence to Economic Growth The rapid development of artificial intelligence technology has exerted a great influence on all fields of the world, which of course also affects the world economy. This has also aroused a large number of economists' interest in this proposition. Since the definition of artificial intelligence is not unified yet, the results from previous researches are not reliable enough. At present, most scholars use the neoclassical growth model or task-based model to explore the path of artificial intelligence on economic variables. There into, most of them use the degree of automation to represent the artificial intelligence. They find that the degree of automation can change the proportion of industries. This only verifies that artificial intelligence can affect the economic variables. But the magnitude of artificial intelligence on economic variables can not be correctly estimated. Therefore, in order to have a better understanding on the impact of artificial intelligence on economic growth, this paper systematically reviews and collates previous literature on this topic. The results of this paper indicate that both in theoretical and empirical studies, artificial intelligence has a positive effect on economic growth. Then, some suggestions and limitations have also been put forward accordingly."
+        },
+        {
+          "rank": 10,
+          "score": 0.49849003553390503,
+          "doc_id": "106",
+          "text": "Artificial intelligence AbstractArtificial intelligence (AI) is the Science and Engineering domain concerned with the theory and practice of developing systems that exhibit the characteristics we associate with intelligence in human behavior. Starting with a brief history of artificial intelligence, this article presents a general overview of this broad interdisciplinary field, organized around the main modules of the notional architecture of an intelligent agent (knowledge representation; problem solving and planning; knowledge acquisition and learning; natural language, speech, and vision; action processing and robotics) which highlights both the main areas of artificial intelligence research, development and application, and also their integration. WIREs Comput Stat 2012, 4:168-180. doi: 10.1002/wics.200This article is categorized under: Software for Computational Statistics > Artificial Intelligence and Expert Systems"
+        }
+      ]
+    },
+    {
+      "query": "How do these features influence the management of sustainable artificial intelligence?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 2
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6168028712272644,
+          "doc_id": "95",
+          "text": "Sustainable artificial intelligence: A corporate culture perspective AbstractIn recent years, various studies have highlighted the opportunities of artificial intelligence (AI) for our society. For example, AI solutions can help reduce pollution, waste, or carbon footprints. On the other hand, there are also risks associated with the use of AI, such as increasing inequality in society or high resource consumption for computing power. This paper explores the question how corporate culture influences the use of artificial intelligence in terms of sustainable development. This type of use includes a normative element and is referred to in the paper as sustainable artificial intelligence (SAI). Based on a bibliometric literature analysis, we identify features of a sustainability-oriented corporate culture. We offer six propositions examining the influence of specific manifestations on the handling of AI in the sense of SAI. Thus, if companies want to ensure that SAI is realized, corporate culture appears as an important indicator and influencing factor at the same time."
+        },
+        {
+          "rank": 2,
+          "score": 0.5472602844238281,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence AbstractThis paper addresses the relations between information retrieval (IR) and AI. It examines document retrieval, summarising its essential features and illustrating the state of its art by presenting one probabilistic model in detail, with some test results showing its value. The paper then analyses this model and related successful approaches, concentrating on and justifying their use of weak, redundant representation and reasoning. It goes on to other information management tasks and considers how the concepts and methods developed for retrieval may be applied to these, concluding by arguing that such ways of dealing with information may also have wider relevance to AI."
+        },
+        {
+          "rank": 3,
+          "score": 0.5379456281661987,
+          "doc_id": "77",
+          "text": "Understanding the Structure of Artificial Intelligence Conscience Purpose This study aims to construct a structure for application to artificial intelligence by analyzing the characteristics of conscience that act as an element of moral behavior. It focuses on enhancing understanding of the structure of artificial intelligence conscience and providing insights for future development of conscience algorithms. Method This study examines in detail the academic concepts and structural properties of conscience. Reviewing the academic literature and the latest data, we propose the structure of artificial intelligence conscience. Results Through the phrase, we found that in order to construct the conscience of artificial intelligence, an algorithm must be constructed by considering the cognitive and emotional aspects. And in the process of constructing an artificial intelligence conscience algorithm, we confirmed that differentiated characteristics should be reflected depending on the situation and the object. Conclusion The value judgment of artificial intelligence is already being realized on universal standards. At the AGI level, in order to achieve value judgment, an algorithm that reflects conscience must be constructed to be close to human value judgment. For this, it is necessary to construct data and algorithms on the situation of value judgment and the relationship with the object."
+        },
+        {
+          "rank": 4,
+          "score": 0.5211514234542847,
+          "doc_id": "40",
+          "text": "Human- versus Artificial Intelligence AI is one of the most debated subjects of today and there seems little common understanding concerning the differences and similarities of human intelligence and artificial intelligence. Discussions on many relevant topics, such as trustworthiness, explainability, and ethics are characterized by implicit anthropocentric and anthropomorphistic conceptions and, for instance, the pursuit of human-like intelligence as the golden standard for Artificial Intelligence. In order to provide more agreement and to substantiate possible future research objectives, this paper presents three notions on the similarities and differences between human- and artificial intelligence: 1) the fundamental constraints of human (and artificial) intelligence, 2) human intelligence as one of many possible forms of general intelligence, and 3) the high potential impact of multiple (integrated) forms of narrow-hybrid AI applications. For the time being, AI systems will have fundamentally different cognitive qualities and abilities than biological systems. For this reason, a most prominent issue is how we can use (and &ldquo;collaborate&rdquo; with) these systems as effectively as possible? For what tasks and under what conditions, decisions are safe to leave to AI and when is human judgment required? How can we capitalize on the specific strengths of human- and artificial intelligence? How to deploy AI systems effectively to complement and compensate for the inherent constraints of human cognition (and vice versa)? Should we pursue the development of AI &ldquo;partners&rdquo; with human (-level) intelligence or should we focus more at supplementing human limitations? In order to answer these questions, humans working with AI systems in the workplace or in policy making have to develop an adequate mental model of the underlying &lsquo;psychological&rsquo; mechanisms of AI. So, in order to obtain well-functioning human-AI systems, Intelligence Awareness in humans should be addressed more vigorously. For this purpose a first framework for educational content is proposed."
+        },
+        {
+          "rank": 5,
+          "score": 0.514182984828949,
+          "doc_id": "122",
+          "text": "Artificial Agential Intelligence Since artificial intelligence (AI) emerged in the mid-20th century, it has incurred many theoretical criticisms (Dreyfus, H. [1972] What Computers Can&rsquo;t Do (MIT Press, New York); Dreyfus, H. [1992] What Computers Still Can&rsquo;t Do (MIT Press, New York); Searle, J. [1980] Minds, brains and programs, Behav. Brain Sci.3, 417-457; Searle, J. [1984] Minds, Brains and Sciences (Harvard University Press, Cambridge, MA); Searle, J. [1992] The Rediscovery of the Mind (MIT Press, Cambridge, MA); Fodor, J. [2002] The Mind Doesn&rsquo;t Work that Way: The Scope and Limits of Computational Psychology (MIT Press, Cambridge, MA).). The technical improvements of machine learning and deep learning, though, have been continuing and many breakthroughs have occurred recently. This makes theoretical considerations urgent again: can this new wave of AI fare better than its precursors in emulating or even having human-like minds? I propose a cautious yet positive hypothesis: current AI might create human-like mind, but only if it incorporates certain conceptual rewiring: it needs to shift from a task-based to an agent-based framework, which can be dubbed &ldquo;Artificial Agential Intelligence&rdquo; (AAI). It comprises practical reason (McDowell, J. [1979] Virtue and reason, Monist62(3), 331-350; McDowell, J. [1996] Mind and World (Harvard University Press, Cambridge, MA)), imaginative understanding (Campbell, J. [2020] Causation in Psychology (Harvard University Press, Cambridge, MA)), and animal knowledge (Sosa, E. [2007] A Virtue Epistemology: Apt Belief and Reflective Knowledge, volume 1 (Oxford University Press, Oxford, UK); Sosa, E. [2015] Judgment and Agency (Oxford University Press, Cambridge, MA)). Moreover, I will explore whether and in what way neuroscience-inspired AI and predictive coding (Hassabis, D., Kumaran, D., Summerfield, C., &amp; Botvinick, M. [2017] Neuroscience-inspired artificial intelligence, Neuron95(2), 245-258) can help carry out this project."
+        },
+        {
+          "rank": 6,
+          "score": 0.5117999911308289,
+          "doc_id": "27",
+          "text": "Synthesizing cellular intelligence and artificial intelligence for bioprocesses AbstractMicrobial processes operated under realistic conditions are difficult to describe by mechanistic models, thereby limiting their optimization and control. Responses of living cells to their environment suggest that they possess some &ldquo;innate intelligence&rdquo;. Such responses have been modeled by a cybernetic approach. Furthermore, the overall behavior of a bioreactor containing a population of cells may be described and controlled through artificial intelligence methods. Therefore, it seems logical to combine cybernetic models with artificial intelligence to evolve an integrated intelligence-based strategy that is physiologically more faithful than the current approaches. This possibility is discussed, together with practical considerations favoring a hybrid approach that includes some mathematical modeling."
+        },
+        {
+          "rank": 7,
+          "score": 0.5113766193389893,
+          "doc_id": "106",
+          "text": "Artificial intelligence AbstractArtificial intelligence (AI) is the Science and Engineering domain concerned with the theory and practice of developing systems that exhibit the characteristics we associate with intelligence in human behavior. Starting with a brief history of artificial intelligence, this article presents a general overview of this broad interdisciplinary field, organized around the main modules of the notional architecture of an intelligent agent (knowledge representation; problem solving and planning; knowledge acquisition and learning; natural language, speech, and vision; action processing and robotics) which highlights both the main areas of artificial intelligence research, development and application, and also their integration. WIREs Comput Stat 2012, 4:168-180. doi: 10.1002/wics.200This article is categorized under: Software for Computational Statistics > Artificial Intelligence and Expert Systems"
+        },
+        {
+          "rank": 8,
+          "score": 0.5090659856796265,
+          "doc_id": "170",
+          "text": "Swarm Intelligence and Artificial Life Swarm intelligence and artificial life have been developed rapidly in the last decade. As two artificial intelligence patterns, they open out the living phenomena and evolutive rules in different hierarchies by simulating natural living phenomena , and provide a new kind of thought for complicated behaviors modeling and simulation The origin and development of swarm intelligence and artificial life are reviewed in this paper. The difference and relation between them are analysed and the future of them is also speculated about."
+        },
+        {
+          "rank": 9,
+          "score": 0.5084030628204346,
+          "doc_id": "60",
+          "text": "Artificial intelligence AI has been well supported by government research and development dollars for decades now, and people are beginning to ask hard questions: What really works? What are the limits? What doesn't work as advertised? What isn't likely to work? What isn't affordable? This article holds a mirror up to the community, both to provide feedback and stimulate more self-assessment. The significant accomplishments and strengths of the field are highlighted. The research agenda, strategy, and heuristics are reviewed, and a change of course is recommended to improve the field's ability to produce reusable and interoperable components.(Author abstract)"
+        },
+        {
+          "rank": 10,
+          "score": 0.5032362341880798,
+          "doc_id": "212",
+          "text": "Exploring Artificial Intelligence Futures Artificial intelligence technologies are receiving high levels of attention and ‘hype’, leading to a range of speculation about futures in which such technologies, and their successors, are commonly deployed. By looking at existing AI futures work, this paper surveys, and offers an initial categorisation of, several of the tools available for such futures-exploration, in particular those available to humanities scholars, and discusses some of the benefits and limitations of each. While no tools exist to reliably predict the future of artificial intelligence, several tools can help us expand our range of possible futures in order to reduce unexpected surprises, and to create common languages and models that enable constructive conversations about the kinds of futures we would like to occupy or avoid. The paper points at several tools as particularly promising and currently neglected, calling for more work in data-driven, realistic, integrative, and participatory scenario role-plays."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

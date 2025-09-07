@@ -1,0 +1,221 @@
+{
+  "id": "row_000019",
+  "model_name": "BAAI/bge-m3",
+  "timestamp_kst": "2025-09-07T16:10:10.305602+09:00",
+  "trial_id": "e32ecd43",
+  "queries": [
+    {
+      "query": "패키징 분야에서의 빅데이터 분석 기법과 소비자 인식 분석 방안을 요약해 주세요.",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.675263524055481,
+          "doc_id": "165",
+          "text": "패키징(Packaging) 분야에서의 빅데이터(Big data) 적용방안 연구"
+        },
+        {
+          "rank": 2,
+          "score": 0.5432746410369873,
+          "doc_id": "62",
+          "text": "Utilization and Analysis of Big-data"
+        },
+        {
+          "rank": 3,
+          "score": 0.5329352021217346,
+          "doc_id": "225",
+          "text": "Speech Recognition using Machine Learning"
+        },
+        {
+          "rank": 4,
+          "score": 0.5314157009124756,
+          "doc_id": "78",
+          "text": "Data learning from big data"
+        },
+        {
+          "rank": 5,
+          "score": 0.53110271692276,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence"
+        },
+        {
+          "rank": 6,
+          "score": 0.528150200843811,
+          "doc_id": "87",
+          "text": "Big Data Analysis and Machine Learning in Intensive Care Units"
+        },
+        {
+          "rank": 7,
+          "score": 0.5267185568809509,
+          "doc_id": "88",
+          "text": "Machine learning on Big Data"
+        },
+        {
+          "rank": 8,
+          "score": 0.5228556394577026,
+          "doc_id": "228",
+          "text": "항공분야의 인공지능"
+        },
+        {
+          "rank": 9,
+          "score": 0.5211344361305237,
+          "doc_id": "116",
+          "text": "IT 기반의 convergence 제품의 구입태도에 대한 연구"
+        },
+        {
+          "rank": 10,
+          "score": 0.520028293132782,
+          "doc_id": "76",
+          "text": "Big Data, Big Knowledge: Big Data for Personalized Healthcare"
+        }
+      ]
+    },
+    {
+      "query": "패키징 분야에서 활용되는 빅데이터 분석 기법은 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7608877420425415,
+          "doc_id": "165",
+          "text": "패키징(Packaging) 분야에서의 빅데이터(Big data) 적용방안 연구"
+        },
+        {
+          "rank": 2,
+          "score": 0.5805140733718872,
+          "doc_id": "62",
+          "text": "Utilization and Analysis of Big-data"
+        },
+        {
+          "rank": 3,
+          "score": 0.5597588419914246,
+          "doc_id": "78",
+          "text": "Data learning from big data"
+        },
+        {
+          "rank": 4,
+          "score": 0.559288501739502,
+          "doc_id": "32",
+          "text": "빅데이터 처리 프로세스에 따른 빅데이터 위험요인 분석"
+        },
+        {
+          "rank": 5,
+          "score": 0.553420901298523,
+          "doc_id": "88",
+          "text": "Machine learning on Big Data"
+        },
+        {
+          "rank": 6,
+          "score": 0.5513647794723511,
+          "doc_id": "161",
+          "text": "Big Data 활용을 위한 제조 품질 개선 방법에 대한 연구"
+        },
+        {
+          "rank": 7,
+          "score": 0.5503045320510864,
+          "doc_id": "87",
+          "text": "Big Data Analysis and Machine Learning in Intensive Care Units"
+        },
+        {
+          "rank": 8,
+          "score": 0.5471866130828857,
+          "doc_id": "144",
+          "text": "에너지 빅데이터를 수용하는 빅데이터 시스템 개발"
+        },
+        {
+          "rank": 9,
+          "score": 0.5461134910583496,
+          "doc_id": "228",
+          "text": "항공분야의 인공지능"
+        },
+        {
+          "rank": 10,
+          "score": 0.5407770872116089,
+          "doc_id": "202",
+          "text": "Machine learning"
+        }
+      ]
+    },
+    {
+      "query": "소비자 인식 분석 방안에는 어떤 것들이 있나요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5424472093582153,
+          "doc_id": "116",
+          "text": "IT 기반의 convergence 제품의 구입태도에 대한 연구"
+        },
+        {
+          "rank": 2,
+          "score": 0.5232670307159424,
+          "doc_id": "68",
+          "text": "인공지능 생성 콘텐츠(Artificial Intelligence Generated Content)와 인공지능 사용 공개(Artificial Intelligence Disclaimer)에 대한 소비자 인식 연구: 콘텐츠 가치와 형식을 중심으로"
+        },
+        {
+          "rank": 3,
+          "score": 0.5197346210479736,
+          "doc_id": "225",
+          "text": "Speech Recognition using Machine Learning"
+        },
+        {
+          "rank": 4,
+          "score": 0.5126715302467346,
+          "doc_id": "220",
+          "text": "딥 러닝기반 고객평점 예측모델"
+        },
+        {
+          "rank": 5,
+          "score": 0.5064402222633362,
+          "doc_id": "125",
+          "text": "An overview of deep learning techniques"
+        },
+        {
+          "rank": 6,
+          "score": 0.502228319644928,
+          "doc_id": "147",
+          "text": "A Survey of Topological Machine Learning Methods"
+        },
+        {
+          "rank": 7,
+          "score": 0.5003044605255127,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence"
+        },
+        {
+          "rank": 8,
+          "score": 0.4991719126701355,
+          "doc_id": "216",
+          "text": "A Study on Artificial Intelligence"
+        },
+        {
+          "rank": 9,
+          "score": 0.49772006273269653,
+          "doc_id": "126",
+          "text": "Exploring Big Data Governance Frameworks"
+        },
+        {
+          "rank": 10,
+          "score": 0.4929791986942291,
+          "doc_id": "121",
+          "text": "Deep Learning을 기반으로 한 Feature Extraction 알고리즘의 분석"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

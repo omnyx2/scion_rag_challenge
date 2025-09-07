@@ -1,0 +1,291 @@
+{
+  "id": "row_000048",
+  "model_name": "BAAI/bge-m3",
+  "timestamp_kst": "2025-09-07T16:10:15.066880+09:00",
+  "trial_id": "9d7e0c8f",
+  "queries": [
+    {
+      "query": "잡음 환경에서 시청각 음성인식의 인식률을 높이기 위해 은닉 마르코프 모델과 신경망 통합 전략이 어떻게 구성되었는지 간략히 설명해 주실 수 있나요?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5437905788421631,
+          "doc_id": "225",
+          "text": "Speech Recognition using Machine Learning"
+        },
+        {
+          "rank": 2,
+          "score": 0.5087281465530396,
+          "doc_id": "75",
+          "text": "MACHINE LEARNING"
+        },
+        {
+          "rank": 3,
+          "score": 0.49884673953056335,
+          "doc_id": "216",
+          "text": "A Study on Artificial Intelligence"
+        },
+        {
+          "rank": 4,
+          "score": 0.4947311282157898,
+          "doc_id": "202",
+          "text": "Machine learning"
+        },
+        {
+          "rank": 5,
+          "score": 0.4857661724090576,
+          "doc_id": "45",
+          "text": "Measuring Intelligence in Natural and Artificial Systems"
+        },
+        {
+          "rank": 6,
+          "score": 0.4855668544769287,
+          "doc_id": "147",
+          "text": "A Survey of Topological Machine Learning Methods"
+        },
+        {
+          "rank": 7,
+          "score": 0.48264554142951965,
+          "doc_id": "183",
+          "text": "구성적 인공지능"
+        },
+        {
+          "rank": 8,
+          "score": 0.473621129989624,
+          "doc_id": "185",
+          "text": "Topology optimization via machine learning and deep learning: a review"
+        },
+        {
+          "rank": 9,
+          "score": 0.47283947467803955,
+          "doc_id": "78",
+          "text": "Data learning from big data"
+        },
+        {
+          "rank": 10,
+          "score": 0.47247740626335144,
+          "doc_id": "174",
+          "text": "Self-Imitation Learning을 이용한 개선된 Deep Q-Network 알고리즘"
+        }
+      ]
+    },
+    {
+      "query": "잡음 환경에서 시청각 음성인식의 인식률을 높이기 위한 통합 전략에서 은닉 마르코프 모델(HMM)은 어떤 역할을 수행하나요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5495781898498535,
+          "doc_id": "225",
+          "text": "Speech Recognition using Machine Learning"
+        },
+        {
+          "rank": 2,
+          "score": 0.5116869211196899,
+          "doc_id": "75",
+          "text": "MACHINE LEARNING"
+        },
+        {
+          "rank": 3,
+          "score": 0.5011972784996033,
+          "doc_id": "202",
+          "text": "Machine learning"
+        },
+        {
+          "rank": 4,
+          "score": 0.4878249764442444,
+          "doc_id": "88",
+          "text": "Machine learning on Big Data"
+        },
+        {
+          "rank": 5,
+          "score": 0.4837009906768799,
+          "doc_id": "70",
+          "text": "Machine Learning in Predicting Hemoglobin Variants"
+        },
+        {
+          "rank": 6,
+          "score": 0.480814129114151,
+          "doc_id": "152",
+          "text": "Deep Learning in MR Image Processing"
+        },
+        {
+          "rank": 7,
+          "score": 0.4788903295993805,
+          "doc_id": "147",
+          "text": "A Survey of Topological Machine Learning Methods"
+        },
+        {
+          "rank": 8,
+          "score": 0.47779610753059387,
+          "doc_id": "78",
+          "text": "Data learning from big data"
+        },
+        {
+          "rank": 9,
+          "score": 0.475546658039093,
+          "doc_id": "216",
+          "text": "A Study on Artificial Intelligence"
+        },
+        {
+          "rank": 10,
+          "score": 0.46800896525382996,
+          "doc_id": "183",
+          "text": "구성적 인공지능"
+        }
+      ]
+    },
+    {
+      "query": "잡음 환경에서 시청각 음성인식의 인식률을 높이기 위한 통합 전략에서 신경망(NN)은 어떤 역할을 수행하나요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5345776677131653,
+          "doc_id": "225",
+          "text": "Speech Recognition using Machine Learning"
+        },
+        {
+          "rank": 2,
+          "score": 0.5069403052330017,
+          "doc_id": "216",
+          "text": "A Study on Artificial Intelligence"
+        },
+        {
+          "rank": 3,
+          "score": 0.4930371344089508,
+          "doc_id": "202",
+          "text": "Machine learning"
+        },
+        {
+          "rank": 4,
+          "score": 0.4912119507789612,
+          "doc_id": "75",
+          "text": "MACHINE LEARNING"
+        },
+        {
+          "rank": 5,
+          "score": 0.4908408522605896,
+          "doc_id": "45",
+          "text": "Measuring Intelligence in Natural and Artificial Systems"
+        },
+        {
+          "rank": 6,
+          "score": 0.4863310158252716,
+          "doc_id": "156",
+          "text": "눈 특징의 STFT 결합 영상과 deep learning을 이용한 감성 인식"
+        },
+        {
+          "rank": 7,
+          "score": 0.4811912477016449,
+          "doc_id": "103",
+          "text": "Artificial Intelligence in Neuroimaging: Clinical Applications"
+        },
+        {
+          "rank": 8,
+          "score": 0.4804491102695465,
+          "doc_id": "204",
+          "text": "Artificial intelligence and Big Data in neurology"
+        },
+        {
+          "rank": 9,
+          "score": 0.47878581285476685,
+          "doc_id": "88",
+          "text": "Machine learning on Big Data"
+        },
+        {
+          "rank": 10,
+          "score": 0.47536033391952515,
+          "doc_id": "151",
+          "text": "마음,지능,인공지능"
+        }
+      ]
+    },
+    {
+      "query": "은닉 마르코프 모델(HMM)과 신경망(NN)은 잡음 환경 시청각 음성인식의 인식률 향상을 위한 통합 전략에서 구체적으로 어떻게 결합되거나 통합되나요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 2
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5376580953598022,
+          "doc_id": "225",
+          "text": "Speech Recognition using Machine Learning"
+        },
+        {
+          "rank": 2,
+          "score": 0.5193121433258057,
+          "doc_id": "202",
+          "text": "Machine learning"
+        },
+        {
+          "rank": 3,
+          "score": 0.5187877416610718,
+          "doc_id": "75",
+          "text": "MACHINE LEARNING"
+        },
+        {
+          "rank": 4,
+          "score": 0.5091344714164734,
+          "doc_id": "47",
+          "text": "Econometrics and Machine Learning"
+        },
+        {
+          "rank": 5,
+          "score": 0.4913126528263092,
+          "doc_id": "174",
+          "text": "Self-Imitation Learning을 이용한 개선된 Deep Q-Network 알고리즘"
+        },
+        {
+          "rank": 6,
+          "score": 0.48884135484695435,
+          "doc_id": "151",
+          "text": "마음,지능,인공지능"
+        },
+        {
+          "rank": 7,
+          "score": 0.48701566457748413,
+          "doc_id": "88",
+          "text": "Machine learning on Big Data"
+        },
+        {
+          "rank": 8,
+          "score": 0.4866563379764557,
+          "doc_id": "104",
+          "text": "Deep learning"
+        },
+        {
+          "rank": 9,
+          "score": 0.48467549681663513,
+          "doc_id": "147",
+          "text": "A Survey of Topological Machine Learning Methods"
+        },
+        {
+          "rank": 10,
+          "score": 0.4813225269317627,
+          "doc_id": "70",
+          "text": "Machine Learning in Predicting Hemoglobin Variants"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

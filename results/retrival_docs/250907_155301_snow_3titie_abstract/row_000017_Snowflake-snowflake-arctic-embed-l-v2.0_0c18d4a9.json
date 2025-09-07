@@ -1,0 +1,151 @@
+{
+  "id": "row_000017",
+  "model_name": "Snowflake/snowflake-arctic-embed-l-v2.0",
+  "timestamp_kst": "2025-09-07T15:53:04.075109+09:00",
+  "trial_id": "0c18d4a9",
+  "queries": [
+    {
+      "query": "DTG 실 주행데이터와 공간정보를 활용한 연료소모량 추정 모델 SBiFEM의 핵심 구성 요소를 요약해 주세요.",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6653919219970703,
+          "doc_id": "21",
+          "text": "DTG 실 주행데이터 및 공간정보를 이용한 빅데이터 기반 연료소모량 추정 모델 연구 DTG 실 주행데이터 및 공간정보를 이용한 빅데이터 기반 연료소모량 추정 모델 연구 DTG 실 주행데이터 및 공간정보를 이용한 빅데이터 기반 연료소모량 추정 모델 연구 한국에서 교통사고를 줄이는 목적으로 디지털운행기록계(DTG) 장치가 모든 상용차량에 의무 장착이 되어 GPS 궤적을 포함한 많은 양의 운행기록 데이터가 생성되고 있다. 지금까지 이러한 DTG 데이터는 주로 교통안전운전을 유도하는 용도로 사용되어왔다. 그러나 DTG데이터는 연료소모량을 줄일 수 있는 에코드라이빙 분야 등 다양한 분야로 활용도를 확대할 수 있다. 본 연구는 실제 운행한 대규모 DTG운행 데이터를 공간 빅데이터 분석을 통해 연료소모량을 추정할 수 있는 모델을 수립하는 연구이다. 기존의 연료소모량 추정 모델은 주로 실험실 환경 또는 일부 지역에 국한되어 검증한 모델로 실제 운행되는 상용차량 대상으로 분석할 경우 수집하기 어려운 변수들이 많고, 한국의 전국을 운행한 다양한 운행기록 데이터를 적용하면 정확도가 낮아지는 문제점이 있다. 본 연구에서는 이러한 문제를 개선하기 위해 DTG데이터와 공간 빅데이터를 이용한 연료소모량 추정 모델인 SBiFEM(Spatial Big Data Fuel Estimation Model)을 제안하였다. SBiFEM은 운전자 운행특성 및 도로의 다양한 환경정보를 반영하기 위해 운행 패턴과 공간 빅데이터 맵매칭 기술을 이용해 다양한 도로정보들을 입력변수로 추가 활용하는 분석 방법이다. 본 연구에서는 전처리, 공간빅데이터, 운행 패턴 생성에 이르는 전 과정에서 빅데이터 Map Reduce를 활용하는 공간빅데이터 분석 프로세스를 다음과 같이 수립하고 구현, 검증을 하였다. 첫째로, 전처리 기술 고도화이다. 센싱 데이터 및 GPS공간데이터 특성상 많은 양의 이상치 데이터(Outlier)가 존재하고 있어 이를 정제하지 않으면 분석결과도 신뢰할 수 없다. 이를 위해 통계기법 및 운행 패턴 분석을 이용한 필터링 기법을 연구하였다. 둘째로, 대량의 GPS궤적 데이터를 이용한 공간빅데이터 분석 체계이다. 차량 이동 데이터를 분석하기 위해서는 차량이 어느 도로에 위치 했는지를 알기 위한 전자지도와 매칭하는 맵매칭 기술이 필수적이다. 대부분의 맵매칭 기술은 실시간 내비게이션 용도로 주로 사용되어왔기 때문에 빠른 분석 속도를 요하는 빅데이터 분석에 적합하지 않다. 본 연구에서는 대량의 GPS궤적데이터를 전자지도에 매칭하는 빅데이터 맵매칭 기술을 연구하였다. 셋째로, 연료소모량을 추정하는 모델이다. 기존 추정 모델과의 차별점은 실제 운행환경을 반영하기 위한 변수들을 추가했다는 것이다. 한 종류는 차량 운행특성을 반영하는 운행 패턴이고, 또 한 종류는 전국의 다양한 도로 환경 정보이다. 이러한 도로 환경정보를 반영하기 위해 맵매칭 공간빅데이터 프로세스를 이용하였다. SBiFEM 빅데이터 분석시스템 테스트 및 검증은 5대의 분산 서버에 Hadoop, HBase와 Map Reduce프로그램을 수행하여 성능 검증을 하였다. 또한 연료소모량 추정 모델 검증은 대표적인 연료소모량 및 배출가스 추정 모델인 SIDRA, VSP, VT-Micro등을 DTG데이터를 적용하여 분석한 결과와 본 연구의 모델을 적용한 결과를 비교하여 검증하였다. 비교결과 추정 값과 실제 값을 비교한 Correlation이 0.9169, MAPE(평균절대백분비오차)가 0.1846으로 본 연구의 모델 적용시 가장 우수하게 나와 본 논문에서 개발한 모델의 우수성을 검증하였다."
+        },
+        {
+          "rank": 2,
+          "score": 0.3986775279045105,
+          "doc_id": "8",
+          "text": "정보통신 융합기기 연계를 고려한 데이터 중심의 정보시스템 모델의 설계 및 분석 정보통신 융합기기 연계를 고려한 데이터 중심의 정보시스템 모델의 설계 및 분석 정보통신 융합기기 연계를 고려한 데이터 중심의 정보시스템 모델의 설계 및 분석 데이터 중심 정보시스템 구축 모델은 그간 정보화 사업 추진이 HW, SW기능 중심으로 이루어지던 것을, 데이터 구조 및 데이터 수집 배포 채널에 대한 체계적인 분석과 설계, 데이터표준 적용, 정보통신 융합기기의 데이터 설정의 유연성 확보 등의 고려하여 개선한 모델이다. 이 모델의 주요 특성인 정보통신 융합기기에 데이터 유연성이 보장되는 개선 효과에 대해 센서와 반응기로 구분하여 이들 기기에 새로운 정보시스템이 추가적으로 연계되는 상황을 가정하여 시스템 개선 복잡도와 네트워크 환경에 대한 지수를 산정하여 기존의 일반적인 구축 방식과 비교하였다. 본 모델을 확산함으로써, 일반 업무용 정보시스템 외에 나날이 늘어나는 정보기술 융 복합 기기들이 처리하는 데이터에 대해서도 품질과 상호운용성을 통제하게 되어, 정보화 거버넌스의 영역 확대를 통해 종합적인 정보화 기획 및 성과 관리 등이 가능하게 되는 개선 효과가 있다."
+        },
+        {
+          "rank": 3,
+          "score": 0.34724360704421997,
+          "doc_id": "144",
+          "text": "에너지 빅데이터를 수용하는 빅데이터 시스템 개발 에너지 빅데이터를 수용하는 빅데이터 시스템 개발 에너지 빅데이터를 수용하는 빅데이터 시스템 개발 본 논문은 산업 현장과 민간에서 실시간으로 수집되는 에너지 빅데이터를 수용하는 빅데이터 시스템을 제안한다. 구축된 빅데이터 시스템은 하둡(Hadoop) 기반이며, 빅데이터 처리에 있어 인메모리(in-memory) 분산처리 컴퓨팅을 지원하는 스파크(Spark) 프레임워크가 동시에 적용되었다. 본문에서는 지역난방에 사용되는 열에너지 형태의 빅데이터에 초점을 두어, 입출력되는 에너지의 특성을 고려하며 실시간 수집되는 빅데이터를 적재, 관리, 처리 및 분석하는 방법을 다룬다. 이 때, 외부에서 유입되는 빅데이터는 시스템 내부에 설계된 관계형 데이터베이스 스키마에 따라 저장하고 관리되며, 저장된 빅데이터는 설정된 목적에 따라 처리하고 분석된다. 제안된 빅데이터 시스템과 더불어 지역난방과 관련한 복수의 실증현장으로부터 실시간으로 수집되는 열에너지 빅데이터에 대해 시스템이 활용된 사례를 기술한다."
+        },
+        {
+          "rank": 4,
+          "score": 0.3198615312576294,
+          "doc_id": "165",
+          "text": "패키징(Packaging) 분야에서의 빅데이터(Big data) 적용방안 연구 패키징(Packaging) 분야에서의 빅데이터(Big data) 적용방안 연구 패키징(Packaging) 분야에서의 빅데이터(Big data) 적용방안 연구 패키징 분야도 4차 산업혁명에 발 맞춰 IoT (Internet of Things), 빅데이터, 클라우드 및 소비자 기반 기술 등이 적용되어 스마트 패키징이 등장하고 있다. 정책, 예측, 마케팅, 디자인 등 다양한 분야에서 빅데이터 분석이 활용되고 있지만 패키징 분야에서의 연구는 아직 초보적 수준이다. 따라서 본 연구는 빅데이터를 패키징 분야에 적용하기 위해 선행연구과 관련서적을 통해 빅데이터의 정의와 연구에서 활용되는 데이터 수집, 저장, 분석방법을 정리하였고 패키징 분야에 적용할 수 있는 분석방법을 제시하였다. 오늘날 패키징 분야는 마케팅적 요소를 요구받고 있기 때문에 패키징에 대한 소비자의 인식을 파악할 필요가 있으며 빅데이터의 근원이 되는 5가지 데이터 중 사유데이터(private data)와 커뮤니티 데이터(community data)를 활용하여 소비자와 제품 간의 상호작용 분석하는데 활용하고자 한다. 패키징은 소비자의 관심을 끌기 위한 전략전인 도구로 사용되며 소비자의 구매위험을 줄이는 수단이 되기 때문에 패키징에 대한 소비자의 인식을 분석할 필요가 있다. 본 연구에서는 제품 개선을 위한 문제점 도출 과정에서 의미연결망 분석(Semantic Network Analysis)과 텍스트마이닝(Text mining)을 활용하여 제품을 구성하는 다양한 요소들을 파악하고 패키징 요소의 빈도분석을 거쳐 패키징의 영향력을 확인하는 방안과 저관여 제품을 대상으로 텍스트 마이닝(Text mining)과 오피니언 마이닝(Opinion Mining), 소셜 네트워크 분석(Social Network Analysis)을 통해 패키징에 대한 감정분석을 하여 동일한 제품군에서 소비자가 선호하는 패키징을 도출하는 방안을 제시하였다. 패키징은 제품을 구성하는 많은 요소들 중 하나이기 때문에 패키징이라는 단일 요소의 영향력을 파악하기란 쉽지 않지만 본 연구는 빅데이터를 활용하여 패키징에 대한 소비자의 인식과 감정을 분석하고 제품에서 패키징이 소비자에게 미치는 영향력을 분석할 수 있는 방안을 제시한 데 의의가 있다."
+        },
+        {
+          "rank": 5,
+          "score": 0.31977373361587524,
+          "doc_id": "55",
+          "text": "Navigating BAS-IT Convergence Navigating BAS-IT Convergence Navigating BAS-IT Convergence 없음"
+        },
+        {
+          "rank": 6,
+          "score": 0.3159672021865845,
+          "doc_id": "227",
+          "text": "Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 본 연구는 오늘날 산업 전반적으로 영향을 미치고 있는 디지탈 전환(Digital Transformation)의 기술 환경과 디지탈 전환의 산업적 창고관리 부분의 모델연구가 본 논문의 목적이다. &amp;#xD; &amp;#xD; 디지털 전환은 오랫동안 디지털화와 비슷하거나 또는 디지털 방식으로 저장할 수 있도록 기존 데이터 형태를 전환하는 것과 관련이 있다. 물론 이 점이 중요하긴 하지만, 이전의 디지털화는 최신 디지털 전환의 영역을 포함하지 않았었다.&amp;#xD; &amp;#xD; 특히 이번 연구에서는 Big Data를 중심으로 Warehouse Management System의 방향을 제시 하고자 한다."
+        },
+        {
+          "rank": 7,
+          "score": 0.31449681520462036,
+          "doc_id": "186",
+          "text": "Deep Semi-Supervised Learning 기반 컴퓨터 보조 진단 방법론 Deep Semi-Supervised Learning 기반 컴퓨터 보조 진단 방법론 Deep Semi-Supervised Learning 기반 컴퓨터 보조 진단 방법론 Medical image applications 분야는 가장 인기 있으며 적극적으로 연구되는 현대 Machine Learning 및 Deep Learning applications 중 하나의 분야로 부상되고 있다. Medical image analysis는 환자의 신체 영상의 획득과 의료 전문가의 진단 및 분석을 목적으로 한다. 여러 Machine Learning 방법론을 사용하면 다양한 질병을 진단할 수 있게 된다. 하지만, 보다 효율적이며 강인한 모델을 설계하기 위해서는 Label이 지정된 데이터 샘플이 필요하게 된다. &amp;#xD; 따라서, Label이 지정되지 않은 데이터를 활용하여 모델의 성능을 향상시키는 Medical image 분야에서 semi-supervised Learning의 연구가 활발히 이루어지고 있다. 본 연구에서는 2D 초음파 영상(CADe)와 KL-grade 무릎 방사선사(CADx) 분류에서 유방 병변 Segmentation을 위한 딥러닝 기술을 사용하여 Medical image analysis에서 개선된 Semi-Supervised CAD 시스템을 제안하였다. 본 논문에서는 residual 및 attention block을 통합한 residual-attention-based uncertainty-guided mean teacher framework를 제안한다. 높은 수준의 feature와 attention module의 flow를 가능하게 하여 deep network를 최적화하기 위한 residual은 학습 과정 중에서 가중치를 최적화하기 위해 모델의 focus를 향상시킨다. &amp;#xD; 또한, 본 논문에서는 semi-supervised 학습 방법을 사용하여 학습 과정에서 label이 지정되지 않은 데이터를 활용할 수 있는 가능성을 탐구한다. 특히, uncertainty-guided mean-teacher-student 구조를 활용하여 residual attention U-Net 모델의 학습 중 label이 지정되지 않은 샘플을 통합할 수 있는 가능성을 입증하였다. &amp;#xD; 따라서, label이 지정되지 않은 추가 데이터를 unsupervised 및 supervised 방식으로 활용할 수있는 semi-supervised multitask learning-based 학습 기반 접근 방식을 개발하였다. 구체적으로, 이 과정은 reconstruction에 대해서만 unsupervised 된 상태에서 먼저 학습된 dual-channel adversarial autoencoder를 제안한다. 본 연구는 supervised 방식으로 추가 데이터를 활용하기 위해 auxilary task를 도입하여 multi-task learning framework를 제안한다. 특히, leg side의 식별은 auxilary task로 사용되므로 CHECK 데이터셋과 같은 더 많은 데이터셋을 사용할 수 있게 된다. 따라서, 추가 데이터의 활용이 소수의 label된 데이터만 사용할 수 있는 KL-grade 분류에서 main task의 성능을 향상시킬 수 있음을 보여준다. &amp;#xD; 다양한 측면, 즉 전반적인 성능, label이 지정되지 않은 추가 샘플 및 auxiliary task의 효과, 강인한 분석 등에 대해 공개적으로 사용 가능한 두 개의 가장 큰 데이터셋에 대해 제안된 모델을 평가하였다. 제안된 모델은 각각 75.52%, 78.48%, 75.34%의 Accuracy, Recall, F1-Score를 달성하였다."
+        },
+        {
+          "rank": 8,
+          "score": 0.30924105644226074,
+          "doc_id": "71",
+          "text": "Compromise between Small Data and Big Data Compromise between Small Data and Big Data Compromise between Small Data and Big Data Purpose: The main purpose of this work was to present the problems of big data and to present how small data can be used as a complement to big data and its effects step by step in the big data through the concept of value chain. Recently, the big data market is growing rapidly around the world because data is processed on the basis of size, diversity, speed, accuracy and value. Specifically, this study focuses on its application to Jeju tourism. Research design, data, and methodology: The problems of big data were clearly presented using various real-world examples, and the verification of the compromise with small data and its effectiveness were conducted based on research papers discussing Jeju tourism using big data. The results of the study suggested the use of small data to solve and verify the representation of big data at the collection stage of the big data value chain, and the analysis stage suggested combining the identification of behavior patterns, the strengths of small data, and the exploration of causal relationships. Results: Among various stage, in the curation phase, a cause-and-effect analysis using small data suggested a solution to the problem of mistaking the correlation of big data as causality, and in the storage phase, a policy plan using small data was proposed to solve the problem of privacy infringement. The most important part of this study was the application stage, which discussed the specific problems of big data and the possibility of compromise between small data. As well, in the utilization phase, a combination of correlation and causality, as in the curation phase, was proposed. Conclusions: As an implication of this study, we used specific examples to present synergies when big data is compromised with small data. It also showed that the compromised use of big data and small data can contribute not only in terms of research but also in terms of practicality in tourism industry. Finally, we expanded the foundation of research in terms of academic research, discussing the trade-off utilization of big and small data."
+        },
+        {
+          "rank": 9,
+          "score": 0.3068903684616089,
+          "doc_id": "168",
+          "text": "AHP를 이용한 에너지-IT 융합기술 도출에 관한 연구 AHP를 이용한 에너지-IT 융합기술 도출에 관한 연구 AHP를 이용한 에너지-IT 융합기술 도출에 관한 연구 세계적으로 비효율적인 에너지 소비로 인한 에너지 및 환경 문제가 지속적으로 대두되고 있다. 최근 이 같은 문제를 해결하기 위해서 에너지-IT(Energy-IT, EIT)융합기술이 효과적인 해결책으로 큰 관심을 받고 있다. 하지만 국내에서는 스마트그리드 외 EIT 융합기술에 대한 정책적 연구개발 및 투자가 미흡한 실정이다. 따라서 본 논문에서는 EIT 융합 기술의 효용성을 조사하고 AHP(Analytic Hierarchy Process) 기법을 이용하여 EIT 융합기술을 도출한다. 본 연구를 통하여 정부의 국가 에너지 문제 해결과 경쟁력을 향상을 위한 정책 결정에 기여할 것으로 기대한다. 연구결과 에너지 저감 분야 중에서는 에너지절약형건물(green building) 분야가 가장 효용성 있는 융합분야로 분석되었고, 에너지절약형건물 분야 내의 융합기술 중에서 네트워크 기능을 활용한 건물 내 에너지소비기기가 기술성, 경제성 부문에서 높은 중요도를 받으면서 가장 높은 기술로 평가 되었다."
+        },
+        {
+          "rank": 10,
+          "score": 0.3066841959953308,
+          "doc_id": "198",
+          "text": "국내 중소기업의 기술융합 전략 및 성장 정책: IT & BT 융합기술 기반 네트워크 분석 국내 중소기업의 기술융합 전략 및 성장 정책: IT & BT 융합기술 기반 네트워크 분석 국내 중소기업의 기술융합 전략 및 성장 정책: IT & BT 융합기술 기반 네트워크 분석 Many scholars have addressed the technological convergence of small-medium sized firms in Korea and their impact on the economic growth of nation. Nevertheless, most studies have been investigated the relationship between entrepreneurship and venture creation, and a few studies have analyzed the innovation and technological convergence of SMEs. The purpose of this research is to gain industrial insight into the technological convergence and to suggest a dynamic growth policy for entrepreneurs of SMEs to improve their convergence performance based on IT and BT. Therefore, we intend to propose solutions to these key questions in convergence such as; what are the key patterns in the process of technological convergence of SMEs on IT and BT, and what kinds of strategy do their need? In order to answer these research questions, we adopt network analysis using patent citation information. Results of network analysis revealed that building ecosystem based on government and universities is one of the most important factors for the future growth of SMEs in Korea. Also, the fit between technological convergence direction of SMEs and division of convergence structure of government and universities will be positively associated with dynamic growth of SMEs in Korea. In conclusion, this research extends the current studies on important aspects of SMEs in the technological convergence process by proposing their growth in convergence process to a newly converging context, IT and BT, and shed light on the integrative perspectives of crucial roles of SMEs on innovation performance in the IT and BT technological convergence."
+        }
+      ]
+    },
+    {
+      "query": "DTG 실 주행데이터와 공간정보를 활용하는 SBiFEM 연료소모량 추정 모델의 핵심 구성 요소는 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6172696948051453,
+          "doc_id": "21",
+          "text": "DTG 실 주행데이터 및 공간정보를 이용한 빅데이터 기반 연료소모량 추정 모델 연구 DTG 실 주행데이터 및 공간정보를 이용한 빅데이터 기반 연료소모량 추정 모델 연구 DTG 실 주행데이터 및 공간정보를 이용한 빅데이터 기반 연료소모량 추정 모델 연구 한국에서 교통사고를 줄이는 목적으로 디지털운행기록계(DTG) 장치가 모든 상용차량에 의무 장착이 되어 GPS 궤적을 포함한 많은 양의 운행기록 데이터가 생성되고 있다. 지금까지 이러한 DTG 데이터는 주로 교통안전운전을 유도하는 용도로 사용되어왔다. 그러나 DTG데이터는 연료소모량을 줄일 수 있는 에코드라이빙 분야 등 다양한 분야로 활용도를 확대할 수 있다. 본 연구는 실제 운행한 대규모 DTG운행 데이터를 공간 빅데이터 분석을 통해 연료소모량을 추정할 수 있는 모델을 수립하는 연구이다. 기존의 연료소모량 추정 모델은 주로 실험실 환경 또는 일부 지역에 국한되어 검증한 모델로 실제 운행되는 상용차량 대상으로 분석할 경우 수집하기 어려운 변수들이 많고, 한국의 전국을 운행한 다양한 운행기록 데이터를 적용하면 정확도가 낮아지는 문제점이 있다. 본 연구에서는 이러한 문제를 개선하기 위해 DTG데이터와 공간 빅데이터를 이용한 연료소모량 추정 모델인 SBiFEM(Spatial Big Data Fuel Estimation Model)을 제안하였다. SBiFEM은 운전자 운행특성 및 도로의 다양한 환경정보를 반영하기 위해 운행 패턴과 공간 빅데이터 맵매칭 기술을 이용해 다양한 도로정보들을 입력변수로 추가 활용하는 분석 방법이다. 본 연구에서는 전처리, 공간빅데이터, 운행 패턴 생성에 이르는 전 과정에서 빅데이터 Map Reduce를 활용하는 공간빅데이터 분석 프로세스를 다음과 같이 수립하고 구현, 검증을 하였다. 첫째로, 전처리 기술 고도화이다. 센싱 데이터 및 GPS공간데이터 특성상 많은 양의 이상치 데이터(Outlier)가 존재하고 있어 이를 정제하지 않으면 분석결과도 신뢰할 수 없다. 이를 위해 통계기법 및 운행 패턴 분석을 이용한 필터링 기법을 연구하였다. 둘째로, 대량의 GPS궤적 데이터를 이용한 공간빅데이터 분석 체계이다. 차량 이동 데이터를 분석하기 위해서는 차량이 어느 도로에 위치 했는지를 알기 위한 전자지도와 매칭하는 맵매칭 기술이 필수적이다. 대부분의 맵매칭 기술은 실시간 내비게이션 용도로 주로 사용되어왔기 때문에 빠른 분석 속도를 요하는 빅데이터 분석에 적합하지 않다. 본 연구에서는 대량의 GPS궤적데이터를 전자지도에 매칭하는 빅데이터 맵매칭 기술을 연구하였다. 셋째로, 연료소모량을 추정하는 모델이다. 기존 추정 모델과의 차별점은 실제 운행환경을 반영하기 위한 변수들을 추가했다는 것이다. 한 종류는 차량 운행특성을 반영하는 운행 패턴이고, 또 한 종류는 전국의 다양한 도로 환경 정보이다. 이러한 도로 환경정보를 반영하기 위해 맵매칭 공간빅데이터 프로세스를 이용하였다. SBiFEM 빅데이터 분석시스템 테스트 및 검증은 5대의 분산 서버에 Hadoop, HBase와 Map Reduce프로그램을 수행하여 성능 검증을 하였다. 또한 연료소모량 추정 모델 검증은 대표적인 연료소모량 및 배출가스 추정 모델인 SIDRA, VSP, VT-Micro등을 DTG데이터를 적용하여 분석한 결과와 본 연구의 모델을 적용한 결과를 비교하여 검증하였다. 비교결과 추정 값과 실제 값을 비교한 Correlation이 0.9169, MAPE(평균절대백분비오차)가 0.1846으로 본 연구의 모델 적용시 가장 우수하게 나와 본 논문에서 개발한 모델의 우수성을 검증하였다."
+        },
+        {
+          "rank": 2,
+          "score": 0.3872377276420593,
+          "doc_id": "8",
+          "text": "정보통신 융합기기 연계를 고려한 데이터 중심의 정보시스템 모델의 설계 및 분석 정보통신 융합기기 연계를 고려한 데이터 중심의 정보시스템 모델의 설계 및 분석 정보통신 융합기기 연계를 고려한 데이터 중심의 정보시스템 모델의 설계 및 분석 데이터 중심 정보시스템 구축 모델은 그간 정보화 사업 추진이 HW, SW기능 중심으로 이루어지던 것을, 데이터 구조 및 데이터 수집 배포 채널에 대한 체계적인 분석과 설계, 데이터표준 적용, 정보통신 융합기기의 데이터 설정의 유연성 확보 등의 고려하여 개선한 모델이다. 이 모델의 주요 특성인 정보통신 융합기기에 데이터 유연성이 보장되는 개선 효과에 대해 센서와 반응기로 구분하여 이들 기기에 새로운 정보시스템이 추가적으로 연계되는 상황을 가정하여 시스템 개선 복잡도와 네트워크 환경에 대한 지수를 산정하여 기존의 일반적인 구축 방식과 비교하였다. 본 모델을 확산함으로써, 일반 업무용 정보시스템 외에 나날이 늘어나는 정보기술 융 복합 기기들이 처리하는 데이터에 대해서도 품질과 상호운용성을 통제하게 되어, 정보화 거버넌스의 영역 확대를 통해 종합적인 정보화 기획 및 성과 관리 등이 가능하게 되는 개선 효과가 있다."
+        },
+        {
+          "rank": 3,
+          "score": 0.3483160138130188,
+          "doc_id": "55",
+          "text": "Navigating BAS-IT Convergence Navigating BAS-IT Convergence Navigating BAS-IT Convergence 없음"
+        },
+        {
+          "rank": 4,
+          "score": 0.3321109414100647,
+          "doc_id": "144",
+          "text": "에너지 빅데이터를 수용하는 빅데이터 시스템 개발 에너지 빅데이터를 수용하는 빅데이터 시스템 개발 에너지 빅데이터를 수용하는 빅데이터 시스템 개발 본 논문은 산업 현장과 민간에서 실시간으로 수집되는 에너지 빅데이터를 수용하는 빅데이터 시스템을 제안한다. 구축된 빅데이터 시스템은 하둡(Hadoop) 기반이며, 빅데이터 처리에 있어 인메모리(in-memory) 분산처리 컴퓨팅을 지원하는 스파크(Spark) 프레임워크가 동시에 적용되었다. 본문에서는 지역난방에 사용되는 열에너지 형태의 빅데이터에 초점을 두어, 입출력되는 에너지의 특성을 고려하며 실시간 수집되는 빅데이터를 적재, 관리, 처리 및 분석하는 방법을 다룬다. 이 때, 외부에서 유입되는 빅데이터는 시스템 내부에 설계된 관계형 데이터베이스 스키마에 따라 저장하고 관리되며, 저장된 빅데이터는 설정된 목적에 따라 처리하고 분석된다. 제안된 빅데이터 시스템과 더불어 지역난방과 관련한 복수의 실증현장으로부터 실시간으로 수집되는 열에너지 빅데이터에 대해 시스템이 활용된 사례를 기술한다."
+        },
+        {
+          "rank": 5,
+          "score": 0.3308967351913452,
+          "doc_id": "227",
+          "text": "Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 본 연구는 오늘날 산업 전반적으로 영향을 미치고 있는 디지탈 전환(Digital Transformation)의 기술 환경과 디지탈 전환의 산업적 창고관리 부분의 모델연구가 본 논문의 목적이다. &amp;#xD; &amp;#xD; 디지털 전환은 오랫동안 디지털화와 비슷하거나 또는 디지털 방식으로 저장할 수 있도록 기존 데이터 형태를 전환하는 것과 관련이 있다. 물론 이 점이 중요하긴 하지만, 이전의 디지털화는 최신 디지털 전환의 영역을 포함하지 않았었다.&amp;#xD; &amp;#xD; 특히 이번 연구에서는 Big Data를 중심으로 Warehouse Management System의 방향을 제시 하고자 한다."
+        },
+        {
+          "rank": 6,
+          "score": 0.32451993227005005,
+          "doc_id": "165",
+          "text": "패키징(Packaging) 분야에서의 빅데이터(Big data) 적용방안 연구 패키징(Packaging) 분야에서의 빅데이터(Big data) 적용방안 연구 패키징(Packaging) 분야에서의 빅데이터(Big data) 적용방안 연구 패키징 분야도 4차 산업혁명에 발 맞춰 IoT (Internet of Things), 빅데이터, 클라우드 및 소비자 기반 기술 등이 적용되어 스마트 패키징이 등장하고 있다. 정책, 예측, 마케팅, 디자인 등 다양한 분야에서 빅데이터 분석이 활용되고 있지만 패키징 분야에서의 연구는 아직 초보적 수준이다. 따라서 본 연구는 빅데이터를 패키징 분야에 적용하기 위해 선행연구과 관련서적을 통해 빅데이터의 정의와 연구에서 활용되는 데이터 수집, 저장, 분석방법을 정리하였고 패키징 분야에 적용할 수 있는 분석방법을 제시하였다. 오늘날 패키징 분야는 마케팅적 요소를 요구받고 있기 때문에 패키징에 대한 소비자의 인식을 파악할 필요가 있으며 빅데이터의 근원이 되는 5가지 데이터 중 사유데이터(private data)와 커뮤니티 데이터(community data)를 활용하여 소비자와 제품 간의 상호작용 분석하는데 활용하고자 한다. 패키징은 소비자의 관심을 끌기 위한 전략전인 도구로 사용되며 소비자의 구매위험을 줄이는 수단이 되기 때문에 패키징에 대한 소비자의 인식을 분석할 필요가 있다. 본 연구에서는 제품 개선을 위한 문제점 도출 과정에서 의미연결망 분석(Semantic Network Analysis)과 텍스트마이닝(Text mining)을 활용하여 제품을 구성하는 다양한 요소들을 파악하고 패키징 요소의 빈도분석을 거쳐 패키징의 영향력을 확인하는 방안과 저관여 제품을 대상으로 텍스트 마이닝(Text mining)과 오피니언 마이닝(Opinion Mining), 소셜 네트워크 분석(Social Network Analysis)을 통해 패키징에 대한 감정분석을 하여 동일한 제품군에서 소비자가 선호하는 패키징을 도출하는 방안을 제시하였다. 패키징은 제품을 구성하는 많은 요소들 중 하나이기 때문에 패키징이라는 단일 요소의 영향력을 파악하기란 쉽지 않지만 본 연구는 빅데이터를 활용하여 패키징에 대한 소비자의 인식과 감정을 분석하고 제품에서 패키징이 소비자에게 미치는 영향력을 분석할 수 있는 방안을 제시한 데 의의가 있다."
+        },
+        {
+          "rank": 7,
+          "score": 0.32020291686058044,
+          "doc_id": "158",
+          "text": "Big business with Big Data Big Business mit Big Data Big business with Big Data Big Business mit Big Data Big business with Big Data Big Business mit Big Data Big business with Big Data Big Business mit Big Data"
+        },
+        {
+          "rank": 8,
+          "score": 0.3192283809185028,
+          "doc_id": "23",
+          "text": "Big data, Big bang? Big data, Big bang? Big data, Big bang? 없음"
+        },
+        {
+          "rank": 9,
+          "score": 0.31421735882759094,
+          "doc_id": "123",
+          "text": "딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝은 인공신경망(neural network)이라는 인공지능분야의 모형이 발전된 형태로서, 계층구조로 이루어진 인공신경망의 내부계층(hidden layer)이 여러 단계로 이루어진 구조이다. 딥러닝에서의 주요 모형은 합성곱신경망(convolutional neural network), 순환신경망(recurrent neural network), 그리고 심층신뢰신경망(deep belief network)의 세가지라고 할 수 있다. 그 중에서 현재 흥미로운 연구가 많이 발표되어서 관심이 집중되고 있는 모형은 지도학습(supervised learning)모형인 처음 두 개의 모형이다. 따라서 본 논문에서는 지도학습모형의 가중치를 최적화하는 기본적인 방법인 오류역전파 알고리즘을 살펴본 뒤에 합성곱신경망과 순환신경망의 구조와 응용사례 등을 살펴보고자 한다. 본문에서 다루지 않은 모형인 심층신뢰신경망은 아직까지는 합성곱신경망 이나 순환신경망보다는 상대적으로 주목을 덜 받고 있다. 그러나 심층신뢰신경망은 CNN이나 RNN과는 달리 비지도학습(unsupervised learning)모형이며, 사람이나 동물은 관찰을 통해서 스스로 학습한다는 점에서 궁극적으로는 비지도학습모형이 더 많이 연구되어야 할 주제가 될 것이다."
+        },
+        {
+          "rank": 10,
+          "score": 0.31260815262794495,
+          "doc_id": "71",
+          "text": "Compromise between Small Data and Big Data Compromise between Small Data and Big Data Compromise between Small Data and Big Data Purpose: The main purpose of this work was to present the problems of big data and to present how small data can be used as a complement to big data and its effects step by step in the big data through the concept of value chain. Recently, the big data market is growing rapidly around the world because data is processed on the basis of size, diversity, speed, accuracy and value. Specifically, this study focuses on its application to Jeju tourism. Research design, data, and methodology: The problems of big data were clearly presented using various real-world examples, and the verification of the compromise with small data and its effectiveness were conducted based on research papers discussing Jeju tourism using big data. The results of the study suggested the use of small data to solve and verify the representation of big data at the collection stage of the big data value chain, and the analysis stage suggested combining the identification of behavior patterns, the strengths of small data, and the exploration of causal relationships. Results: Among various stage, in the curation phase, a cause-and-effect analysis using small data suggested a solution to the problem of mistaking the correlation of big data as causality, and in the storage phase, a policy plan using small data was proposed to solve the problem of privacy infringement. The most important part of this study was the application stage, which discussed the specific problems of big data and the possibility of compromise between small data. As well, in the utilization phase, a combination of correlation and causality, as in the curation phase, was proposed. Conclusions: As an implication of this study, we used specific examples to present synergies when big data is compromised with small data. It also showed that the compromised use of big data and small data can contribute not only in terms of research but also in terms of practicality in tourism industry. Finally, we expanded the foundation of research in terms of academic research, discussing the trade-off utilization of big and small data."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

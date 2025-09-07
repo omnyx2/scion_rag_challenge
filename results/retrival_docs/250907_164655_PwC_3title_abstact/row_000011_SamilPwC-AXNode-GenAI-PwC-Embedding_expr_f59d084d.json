@@ -1,0 +1,291 @@
+{
+  "id": "row_000011",
+  "model_name": "SamilPwC-AXNode-GenAI/PwC-Embedding_expr",
+  "timestamp_kst": "2025-09-07T16:46:57.806045+09:00",
+  "trial_id": "f59d084d",
+  "queries": [
+    {
+      "query": "How would you summarize the proposed enabling framework for achieving the second Sustainable Development Goal, emphasizing the role of data sharing and near real-time analytics?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7180111408233643,
+          "doc_id": "7",
+          "text": "Keynote speech 6: Big Data, IoT and the 2nd sustainable development goal Keynote speech 6: Big Data, IoT and the 2nd sustainable development goal Keynote speech 6: Big Data, IoT and the 2nd sustainable development goal The risks associated with the global food system are widely acknowledged and implicate a complex nexus of factors including increasing population, changing diets, erosion of natural capital, uncertain future climate, food price fluctuations, growing economic disparity and differential access to sufficient safe and nutritious food. The second sustainable development goal (SDG2) aims to address these challenges in every country to ensure not only that we eradicate global hunger, but also that everyone has access to safe and nutritious food that is produced in an environmentally, socially and economically sustainable manner. SDG2 creates an unprecedented challenge to overcome the complexity of coordinating interventions that span the whole food chain (more accurately, `food network') and engage a bewildering breadth of individuals, stakeholders and agencies. The Sustainable Development Solutions Network recommends a generic enabling framework for SDG2 that connects the various stakeholders, and indicates the feedbacks and information flows that are needed to ensure effective execution. This platform is broadly relevant to all countries irrespective of their development status. A clear requirement for the success of this framework is the availability and free exchange of data, together with near real-time analytics on that data to create the necessary knowledge flows. The potential role of data-driven innovation in implementing the enabling framework in developing and western economies will be discussed using various case studies. The opportunities for deploying existing and new kinds of sensor and networking technologies will be explored. This will include the potential role of IoT and Big Data related technologies and an evaluation of the feasibilities and risks associated with their deployment. The presentation will conclude with a set of requirements and a summary of recommendations for future priorities."
+        },
+        {
+          "rank": 2,
+          "score": 0.5947375893592834,
+          "doc_id": "140",
+          "text": "Sharing Big Data Sharing Big Data Sharing Big Data Macromolecular Big Data provide numerous challenges and a number of initiatives that are starting to overcome these issues are discussed."
+        },
+        {
+          "rank": 3,
+          "score": 0.5841099619865417,
+          "doc_id": "126",
+          "text": "Exploring Big Data Governance Frameworks Exploring Big Data Governance Frameworks Exploring Big Data Governance Frameworks Abstract The recent explosion in ICT and digital data has led organizations, both private and public, to efficient decision-making. Nowadays organizations can store huge amounts of data, which can be accessible at any time. Big Data governance refers to the management of huge volumes of an organization&rsquo;s data, exploiting it in the organization&rsquo;s decision-making using different analytical tools. Big Data emergence provides great convenience, but it also brings challenges. Nevertheless, for Big Data governance, data has to be prepared in a timely manner, keeping in view the consistency and reliability of the data, and being able to trust its source and the meaningfulness of the result. Hence, a framework for Big Data governance would have many advantages. There are Big Data governance frameworks, which guide the management of Big Data. However, there are also limitations associated with these frameworks. Therefore, this study aims to explore the existing Big Data governance frameworks and their shortcomings, and propose a new framework. The proposed framework consists of eight components. As a framework validation, the proposed framework has been compared with the ISO 8000 data governance framework."
+        },
+        {
+          "rank": 4,
+          "score": 0.573844313621521,
+          "doc_id": "194",
+          "text": "Real-Time Monitoring of COVID-19 Vaccination Compliance: A Ubiquitous IT Convergence Approach Real-Time Monitoring of COVID-19 Vaccination Compliance: A Ubiquitous IT Convergence Approach Real-Time Monitoring of COVID-19 Vaccination Compliance: A Ubiquitous IT Convergence Approach As most countries relax restrictions on lockdown and social activities returns due to massive response to COVID-19 vaccination, there is need to put in place a universally acceptable technological innovation that can checkmate and enforce compliance to avoid resurgence of another deadly wave as witnessed previously. Combining vaccination effort with disruptive technology for compliance enforcement is an unarguable panacea. This paper presents an IT-convergence solution that fuses disruptive technologies to distinguish between vaccinated and non-vaccinated individuals in real-time and initiate strict and appropriate compliance directives and consequent denial of access to certain places. The proposed design is a fusion of facial recognition, mask wearing detection technology using Yolov5 deep learning model, network-based vaccination record management application, biometric feature-based vaccination status validation, and compliance enforcement in real-time. The system achieved 99.5&#x0025; accurate detection and 100&#x0025; real-time authentication with less computational complexities. This innovation guarantees intuitive monitoring of vaccination progress and curtailment of COVID-19 spread through compliance enforcement."
+        },
+        {
+          "rank": 5,
+          "score": 0.5721737146377563,
+          "doc_id": "199",
+          "text": "Sharing big biomedical data Sharing big biomedical data Sharing big biomedical data BackgroundThe promise of Big Biomedical Data may be offset by the enormous challenges in handling, analyzing, and sharing it. In this paper, we provide a framework for developing practical and reasonable data sharing policies that incorporate the sociological, financial, technical and scientific requirements of a sustainable Big Data dependent scientific community.FindingsMany biomedical and healthcare studies may be significantly impacted by using large, heterogeneous and incongruent datasets; however there are significant technical, social, regulatory, and institutional barriers that need to be overcome to ensure the power of Big Data overcomes these detrimental factors.ConclusionsPragmatic policies that demand extensive sharing of data, promotion of data fusion, provenance, interoperability and balance security and protection of personal information are critical for the long term impact of translational Big Data analytics."
+        },
+        {
+          "rank": 6,
+          "score": 0.5676784515380859,
+          "doc_id": "71",
+          "text": "Compromise between Small Data and Big Data Compromise between Small Data and Big Data Compromise between Small Data and Big Data Purpose: The main purpose of this work was to present the problems of big data and to present how small data can be used as a complement to big data and its effects step by step in the big data through the concept of value chain. Recently, the big data market is growing rapidly around the world because data is processed on the basis of size, diversity, speed, accuracy and value. Specifically, this study focuses on its application to Jeju tourism. Research design, data, and methodology: The problems of big data were clearly presented using various real-world examples, and the verification of the compromise with small data and its effectiveness were conducted based on research papers discussing Jeju tourism using big data. The results of the study suggested the use of small data to solve and verify the representation of big data at the collection stage of the big data value chain, and the analysis stage suggested combining the identification of behavior patterns, the strengths of small data, and the exploration of causal relationships. Results: Among various stage, in the curation phase, a cause-and-effect analysis using small data suggested a solution to the problem of mistaking the correlation of big data as causality, and in the storage phase, a policy plan using small data was proposed to solve the problem of privacy infringement. The most important part of this study was the application stage, which discussed the specific problems of big data and the possibility of compromise between small data. As well, in the utilization phase, a combination of correlation and causality, as in the curation phase, was proposed. Conclusions: As an implication of this study, we used specific examples to present synergies when big data is compromised with small data. It also showed that the compromised use of big data and small data can contribute not only in terms of research but also in terms of practicality in tourism industry. Finally, we expanded the foundation of research in terms of academic research, discussing the trade-off utilization of big and small data."
+        },
+        {
+          "rank": 7,
+          "score": 0.5557140111923218,
+          "doc_id": "172",
+          "text": "Demystifying big data: Anatomy of big data developmental process Demystifying big data: Anatomy of big data developmental process Demystifying big data: Anatomy of big data developmental process This study seeks to understand big data ecology, how it is perceived by different stakeholders, the potential value and challenges, and the implications for the private sector and public organizations, as well as for policy makers. With Normalization Process Theory in place, this study conducts socio-technical evaluation on the big data phenomenon to understand the developmental processes through which new practices of thinking and enacting are implemented, embedded, and integrated in South Korea. It also undertakes empirical analyses of user modeling to explore the factors influencing users' adoption of big data by integrating cognitive motivations as well as user values as the primary determining factors. Based on the qualitative and quantitative findings, this study concludes that big data should be developed with user-centered ideas and that users should be the focus of big data design. (C) 2015 Elsevier Ltd. All rights reserved."
+        },
+        {
+          "rank": 8,
+          "score": 0.5499540567398071,
+          "doc_id": "109",
+          "text": "Optimized Data Processing Analysis Using Big Data Cloud Platform Optimized Data Processing Analysis Using Big Data Cloud Platform Optimized Data Processing Analysis Using Big Data Cloud Platform Recently data processing has main gained many attention both from academic and commercial industry. Their term use to tools, technical methods and frameworks made to gathering, collect, store, processing and analysis massive amounts of data. Data processing and analysis are based on structured/semi -structured/unstructured by big data, as well as is generated from various different sources in the system at various rates. For the purpose of processing with their large data and suitable way, voluminous parallelism is usually used. The general architecture of a big data system is made up a shared cluster of their machines. Nonetheless, even in very parallel environment, data processing is often very time-consuming. A various applications can take up to everytime to produce useful results, interactive analysis and debugging. Nevertheless, we have main problems that how we have a high performance requires both quality of data locality and resource. Moreover, big data analysis provide the amount of data that is processed typically large in comparison with computation in their systems. In other words, specified optimization that would relieve low-level to achieve good performance essentially. Accordingly, our main goal of this research paper provide how we have to do to optimize for big data frameworks. Our contribute approach to make big data cloud platform for easy and efficient processing of big data. In addition, we provides results from a study of existing optimization of data processing in MapReduce and Hadoop oriented systems."
+        },
+        {
+          "rank": 9,
+          "score": 0.5480935573577881,
+          "doc_id": "120",
+          "text": "Big Data Key Challenges Big Data Key Challenges Big Data Key Challenges The big data term refers to the great volume of data and complicated data structure with difficulties in collecting, storing, processing, and analyzing these data. Big data analytics refers to the operation of disclosing hidden patterns through big data. This information and data set cloud to be useful and provide advanced services. However, analyzing and processing this information could cause revealing and disclosing some sensitive and personal information when the information is contained in applications that are correlated to users such as location-based services, but concerns are diminished if the applications are correlated to general information such as scientific results. In this work, a survey has been done over security and privacy challenges and approaches in big data. The challenges included here are in each of the following areas: privacy, access control, encryption, and authentication in big data. Likewise, the approaches presented here are privacy-preserving approaches in big data, access control approaches in big data, encryption approaches in big data, and authentication approaches in big data."
+        },
+        {
+          "rank": 10,
+          "score": 0.541500449180603,
+          "doc_id": "8",
+          "text": "정보통신 융합기기 연계를 고려한 데이터 중심의 정보시스템 모델의 설계 및 분석 정보통신 융합기기 연계를 고려한 데이터 중심의 정보시스템 모델의 설계 및 분석 정보통신 융합기기 연계를 고려한 데이터 중심의 정보시스템 모델의 설계 및 분석 데이터 중심 정보시스템 구축 모델은 그간 정보화 사업 추진이 HW, SW기능 중심으로 이루어지던 것을, 데이터 구조 및 데이터 수집 배포 채널에 대한 체계적인 분석과 설계, 데이터표준 적용, 정보통신 융합기기의 데이터 설정의 유연성 확보 등의 고려하여 개선한 모델이다. 이 모델의 주요 특성인 정보통신 융합기기에 데이터 유연성이 보장되는 개선 효과에 대해 센서와 반응기로 구분하여 이들 기기에 새로운 정보시스템이 추가적으로 연계되는 상황을 가정하여 시스템 개선 복잡도와 네트워크 환경에 대한 지수를 산정하여 기존의 일반적인 구축 방식과 비교하였다. 본 모델을 확산함으로써, 일반 업무용 정보시스템 외에 나날이 늘어나는 정보기술 융 복합 기기들이 처리하는 데이터에 대해서도 품질과 상호운용성을 통제하게 되어, 정보화 거버넌스의 영역 확대를 통해 종합적인 정보화 기획 및 성과 관리 등이 가능하게 되는 개선 효과가 있다."
+        }
+      ]
+    },
+    {
+      "query": "What is the proposed enabling framework for achieving the second Sustainable Development Goal?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6846141815185547,
+          "doc_id": "7",
+          "text": "Keynote speech 6: Big Data, IoT and the 2nd sustainable development goal Keynote speech 6: Big Data, IoT and the 2nd sustainable development goal Keynote speech 6: Big Data, IoT and the 2nd sustainable development goal The risks associated with the global food system are widely acknowledged and implicate a complex nexus of factors including increasing population, changing diets, erosion of natural capital, uncertain future climate, food price fluctuations, growing economic disparity and differential access to sufficient safe and nutritious food. The second sustainable development goal (SDG2) aims to address these challenges in every country to ensure not only that we eradicate global hunger, but also that everyone has access to safe and nutritious food that is produced in an environmentally, socially and economically sustainable manner. SDG2 creates an unprecedented challenge to overcome the complexity of coordinating interventions that span the whole food chain (more accurately, `food network') and engage a bewildering breadth of individuals, stakeholders and agencies. The Sustainable Development Solutions Network recommends a generic enabling framework for SDG2 that connects the various stakeholders, and indicates the feedbacks and information flows that are needed to ensure effective execution. This platform is broadly relevant to all countries irrespective of their development status. A clear requirement for the success of this framework is the availability and free exchange of data, together with near real-time analytics on that data to create the necessary knowledge flows. The potential role of data-driven innovation in implementing the enabling framework in developing and western economies will be discussed using various case studies. The opportunities for deploying existing and new kinds of sensor and networking technologies will be explored. This will include the potential role of IoT and Big Data related technologies and an evaluation of the feasibilities and risks associated with their deployment. The presentation will conclude with a set of requirements and a summary of recommendations for future priorities."
+        },
+        {
+          "rank": 2,
+          "score": 0.5260140895843506,
+          "doc_id": "126",
+          "text": "Exploring Big Data Governance Frameworks Exploring Big Data Governance Frameworks Exploring Big Data Governance Frameworks Abstract The recent explosion in ICT and digital data has led organizations, both private and public, to efficient decision-making. Nowadays organizations can store huge amounts of data, which can be accessible at any time. Big Data governance refers to the management of huge volumes of an organization&rsquo;s data, exploiting it in the organization&rsquo;s decision-making using different analytical tools. Big Data emergence provides great convenience, but it also brings challenges. Nevertheless, for Big Data governance, data has to be prepared in a timely manner, keeping in view the consistency and reliability of the data, and being able to trust its source and the meaningfulness of the result. Hence, a framework for Big Data governance would have many advantages. There are Big Data governance frameworks, which guide the management of Big Data. However, there are also limitations associated with these frameworks. Therefore, this study aims to explore the existing Big Data governance frameworks and their shortcomings, and propose a new framework. The proposed framework consists of eight components. As a framework validation, the proposed framework has been compared with the ISO 8000 data governance framework."
+        },
+        {
+          "rank": 3,
+          "score": 0.5135089159011841,
+          "doc_id": "140",
+          "text": "Sharing Big Data Sharing Big Data Sharing Big Data Macromolecular Big Data provide numerous challenges and a number of initiatives that are starting to overcome these issues are discussed."
+        },
+        {
+          "rank": 4,
+          "score": 0.509860634803772,
+          "doc_id": "214",
+          "text": "An Efficient Parallel Machine Learning-based Blockchain Framework An Efficient Parallel Machine Learning-based Blockchain Framework An Efficient Parallel Machine Learning-based Blockchain Framework The unlimited possibilities of machine learning have been shown in several successful reports and applications. However, how to make sure that the searched results of a machine learning system are not tampered by anyone and how to prevent the other users in the same network environment from easily getting our private data are two critical research issues when we immerse into powerful machine learning-based systems or applications. This situation is just like other modern information systems that confront security and privacy issues. The development of blockchain provides us an alternative way to address these two issues. That is why some recent studies have attempted to develop machine learning systems with blockchain technologies or to apply machine learning methods to blockchain systems. To show what the combination of blockchain and machine learning is capable of doing, in this paper, we proposed a parallel framework to find out suitable hyperparameters of deep learning in a blockchain environment by using a metaheuristic algorithm. The proposed framework also takes into account the issue of communication cost, by limiting the number of information exchanges between miners and blockchain."
+        },
+        {
+          "rank": 5,
+          "score": 0.5043362379074097,
+          "doc_id": "95",
+          "text": "Sustainable artificial intelligence: A corporate culture perspective Sustainable artificial intelligence: A corporate culture perspective Sustainable artificial intelligence: A corporate culture perspective AbstractIn recent years, various studies have highlighted the opportunities of artificial intelligence (AI) for our society. For example, AI solutions can help reduce pollution, waste, or carbon footprints. On the other hand, there are also risks associated with the use of AI, such as increasing inequality in society or high resource consumption for computing power. This paper explores the question how corporate culture influences the use of artificial intelligence in terms of sustainable development. This type of use includes a normative element and is referred to in the paper as sustainable artificial intelligence (SAI). Based on a bibliometric literature analysis, we identify features of a sustainability-oriented corporate culture. We offer six propositions examining the influence of specific manifestations on the handling of AI in the sense of SAI. Thus, if companies want to ensure that SAI is realized, corporate culture appears as an important indicator and influencing factor at the same time."
+        },
+        {
+          "rank": 6,
+          "score": 0.5030243396759033,
+          "doc_id": "19",
+          "text": "그린산업 육성을 위한 농업분야 IT융합기술 그린산업 육성을 위한 농업분야 IT융합기술 그린산업 육성을 위한 농업분야 IT융합기술 Recently, The Bali Road Map was approved, as it demands that developing countries should also have the responsibility of greenhouse gas reduction from 2013. This suggests that the greenhouse gas and environment should be controlled across industry sectors. Accordingly, this study was conducted to identify the application and effects of the IT convergence technology to the smart farm and realize the low-carbon green industry in Korea. The smart farm technologies within and outside of Korea were comparatively analyzed for the low-carbon green industry policy. The study subjects were determined to propose the necessity of the study efficiently. First, the studies on the smart farm for low-carbon green industry policy were examined. Second, the suitable IT technology for the smart farm as well as the effect and the improvement plan of the IT technology-based smart farm system were examined. This study now aims to promote the low-carbon green industry policy and IT convergence technology and job creation. These will be achieved by providing the plan for linking the system simulator organization with the low-carbon green industry policy."
+        },
+        {
+          "rank": 7,
+          "score": 0.5018579959869385,
+          "doc_id": "195",
+          "text": "Deep Contour Recovery: Repairing Breaks in Detected Contours using Deep Learning Deep Contour Recovery: Repairing Breaks in Detected Contours using Deep Learning Deep Contour Recovery: Repairing Breaks in Detected Contours using Deep Learning We present a contour recovery framework based on a deep learning model to connect broken contours (breaks) produced by contour detection methods. The idea is that the convolutional neural network iteratively predicts vectors that can grow along the direction of the true contour from the end points of the breaks. For this prediction, we use residual connections training, which models continuous predictions from the previous inference. However, conventional residual connections training is prone to gradually accumulating errors at each inference step. In this work, we propose a ground truth selection algorithm and sub-iteration training to efficiently and reliably train a deep learning model. The ground truth selection extracts a small set of coordinates to represent an actual contour. The sub-iteration training creates the next input that is predicted by additional training of a network replicated from the main network. Our experimental results demonstrate that the ground truth selection creates a ground truth suitable for contour recovery. Moreover, our approach improves the performance of contour detection when applied to the results of existing representative contour detection methods."
+        },
+        {
+          "rank": 8,
+          "score": 0.4873138666152954,
+          "doc_id": "194",
+          "text": "Real-Time Monitoring of COVID-19 Vaccination Compliance: A Ubiquitous IT Convergence Approach Real-Time Monitoring of COVID-19 Vaccination Compliance: A Ubiquitous IT Convergence Approach Real-Time Monitoring of COVID-19 Vaccination Compliance: A Ubiquitous IT Convergence Approach As most countries relax restrictions on lockdown and social activities returns due to massive response to COVID-19 vaccination, there is need to put in place a universally acceptable technological innovation that can checkmate and enforce compliance to avoid resurgence of another deadly wave as witnessed previously. Combining vaccination effort with disruptive technology for compliance enforcement is an unarguable panacea. This paper presents an IT-convergence solution that fuses disruptive technologies to distinguish between vaccinated and non-vaccinated individuals in real-time and initiate strict and appropriate compliance directives and consequent denial of access to certain places. The proposed design is a fusion of facial recognition, mask wearing detection technology using Yolov5 deep learning model, network-based vaccination record management application, biometric feature-based vaccination status validation, and compliance enforcement in real-time. The system achieved 99.5&#x0025; accurate detection and 100&#x0025; real-time authentication with less computational complexities. This innovation guarantees intuitive monitoring of vaccination progress and curtailment of COVID-19 spread through compliance enforcement."
+        },
+        {
+          "rank": 9,
+          "score": 0.4870389699935913,
+          "doc_id": "4",
+          "text": "Gamification for Education of Deep Learning Gamification for Education of Deep Learning Gamification for Education of Deep Learning In this study, we introduced a test platform of gamification, based on Unity-Agents, for education of deep learning. We determined to isolate the internal and external cause of deactivated Korean game-based education in comparison to European and drew requirements for educators, through the opinions of five educators by an open-ended discussion. Using the requirements, we drew design factors for the platform of gamification for education of deep learning. Our design will feature a complete learning based on game play and updated processes of ‘declaration of agents’, ‘process of player brains’, ‘training scenario’, ‘process of heuristic brains’, ‘processes of internal and external brains’, and ‘modifying action, reward, and status’. For the design, the learners could be able to keep up with their abilities and to endorse continued learning. We developed an executable prototype of gamification based on the design. The educators evaluated a learning sample that applied on the prototype and discussed that it was relevant, despite some technical kinks. We appreciated the feedback and our gamification would be modified to allow for their comments."
+        },
+        {
+          "rank": 10,
+          "score": 0.4839217960834503,
+          "doc_id": "18",
+          "text": "Deep Learning 기반의 DGA 개발에 대한 연구 Deep Learning 기반의 DGA 개발에 대한 연구 Deep Learning 기반의 DGA 개발에 대한 연구 Recently, there are many companies that use systems based on artificial intelligence. The accuracy of artificial intelligence depends on the amount of learning data and the appropriate algorithm. However, it is not easy to obtain learning data with a large number of entity. Less data set have large generalization errors due to overfitting. In order to minimize this generalization error, this study proposed DGA which can expect relatively high accuracy even though data with a less data set is applied to machine learning based genetic algorithm to deep learning based dropout. The idea of this paper is to determine the active state of the nodes. Using Gradient about loss function, A new fitness function is defined. Proposed Algorithm DGA is supplementing stochastic inconsistency about Dropout. Also DGA solved problem by the complexity of the fitness function and expression range of the model about Genetic Algorithm As a result of experiments using MNIST data proposed algorithm accuracy is 75.3%. Using only Dropout algorithm accuracy is 41.4%. It is shown that DGA is better than using only dropout."
+        }
+      ]
+    },
+    {
+      "query": "What is the role of data sharing within this framework?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6408034563064575,
+          "doc_id": "199",
+          "text": "Sharing big biomedical data Sharing big biomedical data Sharing big biomedical data BackgroundThe promise of Big Biomedical Data may be offset by the enormous challenges in handling, analyzing, and sharing it. In this paper, we provide a framework for developing practical and reasonable data sharing policies that incorporate the sociological, financial, technical and scientific requirements of a sustainable Big Data dependent scientific community.FindingsMany biomedical and healthcare studies may be significantly impacted by using large, heterogeneous and incongruent datasets; however there are significant technical, social, regulatory, and institutional barriers that need to be overcome to ensure the power of Big Data overcomes these detrimental factors.ConclusionsPragmatic policies that demand extensive sharing of data, promotion of data fusion, provenance, interoperability and balance security and protection of personal information are critical for the long term impact of translational Big Data analytics."
+        },
+        {
+          "rank": 2,
+          "score": 0.6297293305397034,
+          "doc_id": "140",
+          "text": "Sharing Big Data Sharing Big Data Sharing Big Data Macromolecular Big Data provide numerous challenges and a number of initiatives that are starting to overcome these issues are discussed."
+        },
+        {
+          "rank": 3,
+          "score": 0.5953861474990845,
+          "doc_id": "71",
+          "text": "Compromise between Small Data and Big Data Compromise between Small Data and Big Data Compromise between Small Data and Big Data Purpose: The main purpose of this work was to present the problems of big data and to present how small data can be used as a complement to big data and its effects step by step in the big data through the concept of value chain. Recently, the big data market is growing rapidly around the world because data is processed on the basis of size, diversity, speed, accuracy and value. Specifically, this study focuses on its application to Jeju tourism. Research design, data, and methodology: The problems of big data were clearly presented using various real-world examples, and the verification of the compromise with small data and its effectiveness were conducted based on research papers discussing Jeju tourism using big data. The results of the study suggested the use of small data to solve and verify the representation of big data at the collection stage of the big data value chain, and the analysis stage suggested combining the identification of behavior patterns, the strengths of small data, and the exploration of causal relationships. Results: Among various stage, in the curation phase, a cause-and-effect analysis using small data suggested a solution to the problem of mistaking the correlation of big data as causality, and in the storage phase, a policy plan using small data was proposed to solve the problem of privacy infringement. The most important part of this study was the application stage, which discussed the specific problems of big data and the possibility of compromise between small data. As well, in the utilization phase, a combination of correlation and causality, as in the curation phase, was proposed. Conclusions: As an implication of this study, we used specific examples to present synergies when big data is compromised with small data. It also showed that the compromised use of big data and small data can contribute not only in terms of research but also in terms of practicality in tourism industry. Finally, we expanded the foundation of research in terms of academic research, discussing the trade-off utilization of big and small data."
+        },
+        {
+          "rank": 4,
+          "score": 0.587944746017456,
+          "doc_id": "221",
+          "text": "Implikationen von Machine Learning auf das Datenmanagement in Unternehmen Implikationen von Machine Learning auf das Datenmanagement in Unternehmen Implikationen von Machine Learning auf das Datenmanagement in Unternehmen AbstractMachine Learning is a trend research area with great potential and far-reaching application potentials. Big Data is an enabler, as large and high-quality data are always the basis for successful machine learning algorithms and models. There is currently no fully established standard process for the machine learning life cycle, as is the case in data mining with the CRISP-DM-Process, which means that the operationalization of machine learning models in particular can present companies with major challenges. In this article, the implications for data management in companies are worked out on the basis of the view of the nature of the data, the various roles in machine learning teams and the life cycle of machine learning models."
+        },
+        {
+          "rank": 5,
+          "score": 0.5860669612884521,
+          "doc_id": "126",
+          "text": "Exploring Big Data Governance Frameworks Exploring Big Data Governance Frameworks Exploring Big Data Governance Frameworks Abstract The recent explosion in ICT and digital data has led organizations, both private and public, to efficient decision-making. Nowadays organizations can store huge amounts of data, which can be accessible at any time. Big Data governance refers to the management of huge volumes of an organization&rsquo;s data, exploiting it in the organization&rsquo;s decision-making using different analytical tools. Big Data emergence provides great convenience, but it also brings challenges. Nevertheless, for Big Data governance, data has to be prepared in a timely manner, keeping in view the consistency and reliability of the data, and being able to trust its source and the meaningfulness of the result. Hence, a framework for Big Data governance would have many advantages. There are Big Data governance frameworks, which guide the management of Big Data. However, there are also limitations associated with these frameworks. Therefore, this study aims to explore the existing Big Data governance frameworks and their shortcomings, and propose a new framework. The proposed framework consists of eight components. As a framework validation, the proposed framework has been compared with the ISO 8000 data governance framework."
+        },
+        {
+          "rank": 6,
+          "score": 0.5845452547073364,
+          "doc_id": "7",
+          "text": "Keynote speech 6: Big Data, IoT and the 2nd sustainable development goal Keynote speech 6: Big Data, IoT and the 2nd sustainable development goal Keynote speech 6: Big Data, IoT and the 2nd sustainable development goal The risks associated with the global food system are widely acknowledged and implicate a complex nexus of factors including increasing population, changing diets, erosion of natural capital, uncertain future climate, food price fluctuations, growing economic disparity and differential access to sufficient safe and nutritious food. The second sustainable development goal (SDG2) aims to address these challenges in every country to ensure not only that we eradicate global hunger, but also that everyone has access to safe and nutritious food that is produced in an environmentally, socially and economically sustainable manner. SDG2 creates an unprecedented challenge to overcome the complexity of coordinating interventions that span the whole food chain (more accurately, `food network') and engage a bewildering breadth of individuals, stakeholders and agencies. The Sustainable Development Solutions Network recommends a generic enabling framework for SDG2 that connects the various stakeholders, and indicates the feedbacks and information flows that are needed to ensure effective execution. This platform is broadly relevant to all countries irrespective of their development status. A clear requirement for the success of this framework is the availability and free exchange of data, together with near real-time analytics on that data to create the necessary knowledge flows. The potential role of data-driven innovation in implementing the enabling framework in developing and western economies will be discussed using various case studies. The opportunities for deploying existing and new kinds of sensor and networking technologies will be explored. This will include the potential role of IoT and Big Data related technologies and an evaluation of the feasibilities and risks associated with their deployment. The presentation will conclude with a set of requirements and a summary of recommendations for future priorities."
+        },
+        {
+          "rank": 7,
+          "score": 0.5815038681030273,
+          "doc_id": "171",
+          "text": "Protecting Privacy in Big Data Protecting Privacy in Big Data Protecting Privacy in Big Data In an age of big data, privacy is more essential than ever before, but if we are to protect it effectively, while continuing to enjoy the benefits that big data is already making possible, we need to evolve better, faster, and more scalable mechanisms.The following are the four core elements critical to effective governance of big data.First, a transformation of the current approach to a risk management approach that places more responsibility for data stewardship, and liability for reasonably foreseeable harms, on the users of data rather than using notice and consent to shift the burden to individuals seems critical. This is because a continuing broad reliance on notice and choice at time of collection both under-protects privacy and seriously interferes with—and raises the cost of— subsequent beneficial uses of data.Second, data protection should focus more on uses of big data as opposed to the mere collection or retention of data or the purposes for which data were originally collected. One key reason why a more use-focused approach is necessary to capture the value of big data is that the analysis of big data doesn’t always start with a question or hypothesis, but rather may reveal insights that were never anticipated. As a result, data protection based on a notice specifying intended uses of data and consent for collection based on that notice can result in blocking socially valuable uses of data, lead to meaninglessly broad notices, or require exceptions to the terms under which the individual consented. If privacy protection is instead based on a risk analysis of a proposed use, then it is possible to achieve an optimum benefit from the use of the data and optimum protection for data fine-tuned for each intended use.Third, a risk management approach guided by a broad framework of cognizable harms identified through a transparent, inclusive process is critical to ensuring that individuals are protected and enhancing predictability, accountability, and efficiency.Fourth, a risk management approach that provides meaningful transparency and redress, together with effective enforcement, not only provide remedies for current harms, but also help to prevent future ones.Moreover, it is an essential requirement for responsible use of big data.There are likely many other measures that also will be useful, but these four are critical to protecting privacy while unlocking the potential of big data."
+        },
+        {
+          "rank": 8,
+          "score": 0.581251859664917,
+          "doc_id": "73",
+          "text": "Big data, big data quality problem Big data, big data quality problem Big data, big data quality problem A USAF sponsored MITRE research team undertook four separate, domain-specific case studies about Big Data applications. Those case studies were initial investigations into the question of whether or not data quality issues encountered in Big Data collections are substantially different in cause, manifestation, or detection than those data quality issues encountered in more traditionally sized data collections. The study addresses several factors affecting Big Data Quality at multiple levels, including collection, processing, and storage. Though not unexpected, the key findings of this study reinforce that the primary factors affecting Big Data reside in the limitations and complexities involved with handling Big Data while maintaining its integrity. These concerns are of a higher magnitude than the provenance of the data, the processing, and the tools used to prepare, manipulate, and store the data. Data quality is extremely important for all data analytics problems. From the study's findings, the 'truth about Big Data' is there are no fundamentally new DQ issues in Big Data analytics projects. Some DQ issues exhibit return-s-to-scale effects, and become more or less pronounced in Big Data analytics, though. Big Data Quality varies from one type of Big Data to another and from one Big Data technology to another."
+        },
+        {
+          "rank": 9,
+          "score": 0.5807073712348938,
+          "doc_id": "222",
+          "text": "Big Data Misuse and European Contract Law Big Data Misuse and European Contract Law Big Data Misuse and European Contract Law AbstractThe dynamics of contractual interactions have been evolving in recent years, as big data introduces new dimensions to previously conventional contracts. This development intensifies the information asymmetry between the dominant and vulnerable parties, posing increasing challenges for consumers and the entirety of European contract law. This paper offers three main contributions to this discourse. First, the utilization of big data introduces a novel form of information asymmetry between contracting parties, further empowering the already dominant party while exacerbating the vulnerability of the weaker party. Second, contemporary European case law and legal scholarship advocate for a harmonious approach in which European regulations and national remedies complement one another in protecting individuals. Lastly, there are already instances indicating the misuse of big data, where multiple individual claims may arise at both European and national levels."
+        },
+        {
+          "rank": 10,
+          "score": 0.5802431702613831,
+          "doc_id": "78",
+          "text": "Data learning from big data Data learning from big data Data learning from big data Abstract Technology is generating a huge and growing availability of observations of diverse nature. This big data is placing data learning as a central scientific discipline. It includes collection, storage, preprocessing, visualization and, essentially, statistical analysis of enormous batches of data. In this paper, we discuss the role of statistics regarding some of the issues raised by big data in this new paradigm and also propose the name of data learning to describe all the activities that allow to obtain relevant knowledge from this new source of information."
+        }
+      ]
+    },
+    {
+      "query": "What is the role of near real-time analytics within this framework?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 2
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5682742595672607,
+          "doc_id": "194",
+          "text": "Real-Time Monitoring of COVID-19 Vaccination Compliance: A Ubiquitous IT Convergence Approach Real-Time Monitoring of COVID-19 Vaccination Compliance: A Ubiquitous IT Convergence Approach Real-Time Monitoring of COVID-19 Vaccination Compliance: A Ubiquitous IT Convergence Approach As most countries relax restrictions on lockdown and social activities returns due to massive response to COVID-19 vaccination, there is need to put in place a universally acceptable technological innovation that can checkmate and enforce compliance to avoid resurgence of another deadly wave as witnessed previously. Combining vaccination effort with disruptive technology for compliance enforcement is an unarguable panacea. This paper presents an IT-convergence solution that fuses disruptive technologies to distinguish between vaccinated and non-vaccinated individuals in real-time and initiate strict and appropriate compliance directives and consequent denial of access to certain places. The proposed design is a fusion of facial recognition, mask wearing detection technology using Yolov5 deep learning model, network-based vaccination record management application, biometric feature-based vaccination status validation, and compliance enforcement in real-time. The system achieved 99.5&#x0025; accurate detection and 100&#x0025; real-time authentication with less computational complexities. This innovation guarantees intuitive monitoring of vaccination progress and curtailment of COVID-19 spread through compliance enforcement."
+        },
+        {
+          "rank": 2,
+          "score": 0.5621147155761719,
+          "doc_id": "128",
+          "text": "Machine learning-based adaptive CSI feedback interval Machine learning-based adaptive CSI feedback interval Machine learning-based adaptive CSI feedback interval The channel state information (CSI) is essential for the base station (BS) to schedule user equipments (UEs) and efficiently manage the radio resources. Hence, the BS requests UEs to regularly feed back the CSI. However, frequent CSI reporting causes large signaling overhead. To reduce the feedback overhead, we propose two machine learning-based approaches to adjust the CSI feedback interval. We use a deep neural network and reinforcement learning (RL) to decide whether an UE feeds back the CSI. Simulation results show that the RL-based approach achieves the lowest mean squared error while reducing the number of CSI feedback transmissions."
+        },
+        {
+          "rank": 3,
+          "score": 0.5557782649993896,
+          "doc_id": "87",
+          "text": "Big Data Analysis and Machine Learning in Intensive Care Units Big Data Analysis and Machine Learning in Intensive Care Units Big Data Analysis and Machine Learning in Intensive Care Units Abstract Intensive care is an ideal environment for the use of Big Data Analysis (BDA) and Machine Learning (ML), due to the huge amount of information processed and stored in electronic format in relation to such care. These tools can improve our clinical research capabilities and clinical decision making in the future. The present study reviews the foundations of BDA and ML, and explores possible applications in our field from a clinical viewpoint. We also suggest potential strategies to optimize these new technologies and describe a new kind of hybrid healthcare-data science professional with a linking role between clinicians and data."
+        },
+        {
+          "rank": 4,
+          "score": 0.5439916849136353,
+          "doc_id": "85",
+          "text": "Deep learning for radar Deep learning for radar Deep learning for radar Motivated by the recent advances in deep learning, we lay out a vision of how deep learning techniques can be used in radar. Specifically, our discussion focuses on the use of deep learning to advance the state-of-the-art in radar imaging. While deep learning can be directly applied to automatic target recognition (ATR), the relevance of these techniques in other radar problems is not obvious. We argue that deep learning can play a central role in advancing the state-of-the-art in a wide range of radar imaging problems, discuss the challenges associated with applying these methods, and the potential advancements that are expected. We lay out an approach to design a network architecture based on the specific structure of the synthetic aperture radar (SAR) imaging problem that augments learning with traditional SAR modelling. This framework allows for capture of the non-linearity of the SAR forward model. Furthermore, we demonstrate how this process can be used to learn and compensate for trajectory based phase error for the autofocus problem."
+        },
+        {
+          "rank": 5,
+          "score": 0.5433447957038879,
+          "doc_id": "55",
+          "text": "Navigating BAS-IT Convergence Navigating BAS-IT Convergence Navigating BAS-IT Convergence 없음"
+        },
+        {
+          "rank": 6,
+          "score": 0.5392146110534668,
+          "doc_id": "213",
+          "text": "Artificial intelligence-driven radiomics: developing valuable radiomics signatures with the use of artificial intelligence Artificial intelligence-driven radiomics: developing valuable radiomics signatures with the use of artificial intelligence Artificial intelligence-driven radiomics: developing valuable radiomics signatures with the use of artificial intelligence AbstractThe advent of radiomics has revolutionized medical image analysis, affording the extraction of high dimensional quantitative data for the detailed examination of normal and abnormal tissues. Artificial intelligence (AI) can be used for the enhancement of a series of steps in the radiomics pipeline, from image acquisition and preprocessing, to segmentation, feature extraction, feature selection, and model development. The aim of this review is to present the most used AI methods for radiomics analysis, explaining the advantages and limitations of the methods. Some of the most prominent AI architectures mentioned in this review include Boruta, random forests, gradient boosting, generative adversarial networks, convolutional neural networks, and transformers. Employing these models in the process of radiomics analysis can significantly enhance the quality and effectiveness of the analysis, while addressing several limitations that can reduce the quality of predictions. Addressing these limitations can enable high quality clinical decisions and wider clinical adoption. Importantly, this review will aim to highlight how AI can assist radiomics in overcoming major bottlenecks in clinical implementation, ultimately improving the translation potential of the method."
+        },
+        {
+          "rank": 7,
+          "score": 0.5365175008773804,
+          "doc_id": "109",
+          "text": "Optimized Data Processing Analysis Using Big Data Cloud Platform Optimized Data Processing Analysis Using Big Data Cloud Platform Optimized Data Processing Analysis Using Big Data Cloud Platform Recently data processing has main gained many attention both from academic and commercial industry. Their term use to tools, technical methods and frameworks made to gathering, collect, store, processing and analysis massive amounts of data. Data processing and analysis are based on structured/semi -structured/unstructured by big data, as well as is generated from various different sources in the system at various rates. For the purpose of processing with their large data and suitable way, voluminous parallelism is usually used. The general architecture of a big data system is made up a shared cluster of their machines. Nonetheless, even in very parallel environment, data processing is often very time-consuming. A various applications can take up to everytime to produce useful results, interactive analysis and debugging. Nevertheless, we have main problems that how we have a high performance requires both quality of data locality and resource. Moreover, big data analysis provide the amount of data that is processed typically large in comparison with computation in their systems. In other words, specified optimization that would relieve low-level to achieve good performance essentially. Accordingly, our main goal of this research paper provide how we have to do to optimize for big data frameworks. Our contribute approach to make big data cloud platform for easy and efficient processing of big data. In addition, we provides results from a study of existing optimization of data processing in MapReduce and Hadoop oriented systems."
+        },
+        {
+          "rank": 8,
+          "score": 0.5328590273857117,
+          "doc_id": "214",
+          "text": "An Efficient Parallel Machine Learning-based Blockchain Framework An Efficient Parallel Machine Learning-based Blockchain Framework An Efficient Parallel Machine Learning-based Blockchain Framework The unlimited possibilities of machine learning have been shown in several successful reports and applications. However, how to make sure that the searched results of a machine learning system are not tampered by anyone and how to prevent the other users in the same network environment from easily getting our private data are two critical research issues when we immerse into powerful machine learning-based systems or applications. This situation is just like other modern information systems that confront security and privacy issues. The development of blockchain provides us an alternative way to address these two issues. That is why some recent studies have attempted to develop machine learning systems with blockchain technologies or to apply machine learning methods to blockchain systems. To show what the combination of blockchain and machine learning is capable of doing, in this paper, we proposed a parallel framework to find out suitable hyperparameters of deep learning in a blockchain environment by using a metaheuristic algorithm. The proposed framework also takes into account the issue of communication cost, by limiting the number of information exchanges between miners and blockchain."
+        },
+        {
+          "rank": 9,
+          "score": 0.5313801169395447,
+          "doc_id": "44",
+          "text": "IT/OT convergence and cyber security IT/OT convergence and cyber security IT/OT convergence and cyber security A study by Forrester, commissioned by Fortinet, reveals the growing exposure of industry players to cyberthreats &ndash; one of the consequences of digital transformation. The lack of collaboration between IT teams and those in charge of industrial or operational technology (OT) is also a hindrance to cyber security for companies wishing to take full advantage of IT/OT convergence to increase their competitiveness."
+        },
+        {
+          "rank": 10,
+          "score": 0.531308650970459,
+          "doc_id": "148",
+          "text": "A deep-learning-based emergency alert system A deep-learning-based emergency alert system A deep-learning-based emergency alert system Emergency alert systems serve as a critical link in the chain of crisis communication, and they are essential to minimize loss during emergencies. Acts of terrorism and violence, chemical spills, amber alerts, nuclear facility problems, weather-related emergencies, flu pandemics, and other emergencies all require those responsible such as government officials, building managers, and university administrators to be able to quickly and reliably distribute emergency information to the public. This paper presents our design of a deep-learning-based emergency warning system. The proposed system is considered suitable for application in existing infrastructure such as closed-circuit television and other monitoring devices. The experimental results show that in most cases, our system immediately detects emergencies such as car accidents and natural disasters."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

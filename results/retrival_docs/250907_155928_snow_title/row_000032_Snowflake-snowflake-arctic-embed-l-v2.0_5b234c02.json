@@ -1,0 +1,221 @@
+{
+  "id": "row_000032",
+  "model_name": "Snowflake/snowflake-arctic-embed-l-v2.0",
+  "timestamp_kst": "2025-09-07T15:59:33.965197+09:00",
+  "trial_id": "5b234c02",
+  "queries": [
+    {
+      "query": "Can you provide a brief synthesis of the performance evaluation criteria and standardization framework proposed for u-IT convergence devices?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5520759224891663,
+          "doc_id": "80",
+          "text": "u-IT Convergence 기기의 성능평가기준과 표준화 연구"
+        },
+        {
+          "rank": 2,
+          "score": 0.45315665006637573,
+          "doc_id": "162",
+          "text": "IT 컨버전스의 이해와 법ㆍ기술 방향"
+        },
+        {
+          "rank": 3,
+          "score": 0.4366394281387329,
+          "doc_id": "39",
+          "text": "IT convergence and security"
+        },
+        {
+          "rank": 4,
+          "score": 0.4262750744819641,
+          "doc_id": "178",
+          "text": "IT 분야에서 컨버전스의 의미와 미래 전망"
+        },
+        {
+          "rank": 5,
+          "score": 0.42545491456985474,
+          "doc_id": "54",
+          "text": "Future trends of IT convergence"
+        },
+        {
+          "rank": 6,
+          "score": 0.42324310541152954,
+          "doc_id": "229",
+          "text": "Convergence IT 관련 기사"
+        },
+        {
+          "rank": 7,
+          "score": 0.4165228009223938,
+          "doc_id": "211",
+          "text": "On exploring factors for enhancing export competitiveness in IT Convergence industries"
+        },
+        {
+          "rank": 8,
+          "score": 0.4157668948173523,
+          "doc_id": "67",
+          "text": "Medical Device Connectivity - IT Convergence :"
+        },
+        {
+          "rank": 9,
+          "score": 0.41415199637413025,
+          "doc_id": "105",
+          "text": "A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data"
+        },
+        {
+          "rank": 10,
+          "score": 0.41415199637413025,
+          "doc_id": "218",
+          "text": "A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data"
+        }
+      ]
+    },
+    {
+      "query": "What performance evaluation criteria have been proposed for u-IT convergence devices?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5972572565078735,
+          "doc_id": "80",
+          "text": "u-IT Convergence 기기의 성능평가기준과 표준화 연구"
+        },
+        {
+          "rank": 2,
+          "score": 0.4471210837364197,
+          "doc_id": "105",
+          "text": "A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data"
+        },
+        {
+          "rank": 3,
+          "score": 0.4471210837364197,
+          "doc_id": "218",
+          "text": "A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data"
+        },
+        {
+          "rank": 4,
+          "score": 0.4406105875968933,
+          "doc_id": "211",
+          "text": "On exploring factors for enhancing export competitiveness in IT Convergence industries"
+        },
+        {
+          "rank": 5,
+          "score": 0.4379303753376007,
+          "doc_id": "67",
+          "text": "Medical Device Connectivity - IT Convergence :"
+        },
+        {
+          "rank": 6,
+          "score": 0.43729645013809204,
+          "doc_id": "54",
+          "text": "Future trends of IT convergence"
+        },
+        {
+          "rank": 7,
+          "score": 0.4357845187187195,
+          "doc_id": "229",
+          "text": "Convergence IT 관련 기사"
+        },
+        {
+          "rank": 8,
+          "score": 0.435186505317688,
+          "doc_id": "5",
+          "text": "PHOTONICS IT CONVERGENCE - Photonics Convergence ISSUE"
+        },
+        {
+          "rank": 9,
+          "score": 0.433419406414032,
+          "doc_id": "39",
+          "text": "IT convergence and security"
+        },
+        {
+          "rank": 10,
+          "score": 0.43089115619659424,
+          "doc_id": "55",
+          "text": "Navigating BAS-IT Convergence"
+        }
+      ]
+    },
+    {
+      "query": "What standardization framework has been proposed for u-IT convergence devices?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5281614661216736,
+          "doc_id": "80",
+          "text": "u-IT Convergence 기기의 성능평가기준과 표준화 연구"
+        },
+        {
+          "rank": 2,
+          "score": 0.4757261276245117,
+          "doc_id": "39",
+          "text": "IT convergence and security"
+        },
+        {
+          "rank": 3,
+          "score": 0.47139596939086914,
+          "doc_id": "54",
+          "text": "Future trends of IT convergence"
+        },
+        {
+          "rank": 4,
+          "score": 0.46928152441978455,
+          "doc_id": "55",
+          "text": "Navigating BAS-IT Convergence"
+        },
+        {
+          "rank": 5,
+          "score": 0.4662824273109436,
+          "doc_id": "162",
+          "text": "IT 컨버전스의 이해와 법ㆍ기술 방향"
+        },
+        {
+          "rank": 6,
+          "score": 0.4599827527999878,
+          "doc_id": "67",
+          "text": "Medical Device Connectivity - IT Convergence :"
+        },
+        {
+          "rank": 7,
+          "score": 0.44253987073898315,
+          "doc_id": "94",
+          "text": "The Trends of IT Convergence in Korea"
+        },
+        {
+          "rank": 8,
+          "score": 0.44029954075813293,
+          "doc_id": "178",
+          "text": "IT 분야에서 컨버전스의 의미와 미래 전망"
+        },
+        {
+          "rank": 9,
+          "score": 0.44012612104415894,
+          "doc_id": "119",
+          "text": "Photonics IT Convergence"
+        },
+        {
+          "rank": 10,
+          "score": 0.4397326409816742,
+          "doc_id": "229",
+          "text": "Convergence IT 관련 기사"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

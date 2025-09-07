@@ -1,0 +1,221 @@
+{
+  "id": "row_000016",
+  "model_name": "Snowflake/snowflake-arctic-embed-l-v2.0",
+  "timestamp_kst": "2025-09-07T15:53:03.946336+09:00",
+  "trial_id": "87b8b3cb",
+  "queries": [
+    {
+      "query": "Big Data를 이용한 Warehouse Management System 모델에서 제시된 핵심 개념과 방향을 요약해 주시겠습니까?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5677206516265869,
+          "doc_id": "227",
+          "text": "Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 본 연구는 오늘날 산업 전반적으로 영향을 미치고 있는 디지탈 전환(Digital Transformation)의 기술 환경과 디지탈 전환의 산업적 창고관리 부분의 모델연구가 본 논문의 목적이다. &amp;#xD; &amp;#xD; 디지털 전환은 오랫동안 디지털화와 비슷하거나 또는 디지털 방식으로 저장할 수 있도록 기존 데이터 형태를 전환하는 것과 관련이 있다. 물론 이 점이 중요하긴 하지만, 이전의 디지털화는 최신 디지털 전환의 영역을 포함하지 않았었다.&amp;#xD; &amp;#xD; 특히 이번 연구에서는 Big Data를 중심으로 Warehouse Management System의 방향을 제시 하고자 한다."
+        },
+        {
+          "rank": 2,
+          "score": 0.45847368240356445,
+          "doc_id": "62",
+          "text": "Utilization and Analysis of Big-data Utilization and Analysis of Big-data Utilization and Analysis of Big-data This study reviews the analysis and characteristics of databases from big data and then establishes representational strategy. Thus, analysis has continued for a long time in the quantity and quality of data, and there are changes in the location of data in the social sciences, past trends and the emergence of big data. The introduction of big data is presented as a prototype of new social science and is a useful practical example that empirically shows the need, basis, and direction of analysis through trend prediction services. Big data provides a future perspective as an important foundation for social change within the framework of basic social sciences."
+        },
+        {
+          "rank": 3,
+          "score": 0.43726760149002075,
+          "doc_id": "58",
+          "text": "Why Big Data = Big Deal Why Big Data = Big Deal Why Big Data = Big Deal 없음"
+        },
+        {
+          "rank": 4,
+          "score": 0.43469518423080444,
+          "doc_id": "158",
+          "text": "Big business with Big Data Big Business mit Big Data Big business with Big Data Big Business mit Big Data Big business with Big Data Big Business mit Big Data Big business with Big Data Big Business mit Big Data"
+        },
+        {
+          "rank": 5,
+          "score": 0.418552041053772,
+          "doc_id": "23",
+          "text": "Big data, Big bang? Big data, Big bang? Big data, Big bang? 없음"
+        },
+        {
+          "rank": 6,
+          "score": 0.3849465847015381,
+          "doc_id": "65",
+          "text": "Big Data vs. Privacy Big Data Big Data vs. Privacy Big Data Big Data vs. Privacy Big Data 없음"
+        },
+        {
+          "rank": 7,
+          "score": 0.3794773817062378,
+          "doc_id": "221",
+          "text": "Implikationen von Machine Learning auf das Datenmanagement in Unternehmen Implikationen von Machine Learning auf das Datenmanagement in Unternehmen Implikationen von Machine Learning auf das Datenmanagement in Unternehmen AbstractMachine Learning is a trend research area with great potential and far-reaching application potentials. Big Data is an enabler, as large and high-quality data are always the basis for successful machine learning algorithms and models. There is currently no fully established standard process for the machine learning life cycle, as is the case in data mining with the CRISP-DM-Process, which means that the operationalization of machine learning models in particular can present companies with major challenges. In this article, the implications for data management in companies are worked out on the basis of the view of the nature of the data, the various roles in machine learning teams and the life cycle of machine learning models."
+        },
+        {
+          "rank": 8,
+          "score": 0.37869539856910706,
+          "doc_id": "8",
+          "text": "정보통신 융합기기 연계를 고려한 데이터 중심의 정보시스템 모델의 설계 및 분석 정보통신 융합기기 연계를 고려한 데이터 중심의 정보시스템 모델의 설계 및 분석 정보통신 융합기기 연계를 고려한 데이터 중심의 정보시스템 모델의 설계 및 분석 데이터 중심 정보시스템 구축 모델은 그간 정보화 사업 추진이 HW, SW기능 중심으로 이루어지던 것을, 데이터 구조 및 데이터 수집 배포 채널에 대한 체계적인 분석과 설계, 데이터표준 적용, 정보통신 융합기기의 데이터 설정의 유연성 확보 등의 고려하여 개선한 모델이다. 이 모델의 주요 특성인 정보통신 융합기기에 데이터 유연성이 보장되는 개선 효과에 대해 센서와 반응기로 구분하여 이들 기기에 새로운 정보시스템이 추가적으로 연계되는 상황을 가정하여 시스템 개선 복잡도와 네트워크 환경에 대한 지수를 산정하여 기존의 일반적인 구축 방식과 비교하였다. 본 모델을 확산함으로써, 일반 업무용 정보시스템 외에 나날이 늘어나는 정보기술 융 복합 기기들이 처리하는 데이터에 대해서도 품질과 상호운용성을 통제하게 되어, 정보화 거버넌스의 영역 확대를 통해 종합적인 정보화 기획 및 성과 관리 등이 가능하게 되는 개선 효과가 있다."
+        },
+        {
+          "rank": 9,
+          "score": 0.3766254782676697,
+          "doc_id": "196",
+          "text": "Nursing Needs Big Data and Big Data Needs Nursing Nursing Needs Big Data and Big Data Needs Nursing Nursing Needs Big Data and Big Data Needs Nursing AbstractPurposeContemporary big data initiatives in health care will benefit from greater integration with nursing science and nursing practice; in turn, nursing science and nursing practice has much to gain from the data science initiatives. Big data arises secondary to scholarly inquiry (e.g., &#8208;omics) and everyday observations like cardiac flow sensors or Twitter feeds. Data science methods that are emerging ensure that these data be leveraged to improve patient care.Organizing ConstructBig data encompasses data that exceed human comprehension, that exist at a volume unmanageable by standard computer systems, that arrive at a velocity not under the control of the investigator and possess a level of imprecision not found in traditional inquiry. Data science methods are emerging to manage and gain insights from big data.MethodsThe primary methods included investigation of emerging federal big data initiatives, and exploration of exemplars from nursing informatics research to benchmark where nursing is already poised to participate in the big data revolution. We provide observations and reflections on experiences in the emerging big data initiatives.ConclusionsExisting approaches to large data set analysis provide a necessary but not sufficient foundation for nursing to participate in the big data revolution. Nursing's Social Policy Statement guides a principled, ethical perspective on big data and data science. There are implications for basic and advanced practice clinical nurses in practice, for the nurse scientist who collaborates with data scientists, and for the nurse data scientist.Clinical RelevanceBig data and data science has the potential to provide greater richness in understanding patient phenomena and in tailoring interventional strategies that are personalized to the patient."
+        },
+        {
+          "rank": 10,
+          "score": 0.3743366599082947,
+          "doc_id": "178",
+          "text": "IT 분야에서 컨버전스의 의미와 미래 전망 IT 분야에서 컨버전스의 의미와 미래 전망 IT 분야에서 컨버전스의 의미와 미래 전망 컨버전스(Convergence)란 단어는 집합, 집중, 수렴, 한 곳으로 모여짐 등의 뜻을 지닌 일반적인 용어로써 매우 발전해가고 있는 IT 분야에서 다양한 수요자의 욕구와 기술의 진화에 따라 최근에 매우 빈번하게 등장하고 있는 용어이자, 중요한 화두 중에 하나가 되고 있다. 이에 단어가 지니고 있는 일반적 의미를 다각적으로 분석함과 동시에 그 의미가 정보통신분야의 기술적 측면에서 또한 활용적인 측면에서 어떤 암시와 효과를 나타내고 있고, 나아가 IT 분야의 발전을 향한 목표 지향적인 측면에서의 역할이 가능한지와 또 다른 발전과 진화에 따라 어느 정도의 생명력과 경쟁력은 지닐 수 있는지를 살펴보고자 한다. 20세기 후반에 등장한 새로운 산업의 빅뱅이 되고 있는 IT 분야가 전세계로 확산, 발전되어감에 따라 수많은 일반적인 단어와 용어 들이 정보통신분야에서 도입, 활용하였고 이러한 용어들은 단어 자체의 의미 보다는 정보통신분야 발전의 현재와 미래를 규정해왔고, 나아가 정보통신 발전에 따른 혜택을 받는 전세계와 국내의 이용자들에게 많은 변화를 제공함과 동시에 연관분야의 산업에도 긍정적이던 부정적이던지 상호간 막대한 영향을 미쳐왔다고 분석된다. 이에 본 논문 자료는 IT 전문 용어가 아닌 일반적인 용어 중에서 IT 분야의 어떤 형태로든 영향을 미칠 용어 중에서 컨버전스란 단어를 통해 IT 분야의 현주소를 사례를 중심으로 분석, 점검하고 향후 IT 분야에서 컨버전스가 적용될 미래의 발전 모습을 전망하고자 하는데 있다."
+        }
+      ]
+    },
+    {
+      "query": "Big Data를 이용한 Warehouse Management System 모델의 핵심 개념은 무엇입니까?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5410630106925964,
+          "doc_id": "227",
+          "text": "Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 본 연구는 오늘날 산업 전반적으로 영향을 미치고 있는 디지탈 전환(Digital Transformation)의 기술 환경과 디지탈 전환의 산업적 창고관리 부분의 모델연구가 본 논문의 목적이다. &amp;#xD; &amp;#xD; 디지털 전환은 오랫동안 디지털화와 비슷하거나 또는 디지털 방식으로 저장할 수 있도록 기존 데이터 형태를 전환하는 것과 관련이 있다. 물론 이 점이 중요하긴 하지만, 이전의 디지털화는 최신 디지털 전환의 영역을 포함하지 않았었다.&amp;#xD; &amp;#xD; 특히 이번 연구에서는 Big Data를 중심으로 Warehouse Management System의 방향을 제시 하고자 한다."
+        },
+        {
+          "rank": 2,
+          "score": 0.4805466830730438,
+          "doc_id": "58",
+          "text": "Why Big Data = Big Deal Why Big Data = Big Deal Why Big Data = Big Deal 없음"
+        },
+        {
+          "rank": 3,
+          "score": 0.4738766551017761,
+          "doc_id": "23",
+          "text": "Big data, Big bang? Big data, Big bang? Big data, Big bang? 없음"
+        },
+        {
+          "rank": 4,
+          "score": 0.4399096369743347,
+          "doc_id": "158",
+          "text": "Big business with Big Data Big Business mit Big Data Big business with Big Data Big Business mit Big Data Big business with Big Data Big Business mit Big Data Big business with Big Data Big Business mit Big Data"
+        },
+        {
+          "rank": 5,
+          "score": 0.4242258667945862,
+          "doc_id": "62",
+          "text": "Utilization and Analysis of Big-data Utilization and Analysis of Big-data Utilization and Analysis of Big-data This study reviews the analysis and characteristics of databases from big data and then establishes representational strategy. Thus, analysis has continued for a long time in the quantity and quality of data, and there are changes in the location of data in the social sciences, past trends and the emergence of big data. The introduction of big data is presented as a prototype of new social science and is a useful practical example that empirically shows the need, basis, and direction of analysis through trend prediction services. Big data provides a future perspective as an important foundation for social change within the framework of basic social sciences."
+        },
+        {
+          "rank": 6,
+          "score": 0.41055208444595337,
+          "doc_id": "65",
+          "text": "Big Data vs. Privacy Big Data Big Data vs. Privacy Big Data Big Data vs. Privacy Big Data 없음"
+        },
+        {
+          "rank": 7,
+          "score": 0.3926102817058563,
+          "doc_id": "92",
+          "text": "Statistik, Data Science und Big Data Statistik, Data Science und Big Data Statistik, Data Science und Big Data 없음"
+        },
+        {
+          "rank": 8,
+          "score": 0.3789363503456116,
+          "doc_id": "208",
+          "text": "For Big Data, Big Questions Remain For Big Data, Big Questions Remain For Big Data, Big Questions Remain Medicare&#x2019;s release of practitioner payments highlights the strengths and weaknesses of digging into big data."
+        },
+        {
+          "rank": 9,
+          "score": 0.3733013868331909,
+          "doc_id": "88",
+          "text": "Machine learning on Big Data Machine learning on Big Data Machine learning on Big Data Statistical Machine Learning has undergone a phase transition from a pure academic endeavor to being one of the main drivers of modern commerce and science. Even more so, recent results such as those on tera-scale learning [1] and on very large neural networks [2] suggest that scale is an important ingredient in quality modeling. This tutorial introduces current applications, techniques and systems with the aim of cross-fertilizing research between the database and machine learning communities. The tutorial covers current large scale applications of Machine Learning, their computational model and the workflow behind building those. Based on this foundation, we present the current state-of-the-art in systems support in the bulk of the tutorial. We also identify critical gaps in the state-of-the-art. This leads to the closing of the seminar, where we introduce two sets of open research questions: Better systems support for the already established use cases of Machine Learning and support for recent advances in Machine Learning research."
+        },
+        {
+          "rank": 10,
+          "score": 0.36969003081321716,
+          "doc_id": "221",
+          "text": "Implikationen von Machine Learning auf das Datenmanagement in Unternehmen Implikationen von Machine Learning auf das Datenmanagement in Unternehmen Implikationen von Machine Learning auf das Datenmanagement in Unternehmen AbstractMachine Learning is a trend research area with great potential and far-reaching application potentials. Big Data is an enabler, as large and high-quality data are always the basis for successful machine learning algorithms and models. There is currently no fully established standard process for the machine learning life cycle, as is the case in data mining with the CRISP-DM-Process, which means that the operationalization of machine learning models in particular can present companies with major challenges. In this article, the implications for data management in companies are worked out on the basis of the view of the nature of the data, the various roles in machine learning teams and the life cycle of machine learning models."
+        }
+      ]
+    },
+    {
+      "query": "Big Data를 이용한 Warehouse Management System 모델에서 제시된 방향은 무엇입니까?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5031591653823853,
+          "doc_id": "227",
+          "text": "Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 본 연구는 오늘날 산업 전반적으로 영향을 미치고 있는 디지탈 전환(Digital Transformation)의 기술 환경과 디지탈 전환의 산업적 창고관리 부분의 모델연구가 본 논문의 목적이다. &amp;#xD; &amp;#xD; 디지털 전환은 오랫동안 디지털화와 비슷하거나 또는 디지털 방식으로 저장할 수 있도록 기존 데이터 형태를 전환하는 것과 관련이 있다. 물론 이 점이 중요하긴 하지만, 이전의 디지털화는 최신 디지털 전환의 영역을 포함하지 않았었다.&amp;#xD; &amp;#xD; 특히 이번 연구에서는 Big Data를 중심으로 Warehouse Management System의 방향을 제시 하고자 한다."
+        },
+        {
+          "rank": 2,
+          "score": 0.4642196595668793,
+          "doc_id": "23",
+          "text": "Big data, Big bang? Big data, Big bang? Big data, Big bang? 없음"
+        },
+        {
+          "rank": 3,
+          "score": 0.4406741261482239,
+          "doc_id": "58",
+          "text": "Why Big Data = Big Deal Why Big Data = Big Deal Why Big Data = Big Deal 없음"
+        },
+        {
+          "rank": 4,
+          "score": 0.4325360655784607,
+          "doc_id": "62",
+          "text": "Utilization and Analysis of Big-data Utilization and Analysis of Big-data Utilization and Analysis of Big-data This study reviews the analysis and characteristics of databases from big data and then establishes representational strategy. Thus, analysis has continued for a long time in the quantity and quality of data, and there are changes in the location of data in the social sciences, past trends and the emergence of big data. The introduction of big data is presented as a prototype of new social science and is a useful practical example that empirically shows the need, basis, and direction of analysis through trend prediction services. Big data provides a future perspective as an important foundation for social change within the framework of basic social sciences."
+        },
+        {
+          "rank": 5,
+          "score": 0.4226651191711426,
+          "doc_id": "158",
+          "text": "Big business with Big Data Big Business mit Big Data Big business with Big Data Big Business mit Big Data Big business with Big Data Big Business mit Big Data Big business with Big Data Big Business mit Big Data"
+        },
+        {
+          "rank": 6,
+          "score": 0.4040945768356323,
+          "doc_id": "55",
+          "text": "Navigating BAS-IT Convergence Navigating BAS-IT Convergence Navigating BAS-IT Convergence 없음"
+        },
+        {
+          "rank": 7,
+          "score": 0.3953382968902588,
+          "doc_id": "92",
+          "text": "Statistik, Data Science und Big Data Statistik, Data Science und Big Data Statistik, Data Science und Big Data 없음"
+        },
+        {
+          "rank": 8,
+          "score": 0.3928709626197815,
+          "doc_id": "65",
+          "text": "Big Data vs. Privacy Big Data Big Data vs. Privacy Big Data Big Data vs. Privacy Big Data 없음"
+        },
+        {
+          "rank": 9,
+          "score": 0.3743733763694763,
+          "doc_id": "208",
+          "text": "For Big Data, Big Questions Remain For Big Data, Big Questions Remain For Big Data, Big Questions Remain Medicare&#x2019;s release of practitioner payments highlights the strengths and weaknesses of digging into big data."
+        },
+        {
+          "rank": 10,
+          "score": 0.37087559700012207,
+          "doc_id": "196",
+          "text": "Nursing Needs Big Data and Big Data Needs Nursing Nursing Needs Big Data and Big Data Needs Nursing Nursing Needs Big Data and Big Data Needs Nursing AbstractPurposeContemporary big data initiatives in health care will benefit from greater integration with nursing science and nursing practice; in turn, nursing science and nursing practice has much to gain from the data science initiatives. Big data arises secondary to scholarly inquiry (e.g., &#8208;omics) and everyday observations like cardiac flow sensors or Twitter feeds. Data science methods that are emerging ensure that these data be leveraged to improve patient care.Organizing ConstructBig data encompasses data that exceed human comprehension, that exist at a volume unmanageable by standard computer systems, that arrive at a velocity not under the control of the investigator and possess a level of imprecision not found in traditional inquiry. Data science methods are emerging to manage and gain insights from big data.MethodsThe primary methods included investigation of emerging federal big data initiatives, and exploration of exemplars from nursing informatics research to benchmark where nursing is already poised to participate in the big data revolution. We provide observations and reflections on experiences in the emerging big data initiatives.ConclusionsExisting approaches to large data set analysis provide a necessary but not sufficient foundation for nursing to participate in the big data revolution. Nursing's Social Policy Statement guides a principled, ethical perspective on big data and data science. There are implications for basic and advanced practice clinical nurses in practice, for the nurse scientist who collaborates with data scientists, and for the nurse data scientist.Clinical RelevanceBig data and data science has the potential to provide greater richness in understanding patient phenomena and in tailoring interventional strategies that are personalized to the patient."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

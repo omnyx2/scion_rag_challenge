@@ -1,0 +1,221 @@
+{
+  "id": "row_000019",
+  "model_name": "Snowflake/snowflake-arctic-embed-l-v2.0",
+  "timestamp_kst": "2025-09-07T15:53:04.321806+09:00",
+  "trial_id": "4f3639c2",
+  "queries": [
+    {
+      "query": "패키징 분야에서의 빅데이터 분석 기법과 소비자 인식 분석 방안을 요약해 주세요.",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6642447113990784,
+          "doc_id": "165",
+          "text": "패키징(Packaging) 분야에서의 빅데이터(Big data) 적용방안 연구 패키징(Packaging) 분야에서의 빅데이터(Big data) 적용방안 연구 패키징(Packaging) 분야에서의 빅데이터(Big data) 적용방안 연구 패키징 분야도 4차 산업혁명에 발 맞춰 IoT (Internet of Things), 빅데이터, 클라우드 및 소비자 기반 기술 등이 적용되어 스마트 패키징이 등장하고 있다. 정책, 예측, 마케팅, 디자인 등 다양한 분야에서 빅데이터 분석이 활용되고 있지만 패키징 분야에서의 연구는 아직 초보적 수준이다. 따라서 본 연구는 빅데이터를 패키징 분야에 적용하기 위해 선행연구과 관련서적을 통해 빅데이터의 정의와 연구에서 활용되는 데이터 수집, 저장, 분석방법을 정리하였고 패키징 분야에 적용할 수 있는 분석방법을 제시하였다. 오늘날 패키징 분야는 마케팅적 요소를 요구받고 있기 때문에 패키징에 대한 소비자의 인식을 파악할 필요가 있으며 빅데이터의 근원이 되는 5가지 데이터 중 사유데이터(private data)와 커뮤니티 데이터(community data)를 활용하여 소비자와 제품 간의 상호작용 분석하는데 활용하고자 한다. 패키징은 소비자의 관심을 끌기 위한 전략전인 도구로 사용되며 소비자의 구매위험을 줄이는 수단이 되기 때문에 패키징에 대한 소비자의 인식을 분석할 필요가 있다. 본 연구에서는 제품 개선을 위한 문제점 도출 과정에서 의미연결망 분석(Semantic Network Analysis)과 텍스트마이닝(Text mining)을 활용하여 제품을 구성하는 다양한 요소들을 파악하고 패키징 요소의 빈도분석을 거쳐 패키징의 영향력을 확인하는 방안과 저관여 제품을 대상으로 텍스트 마이닝(Text mining)과 오피니언 마이닝(Opinion Mining), 소셜 네트워크 분석(Social Network Analysis)을 통해 패키징에 대한 감정분석을 하여 동일한 제품군에서 소비자가 선호하는 패키징을 도출하는 방안을 제시하였다. 패키징은 제품을 구성하는 많은 요소들 중 하나이기 때문에 패키징이라는 단일 요소의 영향력을 파악하기란 쉽지 않지만 본 연구는 빅데이터를 활용하여 패키징에 대한 소비자의 인식과 감정을 분석하고 제품에서 패키징이 소비자에게 미치는 영향력을 분석할 수 있는 방안을 제시한 데 의의가 있다."
+        },
+        {
+          "rank": 2,
+          "score": 0.3991820514202118,
+          "doc_id": "62",
+          "text": "Utilization and Analysis of Big-data Utilization and Analysis of Big-data Utilization and Analysis of Big-data This study reviews the analysis and characteristics of databases from big data and then establishes representational strategy. Thus, analysis has continued for a long time in the quantity and quality of data, and there are changes in the location of data in the social sciences, past trends and the emergence of big data. The introduction of big data is presented as a prototype of new social science and is a useful practical example that empirically shows the need, basis, and direction of analysis through trend prediction services. Big data provides a future perspective as an important foundation for social change within the framework of basic social sciences."
+        },
+        {
+          "rank": 3,
+          "score": 0.39712244272232056,
+          "doc_id": "58",
+          "text": "Why Big Data = Big Deal Why Big Data = Big Deal Why Big Data = Big Deal 없음"
+        },
+        {
+          "rank": 4,
+          "score": 0.3957381248474121,
+          "doc_id": "71",
+          "text": "Compromise between Small Data and Big Data Compromise between Small Data and Big Data Compromise between Small Data and Big Data Purpose: The main purpose of this work was to present the problems of big data and to present how small data can be used as a complement to big data and its effects step by step in the big data through the concept of value chain. Recently, the big data market is growing rapidly around the world because data is processed on the basis of size, diversity, speed, accuracy and value. Specifically, this study focuses on its application to Jeju tourism. Research design, data, and methodology: The problems of big data were clearly presented using various real-world examples, and the verification of the compromise with small data and its effectiveness were conducted based on research papers discussing Jeju tourism using big data. The results of the study suggested the use of small data to solve and verify the representation of big data at the collection stage of the big data value chain, and the analysis stage suggested combining the identification of behavior patterns, the strengths of small data, and the exploration of causal relationships. Results: Among various stage, in the curation phase, a cause-and-effect analysis using small data suggested a solution to the problem of mistaking the correlation of big data as causality, and in the storage phase, a policy plan using small data was proposed to solve the problem of privacy infringement. The most important part of this study was the application stage, which discussed the specific problems of big data and the possibility of compromise between small data. As well, in the utilization phase, a combination of correlation and causality, as in the curation phase, was proposed. Conclusions: As an implication of this study, we used specific examples to present synergies when big data is compromised with small data. It also showed that the compromised use of big data and small data can contribute not only in terms of research but also in terms of practicality in tourism industry. Finally, we expanded the foundation of research in terms of academic research, discussing the trade-off utilization of big and small data."
+        },
+        {
+          "rank": 5,
+          "score": 0.3947288691997528,
+          "doc_id": "158",
+          "text": "Big business with Big Data Big Business mit Big Data Big business with Big Data Big Business mit Big Data Big business with Big Data Big Business mit Big Data Big business with Big Data Big Business mit Big Data"
+        },
+        {
+          "rank": 6,
+          "score": 0.38940906524658203,
+          "doc_id": "65",
+          "text": "Big Data vs. Privacy Big Data Big Data vs. Privacy Big Data Big Data vs. Privacy Big Data 없음"
+        },
+        {
+          "rank": 7,
+          "score": 0.3782646954059601,
+          "doc_id": "161",
+          "text": "Big Data 활용을 위한 제조 품질 개선 방법에 대한 연구 Big Data 활용을 위한 제조 품질 개선 방법에 대한 연구 Big Data 활용을 위한 제조 품질 개선 방법에 대한 연구 20세기 대량 생산 시대 이래로 제조 기업의 품질은 가장 중요한 요소가 되어왔다. 따라서 품질에 대한 올바른 정의와 품질 개선을 위한 다양한 도구와 방법이 개발되어 왔으며 이의 효율적 적용을 위한 노력도 병행되어 왔다. 이러한 노력은 제조 기업의 품질 제일주의, 전사적 품질 경영, 식스 시그마 등을 통하여 정형화되고 다양한 분야에 적용되고 있다. 또한 최근 Big Data의 유용성이 소개되면서 이에 대한 제조 업계의 관심이 높아지고 있으나 이에 대한 적용은 아직 미흡한 면이 있다. 본 논문은 기존의 품질 개선을 위한 프로젝트 실행 방법을 정리해 보고 대표적인 프로젝트 중심의 개선 방법인 식스 시그마의 실행 방법을 기준으로 Big Data 활용 방법을 제안해 보기로 한다."
+        },
+        {
+          "rank": 8,
+          "score": 0.37608635425567627,
+          "doc_id": "169",
+          "text": "Big Data cluster analysis Big Data cluster analysis Big Data cluster analysis In this paper, we focused on cluster analysis as the most commonly used technique for grouping different objects. By clustering data, we can extract groups of similar objects from different collections. First, we defined Big Data and clustering to follow the rest of the paper. We presented the most popular techniques for clustering data, including partitioning, hierarchical clustering, density-based clustering, and network-based clustering. Big Data describes large amounts of data. High precision of big data can contribute to decision-making confidence, and better estimates can help increase efficiency, reduce costs, and risks. Various methods and approaches are used for data processing, including clustering, classification, regression, artificial intelligence, neural networks, association rules, decision trees, genetic algorithms, and the nearest neighbor method. A cluster represents a set of objects from the same class, which means that similar objects are grouped together, and different objects are grouped separately. We described the K-means algorithm, hierarchical clustering, density-based clustering -DBSCAN algorithm, and the STING algorithm for network-based clustering."
+        },
+        {
+          "rank": 9,
+          "score": 0.375352144241333,
+          "doc_id": "220",
+          "text": "딥 러닝기반 고객평점 예측모델 딥 러닝기반 고객평점 예측모델 딥 러닝기반 고객평점 예측모델 인터넷의 발달과 휴대용 기기의 발달로 사용자들이 데이터를 생산하고, 공유하는 일들이 매우 자연스럽고 쉬운 일이 되었다. e-마켓플레스로 대변되는 온라인 쇼핑몰에서도 사용자들의 데이터 생산과 공유가 리뷰의 형식으로 활발하게 이루어지고 있다. 리뷰의 형식은 보통 정해진 형식이 없는 비 정형데이터인 텍스트와 제품에 대한 고객의 평점으로 이루어져있다. 이와 같이 형태로 적극적으로 공유된 정보들은 구매에 중요한 요소로 사용되고 있다. &amp;#xD; 본 논문에서는 이렇게 누적된 리뷰 데이터를 학습하여 고객의 평점을 예측하는 딥 러닝(Deep learning) 모델을 작성하고자 한다. 학습에 필요한 입력데이터 즉 고객의 특성에 관한 일반적인 정보는 쇼핑몰 내부에 있고, 개인 정보가 포함되어 있기 때문에 사용하기 어려운 문제점이 있다. 이를 극복하기 위해 리뷰 자체에서 고객의 특징(feature)을 추출하는 방법을 사용하였다. 비정형 리뷰 데이터에서 텍스트 마이닝 기법을 사용하여 정형화된 고객의 특징을 추출하였다.&amp;#xD; 실험 대상 제품은 11번가 쇼핑몰에서 하나의 화장품을 선정하였다. 최적의 딥 러닝 모델을 찾기 위하여 Drop-Out 및 Rectified Linear hidden Unite(ReLU)를 사용하며 결과를 평가하였다. 딥 러닝의 예측 결과는 고객 평점을 기반으로 하여 좋음, 보통, 나쁨 3가지를 출력 하도록 실험을 진행하였다. 실험을 통해 완성된 딥 러닝 모델이 출력하는 좋은, 보통, 나쁨 3가지 결과와 실제 고객이 입력 한 평점을 비교하였다. 실험 결과 90%의 정확도를 보였다."
+        },
+        {
+          "rank": 10,
+          "score": 0.3713545501232147,
+          "doc_id": "155",
+          "text": "Machine Learning Versus Deep Learning Performances on the Sentiment Analysis of Product Reviews Machine Learning Versus Deep Learning Performances on the Sentiment Analysis of Product Reviews Machine Learning Versus Deep Learning Performances on the Sentiment Analysis of Product Reviews At this current digital era, business platforms have been drastically shifted toward online stores on internet. With the internet-based platform, customers can order goods easily using their smart phones and get delivery at their place without going to the shopping mall. However, the drawback of this business platform is that customers do not really know about the quality of the products they ordered. Therefore, such platform service often provides the review section to let previous customers leave a review about the received product. The reviews are a good source to analyze customer's satisfaction. Business owners can assess review trend as either positive or negative based on a feedback score that customers had given, but it takes too much time for human to analyze this data. In this research, we develop computational models using machine learning techniques to classify product reviews as positive or negative based on the sentiment analysis. In our experiments, we use the book review data from amazon.com to develop the models. For a machine learning based strategy, the data had been transformed with the bag of word technique before developing models using logistic regression, na&iuml;ve bayes, support vector machine, and neural network algorithms. For a deep learning strategy, the word embedding is a technique that we used to transform data before applying the long short-term memory and gated recurrent unit techniques. On comparing performance of machine learning against deep learning models, we compare results from the two methods with both the preprocessed dataset and the non-preprocessed dataset. The result is that the bag of words with neural network outperforms other techniques on both non-preprocess and preprocess datasets."
+        }
+      ]
+    },
+    {
+      "query": "패키징 분야에서 활용되는 빅데이터 분석 기법은 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5225127935409546,
+          "doc_id": "165",
+          "text": "패키징(Packaging) 분야에서의 빅데이터(Big data) 적용방안 연구 패키징(Packaging) 분야에서의 빅데이터(Big data) 적용방안 연구 패키징(Packaging) 분야에서의 빅데이터(Big data) 적용방안 연구 패키징 분야도 4차 산업혁명에 발 맞춰 IoT (Internet of Things), 빅데이터, 클라우드 및 소비자 기반 기술 등이 적용되어 스마트 패키징이 등장하고 있다. 정책, 예측, 마케팅, 디자인 등 다양한 분야에서 빅데이터 분석이 활용되고 있지만 패키징 분야에서의 연구는 아직 초보적 수준이다. 따라서 본 연구는 빅데이터를 패키징 분야에 적용하기 위해 선행연구과 관련서적을 통해 빅데이터의 정의와 연구에서 활용되는 데이터 수집, 저장, 분석방법을 정리하였고 패키징 분야에 적용할 수 있는 분석방법을 제시하였다. 오늘날 패키징 분야는 마케팅적 요소를 요구받고 있기 때문에 패키징에 대한 소비자의 인식을 파악할 필요가 있으며 빅데이터의 근원이 되는 5가지 데이터 중 사유데이터(private data)와 커뮤니티 데이터(community data)를 활용하여 소비자와 제품 간의 상호작용 분석하는데 활용하고자 한다. 패키징은 소비자의 관심을 끌기 위한 전략전인 도구로 사용되며 소비자의 구매위험을 줄이는 수단이 되기 때문에 패키징에 대한 소비자의 인식을 분석할 필요가 있다. 본 연구에서는 제품 개선을 위한 문제점 도출 과정에서 의미연결망 분석(Semantic Network Analysis)과 텍스트마이닝(Text mining)을 활용하여 제품을 구성하는 다양한 요소들을 파악하고 패키징 요소의 빈도분석을 거쳐 패키징의 영향력을 확인하는 방안과 저관여 제품을 대상으로 텍스트 마이닝(Text mining)과 오피니언 마이닝(Opinion Mining), 소셜 네트워크 분석(Social Network Analysis)을 통해 패키징에 대한 감정분석을 하여 동일한 제품군에서 소비자가 선호하는 패키징을 도출하는 방안을 제시하였다. 패키징은 제품을 구성하는 많은 요소들 중 하나이기 때문에 패키징이라는 단일 요소의 영향력을 파악하기란 쉽지 않지만 본 연구는 빅데이터를 활용하여 패키징에 대한 소비자의 인식과 감정을 분석하고 제품에서 패키징이 소비자에게 미치는 영향력을 분석할 수 있는 방안을 제시한 데 의의가 있다."
+        },
+        {
+          "rank": 2,
+          "score": 0.41494178771972656,
+          "doc_id": "62",
+          "text": "Utilization and Analysis of Big-data Utilization and Analysis of Big-data Utilization and Analysis of Big-data This study reviews the analysis and characteristics of databases from big data and then establishes representational strategy. Thus, analysis has continued for a long time in the quantity and quality of data, and there are changes in the location of data in the social sciences, past trends and the emergence of big data. The introduction of big data is presented as a prototype of new social science and is a useful practical example that empirically shows the need, basis, and direction of analysis through trend prediction services. Big data provides a future perspective as an important foundation for social change within the framework of basic social sciences."
+        },
+        {
+          "rank": 3,
+          "score": 0.4059308171272278,
+          "doc_id": "23",
+          "text": "Big data, Big bang? Big data, Big bang? Big data, Big bang? 없음"
+        },
+        {
+          "rank": 4,
+          "score": 0.40204232931137085,
+          "doc_id": "158",
+          "text": "Big business with Big Data Big Business mit Big Data Big business with Big Data Big Business mit Big Data Big business with Big Data Big Business mit Big Data Big business with Big Data Big Business mit Big Data"
+        },
+        {
+          "rank": 5,
+          "score": 0.3955751061439514,
+          "doc_id": "92",
+          "text": "Statistik, Data Science und Big Data Statistik, Data Science und Big Data Statistik, Data Science und Big Data 없음"
+        },
+        {
+          "rank": 6,
+          "score": 0.39454513788223267,
+          "doc_id": "58",
+          "text": "Why Big Data = Big Deal Why Big Data = Big Deal Why Big Data = Big Deal 없음"
+        },
+        {
+          "rank": 7,
+          "score": 0.3901905119419098,
+          "doc_id": "65",
+          "text": "Big Data vs. Privacy Big Data Big Data vs. Privacy Big Data Big Data vs. Privacy Big Data 없음"
+        },
+        {
+          "rank": 8,
+          "score": 0.3710959553718567,
+          "doc_id": "227",
+          "text": "Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 본 연구는 오늘날 산업 전반적으로 영향을 미치고 있는 디지탈 전환(Digital Transformation)의 기술 환경과 디지탈 전환의 산업적 창고관리 부분의 모델연구가 본 논문의 목적이다. &amp;#xD; &amp;#xD; 디지털 전환은 오랫동안 디지털화와 비슷하거나 또는 디지털 방식으로 저장할 수 있도록 기존 데이터 형태를 전환하는 것과 관련이 있다. 물론 이 점이 중요하긴 하지만, 이전의 디지털화는 최신 디지털 전환의 영역을 포함하지 않았었다.&amp;#xD; &amp;#xD; 특히 이번 연구에서는 Big Data를 중심으로 Warehouse Management System의 방향을 제시 하고자 한다."
+        },
+        {
+          "rank": 9,
+          "score": 0.3684280514717102,
+          "doc_id": "32",
+          "text": "빅데이터 처리 프로세스에 따른 빅데이터 위험요인 분석 빅데이터 처리 프로세스에 따른 빅데이터 위험요인 분석 빅데이터 처리 프로세스에 따른 빅데이터 위험요인 분석 Recently, as value for practical use of big data is evaluated, companies and organizations that create benefit and profit are gradually increasing with application of big data. But specifical and theoretical study about possible risk factors as introduction of big data is not being conducted. Accordingly, the study extracts the possible risk factors as introduction of big data based on literature reviews and classifies according to big data processing, data collection, data storage, data analysis, analysis data visualization and application. Also, the risk factors have order of priority according to the degree of risk from the survey of experts. This study will make a chance that can avoid risks by bid data processing and preparation for risks in order of dangerous grades of risk."
+        },
+        {
+          "rank": 10,
+          "score": 0.3665706515312195,
+          "doc_id": "164",
+          "text": "Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade 없음"
+        }
+      ]
+    },
+    {
+      "query": "소비자 인식 분석 방안에는 어떤 것들이 있나요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.3482312560081482,
+          "doc_id": "216",
+          "text": "A Study on Artificial Intelligence A Study on Artificial Intelligence A Study on Artificial Intelligence 없음"
+        },
+        {
+          "rank": 2,
+          "score": 0.33574050664901733,
+          "doc_id": "55",
+          "text": "Navigating BAS-IT Convergence Navigating BAS-IT Convergence Navigating BAS-IT Convergence 없음"
+        },
+        {
+          "rank": 3,
+          "score": 0.3357003927230835,
+          "doc_id": "132",
+          "text": "Artificial intelligence Artificial intelligence Artificial intelligence 없음"
+        },
+        {
+          "rank": 4,
+          "score": 0.33258962631225586,
+          "doc_id": "72",
+          "text": "IT Convergence: Advice to Biomeds IT Convergence: Advice to Biomeds IT Convergence: Advice to Biomeds 없음"
+        },
+        {
+          "rank": 5,
+          "score": 0.3317863345146179,
+          "doc_id": "23",
+          "text": "Big data, Big bang? Big data, Big bang? Big data, Big bang? 없음"
+        },
+        {
+          "rank": 6,
+          "score": 0.31701281666755676,
+          "doc_id": "116",
+          "text": "IT 기반의 convergence 제품의 구입태도에 대한 연구 IT 기반의 convergence 제품의 구입태도에 대한 연구 IT 기반의 convergence 제품의 구입태도에 대한 연구 본 연구의 목적은 소비자들이 IT 기반의 컨버전스 제품을 구매함에 있어서 지각하는 구매태도를 바탕으로 구매의사결정을 이론적 배경에 대한 검토를 바탕으로 가설을 설정하고 이들 가설을 검증하기 위하여 실증연구를 수행하였다. IT 컨버전스 제품에 있어서 효용성이 주는 소비자들이 제품이나 서비스를 채용하는데 있어서 매우 중요한 전략적 접근방법이다. 소비자들의 IT 컨버전스 제품을 구매하는데 있어 기업의 경쟁력 강화전략을 도출하는 것이 성공적인 시장진입에 대한 시사점임을 알 수 있다."
+        },
+        {
+          "rank": 7,
+          "score": 0.31484556198120117,
+          "doc_id": "54",
+          "text": "Future trends of IT convergence Future trends of IT convergence Future trends of IT convergence 없음"
+        },
+        {
+          "rank": 8,
+          "score": 0.3111501932144165,
+          "doc_id": "184",
+          "text": "Artificial Intelligence in Pharmacy Artificial Intelligence in Pharmacy Artificial Intelligence in Pharmacy 없음"
+        },
+        {
+          "rank": 9,
+          "score": 0.3069072365760803,
+          "doc_id": "136",
+          "text": "IT/automation convergence revisited IT/automation convergence revisited IT/automation convergence revisited 없음"
+        },
+        {
+          "rank": 10,
+          "score": 0.30473119020462036,
+          "doc_id": "139",
+          "text": "IT Convergence Self-care Guide Insole IT Convergence Self-care Guide Insole IT Convergence Self-care Guide Insole 없음"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

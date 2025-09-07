@@ -1,0 +1,291 @@
+{
+  "id": "row_000021",
+  "model_name": "Alibaba-NLP/gte-multilingual-base",
+  "timestamp_kst": "2025-09-07T17:17:04.408167+09:00",
+  "trial_id": "c0949bf3",
+  "queries": [
+    {
+      "query": "Could you summarize how deep learning techniques are envisioned to enhance radar imaging and the main challenges and proposed network architecture discussed?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.8256055116653442,
+          "doc_id": "85",
+          "text": "Deep learning for radar Deep learning for radar Deep learning for radar Motivated by the recent advances in deep learning, we lay out a vision of how deep learning techniques can be used in radar. Specifically, our discussion focuses on the use of deep learning to advance the state-of-the-art in radar imaging. While deep learning can be directly applied to automatic target recognition (ATR), the relevance of these techniques in other radar problems is not obvious. We argue that deep learning can play a central role in advancing the state-of-the-art in a wide range of radar imaging problems, discuss the challenges associated with applying these methods, and the potential advancements that are expected. We lay out an approach to design a network architecture based on the specific structure of the synthetic aperture radar (SAR) imaging problem that augments learning with traditional SAR modelling. This framework allows for capture of the non-linearity of the SAR forward model. Furthermore, we demonstrate how this process can be used to learn and compensate for trajectory based phase error for the autofocus problem."
+        },
+        {
+          "rank": 2,
+          "score": 0.6242161989212036,
+          "doc_id": "179",
+          "text": "Deep Structured Learning: Architectures and Applications Deep Structured Learning: Architectures and Applications Deep Structured Learning: Architectures and Applications Deep learning, a sub-field of machine learning changing the prospects of artificial intelligence (AI) because of its recent advancements and application in various field. Deep learning deals with algorithms inspired by the structure and function of the brain called artificial neural networks. This works reviews basic architecture and recent advancement of deep structured learning. It also describes contemporary applications of deep structured learning and its advantages over the treditional learning in artificial interlligence. This study is useful for the general readers and students who are in the early stage of deep learning studies."
+        },
+        {
+          "rank": 3,
+          "score": 0.6205445528030396,
+          "doc_id": "152",
+          "text": "Deep Learning in MR Image Processing Deep Learning in MR Image Processing Deep Learning in MR Image Processing Recently, deep learning methods have shown great potential in various tasks that involve handling large amounts of digital data. In the field of MR imaging research, deep learning methods are also rapidly being applied in a wide range of areas to complement or replace traditional model-based methods. Deep learning methods have shown remarkable improvements in several MR image processing areas such as image reconstruction, image quality improvement, parameter mapping, image contrast conversion, and image segmentation. With the current rapid development of deep learning technologies, the importance of the role of deep learning in MR imaging research appears to be growing. In this article, we introduce the basic concepts of deep learning and review recent studies on various MR image processing applications."
+        },
+        {
+          "rank": 4,
+          "score": 0.617608904838562,
+          "doc_id": "25",
+          "text": "A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis The image analysis is an important and predominant task for classifying the different parts of the image. The analysis of complex image analysis like histopathological define a crucial factor in oncology due to its ability to help pathologists for interpretation of images and therefore various feature extraction techniques have been evolved from time to time for such analysis. Although deep reinforcement learning is a new and emerging technique but very less effort has been made to compare the deep learning and deep reinforcement learning for image analysis. The paper highlights how both techniques differ in feature extraction from complex images and discusses the potential pros and cons. The use of Convolution Neural Network (CNN) in image segmentation, detection and diagnosis of tumour, feature extraction is important but there are several challenges that need to be overcome before Deep Learning can be applied to digital pathology. The one being is the availability of sufficient training examples for medical image datasets, feature extraction from whole area of the image, ground truth localized annotations, adversarial effects of input representations and extremely large size of the digital pathological slides (in gigabytes).Even though formulating Histopathological Image Analysis (HIA) as Multi Instance Learning (MIL) problem is a remarkable step where histopathological image is divided into high resolution patches to make predictions for the patch and then combining them for overall slide predictions but it suffers from loss of contextual and spatial information. In such cases the deep reinforcement learning techniques can be used to learn feature from the limited data without losing contextual and spatial information."
+        },
+        {
+          "rank": 5,
+          "score": 0.617608904838562,
+          "doc_id": "74",
+          "text": "A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis The image analysis is an important and predominant task for classifying the different parts of the image. The analysis of complex image analysis like histopathological define a crucial factor in oncology due to its ability to help pathologists for interpretation of images and therefore various feature extraction techniques have been evolved from time to time for such analysis. Although deep reinforcement learning is a new and emerging technique but very less effort has been made to compare the deep learning and deep reinforcement learning for image analysis. The paper highlights how both techniques differ in feature extraction from complex images and discusses the potential pros and cons. The use of Convolution Neural Network (CNN) in image segmentation, detection and diagnosis of tumour, feature extraction is important but there are several challenges that need to be overcome before Deep Learning can be applied to digital pathology. The one being is the availability of sufficient training examples for medical image datasets, feature extraction from whole area of the image, ground truth localized annotations, adversarial effects of input representations and extremely large size of the digital pathological slides (in gigabytes).Even though formulating Histopathological Image Analysis (HIA) as Multi Instance Learning (MIL) problem is a remarkable step where histopathological image is divided into high resolution patches to make predictions for the patch and then combining them for overall slide predictions but it suffers from loss of contextual and spatial information. In such cases the deep reinforcement learning techniques can be used to learn feature from the limited data without losing contextual and spatial information."
+        },
+        {
+          "rank": 6,
+          "score": 0.6174631714820862,
+          "doc_id": "213",
+          "text": "Artificial intelligence-driven radiomics: developing valuable radiomics signatures with the use of artificial intelligence Artificial intelligence-driven radiomics: developing valuable radiomics signatures with the use of artificial intelligence Artificial intelligence-driven radiomics: developing valuable radiomics signatures with the use of artificial intelligence AbstractThe advent of radiomics has revolutionized medical image analysis, affording the extraction of high dimensional quantitative data for the detailed examination of normal and abnormal tissues. Artificial intelligence (AI) can be used for the enhancement of a series of steps in the radiomics pipeline, from image acquisition and preprocessing, to segmentation, feature extraction, feature selection, and model development. The aim of this review is to present the most used AI methods for radiomics analysis, explaining the advantages and limitations of the methods. Some of the most prominent AI architectures mentioned in this review include Boruta, random forests, gradient boosting, generative adversarial networks, convolutional neural networks, and transformers. Employing these models in the process of radiomics analysis can significantly enhance the quality and effectiveness of the analysis, while addressing several limitations that can reduce the quality of predictions. Addressing these limitations can enable high quality clinical decisions and wider clinical adoption. Importantly, this review will aim to highlight how AI can assist radiomics in overcoming major bottlenecks in clinical implementation, ultimately improving the translation potential of the method."
+        },
+        {
+          "rank": 7,
+          "score": 0.6049706935882568,
+          "doc_id": "175",
+          "text": "딥 러닝을 이용한 DC 모터 제어 딥 러닝을 이용한 DC 모터 제어 딥 러닝을 이용한 DC 모터 제어 딥 러닝(deep learning)은 최근에 많이 알려지게 된 심층 인공신경망 알고리즘이다. 일반적인 인공신경망보다 은닉층의 개수와 뉴런의 개수를 확장시키고, 학습이 효율적으로 될 수 있게 알고리즘을 개선한 것이 가장 큰 특징이다. 이러한 특징을 활용하여 기존의 인공신경망으로 풀지 못했던 크고 복잡한 문제들을 해결할 수 있게 되었다. 음성인식, 손 글씨 인식, 얼굴 인식 등 복잡한 패턴인식과 분류에 관련된 다양한 분야에 대한 적용 연구가 활발히 진행되고 있다. 하지만 이러한 장점에도 불구하고, 아직까지 딥 러닝이 제어문제를 해결하기 위해 적용된 사례는 찾아보기 어렵다. 본 논문에서는 간단한 사례를 통해 딥 러닝의 제어문제에 대한 적용 가능성을 확인해 본다. 딥 러닝 알고리즘 중에서 가장 잘 알려진, 깊은 믿음 네트워크(deep belief network) 알고리즘을 사용하여 산업현장에서 가장 많이 사용되고 있는 PID 제어기를 모방하는 딥 러닝 제어기를 설계한다. DC 모터를 제어하는 시스템에서 PID 제어기에 들어오는 입력과 PID 제어기에서 나오는 출력값을 학습 데이터로 사용하여 딥 러닝으로 학습하는 방법을 사용한다. 시뮬레이션을 통해 제안한 딥 러닝 제어기와 PID 제어기를 비교하여 딥 러닝 알고리즘의 성능을 검증한다."
+        },
+        {
+          "rank": 8,
+          "score": 0.6012202501296997,
+          "doc_id": "134",
+          "text": "Deep Metric Learning 기반 원격탐사 변화탐지 기술 연구 Deep Metric Learning 기반 원격탐사 변화탐지 기술 연구 Deep Metric Learning 기반 원격탐사 변화탐지 기술 연구 원격탐사 영상을 활용하여 변화를 탐지하기 위해 다양한 기술들이 활발히 연구되고 있다. 본 논문에서는 Triplet Loss 기반 Deep Metric Learning 기법을 활용하여 원격탐사 영상에서 변화 탐지를 수행하는 새로운 접근법을 제안하고, 이를 통해 기존 변화 탐지 기술의 한계를 극복하고자 한다. 원격탐사 기술은 도시 개발, 환경 모니터링, 재난 관리 등 다양한 분야에서 핵심적인 역할을 하고 있으며, 특히 시계열 영상 간의 변화를 정확히 탐지하는 기술은 점차 중요성이 높아지고 있다. 그러나 기존의 변화 탐지 기술은 위치 불일치, 조명 변화, 계절적 요인과 같은 외부 환경에 민감하며, 텍스처와 색상 변화를 효과적으로 구분하지 못하는 한계가 존재한다.&amp;#xD; 본 연구에서는 이러한 문제를 해결하기 위해 Deep Metric Learning의 Triplet Loss를 도입하여 변화탐지의 정확도와 신뢰성을 높이는 새로운 방법론을 제시한다."
+        },
+        {
+          "rank": 9,
+          "score": 0.6010968685150146,
+          "doc_id": "125",
+          "text": "An overview of deep learning techniques An overview of deep learning techniques An overview of deep learning techniques ZusammenfassungDeep Learning ist der Ansatz, der die k&uuml;nstliche Intelligenz innerhalb weniger Jahre tiefgreifend ver&auml;ndert hat. Auch wenn sie durch verschiedene algorithmische Fortschritte begleitet wird, ist diese Technik vor allem aus Anwendungssicht &#x201e;disruptiv“: Sie verschiebt die Grenze automatisierbarer Aufgaben betr&auml;chtlich, ver&auml;ndert die Art der Produktentwicklung und steht praktisch jedermann zur Verf&uuml;gung. Gegenstand des Deep Learning sind neuronale Netze mit einer großen Anzahl von Schichten. Verglichen mit fr&uuml;heren Ans&auml;tzen mit idealerweise einer einzigen Schicht, erlaubt dies den Einsatz massiver Rechenhardware, um Black-Box-Modelle mit einem Minimum an Entwicklungsaufwand direkt aus Rohdaten zu trainieren. Die meisten erfolgreichen Anwendungen finden sich in der Auswertung visueller Bilder, aber auch in der Audio- und Text-Modellierung."
+        },
+        {
+          "rank": 10,
+          "score": 0.6009271144866943,
+          "doc_id": "79",
+          "text": "Enhancing Smart Grid Anomaly Detection Through Deep Learning Enhancing Smart Grid Anomaly Detection Through Deep Learning Enhancing Smart Grid Anomaly Detection Through Deep Learning The modernization of power grids into smart grids introduces numerous benefits, including improved efficiency, reliability, and sustainability. But, the complicated and interconnected nature of smart grid systems also presents challenges, particularly in detecting anomalies and ensuring grid resilience against disruptive events. Traditional anomaly detection methods often struggle to adapt to the dynamic and heterogeneous nature of smart grid data, leading to inefficiencies in identifying and mitigating anomalies. To address these issues, this study proposes a new approach to enhance smart grid anomaly detection and resilience trough deep learning techniques, with a focus on leveraging the TensorFlow framework. The research objective is twofold: firstly, to develop advanced deep learning models capable of accurately detecting anomalies within smart grid data, and secondly, to enhance grid resilience by proactively responding to and mitigating identified anomalies. TensorFlow, a versatile deep learning framework, is chosen as the primary tool for its ability to handle large scale datasets, optimize model performance, and facilitate efficient training of complex neural network architectures. By using the power of deep learning, the developed models exhibit robustness in identifying subtle anomalies and devising proactive strategies to mitigate their impact."
+        }
+      ]
+    },
+    {
+      "query": "How are deep learning techniques envisioned to enhance radar imaging?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7913244366645813,
+          "doc_id": "85",
+          "text": "Deep learning for radar Deep learning for radar Deep learning for radar Motivated by the recent advances in deep learning, we lay out a vision of how deep learning techniques can be used in radar. Specifically, our discussion focuses on the use of deep learning to advance the state-of-the-art in radar imaging. While deep learning can be directly applied to automatic target recognition (ATR), the relevance of these techniques in other radar problems is not obvious. We argue that deep learning can play a central role in advancing the state-of-the-art in a wide range of radar imaging problems, discuss the challenges associated with applying these methods, and the potential advancements that are expected. We lay out an approach to design a network architecture based on the specific structure of the synthetic aperture radar (SAR) imaging problem that augments learning with traditional SAR modelling. This framework allows for capture of the non-linearity of the SAR forward model. Furthermore, we demonstrate how this process can be used to learn and compensate for trajectory based phase error for the autofocus problem."
+        },
+        {
+          "rank": 2,
+          "score": 0.7184804677963257,
+          "doc_id": "152",
+          "text": "Deep Learning in MR Image Processing Deep Learning in MR Image Processing Deep Learning in MR Image Processing Recently, deep learning methods have shown great potential in various tasks that involve handling large amounts of digital data. In the field of MR imaging research, deep learning methods are also rapidly being applied in a wide range of areas to complement or replace traditional model-based methods. Deep learning methods have shown remarkable improvements in several MR image processing areas such as image reconstruction, image quality improvement, parameter mapping, image contrast conversion, and image segmentation. With the current rapid development of deep learning technologies, the importance of the role of deep learning in MR imaging research appears to be growing. In this article, we introduce the basic concepts of deep learning and review recent studies on various MR image processing applications."
+        },
+        {
+          "rank": 3,
+          "score": 0.6515306830406189,
+          "doc_id": "125",
+          "text": "An overview of deep learning techniques An overview of deep learning techniques An overview of deep learning techniques ZusammenfassungDeep Learning ist der Ansatz, der die k&uuml;nstliche Intelligenz innerhalb weniger Jahre tiefgreifend ver&auml;ndert hat. Auch wenn sie durch verschiedene algorithmische Fortschritte begleitet wird, ist diese Technik vor allem aus Anwendungssicht &#x201e;disruptiv“: Sie verschiebt die Grenze automatisierbarer Aufgaben betr&auml;chtlich, ver&auml;ndert die Art der Produktentwicklung und steht praktisch jedermann zur Verf&uuml;gung. Gegenstand des Deep Learning sind neuronale Netze mit einer großen Anzahl von Schichten. Verglichen mit fr&uuml;heren Ans&auml;tzen mit idealerweise einer einzigen Schicht, erlaubt dies den Einsatz massiver Rechenhardware, um Black-Box-Modelle mit einem Minimum an Entwicklungsaufwand direkt aus Rohdaten zu trainieren. Die meisten erfolgreichen Anwendungen finden sich in der Auswertung visueller Bilder, aber auch in der Audio- und Text-Modellierung."
+        },
+        {
+          "rank": 4,
+          "score": 0.6400448679924011,
+          "doc_id": "103",
+          "text": "Artificial Intelligence in Neuroimaging: Clinical Applications Artificial Intelligence in Neuroimaging: Clinical Applications Artificial Intelligence in Neuroimaging: Clinical Applications Artificial intelligence (AI) powered by deep learning (DL) has shown remarkable progress in image recognition tasks. Over the past decade, AI has proven its feasibility for applications in medical imaging. Various aspects of clinical practice in neuroimaging can be improved with the help of AI. For example, AI can aid in detecting brain metastases, predicting treatment response of brain tumors, generating a parametric map of dynamic contrast-enhanced MRI, and enhancing radiomics research by extracting salient features from input images. In addition, image quality can be improved via AI-based image reconstruction or motion artifact reduction. In this review, we summarize recent clinical applications of DL in various aspects of neuroimaging."
+        },
+        {
+          "rank": 5,
+          "score": 0.6393157243728638,
+          "doc_id": "104",
+          "text": "Deep learning Deep learning Deep learning Artificial intelligence is one of the most beautiful dreams of mankind. Although computer technology has made considerable progress, so far, there is no computer showing intelligence like human beings. The emergence of deep learning gives people a glimmer of hope. So, what is learning deep? Why is it so important? How does it work? And what are the existing achievements and difficulties? This paper provides an overview of deep learning which will answer these questions."
+        },
+        {
+          "rank": 6,
+          "score": 0.6391651034355164,
+          "doc_id": "156",
+          "text": "눈 특징의 STFT 결합 영상과 deep learning을 이용한 감성 인식 눈 특징의 STFT 결합 영상과 deep learning을 이용한 감성 인식 눈 특징의 STFT 결합 영상과 deep learning을 이용한 감성 인식 최근 사용자의 요구를 이해하기 위해 인간-컴퓨터 상호작용 (HCI) 분야에서 다양한 연구가 수행되고 있다. HCI의 대표적인 기술 중 하나는 사용자 감정 인식이다. 감정의 중요성이 증대됨에 따라, 사용자의 감정을 인식하기 위해 얼굴 표정, 제스처, 음성신호, 생리신호, 안구특징 및 멀티 모달리티 (Multi-Modality) 신호를 특징으로 사용하는 방법들이 제안되고 있다. &amp;#xD; 특히, 안구 특징은 사용자가 의도적으로 제어할 수 없으며 컴퓨터가 무의식적인 특징들을 인식할 수 있기 때문에 감정인식에 적합하다. 또한 다양한 분야에 적용될 것으로 기대되는 가상현실과 증강현실을 위해 안구 특징에 기반한 감정인식 기술이 연구되어야 한다.&amp;#xD; 합성곱 신경망 (CNN)과 재귀 신경망 (RNN)과 같은 심층 학습 (Deep learning) 기술들이 다양한 분야에서 성공하고 있으며, 다양한 모달리티들을 이용하는 감정인식 연구에 적용되고 있다. 그러나 다른 모달리티들과 달리, 안구 특징만을 사용하는 심층 학습기반의 감정인식 연구는 매우 부족하다.&amp;#xD; 본 학위논문에서는 시간정보와 동공 크기와 눈 움직임 신호와 같은 안구 특징들만을 이용한 심층 학습 기반의 감정인식 방법을 제안한다.&amp;#xD; 그 과정은 다음과 같다. 먼저, 눈 깜빡임 또는 기술적인 결함으로 인해 발생되는 눈 크기 및 눈 움직임 신호들의 데이터 미획득 구간을 채우기 위한 보간을 수행한다. 그 후 데이터의 길이와 범위를 일치시키기 위해, 신호의 시간과 각 피실험자의 신호들에 대해 정규화를 수행한다. 다음으로 동공 크기 및 눈 움직임 신호들의 시간과 주파수 정보를 분석하기 위해 Short-Time Fourier Transform (STFT) 특징들을 추출하고, 그 특징들을 결합하여 STFT 특징 결합 영상이라 불리우는 단일 이미지를 생성한다. 마지막으로, valence-arousal 인식을 수행하기 위해, STFT 특징 결합 영상에 적합한 심층 학습 모델을 생성한 후 leave-one-out cross validation (LOOCV) 방법을 이용하여 제안하는 방법의 성능을 평가한다. &amp;#xD; 대부분의 연구에서, 안구 특징은 다른 모달리티 기반의 감정인식 성능을 향상시키기 위한 보조정보로만 사용하고 있다. 이는 안구 특징이 자극에 민감하고 수동적인 특징 추출방법으로 양질의 특징을 추출하기 어려운 많은 이상치 (Outlier)들을 포함하기 때문이다. 그러나 제안하는 방법의 분류 정확도는 Soleymani [53]가 제안한 결정 수준 융합 (DLF)와 서포트 벡터 머신 (SVM)을 이용한 방법보다 valence와 arousal 감정에 대해 각각 23.6%, 9.8% 향상된 분류 정확도를 달성하였다.&amp;#xD; 실험결과는 제안하는 방법의 효과성을 입증하였고, CNN 모델이 다른 모달리티 기반의 감정인식 방법뿐만 아니라 안구 특징 기반 감정인식에도 효과적이며, 눈 움직임 정보가 valence 감정 인식에도 효과적임을 보였다."
+        },
+        {
+          "rank": 7,
+          "score": 0.6373422741889954,
+          "doc_id": "175",
+          "text": "딥 러닝을 이용한 DC 모터 제어 딥 러닝을 이용한 DC 모터 제어 딥 러닝을 이용한 DC 모터 제어 딥 러닝(deep learning)은 최근에 많이 알려지게 된 심층 인공신경망 알고리즘이다. 일반적인 인공신경망보다 은닉층의 개수와 뉴런의 개수를 확장시키고, 학습이 효율적으로 될 수 있게 알고리즘을 개선한 것이 가장 큰 특징이다. 이러한 특징을 활용하여 기존의 인공신경망으로 풀지 못했던 크고 복잡한 문제들을 해결할 수 있게 되었다. 음성인식, 손 글씨 인식, 얼굴 인식 등 복잡한 패턴인식과 분류에 관련된 다양한 분야에 대한 적용 연구가 활발히 진행되고 있다. 하지만 이러한 장점에도 불구하고, 아직까지 딥 러닝이 제어문제를 해결하기 위해 적용된 사례는 찾아보기 어렵다. 본 논문에서는 간단한 사례를 통해 딥 러닝의 제어문제에 대한 적용 가능성을 확인해 본다. 딥 러닝 알고리즘 중에서 가장 잘 알려진, 깊은 믿음 네트워크(deep belief network) 알고리즘을 사용하여 산업현장에서 가장 많이 사용되고 있는 PID 제어기를 모방하는 딥 러닝 제어기를 설계한다. DC 모터를 제어하는 시스템에서 PID 제어기에 들어오는 입력과 PID 제어기에서 나오는 출력값을 학습 데이터로 사용하여 딥 러닝으로 학습하는 방법을 사용한다. 시뮬레이션을 통해 제안한 딥 러닝 제어기와 PID 제어기를 비교하여 딥 러닝 알고리즘의 성능을 검증한다."
+        },
+        {
+          "rank": 8,
+          "score": 0.637128472328186,
+          "doc_id": "12",
+          "text": "= Deep Learning을 이용한ROS기반의 모바일 로봇의 자율 주행 제어 = Deep Learning을 이용한ROS기반의 모바일 로봇의 자율 주행 제어 = Deep Learning을 이용한ROS기반의 모바일 로봇의 자율 주행 제어 최근 영상처리 기술의 발전과 인공지능 및 Deep learning 기술의 발전으로 말미암아 자율주행 자동차가 앞으로의 시장을 주도할 차세대 기술로 주목되고 있다. 그에 맞추어 본 논문에서는 ROS(Robot Operate System) 기반의 모바일 로봇인 ‘터틀봇3’를 활용하여 라인의 영상처리 이미지 데이터를 추출 한 후 라인을 트랙킹하는 자율 주행 제어를 구현하였다. 영상처리는 ‘OpenCV’를 기본으로 하여 Canny 알고리즘과 Houghline 알고리즘을 통해 라인을 검출 한 후 이미지 데이터를 ROS의 메시지 통신을 통해 전송되고, 전송된 데이터를 바탕으로 모바일 로봇의 주행을 제어 한다. Deep Learning을 이용하여 모바일 로봇의 주행 기록을 학습시켜 모바일 로봇의 주행을 보완한다."
+        },
+        {
+          "rank": 9,
+          "score": 0.6365113258361816,
+          "doc_id": "179",
+          "text": "Deep Structured Learning: Architectures and Applications Deep Structured Learning: Architectures and Applications Deep Structured Learning: Architectures and Applications Deep learning, a sub-field of machine learning changing the prospects of artificial intelligence (AI) because of its recent advancements and application in various field. Deep learning deals with algorithms inspired by the structure and function of the brain called artificial neural networks. This works reviews basic architecture and recent advancement of deep structured learning. It also describes contemporary applications of deep structured learning and its advantages over the treditional learning in artificial interlligence. This study is useful for the general readers and students who are in the early stage of deep learning studies."
+        },
+        {
+          "rank": 10,
+          "score": 0.6317049264907837,
+          "doc_id": "134",
+          "text": "Deep Metric Learning 기반 원격탐사 변화탐지 기술 연구 Deep Metric Learning 기반 원격탐사 변화탐지 기술 연구 Deep Metric Learning 기반 원격탐사 변화탐지 기술 연구 원격탐사 영상을 활용하여 변화를 탐지하기 위해 다양한 기술들이 활발히 연구되고 있다. 본 논문에서는 Triplet Loss 기반 Deep Metric Learning 기법을 활용하여 원격탐사 영상에서 변화 탐지를 수행하는 새로운 접근법을 제안하고, 이를 통해 기존 변화 탐지 기술의 한계를 극복하고자 한다. 원격탐사 기술은 도시 개발, 환경 모니터링, 재난 관리 등 다양한 분야에서 핵심적인 역할을 하고 있으며, 특히 시계열 영상 간의 변화를 정확히 탐지하는 기술은 점차 중요성이 높아지고 있다. 그러나 기존의 변화 탐지 기술은 위치 불일치, 조명 변화, 계절적 요인과 같은 외부 환경에 민감하며, 텍스처와 색상 변화를 효과적으로 구분하지 못하는 한계가 존재한다.&amp;#xD; 본 연구에서는 이러한 문제를 해결하기 위해 Deep Metric Learning의 Triplet Loss를 도입하여 변화탐지의 정확도와 신뢰성을 높이는 새로운 방법론을 제시한다."
+        }
+      ]
+    },
+    {
+      "query": "What are the main challenges discussed regarding deep learning in radar imaging?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7774379253387451,
+          "doc_id": "85",
+          "text": "Deep learning for radar Deep learning for radar Deep learning for radar Motivated by the recent advances in deep learning, we lay out a vision of how deep learning techniques can be used in radar. Specifically, our discussion focuses on the use of deep learning to advance the state-of-the-art in radar imaging. While deep learning can be directly applied to automatic target recognition (ATR), the relevance of these techniques in other radar problems is not obvious. We argue that deep learning can play a central role in advancing the state-of-the-art in a wide range of radar imaging problems, discuss the challenges associated with applying these methods, and the potential advancements that are expected. We lay out an approach to design a network architecture based on the specific structure of the synthetic aperture radar (SAR) imaging problem that augments learning with traditional SAR modelling. This framework allows for capture of the non-linearity of the SAR forward model. Furthermore, we demonstrate how this process can be used to learn and compensate for trajectory based phase error for the autofocus problem."
+        },
+        {
+          "rank": 2,
+          "score": 0.646773636341095,
+          "doc_id": "25",
+          "text": "A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis The image analysis is an important and predominant task for classifying the different parts of the image. The analysis of complex image analysis like histopathological define a crucial factor in oncology due to its ability to help pathologists for interpretation of images and therefore various feature extraction techniques have been evolved from time to time for such analysis. Although deep reinforcement learning is a new and emerging technique but very less effort has been made to compare the deep learning and deep reinforcement learning for image analysis. The paper highlights how both techniques differ in feature extraction from complex images and discusses the potential pros and cons. The use of Convolution Neural Network (CNN) in image segmentation, detection and diagnosis of tumour, feature extraction is important but there are several challenges that need to be overcome before Deep Learning can be applied to digital pathology. The one being is the availability of sufficient training examples for medical image datasets, feature extraction from whole area of the image, ground truth localized annotations, adversarial effects of input representations and extremely large size of the digital pathological slides (in gigabytes).Even though formulating Histopathological Image Analysis (HIA) as Multi Instance Learning (MIL) problem is a remarkable step where histopathological image is divided into high resolution patches to make predictions for the patch and then combining them for overall slide predictions but it suffers from loss of contextual and spatial information. In such cases the deep reinforcement learning techniques can be used to learn feature from the limited data without losing contextual and spatial information."
+        },
+        {
+          "rank": 3,
+          "score": 0.646773636341095,
+          "doc_id": "74",
+          "text": "A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis The image analysis is an important and predominant task for classifying the different parts of the image. The analysis of complex image analysis like histopathological define a crucial factor in oncology due to its ability to help pathologists for interpretation of images and therefore various feature extraction techniques have been evolved from time to time for such analysis. Although deep reinforcement learning is a new and emerging technique but very less effort has been made to compare the deep learning and deep reinforcement learning for image analysis. The paper highlights how both techniques differ in feature extraction from complex images and discusses the potential pros and cons. The use of Convolution Neural Network (CNN) in image segmentation, detection and diagnosis of tumour, feature extraction is important but there are several challenges that need to be overcome before Deep Learning can be applied to digital pathology. The one being is the availability of sufficient training examples for medical image datasets, feature extraction from whole area of the image, ground truth localized annotations, adversarial effects of input representations and extremely large size of the digital pathological slides (in gigabytes).Even though formulating Histopathological Image Analysis (HIA) as Multi Instance Learning (MIL) problem is a remarkable step where histopathological image is divided into high resolution patches to make predictions for the patch and then combining them for overall slide predictions but it suffers from loss of contextual and spatial information. In such cases the deep reinforcement learning techniques can be used to learn feature from the limited data without losing contextual and spatial information."
+        },
+        {
+          "rank": 4,
+          "score": 0.6387321352958679,
+          "doc_id": "152",
+          "text": "Deep Learning in MR Image Processing Deep Learning in MR Image Processing Deep Learning in MR Image Processing Recently, deep learning methods have shown great potential in various tasks that involve handling large amounts of digital data. In the field of MR imaging research, deep learning methods are also rapidly being applied in a wide range of areas to complement or replace traditional model-based methods. Deep learning methods have shown remarkable improvements in several MR image processing areas such as image reconstruction, image quality improvement, parameter mapping, image contrast conversion, and image segmentation. With the current rapid development of deep learning technologies, the importance of the role of deep learning in MR imaging research appears to be growing. In this article, we introduce the basic concepts of deep learning and review recent studies on various MR image processing applications."
+        },
+        {
+          "rank": 5,
+          "score": 0.6267322897911072,
+          "doc_id": "28",
+          "text": "Deep Learning 기반 COF 이미지 검사시스템 Deep Learning 기반 COF 이미지 검사시스템 Deep Learning 기반 COF 이미지 검사시스템 제품단가 대비 불량유출 위험도가 높은 Chip On Film시장에서, 광학품질검사는 주요 과제 중 하나이다. 따라서 관련 기업들은 자동 전수검사를 기본적으로 수행하고 있으며, 이의 성능을 향상시키는 데 투자를 아끼지 않고 있다. 그러나 기존 검사방법의 성능 문제로 인해 최종 판정은 아직 작업자들에 의해 수행되고 있으며, 대부분의 비용이 아직 인적 자원에 투자되고 있다. 최근 집중 조명 받은 Deep learning 관련 기술은 이러한 기존 광학품질검사의 패러다임을 바꾸는 듯 했으나, 이를 COF 양산 검사시스템에 성공적으로 적용한 사례는 아직 보고되지 않고 있다. 불량유출의 허용치는 0.00005% 이하인 50ppm수준으로 철저히 관리되어야 하지만, 기존 DL Model의 학습 방식으로는 상기와 같은 수준의 불량유출 허용치를 관리하기 어렵기 때문이다. 이의 이유로는 크게 두 가지를 들 수 있다. 첫째, 학습 Data로 사용될 COF 이미지의 Region of interest(ROI) 추출이 어렵다. 둘째, COF 불량 유형이 학습된 Deep learning Model의 Overfitting 및 Underfitting 제어 난이도가 어렵다. 셋째. Deep learning에 적합한 데이터 유형인지에 대한 정량적인 판단이 어렵다.&amp;#xD; 본 논문에서는, 상기 언급된 한계를 개선하는 새로운 COF양산 검사 시스템을 제안한다. 제안하는 방법은 불량 Feature의 ROI를 보다 정교하게 추출할 수 있는 방법 중 하나인 Inpainting기법의 접목, 이를 불량 유형에 맞게 CNN 혹은 전통적 Image processing을 사용할지를 결정하는 정량적인 Parameterize score의 설계, 그리고 Heuristic하게 구성된 DL기반의 이미지 판정 기법으로 구성된다. 제안된 양산 검사 시스템은 기존 광학검사를 대체하여, 기존대비 성능을 200% 이상 향상시켰으며, 불량 허용치를 0.00003% 이내인 30ppm 수준으로 요구 수준을 달성하였다. 제안되는 방법은 국내 COF 생산 기업의 공장의 양산 검사 시스템에 실제로 접목되었으며, 현재도 공장 내 Process의 하나로 자리 잡고 비용절감에 지속적으로 기여하고 있다."
+        },
+        {
+          "rank": 6,
+          "score": 0.6193398237228394,
+          "doc_id": "213",
+          "text": "Artificial intelligence-driven radiomics: developing valuable radiomics signatures with the use of artificial intelligence Artificial intelligence-driven radiomics: developing valuable radiomics signatures with the use of artificial intelligence Artificial intelligence-driven radiomics: developing valuable radiomics signatures with the use of artificial intelligence AbstractThe advent of radiomics has revolutionized medical image analysis, affording the extraction of high dimensional quantitative data for the detailed examination of normal and abnormal tissues. Artificial intelligence (AI) can be used for the enhancement of a series of steps in the radiomics pipeline, from image acquisition and preprocessing, to segmentation, feature extraction, feature selection, and model development. The aim of this review is to present the most used AI methods for radiomics analysis, explaining the advantages and limitations of the methods. Some of the most prominent AI architectures mentioned in this review include Boruta, random forests, gradient boosting, generative adversarial networks, convolutional neural networks, and transformers. Employing these models in the process of radiomics analysis can significantly enhance the quality and effectiveness of the analysis, while addressing several limitations that can reduce the quality of predictions. Addressing these limitations can enable high quality clinical decisions and wider clinical adoption. Importantly, this review will aim to highlight how AI can assist radiomics in overcoming major bottlenecks in clinical implementation, ultimately improving the translation potential of the method."
+        },
+        {
+          "rank": 7,
+          "score": 0.6173248887062073,
+          "doc_id": "175",
+          "text": "딥 러닝을 이용한 DC 모터 제어 딥 러닝을 이용한 DC 모터 제어 딥 러닝을 이용한 DC 모터 제어 딥 러닝(deep learning)은 최근에 많이 알려지게 된 심층 인공신경망 알고리즘이다. 일반적인 인공신경망보다 은닉층의 개수와 뉴런의 개수를 확장시키고, 학습이 효율적으로 될 수 있게 알고리즘을 개선한 것이 가장 큰 특징이다. 이러한 특징을 활용하여 기존의 인공신경망으로 풀지 못했던 크고 복잡한 문제들을 해결할 수 있게 되었다. 음성인식, 손 글씨 인식, 얼굴 인식 등 복잡한 패턴인식과 분류에 관련된 다양한 분야에 대한 적용 연구가 활발히 진행되고 있다. 하지만 이러한 장점에도 불구하고, 아직까지 딥 러닝이 제어문제를 해결하기 위해 적용된 사례는 찾아보기 어렵다. 본 논문에서는 간단한 사례를 통해 딥 러닝의 제어문제에 대한 적용 가능성을 확인해 본다. 딥 러닝 알고리즘 중에서 가장 잘 알려진, 깊은 믿음 네트워크(deep belief network) 알고리즘을 사용하여 산업현장에서 가장 많이 사용되고 있는 PID 제어기를 모방하는 딥 러닝 제어기를 설계한다. DC 모터를 제어하는 시스템에서 PID 제어기에 들어오는 입력과 PID 제어기에서 나오는 출력값을 학습 데이터로 사용하여 딥 러닝으로 학습하는 방법을 사용한다. 시뮬레이션을 통해 제안한 딥 러닝 제어기와 PID 제어기를 비교하여 딥 러닝 알고리즘의 성능을 검증한다."
+        },
+        {
+          "rank": 8,
+          "score": 0.615649938583374,
+          "doc_id": "104",
+          "text": "Deep learning Deep learning Deep learning Artificial intelligence is one of the most beautiful dreams of mankind. Although computer technology has made considerable progress, so far, there is no computer showing intelligence like human beings. The emergence of deep learning gives people a glimmer of hope. So, what is learning deep? Why is it so important? How does it work? And what are the existing achievements and difficulties? This paper provides an overview of deep learning which will answer these questions."
+        },
+        {
+          "rank": 9,
+          "score": 0.6136808395385742,
+          "doc_id": "134",
+          "text": "Deep Metric Learning 기반 원격탐사 변화탐지 기술 연구 Deep Metric Learning 기반 원격탐사 변화탐지 기술 연구 Deep Metric Learning 기반 원격탐사 변화탐지 기술 연구 원격탐사 영상을 활용하여 변화를 탐지하기 위해 다양한 기술들이 활발히 연구되고 있다. 본 논문에서는 Triplet Loss 기반 Deep Metric Learning 기법을 활용하여 원격탐사 영상에서 변화 탐지를 수행하는 새로운 접근법을 제안하고, 이를 통해 기존 변화 탐지 기술의 한계를 극복하고자 한다. 원격탐사 기술은 도시 개발, 환경 모니터링, 재난 관리 등 다양한 분야에서 핵심적인 역할을 하고 있으며, 특히 시계열 영상 간의 변화를 정확히 탐지하는 기술은 점차 중요성이 높아지고 있다. 그러나 기존의 변화 탐지 기술은 위치 불일치, 조명 변화, 계절적 요인과 같은 외부 환경에 민감하며, 텍스처와 색상 변화를 효과적으로 구분하지 못하는 한계가 존재한다.&amp;#xD; 본 연구에서는 이러한 문제를 해결하기 위해 Deep Metric Learning의 Triplet Loss를 도입하여 변화탐지의 정확도와 신뢰성을 높이는 새로운 방법론을 제시한다."
+        },
+        {
+          "rank": 10,
+          "score": 0.5999292135238647,
+          "doc_id": "121",
+          "text": "Deep Learning을 기반으로 한 Feature Extraction 알고리즘의 분석 Deep Learning을 기반으로 한 Feature Extraction 알고리즘의 분석 Deep Learning을 기반으로 한 Feature Extraction 알고리즘의 분석 Recently, artificial intelligence related technologies including machine learning are being applied to various fields, and the demand is also increasing. In particular, with the development of AR, VR, and MR technologies related to image processing, the utilization of computer vision based on deep learning has increased. The algorithms for object recognition and detection based on deep learning required for image processing are diversified and advanced. Accordingly, problems that were difficult to solve with the existing methodology were solved more simply and easily by using deep learning. This paper introduces various deep learning-based object recognition and extraction algorithms used to detect and recognize various objects in an image and analyzes the technologies that attract attention."
+        }
+      ]
+    },
+    {
+      "query": "What is the proposed network architecture discussed for deep learning in radar imaging?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 2
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.8297078609466553,
+          "doc_id": "85",
+          "text": "Deep learning for radar Deep learning for radar Deep learning for radar Motivated by the recent advances in deep learning, we lay out a vision of how deep learning techniques can be used in radar. Specifically, our discussion focuses on the use of deep learning to advance the state-of-the-art in radar imaging. While deep learning can be directly applied to automatic target recognition (ATR), the relevance of these techniques in other radar problems is not obvious. We argue that deep learning can play a central role in advancing the state-of-the-art in a wide range of radar imaging problems, discuss the challenges associated with applying these methods, and the potential advancements that are expected. We lay out an approach to design a network architecture based on the specific structure of the synthetic aperture radar (SAR) imaging problem that augments learning with traditional SAR modelling. This framework allows for capture of the non-linearity of the SAR forward model. Furthermore, we demonstrate how this process can be used to learn and compensate for trajectory based phase error for the autofocus problem."
+        },
+        {
+          "rank": 2,
+          "score": 0.6908504366874695,
+          "doc_id": "179",
+          "text": "Deep Structured Learning: Architectures and Applications Deep Structured Learning: Architectures and Applications Deep Structured Learning: Architectures and Applications Deep learning, a sub-field of machine learning changing the prospects of artificial intelligence (AI) because of its recent advancements and application in various field. Deep learning deals with algorithms inspired by the structure and function of the brain called artificial neural networks. This works reviews basic architecture and recent advancement of deep structured learning. It also describes contemporary applications of deep structured learning and its advantages over the treditional learning in artificial interlligence. This study is useful for the general readers and students who are in the early stage of deep learning studies."
+        },
+        {
+          "rank": 3,
+          "score": 0.6400404572486877,
+          "doc_id": "123",
+          "text": "딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝은 인공신경망(neural network)이라는 인공지능분야의 모형이 발전된 형태로서, 계층구조로 이루어진 인공신경망의 내부계층(hidden layer)이 여러 단계로 이루어진 구조이다. 딥러닝에서의 주요 모형은 합성곱신경망(convolutional neural network), 순환신경망(recurrent neural network), 그리고 심층신뢰신경망(deep belief network)의 세가지라고 할 수 있다. 그 중에서 현재 흥미로운 연구가 많이 발표되어서 관심이 집중되고 있는 모형은 지도학습(supervised learning)모형인 처음 두 개의 모형이다. 따라서 본 논문에서는 지도학습모형의 가중치를 최적화하는 기본적인 방법인 오류역전파 알고리즘을 살펴본 뒤에 합성곱신경망과 순환신경망의 구조와 응용사례 등을 살펴보고자 한다. 본문에서 다루지 않은 모형인 심층신뢰신경망은 아직까지는 합성곱신경망 이나 순환신경망보다는 상대적으로 주목을 덜 받고 있다. 그러나 심층신뢰신경망은 CNN이나 RNN과는 달리 비지도학습(unsupervised learning)모형이며, 사람이나 동물은 관찰을 통해서 스스로 학습한다는 점에서 궁극적으로는 비지도학습모형이 더 많이 연구되어야 할 주제가 될 것이다."
+        },
+        {
+          "rank": 4,
+          "score": 0.6385535001754761,
+          "doc_id": "148",
+          "text": "A deep-learning-based emergency alert system A deep-learning-based emergency alert system A deep-learning-based emergency alert system Emergency alert systems serve as a critical link in the chain of crisis communication, and they are essential to minimize loss during emergencies. Acts of terrorism and violence, chemical spills, amber alerts, nuclear facility problems, weather-related emergencies, flu pandemics, and other emergencies all require those responsible such as government officials, building managers, and university administrators to be able to quickly and reliably distribute emergency information to the public. This paper presents our design of a deep-learning-based emergency warning system. The proposed system is considered suitable for application in existing infrastructure such as closed-circuit television and other monitoring devices. The experimental results show that in most cases, our system immediately detects emergencies such as car accidents and natural disasters."
+        },
+        {
+          "rank": 5,
+          "score": 0.6292837858200073,
+          "doc_id": "152",
+          "text": "Deep Learning in MR Image Processing Deep Learning in MR Image Processing Deep Learning in MR Image Processing Recently, deep learning methods have shown great potential in various tasks that involve handling large amounts of digital data. In the field of MR imaging research, deep learning methods are also rapidly being applied in a wide range of areas to complement or replace traditional model-based methods. Deep learning methods have shown remarkable improvements in several MR image processing areas such as image reconstruction, image quality improvement, parameter mapping, image contrast conversion, and image segmentation. With the current rapid development of deep learning technologies, the importance of the role of deep learning in MR imaging research appears to be growing. In this article, we introduce the basic concepts of deep learning and review recent studies on various MR image processing applications."
+        },
+        {
+          "rank": 6,
+          "score": 0.6281476616859436,
+          "doc_id": "49",
+          "text": "Artificial Intelligence for the Fourth Industrial Revolution Artificial Intelligence for the Fourth Industrial Revolution Artificial Intelligence for the Fourth Industrial Revolution Artificial intelligence is one of the key technologies of the Fourth Industrial Revolution. This paper introduces the diverse kinds of approaches to subjects that tackle diverse kinds of research fields such as model-based MS approach, deep neural network model, image edge detection approach, cross-layer optimization model, LSSVM approach, screen design approach, CPU-GPU hybrid approach and so on. The research on Superintelligence and superconnection for IoT and big data is also described such as 'superintelligence-based systems and infrastructures', 'superconnection-based IoT and big data systems', 'analysis of IoT-based data and big data', 'infrastructure design for IoT and big data', 'artificial intelligence applications', and 'superconnection-based IoT devices'."
+        },
+        {
+          "rank": 7,
+          "score": 0.6257692575454712,
+          "doc_id": "147",
+          "text": "A Survey of Topological Machine Learning Methods A Survey of Topological Machine Learning Methods A Survey of Topological Machine Learning Methods The last decade saw an enormous boost in the field of computational topology: methods and concepts from algebraic and differential topology, formerly confined to the realm of pure mathematics, have demonstrated their utility in numerous areas such as computational biology personalised medicine, and time-dependent data analysis, to name a few. The newly-emerging domain comprising topology-based techniques is often referred to as topological data analysis (TDA). Next to their applications in the aforementioned areas, TDA methods have also proven to be effective in supporting, enhancing, and augmenting both classical machine learning and deep learning models. In this paper, we review the state of the art of a nascent field we refer to as &ldquo;topological machine learning,&rdquo; i.e., the successful symbiosis of topology-based methods and machine learning algorithms, such as deep neural networks. We identify common threads, current applications, and future challenges."
+        },
+        {
+          "rank": 8,
+          "score": 0.6237489581108093,
+          "doc_id": "154",
+          "text": "Diabetes detection using deep learning algorithms Diabetes detection using deep learning algorithms Diabetes detection using deep learning algorithms Diabetes is a metabolic disease affecting a multitude of people worldwide. Its incidence rates are increasing alarmingly every year. If untreated, diabetes-related complications in many vital organs of the body may turn fatal. Early detection of diabetes is very important for timely treatment which can stop the disease progressing to such complications. RR-interval signals known as heart rate variability (HRV) signals (derived from electrocardiogram (ECG) signals) can be effectively used for the non-invasive detection of diabetes. This research paper presents a methodology for classification of diabetic and normal HRV signals using deep learning architectures. We employ long short-term memory (LSTM), convolutional neural network (CNN) and its combinations for extracting complex temporal dynamic features of the input HRV data. These features are passed into support vector machine (SVM) for classification. We have obtained the performance improvement of 0.03% and 0.06% in CNN and CNN-LSTM architecture respectively compared to our earlier work without using SVM. The classification system proposed can help the clinicians to diagnose diabetes using ECG signals with a very high accuracy of 95.7%."
+        },
+        {
+          "rank": 9,
+          "score": 0.6223478317260742,
+          "doc_id": "205",
+          "text": "Deep Learning을 활용한 산사태 결정론 방법의 활용성 고찰 Deep Learning을 활용한 산사태 결정론 방법의 활용성 고찰 Deep Learning을 활용한 산사태 결정론 방법의 활용성 고찰 산사태 위험지역을 결정론적인 방법으로 도출할 수 있는 Analytic Hierarchy Process (AHP) 기반의 선행 연구가 2017년도에 제안되었다. 해당 연구의 목적은 기존에 제안된 결정론적인 방법의 활용성을 향상시키고자 deep learning 기법을 적용하여 해당 방법의 신뢰성을 검증하는 것이다. AHP 기반의 결정론적인 방법은 8개 인자인 세립분 함량, 표토층 두께, 간극비, 탄성계수, 전단강도, 투수계수, 포화도 그리고 함수비로 구성되며 이를 통해 안전율을 도출할 수 있다. 대상 지역을 1 m 정사각형의 격자로 구성한 후 현장 및 실내 실험을 통해 8개의 인자를 도출하였다. 안전율은 Mohr-Coulomb의 파괴 이론을 통해 계산하여 deep learning의 출력 값으로 활용하였다. Deep learning 기법 적용 시 입력 값과 출력 값의 학습 능률을 향상시키기 위하여 경사하강법 중 Bayesian regularization을 적용하였으며, 학습 결과 실제 안전율과 deep learning 기법으로 예측된 안전율이 train과 test 단계 모두에서 우수한 신뢰성을 보여준다. 해당 연구에서 활용한 deep learning 기법이 산사태 위험지역 선정에 결정론적 방법으로 유용하게 이용될 것으로 사료된다."
+        },
+        {
+          "rank": 10,
+          "score": 0.6221809983253479,
+          "doc_id": "175",
+          "text": "딥 러닝을 이용한 DC 모터 제어 딥 러닝을 이용한 DC 모터 제어 딥 러닝을 이용한 DC 모터 제어 딥 러닝(deep learning)은 최근에 많이 알려지게 된 심층 인공신경망 알고리즘이다. 일반적인 인공신경망보다 은닉층의 개수와 뉴런의 개수를 확장시키고, 학습이 효율적으로 될 수 있게 알고리즘을 개선한 것이 가장 큰 특징이다. 이러한 특징을 활용하여 기존의 인공신경망으로 풀지 못했던 크고 복잡한 문제들을 해결할 수 있게 되었다. 음성인식, 손 글씨 인식, 얼굴 인식 등 복잡한 패턴인식과 분류에 관련된 다양한 분야에 대한 적용 연구가 활발히 진행되고 있다. 하지만 이러한 장점에도 불구하고, 아직까지 딥 러닝이 제어문제를 해결하기 위해 적용된 사례는 찾아보기 어렵다. 본 논문에서는 간단한 사례를 통해 딥 러닝의 제어문제에 대한 적용 가능성을 확인해 본다. 딥 러닝 알고리즘 중에서 가장 잘 알려진, 깊은 믿음 네트워크(deep belief network) 알고리즘을 사용하여 산업현장에서 가장 많이 사용되고 있는 PID 제어기를 모방하는 딥 러닝 제어기를 설계한다. DC 모터를 제어하는 시스템에서 PID 제어기에 들어오는 입력과 PID 제어기에서 나오는 출력값을 학습 데이터로 사용하여 딥 러닝으로 학습하는 방법을 사용한다. 시뮬레이션을 통해 제안한 딥 러닝 제어기와 PID 제어기를 비교하여 딥 러닝 알고리즘의 성능을 검증한다."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

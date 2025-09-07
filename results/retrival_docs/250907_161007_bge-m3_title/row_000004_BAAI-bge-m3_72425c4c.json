@@ -1,0 +1,291 @@
+{
+  "id": "row_000004",
+  "model_name": "BAAI/bge-m3",
+  "timestamp_kst": "2025-09-07T16:10:08.134032+09:00",
+  "trial_id": "72425c4c",
+  "queries": [
+    {
+      "query": "What are the key features of a sustainability-oriented corporate culture that shape the development and management of sustainable artificial intelligence?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7571936845779419,
+          "doc_id": "95",
+          "text": "Sustainable artificial intelligence: A corporate culture perspective"
+        },
+        {
+          "rank": 2,
+          "score": 0.5438404083251953,
+          "doc_id": "212",
+          "text": "Exploring Artificial Intelligence Futures"
+        },
+        {
+          "rank": 3,
+          "score": 0.5320650935173035,
+          "doc_id": "77",
+          "text": "Understanding the Structure of Artificial Intelligence Conscience"
+        },
+        {
+          "rank": 4,
+          "score": 0.5310293436050415,
+          "doc_id": "1",
+          "text": "The Importance of Artificial Intelligence to Economic Growth"
+        },
+        {
+          "rank": 5,
+          "score": 0.5288065671920776,
+          "doc_id": "216",
+          "text": "A Study on Artificial Intelligence"
+        },
+        {
+          "rank": 6,
+          "score": 0.5273306369781494,
+          "doc_id": "7",
+          "text": "Keynote speech 6: Big Data, IoT and the 2nd sustainable development goal"
+        },
+        {
+          "rank": 7,
+          "score": 0.5221861600875854,
+          "doc_id": "60",
+          "text": "Artificial intelligence"
+        },
+        {
+          "rank": 8,
+          "score": 0.5221861600875854,
+          "doc_id": "106",
+          "text": "Artificial intelligence"
+        },
+        {
+          "rank": 9,
+          "score": 0.5221861600875854,
+          "doc_id": "132",
+          "text": "Artificial intelligence"
+        },
+        {
+          "rank": 10,
+          "score": 0.5142121315002441,
+          "doc_id": "159",
+          "text": "Artificial Intelligence in a historical perspective"
+        }
+      ]
+    },
+    {
+      "query": "What are the key features of a sustainability-oriented corporate culture?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5822280049324036,
+          "doc_id": "95",
+          "text": "Sustainable artificial intelligence: A corporate culture perspective"
+        },
+        {
+          "rank": 2,
+          "score": 0.4716741442680359,
+          "doc_id": "211",
+          "text": "On exploring factors for enhancing export competitiveness in IT Convergence industries"
+        },
+        {
+          "rank": 3,
+          "score": 0.4294881820678711,
+          "doc_id": "7",
+          "text": "Keynote speech 6: Big Data, IoT and the 2nd sustainable development goal"
+        },
+        {
+          "rank": 4,
+          "score": 0.42900794744491577,
+          "doc_id": "197",
+          "text": "산업생태계 관점에서 바라본 IT융합 촉진전략"
+        },
+        {
+          "rank": 5,
+          "score": 0.42423081398010254,
+          "doc_id": "121",
+          "text": "Deep Learning을 기반으로 한 Feature Extraction 알고리즘의 분석"
+        },
+        {
+          "rank": 6,
+          "score": 0.42198407649993896,
+          "doc_id": "210",
+          "text": "Big Data, Big Waste? A Reflection on the Environmental Sustainability of Big Data Initiatives"
+        },
+        {
+          "rank": 7,
+          "score": 0.42194029688835144,
+          "doc_id": "31",
+          "text": "딥러닝 알고리즘에 기반한 기업부도 예측"
+        },
+        {
+          "rank": 8,
+          "score": 0.4158186912536621,
+          "doc_id": "54",
+          "text": "Future trends of IT convergence"
+        },
+        {
+          "rank": 9,
+          "score": 0.41544854640960693,
+          "doc_id": "126",
+          "text": "Exploring Big Data Governance Frameworks"
+        },
+        {
+          "rank": 10,
+          "score": 0.40778252482414246,
+          "doc_id": "143",
+          "text": "Convergence of Enterprise IT and Embedded Systems"
+        }
+      ]
+    },
+    {
+      "query": "How do these features influence the development of sustainable artificial intelligence?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6202552318572998,
+          "doc_id": "95",
+          "text": "Sustainable artificial intelligence: A corporate culture perspective"
+        },
+        {
+          "rank": 2,
+          "score": 0.5808777809143066,
+          "doc_id": "212",
+          "text": "Exploring Artificial Intelligence Futures"
+        },
+        {
+          "rank": 3,
+          "score": 0.563579797744751,
+          "doc_id": "216",
+          "text": "A Study on Artificial Intelligence"
+        },
+        {
+          "rank": 4,
+          "score": 0.563008189201355,
+          "doc_id": "1",
+          "text": "The Importance of Artificial Intelligence to Economic Growth"
+        },
+        {
+          "rank": 5,
+          "score": 0.5541220903396606,
+          "doc_id": "45",
+          "text": "Measuring Intelligence in Natural and Artificial Systems"
+        },
+        {
+          "rank": 6,
+          "score": 0.550817608833313,
+          "doc_id": "77",
+          "text": "Understanding the Structure of Artificial Intelligence Conscience"
+        },
+        {
+          "rank": 7,
+          "score": 0.5500022172927856,
+          "doc_id": "157",
+          "text": "Engineering artificial intelligence"
+        },
+        {
+          "rank": 8,
+          "score": 0.5493824481964111,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence"
+        },
+        {
+          "rank": 9,
+          "score": 0.5440881252288818,
+          "doc_id": "60",
+          "text": "Artificial intelligence"
+        },
+        {
+          "rank": 10,
+          "score": 0.5440881252288818,
+          "doc_id": "106",
+          "text": "Artificial intelligence"
+        }
+      ]
+    },
+    {
+      "query": "How do these features influence the management of sustainable artificial intelligence?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 2
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6339972019195557,
+          "doc_id": "95",
+          "text": "Sustainable artificial intelligence: A corporate culture perspective"
+        },
+        {
+          "rank": 2,
+          "score": 0.564559817314148,
+          "doc_id": "45",
+          "text": "Measuring Intelligence in Natural and Artificial Systems"
+        },
+        {
+          "rank": 3,
+          "score": 0.5628194808959961,
+          "doc_id": "212",
+          "text": "Exploring Artificial Intelligence Futures"
+        },
+        {
+          "rank": 4,
+          "score": 0.5608409643173218,
+          "doc_id": "159",
+          "text": "Artificial Intelligence in a historical perspective"
+        },
+        {
+          "rank": 5,
+          "score": 0.5602743625640869,
+          "doc_id": "77",
+          "text": "Understanding the Structure of Artificial Intelligence Conscience"
+        },
+        {
+          "rank": 6,
+          "score": 0.558586597442627,
+          "doc_id": "216",
+          "text": "A Study on Artificial Intelligence"
+        },
+        {
+          "rank": 7,
+          "score": 0.5522435903549194,
+          "doc_id": "157",
+          "text": "Engineering artificial intelligence"
+        },
+        {
+          "rank": 8,
+          "score": 0.550523579120636,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence"
+        },
+        {
+          "rank": 9,
+          "score": 0.5473583936691284,
+          "doc_id": "106",
+          "text": "Artificial intelligence"
+        },
+        {
+          "rank": 10,
+          "score": 0.5473583936691284,
+          "doc_id": "60",
+          "text": "Artificial intelligence"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

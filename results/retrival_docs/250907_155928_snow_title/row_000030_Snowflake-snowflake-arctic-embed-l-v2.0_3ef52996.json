@@ -1,0 +1,291 @@
+{
+  "id": "row_000030",
+  "model_name": "Snowflake/snowflake-arctic-embed-l-v2.0",
+  "timestamp_kst": "2025-09-07T15:59:33.705781+09:00",
+  "trial_id": "3ef52996",
+  "queries": [
+    {
+      "query": "Go 게임에 적용된 심층 학습 기술의 핵심 아이디어와 제안된 CNN 레이어 구성, 실험 비교 결과를 간결하게 정리해 주실 수 있나요?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.4997195601463318,
+          "doc_id": "223",
+          "text": "학습전략과 심층학습"
+        },
+        {
+          "rank": 2,
+          "score": 0.4341881573200226,
+          "doc_id": "125",
+          "text": "An overview of deep learning techniques"
+        },
+        {
+          "rank": 3,
+          "score": 0.427053302526474,
+          "doc_id": "64",
+          "text": "Deep Learning Research Trend Analysis using Text Mining"
+        },
+        {
+          "rank": 4,
+          "score": 0.4063788652420044,
+          "doc_id": "6",
+          "text": "바둑에 적용된 깊은 학습: 응용 및 실험에 대한 조사"
+        },
+        {
+          "rank": 5,
+          "score": 0.4049724340438843,
+          "doc_id": "74",
+          "text": "A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis"
+        },
+        {
+          "rank": 6,
+          "score": 0.4049724340438843,
+          "doc_id": "25",
+          "text": "A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis"
+        },
+        {
+          "rank": 7,
+          "score": 0.3942137658596039,
+          "doc_id": "183",
+          "text": "구성적 인공지능"
+        },
+        {
+          "rank": 8,
+          "score": 0.3934163451194763,
+          "doc_id": "164",
+          "text": "Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade"
+        },
+        {
+          "rank": 9,
+          "score": 0.39257267117500305,
+          "doc_id": "179",
+          "text": "Deep Structured Learning: Architectures and Applications"
+        },
+        {
+          "rank": 10,
+          "score": 0.38608860969543457,
+          "doc_id": "181",
+          "text": "초등 인공지능 교육을 위한 설명 가능한 인공지능의 교육적 의미 연구"
+        }
+      ]
+    },
+    {
+      "query": "Go 게임에 적용된 심층 학습 기술의 핵심 아이디어는 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5315753221511841,
+          "doc_id": "223",
+          "text": "학습전략과 심층학습"
+        },
+        {
+          "rank": 2,
+          "score": 0.4305501878261566,
+          "doc_id": "125",
+          "text": "An overview of deep learning techniques"
+        },
+        {
+          "rank": 3,
+          "score": 0.42247655987739563,
+          "doc_id": "6",
+          "text": "바둑에 적용된 깊은 학습: 응용 및 실험에 대한 조사"
+        },
+        {
+          "rank": 4,
+          "score": 0.412304162979126,
+          "doc_id": "181",
+          "text": "초등 인공지능 교육을 위한 설명 가능한 인공지능의 교육적 의미 연구"
+        },
+        {
+          "rank": 5,
+          "score": 0.41110336780548096,
+          "doc_id": "64",
+          "text": "Deep Learning Research Trend Analysis using Text Mining"
+        },
+        {
+          "rank": 6,
+          "score": 0.40473654866218567,
+          "doc_id": "123",
+          "text": "딥러닝의 모형과 응용사례"
+        },
+        {
+          "rank": 7,
+          "score": 0.3951106667518616,
+          "doc_id": "4",
+          "text": "Gamification for Education of Deep Learning"
+        },
+        {
+          "rank": 8,
+          "score": 0.38920965790748596,
+          "doc_id": "179",
+          "text": "Deep Structured Learning: Architectures and Applications"
+        },
+        {
+          "rank": 9,
+          "score": 0.37102368474006653,
+          "doc_id": "162",
+          "text": "IT 컨버전스의 이해와 법ㆍ기술 방향"
+        },
+        {
+          "rank": 10,
+          "score": 0.3692202866077423,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence"
+        }
+      ]
+    },
+    {
+      "query": "Go 게임에 적용된 심층 학습 기술에서 제안된 CNN 레이어 구성은 어떻게 되나요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.481035441160202,
+          "doc_id": "223",
+          "text": "학습전략과 심층학습"
+        },
+        {
+          "rank": 2,
+          "score": 0.44820436835289,
+          "doc_id": "183",
+          "text": "구성적 인공지능"
+        },
+        {
+          "rank": 3,
+          "score": 0.4394170641899109,
+          "doc_id": "125",
+          "text": "An overview of deep learning techniques"
+        },
+        {
+          "rank": 4,
+          "score": 0.41844797134399414,
+          "doc_id": "25",
+          "text": "A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis"
+        },
+        {
+          "rank": 5,
+          "score": 0.41844797134399414,
+          "doc_id": "74",
+          "text": "A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis"
+        },
+        {
+          "rank": 6,
+          "score": 0.417624831199646,
+          "doc_id": "64",
+          "text": "Deep Learning Research Trend Analysis using Text Mining"
+        },
+        {
+          "rank": 7,
+          "score": 0.4124293923377991,
+          "doc_id": "123",
+          "text": "딥러닝의 모형과 응용사례"
+        },
+        {
+          "rank": 8,
+          "score": 0.4105677604675293,
+          "doc_id": "181",
+          "text": "초등 인공지능 교육을 위한 설명 가능한 인공지능의 교육적 의미 연구"
+        },
+        {
+          "rank": 9,
+          "score": 0.40972256660461426,
+          "doc_id": "179",
+          "text": "Deep Structured Learning: Architectures and Applications"
+        },
+        {
+          "rank": 10,
+          "score": 0.40570783615112305,
+          "doc_id": "6",
+          "text": "바둑에 적용된 깊은 학습: 응용 및 실험에 대한 조사"
+        }
+      ]
+    },
+    {
+      "query": "Go 게임에 적용된 심층 학습 기술의 실험 비교 결과는 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 2
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.49285605549812317,
+          "doc_id": "223",
+          "text": "학습전략과 심층학습"
+        },
+        {
+          "rank": 2,
+          "score": 0.43489015102386475,
+          "doc_id": "6",
+          "text": "바둑에 적용된 깊은 학습: 응용 및 실험에 대한 조사"
+        },
+        {
+          "rank": 3,
+          "score": 0.4221382439136505,
+          "doc_id": "181",
+          "text": "초등 인공지능 교육을 위한 설명 가능한 인공지능의 교육적 의미 연구"
+        },
+        {
+          "rank": 4,
+          "score": 0.41206303238868713,
+          "doc_id": "64",
+          "text": "Deep Learning Research Trend Analysis using Text Mining"
+        },
+        {
+          "rank": 5,
+          "score": 0.4102727472782135,
+          "doc_id": "125",
+          "text": "An overview of deep learning techniques"
+        },
+        {
+          "rank": 6,
+          "score": 0.40029120445251465,
+          "doc_id": "123",
+          "text": "딥러닝의 모형과 응용사례"
+        },
+        {
+          "rank": 7,
+          "score": 0.3990784287452698,
+          "doc_id": "164",
+          "text": "Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade"
+        },
+        {
+          "rank": 8,
+          "score": 0.39871060848236084,
+          "doc_id": "4",
+          "text": "Gamification for Education of Deep Learning"
+        },
+        {
+          "rank": 9,
+          "score": 0.3828035593032837,
+          "doc_id": "62",
+          "text": "Utilization and Analysis of Big-data"
+        },
+        {
+          "rank": 10,
+          "score": 0.38004347681999207,
+          "doc_id": "74",
+          "text": "A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

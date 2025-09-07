@@ -1,0 +1,221 @@
+{
+  "id": "row_000015",
+  "model_name": "SamilPwC-AXNode-GenAI/PwC-Embedding_expr",
+  "timestamp_kst": "2025-09-07T16:46:58.450953+09:00",
+  "trial_id": "872b3ee5",
+  "queries": [
+    {
+      "query": "What are the key findings of the socio-technical evaluation on Big Data developmental processes and the factors influencing user adoption?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7588925957679749,
+          "doc_id": "172",
+          "text": "Demystifying big data: Anatomy of big data developmental process Demystifying big data: Anatomy of big data developmental process Demystifying big data: Anatomy of big data developmental process This study seeks to understand big data ecology, how it is perceived by different stakeholders, the potential value and challenges, and the implications for the private sector and public organizations, as well as for policy makers. With Normalization Process Theory in place, this study conducts socio-technical evaluation on the big data phenomenon to understand the developmental processes through which new practices of thinking and enacting are implemented, embedded, and integrated in South Korea. It also undertakes empirical analyses of user modeling to explore the factors influencing users' adoption of big data by integrating cognitive motivations as well as user values as the primary determining factors. Based on the qualitative and quantitative findings, this study concludes that big data should be developed with user-centered ideas and that users should be the focus of big data design. (C) 2015 Elsevier Ltd. All rights reserved."
+        },
+        {
+          "rank": 2,
+          "score": 0.6875336170196533,
+          "doc_id": "62",
+          "text": "Utilization and Analysis of Big-data Utilization and Analysis of Big-data Utilization and Analysis of Big-data This study reviews the analysis and characteristics of databases from big data and then establishes representational strategy. Thus, analysis has continued for a long time in the quantity and quality of data, and there are changes in the location of data in the social sciences, past trends and the emergence of big data. The introduction of big data is presented as a prototype of new social science and is a useful practical example that empirically shows the need, basis, and direction of analysis through trend prediction services. Big data provides a future perspective as an important foundation for social change within the framework of basic social sciences."
+        },
+        {
+          "rank": 3,
+          "score": 0.6635639667510986,
+          "doc_id": "32",
+          "text": "빅데이터 처리 프로세스에 따른 빅데이터 위험요인 분석 빅데이터 처리 프로세스에 따른 빅데이터 위험요인 분석 빅데이터 처리 프로세스에 따른 빅데이터 위험요인 분석 Recently, as value for practical use of big data is evaluated, companies and organizations that create benefit and profit are gradually increasing with application of big data. But specifical and theoretical study about possible risk factors as introduction of big data is not being conducted. Accordingly, the study extracts the possible risk factors as introduction of big data based on literature reviews and classifies according to big data processing, data collection, data storage, data analysis, analysis data visualization and application. Also, the risk factors have order of priority according to the degree of risk from the survey of experts. This study will make a chance that can avoid risks by bid data processing and preparation for risks in order of dangerous grades of risk."
+        },
+        {
+          "rank": 4,
+          "score": 0.6475762724876404,
+          "doc_id": "73",
+          "text": "Big data, big data quality problem Big data, big data quality problem Big data, big data quality problem A USAF sponsored MITRE research team undertook four separate, domain-specific case studies about Big Data applications. Those case studies were initial investigations into the question of whether or not data quality issues encountered in Big Data collections are substantially different in cause, manifestation, or detection than those data quality issues encountered in more traditionally sized data collections. The study addresses several factors affecting Big Data Quality at multiple levels, including collection, processing, and storage. Though not unexpected, the key findings of this study reinforce that the primary factors affecting Big Data reside in the limitations and complexities involved with handling Big Data while maintaining its integrity. These concerns are of a higher magnitude than the provenance of the data, the processing, and the tools used to prepare, manipulate, and store the data. Data quality is extremely important for all data analytics problems. From the study's findings, the 'truth about Big Data' is there are no fundamentally new DQ issues in Big Data analytics projects. Some DQ issues exhibit return-s-to-scale effects, and become more or less pronounced in Big Data analytics, though. Big Data Quality varies from one type of Big Data to another and from one Big Data technology to another."
+        },
+        {
+          "rank": 5,
+          "score": 0.6464670896530151,
+          "doc_id": "78",
+          "text": "Data learning from big data Data learning from big data Data learning from big data Abstract Technology is generating a huge and growing availability of observations of diverse nature. This big data is placing data learning as a central scientific discipline. It includes collection, storage, preprocessing, visualization and, essentially, statistical analysis of enormous batches of data. In this paper, we discuss the role of statistics regarding some of the issues raised by big data in this new paradigm and also propose the name of data learning to describe all the activities that allow to obtain relevant knowledge from this new source of information."
+        },
+        {
+          "rank": 6,
+          "score": 0.6385726928710938,
+          "doc_id": "120",
+          "text": "Big Data Key Challenges Big Data Key Challenges Big Data Key Challenges The big data term refers to the great volume of data and complicated data structure with difficulties in collecting, storing, processing, and analyzing these data. Big data analytics refers to the operation of disclosing hidden patterns through big data. This information and data set cloud to be useful and provide advanced services. However, analyzing and processing this information could cause revealing and disclosing some sensitive and personal information when the information is contained in applications that are correlated to users such as location-based services, but concerns are diminished if the applications are correlated to general information such as scientific results. In this work, a survey has been done over security and privacy challenges and approaches in big data. The challenges included here are in each of the following areas: privacy, access control, encryption, and authentication in big data. Likewise, the approaches presented here are privacy-preserving approaches in big data, access control approaches in big data, encryption approaches in big data, and authentication approaches in big data."
+        },
+        {
+          "rank": 7,
+          "score": 0.6376117467880249,
+          "doc_id": "199",
+          "text": "Sharing big biomedical data Sharing big biomedical data Sharing big biomedical data BackgroundThe promise of Big Biomedical Data may be offset by the enormous challenges in handling, analyzing, and sharing it. In this paper, we provide a framework for developing practical and reasonable data sharing policies that incorporate the sociological, financial, technical and scientific requirements of a sustainable Big Data dependent scientific community.FindingsMany biomedical and healthcare studies may be significantly impacted by using large, heterogeneous and incongruent datasets; however there are significant technical, social, regulatory, and institutional barriers that need to be overcome to ensure the power of Big Data overcomes these detrimental factors.ConclusionsPragmatic policies that demand extensive sharing of data, promotion of data fusion, provenance, interoperability and balance security and protection of personal information are critical for the long term impact of translational Big Data analytics."
+        },
+        {
+          "rank": 8,
+          "score": 0.6341975927352905,
+          "doc_id": "109",
+          "text": "Optimized Data Processing Analysis Using Big Data Cloud Platform Optimized Data Processing Analysis Using Big Data Cloud Platform Optimized Data Processing Analysis Using Big Data Cloud Platform Recently data processing has main gained many attention both from academic and commercial industry. Their term use to tools, technical methods and frameworks made to gathering, collect, store, processing and analysis massive amounts of data. Data processing and analysis are based on structured/semi -structured/unstructured by big data, as well as is generated from various different sources in the system at various rates. For the purpose of processing with their large data and suitable way, voluminous parallelism is usually used. The general architecture of a big data system is made up a shared cluster of their machines. Nonetheless, even in very parallel environment, data processing is often very time-consuming. A various applications can take up to everytime to produce useful results, interactive analysis and debugging. Nevertheless, we have main problems that how we have a high performance requires both quality of data locality and resource. Moreover, big data analysis provide the amount of data that is processed typically large in comparison with computation in their systems. In other words, specified optimization that would relieve low-level to achieve good performance essentially. Accordingly, our main goal of this research paper provide how we have to do to optimize for big data frameworks. Our contribute approach to make big data cloud platform for easy and efficient processing of big data. In addition, we provides results from a study of existing optimization of data processing in MapReduce and Hadoop oriented systems."
+        },
+        {
+          "rank": 9,
+          "score": 0.6340934038162231,
+          "doc_id": "99",
+          "text": "Big Data ethics Big Data ethics Big Data ethics The speed of development in Big Data and associated phenomena, such as social media, has surpassed the capacity of the average consumer to understand his or her actions and their knock-on effects. We are moving towards changes in how ethics has to be perceived: away from individual decisions with specific and knowable outcomes, towards actions by many unaware that they may have taken actions with unintended consequences for anyone. Responses will require a rethinking of ethical choices, the lack thereof and how this will guide scientists, governments, and corporate agencies in handling Big Data. This essay elaborates on the ways Big Data impacts on ethical conceptions."
+        },
+        {
+          "rank": 10,
+          "score": 0.6330044865608215,
+          "doc_id": "100",
+          "text": "Synchrotron Big Data Science Synchrotron Big Data Science Synchrotron Big Data Science AbstractThe rapid development of synchrotrons has massively increased the speed at which experiments can be performed, while new techniques have increased the amount of raw data collected during each experiment. While this has created enormous new opportunities, it has also created tremendous challenges for national facilities and users. With the huge increase in data volume, the manual analysis of data is no longer possible. As a result, only a fraction of the data collected during the time&#8208; and money&#8208;expensive synchrotron beam&#8208;time is analyzed and used to deliver new science. Additionally, the lack of an appropriate data analysis environment limits the realization of experiments that generate a large amount of data in a very short period of time. The current lack of automated data analysis pipelines prevents the fine&#8208;tuning of beam&#8208;time experiments, further reducing their potential usage. These effects, collectively known as the &ldquo;data deluge,&rdquo; affect synchrotrons in several different ways including fast data collection, available local storage, data management systems, and curation of the data. This review highlights the Big Data strategies adopted nowadays at synchrotrons, documenting this novel and promising hybridization between science and technology, which promise a dramatic increase in the number of scientific discoveries."
+        }
+      ]
+    },
+    {
+      "query": "What are the key findings of the socio-technical evaluation regarding Big Data developmental processes?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.716788649559021,
+          "doc_id": "172",
+          "text": "Demystifying big data: Anatomy of big data developmental process Demystifying big data: Anatomy of big data developmental process Demystifying big data: Anatomy of big data developmental process This study seeks to understand big data ecology, how it is perceived by different stakeholders, the potential value and challenges, and the implications for the private sector and public organizations, as well as for policy makers. With Normalization Process Theory in place, this study conducts socio-technical evaluation on the big data phenomenon to understand the developmental processes through which new practices of thinking and enacting are implemented, embedded, and integrated in South Korea. It also undertakes empirical analyses of user modeling to explore the factors influencing users' adoption of big data by integrating cognitive motivations as well as user values as the primary determining factors. Based on the qualitative and quantitative findings, this study concludes that big data should be developed with user-centered ideas and that users should be the focus of big data design. (C) 2015 Elsevier Ltd. All rights reserved."
+        },
+        {
+          "rank": 2,
+          "score": 0.665128231048584,
+          "doc_id": "62",
+          "text": "Utilization and Analysis of Big-data Utilization and Analysis of Big-data Utilization and Analysis of Big-data This study reviews the analysis and characteristics of databases from big data and then establishes representational strategy. Thus, analysis has continued for a long time in the quantity and quality of data, and there are changes in the location of data in the social sciences, past trends and the emergence of big data. The introduction of big data is presented as a prototype of new social science and is a useful practical example that empirically shows the need, basis, and direction of analysis through trend prediction services. Big data provides a future perspective as an important foundation for social change within the framework of basic social sciences."
+        },
+        {
+          "rank": 3,
+          "score": 0.6513908505439758,
+          "doc_id": "120",
+          "text": "Big Data Key Challenges Big Data Key Challenges Big Data Key Challenges The big data term refers to the great volume of data and complicated data structure with difficulties in collecting, storing, processing, and analyzing these data. Big data analytics refers to the operation of disclosing hidden patterns through big data. This information and data set cloud to be useful and provide advanced services. However, analyzing and processing this information could cause revealing and disclosing some sensitive and personal information when the information is contained in applications that are correlated to users such as location-based services, but concerns are diminished if the applications are correlated to general information such as scientific results. In this work, a survey has been done over security and privacy challenges and approaches in big data. The challenges included here are in each of the following areas: privacy, access control, encryption, and authentication in big data. Likewise, the approaches presented here are privacy-preserving approaches in big data, access control approaches in big data, encryption approaches in big data, and authentication approaches in big data."
+        },
+        {
+          "rank": 4,
+          "score": 0.6479541063308716,
+          "doc_id": "73",
+          "text": "Big data, big data quality problem Big data, big data quality problem Big data, big data quality problem A USAF sponsored MITRE research team undertook four separate, domain-specific case studies about Big Data applications. Those case studies were initial investigations into the question of whether or not data quality issues encountered in Big Data collections are substantially different in cause, manifestation, or detection than those data quality issues encountered in more traditionally sized data collections. The study addresses several factors affecting Big Data Quality at multiple levels, including collection, processing, and storage. Though not unexpected, the key findings of this study reinforce that the primary factors affecting Big Data reside in the limitations and complexities involved with handling Big Data while maintaining its integrity. These concerns are of a higher magnitude than the provenance of the data, the processing, and the tools used to prepare, manipulate, and store the data. Data quality is extremely important for all data analytics problems. From the study's findings, the 'truth about Big Data' is there are no fundamentally new DQ issues in Big Data analytics projects. Some DQ issues exhibit return-s-to-scale effects, and become more or less pronounced in Big Data analytics, though. Big Data Quality varies from one type of Big Data to another and from one Big Data technology to another."
+        },
+        {
+          "rank": 5,
+          "score": 0.6389896869659424,
+          "doc_id": "43",
+          "text": "Enjeux des big data en sant&eacute; Enjeux des big data en sant&eacute; Enjeux des big data en sant&eacute; Summary The government has commissioned a report on the topic, the Estates General on Bioethics refer to it and the Order of Doctors have published a white paper. Everybody is talking about big data and artificial intelligence but few have witnessed these innovations at work, innovations which now seem to be within reach of health professionals. This field, unknown to the general public a few years ago, has become an object of all fantasies and is bringing about a new industrial revolution."
+        },
+        {
+          "rank": 6,
+          "score": 0.638644814491272,
+          "doc_id": "78",
+          "text": "Data learning from big data Data learning from big data Data learning from big data Abstract Technology is generating a huge and growing availability of observations of diverse nature. This big data is placing data learning as a central scientific discipline. It includes collection, storage, preprocessing, visualization and, essentially, statistical analysis of enormous batches of data. In this paper, we discuss the role of statistics regarding some of the issues raised by big data in this new paradigm and also propose the name of data learning to describe all the activities that allow to obtain relevant knowledge from this new source of information."
+        },
+        {
+          "rank": 7,
+          "score": 0.6379556655883789,
+          "doc_id": "199",
+          "text": "Sharing big biomedical data Sharing big biomedical data Sharing big biomedical data BackgroundThe promise of Big Biomedical Data may be offset by the enormous challenges in handling, analyzing, and sharing it. In this paper, we provide a framework for developing practical and reasonable data sharing policies that incorporate the sociological, financial, technical and scientific requirements of a sustainable Big Data dependent scientific community.FindingsMany biomedical and healthcare studies may be significantly impacted by using large, heterogeneous and incongruent datasets; however there are significant technical, social, regulatory, and institutional barriers that need to be overcome to ensure the power of Big Data overcomes these detrimental factors.ConclusionsPragmatic policies that demand extensive sharing of data, promotion of data fusion, provenance, interoperability and balance security and protection of personal information are critical for the long term impact of translational Big Data analytics."
+        },
+        {
+          "rank": 8,
+          "score": 0.6368429660797119,
+          "doc_id": "140",
+          "text": "Sharing Big Data Sharing Big Data Sharing Big Data Macromolecular Big Data provide numerous challenges and a number of initiatives that are starting to overcome these issues are discussed."
+        },
+        {
+          "rank": 9,
+          "score": 0.6332782506942749,
+          "doc_id": "210",
+          "text": "Big Data, Big Waste? A Reflection on the Environmental Sustainability of Big Data Initiatives Big Data, Big Waste? A Reflection on the Environmental Sustainability of Big Data Initiatives Big Data, Big Waste? A Reflection on the Environmental Sustainability of Big Data Initiatives This paper addresses a problem that has so far been neglected by scholars investigating the ethics of Big Data and policy makers: that is the ethical implications of Big Data initiatives&rsquo; environmental impact. Building on literature in environmental studies, cultural studies and Science and Technology Studies, the article draws attention to the physical presence of data, the material configuration of digital service, and the space occupied by data. It then explains how this material and situated character of data raises questions concerning the ethics of the increasingly fashionable Big Data discourses. It argues that attention should be paid to (1) the vocabulary currently used when discussing the governance of data initiatives; (2) the internal tension between current data initiatives and environmental policies; (3) issues of fair distribution. The article explains how taking into account these aspects would allow for a more responsible behaviour in the context of data storage and production."
+        },
+        {
+          "rank": 10,
+          "score": 0.6328471899032593,
+          "doc_id": "208",
+          "text": "For Big Data, Big Questions Remain For Big Data, Big Questions Remain For Big Data, Big Questions Remain Medicare&#x2019;s release of practitioner payments highlights the strengths and weaknesses of digging into big data."
+        }
+      ]
+    },
+    {
+      "query": "What factors influencing user adoption were identified in the socio-technical evaluation?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.59684818983078,
+          "doc_id": "172",
+          "text": "Demystifying big data: Anatomy of big data developmental process Demystifying big data: Anatomy of big data developmental process Demystifying big data: Anatomy of big data developmental process This study seeks to understand big data ecology, how it is perceived by different stakeholders, the potential value and challenges, and the implications for the private sector and public organizations, as well as for policy makers. With Normalization Process Theory in place, this study conducts socio-technical evaluation on the big data phenomenon to understand the developmental processes through which new practices of thinking and enacting are implemented, embedded, and integrated in South Korea. It also undertakes empirical analyses of user modeling to explore the factors influencing users' adoption of big data by integrating cognitive motivations as well as user values as the primary determining factors. Based on the qualitative and quantitative findings, this study concludes that big data should be developed with user-centered ideas and that users should be the focus of big data design. (C) 2015 Elsevier Ltd. All rights reserved."
+        },
+        {
+          "rank": 2,
+          "score": 0.5870858430862427,
+          "doc_id": "116",
+          "text": "IT 기반의 convergence 제품의 구입태도에 대한 연구 IT 기반의 convergence 제품의 구입태도에 대한 연구 IT 기반의 convergence 제품의 구입태도에 대한 연구 본 연구의 목적은 소비자들이 IT 기반의 컨버전스 제품을 구매함에 있어서 지각하는 구매태도를 바탕으로 구매의사결정을 이론적 배경에 대한 검토를 바탕으로 가설을 설정하고 이들 가설을 검증하기 위하여 실증연구를 수행하였다. IT 컨버전스 제품에 있어서 효용성이 주는 소비자들이 제품이나 서비스를 채용하는데 있어서 매우 중요한 전략적 접근방법이다. 소비자들의 IT 컨버전스 제품을 구매하는데 있어 기업의 경쟁력 강화전략을 도출하는 것이 성공적인 시장진입에 대한 시사점임을 알 수 있다."
+        },
+        {
+          "rank": 3,
+          "score": 0.5864924788475037,
+          "doc_id": "211",
+          "text": "On exploring factors for enhancing export competitiveness in IT Convergence industries On exploring factors for enhancing export competitiveness in IT Convergence industries On exploring factors for enhancing export competitiveness in IT Convergence industries Purpose - The IT convergence industry, which is the subject of this study, is the main strategy field during the 4th industrial revolution era. Against this background, it is urgent to establish policy measures to survive and spread export products in the global industries.Research, design, data and methodology - In order to achieve this goal, we conducted the Importance - Performance Analysis (IPA) and found that it is necessary to develop tailor - made marketing support for small and medium sized IT exporters and to develop export strategy products with competitive technologies.Results - Above all, customized marketing support for IT export-related SMEs was needed. Next, in the first quadrant, strategic products, qualitative level, global, value added, and information systems were included, and it was found that 'development of export strategic products with competitive technologies' was necessary. In the third quadrant, related variables calculated at present time are not urgent variables.Conclusions - In this study, it would be necessary to calculate the additional implications of the variables that are not considered in this study, including future studies, because the methods considered here as analysis variables are carried out in comparison with the previous studies."
+        },
+        {
+          "rank": 4,
+          "score": 0.5647308230400085,
+          "doc_id": "36",
+          "text": "Technological Convergence of IT and BT: Evidence from Patent Analysis Technological Convergence of IT and BT: Evidence from Patent Analysis Technological Convergence of IT and BT: Evidence from Patent Analysis In recent innovation trends, one notable feature is the merging and overlapping of technologies: in other words, technological convergence. A key technological convergence is the fusion of biotechnology (BT) and information technology (IT). Major IT advances have led to innovative devices that allow us to advance BT. However, the lack of data on IT-BT convergence is a major impediment: relatively little research has analyzed the inter-disciplinary relationship of different industries. We propose a systematic approach to analyzing the technological convergence of BT and IT. Patent analysis, including citation and co-classification analyses, was adopted as a main method to measure the convergence intensity and coverage, and two portfolio matrices were developed to manage the technological convergence. The contribution of this paper is that it provides practical evidences for IT-BT convergence, based on quantitative data and systematic processes. This has managerial implications for each sector of IT and BT."
+        },
+        {
+          "rank": 5,
+          "score": 0.5578853487968445,
+          "doc_id": "190",
+          "text": "Affective Computing Among Individuals in Deep Learning Affective Computing Among Individuals in Deep Learning Affective Computing Among Individuals in Deep Learning This paper is a study of deep learning among artificial intelligence technology which has been developing many technologies recently. Especially, I am talking about emotional computing that has been mentioned a lot recently during deep learning. Emotional computing, in other words, is a passive concept that is dominated by people who scientifically analyze human sensibilities and reflect them in product development or system design, and a more active concept that studies how devices and systems understand humans and communicate with people in different modes. This emotional signal extraction, sensitivity, and psychology recognition technology is defined as a technology to process, analyze, and recognize psycho-sensitivity based on micro-small, hyper-sensor technology, and sensitive signals and information that can be sensed by the active movement of the autonomic nervous system caused by human emotional changes in everyday life. Chapter 1 talks about overview and Chapter 2 shows related research. Chapter 3 shows the problems and models of real emotional computing and Chapter 4 shows this paper as a conclusion."
+        },
+        {
+          "rank": 6,
+          "score": 0.5561879873275757,
+          "doc_id": "62",
+          "text": "Utilization and Analysis of Big-data Utilization and Analysis of Big-data Utilization and Analysis of Big-data This study reviews the analysis and characteristics of databases from big data and then establishes representational strategy. Thus, analysis has continued for a long time in the quantity and quality of data, and there are changes in the location of data in the social sciences, past trends and the emergence of big data. The introduction of big data is presented as a prototype of new social science and is a useful practical example that empirically shows the need, basis, and direction of analysis through trend prediction services. Big data provides a future perspective as an important foundation for social change within the framework of basic social sciences."
+        },
+        {
+          "rank": 7,
+          "score": 0.555616021156311,
+          "doc_id": "41",
+          "text": "정보기술(IT)융합 콘텐츠가 노인의 작업수행능력에 미치는 영향 정보기술(IT)융합 콘텐츠가 노인의 작업수행능력에 미치는 영향 정보기술(IT)융합 콘텐츠가 노인의 작업수행능력에 미치는 영향 This study was done on the basis that IT convergence-contents can help the elderly. The effects of IT convergence-contents were analyzed on the occupational performance of the elderly. This investigation was done with 100 elderly people above 65 years of age who lived in local community and two senior welfare centers in Busan and Kyeongbuk. The 100 elderly people were split into two groups of 50: the one group who has experience with IT convergence-contents was the experiment group, and the other group with no experience was the control group. In both groups, body functions, cognitive functions, activities of daily living and community participation were tested. The experimental group had higher scores for cognitive function, and activities of daily living than that of the control group. In conclusion, future studies can support continued IT convergence-contents at the local business community level rather than with smaller samples. This work lays the groundwork for follow-up studies to evaluate the effectiveness of IT convergence-contents."
+        },
+        {
+          "rank": 8,
+          "score": 0.552878737449646,
+          "doc_id": "95",
+          "text": "Sustainable artificial intelligence: A corporate culture perspective Sustainable artificial intelligence: A corporate culture perspective Sustainable artificial intelligence: A corporate culture perspective AbstractIn recent years, various studies have highlighted the opportunities of artificial intelligence (AI) for our society. For example, AI solutions can help reduce pollution, waste, or carbon footprints. On the other hand, there are also risks associated with the use of AI, such as increasing inequality in society or high resource consumption for computing power. This paper explores the question how corporate culture influences the use of artificial intelligence in terms of sustainable development. This type of use includes a normative element and is referred to in the paper as sustainable artificial intelligence (SAI). Based on a bibliometric literature analysis, we identify features of a sustainability-oriented corporate culture. We offer six propositions examining the influence of specific manifestations on the handling of AI in the sense of SAI. Thus, if companies want to ensure that SAI is realized, corporate culture appears as an important indicator and influencing factor at the same time."
+        },
+        {
+          "rank": 9,
+          "score": 0.5485239028930664,
+          "doc_id": "111",
+          "text": "Artificial Intelligence for Artificial Artificial Intelligence Artificial Intelligence for Artificial Artificial Intelligence Artificial Intelligence for Artificial Artificial Intelligence Crowdsourcing platforms such as Amazon Mechanical Turk have become popular for a wide variety of human intelligence tasks; however, quality control continues to be a significant challenge. Recently, we propose TurKontrol, a theoretical model based on POMDPs to optimize iterative, crowd-sourced workflows. However, they neither describe how to learn the model parameters, nor show its effectiveness in a real crowd-sourced setting. Learning is challenging due to the scale of the model and noisy data: there are hundreds of thousands of workers with high-variance abilities. This paper presents an end-to-end system that first learns TurKontrol's POMDP parameters from real Mechanical Turk data, and then applies the model to dynamically optimize live tasks. We validate the model and use it to control a successive-improvement process on Mechanical Turk. By modeling worker accuracy and voting patterns, our system produces significantly superior artifacts compared to those generated through nonadaptive workflows using the same amount of money."
+        },
+        {
+          "rank": 10,
+          "score": 0.5471916198730469,
+          "doc_id": "44",
+          "text": "IT/OT convergence and cyber security IT/OT convergence and cyber security IT/OT convergence and cyber security A study by Forrester, commissioned by Fortinet, reveals the growing exposure of industry players to cyberthreats &ndash; one of the consequences of digital transformation. The lack of collaboration between IT teams and those in charge of industrial or operational technology (OT) is also a hindrance to cyber security for companies wishing to take full advantage of IT/OT convergence to increase their competitiveness."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

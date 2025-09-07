@@ -1,0 +1,221 @@
+{
+  "id": "row_000047",
+  "model_name": "Snowflake/snowflake-arctic-embed-l-v2.0",
+  "timestamp_kst": "2025-09-07T15:59:36.417473+09:00",
+  "trial_id": "2ad7557e",
+  "queries": [
+    {
+      "query": "지식 기반 스케줄링에서 공간적·시간적 적응을 구현하는 기계학습 방법들의 주요 특징을 요약해 주실 수 있나요?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.4230329394340515,
+          "doc_id": "183",
+          "text": "구성적 인공지능"
+        },
+        {
+          "rank": 2,
+          "score": 0.4136352241039276,
+          "doc_id": "97",
+          "text": "&#x201e;Machine learning“ in der An&auml;sthesiologie"
+        },
+        {
+          "rank": 3,
+          "score": 0.41347813606262207,
+          "doc_id": "128",
+          "text": "Machine learning-based adaptive CSI feedback interval"
+        },
+        {
+          "rank": 4,
+          "score": 0.40979301929473877,
+          "doc_id": "75",
+          "text": "MACHINE LEARNING"
+        },
+        {
+          "rank": 5,
+          "score": 0.40265411138534546,
+          "doc_id": "164",
+          "text": "Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade"
+        },
+        {
+          "rank": 6,
+          "score": 0.39662712812423706,
+          "doc_id": "147",
+          "text": "A Survey of Topological Machine Learning Methods"
+        },
+        {
+          "rank": 7,
+          "score": 0.38955986499786377,
+          "doc_id": "181",
+          "text": "초등 인공지능 교육을 위한 설명 가능한 인공지능의 교육적 의미 연구"
+        },
+        {
+          "rank": 8,
+          "score": 0.3688617944717407,
+          "doc_id": "225",
+          "text": "Speech Recognition using Machine Learning"
+        },
+        {
+          "rank": 9,
+          "score": 0.36356937885284424,
+          "doc_id": "125",
+          "text": "An overview of deep learning techniques"
+        },
+        {
+          "rank": 10,
+          "score": 0.36197125911712646,
+          "doc_id": "219",
+          "text": "인공지능(Artificial Intelligence)과 대학수학교육"
+        }
+      ]
+    },
+    {
+      "query": "지식 기반 스케줄링에서 공간적 적응을 구현하는 기계학습 방법들의 주요 특징은 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.42731773853302,
+          "doc_id": "183",
+          "text": "구성적 인공지능"
+        },
+        {
+          "rank": 2,
+          "score": 0.42105549573898315,
+          "doc_id": "97",
+          "text": "&#x201e;Machine learning“ in der An&auml;sthesiologie"
+        },
+        {
+          "rank": 3,
+          "score": 0.42101210355758667,
+          "doc_id": "75",
+          "text": "MACHINE LEARNING"
+        },
+        {
+          "rank": 4,
+          "score": 0.4011806845664978,
+          "doc_id": "164",
+          "text": "Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade"
+        },
+        {
+          "rank": 5,
+          "score": 0.3956538438796997,
+          "doc_id": "128",
+          "text": "Machine learning-based adaptive CSI feedback interval"
+        },
+        {
+          "rank": 6,
+          "score": 0.39379411935806274,
+          "doc_id": "147",
+          "text": "A Survey of Topological Machine Learning Methods"
+        },
+        {
+          "rank": 7,
+          "score": 0.38640883564949036,
+          "doc_id": "225",
+          "text": "Speech Recognition using Machine Learning"
+        },
+        {
+          "rank": 8,
+          "score": 0.3840867877006531,
+          "doc_id": "181",
+          "text": "초등 인공지능 교육을 위한 설명 가능한 인공지능의 교육적 의미 연구"
+        },
+        {
+          "rank": 9,
+          "score": 0.376264363527298,
+          "doc_id": "202",
+          "text": "Machine learning"
+        },
+        {
+          "rank": 10,
+          "score": 0.373507022857666,
+          "doc_id": "219",
+          "text": "인공지능(Artificial Intelligence)과 대학수학교육"
+        }
+      ]
+    },
+    {
+      "query": "지식 기반 스케줄링에서 시간적 적응을 구현하는 기계학습 방법들의 주요 특징은 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.43284422159194946,
+          "doc_id": "183",
+          "text": "구성적 인공지능"
+        },
+        {
+          "rank": 2,
+          "score": 0.42961663007736206,
+          "doc_id": "75",
+          "text": "MACHINE LEARNING"
+        },
+        {
+          "rank": 3,
+          "score": 0.41989243030548096,
+          "doc_id": "97",
+          "text": "&#x201e;Machine learning“ in der An&auml;sthesiologie"
+        },
+        {
+          "rank": 4,
+          "score": 0.4153994917869568,
+          "doc_id": "128",
+          "text": "Machine learning-based adaptive CSI feedback interval"
+        },
+        {
+          "rank": 5,
+          "score": 0.40425315499305725,
+          "doc_id": "164",
+          "text": "Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade"
+        },
+        {
+          "rank": 6,
+          "score": 0.3988531231880188,
+          "doc_id": "225",
+          "text": "Speech Recognition using Machine Learning"
+        },
+        {
+          "rank": 7,
+          "score": 0.3926311135292053,
+          "doc_id": "147",
+          "text": "A Survey of Topological Machine Learning Methods"
+        },
+        {
+          "rank": 8,
+          "score": 0.3907566964626312,
+          "doc_id": "181",
+          "text": "초등 인공지능 교육을 위한 설명 가능한 인공지능의 교육적 의미 연구"
+        },
+        {
+          "rank": 9,
+          "score": 0.3812867999076843,
+          "doc_id": "202",
+          "text": "Machine learning"
+        },
+        {
+          "rank": 10,
+          "score": 0.3752186894416809,
+          "doc_id": "219",
+          "text": "인공지능(Artificial Intelligence)과 대학수학교육"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

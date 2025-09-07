@@ -1,0 +1,221 @@
+{
+  "id": "row_000043",
+  "model_name": "Snowflake/snowflake-arctic-embed-l-v2.0",
+  "timestamp_kst": "2025-09-07T15:59:35.709286+09:00",
+  "trial_id": "cde0422a",
+  "queries": [
+    {
+      "query": "What are the core contributions of spatial and temporal adaptation techniques in machine learning–based scheduling knowledge acquisition?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.4446316957473755,
+          "doc_id": "97",
+          "text": "&#x201e;Machine learning“ in der An&auml;sthesiologie"
+        },
+        {
+          "rank": 2,
+          "score": 0.42664432525634766,
+          "doc_id": "183",
+          "text": "구성적 인공지능"
+        },
+        {
+          "rank": 3,
+          "score": 0.4218747615814209,
+          "doc_id": "164",
+          "text": "Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade"
+        },
+        {
+          "rank": 4,
+          "score": 0.4196665287017822,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence"
+        },
+        {
+          "rank": 5,
+          "score": 0.4019538462162018,
+          "doc_id": "75",
+          "text": "MACHINE LEARNING"
+        },
+        {
+          "rank": 6,
+          "score": 0.40047961473464966,
+          "doc_id": "153",
+          "text": "Artificial Intelligence, Language Intelligence, and Mathematics"
+        },
+        {
+          "rank": 7,
+          "score": 0.39838796854019165,
+          "doc_id": "225",
+          "text": "Speech Recognition using Machine Learning"
+        },
+        {
+          "rank": 8,
+          "score": 0.39454275369644165,
+          "doc_id": "128",
+          "text": "Machine learning-based adaptive CSI feedback interval"
+        },
+        {
+          "rank": 9,
+          "score": 0.3896189332008362,
+          "doc_id": "147",
+          "text": "A Survey of Topological Machine Learning Methods"
+        },
+        {
+          "rank": 10,
+          "score": 0.38791942596435547,
+          "doc_id": "223",
+          "text": "학습전략과 심층학습"
+        }
+      ]
+    },
+    {
+      "query": "What are the core contributions of spatial adaptation techniques in machine learning-based scheduling knowledge acquisition?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.45031875371932983,
+          "doc_id": "97",
+          "text": "&#x201e;Machine learning“ in der An&auml;sthesiologie"
+        },
+        {
+          "rank": 2,
+          "score": 0.42648404836654663,
+          "doc_id": "183",
+          "text": "구성적 인공지능"
+        },
+        {
+          "rank": 3,
+          "score": 0.4192180633544922,
+          "doc_id": "164",
+          "text": "Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade"
+        },
+        {
+          "rank": 4,
+          "score": 0.40743157267570496,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence"
+        },
+        {
+          "rank": 5,
+          "score": 0.4065343737602234,
+          "doc_id": "75",
+          "text": "MACHINE LEARNING"
+        },
+        {
+          "rank": 6,
+          "score": 0.4036300480365753,
+          "doc_id": "225",
+          "text": "Speech Recognition using Machine Learning"
+        },
+        {
+          "rank": 7,
+          "score": 0.39621230959892273,
+          "doc_id": "223",
+          "text": "학습전략과 심층학습"
+        },
+        {
+          "rank": 8,
+          "score": 0.39445948600769043,
+          "doc_id": "153",
+          "text": "Artificial Intelligence, Language Intelligence, and Mathematics"
+        },
+        {
+          "rank": 9,
+          "score": 0.3904423117637634,
+          "doc_id": "128",
+          "text": "Machine learning-based adaptive CSI feedback interval"
+        },
+        {
+          "rank": 10,
+          "score": 0.3904210329055786,
+          "doc_id": "115",
+          "text": "Scientific Machine Learning Seismology"
+        }
+      ]
+    },
+    {
+      "query": "What are the core contributions of temporal adaptation techniques in machine learning-based scheduling knowledge acquisition?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.4318985044956207,
+          "doc_id": "97",
+          "text": "&#x201e;Machine learning“ in der An&auml;sthesiologie"
+        },
+        {
+          "rank": 2,
+          "score": 0.4105393588542938,
+          "doc_id": "183",
+          "text": "구성적 인공지능"
+        },
+        {
+          "rank": 3,
+          "score": 0.40904921293258667,
+          "doc_id": "164",
+          "text": "Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade"
+        },
+        {
+          "rank": 4,
+          "score": 0.3946569561958313,
+          "doc_id": "75",
+          "text": "MACHINE LEARNING"
+        },
+        {
+          "rank": 5,
+          "score": 0.394218385219574,
+          "doc_id": "225",
+          "text": "Speech Recognition using Machine Learning"
+        },
+        {
+          "rank": 6,
+          "score": 0.39191266894340515,
+          "doc_id": "64",
+          "text": "Deep Learning Research Trend Analysis using Text Mining"
+        },
+        {
+          "rank": 7,
+          "score": 0.3902510702610016,
+          "doc_id": "128",
+          "text": "Machine learning-based adaptive CSI feedback interval"
+        },
+        {
+          "rank": 8,
+          "score": 0.38890236616134644,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence"
+        },
+        {
+          "rank": 9,
+          "score": 0.3822411596775055,
+          "doc_id": "147",
+          "text": "A Survey of Topological Machine Learning Methods"
+        },
+        {
+          "rank": 10,
+          "score": 0.3735615015029907,
+          "doc_id": "125",
+          "text": "An overview of deep learning techniques"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

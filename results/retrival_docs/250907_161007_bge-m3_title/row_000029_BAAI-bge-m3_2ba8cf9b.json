@@ -1,0 +1,291 @@
+{
+  "id": "row_000029",
+  "model_name": "BAAI/bge-m3",
+  "timestamp_kst": "2025-09-07T16:10:12.069303+09:00",
+  "trial_id": "2ba8cf9b",
+  "queries": [
+    {
+      "query": "비정형 리뷰 데이터를 활용해 고객 평점을 예측하기 위해 설계된 딥 러닝 모델 구조와 주요 실험 결과(정확도·출력 카테고리)를 요약해 주실 수 있나요?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6520942449569702,
+          "doc_id": "220",
+          "text": "딥 러닝기반 고객평점 예측모델"
+        },
+        {
+          "rank": 2,
+          "score": 0.6202013492584229,
+          "doc_id": "200",
+          "text": "딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발"
+        },
+        {
+          "rank": 3,
+          "score": 0.6109949946403503,
+          "doc_id": "123",
+          "text": "딥러닝의 모형과 응용사례"
+        },
+        {
+          "rank": 4,
+          "score": 0.5689800977706909,
+          "doc_id": "24",
+          "text": "포인트 클라우드 기반 딥 러닝 기법을 이용한 BIM 객체 분류에 관한 연구"
+        },
+        {
+          "rank": 5,
+          "score": 0.5675137639045715,
+          "doc_id": "121",
+          "text": "Deep Learning을 기반으로 한 Feature Extraction 알고리즘의 분석"
+        },
+        {
+          "rank": 6,
+          "score": 0.5573222637176514,
+          "doc_id": "175",
+          "text": "딥 러닝을 이용한 DC 모터 제어"
+        },
+        {
+          "rank": 7,
+          "score": 0.5567411184310913,
+          "doc_id": "104",
+          "text": "Deep learning"
+        },
+        {
+          "rank": 8,
+          "score": 0.5528112053871155,
+          "doc_id": "125",
+          "text": "An overview of deep learning techniques"
+        },
+        {
+          "rank": 9,
+          "score": 0.5521364212036133,
+          "doc_id": "31",
+          "text": "딥러닝 알고리즘에 기반한 기업부도 예측"
+        },
+        {
+          "rank": 10,
+          "score": 0.5508730411529541,
+          "doc_id": "78",
+          "text": "Data learning from big data"
+        }
+      ]
+    },
+    {
+      "query": "비정형 리뷰 데이터를 활용해 고객 평점을 예측하기 위해 설계된 딥 러닝 모델의 구조는 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6891911625862122,
+          "doc_id": "220",
+          "text": "딥 러닝기반 고객평점 예측모델"
+        },
+        {
+          "rank": 2,
+          "score": 0.6006876230239868,
+          "doc_id": "123",
+          "text": "딥러닝의 모형과 응용사례"
+        },
+        {
+          "rank": 3,
+          "score": 0.591282844543457,
+          "doc_id": "200",
+          "text": "딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발"
+        },
+        {
+          "rank": 4,
+          "score": 0.5822503566741943,
+          "doc_id": "31",
+          "text": "딥러닝 알고리즘에 기반한 기업부도 예측"
+        },
+        {
+          "rank": 5,
+          "score": 0.5778129696846008,
+          "doc_id": "24",
+          "text": "포인트 클라우드 기반 딥 러닝 기법을 이용한 BIM 객체 분류에 관한 연구"
+        },
+        {
+          "rank": 6,
+          "score": 0.5709099769592285,
+          "doc_id": "26",
+          "text": "Design a personalized recommendation system using deep learning and reinforcement learning"
+        },
+        {
+          "rank": 7,
+          "score": 0.5658145546913147,
+          "doc_id": "104",
+          "text": "Deep learning"
+        },
+        {
+          "rank": 8,
+          "score": 0.5639104843139648,
+          "doc_id": "78",
+          "text": "Data learning from big data"
+        },
+        {
+          "rank": 9,
+          "score": 0.5557036399841309,
+          "doc_id": "202",
+          "text": "Machine learning"
+        },
+        {
+          "rank": 10,
+          "score": 0.5492460131645203,
+          "doc_id": "175",
+          "text": "딥 러닝을 이용한 DC 모터 제어"
+        }
+      ]
+    },
+    {
+      "query": "해당 딥 러닝 모델의 주요 실험 결과 중 정확도는 어떻게 되나요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6365246772766113,
+          "doc_id": "123",
+          "text": "딥러닝의 모형과 응용사례"
+        },
+        {
+          "rank": 2,
+          "score": 0.6077427864074707,
+          "doc_id": "220",
+          "text": "딥 러닝기반 고객평점 예측모델"
+        },
+        {
+          "rank": 3,
+          "score": 0.5918875932693481,
+          "doc_id": "104",
+          "text": "Deep learning"
+        },
+        {
+          "rank": 4,
+          "score": 0.589144229888916,
+          "doc_id": "175",
+          "text": "딥 러닝을 이용한 DC 모터 제어"
+        },
+        {
+          "rank": 5,
+          "score": 0.5711935758590698,
+          "doc_id": "130",
+          "text": "딥러닝을 이용한 포트홀 검출 시스템"
+        },
+        {
+          "rank": 6,
+          "score": 0.5710981488227844,
+          "doc_id": "125",
+          "text": "An overview of deep learning techniques"
+        },
+        {
+          "rank": 7,
+          "score": 0.5703304409980774,
+          "doc_id": "200",
+          "text": "딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발"
+        },
+        {
+          "rank": 8,
+          "score": 0.5625696182250977,
+          "doc_id": "85",
+          "text": "Deep learning for radar"
+        },
+        {
+          "rank": 9,
+          "score": 0.5619056224822998,
+          "doc_id": "121",
+          "text": "Deep Learning을 기반으로 한 Feature Extraction 알고리즘의 분석"
+        },
+        {
+          "rank": 10,
+          "score": 0.5603157877922058,
+          "doc_id": "154",
+          "text": "Diabetes detection using deep learning algorithms"
+        }
+      ]
+    },
+    {
+      "query": "해당 딥 러닝 모델의 출력 카테고리는 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 2
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5842561721801758,
+          "doc_id": "123",
+          "text": "딥러닝의 모형과 응용사례"
+        },
+        {
+          "rank": 2,
+          "score": 0.5823107361793518,
+          "doc_id": "220",
+          "text": "딥 러닝기반 고객평점 예측모델"
+        },
+        {
+          "rank": 3,
+          "score": 0.5770506858825684,
+          "doc_id": "104",
+          "text": "Deep learning"
+        },
+        {
+          "rank": 4,
+          "score": 0.5710358619689941,
+          "doc_id": "24",
+          "text": "포인트 클라우드 기반 딥 러닝 기법을 이용한 BIM 객체 분류에 관한 연구"
+        },
+        {
+          "rank": 5,
+          "score": 0.5673806071281433,
+          "doc_id": "175",
+          "text": "딥 러닝을 이용한 DC 모터 제어"
+        },
+        {
+          "rank": 6,
+          "score": 0.5642142295837402,
+          "doc_id": "130",
+          "text": "딥러닝을 이용한 포트홀 검출 시스템"
+        },
+        {
+          "rank": 7,
+          "score": 0.5584474802017212,
+          "doc_id": "202",
+          "text": "Machine learning"
+        },
+        {
+          "rank": 8,
+          "score": 0.5484645962715149,
+          "doc_id": "200",
+          "text": "딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발"
+        },
+        {
+          "rank": 9,
+          "score": 0.5393297672271729,
+          "doc_id": "228",
+          "text": "항공분야의 인공지능"
+        },
+        {
+          "rank": 10,
+          "score": 0.5297305583953857,
+          "doc_id": "75",
+          "text": "MACHINE LEARNING"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

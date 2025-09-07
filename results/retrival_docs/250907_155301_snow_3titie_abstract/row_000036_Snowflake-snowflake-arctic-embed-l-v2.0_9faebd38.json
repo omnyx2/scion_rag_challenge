@@ -1,0 +1,221 @@
+{
+  "id": "row_000036",
+  "model_name": "Snowflake/snowflake-arctic-embed-l-v2.0",
+  "timestamp_kst": "2025-09-07T15:53:07.013231+09:00",
+  "trial_id": "9faebd38",
+  "queries": [
+    {
+      "query": "한국 IT융합 신산업 역량강화요인과 이를 도출하기 위한 연구 결과를 간결하게 요약해 주시겠습니까?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5615335702896118,
+          "doc_id": "150",
+          "text": "한국 IT융합 신산업 역량강화요인 한국 IT융합 신산업 역량강화요인 한국 IT융합 신산업 역량강화요인 IT는 한국의 경제성장에 큰 기여를 해왔으며 사회전반의 패러다임 혁신을 통해 생산성, 효율성, 편의성, 소통성을 증진시키고 삶의 양식에 전면적 변화를 가져왔다. 국민경제와 사회문화에서 지대한 의미를 지니는 IT는 다른 기술 또는 산업과의 융합이라는 새로운 변화와 혁신의 중심에 위치하고 있다. IT융합은 IT의 자체 고도화를 바탕으로 다른 분야의 기술개발과 산업발전을 견인하거나 새로운 산업을 창출하는 것으로, 우리나라를 비롯하여 주요국에서는 자원과 역량을 선택적으로 집중하고 있다. 이 논문에서는 IT 융합 신산업 역량강화요인을 도출하고자 2011년도에 실시한 정책연구의 학계 및 공공기관 전문가 델파이 결과를 선행연구들과 비교하여 한국의 IT 융합역량의 수준 변화를 평가하고 결론적으로 한국의 IT융합 신산업 역량강화요인을 도출하고자 하였다."
+        },
+        {
+          "rank": 2,
+          "score": 0.5252077579498291,
+          "doc_id": "146",
+          "text": "미래 IT융합 신산업 육성 및 선도방안 미래 IT융합 신산업 육성 및 선도방안 미래 IT융합 신산업 육성 및 선도방안 IT는 한국의 경제성장에 큰 기여를 해왔으며 사회전반의 패러다임 혁신을 통해 생산성, 효율성, 편의성, 소통성을 증진시키고 삶의 양식에 전면적 변화를 가져왔다. 국민경제와 사회문화에서 지대한 의미를 지나는 IT는 다른 기술 또는 산업과의 융합이라는 새로운 변화와 혁신의 중심에 위치하고 있다. IT융합은 IT의 자체 고도화를 바탕으로 다른 분야의 기술개발과 산업발전을 견인하거나 새로운 산업을 창출하는 것으로 우리나라를 비롯하며 주요국에서는 자원과 역량을 선택적으로 집중하고 있다. 이 논문에서는 IT 융합과 관련된 주요국의 산업 전략 및 기술개발 동향을 파악하고 전문가 설문조사결과를 바탕으로 한국의 IT 융합역량의 수준을 평가하고 결론적으로 IT융합신산업육성 및 선도방안에 관한 전략적 제언을 하고자 한다."
+        },
+        {
+          "rank": 3,
+          "score": 0.46172934770584106,
+          "doc_id": "197",
+          "text": "산업생태계 관점에서 바라본 IT융합 촉진전략 산업생태계 관점에서 바라본 IT융합 촉진전략 산업생태계 관점에서 바라본 IT융합 촉진전략 IT융합은 제조업 등 타 산업 분야의 경쟁력을 향상시키는데 기여하고 있다. 지금까지 정부는 융합기술 개발 및 사업화에 많은 지원을 해왔으며 몇몇 선도기업에서는 의미 있는 성과를 거두고 있다. 그러나 IT융합을 기반으로 산업 경쟁력을 강화하기 위해서는 다양한 융합 시도가 이뤄질 수 있는 생태계가 구축되어야 하며, 많은 기업들이 융합에 참여하고 협력하며 그 혜택을 널리 공유할 수 있는 환경이 마련되어야 한다. 본 연구에서는 AHP 분석을 토대로 IT융합을 촉진하기 위한 이해관계자들의 역할을 도출하고자 하였다. 연구 결과, IT융합을 촉진하기 위한 산업 생태계 마련을 위해 정부의 규제 완화와 벤처 육성정책 확대, 키스톤 기업의 협업기반 융합과제 확대와 경험 공유, 벤처기업 등 기술개발 주체의 기술역량 강화, 그리고 크로스오버형 인재양성을 위한 대학의 역할이 필요한 것으로 나타났다."
+        },
+        {
+          "rank": 4,
+          "score": 0.44432970881462097,
+          "doc_id": "56",
+          "text": "IT 컨버전스기술 기반의 지역 방재정보통신산업 도출 IT 컨버전스기술 기반의 지역 방재정보통신산업 도출 IT 컨버전스기술 기반의 지역 방재정보통신산업 도출 본 연구에서는 IT 선도 기술의 동향을 분석하고 IT 컨버전스 산업의 방향을 분석하였다. 또한 특정 지역의 산업 및 기술동향을 분석하여 산업간 융합을 통한 신산업 도출방법을 제안 하였는 바, 지역별 특수성을 분석하기 위하여 산업정책, 지역기반 산업과 IT 산업 그리고 인프라 등 과 같은 현황을 고려하였다. 결과적으로, 지역사업화 매력도와 사업화 경쟁력을 고려한 육성 사업군이 선정된 바, 방재산업과 연계된 방재정보통신 산업 모델을 제안한다."
+        },
+        {
+          "rank": 5,
+          "score": 0.44197985529899597,
+          "doc_id": "198",
+          "text": "국내 중소기업의 기술융합 전략 및 성장 정책: IT & BT 융합기술 기반 네트워크 분석 국내 중소기업의 기술융합 전략 및 성장 정책: IT & BT 융합기술 기반 네트워크 분석 국내 중소기업의 기술융합 전략 및 성장 정책: IT & BT 융합기술 기반 네트워크 분석 Many scholars have addressed the technological convergence of small-medium sized firms in Korea and their impact on the economic growth of nation. Nevertheless, most studies have been investigated the relationship between entrepreneurship and venture creation, and a few studies have analyzed the innovation and technological convergence of SMEs. The purpose of this research is to gain industrial insight into the technological convergence and to suggest a dynamic growth policy for entrepreneurs of SMEs to improve their convergence performance based on IT and BT. Therefore, we intend to propose solutions to these key questions in convergence such as; what are the key patterns in the process of technological convergence of SMEs on IT and BT, and what kinds of strategy do their need? In order to answer these research questions, we adopt network analysis using patent citation information. Results of network analysis revealed that building ecosystem based on government and universities is one of the most important factors for the future growth of SMEs in Korea. Also, the fit between technological convergence direction of SMEs and division of convergence structure of government and universities will be positively associated with dynamic growth of SMEs in Korea. In conclusion, this research extends the current studies on important aspects of SMEs in the technological convergence process by proposing their growth in convergence process to a newly converging context, IT and BT, and shed light on the integrative perspectives of crucial roles of SMEs on innovation performance in the IT and BT technological convergence."
+        },
+        {
+          "rank": 6,
+          "score": 0.4359688460826874,
+          "doc_id": "145",
+          "text": "IT기업 관점에서의 국방IT융합 추진방향 IT기업 관점에서의 국방IT융합 추진방향 IT기업 관점에서의 국방IT융합 추진방향 IT convergence technology can boost the advancement of weapon systems and efficient operation for the military reformation in Korea. This study investigated IT firms' concern about the defense acquisition process for IT-convergent systems and the role of IT firms in the process with Focus Group Interview and in-depth interview on executives of IT firms, and classified the concern to three major issues. They are the clarification of IT firms' role in the defense IT-convergent efforts, the establishment of the control tower for defense IT convergence, and reasonable estimation of software development cost in the defense acquisition process."
+        },
+        {
+          "rank": 7,
+          "score": 0.4279194474220276,
+          "doc_id": "54",
+          "text": "Future trends of IT convergence Future trends of IT convergence Future trends of IT convergence 없음"
+        },
+        {
+          "rank": 8,
+          "score": 0.42310887575149536,
+          "doc_id": "16",
+          "text": "국방IT융합기술의 발전전략에 관한 연구 국방IT융합기술의 발전전략에 관한 연구 국방IT융합기술의 발전전략에 관한 연구 국방IT융합이란 네트워크중심전(Network Centric Warfare) 개념을 실현하기 위해 새로운 IT 융합기술을 개발하여 실제 전력화하는 것이다. 국방부는 창조경제 시대적 사명인 국방IT융합발전을 위해 국방기술품질원의 국방IT융합 센터를 전담기관으로 지정하였고 융합센터를 중심으로 국방IT융합 과제 발굴을 위한 산 학 연구기관과 군 소요조사, 사전 기술기획 활동하며 국방 도메인 전문가로 구성된 과제기획팀 운영과 선진 기획방법 적용 등을 통해 민간IT 신기술의 적기 도입을 중점적으로 추진하고 있다. 이에 따라 국방IT융합 발전을 위해 국가IT융합 정책 추진과 국방IT융합기술 현상을 이론적으로 고찰하고 종합적으로 분석한 뒤 효과적으로 활용할 수 있는 발전전략이 절실히 요구된다. 본 논문은 국방IT융합발전을 위해 식별된 IT융합 과제를 단계화 추진하고 신설된 국방IT융합센터의 효율성을 제고하며 국방개혁과 연계된 IT융합인재 육성방안을 제시함으로써 스마트 국방을 조기에 달성하고 패러다임의 신속한 전환과 창조경제 구현에도 크게 기여할 것이다."
+        },
+        {
+          "rank": 9,
+          "score": 0.422848105430603,
+          "doc_id": "136",
+          "text": "IT/automation convergence revisited IT/automation convergence revisited IT/automation convergence revisited 없음"
+        },
+        {
+          "rank": 10,
+          "score": 0.4204138517379761,
+          "doc_id": "188",
+          "text": "정보기술(IT)의 효율화 정보기술(IT)의 효율화 정보기술(IT)의 효율화 없음"
+        }
+      ]
+    },
+    {
+      "query": "한국 IT융합 신산업의 역량강화요인은 무엇입니까?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5220452547073364,
+          "doc_id": "150",
+          "text": "한국 IT융합 신산업 역량강화요인 한국 IT융합 신산업 역량강화요인 한국 IT융합 신산업 역량강화요인 IT는 한국의 경제성장에 큰 기여를 해왔으며 사회전반의 패러다임 혁신을 통해 생산성, 효율성, 편의성, 소통성을 증진시키고 삶의 양식에 전면적 변화를 가져왔다. 국민경제와 사회문화에서 지대한 의미를 지니는 IT는 다른 기술 또는 산업과의 융합이라는 새로운 변화와 혁신의 중심에 위치하고 있다. IT융합은 IT의 자체 고도화를 바탕으로 다른 분야의 기술개발과 산업발전을 견인하거나 새로운 산업을 창출하는 것으로, 우리나라를 비롯하여 주요국에서는 자원과 역량을 선택적으로 집중하고 있다. 이 논문에서는 IT 융합 신산업 역량강화요인을 도출하고자 2011년도에 실시한 정책연구의 학계 및 공공기관 전문가 델파이 결과를 선행연구들과 비교하여 한국의 IT 융합역량의 수준 변화를 평가하고 결론적으로 한국의 IT융합 신산업 역량강화요인을 도출하고자 하였다."
+        },
+        {
+          "rank": 2,
+          "score": 0.4584958553314209,
+          "doc_id": "146",
+          "text": "미래 IT융합 신산업 육성 및 선도방안 미래 IT융합 신산업 육성 및 선도방안 미래 IT융합 신산업 육성 및 선도방안 IT는 한국의 경제성장에 큰 기여를 해왔으며 사회전반의 패러다임 혁신을 통해 생산성, 효율성, 편의성, 소통성을 증진시키고 삶의 양식에 전면적 변화를 가져왔다. 국민경제와 사회문화에서 지대한 의미를 지나는 IT는 다른 기술 또는 산업과의 융합이라는 새로운 변화와 혁신의 중심에 위치하고 있다. IT융합은 IT의 자체 고도화를 바탕으로 다른 분야의 기술개발과 산업발전을 견인하거나 새로운 산업을 창출하는 것으로 우리나라를 비롯하며 주요국에서는 자원과 역량을 선택적으로 집중하고 있다. 이 논문에서는 IT 융합과 관련된 주요국의 산업 전략 및 기술개발 동향을 파악하고 전문가 설문조사결과를 바탕으로 한국의 IT 융합역량의 수준을 평가하고 결론적으로 IT융합신산업육성 및 선도방안에 관한 전략적 제언을 하고자 한다."
+        },
+        {
+          "rank": 3,
+          "score": 0.3960559368133545,
+          "doc_id": "188",
+          "text": "정보기술(IT)의 효율화 정보기술(IT)의 효율화 정보기술(IT)의 효율화 없음"
+        },
+        {
+          "rank": 4,
+          "score": 0.3949306011199951,
+          "doc_id": "197",
+          "text": "산업생태계 관점에서 바라본 IT융합 촉진전략 산업생태계 관점에서 바라본 IT융합 촉진전략 산업생태계 관점에서 바라본 IT융합 촉진전략 IT융합은 제조업 등 타 산업 분야의 경쟁력을 향상시키는데 기여하고 있다. 지금까지 정부는 융합기술 개발 및 사업화에 많은 지원을 해왔으며 몇몇 선도기업에서는 의미 있는 성과를 거두고 있다. 그러나 IT융합을 기반으로 산업 경쟁력을 강화하기 위해서는 다양한 융합 시도가 이뤄질 수 있는 생태계가 구축되어야 하며, 많은 기업들이 융합에 참여하고 협력하며 그 혜택을 널리 공유할 수 있는 환경이 마련되어야 한다. 본 연구에서는 AHP 분석을 토대로 IT융합을 촉진하기 위한 이해관계자들의 역할을 도출하고자 하였다. 연구 결과, IT융합을 촉진하기 위한 산업 생태계 마련을 위해 정부의 규제 완화와 벤처 육성정책 확대, 키스톤 기업의 협업기반 융합과제 확대와 경험 공유, 벤처기업 등 기술개발 주체의 기술역량 강화, 그리고 크로스오버형 인재양성을 위한 대학의 역할이 필요한 것으로 나타났다."
+        },
+        {
+          "rank": 5,
+          "score": 0.3943338990211487,
+          "doc_id": "136",
+          "text": "IT/automation convergence revisited IT/automation convergence revisited IT/automation convergence revisited 없음"
+        },
+        {
+          "rank": 6,
+          "score": 0.3939695358276367,
+          "doc_id": "54",
+          "text": "Future trends of IT convergence Future trends of IT convergence Future trends of IT convergence 없음"
+        },
+        {
+          "rank": 7,
+          "score": 0.39310312271118164,
+          "doc_id": "177",
+          "text": "Defense IT Convergence in South Korea Defense IT Convergence in South Korea Defense IT Convergence in South Korea 없음"
+        },
+        {
+          "rank": 8,
+          "score": 0.3924869894981384,
+          "doc_id": "23",
+          "text": "Big data, Big bang? Big data, Big bang? Big data, Big bang? 없음"
+        },
+        {
+          "rank": 9,
+          "score": 0.3913732171058655,
+          "doc_id": "39",
+          "text": "IT convergence and security IT convergence and security IT convergence and security 없음"
+        },
+        {
+          "rank": 10,
+          "score": 0.3777034878730774,
+          "doc_id": "55",
+          "text": "Navigating BAS-IT Convergence Navigating BAS-IT Convergence Navigating BAS-IT Convergence 없음"
+        }
+      ]
+    },
+    {
+      "query": "이러한 역량강화요인을 도출하기 위한 연구 결과는 무엇입니까?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.3794059157371521,
+          "doc_id": "216",
+          "text": "A Study on Artificial Intelligence A Study on Artificial Intelligence A Study on Artificial Intelligence 없음"
+        },
+        {
+          "rank": 2,
+          "score": 0.3684386610984802,
+          "doc_id": "55",
+          "text": "Navigating BAS-IT Convergence Navigating BAS-IT Convergence Navigating BAS-IT Convergence 없음"
+        },
+        {
+          "rank": 3,
+          "score": 0.34656399488449097,
+          "doc_id": "97",
+          "text": "&#x201e;Machine learning“ in der An&auml;sthesiologie &#x201e;Machine learning“ in der An&auml;sthesiologie &#x201e;Machine learning“ in der An&auml;sthesiologie 없음"
+        },
+        {
+          "rank": 4,
+          "score": 0.3459688723087311,
+          "doc_id": "72",
+          "text": "IT Convergence: Advice to Biomeds IT Convergence: Advice to Biomeds IT Convergence: Advice to Biomeds 없음"
+        },
+        {
+          "rank": 5,
+          "score": 0.34363818168640137,
+          "doc_id": "164",
+          "text": "Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade 없음"
+        },
+        {
+          "rank": 6,
+          "score": 0.33422619104385376,
+          "doc_id": "23",
+          "text": "Big data, Big bang? Big data, Big bang? Big data, Big bang? 없음"
+        },
+        {
+          "rank": 7,
+          "score": 0.33395206928253174,
+          "doc_id": "117",
+          "text": "Mining and IT-OT convergence Mining and IT-OT convergence Mining and IT-OT convergence 없음"
+        },
+        {
+          "rank": 8,
+          "score": 0.3310915231704712,
+          "doc_id": "133",
+          "text": "IT and OT convergence IT and OT convergence IT and OT convergence 없음"
+        },
+        {
+          "rank": 9,
+          "score": 0.3294830024242401,
+          "doc_id": "92",
+          "text": "Statistik, Data Science und Big Data Statistik, Data Science und Big Data Statistik, Data Science und Big Data 없음"
+        },
+        {
+          "rank": 10,
+          "score": 0.32822489738464355,
+          "doc_id": "137",
+          "text": "What's Humanity for Artificial Intelligence Jindo Intelligence &#x2014; Dawning of Artificial Intelligence &#x2014; What's Humanity for Artificial Intelligence Jindo Intelligence &#x2014; Dawning of Artificial Intelligence &#x2014; What's Humanity for Artificial Intelligence Jindo Intelligence &#x2014; Dawning of Artificial Intelligence &#x2014; 없음"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

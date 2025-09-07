@@ -1,0 +1,431 @@
+{
+  "id": "row_000049",
+  "model_name": "BAAI/bge-m3",
+  "timestamp_kst": "2025-09-07T18:13:22.267176+09:00",
+  "trial_id": "2fd500ea",
+  "queries": [
+    {
+      "query": "Particle Swarm Optimization을 이용해 퍼지 Extreme Learning Machine의 활성화 함수 파라미터를 최적화하는 기법의 핵심 원리를 요약해 주실 수 있나요?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.4889836311340332,
+          "doc_id": "182",
+          "text": "Effective Electricity Demand Prediction via Deep Learning Prediction of electricity demand in homes and buildings can be used to optimize an energy management system by decreasing energy wastage. A time-series prediction system is still a challenging problem in machine learning and deep learning. Our main idea is to compare three methods. For this work, we analyzed an electricity demand prediction system using the current state-of-the-art deep-learning methods with a machine-learning method: error correction with multi-layer perceptron (eMLP) structure, autoregressive integrated moving average (ARIMA) structure, and a proposed structure named CNN-LSTM. For this, we measured and collected electricity demand data in Germany for home appliances. We report the prediction accuracy in terms of the mean square error (MSE) and mean absolute percentage error (MAPE). The experimental result indicates that CNN-LSTM outperforms eMLP and ARIMA in accuracy."
+        },
+        {
+          "rank": 2,
+          "score": 0.4784185290336609,
+          "doc_id": "26",
+          "text": "Design a personalized recommendation system using deep learning and reinforcement learning As the E-commerce market grows, the importance of personalized recommendation systems is increasing. Existing collaborative filtering and content-based filtering methods have shown a certain level of performance, but they have limitations such as cold start, data sparseness, and lack of long-term pattern learning. In this study, we design a matching system that combines a hybrid recommendation system and hyper-personalization technology and propose an efficient recommendation system. The core of the study is to develop a recommendation model that can improve recommendation accuracy and increase user satisfaction compared to existing systems. The proposed elements are as follows. First, the hybrid-hyper-personalization matching system provides recommendation accuracy compared to existing methods. Second, we propose an optimal product matching model that reflects user context using real-time data. Third, we optimize Personalized Recommendation System using deep learning and reinforcement learning. Fourth, we present a method to objectively evaluate recommendation performance through A/B testing."
+        },
+        {
+          "rank": 3,
+          "score": 0.4781891405582428,
+          "doc_id": "42",
+          "text": "Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning In recent years, machine learning algorithms are continuously being used and expanded in various fields, such as facial recognition, signal processing, personal authentication, and stock prediction. In particular, various algorithms, such as deep learning, reinforcement learning, and Q-learning, are continuously being improved. Among these algorithms, the expansion of deep learning is rapidly changing. Nevertheless, machine learning algorithms have not yet been applied in several fields, such as personal authentication technology. This technology is an essential tool in the digital information era, walking recognition technology as promising biometrics, and technology for solving state-space problems. Therefore, algorithm technologies of deep learning, reinforcement learning, and Q-learning, which are typical machine learning algorithms in various fields, such as agricultural technology, personal authentication, wireless network, game, biometric recognition, and image recognition, are being improved and expanded in this paper."
+        },
+        {
+          "rank": 4,
+          "score": 0.47761356830596924,
+          "doc_id": "128",
+          "text": "Machine learning-based adaptive CSI feedback interval The channel state information (CSI) is essential for the base station (BS) to schedule user equipments (UEs) and efficiently manage the radio resources. Hence, the BS requests UEs to regularly feed back the CSI. However, frequent CSI reporting causes large signaling overhead. To reduce the feedback overhead, we propose two machine learning-based approaches to adjust the CSI feedback interval. We use a deep neural network and reinforcement learning (RL) to decide whether an UE feeds back the CSI. Simulation results show that the RL-based approach achieves the lowest mean squared error while reducing the number of CSI feedback transmissions."
+        },
+        {
+          "rank": 5,
+          "score": 0.4759562015533447,
+          "doc_id": "174",
+          "text": "Self-Imitation Learning을 이용한 개선된 Deep Q-Network 알고리즘 Self-Imitation Learning은 간단한 비활성 정책 actor-critic 알고리즘으로써 에이전트가 과거의 좋은 경험을 활용하여 최적의 정책을 찾을 수 있도록 해준다. 그리고 actor-critic 구조를 갖는 강화학습 알고리즘에 결합되어 다양한 환경들에서 알고리즘의 상당한 개선을 보여주었다. 하지만 Self-Imitation Learning이 강화학습에 큰 도움을 준다고 하더라도 그 적용 분야는 actor-critic architecture를 가지는 강화학습 알고리즘으로 제한되어 있다. 본 논문에서 Self-Imitation Learning의 알고리즘을 가치 기반 강화학습 알고리즘인 DQN에 적용하는 방법을 제안하고, Self-Imitation Learning이 적용된 DQN 알고리즘의 학습을 다양한 환경에서 진행한다. 아울러 그 결과를 기존의 결과와 비교함으로써 Self-Imitation Leaning이 DQN에도 적용될 수 있으며 DQN의 성능을 개선할 수 있음을 보인다."
+        },
+        {
+          "rank": 6,
+          "score": 0.4627443253993988,
+          "doc_id": "88",
+          "text": "Machine learning on Big Data Statistical Machine Learning has undergone a phase transition from a pure academic endeavor to being one of the main drivers of modern commerce and science. Even more so, recent results such as those on tera-scale learning [1] and on very large neural networks [2] suggest that scale is an important ingredient in quality modeling. This tutorial introduces current applications, techniques and systems with the aim of cross-fertilizing research between the database and machine learning communities. The tutorial covers current large scale applications of Machine Learning, their computational model and the workflow behind building those. Based on this foundation, we present the current state-of-the-art in systems support in the bulk of the tutorial. We also identify critical gaps in the state-of-the-art. This leads to the closing of the seminar, where we introduce two sets of open research questions: Better systems support for the already established use cases of Machine Learning and support for recent advances in Machine Learning research."
+        },
+        {
+          "rank": 7,
+          "score": 0.4587959945201874,
+          "doc_id": "75",
+          "text": "MACHINE LEARNING The motivation for machine learning is to have computers extract concepts and relations from databases or through interactive sessions with a user and then use them in any knowledge-intensive activity. Developing knowledge bases for expert systems applications is one such activity. Studying computer-based learning techniques gives a better understanding of human mental processes. Two types of programs are considered that learn from examples: those, called data-driven learners, that generalize by relying entirely on the data presented to them, and a group of more elaborate programs, called model-driven learners, that proceed by generating fairly general hypotheses that are subsequently tested against the given examples or against the user in a typical interactive session. The model-driven learner is contrasted with the data-driven learner and an example of the former using a model-driven learner called Marvin is given."
+        },
+        {
+          "rank": 8,
+          "score": 0.45345640182495117,
+          "doc_id": "102",
+          "text": "Application of Deep Learning in Dentistry and Implantology Artificial intelligence and deep learning algorithms are infiltrating various fields of medicine and dentistry. The purpose of the current study was to review literatures applying deep learning algorithms to the dentistry and implantology. Electronic literature search through MEDLINE and IEEE Xplore library database was performed at 2019 October by combining free-text terms and entry terms associated with ‘dentistry’ and ‘deep learning’. The searched literature was screened by title/abstract level and full text level. Following data were extracted from the included studies: information of author, publication year, the aim of the study, architecture of deep learning, input data, output data, and performance of the deep learning algorithm in the study. 340 studies were retrieved from the databases and 62 studies were included in the study. Deep learning algorithms were applied to tooth localization and numbering, detection of dental caries/periodontal disease/periapical disease/oral cancerous lesion, localization of cephalometric landmarks, image quality enhancement, prediction and compensation of deformation error in additive manufacturing of prosthesis. Convolutional neural network was used for periapical radiograph, panoramic radiograph, or computed tomography in most of included studies. Deep learning algorithms are expected to help clinicians diagnose and make decisions by extracting dental data, detecting diseases and abnormal lesions, and improving image quality."
+        },
+        {
+          "rank": 9,
+          "score": 0.45214080810546875,
+          "doc_id": "223",
+          "text": "학습전략과 심층학습 Learning strategies are defined as behaviors and thoughts that a learner engages in during learning and that are intended to influence the learner's encoding process. Today, demands for teaching how to learn increase, because there is a lot of complex material which is delivered to students. But learning strategies shouldn't be identified as tricks of students for achieving high scores in exams. Cognitive researchers and theorists assume that learning strategies are related to two types of learning processing, which are described as 'surface learning' and 'deep learning'. In addition learning strategies are associated with learning motivation. Students with 'meaning orientation' who struggle for deep learning, are intrinsically motivated, whereas students with 'reproduction orientation' or 'achieving orientation' are extrinsically motivated. Therefore, to foster active learning and intrinsic motivation of students, it isn't enough to just teach how to learn. Changes of curriculum and assessment methods, that stimulate deep learning and curiosity of students are needed with educators and learners working cooperatively."
+        },
+        {
+          "rank": 10,
+          "score": 0.4511466324329376,
+          "doc_id": "214",
+          "text": "An Efficient Parallel Machine Learning-based Blockchain Framework The unlimited possibilities of machine learning have been shown in several successful reports and applications. However, how to make sure that the searched results of a machine learning system are not tampered by anyone and how to prevent the other users in the same network environment from easily getting our private data are two critical research issues when we immerse into powerful machine learning-based systems or applications. This situation is just like other modern information systems that confront security and privacy issues. The development of blockchain provides us an alternative way to address these two issues. That is why some recent studies have attempted to develop machine learning systems with blockchain technologies or to apply machine learning methods to blockchain systems. To show what the combination of blockchain and machine learning is capable of doing, in this paper, we proposed a parallel framework to find out suitable hyperparameters of deep learning in a blockchain environment by using a metaheuristic algorithm. The proposed framework also takes into account the issue of communication cost, by limiting the number of information exchanges between miners and blockchain."
+        }
+      ]
+    },
+    {
+      "query": "퍼지 Extreme Learning Machine (FELM)이란 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.47859352827072144,
+          "doc_id": "182",
+          "text": "Effective Electricity Demand Prediction via Deep Learning Prediction of electricity demand in homes and buildings can be used to optimize an energy management system by decreasing energy wastage. A time-series prediction system is still a challenging problem in machine learning and deep learning. Our main idea is to compare three methods. For this work, we analyzed an electricity demand prediction system using the current state-of-the-art deep-learning methods with a machine-learning method: error correction with multi-layer perceptron (eMLP) structure, autoregressive integrated moving average (ARIMA) structure, and a proposed structure named CNN-LSTM. For this, we measured and collected electricity demand data in Germany for home appliances. We report the prediction accuracy in terms of the mean square error (MSE) and mean absolute percentage error (MAPE). The experimental result indicates that CNN-LSTM outperforms eMLP and ARIMA in accuracy."
+        },
+        {
+          "rank": 2,
+          "score": 0.44806110858917236,
+          "doc_id": "42",
+          "text": "Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning In recent years, machine learning algorithms are continuously being used and expanded in various fields, such as facial recognition, signal processing, personal authentication, and stock prediction. In particular, various algorithms, such as deep learning, reinforcement learning, and Q-learning, are continuously being improved. Among these algorithms, the expansion of deep learning is rapidly changing. Nevertheless, machine learning algorithms have not yet been applied in several fields, such as personal authentication technology. This technology is an essential tool in the digital information era, walking recognition technology as promising biometrics, and technology for solving state-space problems. Therefore, algorithm technologies of deep learning, reinforcement learning, and Q-learning, which are typical machine learning algorithms in various fields, such as agricultural technology, personal authentication, wireless network, game, biometric recognition, and image recognition, are being improved and expanded in this paper."
+        },
+        {
+          "rank": 3,
+          "score": 0.44308191537857056,
+          "doc_id": "47",
+          "text": "Econometrics and Machine Learning 없음"
+        },
+        {
+          "rank": 4,
+          "score": 0.4330931305885315,
+          "doc_id": "22",
+          "text": "Effective E-Learning Practices by Machine Learning and Artificial Intelligence This is an extended research paper focusing on the applications of Machine Learing and Artificial Intelligence in virtual learning environment. The world is moving at a fast pace having the application of Machine Learning (ML) and Artificial Intelligence (AI) in all the major disciplines and the educational sector is also not untouched by its impact especially in an online learning environment. This paper attempts to elaborate on the benefits of ML and AI in E-Learning (EL) in general and explain how King Khalid University (KKU) EL Deanship is making the best of ML and AI in its practices. Also, researchers have focused on the future of ML and AI in any academic program. This research is descriptive in nature; results are based on qualitative analysis done through tools and techniques of EL applied in KKU as an example but the same modus operandi can be implemented by any institution in its EL platform. KKU is using Learning Management Services (LMS) for providing online learning practices and Blackboard (BB) for sharing online learning resources, therefore these tools are considered by the researchers for explaining the results of ML and AI."
+        },
+        {
+          "rank": 5,
+          "score": 0.4312135875225067,
+          "doc_id": "209",
+          "text": "ARTIFICIAL INTELLIGENCE This article reports on Fujitsu's Artificial Intelligence (AI) research and development activities. Starting with research on a machine translation system around 1978, Fujitsu has introduced several AI-related products, including machine translation systems, expert system shells, and AI machines. Numerous different expert systems are now being implemented both by Fujitsu and its users. Long-range AI research activities are now under way at Fujitsu. Fujitsu is also participating in several projects, including the Fifth Generation Computer Systems project (FGCS project) being promoted by the Institute for New Generation Computer Technology (ICOT).(Author abstract)"
+        },
+        {
+          "rank": 6,
+          "score": 0.4295518398284912,
+          "doc_id": "135",
+          "text": "Liver Fibrosis Biomarker Validation Using Machine Learning Algorithms Background: Liver fibrosis which causes several liver diseases, requires early screening and management. The gold standard for fibrosis assessment, liver biopsy, has recently been replaced by noninvasive scores. In this study, we validated liver fibrosis-associated biomarkers using machine learning techniques applied in medical research and evaluated their prediction models.Methods: Noninvasive scores were assayed in 144 patients who underwent transient elastography (TE). The patients were divided into three groups (<7 kPa, 7–10 kPa, ≥10 kPa) according to their TE results. Feature selection and modeling for predicting liver fibrosis were performed using random forest (RF) and support vector machine (SVM).Results: Considering the mean decrease in impurity, permutation importance, and multicollinear analysis, the important features for differentiating between the three groups were Mac-2 binding protein glycosylation isomer (M2BPGi), platelet count, and aspartate aminotransferase (AST). Using these features, the RF and SVM models showed equivalent or better performance than noninvasive scores. The sensitivities of RF and SVM models for predicting ≥7 kPa TE results were higher than noninvasive scores (83.3% and 90.0% vs. <80%, respectively). The sensitivity and specificity of RF and SVM models for ≥10 kPa TE result was 100%.Conclusions: We used machine learning techniques to verify the usefulness of established serological biomarkers (M2BPGi, PLT, and AST) that predict liver fibrosis. Conclusively, machine learning models showed better performance than noninvasive scores."
+        },
+        {
+          "rank": 7,
+          "score": 0.42838597297668457,
+          "doc_id": "88",
+          "text": "Machine learning on Big Data Statistical Machine Learning has undergone a phase transition from a pure academic endeavor to being one of the main drivers of modern commerce and science. Even more so, recent results such as those on tera-scale learning [1] and on very large neural networks [2] suggest that scale is an important ingredient in quality modeling. This tutorial introduces current applications, techniques and systems with the aim of cross-fertilizing research between the database and machine learning communities. The tutorial covers current large scale applications of Machine Learning, their computational model and the workflow behind building those. Based on this foundation, we present the current state-of-the-art in systems support in the bulk of the tutorial. We also identify critical gaps in the state-of-the-art. This leads to the closing of the seminar, where we introduce two sets of open research questions: Better systems support for the already established use cases of Machine Learning and support for recent advances in Machine Learning research."
+        },
+        {
+          "rank": 8,
+          "score": 0.4237844944000244,
+          "doc_id": "148",
+          "text": "A deep-learning-based emergency alert system Emergency alert systems serve as a critical link in the chain of crisis communication, and they are essential to minimize loss during emergencies. Acts of terrorism and violence, chemical spills, amber alerts, nuclear facility problems, weather-related emergencies, flu pandemics, and other emergencies all require those responsible such as government officials, building managers, and university administrators to be able to quickly and reliably distribute emergency information to the public. This paper presents our design of a deep-learning-based emergency warning system. The proposed system is considered suitable for application in existing infrastructure such as closed-circuit television and other monitoring devices. The experimental results show that in most cases, our system immediately detects emergencies such as car accidents and natural disasters."
+        },
+        {
+          "rank": 9,
+          "score": 0.4227105379104614,
+          "doc_id": "114",
+          "text": "Deep Learning and Mathematical Models in Dermatology 없음"
+        },
+        {
+          "rank": 10,
+          "score": 0.4223809242248535,
+          "doc_id": "134",
+          "text": "Deep Metric Learning 기반 원격탐사 변화탐지 기술 연구 원격탐사 영상을 활용하여 변화를 탐지하기 위해 다양한 기술들이 활발히 연구되고 있다. 본 논문에서는 Triplet Loss 기반 Deep Metric Learning 기법을 활용하여 원격탐사 영상에서 변화 탐지를 수행하는 새로운 접근법을 제안하고, 이를 통해 기존 변화 탐지 기술의 한계를 극복하고자 한다. 원격탐사 기술은 도시 개발, 환경 모니터링, 재난 관리 등 다양한 분야에서 핵심적인 역할을 하고 있으며, 특히 시계열 영상 간의 변화를 정확히 탐지하는 기술은 점차 중요성이 높아지고 있다. 그러나 기존의 변화 탐지 기술은 위치 불일치, 조명 변화, 계절적 요인과 같은 외부 환경에 민감하며, 텍스처와 색상 변화를 효과적으로 구분하지 못하는 한계가 존재한다.&amp;#xD; 본 연구에서는 이러한 문제를 해결하기 위해 Deep Metric Learning의 Triplet Loss를 도입하여 변화탐지의 정확도와 신뢰성을 높이는 새로운 방법론을 제시한다."
+        }
+      ]
+    },
+    {
+      "query": "FELM에서 활성화 함수 파라미터는 어떤 역할을 하며, 무엇을 의미하나요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.4386003017425537,
+          "doc_id": "135",
+          "text": "Liver Fibrosis Biomarker Validation Using Machine Learning Algorithms Background: Liver fibrosis which causes several liver diseases, requires early screening and management. The gold standard for fibrosis assessment, liver biopsy, has recently been replaced by noninvasive scores. In this study, we validated liver fibrosis-associated biomarkers using machine learning techniques applied in medical research and evaluated their prediction models.Methods: Noninvasive scores were assayed in 144 patients who underwent transient elastography (TE). The patients were divided into three groups (<7 kPa, 7–10 kPa, ≥10 kPa) according to their TE results. Feature selection and modeling for predicting liver fibrosis were performed using random forest (RF) and support vector machine (SVM).Results: Considering the mean decrease in impurity, permutation importance, and multicollinear analysis, the important features for differentiating between the three groups were Mac-2 binding protein glycosylation isomer (M2BPGi), platelet count, and aspartate aminotransferase (AST). Using these features, the RF and SVM models showed equivalent or better performance than noninvasive scores. The sensitivities of RF and SVM models for predicting ≥7 kPa TE results were higher than noninvasive scores (83.3% and 90.0% vs. <80%, respectively). The sensitivity and specificity of RF and SVM models for ≥10 kPa TE result was 100%.Conclusions: We used machine learning techniques to verify the usefulness of established serological biomarkers (M2BPGi, PLT, and AST) that predict liver fibrosis. Conclusively, machine learning models showed better performance than noninvasive scores."
+        },
+        {
+          "rank": 2,
+          "score": 0.4175129532814026,
+          "doc_id": "186",
+          "text": "Deep Semi-Supervised Learning 기반 컴퓨터 보조 진단 방법론 Medical image applications 분야는 가장 인기 있으며 적극적으로 연구되는 현대 Machine Learning 및 Deep Learning applications 중 하나의 분야로 부상되고 있다. Medical image analysis는 환자의 신체 영상의 획득과 의료 전문가의 진단 및 분석을 목적으로 한다. 여러 Machine Learning 방법론을 사용하면 다양한 질병을 진단할 수 있게 된다. 하지만, 보다 효율적이며 강인한 모델을 설계하기 위해서는 Label이 지정된 데이터 샘플이 필요하게 된다. &amp;#xD; 따라서, Label이 지정되지 않은 데이터를 활용하여 모델의 성능을 향상시키는 Medical image 분야에서 semi-supervised Learning의 연구가 활발히 이루어지고 있다. 본 연구에서는 2D 초음파 영상(CADe)와 KL-grade 무릎 방사선사(CADx) 분류에서 유방 병변 Segmentation을 위한 딥러닝 기술을 사용하여 Medical image analysis에서 개선된 Semi-Supervised CAD 시스템을 제안하였다. 본 논문에서는 residual 및 attention block을 통합한 residual-attention-based uncertainty-guided mean teacher framework를 제안한다. 높은 수준의 feature와 attention module의 flow를 가능하게 하여 deep network를 최적화하기 위한 residual은 학습 과정 중에서 가중치를 최적화하기 위해 모델의 focus를 향상시킨다. &amp;#xD; 또한, 본 논문에서는 semi-supervised 학습 방법을 사용하여 학습 과정에서 label이 지정되지 않은 데이터를 활용할 수 있는 가능성을 탐구한다. 특히, uncertainty-guided mean-teacher-student 구조를 활용하여 residual attention U-Net 모델의 학습 중 label이 지정되지 않은 샘플을 통합할 수 있는 가능성을 입증하였다. &amp;#xD; 따라서, label이 지정되지 않은 추가 데이터를 unsupervised 및 supervised 방식으로 활용할 수있는 semi-supervised multitask learning-based 학습 기반 접근 방식을 개발하였다. 구체적으로, 이 과정은 reconstruction에 대해서만 unsupervised 된 상태에서 먼저 학습된 dual-channel adversarial autoencoder를 제안한다. 본 연구는 supervised 방식으로 추가 데이터를 활용하기 위해 auxilary task를 도입하여 multi-task learning framework를 제안한다. 특히, leg side의 식별은 auxilary task로 사용되므로 CHECK 데이터셋과 같은 더 많은 데이터셋을 사용할 수 있게 된다. 따라서, 추가 데이터의 활용이 소수의 label된 데이터만 사용할 수 있는 KL-grade 분류에서 main task의 성능을 향상시킬 수 있음을 보여준다. &amp;#xD; 다양한 측면, 즉 전반적인 성능, label이 지정되지 않은 추가 샘플 및 auxiliary task의 효과, 강인한 분석 등에 대해 공개적으로 사용 가능한 두 개의 가장 큰 데이터셋에 대해 제안된 모델을 평가하였다. 제안된 모델은 각각 75.52%, 78.48%, 75.34%의 Accuracy, Recall, F1-Score를 달성하였다."
+        },
+        {
+          "rank": 3,
+          "score": 0.4026415944099426,
+          "doc_id": "47",
+          "text": "Econometrics and Machine Learning 없음"
+        },
+        {
+          "rank": 4,
+          "score": 0.39888447523117065,
+          "doc_id": "174",
+          "text": "Self-Imitation Learning을 이용한 개선된 Deep Q-Network 알고리즘 Self-Imitation Learning은 간단한 비활성 정책 actor-critic 알고리즘으로써 에이전트가 과거의 좋은 경험을 활용하여 최적의 정책을 찾을 수 있도록 해준다. 그리고 actor-critic 구조를 갖는 강화학습 알고리즘에 결합되어 다양한 환경들에서 알고리즘의 상당한 개선을 보여주었다. 하지만 Self-Imitation Learning이 강화학습에 큰 도움을 준다고 하더라도 그 적용 분야는 actor-critic architecture를 가지는 강화학습 알고리즘으로 제한되어 있다. 본 논문에서 Self-Imitation Learning의 알고리즘을 가치 기반 강화학습 알고리즘인 DQN에 적용하는 방법을 제안하고, Self-Imitation Learning이 적용된 DQN 알고리즘의 학습을 다양한 환경에서 진행한다. 아울러 그 결과를 기존의 결과와 비교함으로써 Self-Imitation Leaning이 DQN에도 적용될 수 있으며 DQN의 성능을 개선할 수 있음을 보인다."
+        },
+        {
+          "rank": 5,
+          "score": 0.39357972145080566,
+          "doc_id": "164",
+          "text": "Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade 없음"
+        },
+        {
+          "rank": 6,
+          "score": 0.38611844182014465,
+          "doc_id": "182",
+          "text": "Effective Electricity Demand Prediction via Deep Learning Prediction of electricity demand in homes and buildings can be used to optimize an energy management system by decreasing energy wastage. A time-series prediction system is still a challenging problem in machine learning and deep learning. Our main idea is to compare three methods. For this work, we analyzed an electricity demand prediction system using the current state-of-the-art deep-learning methods with a machine-learning method: error correction with multi-layer perceptron (eMLP) structure, autoregressive integrated moving average (ARIMA) structure, and a proposed structure named CNN-LSTM. For this, we measured and collected electricity demand data in Germany for home appliances. We report the prediction accuracy in terms of the mean square error (MSE) and mean absolute percentage error (MAPE). The experimental result indicates that CNN-LSTM outperforms eMLP and ARIMA in accuracy."
+        },
+        {
+          "rank": 7,
+          "score": 0.38283571600914,
+          "doc_id": "154",
+          "text": "Diabetes detection using deep learning algorithms Diabetes is a metabolic disease affecting a multitude of people worldwide. Its incidence rates are increasing alarmingly every year. If untreated, diabetes-related complications in many vital organs of the body may turn fatal. Early detection of diabetes is very important for timely treatment which can stop the disease progressing to such complications. RR-interval signals known as heart rate variability (HRV) signals (derived from electrocardiogram (ECG) signals) can be effectively used for the non-invasive detection of diabetes. This research paper presents a methodology for classification of diabetic and normal HRV signals using deep learning architectures. We employ long short-term memory (LSTM), convolutional neural network (CNN) and its combinations for extracting complex temporal dynamic features of the input HRV data. These features are passed into support vector machine (SVM) for classification. We have obtained the performance improvement of 0.03% and 0.06% in CNN and CNN-LSTM architecture respectively compared to our earlier work without using SVM. The classification system proposed can help the clinicians to diagnose diabetes using ECG signals with a very high accuracy of 95.7%."
+        },
+        {
+          "rank": 8,
+          "score": 0.3765837550163269,
+          "doc_id": "28",
+          "text": "Deep Learning 기반 COF 이미지 검사시스템 제품단가 대비 불량유출 위험도가 높은 Chip On Film시장에서, 광학품질검사는 주요 과제 중 하나이다. 따라서 관련 기업들은 자동 전수검사를 기본적으로 수행하고 있으며, 이의 성능을 향상시키는 데 투자를 아끼지 않고 있다. 그러나 기존 검사방법의 성능 문제로 인해 최종 판정은 아직 작업자들에 의해 수행되고 있으며, 대부분의 비용이 아직 인적 자원에 투자되고 있다. 최근 집중 조명 받은 Deep learning 관련 기술은 이러한 기존 광학품질검사의 패러다임을 바꾸는 듯 했으나, 이를 COF 양산 검사시스템에 성공적으로 적용한 사례는 아직 보고되지 않고 있다. 불량유출의 허용치는 0.00005% 이하인 50ppm수준으로 철저히 관리되어야 하지만, 기존 DL Model의 학습 방식으로는 상기와 같은 수준의 불량유출 허용치를 관리하기 어렵기 때문이다. 이의 이유로는 크게 두 가지를 들 수 있다. 첫째, 학습 Data로 사용될 COF 이미지의 Region of interest(ROI) 추출이 어렵다. 둘째, COF 불량 유형이 학습된 Deep learning Model의 Overfitting 및 Underfitting 제어 난이도가 어렵다. 셋째. Deep learning에 적합한 데이터 유형인지에 대한 정량적인 판단이 어렵다.&amp;#xD; 본 논문에서는, 상기 언급된 한계를 개선하는 새로운 COF양산 검사 시스템을 제안한다. 제안하는 방법은 불량 Feature의 ROI를 보다 정교하게 추출할 수 있는 방법 중 하나인 Inpainting기법의 접목, 이를 불량 유형에 맞게 CNN 혹은 전통적 Image processing을 사용할지를 결정하는 정량적인 Parameterize score의 설계, 그리고 Heuristic하게 구성된 DL기반의 이미지 판정 기법으로 구성된다. 제안된 양산 검사 시스템은 기존 광학검사를 대체하여, 기존대비 성능을 200% 이상 향상시켰으며, 불량 허용치를 0.00003% 이내인 30ppm 수준으로 요구 수준을 달성하였다. 제안되는 방법은 국내 COF 생산 기업의 공장의 양산 검사 시스템에 실제로 접목되었으며, 현재도 공장 내 Process의 하나로 자리 잡고 비용절감에 지속적으로 기여하고 있다."
+        },
+        {
+          "rank": 9,
+          "score": 0.3755139410495758,
+          "doc_id": "24",
+          "text": "포인트 클라우드 기반 딥 러닝 기법을 이용한 BIM 객체 분류에 관한 연구 건축 산업 전반에 BIM(Building Information Modeling)의 활용이 확대되고 있다. BIM은 3차원 건축물 객체 데이터를 기반으로 건축물이 지닌 다양한 정보를 담고 있는 데이터 형태이다. BIM 데이터는 IFC(Industry Foundation Classes) 표준 형태로 제작 및 배포된다. 이 때 BIM 데이터를 IFC 표준으로 생성하는 과정에서 설계자가 직접 IFC 데이터의 정보를 매핑해야 하는 문제가 존재한다. 이는 전문 인력 자원의 소요와 인적 오류의 발생 가능성을 높일 수 있는 위험을 지니고 있다. 본 연구에서는 이러한 위험을 줄이고, 보다 효과적으로 IFC 표준에 맞는 BIM 데이터 생성을 위한 딥 러닝 기법을 이용하여 학습한 모델을 통한 자동화된 BIM-IFC간 클래스 매핑 과정을 제안하였다.표준 BIM 라이브러리 데이터인 KBIMS 데이터를 이용한 실험에서 심층 신경망, 합성곱 신경망, Pointnet 총 3개의 딥 러닝 구조를 학습하여 평가하였다. 실험 결과 세 모델 모두 85% 이상의 높은 성능을 보였으며 그 중 3차원 객체의 위치 정보를 점들의 집합 형태의 데이터인 포인트 클라우드 형태로 표현한 Pointnet이 95% 이상의 정확도를 보여 가장 높은 성능의 모델임을 확인할 수 있었다. 본 연구의 의의는 BIM-IFC 클래스 매핑 작업에서 자동화된 딥 러닝 기반 모델 학습 과정을 통해 기존의 설계 전문가가 수작업으로 수행하는 정보 입력 과정을 자동화할 수 있다는 가능성을 보여준 것에 있다."
+        },
+        {
+          "rank": 10,
+          "score": 0.3735769987106323,
+          "doc_id": "114",
+          "text": "Deep Learning and Mathematical Models in Dermatology 없음"
+        }
+      ]
+    },
+    {
+      "query": "Particle Swarm Optimization (PSO)이란 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 2
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.4113903045654297,
+          "doc_id": "185",
+          "text": "Topology optimization via machine learning and deep learning: a review Topology optimization (TO) is a method of deriving an optimal design that satisfies a given load and boundary conditions within a design domain. This method enables effective design without initial design, but has been limited in use due to high computational costs. At the same time, machine learning (ML) methodology including deep learning has made great progress in the 21st century, and accordingly, many studies have been conducted to enable effective and rapid optimization by applying ML to TO. Therefore, this study reviews and analyzes previous research on ML-based TO (MLTO). Two different perspectives of MLTO are used to review studies: (i) TO and (ii) ML perspectives. The TO perspective addresses “why” to use ML for TO, while the ML perspective addresses “how” to apply ML to TO. In addition, the limitations of current MLTO research and future research directions are examined."
+        },
+        {
+          "rank": 2,
+          "score": 0.4047541916370392,
+          "doc_id": "9",
+          "text": "Wave data prediction with optimized machine learning and deep learning techniques Maritime Autonomous Surface Ships are in the development stage and they play an important role in the upcoming future. Present generation ships are semi-autonomous and controlled by the ship crew. The performance of the ship is predicted using the data collected from the ship with the help of machine learning and deep learning methods. Path planning for an autonomous ship is necessary for estimating the best possible route with minimum travel time and it depends on the weather. However, even during the navigation, there will be changes in weather and it should be predicted in order to reroute the ship. The weather information such as wave height, wave period, seawater temperature, humidity, atmospheric pressure, etc., is collected by ship external sensors, weather stations, buoys, and satellites. This paper investigates the ensemble machine learning approaches and seasonality approach for wave data prediction. The historical meteorological data are collected from six stations near Puerto Rico offshore and Hawaii offshore. We explore ensemble machine learning techniques on the data collected. The collected data are divided into training and testing data and apply machine learning models to predict the test data. The hyperparameter optimization is performed to find the best parameters before fitting on train data, this is essential to find the best results. Multivariate analysis is performed with all the methods and errors are computed to find the best models."
+        },
+        {
+          "rank": 3,
+          "score": 0.399440735578537,
+          "doc_id": "142",
+          "text": "Machine learning in oncology-Perspectives in patient-reported outcome research AbstractBackgroundIncreasing data volumes in oncology pose new challenges for data analysis. Machine learning, a branch of artificial intelligence, can identify patterns even in very large and less structured datasets.ObjectiveThis article provides an overview of the possible applications for machine learning in oncology. Furthermore, the potential of machine learning in patient-reported outcome (PRO) research is discussed.Materials and methodsWe conducted a selective literature search (PubMed, MEDLINE, IEEE Xplore) and discuss current research.ResultsThere are three primary applications for machine learning in oncology: (1) cancer detection or classification; (2) overall survival prediction or risk assessment; and (3) supporting therapy decision-making and prediction of treatment response. Generally, machine learning approaches in oncology PRO research are scarce and few studies integrate PRO data into machine learning models.DiscussionMachine learning is a promising area of oncology, but few models have been transferred into clinical practice. The promise of personalized cancer therapy and shared decision-making through machine learning has yet to be realized. As an equally important emerging research area in oncology, PROs should also be incorporated into machine learning approaches. To gather the data necessary for this, broad implementation of PRO assessments in clinical practice, as well as the harmonization of existing datasets, is suggested."
+        },
+        {
+          "rank": 4,
+          "score": 0.3984970450401306,
+          "doc_id": "20",
+          "text": "Investigations on IT/ET and IT/BT Convergence Technology Using Power Line Communications Due to enhanced high IT (information technology) development, IT-based technology convergences such as IT/ET(electric technology), IT/BT(biology technology) and IT/NT(nano technology) are actively merging trend and their applications spread wide. In this paper PLC (power line communication), one of the merging IT, is investigated as one of the potential IT candidates for IT/ET and IT/BT convergence technology for DLC (direct load control) or bio-medical engineering such as ubiquitous health cares or D2H2 (distributed diagnosis and home health care)."
+        },
+        {
+          "rank": 5,
+          "score": 0.39529600739479065,
+          "doc_id": "109",
+          "text": "Optimized Data Processing Analysis Using Big Data Cloud Platform Recently data processing has main gained many attention both from academic and commercial industry. Their term use to tools, technical methods and frameworks made to gathering, collect, store, processing and analysis massive amounts of data. Data processing and analysis are based on structured/semi -structured/unstructured by big data, as well as is generated from various different sources in the system at various rates. For the purpose of processing with their large data and suitable way, voluminous parallelism is usually used. The general architecture of a big data system is made up a shared cluster of their machines. Nonetheless, even in very parallel environment, data processing is often very time-consuming. A various applications can take up to everytime to produce useful results, interactive analysis and debugging. Nevertheless, we have main problems that how we have a high performance requires both quality of data locality and resource. Moreover, big data analysis provide the amount of data that is processed typically large in comparison with computation in their systems. In other words, specified optimization that would relieve low-level to achieve good performance essentially. Accordingly, our main goal of this research paper provide how we have to do to optimize for big data frameworks. Our contribute approach to make big data cloud platform for easy and efficient processing of big data. In addition, we provides results from a study of existing optimization of data processing in MapReduce and Hadoop oriented systems."
+        },
+        {
+          "rank": 6,
+          "score": 0.3908872902393341,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence AbstractThis paper addresses the relations between information retrieval (IR) and AI. It examines document retrieval, summarising its essential features and illustrating the state of its art by presenting one probabilistic model in detail, with some test results showing its value. The paper then analyses this model and related successful approaches, concentrating on and justifying their use of weak, redundant representation and reasoning. It goes on to other information management tasks and considers how the concepts and methods developed for retrieval may be applied to these, concluding by arguing that such ways of dealing with information may also have wider relevance to AI."
+        },
+        {
+          "rank": 7,
+          "score": 0.39049476385116577,
+          "doc_id": "169",
+          "text": "Big Data cluster analysis In this paper, we focused on cluster analysis as the most commonly used technique for grouping different objects. By clustering data, we can extract groups of similar objects from different collections. First, we defined Big Data and clustering to follow the rest of the paper. We presented the most popular techniques for clustering data, including partitioning, hierarchical clustering, density-based clustering, and network-based clustering. Big Data describes large amounts of data. High precision of big data can contribute to decision-making confidence, and better estimates can help increase efficiency, reduce costs, and risks. Various methods and approaches are used for data processing, including clustering, classification, regression, artificial intelligence, neural networks, association rules, decision trees, genetic algorithms, and the nearest neighbor method. A cluster represents a set of objects from the same class, which means that similar objects are grouped together, and different objects are grouped separately. We described the K-means algorithm, hierarchical clustering, density-based clustering -DBSCAN algorithm, and the STING algorithm for network-based clustering."
+        },
+        {
+          "rank": 8,
+          "score": 0.3904046416282654,
+          "doc_id": "128",
+          "text": "Machine learning-based adaptive CSI feedback interval The channel state information (CSI) is essential for the base station (BS) to schedule user equipments (UEs) and efficiently manage the radio resources. Hence, the BS requests UEs to regularly feed back the CSI. However, frequent CSI reporting causes large signaling overhead. To reduce the feedback overhead, we propose two machine learning-based approaches to adjust the CSI feedback interval. We use a deep neural network and reinforcement learning (RL) to decide whether an UE feeds back the CSI. Simulation results show that the RL-based approach achieves the lowest mean squared error while reducing the number of CSI feedback transmissions."
+        },
+        {
+          "rank": 9,
+          "score": 0.3848283886909485,
+          "doc_id": "13",
+          "text": "Dance Movement Recognition based on Deep Learning In recent years with continuous development of the computer vision field, there has been an increasing demand for fast and accurate recognition of human movement, especially in sports. This paper researches ballet movements, which are recognized and analyzed using a convolutional neural network (CNN) based on deep learning. Training of the CNN is improved by particle swarm optimization (PSO). Then, 1,000 ballet videos are used as a dataset to compare optimized CNN, traditional CNN, and support vector machine (SVM) methods. The results show that the improved CNN converged fastest, stabilizing after about five iterations, whereas the traditional CNN method took approximately 20 iterations to stabilize. Additionally, after convergence, error in the improved CNN was smaller than from the traditional CNN. The average recognition accuracy of the SVM method was 84.17%, with a recognition time of 3.32 seconds; for the traditional CNN method, it was 90.16% with a recognition time of 2.68 s; and for the improved CNN method, it was 95.66% with a recognition time of only 1.35 s."
+        },
+        {
+          "rank": 10,
+          "score": 0.38370031118392944,
+          "doc_id": "42",
+          "text": "Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning In recent years, machine learning algorithms are continuously being used and expanded in various fields, such as facial recognition, signal processing, personal authentication, and stock prediction. In particular, various algorithms, such as deep learning, reinforcement learning, and Q-learning, are continuously being improved. Among these algorithms, the expansion of deep learning is rapidly changing. Nevertheless, machine learning algorithms have not yet been applied in several fields, such as personal authentication technology. This technology is an essential tool in the digital information era, walking recognition technology as promising biometrics, and technology for solving state-space problems. Therefore, algorithm technologies of deep learning, reinforcement learning, and Q-learning, which are typical machine learning algorithms in various fields, such as agricultural technology, personal authentication, wireless network, game, biometric recognition, and image recognition, are being improved and expanded in this paper."
+        }
+      ]
+    },
+    {
+      "query": "Particle Swarm Optimization은 어떤 방식으로 파라미터를 최적화하나요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 3
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.48892760276794434,
+          "doc_id": "109",
+          "text": "Optimized Data Processing Analysis Using Big Data Cloud Platform Recently data processing has main gained many attention both from academic and commercial industry. Their term use to tools, technical methods and frameworks made to gathering, collect, store, processing and analysis massive amounts of data. Data processing and analysis are based on structured/semi -structured/unstructured by big data, as well as is generated from various different sources in the system at various rates. For the purpose of processing with their large data and suitable way, voluminous parallelism is usually used. The general architecture of a big data system is made up a shared cluster of their machines. Nonetheless, even in very parallel environment, data processing is often very time-consuming. A various applications can take up to everytime to produce useful results, interactive analysis and debugging. Nevertheless, we have main problems that how we have a high performance requires both quality of data locality and resource. Moreover, big data analysis provide the amount of data that is processed typically large in comparison with computation in their systems. In other words, specified optimization that would relieve low-level to achieve good performance essentially. Accordingly, our main goal of this research paper provide how we have to do to optimize for big data frameworks. Our contribute approach to make big data cloud platform for easy and efficient processing of big data. In addition, we provides results from a study of existing optimization of data processing in MapReduce and Hadoop oriented systems."
+        },
+        {
+          "rank": 2,
+          "score": 0.4837278723716736,
+          "doc_id": "9",
+          "text": "Wave data prediction with optimized machine learning and deep learning techniques Maritime Autonomous Surface Ships are in the development stage and they play an important role in the upcoming future. Present generation ships are semi-autonomous and controlled by the ship crew. The performance of the ship is predicted using the data collected from the ship with the help of machine learning and deep learning methods. Path planning for an autonomous ship is necessary for estimating the best possible route with minimum travel time and it depends on the weather. However, even during the navigation, there will be changes in weather and it should be predicted in order to reroute the ship. The weather information such as wave height, wave period, seawater temperature, humidity, atmospheric pressure, etc., is collected by ship external sensors, weather stations, buoys, and satellites. This paper investigates the ensemble machine learning approaches and seasonality approach for wave data prediction. The historical meteorological data are collected from six stations near Puerto Rico offshore and Hawaii offshore. We explore ensemble machine learning techniques on the data collected. The collected data are divided into training and testing data and apply machine learning models to predict the test data. The hyperparameter optimization is performed to find the best parameters before fitting on train data, this is essential to find the best results. Multivariate analysis is performed with all the methods and errors are computed to find the best models."
+        },
+        {
+          "rank": 3,
+          "score": 0.47953927516937256,
+          "doc_id": "185",
+          "text": "Topology optimization via machine learning and deep learning: a review Topology optimization (TO) is a method of deriving an optimal design that satisfies a given load and boundary conditions within a design domain. This method enables effective design without initial design, but has been limited in use due to high computational costs. At the same time, machine learning (ML) methodology including deep learning has made great progress in the 21st century, and accordingly, many studies have been conducted to enable effective and rapid optimization by applying ML to TO. Therefore, this study reviews and analyzes previous research on ML-based TO (MLTO). Two different perspectives of MLTO are used to review studies: (i) TO and (ii) ML perspectives. The TO perspective addresses “why” to use ML for TO, while the ML perspective addresses “how” to apply ML to TO. In addition, the limitations of current MLTO research and future research directions are examined."
+        },
+        {
+          "rank": 4,
+          "score": 0.46560490131378174,
+          "doc_id": "26",
+          "text": "Design a personalized recommendation system using deep learning and reinforcement learning As the E-commerce market grows, the importance of personalized recommendation systems is increasing. Existing collaborative filtering and content-based filtering methods have shown a certain level of performance, but they have limitations such as cold start, data sparseness, and lack of long-term pattern learning. In this study, we design a matching system that combines a hybrid recommendation system and hyper-personalization technology and propose an efficient recommendation system. The core of the study is to develop a recommendation model that can improve recommendation accuracy and increase user satisfaction compared to existing systems. The proposed elements are as follows. First, the hybrid-hyper-personalization matching system provides recommendation accuracy compared to existing methods. Second, we propose an optimal product matching model that reflects user context using real-time data. Third, we optimize Personalized Recommendation System using deep learning and reinforcement learning. Fourth, we present a method to objectively evaluate recommendation performance through A/B testing."
+        },
+        {
+          "rank": 5,
+          "score": 0.4546213746070862,
+          "doc_id": "111",
+          "text": "Artificial Intelligence for Artificial Artificial Intelligence Crowdsourcing platforms such as Amazon Mechanical Turk have become popular for a wide variety of human intelligence tasks; however, quality control continues to be a significant challenge. Recently, we propose TurKontrol, a theoretical model based on POMDPs to optimize iterative, crowd-sourced workflows. However, they neither describe how to learn the model parameters, nor show its effectiveness in a real crowd-sourced setting. Learning is challenging due to the scale of the model and noisy data: there are hundreds of thousands of workers with high-variance abilities. This paper presents an end-to-end system that first learns TurKontrol's POMDP parameters from real Mechanical Turk data, and then applies the model to dynamically optimize live tasks. We validate the model and use it to control a successive-improvement process on Mechanical Turk. By modeling worker accuracy and voting patterns, our system produces significantly superior artifacts compared to those generated through nonadaptive workflows using the same amount of money."
+        },
+        {
+          "rank": 6,
+          "score": 0.453605055809021,
+          "doc_id": "169",
+          "text": "Big Data cluster analysis In this paper, we focused on cluster analysis as the most commonly used technique for grouping different objects. By clustering data, we can extract groups of similar objects from different collections. First, we defined Big Data and clustering to follow the rest of the paper. We presented the most popular techniques for clustering data, including partitioning, hierarchical clustering, density-based clustering, and network-based clustering. Big Data describes large amounts of data. High precision of big data can contribute to decision-making confidence, and better estimates can help increase efficiency, reduce costs, and risks. Various methods and approaches are used for data processing, including clustering, classification, regression, artificial intelligence, neural networks, association rules, decision trees, genetic algorithms, and the nearest neighbor method. A cluster represents a set of objects from the same class, which means that similar objects are grouped together, and different objects are grouped separately. We described the K-means algorithm, hierarchical clustering, density-based clustering -DBSCAN algorithm, and the STING algorithm for network-based clustering."
+        },
+        {
+          "rank": 7,
+          "score": 0.45256808400154114,
+          "doc_id": "174",
+          "text": "Self-Imitation Learning을 이용한 개선된 Deep Q-Network 알고리즘 Self-Imitation Learning은 간단한 비활성 정책 actor-critic 알고리즘으로써 에이전트가 과거의 좋은 경험을 활용하여 최적의 정책을 찾을 수 있도록 해준다. 그리고 actor-critic 구조를 갖는 강화학습 알고리즘에 결합되어 다양한 환경들에서 알고리즘의 상당한 개선을 보여주었다. 하지만 Self-Imitation Learning이 강화학습에 큰 도움을 준다고 하더라도 그 적용 분야는 actor-critic architecture를 가지는 강화학습 알고리즘으로 제한되어 있다. 본 논문에서 Self-Imitation Learning의 알고리즘을 가치 기반 강화학습 알고리즘인 DQN에 적용하는 방법을 제안하고, Self-Imitation Learning이 적용된 DQN 알고리즘의 학습을 다양한 환경에서 진행한다. 아울러 그 결과를 기존의 결과와 비교함으로써 Self-Imitation Leaning이 DQN에도 적용될 수 있으며 DQN의 성능을 개선할 수 있음을 보인다."
+        },
+        {
+          "rank": 8,
+          "score": 0.45217064023017883,
+          "doc_id": "213",
+          "text": "Artificial intelligence-driven radiomics: developing valuable radiomics signatures with the use of artificial intelligence AbstractThe advent of radiomics has revolutionized medical image analysis, affording the extraction of high dimensional quantitative data for the detailed examination of normal and abnormal tissues. Artificial intelligence (AI) can be used for the enhancement of a series of steps in the radiomics pipeline, from image acquisition and preprocessing, to segmentation, feature extraction, feature selection, and model development. The aim of this review is to present the most used AI methods for radiomics analysis, explaining the advantages and limitations of the methods. Some of the most prominent AI architectures mentioned in this review include Boruta, random forests, gradient boosting, generative adversarial networks, convolutional neural networks, and transformers. Employing these models in the process of radiomics analysis can significantly enhance the quality and effectiveness of the analysis, while addressing several limitations that can reduce the quality of predictions. Addressing these limitations can enable high quality clinical decisions and wider clinical adoption. Importantly, this review will aim to highlight how AI can assist radiomics in overcoming major bottlenecks in clinical implementation, ultimately improving the translation potential of the method."
+        },
+        {
+          "rank": 9,
+          "score": 0.4464355409145355,
+          "doc_id": "214",
+          "text": "An Efficient Parallel Machine Learning-based Blockchain Framework The unlimited possibilities of machine learning have been shown in several successful reports and applications. However, how to make sure that the searched results of a machine learning system are not tampered by anyone and how to prevent the other users in the same network environment from easily getting our private data are two critical research issues when we immerse into powerful machine learning-based systems or applications. This situation is just like other modern information systems that confront security and privacy issues. The development of blockchain provides us an alternative way to address these two issues. That is why some recent studies have attempted to develop machine learning systems with blockchain technologies or to apply machine learning methods to blockchain systems. To show what the combination of blockchain and machine learning is capable of doing, in this paper, we proposed a parallel framework to find out suitable hyperparameters of deep learning in a blockchain environment by using a metaheuristic algorithm. The proposed framework also takes into account the issue of communication cost, by limiting the number of information exchanges between miners and blockchain."
+        },
+        {
+          "rank": 10,
+          "score": 0.44453513622283936,
+          "doc_id": "128",
+          "text": "Machine learning-based adaptive CSI feedback interval The channel state information (CSI) is essential for the base station (BS) to schedule user equipments (UEs) and efficiently manage the radio resources. Hence, the BS requests UEs to regularly feed back the CSI. However, frequent CSI reporting causes large signaling overhead. To reduce the feedback overhead, we propose two machine learning-based approaches to adjust the CSI feedback interval. We use a deep neural network and reinforcement learning (RL) to decide whether an UE feeds back the CSI. Simulation results show that the RL-based approach achieves the lowest mean squared error while reducing the number of CSI feedback transmissions."
+        }
+      ]
+    },
+    {
+      "query": "Particle Swarm Optimization이 퍼지 Extreme Learning Machine의 활성화 함수 파라미터를 최적화하는 과정은 어떻게 이루어지나요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 4
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5094098448753357,
+          "doc_id": "42",
+          "text": "Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning In recent years, machine learning algorithms are continuously being used and expanded in various fields, such as facial recognition, signal processing, personal authentication, and stock prediction. In particular, various algorithms, such as deep learning, reinforcement learning, and Q-learning, are continuously being improved. Among these algorithms, the expansion of deep learning is rapidly changing. Nevertheless, machine learning algorithms have not yet been applied in several fields, such as personal authentication technology. This technology is an essential tool in the digital information era, walking recognition technology as promising biometrics, and technology for solving state-space problems. Therefore, algorithm technologies of deep learning, reinforcement learning, and Q-learning, which are typical machine learning algorithms in various fields, such as agricultural technology, personal authentication, wireless network, game, biometric recognition, and image recognition, are being improved and expanded in this paper."
+        },
+        {
+          "rank": 2,
+          "score": 0.49382513761520386,
+          "doc_id": "26",
+          "text": "Design a personalized recommendation system using deep learning and reinforcement learning As the E-commerce market grows, the importance of personalized recommendation systems is increasing. Existing collaborative filtering and content-based filtering methods have shown a certain level of performance, but they have limitations such as cold start, data sparseness, and lack of long-term pattern learning. In this study, we design a matching system that combines a hybrid recommendation system and hyper-personalization technology and propose an efficient recommendation system. The core of the study is to develop a recommendation model that can improve recommendation accuracy and increase user satisfaction compared to existing systems. The proposed elements are as follows. First, the hybrid-hyper-personalization matching system provides recommendation accuracy compared to existing methods. Second, we propose an optimal product matching model that reflects user context using real-time data. Third, we optimize Personalized Recommendation System using deep learning and reinforcement learning. Fourth, we present a method to objectively evaluate recommendation performance through A/B testing."
+        },
+        {
+          "rank": 3,
+          "score": 0.4892958402633667,
+          "doc_id": "174",
+          "text": "Self-Imitation Learning을 이용한 개선된 Deep Q-Network 알고리즘 Self-Imitation Learning은 간단한 비활성 정책 actor-critic 알고리즘으로써 에이전트가 과거의 좋은 경험을 활용하여 최적의 정책을 찾을 수 있도록 해준다. 그리고 actor-critic 구조를 갖는 강화학습 알고리즘에 결합되어 다양한 환경들에서 알고리즘의 상당한 개선을 보여주었다. 하지만 Self-Imitation Learning이 강화학습에 큰 도움을 준다고 하더라도 그 적용 분야는 actor-critic architecture를 가지는 강화학습 알고리즘으로 제한되어 있다. 본 논문에서 Self-Imitation Learning의 알고리즘을 가치 기반 강화학습 알고리즘인 DQN에 적용하는 방법을 제안하고, Self-Imitation Learning이 적용된 DQN 알고리즘의 학습을 다양한 환경에서 진행한다. 아울러 그 결과를 기존의 결과와 비교함으로써 Self-Imitation Leaning이 DQN에도 적용될 수 있으며 DQN의 성능을 개선할 수 있음을 보인다."
+        },
+        {
+          "rank": 4,
+          "score": 0.48802050948143005,
+          "doc_id": "88",
+          "text": "Machine learning on Big Data Statistical Machine Learning has undergone a phase transition from a pure academic endeavor to being one of the main drivers of modern commerce and science. Even more so, recent results such as those on tera-scale learning [1] and on very large neural networks [2] suggest that scale is an important ingredient in quality modeling. This tutorial introduces current applications, techniques and systems with the aim of cross-fertilizing research between the database and machine learning communities. The tutorial covers current large scale applications of Machine Learning, their computational model and the workflow behind building those. Based on this foundation, we present the current state-of-the-art in systems support in the bulk of the tutorial. We also identify critical gaps in the state-of-the-art. This leads to the closing of the seminar, where we introduce two sets of open research questions: Better systems support for the already established use cases of Machine Learning and support for recent advances in Machine Learning research."
+        },
+        {
+          "rank": 5,
+          "score": 0.4845339059829712,
+          "doc_id": "109",
+          "text": "Optimized Data Processing Analysis Using Big Data Cloud Platform Recently data processing has main gained many attention both from academic and commercial industry. Their term use to tools, technical methods and frameworks made to gathering, collect, store, processing and analysis massive amounts of data. Data processing and analysis are based on structured/semi -structured/unstructured by big data, as well as is generated from various different sources in the system at various rates. For the purpose of processing with their large data and suitable way, voluminous parallelism is usually used. The general architecture of a big data system is made up a shared cluster of their machines. Nonetheless, even in very parallel environment, data processing is often very time-consuming. A various applications can take up to everytime to produce useful results, interactive analysis and debugging. Nevertheless, we have main problems that how we have a high performance requires both quality of data locality and resource. Moreover, big data analysis provide the amount of data that is processed typically large in comparison with computation in their systems. In other words, specified optimization that would relieve low-level to achieve good performance essentially. Accordingly, our main goal of this research paper provide how we have to do to optimize for big data frameworks. Our contribute approach to make big data cloud platform for easy and efficient processing of big data. In addition, we provides results from a study of existing optimization of data processing in MapReduce and Hadoop oriented systems."
+        },
+        {
+          "rank": 6,
+          "score": 0.4839998483657837,
+          "doc_id": "182",
+          "text": "Effective Electricity Demand Prediction via Deep Learning Prediction of electricity demand in homes and buildings can be used to optimize an energy management system by decreasing energy wastage. A time-series prediction system is still a challenging problem in machine learning and deep learning. Our main idea is to compare three methods. For this work, we analyzed an electricity demand prediction system using the current state-of-the-art deep-learning methods with a machine-learning method: error correction with multi-layer perceptron (eMLP) structure, autoregressive integrated moving average (ARIMA) structure, and a proposed structure named CNN-LSTM. For this, we measured and collected electricity demand data in Germany for home appliances. We report the prediction accuracy in terms of the mean square error (MSE) and mean absolute percentage error (MAPE). The experimental result indicates that CNN-LSTM outperforms eMLP and ARIMA in accuracy."
+        },
+        {
+          "rank": 7,
+          "score": 0.4839952290058136,
+          "doc_id": "223",
+          "text": "학습전략과 심층학습 Learning strategies are defined as behaviors and thoughts that a learner engages in during learning and that are intended to influence the learner's encoding process. Today, demands for teaching how to learn increase, because there is a lot of complex material which is delivered to students. But learning strategies shouldn't be identified as tricks of students for achieving high scores in exams. Cognitive researchers and theorists assume that learning strategies are related to two types of learning processing, which are described as 'surface learning' and 'deep learning'. In addition learning strategies are associated with learning motivation. Students with 'meaning orientation' who struggle for deep learning, are intrinsically motivated, whereas students with 'reproduction orientation' or 'achieving orientation' are extrinsically motivated. Therefore, to foster active learning and intrinsic motivation of students, it isn't enough to just teach how to learn. Changes of curriculum and assessment methods, that stimulate deep learning and curiosity of students are needed with educators and learners working cooperatively."
+        },
+        {
+          "rank": 8,
+          "score": 0.48159652948379517,
+          "doc_id": "128",
+          "text": "Machine learning-based adaptive CSI feedback interval The channel state information (CSI) is essential for the base station (BS) to schedule user equipments (UEs) and efficiently manage the radio resources. Hence, the BS requests UEs to regularly feed back the CSI. However, frequent CSI reporting causes large signaling overhead. To reduce the feedback overhead, we propose two machine learning-based approaches to adjust the CSI feedback interval. We use a deep neural network and reinforcement learning (RL) to decide whether an UE feeds back the CSI. Simulation results show that the RL-based approach achieves the lowest mean squared error while reducing the number of CSI feedback transmissions."
+        },
+        {
+          "rank": 9,
+          "score": 0.47854745388031006,
+          "doc_id": "214",
+          "text": "An Efficient Parallel Machine Learning-based Blockchain Framework The unlimited possibilities of machine learning have been shown in several successful reports and applications. However, how to make sure that the searched results of a machine learning system are not tampered by anyone and how to prevent the other users in the same network environment from easily getting our private data are two critical research issues when we immerse into powerful machine learning-based systems or applications. This situation is just like other modern information systems that confront security and privacy issues. The development of blockchain provides us an alternative way to address these two issues. That is why some recent studies have attempted to develop machine learning systems with blockchain technologies or to apply machine learning methods to blockchain systems. To show what the combination of blockchain and machine learning is capable of doing, in this paper, we proposed a parallel framework to find out suitable hyperparameters of deep learning in a blockchain environment by using a metaheuristic algorithm. The proposed framework also takes into account the issue of communication cost, by limiting the number of information exchanges between miners and blockchain."
+        },
+        {
+          "rank": 10,
+          "score": 0.4777300953865051,
+          "doc_id": "9",
+          "text": "Wave data prediction with optimized machine learning and deep learning techniques Maritime Autonomous Surface Ships are in the development stage and they play an important role in the upcoming future. Present generation ships are semi-autonomous and controlled by the ship crew. The performance of the ship is predicted using the data collected from the ship with the help of machine learning and deep learning methods. Path planning for an autonomous ship is necessary for estimating the best possible route with minimum travel time and it depends on the weather. However, even during the navigation, there will be changes in weather and it should be predicted in order to reroute the ship. The weather information such as wave height, wave period, seawater temperature, humidity, atmospheric pressure, etc., is collected by ship external sensors, weather stations, buoys, and satellites. This paper investigates the ensemble machine learning approaches and seasonality approach for wave data prediction. The historical meteorological data are collected from six stations near Puerto Rico offshore and Hawaii offshore. We explore ensemble machine learning techniques on the data collected. The collected data are divided into training and testing data and apply machine learning models to predict the test data. The hyperparameter optimization is performed to find the best parameters before fitting on train data, this is essential to find the best results. Multivariate analysis is performed with all the methods and errors are computed to find the best models."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

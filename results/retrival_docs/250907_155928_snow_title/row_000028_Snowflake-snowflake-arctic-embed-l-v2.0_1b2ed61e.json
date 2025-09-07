@@ -1,0 +1,221 @@
+{
+  "id": "row_000028",
+  "model_name": "Snowflake/snowflake-arctic-embed-l-v2.0",
+  "timestamp_kst": "2025-09-07T15:59:33.349957+09:00",
+  "trial_id": "1b2ed61e",
+  "queries": [
+    {
+      "query": "DBN 기반 딥 러닝을 이용한 기업부도 예측과 기존 SVM 방법 간의 성능 차이, 특히 부도기업 예측 민감도 향상 결과를 간단히 정리해 주실 수 있나요?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5914334058761597,
+          "doc_id": "31",
+          "text": "딥러닝 알고리즘에 기반한 기업부도 예측"
+        },
+        {
+          "rank": 2,
+          "score": 0.5230104923248291,
+          "doc_id": "155",
+          "text": "Machine Learning Versus Deep Learning Performances on the Sentiment Analysis of Product Reviews"
+        },
+        {
+          "rank": 3,
+          "score": 0.475937157869339,
+          "doc_id": "220",
+          "text": "딥 러닝기반 고객평점 예측모델"
+        },
+        {
+          "rank": 4,
+          "score": 0.46263471245765686,
+          "doc_id": "123",
+          "text": "딥러닝의 모형과 응용사례"
+        },
+        {
+          "rank": 5,
+          "score": 0.44035208225250244,
+          "doc_id": "50",
+          "text": "Deep Learning 프레임워크 성능 비교 연구 : Cloud Computing 환경에서"
+        },
+        {
+          "rank": 6,
+          "score": 0.43921810388565063,
+          "doc_id": "64",
+          "text": "Deep Learning Research Trend Analysis using Text Mining"
+        },
+        {
+          "rank": 7,
+          "score": 0.43907052278518677,
+          "doc_id": "180",
+          "text": "딥러닝 기반의 딥 클러스터링 방법에 대한 분석"
+        },
+        {
+          "rank": 8,
+          "score": 0.42926180362701416,
+          "doc_id": "164",
+          "text": "Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade"
+        },
+        {
+          "rank": 9,
+          "score": 0.4256526827812195,
+          "doc_id": "25",
+          "text": "A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis"
+        },
+        {
+          "rank": 10,
+          "score": 0.4256526827812195,
+          "doc_id": "74",
+          "text": "A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis"
+        }
+      ]
+    },
+    {
+      "query": "기업부도 예측에서 DBN 기반 딥 러닝과 기존 SVM 방법 간의 전반적인 성능 차이는 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5375434756278992,
+          "doc_id": "155",
+          "text": "Machine Learning Versus Deep Learning Performances on the Sentiment Analysis of Product Reviews"
+        },
+        {
+          "rank": 2,
+          "score": 0.5125362277030945,
+          "doc_id": "31",
+          "text": "딥러닝 알고리즘에 기반한 기업부도 예측"
+        },
+        {
+          "rank": 3,
+          "score": 0.48648685216903687,
+          "doc_id": "123",
+          "text": "딥러닝의 모형과 응용사례"
+        },
+        {
+          "rank": 4,
+          "score": 0.47352972626686096,
+          "doc_id": "164",
+          "text": "Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade"
+        },
+        {
+          "rank": 5,
+          "score": 0.47134703397750854,
+          "doc_id": "50",
+          "text": "Deep Learning 프레임워크 성능 비교 연구 : Cloud Computing 환경에서"
+        },
+        {
+          "rank": 6,
+          "score": 0.46737271547317505,
+          "doc_id": "25",
+          "text": "A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis"
+        },
+        {
+          "rank": 7,
+          "score": 0.46737271547317505,
+          "doc_id": "74",
+          "text": "A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis"
+        },
+        {
+          "rank": 8,
+          "score": 0.4651731252670288,
+          "doc_id": "125",
+          "text": "An overview of deep learning techniques"
+        },
+        {
+          "rank": 9,
+          "score": 0.4574732184410095,
+          "doc_id": "225",
+          "text": "Speech Recognition using Machine Learning"
+        },
+        {
+          "rank": 10,
+          "score": 0.45564067363739014,
+          "doc_id": "64",
+          "text": "Deep Learning Research Trend Analysis using Text Mining"
+        }
+      ]
+    },
+    {
+      "query": "DBN 기반 딥 러닝이 기존 SVM 방법에 비해 부도기업 예측 민감도 측면에서 어떤 향상 결과를 보였나요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.48585453629493713,
+          "doc_id": "123",
+          "text": "딥러닝의 모형과 응용사례"
+        },
+        {
+          "rank": 2,
+          "score": 0.4800911843776703,
+          "doc_id": "155",
+          "text": "Machine Learning Versus Deep Learning Performances on the Sentiment Analysis of Product Reviews"
+        },
+        {
+          "rank": 3,
+          "score": 0.472391277551651,
+          "doc_id": "31",
+          "text": "딥러닝 알고리즘에 기반한 기업부도 예측"
+        },
+        {
+          "rank": 4,
+          "score": 0.46567967534065247,
+          "doc_id": "64",
+          "text": "Deep Learning Research Trend Analysis using Text Mining"
+        },
+        {
+          "rank": 5,
+          "score": 0.44884422421455383,
+          "doc_id": "164",
+          "text": "Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade"
+        },
+        {
+          "rank": 6,
+          "score": 0.44302964210510254,
+          "doc_id": "220",
+          "text": "딥 러닝기반 고객평점 예측모델"
+        },
+        {
+          "rank": 7,
+          "score": 0.44044724106788635,
+          "doc_id": "225",
+          "text": "Speech Recognition using Machine Learning"
+        },
+        {
+          "rank": 8,
+          "score": 0.42739933729171753,
+          "doc_id": "97",
+          "text": "&#x201e;Machine learning“ in der An&auml;sthesiologie"
+        },
+        {
+          "rank": 9,
+          "score": 0.4243868887424469,
+          "doc_id": "125",
+          "text": "An overview of deep learning techniques"
+        },
+        {
+          "rank": 10,
+          "score": 0.4189222455024719,
+          "doc_id": "3",
+          "text": "Deep Learning in der Augenheilkunde"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

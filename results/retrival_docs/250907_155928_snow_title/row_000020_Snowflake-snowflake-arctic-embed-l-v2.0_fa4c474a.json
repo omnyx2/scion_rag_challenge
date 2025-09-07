@@ -1,0 +1,151 @@
+{
+  "id": "row_000020",
+  "model_name": "Snowflake/snowflake-arctic-embed-l-v2.0",
+  "timestamp_kst": "2025-09-07T15:59:31.894616+09:00",
+  "trial_id": "fa4c474a",
+  "queries": [
+    {
+      "query": "제조 품질 개선을 위해 제안된 식스 시그마 기반 Big Data 활용 방법의 주요 절차를 요약해 주시겠습니까?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.503881573677063,
+          "doc_id": "161",
+          "text": "Big Data 활용을 위한 제조 품질 개선 방법에 대한 연구"
+        },
+        {
+          "rank": 2,
+          "score": 0.4709424674510956,
+          "doc_id": "62",
+          "text": "Utilization and Analysis of Big-data"
+        },
+        {
+          "rank": 3,
+          "score": 0.4428977966308594,
+          "doc_id": "109",
+          "text": "Optimized Data Processing Analysis Using Big Data Cloud Platform"
+        },
+        {
+          "rank": 4,
+          "score": 0.4247426390647888,
+          "doc_id": "43",
+          "text": "Enjeux des big data en sant&eacute;"
+        },
+        {
+          "rank": 5,
+          "score": 0.3954532742500305,
+          "doc_id": "172",
+          "text": "Demystifying big data: Anatomy of big data developmental process"
+        },
+        {
+          "rank": 6,
+          "score": 0.3936628997325897,
+          "doc_id": "73",
+          "text": "Big data, big data quality problem"
+        },
+        {
+          "rank": 7,
+          "score": 0.39002782106399536,
+          "doc_id": "165",
+          "text": "패키징(Packaging) 분야에서의 빅데이터(Big data) 적용방안 연구"
+        },
+        {
+          "rank": 8,
+          "score": 0.3847350478172302,
+          "doc_id": "71",
+          "text": "Compromise between Small Data and Big Data"
+        },
+        {
+          "rank": 9,
+          "score": 0.3839956521987915,
+          "doc_id": "217",
+          "text": "Les big data, g&eacute;n&eacute;ralit&eacute;s et int&eacute;gration en radioth&eacute;rapie"
+        },
+        {
+          "rank": 10,
+          "score": 0.382896363735199,
+          "doc_id": "32",
+          "text": "빅데이터 처리 프로세스에 따른 빅데이터 위험요인 분석"
+        }
+      ]
+    },
+    {
+      "query": "제조 품질 개선을 위해 제안된 식스 시그마 기반 Big Data 활용 방법의 주요 절차는 무엇입니까?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5028004050254822,
+          "doc_id": "161",
+          "text": "Big Data 활용을 위한 제조 품질 개선 방법에 대한 연구"
+        },
+        {
+          "rank": 2,
+          "score": 0.4718382954597473,
+          "doc_id": "62",
+          "text": "Utilization and Analysis of Big-data"
+        },
+        {
+          "rank": 3,
+          "score": 0.4351083040237427,
+          "doc_id": "43",
+          "text": "Enjeux des big data en sant&eacute;"
+        },
+        {
+          "rank": 4,
+          "score": 0.43141239881515503,
+          "doc_id": "109",
+          "text": "Optimized Data Processing Analysis Using Big Data Cloud Platform"
+        },
+        {
+          "rank": 5,
+          "score": 0.41209033131599426,
+          "doc_id": "165",
+          "text": "패키징(Packaging) 분야에서의 빅데이터(Big data) 적용방안 연구"
+        },
+        {
+          "rank": 6,
+          "score": 0.40808460116386414,
+          "doc_id": "73",
+          "text": "Big data, big data quality problem"
+        },
+        {
+          "rank": 7,
+          "score": 0.40555864572525024,
+          "doc_id": "32",
+          "text": "빅데이터 처리 프로세스에 따른 빅데이터 위험요인 분석"
+        },
+        {
+          "rank": 8,
+          "score": 0.40312206745147705,
+          "doc_id": "206",
+          "text": "O&ugrave; en est t’on du Big Data en m&eacute;decine ?"
+        },
+        {
+          "rank": 9,
+          "score": 0.3981209397315979,
+          "doc_id": "172",
+          "text": "Demystifying big data: Anatomy of big data developmental process"
+        },
+        {
+          "rank": 10,
+          "score": 0.3963505029678345,
+          "doc_id": "173",
+          "text": "&#x201e;Massendinghaltung“ oder &#x201e;Big Data“?"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

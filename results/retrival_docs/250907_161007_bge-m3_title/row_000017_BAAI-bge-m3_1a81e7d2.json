@@ -1,0 +1,151 @@
+{
+  "id": "row_000017",
+  "model_name": "BAAI/bge-m3",
+  "timestamp_kst": "2025-09-07T16:10:10.019612+09:00",
+  "trial_id": "1a81e7d2",
+  "queries": [
+    {
+      "query": "DTG 실 주행데이터와 공간정보를 활용한 연료소모량 추정 모델 SBiFEM의 핵심 구성 요소를 요약해 주세요.",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7218784093856812,
+          "doc_id": "21",
+          "text": "DTG 실 주행데이터 및 공간정보를 이용한 빅데이터 기반 연료소모량 추정 모델 연구"
+        },
+        {
+          "rank": 2,
+          "score": 0.4913751184940338,
+          "doc_id": "121",
+          "text": "Deep Learning을 기반으로 한 Feature Extraction 알고리즘의 분석"
+        },
+        {
+          "rank": 3,
+          "score": 0.47810637950897217,
+          "doc_id": "144",
+          "text": "에너지 빅데이터를 수용하는 빅데이터 시스템 개발"
+        },
+        {
+          "rank": 4,
+          "score": 0.46177664399147034,
+          "doc_id": "8",
+          "text": "정보통신 융합기기 연계를 고려한 데이터 중심의 정보시스템 모델의 설계 및 분석"
+        },
+        {
+          "rank": 5,
+          "score": 0.46133315563201904,
+          "doc_id": "200",
+          "text": "딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발"
+        },
+        {
+          "rank": 6,
+          "score": 0.4579944610595703,
+          "doc_id": "130",
+          "text": "딥러닝을 이용한 포트홀 검출 시스템"
+        },
+        {
+          "rank": 7,
+          "score": 0.45518454909324646,
+          "doc_id": "124",
+          "text": "Big Data in Building Energy Efficiency: Understanding of Big Data and Main Challenges"
+        },
+        {
+          "rank": 8,
+          "score": 0.4549730122089386,
+          "doc_id": "123",
+          "text": "딥러닝의 모형과 응용사례"
+        },
+        {
+          "rank": 9,
+          "score": 0.45335879921913147,
+          "doc_id": "75",
+          "text": "MACHINE LEARNING"
+        },
+        {
+          "rank": 10,
+          "score": 0.4513612985610962,
+          "doc_id": "202",
+          "text": "Machine learning"
+        }
+      ]
+    },
+    {
+      "query": "DTG 실 주행데이터와 공간정보를 활용하는 SBiFEM 연료소모량 추정 모델의 핵심 구성 요소는 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7517653703689575,
+          "doc_id": "21",
+          "text": "DTG 실 주행데이터 및 공간정보를 이용한 빅데이터 기반 연료소모량 추정 모델 연구"
+        },
+        {
+          "rank": 2,
+          "score": 0.49440997838974,
+          "doc_id": "121",
+          "text": "Deep Learning을 기반으로 한 Feature Extraction 알고리즘의 분석"
+        },
+        {
+          "rank": 3,
+          "score": 0.48887231945991516,
+          "doc_id": "144",
+          "text": "에너지 빅데이터를 수용하는 빅데이터 시스템 개발"
+        },
+        {
+          "rank": 4,
+          "score": 0.46692606806755066,
+          "doc_id": "202",
+          "text": "Machine learning"
+        },
+        {
+          "rank": 5,
+          "score": 0.4664696455001831,
+          "doc_id": "220",
+          "text": "딥 러닝기반 고객평점 예측모델"
+        },
+        {
+          "rank": 6,
+          "score": 0.46425384283065796,
+          "doc_id": "28",
+          "text": "Deep Learning 기반 COF 이미지 검사시스템"
+        },
+        {
+          "rank": 7,
+          "score": 0.4640069603919983,
+          "doc_id": "154",
+          "text": "Diabetes detection using deep learning algorithms"
+        },
+        {
+          "rank": 8,
+          "score": 0.4628475308418274,
+          "doc_id": "175",
+          "text": "딥 러닝을 이용한 DC 모터 제어"
+        },
+        {
+          "rank": 9,
+          "score": 0.45970618724823,
+          "doc_id": "130",
+          "text": "딥러닝을 이용한 포트홀 검출 시스템"
+        },
+        {
+          "rank": 10,
+          "score": 0.4590092897415161,
+          "doc_id": "123",
+          "text": "딥러닝의 모형과 응용사례"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

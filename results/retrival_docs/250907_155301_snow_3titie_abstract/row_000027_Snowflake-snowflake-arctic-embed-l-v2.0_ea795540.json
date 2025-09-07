@@ -1,0 +1,221 @@
+{
+  "id": "row_000027",
+  "model_name": "Snowflake/snowflake-arctic-embed-l-v2.0",
+  "timestamp_kst": "2025-09-07T15:53:05.713139+09:00",
+  "trial_id": "ea795540",
+  "queries": [
+    {
+      "query": "DC 모터 제어 시스템에 딥 러닝 기반 제어기를 적용한 방법과 PID 제어기와의 성능 비교 결과를 요약해 주실 수 있나요?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.550171434879303,
+          "doc_id": "175",
+          "text": "딥 러닝을 이용한 DC 모터 제어 딥 러닝을 이용한 DC 모터 제어 딥 러닝을 이용한 DC 모터 제어 딥 러닝(deep learning)은 최근에 많이 알려지게 된 심층 인공신경망 알고리즘이다. 일반적인 인공신경망보다 은닉층의 개수와 뉴런의 개수를 확장시키고, 학습이 효율적으로 될 수 있게 알고리즘을 개선한 것이 가장 큰 특징이다. 이러한 특징을 활용하여 기존의 인공신경망으로 풀지 못했던 크고 복잡한 문제들을 해결할 수 있게 되었다. 음성인식, 손 글씨 인식, 얼굴 인식 등 복잡한 패턴인식과 분류에 관련된 다양한 분야에 대한 적용 연구가 활발히 진행되고 있다. 하지만 이러한 장점에도 불구하고, 아직까지 딥 러닝이 제어문제를 해결하기 위해 적용된 사례는 찾아보기 어렵다. 본 논문에서는 간단한 사례를 통해 딥 러닝의 제어문제에 대한 적용 가능성을 확인해 본다. 딥 러닝 알고리즘 중에서 가장 잘 알려진, 깊은 믿음 네트워크(deep belief network) 알고리즘을 사용하여 산업현장에서 가장 많이 사용되고 있는 PID 제어기를 모방하는 딥 러닝 제어기를 설계한다. DC 모터를 제어하는 시스템에서 PID 제어기에 들어오는 입력과 PID 제어기에서 나오는 출력값을 학습 데이터로 사용하여 딥 러닝으로 학습하는 방법을 사용한다. 시뮬레이션을 통해 제안한 딥 러닝 제어기와 PID 제어기를 비교하여 딥 러닝 알고리즘의 성능을 검증한다."
+        },
+        {
+          "rank": 2,
+          "score": 0.4213566780090332,
+          "doc_id": "97",
+          "text": "&#x201e;Machine learning“ in der An&auml;sthesiologie &#x201e;Machine learning“ in der An&auml;sthesiologie &#x201e;Machine learning“ in der An&auml;sthesiologie 없음"
+        },
+        {
+          "rank": 3,
+          "score": 0.41671866178512573,
+          "doc_id": "136",
+          "text": "IT/automation convergence revisited IT/automation convergence revisited IT/automation convergence revisited 없음"
+        },
+        {
+          "rank": 4,
+          "score": 0.39700081944465637,
+          "doc_id": "132",
+          "text": "Artificial intelligence Artificial intelligence Artificial intelligence 없음"
+        },
+        {
+          "rank": 5,
+          "score": 0.39684927463531494,
+          "doc_id": "216",
+          "text": "A Study on Artificial Intelligence A Study on Artificial Intelligence A Study on Artificial Intelligence 없음"
+        },
+        {
+          "rank": 6,
+          "score": 0.3875023126602173,
+          "doc_id": "164",
+          "text": "Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade 없음"
+        },
+        {
+          "rank": 7,
+          "score": 0.3801131546497345,
+          "doc_id": "6",
+          "text": "바둑에 적용된 깊은 학습: 응용 및 실험에 대한 조사 바둑에 적용된 깊은 학습: 응용 및 실험에 대한 조사 바둑에 적용된 깊은 학습: 응용 및 실험에 대한 조사 4 천년 전에 Go-game (바둑) 이 발명되어 널리 지능을 가진 사람들을 가르치기 위해 널리 적용되었습니다. 많은 왕이 그것을 연주하고 지능을 향상시키기 위해 아들을 가르쳤습니다.&amp;#xD; 1980 년대에 퍼스널 컴퓨터가 만들어지고 인기를 얻었습니다. 또한 많은 게임이 사람들이 컴퓨터로 게임을하거나 기존 게임을 플레이 할 때 사용자를 지원할 수 있도록 프로그래밍되어 있습니다. Shogi, Chess, Xiangqi, Go-game, tic-tac-toe 등과 같이 지금까지도 우리 조상이 연주 한 많은 유명한 전통 게임이 컴퓨터 프로그램에 의해 삽화가되고 많은 게임이 성공적으로 프로그래밍되었습니다 . 점진적으로 개선되기 위해 매일 복잡성 게임이 개발되고 있습니다. 특히, 복잡성이 매우 높은 일부 게임은 장군, 체스, 고 게임 등과 같은 전략과 규칙을 가지고 노는 것이 지능적이라고 생각합니다. 인간과 똑같이 지능적으로 플레이 할 수 있도록 프로그램하는 것은 매우 어렵습니다.&amp;#xD; 기계 학습은 컴퓨터가 인간의 두뇌와 유사한 데이터를 생각하고 학습하게하는 솔루션으로 부상했습니다. 알고리즘을 사용하여 분석 모델을 작성하여 컴퓨터가 특정 목적을 위해 주어진 데이터에서 '학습'하도록 돕습니다. 이제는 무인 자동차, 로봇 장치와 같은 흥미 진 진한 새로운 응용 프로그램을 만들기 위해 방대한 양의 데이터에 적용 할 수 있습니다. 딥 러닝 (Deep Learning)은 인공 신경 네트워크 (artificial neural networks)라고 불리는 뇌의 구조와 기능에 영감을받은 알고리즘과 관련된 기계 학습의 하위 분야입니다. 이것은 더 나은 훈련 된 데이터 세트를 얻기 위해 학습 진도를 향상시키는 새로운 접근법으로 알려져있어 더 정확한 결과를 초래합니다.&amp;#xD; 내 논문은 Go-game에 깊은 학습을 적용하는 데 중점을 둡니다. 나는 'Go-game에 적용된 깊은 학습'에 관한 설문 조사를합니다. Go-game에 대한 오픈 소스 코드 프로젝트와 문제 해결을위한 심층적 인 학습 기술을 적용하는 방법을 소개합니다. 정확성과 효과가 더 높은 Go- 게임을위한 다음 동작 계산에 대해 자세히 설명합니다. 저는 고문 교수 인 Jung Keechul과 함께 Go-game의 차세대 제안에 대한 제안을했습니다. 이 방법에서는 3 개의 CNN 레이어가있는 5 개의 숨겨진 레이어를 사용하여 데이터를 학습합니다.&amp;#xD; 저의 논문의 기여는보다 높은 성과와 효과를 가진 HCI에 깊은 학습을 적용하는 접근법을 과시하는 것입니다. 첫째, 심층 학습에 대한 완전한 관찰과 그것을 설문 조사를 통해 적용하는 방법을 제공했습니다. Go-game에 깊은 학습이 적용되었습니다. 둘째, Go-game 연구 및 프로젝트에 필요한 거대한 자원을 보여주었습니다. 셋째, Go-game에 적용된 실험과이 분야에서의 작업을 보여주었습니다. 마지막으로 필자는 내 프로그램 (HuuDucGo), Orego 및 Fuego의 3 가지 프로그램을 비교했습니다. 그들 사이에 제안의 수렴은 다음을 보여줍니다 : HuuDucGo의 제안을 받아 들일 수 있습니다. 우리의 작업에 대한 특별한 실험 : Orego와 Fuego와 같은 다른 두 가지 큰 프로그램의 제안과 수렴되는 수용 가능한 결과를 가지고 Go- 게임을 할 때 다음 행동을 계산하고 제안하는 데 깊은 지식을 적용합니다."
+        },
+        {
+          "rank": 8,
+          "score": 0.37756162881851196,
+          "doc_id": "160",
+          "text": "Crop Prediction Using Machine Learning Crop Prediction Using Machine Learning Crop Prediction Using Machine Learning 없음"
+        },
+        {
+          "rank": 9,
+          "score": 0.37643367052078247,
+          "doc_id": "123",
+          "text": "딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝은 인공신경망(neural network)이라는 인공지능분야의 모형이 발전된 형태로서, 계층구조로 이루어진 인공신경망의 내부계층(hidden layer)이 여러 단계로 이루어진 구조이다. 딥러닝에서의 주요 모형은 합성곱신경망(convolutional neural network), 순환신경망(recurrent neural network), 그리고 심층신뢰신경망(deep belief network)의 세가지라고 할 수 있다. 그 중에서 현재 흥미로운 연구가 많이 발표되어서 관심이 집중되고 있는 모형은 지도학습(supervised learning)모형인 처음 두 개의 모형이다. 따라서 본 논문에서는 지도학습모형의 가중치를 최적화하는 기본적인 방법인 오류역전파 알고리즘을 살펴본 뒤에 합성곱신경망과 순환신경망의 구조와 응용사례 등을 살펴보고자 한다. 본문에서 다루지 않은 모형인 심층신뢰신경망은 아직까지는 합성곱신경망 이나 순환신경망보다는 상대적으로 주목을 덜 받고 있다. 그러나 심층신뢰신경망은 CNN이나 RNN과는 달리 비지도학습(unsupervised learning)모형이며, 사람이나 동물은 관찰을 통해서 스스로 학습한다는 점에서 궁극적으로는 비지도학습모형이 더 많이 연구되어야 할 주제가 될 것이다."
+        },
+        {
+          "rank": 10,
+          "score": 0.375293493270874,
+          "doc_id": "125",
+          "text": "An overview of deep learning techniques An overview of deep learning techniques An overview of deep learning techniques ZusammenfassungDeep Learning ist der Ansatz, der die k&uuml;nstliche Intelligenz innerhalb weniger Jahre tiefgreifend ver&auml;ndert hat. Auch wenn sie durch verschiedene algorithmische Fortschritte begleitet wird, ist diese Technik vor allem aus Anwendungssicht &#x201e;disruptiv“: Sie verschiebt die Grenze automatisierbarer Aufgaben betr&auml;chtlich, ver&auml;ndert die Art der Produktentwicklung und steht praktisch jedermann zur Verf&uuml;gung. Gegenstand des Deep Learning sind neuronale Netze mit einer großen Anzahl von Schichten. Verglichen mit fr&uuml;heren Ans&auml;tzen mit idealerweise einer einzigen Schicht, erlaubt dies den Einsatz massiver Rechenhardware, um Black-Box-Modelle mit einem Minimum an Entwicklungsaufwand direkt aus Rohdaten zu trainieren. Die meisten erfolgreichen Anwendungen finden sich in der Auswertung visueller Bilder, aber auch in der Audio- und Text-Modellierung."
+        }
+      ]
+    },
+    {
+      "query": "DC 모터 제어 시스템에 딥 러닝 기반 제어기를 어떻게 적용했나요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.4604211151599884,
+          "doc_id": "175",
+          "text": "딥 러닝을 이용한 DC 모터 제어 딥 러닝을 이용한 DC 모터 제어 딥 러닝을 이용한 DC 모터 제어 딥 러닝(deep learning)은 최근에 많이 알려지게 된 심층 인공신경망 알고리즘이다. 일반적인 인공신경망보다 은닉층의 개수와 뉴런의 개수를 확장시키고, 학습이 효율적으로 될 수 있게 알고리즘을 개선한 것이 가장 큰 특징이다. 이러한 특징을 활용하여 기존의 인공신경망으로 풀지 못했던 크고 복잡한 문제들을 해결할 수 있게 되었다. 음성인식, 손 글씨 인식, 얼굴 인식 등 복잡한 패턴인식과 분류에 관련된 다양한 분야에 대한 적용 연구가 활발히 진행되고 있다. 하지만 이러한 장점에도 불구하고, 아직까지 딥 러닝이 제어문제를 해결하기 위해 적용된 사례는 찾아보기 어렵다. 본 논문에서는 간단한 사례를 통해 딥 러닝의 제어문제에 대한 적용 가능성을 확인해 본다. 딥 러닝 알고리즘 중에서 가장 잘 알려진, 깊은 믿음 네트워크(deep belief network) 알고리즘을 사용하여 산업현장에서 가장 많이 사용되고 있는 PID 제어기를 모방하는 딥 러닝 제어기를 설계한다. DC 모터를 제어하는 시스템에서 PID 제어기에 들어오는 입력과 PID 제어기에서 나오는 출력값을 학습 데이터로 사용하여 딥 러닝으로 학습하는 방법을 사용한다. 시뮬레이션을 통해 제안한 딥 러닝 제어기와 PID 제어기를 비교하여 딥 러닝 알고리즘의 성능을 검증한다."
+        },
+        {
+          "rank": 2,
+          "score": 0.4315659999847412,
+          "doc_id": "97",
+          "text": "&#x201e;Machine learning“ in der An&auml;sthesiologie &#x201e;Machine learning“ in der An&auml;sthesiologie &#x201e;Machine learning“ in der An&auml;sthesiologie 없음"
+        },
+        {
+          "rank": 3,
+          "score": 0.39541304111480713,
+          "doc_id": "136",
+          "text": "IT/automation convergence revisited IT/automation convergence revisited IT/automation convergence revisited 없음"
+        },
+        {
+          "rank": 4,
+          "score": 0.39496585726737976,
+          "doc_id": "164",
+          "text": "Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade 없음"
+        },
+        {
+          "rank": 5,
+          "score": 0.39027759432792664,
+          "doc_id": "132",
+          "text": "Artificial intelligence Artificial intelligence Artificial intelligence 없음"
+        },
+        {
+          "rank": 6,
+          "score": 0.3809255361557007,
+          "doc_id": "55",
+          "text": "Navigating BAS-IT Convergence Navigating BAS-IT Convergence Navigating BAS-IT Convergence 없음"
+        },
+        {
+          "rank": 7,
+          "score": 0.3799216151237488,
+          "doc_id": "216",
+          "text": "A Study on Artificial Intelligence A Study on Artificial Intelligence A Study on Artificial Intelligence 없음"
+        },
+        {
+          "rank": 8,
+          "score": 0.3793712556362152,
+          "doc_id": "23",
+          "text": "Big data, Big bang? Big data, Big bang? Big data, Big bang? 없음"
+        },
+        {
+          "rank": 9,
+          "score": 0.3775297999382019,
+          "doc_id": "123",
+          "text": "딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝은 인공신경망(neural network)이라는 인공지능분야의 모형이 발전된 형태로서, 계층구조로 이루어진 인공신경망의 내부계층(hidden layer)이 여러 단계로 이루어진 구조이다. 딥러닝에서의 주요 모형은 합성곱신경망(convolutional neural network), 순환신경망(recurrent neural network), 그리고 심층신뢰신경망(deep belief network)의 세가지라고 할 수 있다. 그 중에서 현재 흥미로운 연구가 많이 발표되어서 관심이 집중되고 있는 모형은 지도학습(supervised learning)모형인 처음 두 개의 모형이다. 따라서 본 논문에서는 지도학습모형의 가중치를 최적화하는 기본적인 방법인 오류역전파 알고리즘을 살펴본 뒤에 합성곱신경망과 순환신경망의 구조와 응용사례 등을 살펴보고자 한다. 본문에서 다루지 않은 모형인 심층신뢰신경망은 아직까지는 합성곱신경망 이나 순환신경망보다는 상대적으로 주목을 덜 받고 있다. 그러나 심층신뢰신경망은 CNN이나 RNN과는 달리 비지도학습(unsupervised learning)모형이며, 사람이나 동물은 관찰을 통해서 스스로 학습한다는 점에서 궁극적으로는 비지도학습모형이 더 많이 연구되어야 할 주제가 될 것이다."
+        },
+        {
+          "rank": 10,
+          "score": 0.3696148991584778,
+          "doc_id": "6",
+          "text": "바둑에 적용된 깊은 학습: 응용 및 실험에 대한 조사 바둑에 적용된 깊은 학습: 응용 및 실험에 대한 조사 바둑에 적용된 깊은 학습: 응용 및 실험에 대한 조사 4 천년 전에 Go-game (바둑) 이 발명되어 널리 지능을 가진 사람들을 가르치기 위해 널리 적용되었습니다. 많은 왕이 그것을 연주하고 지능을 향상시키기 위해 아들을 가르쳤습니다.&amp;#xD; 1980 년대에 퍼스널 컴퓨터가 만들어지고 인기를 얻었습니다. 또한 많은 게임이 사람들이 컴퓨터로 게임을하거나 기존 게임을 플레이 할 때 사용자를 지원할 수 있도록 프로그래밍되어 있습니다. Shogi, Chess, Xiangqi, Go-game, tic-tac-toe 등과 같이 지금까지도 우리 조상이 연주 한 많은 유명한 전통 게임이 컴퓨터 프로그램에 의해 삽화가되고 많은 게임이 성공적으로 프로그래밍되었습니다 . 점진적으로 개선되기 위해 매일 복잡성 게임이 개발되고 있습니다. 특히, 복잡성이 매우 높은 일부 게임은 장군, 체스, 고 게임 등과 같은 전략과 규칙을 가지고 노는 것이 지능적이라고 생각합니다. 인간과 똑같이 지능적으로 플레이 할 수 있도록 프로그램하는 것은 매우 어렵습니다.&amp;#xD; 기계 학습은 컴퓨터가 인간의 두뇌와 유사한 데이터를 생각하고 학습하게하는 솔루션으로 부상했습니다. 알고리즘을 사용하여 분석 모델을 작성하여 컴퓨터가 특정 목적을 위해 주어진 데이터에서 '학습'하도록 돕습니다. 이제는 무인 자동차, 로봇 장치와 같은 흥미 진 진한 새로운 응용 프로그램을 만들기 위해 방대한 양의 데이터에 적용 할 수 있습니다. 딥 러닝 (Deep Learning)은 인공 신경 네트워크 (artificial neural networks)라고 불리는 뇌의 구조와 기능에 영감을받은 알고리즘과 관련된 기계 학습의 하위 분야입니다. 이것은 더 나은 훈련 된 데이터 세트를 얻기 위해 학습 진도를 향상시키는 새로운 접근법으로 알려져있어 더 정확한 결과를 초래합니다.&amp;#xD; 내 논문은 Go-game에 깊은 학습을 적용하는 데 중점을 둡니다. 나는 'Go-game에 적용된 깊은 학습'에 관한 설문 조사를합니다. Go-game에 대한 오픈 소스 코드 프로젝트와 문제 해결을위한 심층적 인 학습 기술을 적용하는 방법을 소개합니다. 정확성과 효과가 더 높은 Go- 게임을위한 다음 동작 계산에 대해 자세히 설명합니다. 저는 고문 교수 인 Jung Keechul과 함께 Go-game의 차세대 제안에 대한 제안을했습니다. 이 방법에서는 3 개의 CNN 레이어가있는 5 개의 숨겨진 레이어를 사용하여 데이터를 학습합니다.&amp;#xD; 저의 논문의 기여는보다 높은 성과와 효과를 가진 HCI에 깊은 학습을 적용하는 접근법을 과시하는 것입니다. 첫째, 심층 학습에 대한 완전한 관찰과 그것을 설문 조사를 통해 적용하는 방법을 제공했습니다. Go-game에 깊은 학습이 적용되었습니다. 둘째, Go-game 연구 및 프로젝트에 필요한 거대한 자원을 보여주었습니다. 셋째, Go-game에 적용된 실험과이 분야에서의 작업을 보여주었습니다. 마지막으로 필자는 내 프로그램 (HuuDucGo), Orego 및 Fuego의 3 가지 프로그램을 비교했습니다. 그들 사이에 제안의 수렴은 다음을 보여줍니다 : HuuDucGo의 제안을 받아 들일 수 있습니다. 우리의 작업에 대한 특별한 실험 : Orego와 Fuego와 같은 다른 두 가지 큰 프로그램의 제안과 수렴되는 수용 가능한 결과를 가지고 Go- 게임을 할 때 다음 행동을 계산하고 제안하는 데 깊은 지식을 적용합니다."
+        }
+      ]
+    },
+    {
+      "query": "딥 러닝 기반 제어기와 PID 제어기의 성능 비교 결과는 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.43475210666656494,
+          "doc_id": "132",
+          "text": "Artificial intelligence Artificial intelligence Artificial intelligence 없음"
+        },
+        {
+          "rank": 2,
+          "score": 0.4334174394607544,
+          "doc_id": "216",
+          "text": "A Study on Artificial Intelligence A Study on Artificial Intelligence A Study on Artificial Intelligence 없음"
+        },
+        {
+          "rank": 3,
+          "score": 0.4199746549129486,
+          "doc_id": "97",
+          "text": "&#x201e;Machine learning“ in der An&auml;sthesiologie &#x201e;Machine learning“ in der An&auml;sthesiologie &#x201e;Machine learning“ in der An&auml;sthesiologie 없음"
+        },
+        {
+          "rank": 4,
+          "score": 0.41409093141555786,
+          "doc_id": "136",
+          "text": "IT/automation convergence revisited IT/automation convergence revisited IT/automation convergence revisited 없음"
+        },
+        {
+          "rank": 5,
+          "score": 0.41372618079185486,
+          "doc_id": "23",
+          "text": "Big data, Big bang? Big data, Big bang? Big data, Big bang? 없음"
+        },
+        {
+          "rank": 6,
+          "score": 0.4052523374557495,
+          "doc_id": "137",
+          "text": "What's Humanity for Artificial Intelligence Jindo Intelligence &#x2014; Dawning of Artificial Intelligence &#x2014; What's Humanity for Artificial Intelligence Jindo Intelligence &#x2014; Dawning of Artificial Intelligence &#x2014; What's Humanity for Artificial Intelligence Jindo Intelligence &#x2014; Dawning of Artificial Intelligence &#x2014; 없음"
+        },
+        {
+          "rank": 7,
+          "score": 0.40157824754714966,
+          "doc_id": "175",
+          "text": "딥 러닝을 이용한 DC 모터 제어 딥 러닝을 이용한 DC 모터 제어 딥 러닝을 이용한 DC 모터 제어 딥 러닝(deep learning)은 최근에 많이 알려지게 된 심층 인공신경망 알고리즘이다. 일반적인 인공신경망보다 은닉층의 개수와 뉴런의 개수를 확장시키고, 학습이 효율적으로 될 수 있게 알고리즘을 개선한 것이 가장 큰 특징이다. 이러한 특징을 활용하여 기존의 인공신경망으로 풀지 못했던 크고 복잡한 문제들을 해결할 수 있게 되었다. 음성인식, 손 글씨 인식, 얼굴 인식 등 복잡한 패턴인식과 분류에 관련된 다양한 분야에 대한 적용 연구가 활발히 진행되고 있다. 하지만 이러한 장점에도 불구하고, 아직까지 딥 러닝이 제어문제를 해결하기 위해 적용된 사례는 찾아보기 어렵다. 본 논문에서는 간단한 사례를 통해 딥 러닝의 제어문제에 대한 적용 가능성을 확인해 본다. 딥 러닝 알고리즘 중에서 가장 잘 알려진, 깊은 믿음 네트워크(deep belief network) 알고리즘을 사용하여 산업현장에서 가장 많이 사용되고 있는 PID 제어기를 모방하는 딥 러닝 제어기를 설계한다. DC 모터를 제어하는 시스템에서 PID 제어기에 들어오는 입력과 PID 제어기에서 나오는 출력값을 학습 데이터로 사용하여 딥 러닝으로 학습하는 방법을 사용한다. 시뮬레이션을 통해 제안한 딥 러닝 제어기와 PID 제어기를 비교하여 딥 러닝 알고리즘의 성능을 검증한다."
+        },
+        {
+          "rank": 8,
+          "score": 0.39614516496658325,
+          "doc_id": "82",
+          "text": "Artificial Intelligence for Artificial Artificial Intelligence Artificial Intelligence for Artificial Artificial Intelligence Artificial Intelligence for Artificial Artificial Intelligence 없음"
+        },
+        {
+          "rank": 9,
+          "score": 0.391892671585083,
+          "doc_id": "55",
+          "text": "Navigating BAS-IT Convergence Navigating BAS-IT Convergence Navigating BAS-IT Convergence 없음"
+        },
+        {
+          "rank": 10,
+          "score": 0.38457798957824707,
+          "doc_id": "119",
+          "text": "Photonics IT Convergence Photonics IT Convergence Photonics IT Convergence 없음"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "id": "row_000041",
+  "model_name": "Snowflake/snowflake-arctic-embed-l-v2.0",
+  "timestamp_kst": "2025-09-07T15:59:35.433706+09:00",
+  "trial_id": "f839a1a0",
+  "queries": [
+    {
+      "query": "How would you concisely summarize the key findings on using machine learning classifiers combined with molecular docking to predict cytochrome P450 ligand interactions?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.4873505234718323,
+          "doc_id": "164",
+          "text": "Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade"
+        },
+        {
+          "rank": 2,
+          "score": 0.44177016615867615,
+          "doc_id": "142",
+          "text": "Machine learning in oncology-Perspectives in patient-reported outcome research"
+        },
+        {
+          "rank": 3,
+          "score": 0.4384143054485321,
+          "doc_id": "202",
+          "text": "Machine learning"
+        },
+        {
+          "rank": 4,
+          "score": 0.4372238516807556,
+          "doc_id": "125",
+          "text": "An overview of deep learning techniques"
+        },
+        {
+          "rank": 5,
+          "score": 0.4305104613304138,
+          "doc_id": "75",
+          "text": "MACHINE LEARNING"
+        },
+        {
+          "rank": 6,
+          "score": 0.4265044331550598,
+          "doc_id": "64",
+          "text": "Deep Learning Research Trend Analysis using Text Mining"
+        },
+        {
+          "rank": 7,
+          "score": 0.4264758825302124,
+          "doc_id": "225",
+          "text": "Speech Recognition using Machine Learning"
+        },
+        {
+          "rank": 8,
+          "score": 0.4167594313621521,
+          "doc_id": "97",
+          "text": "&#x201e;Machine learning“ in der An&auml;sthesiologie"
+        },
+        {
+          "rank": 9,
+          "score": 0.4148247241973877,
+          "doc_id": "27",
+          "text": "Synthesizing cellular intelligence and artificial intelligence for bioprocesses"
+        },
+        {
+          "rank": 10,
+          "score": 0.4126895070075989,
+          "doc_id": "147",
+          "text": "A Survey of Topological Machine Learning Methods"
+        }
+      ]
+    },
+    {
+      "query": "What is the typical performance or accuracy of machine learning classifiers combined with molecular docking for predicting cytochrome P450 ligand interactions?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5337682962417603,
+          "doc_id": "164",
+          "text": "Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade"
+        },
+        {
+          "rank": 2,
+          "score": 0.4734322130680084,
+          "doc_id": "75",
+          "text": "MACHINE LEARNING"
+        },
+        {
+          "rank": 3,
+          "score": 0.46882522106170654,
+          "doc_id": "225",
+          "text": "Speech Recognition using Machine Learning"
+        },
+        {
+          "rank": 4,
+          "score": 0.46712011098861694,
+          "doc_id": "97",
+          "text": "&#x201e;Machine learning“ in der An&auml;sthesiologie"
+        },
+        {
+          "rank": 5,
+          "score": 0.4612802267074585,
+          "doc_id": "202",
+          "text": "Machine learning"
+        },
+        {
+          "rank": 6,
+          "score": 0.43851494789123535,
+          "doc_id": "155",
+          "text": "Machine Learning Versus Deep Learning Performances on the Sentiment Analysis of Product Reviews"
+        },
+        {
+          "rank": 7,
+          "score": 0.43482834100723267,
+          "doc_id": "142",
+          "text": "Machine learning in oncology-Perspectives in patient-reported outcome research"
+        },
+        {
+          "rank": 8,
+          "score": 0.43422260880470276,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence"
+        },
+        {
+          "rank": 9,
+          "score": 0.431091845035553,
+          "doc_id": "83",
+          "text": "Machine Learning and Cryptography"
+        },
+        {
+          "rank": 10,
+          "score": 0.4298819303512573,
+          "doc_id": "147",
+          "text": "A Survey of Topological Machine Learning Methods"
+        }
+      ]
+    },
+    {
+      "query": "What are the main advantages of using machine learning classifiers combined with molecular docking for predicting cytochrome P450 ligand interactions?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.4908946454524994,
+          "doc_id": "164",
+          "text": "Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade"
+        },
+        {
+          "rank": 2,
+          "score": 0.46484801173210144,
+          "doc_id": "225",
+          "text": "Speech Recognition using Machine Learning"
+        },
+        {
+          "rank": 3,
+          "score": 0.45575737953186035,
+          "doc_id": "75",
+          "text": "MACHINE LEARNING"
+        },
+        {
+          "rank": 4,
+          "score": 0.45358869433403015,
+          "doc_id": "202",
+          "text": "Machine learning"
+        },
+        {
+          "rank": 5,
+          "score": 0.43800508975982666,
+          "doc_id": "97",
+          "text": "&#x201e;Machine learning“ in der An&auml;sthesiologie"
+        },
+        {
+          "rank": 6,
+          "score": 0.4179847836494446,
+          "doc_id": "142",
+          "text": "Machine learning in oncology-Perspectives in patient-reported outcome research"
+        },
+        {
+          "rank": 7,
+          "score": 0.41225022077560425,
+          "doc_id": "83",
+          "text": "Machine Learning and Cryptography"
+        },
+        {
+          "rank": 8,
+          "score": 0.40589359402656555,
+          "doc_id": "147",
+          "text": "A Survey of Topological Machine Learning Methods"
+        },
+        {
+          "rank": 9,
+          "score": 0.3993639051914215,
+          "doc_id": "221",
+          "text": "Implikationen von Machine Learning auf das Datenmanagement in Unternehmen"
+        },
+        {
+          "rank": 10,
+          "score": 0.398807168006897,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence"
+        }
+      ]
+    },
+    {
+      "query": "What are the key limitations or challenges of using machine learning classifiers combined with molecular docking for predicting cytochrome P450 ligand interactions?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 2
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5153281688690186,
+          "doc_id": "164",
+          "text": "Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade"
+        },
+        {
+          "rank": 2,
+          "score": 0.4517192542552948,
+          "doc_id": "202",
+          "text": "Machine learning"
+        },
+        {
+          "rank": 3,
+          "score": 0.45000168681144714,
+          "doc_id": "75",
+          "text": "MACHINE LEARNING"
+        },
+        {
+          "rank": 4,
+          "score": 0.44687420129776,
+          "doc_id": "97",
+          "text": "&#x201e;Machine learning“ in der An&auml;sthesiologie"
+        },
+        {
+          "rank": 5,
+          "score": 0.4417295455932617,
+          "doc_id": "225",
+          "text": "Speech Recognition using Machine Learning"
+        },
+        {
+          "rank": 6,
+          "score": 0.43055322766304016,
+          "doc_id": "120",
+          "text": "Big Data Key Challenges"
+        },
+        {
+          "rank": 7,
+          "score": 0.42545002698898315,
+          "doc_id": "221",
+          "text": "Implikationen von Machine Learning auf das Datenmanagement in Unternehmen"
+        },
+        {
+          "rank": 8,
+          "score": 0.4194064736366272,
+          "doc_id": "142",
+          "text": "Machine learning in oncology-Perspectives in patient-reported outcome research"
+        },
+        {
+          "rank": 9,
+          "score": 0.4191697835922241,
+          "doc_id": "147",
+          "text": "A Survey of Topological Machine Learning Methods"
+        },
+        {
+          "rank": 10,
+          "score": 0.41437333822250366,
+          "doc_id": "83",
+          "text": "Machine Learning and Cryptography"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

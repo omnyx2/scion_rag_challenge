@@ -1,0 +1,291 @@
+{
+  "id": "row_000024",
+  "model_name": "Snowflake/snowflake-arctic-embed-l-v2.0",
+  "timestamp_kst": "2025-09-07T15:53:05.263374+09:00",
+  "trial_id": "f31612ce",
+  "queries": [
+    {
+      "query": "Can you outline the key deep learning and machine learning models evaluated for electricity demand prediction and their comparative performance in terms of MSE and MAPE?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.480400949716568,
+          "doc_id": "182",
+          "text": "Effective Electricity Demand Prediction via Deep Learning Effective Electricity Demand Prediction via Deep Learning Effective Electricity Demand Prediction via Deep Learning Prediction of electricity demand in homes and buildings can be used to optimize an energy management system by decreasing energy wastage. A time-series prediction system is still a challenging problem in machine learning and deep learning. Our main idea is to compare three methods. For this work, we analyzed an electricity demand prediction system using the current state-of-the-art deep-learning methods with a machine-learning method: error correction with multi-layer perceptron (eMLP) structure, autoregressive integrated moving average (ARIMA) structure, and a proposed structure named CNN-LSTM. For this, we measured and collected electricity demand data in Germany for home appliances. We report the prediction accuracy in terms of the mean square error (MSE) and mean absolute percentage error (MAPE). The experimental result indicates that CNN-LSTM outperforms eMLP and ARIMA in accuracy."
+        },
+        {
+          "rank": 2,
+          "score": 0.4673197269439697,
+          "doc_id": "202",
+          "text": "Machine learning Machine learning Machine learning A short review of research and applications in machine learning is given. Rather than attempt to cover all areas of ML, the focus is on its role in building expert systems, its approach to classification problems and ML methods of learning control. A relatively new area, inductive logic programming, is also discussed."
+        },
+        {
+          "rank": 3,
+          "score": 0.46612244844436646,
+          "doc_id": "160",
+          "text": "Crop Prediction Using Machine Learning Crop Prediction Using Machine Learning Crop Prediction Using Machine Learning 없음"
+        },
+        {
+          "rank": 4,
+          "score": 0.46114087104797363,
+          "doc_id": "47",
+          "text": "Econometrics and Machine Learning Econometrics and Machine Learning Econometrics and Machine Learning 없음"
+        },
+        {
+          "rank": 5,
+          "score": 0.45486024022102356,
+          "doc_id": "155",
+          "text": "Machine Learning Versus Deep Learning Performances on the Sentiment Analysis of Product Reviews Machine Learning Versus Deep Learning Performances on the Sentiment Analysis of Product Reviews Machine Learning Versus Deep Learning Performances on the Sentiment Analysis of Product Reviews At this current digital era, business platforms have been drastically shifted toward online stores on internet. With the internet-based platform, customers can order goods easily using their smart phones and get delivery at their place without going to the shopping mall. However, the drawback of this business platform is that customers do not really know about the quality of the products they ordered. Therefore, such platform service often provides the review section to let previous customers leave a review about the received product. The reviews are a good source to analyze customer's satisfaction. Business owners can assess review trend as either positive or negative based on a feedback score that customers had given, but it takes too much time for human to analyze this data. In this research, we develop computational models using machine learning techniques to classify product reviews as positive or negative based on the sentiment analysis. In our experiments, we use the book review data from amazon.com to develop the models. For a machine learning based strategy, the data had been transformed with the bag of word technique before developing models using logistic regression, na&iuml;ve bayes, support vector machine, and neural network algorithms. For a deep learning strategy, the word embedding is a technique that we used to transform data before applying the long short-term memory and gated recurrent unit techniques. On comparing performance of machine learning against deep learning models, we compare results from the two methods with both the preprocessed dataset and the non-preprocessed dataset. The result is that the bag of words with neural network outperforms other techniques on both non-preprocess and preprocess datasets."
+        },
+        {
+          "rank": 6,
+          "score": 0.4535920321941376,
+          "doc_id": "97",
+          "text": "&#x201e;Machine learning“ in der An&auml;sthesiologie &#x201e;Machine learning“ in der An&auml;sthesiologie &#x201e;Machine learning“ in der An&auml;sthesiologie 없음"
+        },
+        {
+          "rank": 7,
+          "score": 0.44141435623168945,
+          "doc_id": "115",
+          "text": "Scientific Machine Learning Seismology Scientific Machine Learning Seismology Scientific Machine Learning Seismology 없음"
+        },
+        {
+          "rank": 8,
+          "score": 0.440321683883667,
+          "doc_id": "125",
+          "text": "An overview of deep learning techniques An overview of deep learning techniques An overview of deep learning techniques ZusammenfassungDeep Learning ist der Ansatz, der die k&uuml;nstliche Intelligenz innerhalb weniger Jahre tiefgreifend ver&auml;ndert hat. Auch wenn sie durch verschiedene algorithmische Fortschritte begleitet wird, ist diese Technik vor allem aus Anwendungssicht &#x201e;disruptiv“: Sie verschiebt die Grenze automatisierbarer Aufgaben betr&auml;chtlich, ver&auml;ndert die Art der Produktentwicklung und steht praktisch jedermann zur Verf&uuml;gung. Gegenstand des Deep Learning sind neuronale Netze mit einer großen Anzahl von Schichten. Verglichen mit fr&uuml;heren Ans&auml;tzen mit idealerweise einer einzigen Schicht, erlaubt dies den Einsatz massiver Rechenhardware, um Black-Box-Modelle mit einem Minimum an Entwicklungsaufwand direkt aus Rohdaten zu trainieren. Die meisten erfolgreichen Anwendungen finden sich in der Auswertung visueller Bilder, aber auch in der Audio- und Text-Modellierung."
+        },
+        {
+          "rank": 9,
+          "score": 0.4393618404865265,
+          "doc_id": "114",
+          "text": "Deep Learning and Mathematical Models in Dermatology Deep Learning and Mathematical Models in Dermatology Deep Learning and Mathematical Models in Dermatology 없음"
+        },
+        {
+          "rank": 10,
+          "score": 0.4350045323371887,
+          "doc_id": "158",
+          "text": "Big business with Big Data Big Business mit Big Data Big business with Big Data Big Business mit Big Data Big business with Big Data Big Business mit Big Data Big business with Big Data Big Business mit Big Data"
+        }
+      ]
+    },
+    {
+      "query": "What deep learning and machine learning models were evaluated for electricity demand prediction?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.4968194365501404,
+          "doc_id": "182",
+          "text": "Effective Electricity Demand Prediction via Deep Learning Effective Electricity Demand Prediction via Deep Learning Effective Electricity Demand Prediction via Deep Learning Prediction of electricity demand in homes and buildings can be used to optimize an energy management system by decreasing energy wastage. A time-series prediction system is still a challenging problem in machine learning and deep learning. Our main idea is to compare three methods. For this work, we analyzed an electricity demand prediction system using the current state-of-the-art deep-learning methods with a machine-learning method: error correction with multi-layer perceptron (eMLP) structure, autoregressive integrated moving average (ARIMA) structure, and a proposed structure named CNN-LSTM. For this, we measured and collected electricity demand data in Germany for home appliances. We report the prediction accuracy in terms of the mean square error (MSE) and mean absolute percentage error (MAPE). The experimental result indicates that CNN-LSTM outperforms eMLP and ARIMA in accuracy."
+        },
+        {
+          "rank": 2,
+          "score": 0.46172255277633667,
+          "doc_id": "202",
+          "text": "Machine learning Machine learning Machine learning A short review of research and applications in machine learning is given. Rather than attempt to cover all areas of ML, the focus is on its role in building expert systems, its approach to classification problems and ML methods of learning control. A relatively new area, inductive logic programming, is also discussed."
+        },
+        {
+          "rank": 3,
+          "score": 0.4493935704231262,
+          "doc_id": "47",
+          "text": "Econometrics and Machine Learning Econometrics and Machine Learning Econometrics and Machine Learning 없음"
+        },
+        {
+          "rank": 4,
+          "score": 0.44872725009918213,
+          "doc_id": "160",
+          "text": "Crop Prediction Using Machine Learning Crop Prediction Using Machine Learning Crop Prediction Using Machine Learning 없음"
+        },
+        {
+          "rank": 5,
+          "score": 0.4452621340751648,
+          "doc_id": "104",
+          "text": "Deep learning Deep learning Deep learning Artificial intelligence is one of the most beautiful dreams of mankind. Although computer technology has made considerable progress, so far, there is no computer showing intelligence like human beings. The emergence of deep learning gives people a glimmer of hope. So, what is learning deep? Why is it so important? How does it work? And what are the existing achievements and difficulties? This paper provides an overview of deep learning which will answer these questions."
+        },
+        {
+          "rank": 6,
+          "score": 0.4417116641998291,
+          "doc_id": "125",
+          "text": "An overview of deep learning techniques An overview of deep learning techniques An overview of deep learning techniques ZusammenfassungDeep Learning ist der Ansatz, der die k&uuml;nstliche Intelligenz innerhalb weniger Jahre tiefgreifend ver&auml;ndert hat. Auch wenn sie durch verschiedene algorithmische Fortschritte begleitet wird, ist diese Technik vor allem aus Anwendungssicht &#x201e;disruptiv“: Sie verschiebt die Grenze automatisierbarer Aufgaben betr&auml;chtlich, ver&auml;ndert die Art der Produktentwicklung und steht praktisch jedermann zur Verf&uuml;gung. Gegenstand des Deep Learning sind neuronale Netze mit einer großen Anzahl von Schichten. Verglichen mit fr&uuml;heren Ans&auml;tzen mit idealerweise einer einzigen Schicht, erlaubt dies den Einsatz massiver Rechenhardware, um Black-Box-Modelle mit einem Minimum an Entwicklungsaufwand direkt aus Rohdaten zu trainieren. Die meisten erfolgreichen Anwendungen finden sich in der Auswertung visueller Bilder, aber auch in der Audio- und Text-Modellierung."
+        },
+        {
+          "rank": 7,
+          "score": 0.4415948987007141,
+          "doc_id": "15",
+          "text": "Artificial intelligence, machine learning, and deep learning in women’s health nursing Artificial intelligence, machine learning, and deep learning in women’s health nursing Artificial intelligence, machine learning, and deep learning in women’s health nursing Artificial intelligence (AI), which includes machine learning and deep learning has been introduced to nursing care in recent years. The present study reviews the following topics: the concepts of AI, machine learning, and deep learning; examples of AI-based nursing research; the necessity of education on AI in nursing schools; and the areas of nursing care where AI is useful. AI refers to an intelligent system consisting not of a human, but a machine. Machine learning refers to computers’ ability to learn without being explicitly programmed. Deep learning is a subset of machine learning that uses artificial neural networks consisting of multiple hidden layers. It is suggested that the educational curriculum should include big data, the concept of AI, algorithms and models of machine learning, the model of deep learning, and coding practice. The standard curriculum should be organized by the nursing society. An example of an area of nursing care where AI is useful is prenatal nursing interventions based on pregnant women’s nursing records and AI-based prediction of the risk of delivery according to pregnant women’s age. Nurses should be able to cope with the rapidly developing environment of nursing care influenced by AI and should understand how to apply AI in their field. It is time for Korean nurses to take steps to become familiar with AI in their research, education, and practice."
+        },
+        {
+          "rank": 8,
+          "score": 0.43559831380844116,
+          "doc_id": "155",
+          "text": "Machine Learning Versus Deep Learning Performances on the Sentiment Analysis of Product Reviews Machine Learning Versus Deep Learning Performances on the Sentiment Analysis of Product Reviews Machine Learning Versus Deep Learning Performances on the Sentiment Analysis of Product Reviews At this current digital era, business platforms have been drastically shifted toward online stores on internet. With the internet-based platform, customers can order goods easily using their smart phones and get delivery at their place without going to the shopping mall. However, the drawback of this business platform is that customers do not really know about the quality of the products they ordered. Therefore, such platform service often provides the review section to let previous customers leave a review about the received product. The reviews are a good source to analyze customer's satisfaction. Business owners can assess review trend as either positive or negative based on a feedback score that customers had given, but it takes too much time for human to analyze this data. In this research, we develop computational models using machine learning techniques to classify product reviews as positive or negative based on the sentiment analysis. In our experiments, we use the book review data from amazon.com to develop the models. For a machine learning based strategy, the data had been transformed with the bag of word technique before developing models using logistic regression, na&iuml;ve bayes, support vector machine, and neural network algorithms. For a deep learning strategy, the word embedding is a technique that we used to transform data before applying the long short-term memory and gated recurrent unit techniques. On comparing performance of machine learning against deep learning models, we compare results from the two methods with both the preprocessed dataset and the non-preprocessed dataset. The result is that the bag of words with neural network outperforms other techniques on both non-preprocess and preprocess datasets."
+        },
+        {
+          "rank": 9,
+          "score": 0.4328623414039612,
+          "doc_id": "97",
+          "text": "&#x201e;Machine learning“ in der An&auml;sthesiologie &#x201e;Machine learning“ in der An&auml;sthesiologie &#x201e;Machine learning“ in der An&auml;sthesiologie 없음"
+        },
+        {
+          "rank": 10,
+          "score": 0.42684072256088257,
+          "doc_id": "60",
+          "text": "Artificial intelligence Artificial intelligence Artificial intelligence AI has been well supported by government research and development dollars for decades now, and people are beginning to ask hard questions: What really works? What are the limits? What doesn't work as advertised? What isn't likely to work? What isn't affordable? This article holds a mirror up to the community, both to provide feedback and stimulate more self-assessment. The significant accomplishments and strengths of the field are highlighted. The research agenda, strategy, and heuristics are reviewed, and a change of course is recommended to improve the field's ability to produce reusable and interoperable components.(Author abstract)"
+        }
+      ]
+    },
+    {
+      "query": "What is the Mean Squared Error (MSE) for each of the evaluated models?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.3690923750400543,
+          "doc_id": "97",
+          "text": "&#x201e;Machine learning“ in der An&auml;sthesiologie &#x201e;Machine learning“ in der An&auml;sthesiologie &#x201e;Machine learning“ in der An&auml;sthesiologie 없음"
+        },
+        {
+          "rank": 2,
+          "score": 0.3613179922103882,
+          "doc_id": "23",
+          "text": "Big data, Big bang? Big data, Big bang? Big data, Big bang? 없음"
+        },
+        {
+          "rank": 3,
+          "score": 0.3591349720954895,
+          "doc_id": "115",
+          "text": "Scientific Machine Learning Seismology Scientific Machine Learning Seismology Scientific Machine Learning Seismology 없음"
+        },
+        {
+          "rank": 4,
+          "score": 0.3435048758983612,
+          "doc_id": "47",
+          "text": "Econometrics and Machine Learning Econometrics and Machine Learning Econometrics and Machine Learning 없음"
+        },
+        {
+          "rank": 5,
+          "score": 0.33492276072502136,
+          "doc_id": "55",
+          "text": "Navigating BAS-IT Convergence Navigating BAS-IT Convergence Navigating BAS-IT Convergence 없음"
+        },
+        {
+          "rank": 6,
+          "score": 0.3252500593662262,
+          "doc_id": "164",
+          "text": "Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade 없음"
+        },
+        {
+          "rank": 7,
+          "score": 0.32245755195617676,
+          "doc_id": "92",
+          "text": "Statistik, Data Science und Big Data Statistik, Data Science und Big Data Statistik, Data Science und Big Data 없음"
+        },
+        {
+          "rank": 8,
+          "score": 0.3138197064399719,
+          "doc_id": "216",
+          "text": "A Study on Artificial Intelligence A Study on Artificial Intelligence A Study on Artificial Intelligence 없음"
+        },
+        {
+          "rank": 9,
+          "score": 0.3092312514781952,
+          "doc_id": "83",
+          "text": "Machine Learning and Cryptography Machine Learning and Cryptography Machine Learning and Cryptography 없음"
+        },
+        {
+          "rank": 10,
+          "score": 0.30629149079322815,
+          "doc_id": "133",
+          "text": "IT and OT convergence IT and OT convergence IT and OT convergence 없음"
+        }
+      ]
+    },
+    {
+      "query": "What is the Mean Absolute Percentage Error (MAPE) for each of the evaluated models?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 2
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.36054378747940063,
+          "doc_id": "97",
+          "text": "&#x201e;Machine learning“ in der An&auml;sthesiologie &#x201e;Machine learning“ in der An&auml;sthesiologie &#x201e;Machine learning“ in der An&auml;sthesiologie 없음"
+        },
+        {
+          "rank": 2,
+          "score": 0.34633898735046387,
+          "doc_id": "23",
+          "text": "Big data, Big bang? Big data, Big bang? Big data, Big bang? 없음"
+        },
+        {
+          "rank": 3,
+          "score": 0.3231710195541382,
+          "doc_id": "55",
+          "text": "Navigating BAS-IT Convergence Navigating BAS-IT Convergence Navigating BAS-IT Convergence 없음"
+        },
+        {
+          "rank": 4,
+          "score": 0.30705249309539795,
+          "doc_id": "164",
+          "text": "Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade 없음"
+        },
+        {
+          "rank": 5,
+          "score": 0.3062247633934021,
+          "doc_id": "115",
+          "text": "Scientific Machine Learning Seismology Scientific Machine Learning Seismology Scientific Machine Learning Seismology 없음"
+        },
+        {
+          "rank": 6,
+          "score": 0.3035952150821686,
+          "doc_id": "47",
+          "text": "Econometrics and Machine Learning Econometrics and Machine Learning Econometrics and Machine Learning 없음"
+        },
+        {
+          "rank": 7,
+          "score": 0.3002070188522339,
+          "doc_id": "92",
+          "text": "Statistik, Data Science und Big Data Statistik, Data Science und Big Data Statistik, Data Science und Big Data 없음"
+        },
+        {
+          "rank": 8,
+          "score": 0.2936937212944031,
+          "doc_id": "160",
+          "text": "Crop Prediction Using Machine Learning Crop Prediction Using Machine Learning Crop Prediction Using Machine Learning 없음"
+        },
+        {
+          "rank": 9,
+          "score": 0.2929600775241852,
+          "doc_id": "133",
+          "text": "IT and OT convergence IT and OT convergence IT and OT convergence 없음"
+        },
+        {
+          "rank": 10,
+          "score": 0.2822173833847046,
+          "doc_id": "132",
+          "text": "Artificial intelligence Artificial intelligence Artificial intelligence 없음"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

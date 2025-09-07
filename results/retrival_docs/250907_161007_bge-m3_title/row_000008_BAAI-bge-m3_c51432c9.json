@@ -1,0 +1,291 @@
+{
+  "id": "row_000008",
+  "model_name": "BAAI/bge-m3",
+  "timestamp_kst": "2025-09-07T16:10:08.630466+09:00",
+  "trial_id": "c51432c9",
+  "queries": [
+    {
+      "query": "항공 분야에 적용된 인공지능의 기본 개념과 산업적 의미, 직면 과제를 간략하게 정리할 수 있나요?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6946999430656433,
+          "doc_id": "228",
+          "text": "항공분야의 인공지능"
+        },
+        {
+          "rank": 2,
+          "score": 0.5648468732833862,
+          "doc_id": "181",
+          "text": "초등 인공지능 교육을 위한 설명 가능한 인공지능의 교육적 의미 연구"
+        },
+        {
+          "rank": 3,
+          "score": 0.5305378437042236,
+          "doc_id": "136",
+          "text": "IT/automation convergence revisited"
+        },
+        {
+          "rank": 4,
+          "score": 0.5192661285400391,
+          "doc_id": "157",
+          "text": "Engineering artificial intelligence"
+        },
+        {
+          "rank": 5,
+          "score": 0.5185704827308655,
+          "doc_id": "49",
+          "text": "Artificial Intelligence for the Fourth Industrial Revolution"
+        },
+        {
+          "rank": 6,
+          "score": 0.5183915495872498,
+          "doc_id": "29",
+          "text": "Artificial intelligence in manufacturing: Forecasts for the use of artificial intelligence in the USA"
+        },
+        {
+          "rank": 7,
+          "score": 0.505699872970581,
+          "doc_id": "216",
+          "text": "A Study on Artificial Intelligence"
+        },
+        {
+          "rank": 8,
+          "score": 0.503833532333374,
+          "doc_id": "159",
+          "text": "Artificial Intelligence in a historical perspective"
+        },
+        {
+          "rank": 9,
+          "score": 0.4975879192352295,
+          "doc_id": "0",
+          "text": "Logic and artificial intelligence"
+        },
+        {
+          "rank": 10,
+          "score": 0.49701011180877686,
+          "doc_id": "82",
+          "text": "Artificial Intelligence for Artificial Artificial Intelligence"
+        }
+      ]
+    },
+    {
+      "query": "항공 분야에 적용된 인공지능의 기본 개념은 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.771087110042572,
+          "doc_id": "228",
+          "text": "항공분야의 인공지능"
+        },
+        {
+          "rank": 2,
+          "score": 0.5369021892547607,
+          "doc_id": "181",
+          "text": "초등 인공지능 교육을 위한 설명 가능한 인공지능의 교육적 의미 연구"
+        },
+        {
+          "rank": 3,
+          "score": 0.5353858470916748,
+          "doc_id": "60",
+          "text": "Artificial intelligence"
+        },
+        {
+          "rank": 4,
+          "score": 0.5353858470916748,
+          "doc_id": "106",
+          "text": "Artificial intelligence"
+        },
+        {
+          "rank": 5,
+          "score": 0.5353858470916748,
+          "doc_id": "132",
+          "text": "Artificial intelligence"
+        },
+        {
+          "rank": 6,
+          "score": 0.5353246331214905,
+          "doc_id": "157",
+          "text": "Engineering artificial intelligence"
+        },
+        {
+          "rank": 7,
+          "score": 0.5305241346359253,
+          "doc_id": "45",
+          "text": "Measuring Intelligence in Natural and Artificial Systems"
+        },
+        {
+          "rank": 8,
+          "score": 0.5294104814529419,
+          "doc_id": "184",
+          "text": "Artificial Intelligence in Pharmacy"
+        },
+        {
+          "rank": 9,
+          "score": 0.5284076929092407,
+          "doc_id": "49",
+          "text": "Artificial Intelligence for the Fourth Industrial Revolution"
+        },
+        {
+          "rank": 10,
+          "score": 0.5244373083114624,
+          "doc_id": "215",
+          "text": "Artificial intelligence in obstetrics"
+        }
+      ]
+    },
+    {
+      "query": "항공 분야에서 인공지능의 산업적 의미는 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7313524484634399,
+          "doc_id": "228",
+          "text": "항공분야의 인공지능"
+        },
+        {
+          "rank": 2,
+          "score": 0.5575062036514282,
+          "doc_id": "181",
+          "text": "초등 인공지능 교육을 위한 설명 가능한 인공지능의 교육적 의미 연구"
+        },
+        {
+          "rank": 3,
+          "score": 0.5473567247390747,
+          "doc_id": "29",
+          "text": "Artificial intelligence in manufacturing: Forecasts for the use of artificial intelligence in the USA"
+        },
+        {
+          "rank": 4,
+          "score": 0.5395305156707764,
+          "doc_id": "157",
+          "text": "Engineering artificial intelligence"
+        },
+        {
+          "rank": 5,
+          "score": 0.5341792106628418,
+          "doc_id": "49",
+          "text": "Artificial Intelligence for the Fourth Industrial Revolution"
+        },
+        {
+          "rank": 6,
+          "score": 0.5305252075195312,
+          "doc_id": "1",
+          "text": "The Importance of Artificial Intelligence to Economic Growth"
+        },
+        {
+          "rank": 7,
+          "score": 0.5246477127075195,
+          "doc_id": "184",
+          "text": "Artificial Intelligence in Pharmacy"
+        },
+        {
+          "rank": 8,
+          "score": 0.5074271559715271,
+          "doc_id": "82",
+          "text": "Artificial Intelligence for Artificial Artificial Intelligence"
+        },
+        {
+          "rank": 9,
+          "score": 0.5074271559715271,
+          "doc_id": "111",
+          "text": "Artificial Intelligence for Artificial Artificial Intelligence"
+        },
+        {
+          "rank": 10,
+          "score": 0.5060530304908752,
+          "doc_id": "159",
+          "text": "Artificial Intelligence in a historical perspective"
+        }
+      ]
+    },
+    {
+      "query": "항공 분야에서 인공지능이 직면한 과제는 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 2
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7446669936180115,
+          "doc_id": "228",
+          "text": "항공분야의 인공지능"
+        },
+        {
+          "rank": 2,
+          "score": 0.5445301532745361,
+          "doc_id": "157",
+          "text": "Engineering artificial intelligence"
+        },
+        {
+          "rank": 3,
+          "score": 0.53729248046875,
+          "doc_id": "212",
+          "text": "Exploring Artificial Intelligence Futures"
+        },
+        {
+          "rank": 4,
+          "score": 0.5337019562721252,
+          "doc_id": "216",
+          "text": "A Study on Artificial Intelligence"
+        },
+        {
+          "rank": 5,
+          "score": 0.5250101089477539,
+          "doc_id": "60",
+          "text": "Artificial intelligence"
+        },
+        {
+          "rank": 6,
+          "score": 0.5250101089477539,
+          "doc_id": "106",
+          "text": "Artificial intelligence"
+        },
+        {
+          "rank": 7,
+          "score": 0.5250101089477539,
+          "doc_id": "132",
+          "text": "Artificial intelligence"
+        },
+        {
+          "rank": 8,
+          "score": 0.5240795612335205,
+          "doc_id": "49",
+          "text": "Artificial Intelligence for the Fourth Industrial Revolution"
+        },
+        {
+          "rank": 9,
+          "score": 0.5202623009681702,
+          "doc_id": "136",
+          "text": "IT/automation convergence revisited"
+        },
+        {
+          "rank": 10,
+          "score": 0.517816424369812,
+          "doc_id": "0",
+          "text": "Logic and artificial intelligence"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "id": "row_000042",
+  "model_name": "BAAI/bge-m3",
+  "timestamp_kst": "2025-09-07T16:10:13.858961+09:00",
+  "trial_id": "92ba936d",
+  "queries": [
+    {
+      "query": "Could you outline the main points about the role of large-scale machine learning in bridging database systems and commercial applications?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6215933561325073,
+          "doc_id": "88",
+          "text": "Machine learning on Big Data"
+        },
+        {
+          "rank": 2,
+          "score": 0.5944091081619263,
+          "doc_id": "62",
+          "text": "Utilization and Analysis of Big-data"
+        },
+        {
+          "rank": 3,
+          "score": 0.5927793979644775,
+          "doc_id": "87",
+          "text": "Big Data Analysis and Machine Learning in Intensive Care Units"
+        },
+        {
+          "rank": 4,
+          "score": 0.5894089937210083,
+          "doc_id": "78",
+          "text": "Data learning from big data"
+        },
+        {
+          "rank": 5,
+          "score": 0.570024311542511,
+          "doc_id": "221",
+          "text": "Implikationen von Machine Learning auf das Datenmanagement in Unternehmen"
+        },
+        {
+          "rank": 6,
+          "score": 0.5584882497787476,
+          "doc_id": "126",
+          "text": "Exploring Big Data Governance Frameworks"
+        },
+        {
+          "rank": 7,
+          "score": 0.5526044368743896,
+          "doc_id": "189",
+          "text": "Big data? Big deal: Searching for big data’s performance effects in HR"
+        },
+        {
+          "rank": 8,
+          "score": 0.552325963973999,
+          "doc_id": "199",
+          "text": "Sharing big biomedical data"
+        },
+        {
+          "rank": 9,
+          "score": 0.5487278699874878,
+          "doc_id": "101",
+          "text": "Breast cancer detection by leveraging Machine Learning"
+        },
+        {
+          "rank": 10,
+          "score": 0.5412002801895142,
+          "doc_id": "109",
+          "text": "Optimized Data Processing Analysis Using Big Data Cloud Platform"
+        }
+      ]
+    },
+    {
+      "query": "What kind of data from database systems is relevant for large-scale machine learning?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6671682596206665,
+          "doc_id": "78",
+          "text": "Data learning from big data"
+        },
+        {
+          "rank": 2,
+          "score": 0.6424656510353088,
+          "doc_id": "88",
+          "text": "Machine learning on Big Data"
+        },
+        {
+          "rank": 3,
+          "score": 0.5786471366882324,
+          "doc_id": "202",
+          "text": "Machine learning"
+        },
+        {
+          "rank": 4,
+          "score": 0.5769816040992737,
+          "doc_id": "196",
+          "text": "Nursing Needs Big Data and Big Data Needs Nursing"
+        },
+        {
+          "rank": 5,
+          "score": 0.573316752910614,
+          "doc_id": "87",
+          "text": "Big Data Analysis and Machine Learning in Intensive Care Units"
+        },
+        {
+          "rank": 6,
+          "score": 0.5722434520721436,
+          "doc_id": "62",
+          "text": "Utilization and Analysis of Big-data"
+        },
+        {
+          "rank": 7,
+          "score": 0.5715237855911255,
+          "doc_id": "199",
+          "text": "Sharing big biomedical data"
+        },
+        {
+          "rank": 8,
+          "score": 0.5705596804618835,
+          "doc_id": "76",
+          "text": "Big Data, Big Knowledge: Big Data for Personalized Healthcare"
+        },
+        {
+          "rank": 9,
+          "score": 0.5673691034317017,
+          "doc_id": "35",
+          "text": "Big Data in der amtlichen Statistik"
+        },
+        {
+          "rank": 10,
+          "score": 0.5596721768379211,
+          "doc_id": "126",
+          "text": "Exploring Big Data Governance Frameworks"
+        }
+      ]
+    },
+    {
+      "query": "What types of insights or functionalities does large-scale machine learning provide to commercial applications?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6256306171417236,
+          "doc_id": "88",
+          "text": "Machine learning on Big Data"
+        },
+        {
+          "rank": 2,
+          "score": 0.6182341575622559,
+          "doc_id": "78",
+          "text": "Data learning from big data"
+        },
+        {
+          "rank": 3,
+          "score": 0.5886820554733276,
+          "doc_id": "87",
+          "text": "Big Data Analysis and Machine Learning in Intensive Care Units"
+        },
+        {
+          "rank": 4,
+          "score": 0.5792889595031738,
+          "doc_id": "62",
+          "text": "Utilization and Analysis of Big-data"
+        },
+        {
+          "rank": 5,
+          "score": 0.5768283605575562,
+          "doc_id": "202",
+          "text": "Machine learning"
+        },
+        {
+          "rank": 6,
+          "score": 0.5667089819908142,
+          "doc_id": "155",
+          "text": "Machine Learning Versus Deep Learning Performances on the Sentiment Analysis of Product Reviews"
+        },
+        {
+          "rank": 7,
+          "score": 0.56486576795578,
+          "doc_id": "42",
+          "text": "Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning"
+        },
+        {
+          "rank": 8,
+          "score": 0.5577439069747925,
+          "doc_id": "15",
+          "text": "Artificial intelligence, machine learning, and deep learning in women’s health nursing"
+        },
+        {
+          "rank": 9,
+          "score": 0.5562925338745117,
+          "doc_id": "221",
+          "text": "Implikationen von Machine Learning auf das Datenmanagement in Unternehmen"
+        },
+        {
+          "rank": 10,
+          "score": 0.5549668073654175,
+          "doc_id": "225",
+          "text": "Speech Recognition using Machine Learning"
+        }
+      ]
+    },
+    {
+      "query": "How does large-scale machine learning facilitate the flow of information or capabilities between database systems and commercial applications?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 2
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.60895836353302,
+          "doc_id": "88",
+          "text": "Machine learning on Big Data"
+        },
+        {
+          "rank": 2,
+          "score": 0.6004354953765869,
+          "doc_id": "78",
+          "text": "Data learning from big data"
+        },
+        {
+          "rank": 3,
+          "score": 0.5947766304016113,
+          "doc_id": "140",
+          "text": "Sharing Big Data"
+        },
+        {
+          "rank": 4,
+          "score": 0.5912659168243408,
+          "doc_id": "199",
+          "text": "Sharing big biomedical data"
+        },
+        {
+          "rank": 5,
+          "score": 0.5814237594604492,
+          "doc_id": "221",
+          "text": "Implikationen von Machine Learning auf das Datenmanagement in Unternehmen"
+        },
+        {
+          "rank": 6,
+          "score": 0.5736145973205566,
+          "doc_id": "62",
+          "text": "Utilization and Analysis of Big-data"
+        },
+        {
+          "rank": 7,
+          "score": 0.5694141387939453,
+          "doc_id": "87",
+          "text": "Big Data Analysis and Machine Learning in Intensive Care Units"
+        },
+        {
+          "rank": 8,
+          "score": 0.5670685768127441,
+          "doc_id": "126",
+          "text": "Exploring Big Data Governance Frameworks"
+        },
+        {
+          "rank": 9,
+          "score": 0.5566974878311157,
+          "doc_id": "109",
+          "text": "Optimized Data Processing Analysis Using Big Data Cloud Platform"
+        },
+        {
+          "rank": 10,
+          "score": 0.5557502508163452,
+          "doc_id": "189",
+          "text": "Big data? Big deal: Searching for big data’s performance effects in HR"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

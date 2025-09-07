@@ -1,0 +1,221 @@
+{
+  "id": "row_000005",
+  "model_name": "Alibaba-NLP/gte-multilingual-base",
+  "timestamp_kst": "2025-09-07T17:17:03.430442+09:00",
+  "trial_id": "c8b6c132",
+  "queries": [
+    {
+      "query": "How can the main applications of machine learning methods for early diagnosis of maternal-fetal conditions and their ethical considerations be summarized?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7985782623291016,
+          "doc_id": "215",
+          "text": "Artificial intelligence in obstetrics Artificial intelligence in obstetrics Artificial intelligence in obstetrics This study reviews recent advances on the application of artificial intelligence for the early diagnosis of variousmaternal-fetal conditions such as preterm birth and abnormal fetal growth. It is found in this study that variousmachine learning methods have been successfully employed for different kinds of data capture with regard to earlydiagnosis of maternal-fetal conditions. With the more popular use of artificial intelligence, ethical issues should alsobe considered accordingly."
+        },
+        {
+          "rank": 2,
+          "score": 0.6254237294197083,
+          "doc_id": "15",
+          "text": "Artificial intelligence, machine learning, and deep learning in women’s health nursing Artificial intelligence, machine learning, and deep learning in women’s health nursing Artificial intelligence, machine learning, and deep learning in women’s health nursing Artificial intelligence (AI), which includes machine learning and deep learning has been introduced to nursing care in recent years. The present study reviews the following topics: the concepts of AI, machine learning, and deep learning; examples of AI-based nursing research; the necessity of education on AI in nursing schools; and the areas of nursing care where AI is useful. AI refers to an intelligent system consisting not of a human, but a machine. Machine learning refers to computers’ ability to learn without being explicitly programmed. Deep learning is a subset of machine learning that uses artificial neural networks consisting of multiple hidden layers. It is suggested that the educational curriculum should include big data, the concept of AI, algorithms and models of machine learning, the model of deep learning, and coding practice. The standard curriculum should be organized by the nursing society. An example of an area of nursing care where AI is useful is prenatal nursing interventions based on pregnant women’s nursing records and AI-based prediction of the risk of delivery according to pregnant women’s age. Nurses should be able to cope with the rapidly developing environment of nursing care influenced by AI and should understand how to apply AI in their field. It is time for Korean nurses to take steps to become familiar with AI in their research, education, and practice."
+        },
+        {
+          "rank": 3,
+          "score": 0.6250439882278442,
+          "doc_id": "87",
+          "text": "Big Data Analysis and Machine Learning in Intensive Care Units Big Data Analysis and Machine Learning in Intensive Care Units Big Data Analysis and Machine Learning in Intensive Care Units Abstract Intensive care is an ideal environment for the use of Big Data Analysis (BDA) and Machine Learning (ML), due to the huge amount of information processed and stored in electronic format in relation to such care. These tools can improve our clinical research capabilities and clinical decision making in the future. The present study reviews the foundations of BDA and ML, and explores possible applications in our field from a clinical viewpoint. We also suggest potential strategies to optimize these new technologies and describe a new kind of hybrid healthcare-data science professional with a linking role between clinicians and data."
+        },
+        {
+          "rank": 4,
+          "score": 0.6210694313049316,
+          "doc_id": "101",
+          "text": "Breast cancer detection by leveraging Machine Learning Breast cancer detection by leveraging Machine Learning Breast cancer detection by leveraging Machine Learning India has witnessed 30% of the cases of breast cancer during the last few years and it is likely to increase. Breast cancer in India accounts that one woman is diagnosed every two minutes and every nine minutes, one woman dies. Early detection and diagnosis can save the lives of cancer patients. This paper presents a novel method to detect breast cancer by employing techniques of Machine Learning. The authors carried out an experimental analysis on a dataset to evaluate the performance. The proposed method has produced highly accurate and efficient results when compared to the existing methods."
+        },
+        {
+          "rank": 5,
+          "score": 0.6181087493896484,
+          "doc_id": "57",
+          "text": "Application of Machine Learning and Deep Learning in Imaging of Ischemic Stroke Application of Machine Learning and Deep Learning in Imaging of Ischemic Stroke Application of Machine Learning and Deep Learning in Imaging of Ischemic Stroke Timely analysis of imaging data is critical for diagnosis and decision-making for proper treatment strategy in the cases of ischemic stroke. Various efforts have been made to develop computer-assisted systems to improve the accuracy of stroke diagnosis and acute stroke triage. The widespread emergence of artificial intelligence technology has been integrated into the field of medicine. Artificial intelligence can play an important role in providing care to patients with stroke. In the past few decades, numerous studies have explored the use of machine learning and deep learning algorithms for application in the management of stroke. In this review, we will start with a brief introduction to machine learning and deep learning and provide clinical applications of machine learning and deep learning in various aspects of stroke management, including rapid diagnosis and improved triage, identifying large vessel occlusion, predicting time from stroke onset, automated ASPECTS (Alberta Stroke Program Early CT Score) measurement, lesion segmentation, and predicting treatment outcome. This work is focused on providing the current application of artificial intelligence techniques in the imaging of ischemic stroke, including MRI and CT."
+        },
+        {
+          "rank": 6,
+          "score": 0.6113181114196777,
+          "doc_id": "142",
+          "text": "Machine learning in oncology-Perspectives in patient-reported outcome research Machine learning in oncology-Perspectives in patient-reported outcome research Machine learning in oncology-Perspectives in patient-reported outcome research AbstractBackgroundIncreasing data volumes in oncology pose new challenges for data analysis. Machine learning, a branch of artificial intelligence, can identify patterns even in very large and less structured datasets.ObjectiveThis article provides an overview of the possible applications for machine learning in oncology. Furthermore, the potential of machine learning in patient-reported outcome (PRO) research is discussed.Materials and methodsWe conducted a selective literature search (PubMed, MEDLINE, IEEE Xplore) and discuss current research.ResultsThere are three primary applications for machine learning in oncology: (1) cancer detection or classification; (2) overall survival prediction or risk assessment; and (3) supporting therapy decision-making and prediction of treatment response. Generally, machine learning approaches in oncology PRO research are scarce and few studies integrate PRO data into machine learning models.DiscussionMachine learning is a promising area of oncology, but few models have been transferred into clinical practice. The promise of personalized cancer therapy and shared decision-making through machine learning has yet to be realized. As an equally important emerging research area in oncology, PROs should also be incorporated into machine learning approaches. To gather the data necessary for this, broad implementation of PRO assessments in clinical practice, as well as the harmonization of existing datasets, is suggested."
+        },
+        {
+          "rank": 7,
+          "score": 0.5968843698501587,
+          "doc_id": "131",
+          "text": "Machine learning political orders Machine learning political orders Machine learning political orders AbstractA significant set of epistemic and political transformations are taking place as states and societies begin to understand themselves and their problems through the paradigm of deep neural network algorithms. A machine learning political order does not merely change the political technologies of governance, but is itself a reordering of politics, of what the political can be. When algorithmic systems reduce the pluridimensionality of politics to the output of a model, they simultaneously foreclose the potential for other political claims to be made and alternative political projects to be built. More than this foreclosure, a machine learning political order actively profits and learns from the fracturing of communities and the destabilising of democratic rights. The transformation from rules-based algorithms to deep learning models has paralleled the undoing of rules-based social and international orders - from the use of machine learning in the campaigns of the UK EU referendum, to the trialling of algorithmic immigration and welfare systems, and the use of deep learning in the COVID-19 pandemic - with political problems becoming reconfigured as machine learning problems. Machine learning political orders decouple their attributes, features and clusters from underlying social values, no longer tethered to notions of good governance or a good society, but searching instead for the optimal function of abstract representations of data."
+        },
+        {
+          "rank": 8,
+          "score": 0.5966947078704834,
+          "doc_id": "135",
+          "text": "Liver Fibrosis Biomarker Validation Using Machine Learning Algorithms Liver Fibrosis Biomarker Validation Using Machine Learning Algorithms Liver Fibrosis Biomarker Validation Using Machine Learning Algorithms Background: Liver fibrosis which causes several liver diseases, requires early screening and management. The gold standard for fibrosis assessment, liver biopsy, has recently been replaced by noninvasive scores. In this study, we validated liver fibrosis-associated biomarkers using machine learning techniques applied in medical research and evaluated their prediction models.Methods: Noninvasive scores were assayed in 144 patients who underwent transient elastography (TE). The patients were divided into three groups (<7 kPa, 7–10 kPa, ≥10 kPa) according to their TE results. Feature selection and modeling for predicting liver fibrosis were performed using random forest (RF) and support vector machine (SVM).Results: Considering the mean decrease in impurity, permutation importance, and multicollinear analysis, the important features for differentiating between the three groups were Mac-2 binding protein glycosylation isomer (M2BPGi), platelet count, and aspartate aminotransferase (AST). Using these features, the RF and SVM models showed equivalent or better performance than noninvasive scores. The sensitivities of RF and SVM models for predicting ≥7 kPa TE results were higher than noninvasive scores (83.3% and 90.0% vs. <80%, respectively). The sensitivity and specificity of RF and SVM models for ≥10 kPa TE result was 100%.Conclusions: We used machine learning techniques to verify the usefulness of established serological biomarkers (M2BPGi, PLT, and AST) that predict liver fibrosis. Conclusively, machine learning models showed better performance than noninvasive scores."
+        },
+        {
+          "rank": 9,
+          "score": 0.5942214131355286,
+          "doc_id": "186",
+          "text": "Deep Semi-Supervised Learning 기반 컴퓨터 보조 진단 방법론 Deep Semi-Supervised Learning 기반 컴퓨터 보조 진단 방법론 Deep Semi-Supervised Learning 기반 컴퓨터 보조 진단 방법론 Medical image applications 분야는 가장 인기 있으며 적극적으로 연구되는 현대 Machine Learning 및 Deep Learning applications 중 하나의 분야로 부상되고 있다. Medical image analysis는 환자의 신체 영상의 획득과 의료 전문가의 진단 및 분석을 목적으로 한다. 여러 Machine Learning 방법론을 사용하면 다양한 질병을 진단할 수 있게 된다. 하지만, 보다 효율적이며 강인한 모델을 설계하기 위해서는 Label이 지정된 데이터 샘플이 필요하게 된다. &amp;#xD; 따라서, Label이 지정되지 않은 데이터를 활용하여 모델의 성능을 향상시키는 Medical image 분야에서 semi-supervised Learning의 연구가 활발히 이루어지고 있다. 본 연구에서는 2D 초음파 영상(CADe)와 KL-grade 무릎 방사선사(CADx) 분류에서 유방 병변 Segmentation을 위한 딥러닝 기술을 사용하여 Medical image analysis에서 개선된 Semi-Supervised CAD 시스템을 제안하였다. 본 논문에서는 residual 및 attention block을 통합한 residual-attention-based uncertainty-guided mean teacher framework를 제안한다. 높은 수준의 feature와 attention module의 flow를 가능하게 하여 deep network를 최적화하기 위한 residual은 학습 과정 중에서 가중치를 최적화하기 위해 모델의 focus를 향상시킨다. &amp;#xD; 또한, 본 논문에서는 semi-supervised 학습 방법을 사용하여 학습 과정에서 label이 지정되지 않은 데이터를 활용할 수 있는 가능성을 탐구한다. 특히, uncertainty-guided mean-teacher-student 구조를 활용하여 residual attention U-Net 모델의 학습 중 label이 지정되지 않은 샘플을 통합할 수 있는 가능성을 입증하였다. &amp;#xD; 따라서, label이 지정되지 않은 추가 데이터를 unsupervised 및 supervised 방식으로 활용할 수있는 semi-supervised multitask learning-based 학습 기반 접근 방식을 개발하였다. 구체적으로, 이 과정은 reconstruction에 대해서만 unsupervised 된 상태에서 먼저 학습된 dual-channel adversarial autoencoder를 제안한다. 본 연구는 supervised 방식으로 추가 데이터를 활용하기 위해 auxilary task를 도입하여 multi-task learning framework를 제안한다. 특히, leg side의 식별은 auxilary task로 사용되므로 CHECK 데이터셋과 같은 더 많은 데이터셋을 사용할 수 있게 된다. 따라서, 추가 데이터의 활용이 소수의 label된 데이터만 사용할 수 있는 KL-grade 분류에서 main task의 성능을 향상시킬 수 있음을 보여준다. &amp;#xD; 다양한 측면, 즉 전반적인 성능, label이 지정되지 않은 추가 샘플 및 auxiliary task의 효과, 강인한 분석 등에 대해 공개적으로 사용 가능한 두 개의 가장 큰 데이터셋에 대해 제안된 모델을 평가하였다. 제안된 모델은 각각 75.52%, 78.48%, 75.34%의 Accuracy, Recall, F1-Score를 달성하였다."
+        },
+        {
+          "rank": 10,
+          "score": 0.5928165912628174,
+          "doc_id": "202",
+          "text": "Machine learning Machine learning Machine learning A short review of research and applications in machine learning is given. Rather than attempt to cover all areas of ML, the focus is on its role in building expert systems, its approach to classification problems and ML methods of learning control. A relatively new area, inductive logic programming, is also discussed."
+        }
+      ]
+    },
+    {
+      "query": "What are the main applications of machine learning methods for the early diagnosis of maternal-fetal conditions?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.8552602529525757,
+          "doc_id": "215",
+          "text": "Artificial intelligence in obstetrics Artificial intelligence in obstetrics Artificial intelligence in obstetrics This study reviews recent advances on the application of artificial intelligence for the early diagnosis of variousmaternal-fetal conditions such as preterm birth and abnormal fetal growth. It is found in this study that variousmachine learning methods have been successfully employed for different kinds of data capture with regard to earlydiagnosis of maternal-fetal conditions. With the more popular use of artificial intelligence, ethical issues should alsobe considered accordingly."
+        },
+        {
+          "rank": 2,
+          "score": 0.6908962726593018,
+          "doc_id": "101",
+          "text": "Breast cancer detection by leveraging Machine Learning Breast cancer detection by leveraging Machine Learning Breast cancer detection by leveraging Machine Learning India has witnessed 30% of the cases of breast cancer during the last few years and it is likely to increase. Breast cancer in India accounts that one woman is diagnosed every two minutes and every nine minutes, one woman dies. Early detection and diagnosis can save the lives of cancer patients. This paper presents a novel method to detect breast cancer by employing techniques of Machine Learning. The authors carried out an experimental analysis on a dataset to evaluate the performance. The proposed method has produced highly accurate and efficient results when compared to the existing methods."
+        },
+        {
+          "rank": 3,
+          "score": 0.6845532059669495,
+          "doc_id": "87",
+          "text": "Big Data Analysis and Machine Learning in Intensive Care Units Big Data Analysis and Machine Learning in Intensive Care Units Big Data Analysis and Machine Learning in Intensive Care Units Abstract Intensive care is an ideal environment for the use of Big Data Analysis (BDA) and Machine Learning (ML), due to the huge amount of information processed and stored in electronic format in relation to such care. These tools can improve our clinical research capabilities and clinical decision making in the future. The present study reviews the foundations of BDA and ML, and explores possible applications in our field from a clinical viewpoint. We also suggest potential strategies to optimize these new technologies and describe a new kind of hybrid healthcare-data science professional with a linking role between clinicians and data."
+        },
+        {
+          "rank": 4,
+          "score": 0.6627339124679565,
+          "doc_id": "15",
+          "text": "Artificial intelligence, machine learning, and deep learning in women’s health nursing Artificial intelligence, machine learning, and deep learning in women’s health nursing Artificial intelligence, machine learning, and deep learning in women’s health nursing Artificial intelligence (AI), which includes machine learning and deep learning has been introduced to nursing care in recent years. The present study reviews the following topics: the concepts of AI, machine learning, and deep learning; examples of AI-based nursing research; the necessity of education on AI in nursing schools; and the areas of nursing care where AI is useful. AI refers to an intelligent system consisting not of a human, but a machine. Machine learning refers to computers’ ability to learn without being explicitly programmed. Deep learning is a subset of machine learning that uses artificial neural networks consisting of multiple hidden layers. It is suggested that the educational curriculum should include big data, the concept of AI, algorithms and models of machine learning, the model of deep learning, and coding practice. The standard curriculum should be organized by the nursing society. An example of an area of nursing care where AI is useful is prenatal nursing interventions based on pregnant women’s nursing records and AI-based prediction of the risk of delivery according to pregnant women’s age. Nurses should be able to cope with the rapidly developing environment of nursing care influenced by AI and should understand how to apply AI in their field. It is time for Korean nurses to take steps to become familiar with AI in their research, education, and practice."
+        },
+        {
+          "rank": 5,
+          "score": 0.6569430232048035,
+          "doc_id": "57",
+          "text": "Application of Machine Learning and Deep Learning in Imaging of Ischemic Stroke Application of Machine Learning and Deep Learning in Imaging of Ischemic Stroke Application of Machine Learning and Deep Learning in Imaging of Ischemic Stroke Timely analysis of imaging data is critical for diagnosis and decision-making for proper treatment strategy in the cases of ischemic stroke. Various efforts have been made to develop computer-assisted systems to improve the accuracy of stroke diagnosis and acute stroke triage. The widespread emergence of artificial intelligence technology has been integrated into the field of medicine. Artificial intelligence can play an important role in providing care to patients with stroke. In the past few decades, numerous studies have explored the use of machine learning and deep learning algorithms for application in the management of stroke. In this review, we will start with a brief introduction to machine learning and deep learning and provide clinical applications of machine learning and deep learning in various aspects of stroke management, including rapid diagnosis and improved triage, identifying large vessel occlusion, predicting time from stroke onset, automated ASPECTS (Alberta Stroke Program Early CT Score) measurement, lesion segmentation, and predicting treatment outcome. This work is focused on providing the current application of artificial intelligence techniques in the imaging of ischemic stroke, including MRI and CT."
+        },
+        {
+          "rank": 6,
+          "score": 0.6503086090087891,
+          "doc_id": "202",
+          "text": "Machine learning Machine learning Machine learning A short review of research and applications in machine learning is given. Rather than attempt to cover all areas of ML, the focus is on its role in building expert systems, its approach to classification problems and ML methods of learning control. A relatively new area, inductive logic programming, is also discussed."
+        },
+        {
+          "rank": 7,
+          "score": 0.6466520428657532,
+          "doc_id": "186",
+          "text": "Deep Semi-Supervised Learning 기반 컴퓨터 보조 진단 방법론 Deep Semi-Supervised Learning 기반 컴퓨터 보조 진단 방법론 Deep Semi-Supervised Learning 기반 컴퓨터 보조 진단 방법론 Medical image applications 분야는 가장 인기 있으며 적극적으로 연구되는 현대 Machine Learning 및 Deep Learning applications 중 하나의 분야로 부상되고 있다. Medical image analysis는 환자의 신체 영상의 획득과 의료 전문가의 진단 및 분석을 목적으로 한다. 여러 Machine Learning 방법론을 사용하면 다양한 질병을 진단할 수 있게 된다. 하지만, 보다 효율적이며 강인한 모델을 설계하기 위해서는 Label이 지정된 데이터 샘플이 필요하게 된다. &amp;#xD; 따라서, Label이 지정되지 않은 데이터를 활용하여 모델의 성능을 향상시키는 Medical image 분야에서 semi-supervised Learning의 연구가 활발히 이루어지고 있다. 본 연구에서는 2D 초음파 영상(CADe)와 KL-grade 무릎 방사선사(CADx) 분류에서 유방 병변 Segmentation을 위한 딥러닝 기술을 사용하여 Medical image analysis에서 개선된 Semi-Supervised CAD 시스템을 제안하였다. 본 논문에서는 residual 및 attention block을 통합한 residual-attention-based uncertainty-guided mean teacher framework를 제안한다. 높은 수준의 feature와 attention module의 flow를 가능하게 하여 deep network를 최적화하기 위한 residual은 학습 과정 중에서 가중치를 최적화하기 위해 모델의 focus를 향상시킨다. &amp;#xD; 또한, 본 논문에서는 semi-supervised 학습 방법을 사용하여 학습 과정에서 label이 지정되지 않은 데이터를 활용할 수 있는 가능성을 탐구한다. 특히, uncertainty-guided mean-teacher-student 구조를 활용하여 residual attention U-Net 모델의 학습 중 label이 지정되지 않은 샘플을 통합할 수 있는 가능성을 입증하였다. &amp;#xD; 따라서, label이 지정되지 않은 추가 데이터를 unsupervised 및 supervised 방식으로 활용할 수있는 semi-supervised multitask learning-based 학습 기반 접근 방식을 개발하였다. 구체적으로, 이 과정은 reconstruction에 대해서만 unsupervised 된 상태에서 먼저 학습된 dual-channel adversarial autoencoder를 제안한다. 본 연구는 supervised 방식으로 추가 데이터를 활용하기 위해 auxilary task를 도입하여 multi-task learning framework를 제안한다. 특히, leg side의 식별은 auxilary task로 사용되므로 CHECK 데이터셋과 같은 더 많은 데이터셋을 사용할 수 있게 된다. 따라서, 추가 데이터의 활용이 소수의 label된 데이터만 사용할 수 있는 KL-grade 분류에서 main task의 성능을 향상시킬 수 있음을 보여준다. &amp;#xD; 다양한 측면, 즉 전반적인 성능, label이 지정되지 않은 추가 샘플 및 auxiliary task의 효과, 강인한 분석 등에 대해 공개적으로 사용 가능한 두 개의 가장 큰 데이터셋에 대해 제안된 모델을 평가하였다. 제안된 모델은 각각 75.52%, 78.48%, 75.34%의 Accuracy, Recall, F1-Score를 달성하였다."
+        },
+        {
+          "rank": 8,
+          "score": 0.6440713405609131,
+          "doc_id": "142",
+          "text": "Machine learning in oncology-Perspectives in patient-reported outcome research Machine learning in oncology-Perspectives in patient-reported outcome research Machine learning in oncology-Perspectives in patient-reported outcome research AbstractBackgroundIncreasing data volumes in oncology pose new challenges for data analysis. Machine learning, a branch of artificial intelligence, can identify patterns even in very large and less structured datasets.ObjectiveThis article provides an overview of the possible applications for machine learning in oncology. Furthermore, the potential of machine learning in patient-reported outcome (PRO) research is discussed.Materials and methodsWe conducted a selective literature search (PubMed, MEDLINE, IEEE Xplore) and discuss current research.ResultsThere are three primary applications for machine learning in oncology: (1) cancer detection or classification; (2) overall survival prediction or risk assessment; and (3) supporting therapy decision-making and prediction of treatment response. Generally, machine learning approaches in oncology PRO research are scarce and few studies integrate PRO data into machine learning models.DiscussionMachine learning is a promising area of oncology, but few models have been transferred into clinical practice. The promise of personalized cancer therapy and shared decision-making through machine learning has yet to be realized. As an equally important emerging research area in oncology, PROs should also be incorporated into machine learning approaches. To gather the data necessary for this, broad implementation of PRO assessments in clinical practice, as well as the harmonization of existing datasets, is suggested."
+        },
+        {
+          "rank": 9,
+          "score": 0.6378093957901001,
+          "doc_id": "135",
+          "text": "Liver Fibrosis Biomarker Validation Using Machine Learning Algorithms Liver Fibrosis Biomarker Validation Using Machine Learning Algorithms Liver Fibrosis Biomarker Validation Using Machine Learning Algorithms Background: Liver fibrosis which causes several liver diseases, requires early screening and management. The gold standard for fibrosis assessment, liver biopsy, has recently been replaced by noninvasive scores. In this study, we validated liver fibrosis-associated biomarkers using machine learning techniques applied in medical research and evaluated their prediction models.Methods: Noninvasive scores were assayed in 144 patients who underwent transient elastography (TE). The patients were divided into three groups (<7 kPa, 7–10 kPa, ≥10 kPa) according to their TE results. Feature selection and modeling for predicting liver fibrosis were performed using random forest (RF) and support vector machine (SVM).Results: Considering the mean decrease in impurity, permutation importance, and multicollinear analysis, the important features for differentiating between the three groups were Mac-2 binding protein glycosylation isomer (M2BPGi), platelet count, and aspartate aminotransferase (AST). Using these features, the RF and SVM models showed equivalent or better performance than noninvasive scores. The sensitivities of RF and SVM models for predicting ≥7 kPa TE results were higher than noninvasive scores (83.3% and 90.0% vs. <80%, respectively). The sensitivity and specificity of RF and SVM models for ≥10 kPa TE result was 100%.Conclusions: We used machine learning techniques to verify the usefulness of established serological biomarkers (M2BPGi, PLT, and AST) that predict liver fibrosis. Conclusively, machine learning models showed better performance than noninvasive scores."
+        },
+        {
+          "rank": 10,
+          "score": 0.6365753412246704,
+          "doc_id": "110",
+          "text": "Machine Learning기법을 이용한 Robot 이상 예지 보전 Machine Learning기법을 이용한 Robot 이상 예지 보전 Machine Learning기법을 이용한 Robot 이상 예지 보전 In this paper, a predictive maintenance of the robot trouble using the machine learning method, so called MT(Mahalanobis Taguchi), was studied. Especially, 'MD(Mahalanobis Distance)' was used to compare the robot arm motion difference between before the maintenance(bearing change) and after the maintenance. 6-axies vibration sensor was used to detect the vibration sensing during the motion of the robot arm. The results of the comparison, MD value of the arm motions of the after the maintenance(bearing change) was much lower and stable compared to MD value of the arm motions of the before the maintenance. MD value well distinguished the fine difference of the arm vibration of the robot. The superior performance of the MT method applied to the prediction of the robot trouble was verified by this experiments."
+        }
+      ]
+    },
+    {
+      "query": "What are the ethical considerations associated with using machine learning methods for the early diagnosis of maternal-fetal conditions?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7865642309188843,
+          "doc_id": "215",
+          "text": "Artificial intelligence in obstetrics Artificial intelligence in obstetrics Artificial intelligence in obstetrics This study reviews recent advances on the application of artificial intelligence for the early diagnosis of variousmaternal-fetal conditions such as preterm birth and abnormal fetal growth. It is found in this study that variousmachine learning methods have been successfully employed for different kinds of data capture with regard to earlydiagnosis of maternal-fetal conditions. With the more popular use of artificial intelligence, ethical issues should alsobe considered accordingly."
+        },
+        {
+          "rank": 2,
+          "score": 0.6251718997955322,
+          "doc_id": "101",
+          "text": "Breast cancer detection by leveraging Machine Learning Breast cancer detection by leveraging Machine Learning Breast cancer detection by leveraging Machine Learning India has witnessed 30% of the cases of breast cancer during the last few years and it is likely to increase. Breast cancer in India accounts that one woman is diagnosed every two minutes and every nine minutes, one woman dies. Early detection and diagnosis can save the lives of cancer patients. This paper presents a novel method to detect breast cancer by employing techniques of Machine Learning. The authors carried out an experimental analysis on a dataset to evaluate the performance. The proposed method has produced highly accurate and efficient results when compared to the existing methods."
+        },
+        {
+          "rank": 3,
+          "score": 0.6130613684654236,
+          "doc_id": "15",
+          "text": "Artificial intelligence, machine learning, and deep learning in women’s health nursing Artificial intelligence, machine learning, and deep learning in women’s health nursing Artificial intelligence, machine learning, and deep learning in women’s health nursing Artificial intelligence (AI), which includes machine learning and deep learning has been introduced to nursing care in recent years. The present study reviews the following topics: the concepts of AI, machine learning, and deep learning; examples of AI-based nursing research; the necessity of education on AI in nursing schools; and the areas of nursing care where AI is useful. AI refers to an intelligent system consisting not of a human, but a machine. Machine learning refers to computers’ ability to learn without being explicitly programmed. Deep learning is a subset of machine learning that uses artificial neural networks consisting of multiple hidden layers. It is suggested that the educational curriculum should include big data, the concept of AI, algorithms and models of machine learning, the model of deep learning, and coding practice. The standard curriculum should be organized by the nursing society. An example of an area of nursing care where AI is useful is prenatal nursing interventions based on pregnant women’s nursing records and AI-based prediction of the risk of delivery according to pregnant women’s age. Nurses should be able to cope with the rapidly developing environment of nursing care influenced by AI and should understand how to apply AI in their field. It is time for Korean nurses to take steps to become familiar with AI in their research, education, and practice."
+        },
+        {
+          "rank": 4,
+          "score": 0.6129921078681946,
+          "doc_id": "87",
+          "text": "Big Data Analysis and Machine Learning in Intensive Care Units Big Data Analysis and Machine Learning in Intensive Care Units Big Data Analysis and Machine Learning in Intensive Care Units Abstract Intensive care is an ideal environment for the use of Big Data Analysis (BDA) and Machine Learning (ML), due to the huge amount of information processed and stored in electronic format in relation to such care. These tools can improve our clinical research capabilities and clinical decision making in the future. The present study reviews the foundations of BDA and ML, and explores possible applications in our field from a clinical viewpoint. We also suggest potential strategies to optimize these new technologies and describe a new kind of hybrid healthcare-data science professional with a linking role between clinicians and data."
+        },
+        {
+          "rank": 5,
+          "score": 0.6094943284988403,
+          "doc_id": "142",
+          "text": "Machine learning in oncology-Perspectives in patient-reported outcome research Machine learning in oncology-Perspectives in patient-reported outcome research Machine learning in oncology-Perspectives in patient-reported outcome research AbstractBackgroundIncreasing data volumes in oncology pose new challenges for data analysis. Machine learning, a branch of artificial intelligence, can identify patterns even in very large and less structured datasets.ObjectiveThis article provides an overview of the possible applications for machine learning in oncology. Furthermore, the potential of machine learning in patient-reported outcome (PRO) research is discussed.Materials and methodsWe conducted a selective literature search (PubMed, MEDLINE, IEEE Xplore) and discuss current research.ResultsThere are three primary applications for machine learning in oncology: (1) cancer detection or classification; (2) overall survival prediction or risk assessment; and (3) supporting therapy decision-making and prediction of treatment response. Generally, machine learning approaches in oncology PRO research are scarce and few studies integrate PRO data into machine learning models.DiscussionMachine learning is a promising area of oncology, but few models have been transferred into clinical practice. The promise of personalized cancer therapy and shared decision-making through machine learning has yet to be realized. As an equally important emerging research area in oncology, PROs should also be incorporated into machine learning approaches. To gather the data necessary for this, broad implementation of PRO assessments in clinical practice, as well as the harmonization of existing datasets, is suggested."
+        },
+        {
+          "rank": 6,
+          "score": 0.6040362119674683,
+          "doc_id": "57",
+          "text": "Application of Machine Learning and Deep Learning in Imaging of Ischemic Stroke Application of Machine Learning and Deep Learning in Imaging of Ischemic Stroke Application of Machine Learning and Deep Learning in Imaging of Ischemic Stroke Timely analysis of imaging data is critical for diagnosis and decision-making for proper treatment strategy in the cases of ischemic stroke. Various efforts have been made to develop computer-assisted systems to improve the accuracy of stroke diagnosis and acute stroke triage. The widespread emergence of artificial intelligence technology has been integrated into the field of medicine. Artificial intelligence can play an important role in providing care to patients with stroke. In the past few decades, numerous studies have explored the use of machine learning and deep learning algorithms for application in the management of stroke. In this review, we will start with a brief introduction to machine learning and deep learning and provide clinical applications of machine learning and deep learning in various aspects of stroke management, including rapid diagnosis and improved triage, identifying large vessel occlusion, predicting time from stroke onset, automated ASPECTS (Alberta Stroke Program Early CT Score) measurement, lesion segmentation, and predicting treatment outcome. This work is focused on providing the current application of artificial intelligence techniques in the imaging of ischemic stroke, including MRI and CT."
+        },
+        {
+          "rank": 7,
+          "score": 0.5944583415985107,
+          "doc_id": "135",
+          "text": "Liver Fibrosis Biomarker Validation Using Machine Learning Algorithms Liver Fibrosis Biomarker Validation Using Machine Learning Algorithms Liver Fibrosis Biomarker Validation Using Machine Learning Algorithms Background: Liver fibrosis which causes several liver diseases, requires early screening and management. The gold standard for fibrosis assessment, liver biopsy, has recently been replaced by noninvasive scores. In this study, we validated liver fibrosis-associated biomarkers using machine learning techniques applied in medical research and evaluated their prediction models.Methods: Noninvasive scores were assayed in 144 patients who underwent transient elastography (TE). The patients were divided into three groups (<7 kPa, 7–10 kPa, ≥10 kPa) according to their TE results. Feature selection and modeling for predicting liver fibrosis were performed using random forest (RF) and support vector machine (SVM).Results: Considering the mean decrease in impurity, permutation importance, and multicollinear analysis, the important features for differentiating between the three groups were Mac-2 binding protein glycosylation isomer (M2BPGi), platelet count, and aspartate aminotransferase (AST). Using these features, the RF and SVM models showed equivalent or better performance than noninvasive scores. The sensitivities of RF and SVM models for predicting ≥7 kPa TE results were higher than noninvasive scores (83.3% and 90.0% vs. <80%, respectively). The sensitivity and specificity of RF and SVM models for ≥10 kPa TE result was 100%.Conclusions: We used machine learning techniques to verify the usefulness of established serological biomarkers (M2BPGi, PLT, and AST) that predict liver fibrosis. Conclusively, machine learning models showed better performance than noninvasive scores."
+        },
+        {
+          "rank": 8,
+          "score": 0.5931979417800903,
+          "doc_id": "186",
+          "text": "Deep Semi-Supervised Learning 기반 컴퓨터 보조 진단 방법론 Deep Semi-Supervised Learning 기반 컴퓨터 보조 진단 방법론 Deep Semi-Supervised Learning 기반 컴퓨터 보조 진단 방법론 Medical image applications 분야는 가장 인기 있으며 적극적으로 연구되는 현대 Machine Learning 및 Deep Learning applications 중 하나의 분야로 부상되고 있다. Medical image analysis는 환자의 신체 영상의 획득과 의료 전문가의 진단 및 분석을 목적으로 한다. 여러 Machine Learning 방법론을 사용하면 다양한 질병을 진단할 수 있게 된다. 하지만, 보다 효율적이며 강인한 모델을 설계하기 위해서는 Label이 지정된 데이터 샘플이 필요하게 된다. &amp;#xD; 따라서, Label이 지정되지 않은 데이터를 활용하여 모델의 성능을 향상시키는 Medical image 분야에서 semi-supervised Learning의 연구가 활발히 이루어지고 있다. 본 연구에서는 2D 초음파 영상(CADe)와 KL-grade 무릎 방사선사(CADx) 분류에서 유방 병변 Segmentation을 위한 딥러닝 기술을 사용하여 Medical image analysis에서 개선된 Semi-Supervised CAD 시스템을 제안하였다. 본 논문에서는 residual 및 attention block을 통합한 residual-attention-based uncertainty-guided mean teacher framework를 제안한다. 높은 수준의 feature와 attention module의 flow를 가능하게 하여 deep network를 최적화하기 위한 residual은 학습 과정 중에서 가중치를 최적화하기 위해 모델의 focus를 향상시킨다. &amp;#xD; 또한, 본 논문에서는 semi-supervised 학습 방법을 사용하여 학습 과정에서 label이 지정되지 않은 데이터를 활용할 수 있는 가능성을 탐구한다. 특히, uncertainty-guided mean-teacher-student 구조를 활용하여 residual attention U-Net 모델의 학습 중 label이 지정되지 않은 샘플을 통합할 수 있는 가능성을 입증하였다. &amp;#xD; 따라서, label이 지정되지 않은 추가 데이터를 unsupervised 및 supervised 방식으로 활용할 수있는 semi-supervised multitask learning-based 학습 기반 접근 방식을 개발하였다. 구체적으로, 이 과정은 reconstruction에 대해서만 unsupervised 된 상태에서 먼저 학습된 dual-channel adversarial autoencoder를 제안한다. 본 연구는 supervised 방식으로 추가 데이터를 활용하기 위해 auxilary task를 도입하여 multi-task learning framework를 제안한다. 특히, leg side의 식별은 auxilary task로 사용되므로 CHECK 데이터셋과 같은 더 많은 데이터셋을 사용할 수 있게 된다. 따라서, 추가 데이터의 활용이 소수의 label된 데이터만 사용할 수 있는 KL-grade 분류에서 main task의 성능을 향상시킬 수 있음을 보여준다. &amp;#xD; 다양한 측면, 즉 전반적인 성능, label이 지정되지 않은 추가 샘플 및 auxiliary task의 효과, 강인한 분석 등에 대해 공개적으로 사용 가능한 두 개의 가장 큰 데이터셋에 대해 제안된 모델을 평가하였다. 제안된 모델은 각각 75.52%, 78.48%, 75.34%의 Accuracy, Recall, F1-Score를 달성하였다."
+        },
+        {
+          "rank": 9,
+          "score": 0.5819705724716187,
+          "doc_id": "131",
+          "text": "Machine learning political orders Machine learning political orders Machine learning political orders AbstractA significant set of epistemic and political transformations are taking place as states and societies begin to understand themselves and their problems through the paradigm of deep neural network algorithms. A machine learning political order does not merely change the political technologies of governance, but is itself a reordering of politics, of what the political can be. When algorithmic systems reduce the pluridimensionality of politics to the output of a model, they simultaneously foreclose the potential for other political claims to be made and alternative political projects to be built. More than this foreclosure, a machine learning political order actively profits and learns from the fracturing of communities and the destabilising of democratic rights. The transformation from rules-based algorithms to deep learning models has paralleled the undoing of rules-based social and international orders - from the use of machine learning in the campaigns of the UK EU referendum, to the trialling of algorithmic immigration and welfare systems, and the use of deep learning in the COVID-19 pandemic - with political problems becoming reconfigured as machine learning problems. Machine learning political orders decouple their attributes, features and clusters from underlying social values, no longer tethered to notions of good governance or a good society, but searching instead for the optimal function of abstract representations of data."
+        },
+        {
+          "rank": 10,
+          "score": 0.578490138053894,
+          "doc_id": "221",
+          "text": "Implikationen von Machine Learning auf das Datenmanagement in Unternehmen Implikationen von Machine Learning auf das Datenmanagement in Unternehmen Implikationen von Machine Learning auf das Datenmanagement in Unternehmen AbstractMachine Learning is a trend research area with great potential and far-reaching application potentials. Big Data is an enabler, as large and high-quality data are always the basis for successful machine learning algorithms and models. There is currently no fully established standard process for the machine learning life cycle, as is the case in data mining with the CRISP-DM-Process, which means that the operationalization of machine learning models in particular can present companies with major challenges. In this article, the implications for data management in companies are worked out on the basis of the view of the nature of the data, the various roles in machine learning teams and the life cycle of machine learning models."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

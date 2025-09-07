@@ -1,0 +1,361 @@
+{
+  "id": "row_000022",
+  "model_name": "BAAI/bge-m3",
+  "timestamp_kst": "2025-09-07T16:10:10.756199+09:00",
+  "trial_id": "8e4d6fd3",
+  "queries": [
+    {
+      "query": "Can you provide a concise overview of the comparison between deep learning and deep reinforcement learning for complex image analysis, highlighting their strengths and weaknesses?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7840017080307007,
+          "doc_id": "25",
+          "text": "A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis"
+        },
+        {
+          "rank": 2,
+          "score": 0.7840017080307007,
+          "doc_id": "74",
+          "text": "A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis"
+        },
+        {
+          "rank": 3,
+          "score": 0.6494441032409668,
+          "doc_id": "42",
+          "text": "Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning"
+        },
+        {
+          "rank": 4,
+          "score": 0.6287216544151306,
+          "doc_id": "125",
+          "text": "An overview of deep learning techniques"
+        },
+        {
+          "rank": 5,
+          "score": 0.6151683330535889,
+          "doc_id": "26",
+          "text": "Design a personalized recommendation system using deep learning and reinforcement learning"
+        },
+        {
+          "rank": 6,
+          "score": 0.6012431383132935,
+          "doc_id": "155",
+          "text": "Machine Learning Versus Deep Learning Performances on the Sentiment Analysis of Product Reviews"
+        },
+        {
+          "rank": 7,
+          "score": 0.5826531648635864,
+          "doc_id": "121",
+          "text": "Deep Learning을 기반으로 한 Feature Extraction 알고리즘의 분석"
+        },
+        {
+          "rank": 8,
+          "score": 0.5818842053413391,
+          "doc_id": "152",
+          "text": "Deep Learning in MR Image Processing"
+        },
+        {
+          "rank": 9,
+          "score": 0.5722679495811462,
+          "doc_id": "51",
+          "text": "Deep Learning in Dentistry: A Literature Review"
+        },
+        {
+          "rank": 10,
+          "score": 0.5703452825546265,
+          "doc_id": "195",
+          "text": "Deep Contour Recovery: Repairing Breaks in Detected Contours using Deep Learning"
+        }
+      ]
+    },
+    {
+      "query": "What are the strengths of deep learning for complex image analysis?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6710476279258728,
+          "doc_id": "25",
+          "text": "A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis"
+        },
+        {
+          "rank": 2,
+          "score": 0.6710476279258728,
+          "doc_id": "74",
+          "text": "A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis"
+        },
+        {
+          "rank": 3,
+          "score": 0.6124560832977295,
+          "doc_id": "152",
+          "text": "Deep Learning in MR Image Processing"
+        },
+        {
+          "rank": 4,
+          "score": 0.6105760931968689,
+          "doc_id": "125",
+          "text": "An overview of deep learning techniques"
+        },
+        {
+          "rank": 5,
+          "score": 0.5889050364494324,
+          "doc_id": "85",
+          "text": "Deep learning for radar"
+        },
+        {
+          "rank": 6,
+          "score": 0.5884296894073486,
+          "doc_id": "154",
+          "text": "Diabetes detection using deep learning algorithms"
+        },
+        {
+          "rank": 7,
+          "score": 0.5881387591362,
+          "doc_id": "195",
+          "text": "Deep Contour Recovery: Repairing Breaks in Detected Contours using Deep Learning"
+        },
+        {
+          "rank": 8,
+          "score": 0.5831425786018372,
+          "doc_id": "121",
+          "text": "Deep Learning을 기반으로 한 Feature Extraction 알고리즘의 분석"
+        },
+        {
+          "rank": 9,
+          "score": 0.5823258757591248,
+          "doc_id": "51",
+          "text": "Deep Learning in Dentistry: A Literature Review"
+        },
+        {
+          "rank": 10,
+          "score": 0.5811267495155334,
+          "doc_id": "28",
+          "text": "Deep Learning 기반 COF 이미지 검사시스템"
+        }
+      ]
+    },
+    {
+      "query": "What are the weaknesses of deep learning for complex image analysis?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6770187020301819,
+          "doc_id": "25",
+          "text": "A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis"
+        },
+        {
+          "rank": 2,
+          "score": 0.6770187020301819,
+          "doc_id": "74",
+          "text": "A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis"
+        },
+        {
+          "rank": 3,
+          "score": 0.579422116279602,
+          "doc_id": "125",
+          "text": "An overview of deep learning techniques"
+        },
+        {
+          "rank": 4,
+          "score": 0.576014518737793,
+          "doc_id": "152",
+          "text": "Deep Learning in MR Image Processing"
+        },
+        {
+          "rank": 5,
+          "score": 0.5703262090682983,
+          "doc_id": "121",
+          "text": "Deep Learning을 기반으로 한 Feature Extraction 알고리즘의 분석"
+        },
+        {
+          "rank": 6,
+          "score": 0.5682194232940674,
+          "doc_id": "85",
+          "text": "Deep learning for radar"
+        },
+        {
+          "rank": 7,
+          "score": 0.5498191118240356,
+          "doc_id": "3",
+          "text": "Deep Learning in der Augenheilkunde"
+        },
+        {
+          "rank": 8,
+          "score": 0.5475175380706787,
+          "doc_id": "28",
+          "text": "Deep Learning 기반 COF 이미지 검사시스템"
+        },
+        {
+          "rank": 9,
+          "score": 0.5451657772064209,
+          "doc_id": "104",
+          "text": "Deep learning"
+        },
+        {
+          "rank": 10,
+          "score": 0.5440093278884888,
+          "doc_id": "195",
+          "text": "Deep Contour Recovery: Repairing Breaks in Detected Contours using Deep Learning"
+        }
+      ]
+    },
+    {
+      "query": "What are the strengths of deep reinforcement learning for complex image analysis?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 2
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7120183110237122,
+          "doc_id": "25",
+          "text": "A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis"
+        },
+        {
+          "rank": 2,
+          "score": 0.7120183110237122,
+          "doc_id": "74",
+          "text": "A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis"
+        },
+        {
+          "rank": 3,
+          "score": 0.6251943111419678,
+          "doc_id": "42",
+          "text": "Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning"
+        },
+        {
+          "rank": 4,
+          "score": 0.5987185835838318,
+          "doc_id": "152",
+          "text": "Deep Learning in MR Image Processing"
+        },
+        {
+          "rank": 5,
+          "score": 0.5906661748886108,
+          "doc_id": "26",
+          "text": "Design a personalized recommendation system using deep learning and reinforcement learning"
+        },
+        {
+          "rank": 6,
+          "score": 0.5876288414001465,
+          "doc_id": "125",
+          "text": "An overview of deep learning techniques"
+        },
+        {
+          "rank": 7,
+          "score": 0.5777038335800171,
+          "doc_id": "121",
+          "text": "Deep Learning을 기반으로 한 Feature Extraction 알고리즘의 분석"
+        },
+        {
+          "rank": 8,
+          "score": 0.577187180519104,
+          "doc_id": "85",
+          "text": "Deep learning for radar"
+        },
+        {
+          "rank": 9,
+          "score": 0.5657414197921753,
+          "doc_id": "195",
+          "text": "Deep Contour Recovery: Repairing Breaks in Detected Contours using Deep Learning"
+        },
+        {
+          "rank": 10,
+          "score": 0.5603448152542114,
+          "doc_id": "28",
+          "text": "Deep Learning 기반 COF 이미지 검사시스템"
+        }
+      ]
+    },
+    {
+      "query": "What are the weaknesses of deep reinforcement learning for complex image analysis?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 3
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7165755033493042,
+          "doc_id": "25",
+          "text": "A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis"
+        },
+        {
+          "rank": 2,
+          "score": 0.7165755033493042,
+          "doc_id": "74",
+          "text": "A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis"
+        },
+        {
+          "rank": 3,
+          "score": 0.5748825669288635,
+          "doc_id": "42",
+          "text": "Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning"
+        },
+        {
+          "rank": 4,
+          "score": 0.568989098072052,
+          "doc_id": "121",
+          "text": "Deep Learning을 기반으로 한 Feature Extraction 알고리즘의 분석"
+        },
+        {
+          "rank": 5,
+          "score": 0.5670240521430969,
+          "doc_id": "26",
+          "text": "Design a personalized recommendation system using deep learning and reinforcement learning"
+        },
+        {
+          "rank": 6,
+          "score": 0.5660037398338318,
+          "doc_id": "152",
+          "text": "Deep Learning in MR Image Processing"
+        },
+        {
+          "rank": 7,
+          "score": 0.5632736682891846,
+          "doc_id": "85",
+          "text": "Deep learning for radar"
+        },
+        {
+          "rank": 8,
+          "score": 0.559581995010376,
+          "doc_id": "125",
+          "text": "An overview of deep learning techniques"
+        },
+        {
+          "rank": 9,
+          "score": 0.5290226340293884,
+          "doc_id": "3",
+          "text": "Deep Learning in der Augenheilkunde"
+        },
+        {
+          "rank": 10,
+          "score": 0.527647078037262,
+          "doc_id": "28",
+          "text": "Deep Learning 기반 COF 이미지 검사시스템"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

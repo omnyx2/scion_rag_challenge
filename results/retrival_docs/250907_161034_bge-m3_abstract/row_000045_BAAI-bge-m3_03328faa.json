@@ -1,0 +1,221 @@
+{
+  "id": "row_000045",
+  "model_name": "BAAI/bge-m3",
+  "timestamp_kst": "2025-09-07T16:10:41.199410+09:00",
+  "trial_id": "03328faa",
+  "queries": [
+    {
+      "query": "What is the essence of applying various machine and deep learning approaches to pharmacogenomics research for antidepressant treatment prediction?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7483811378479004,
+          "doc_id": "53",
+          "text": "A growing body of evidence now proposes that machine learning and deep learning techniques can serve as a vital foundation for the pharmacogenomics of antidepressant treatments in patients with major depressive disorder (MDD).In this review, we focus on the latest developments for pharmacogenomics research using machine learning and deep learning approaches together with neuroimaging and multi-omics data. First, we review relevant pharmacogenomics studies that leverage numerous machine learning and deep learning techniques to determine treatment prediction and potential biomarkers for antidepressant treatments in MDD. In addition, we depict some neuroimaging pharmacogenomics studies that utilize various machine learning approaches to predict antidepressant treatment outcomes in MDD based on the integration of research on pharmacogenomics and neuroimaging. Moreover, we summarize the limitations in regard to the past pharmacogenomics studies of antidepressant treatments in MDD. Finally, we outline a discussion of challenges and directions for future research. In light of latest advancements in neuroimaging and multi-omics, various genomic variants and biomarkers associated with antidepressant treatments in MDD are being identified in pharmacogenomics research by employing machine learning and deep learning algorithms."
+        },
+        {
+          "rank": 2,
+          "score": 0.5764248371124268,
+          "doc_id": "102",
+          "text": "Artificial intelligence and deep learning algorithms are infiltrating various fields of medicine and dentistry. The purpose of the current study was to review literatures applying deep learning algorithms to the dentistry and implantology. Electronic literature search through MEDLINE and IEEE Xplore library database was performed at 2019 October by combining free-text terms and entry terms associated with ‘dentistry’ and ‘deep learning’. The searched literature was screened by title/abstract level and full text level. Following data were extracted from the included studies: information of author, publication year, the aim of the study, architecture of deep learning, input data, output data, and performance of the deep learning algorithm in the study. 340 studies were retrieved from the databases and 62 studies were included in the study. Deep learning algorithms were applied to tooth localization and numbering, detection of dental caries/periodontal disease/periapical disease/oral cancerous lesion, localization of cephalometric landmarks, image quality enhancement, prediction and compensation of deformation error in additive manufacturing of prosthesis. Convolutional neural network was used for periapical radiograph, panoramic radiograph, or computed tomography in most of included studies. Deep learning algorithms are expected to help clinicians diagnose and make decisions by extracting dental data, detecting diseases and abnormal lesions, and improving image quality."
+        },
+        {
+          "rank": 3,
+          "score": 0.552588701248169,
+          "doc_id": "142",
+          "text": "AbstractBackgroundIncreasing data volumes in oncology pose new challenges for data analysis. Machine learning, a branch of artificial intelligence, can identify patterns even in very large and less structured datasets.ObjectiveThis article provides an overview of the possible applications for machine learning in oncology. Furthermore, the potential of machine learning in patient-reported outcome (PRO) research is discussed.Materials and methodsWe conducted a selective literature search (PubMed, MEDLINE, IEEE Xplore) and discuss current research.ResultsThere are three primary applications for machine learning in oncology: (1) cancer detection or classification; (2) overall survival prediction or risk assessment; and (3) supporting therapy decision-making and prediction of treatment response. Generally, machine learning approaches in oncology PRO research are scarce and few studies integrate PRO data into machine learning models.DiscussionMachine learning is a promising area of oncology, but few models have been transferred into clinical practice. The promise of personalized cancer therapy and shared decision-making through machine learning has yet to be realized. As an equally important emerging research area in oncology, PROs should also be incorporated into machine learning approaches. To gather the data necessary for this, broad implementation of PRO assessments in clinical practice, as well as the harmonization of existing datasets, is suggested."
+        },
+        {
+          "rank": 4,
+          "score": 0.5434876680374146,
+          "doc_id": "57",
+          "text": "Timely analysis of imaging data is critical for diagnosis and decision-making for proper treatment strategy in the cases of ischemic stroke. Various efforts have been made to develop computer-assisted systems to improve the accuracy of stroke diagnosis and acute stroke triage. The widespread emergence of artificial intelligence technology has been integrated into the field of medicine. Artificial intelligence can play an important role in providing care to patients with stroke. In the past few decades, numerous studies have explored the use of machine learning and deep learning algorithms for application in the management of stroke. In this review, we will start with a brief introduction to machine learning and deep learning and provide clinical applications of machine learning and deep learning in various aspects of stroke management, including rapid diagnosis and improved triage, identifying large vessel occlusion, predicting time from stroke onset, automated ASPECTS (Alberta Stroke Program Early CT Score) measurement, lesion segmentation, and predicting treatment outcome. This work is focused on providing the current application of artificial intelligence techniques in the imaging of ischemic stroke, including MRI and CT."
+        },
+        {
+          "rank": 5,
+          "score": 0.5387853384017944,
+          "doc_id": "51",
+          "text": "The aim of this literature review is to investigate current application and diagnostic performance of AI in the dental field, address their limitations, and suggest possible future applications to AI in dentistry. Studies implementing deep learning in the dental field were searched, identified, and extracted from the electronic databases (PubMed, Cochrane Library, Scopus). Full-text articles describing the application of deep learning for the detection, classification, diagnosis, or clinical outcomes of dental problems as well as the study methods and deep learning architecture were included. The initial electronic search identified 1226 titles, and 115 studies were eventually included in the review.According to the evaluation criteria the studies all involved deep learning methods in dentistry (published 2016-2021), and the studies were divided into their scope of each subfield in dentistry; namely, anatomy (n=26), orthodontics (n=12), oral and maxillofacial surgery (n=29), endodontics and conservative dentistry (n=17), periodontology (n=5), implant dentistry (n=7), prosthodontics (n=3), forensic dentistry and identification (n=8), and etc. (n=8). There was a high risk of bias and applicability concerns were detected for most studies, mainly due to data selection and reference test conduct. Application of deep learning proposed in the studies exhibited wide clinical applications in the dental field. However, the evaluation criteria for the efficacy of deep learning have still not been clarified, and further verification of the reliability and applicability of the AI models is essential to implement these models to clinical practice."
+        },
+        {
+          "rank": 6,
+          "score": 0.5275460481643677,
+          "doc_id": "179",
+          "text": "Deep learning, a sub-field of machine learning changing the prospects of artificial intelligence (AI) because of its recent advancements and application in various field. Deep learning deals with algorithms inspired by the structure and function of the brain called artificial neural networks. This works reviews basic architecture and recent advancement of deep structured learning. It also describes contemporary applications of deep structured learning and its advantages over the treditional learning in artificial interlligence. This study is useful for the general readers and students who are in the early stage of deep learning studies."
+        },
+        {
+          "rank": 7,
+          "score": 0.5224233269691467,
+          "doc_id": "42",
+          "text": "In recent years, machine learning algorithms are continuously being used and expanded in various fields, such as facial recognition, signal processing, personal authentication, and stock prediction. In particular, various algorithms, such as deep learning, reinforcement learning, and Q-learning, are continuously being improved. Among these algorithms, the expansion of deep learning is rapidly changing. Nevertheless, machine learning algorithms have not yet been applied in several fields, such as personal authentication technology. This technology is an essential tool in the digital information era, walking recognition technology as promising biometrics, and technology for solving state-space problems. Therefore, algorithm technologies of deep learning, reinforcement learning, and Q-learning, which are typical machine learning algorithms in various fields, such as agricultural technology, personal authentication, wireless network, game, biometric recognition, and image recognition, are being improved and expanded in this paper."
+        },
+        {
+          "rank": 8,
+          "score": 0.5129290819168091,
+          "doc_id": "190",
+          "text": "This paper is a study of deep learning among artificial intelligence technology which has been developing many technologies recently. Especially, I am talking about emotional computing that has been mentioned a lot recently during deep learning. Emotional computing, in other words, is a passive concept that is dominated by people who scientifically analyze human sensibilities and reflect them in product development or system design, and a more active concept that studies how devices and systems understand humans and communicate with people in different modes. This emotional signal extraction, sensitivity, and psychology recognition technology is defined as a technology to process, analyze, and recognize psycho-sensitivity based on micro-small, hyper-sensor technology, and sensitive signals and information that can be sensed by the active movement of the autonomic nervous system caused by human emotional changes in everyday life. Chapter 1 talks about overview and Chapter 2 shows related research. Chapter 3 shows the problems and models of real emotional computing and Chapter 4 shows this paper as a conclusion."
+        },
+        {
+          "rank": 9,
+          "score": 0.5120052099227905,
+          "doc_id": "125",
+          "text": "ZusammenfassungDeep Learning ist der Ansatz, der die k&uuml;nstliche Intelligenz innerhalb weniger Jahre tiefgreifend ver&auml;ndert hat. Auch wenn sie durch verschiedene algorithmische Fortschritte begleitet wird, ist diese Technik vor allem aus Anwendungssicht &#x201e;disruptiv“: Sie verschiebt die Grenze automatisierbarer Aufgaben betr&auml;chtlich, ver&auml;ndert die Art der Produktentwicklung und steht praktisch jedermann zur Verf&uuml;gung. Gegenstand des Deep Learning sind neuronale Netze mit einer großen Anzahl von Schichten. Verglichen mit fr&uuml;heren Ans&auml;tzen mit idealerweise einer einzigen Schicht, erlaubt dies den Einsatz massiver Rechenhardware, um Black-Box-Modelle mit einem Minimum an Entwicklungsaufwand direkt aus Rohdaten zu trainieren. Die meisten erfolgreichen Anwendungen finden sich in der Auswertung visueller Bilder, aber auch in der Audio- und Text-Modellierung."
+        },
+        {
+          "rank": 10,
+          "score": 0.5091083645820618,
+          "doc_id": "87",
+          "text": "Abstract Intensive care is an ideal environment for the use of Big Data Analysis (BDA) and Machine Learning (ML), due to the huge amount of information processed and stored in electronic format in relation to such care. These tools can improve our clinical research capabilities and clinical decision making in the future. The present study reviews the foundations of BDA and ML, and explores possible applications in our field from a clinical viewpoint. We also suggest potential strategies to optimize these new technologies and describe a new kind of hybrid healthcare-data science professional with a linking role between clinicians and data."
+        }
+      ]
+    },
+    {
+      "query": "What are the primary challenges in predicting antidepressant treatment response using pharmacogenomic data?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6732093691825867,
+          "doc_id": "53",
+          "text": "A growing body of evidence now proposes that machine learning and deep learning techniques can serve as a vital foundation for the pharmacogenomics of antidepressant treatments in patients with major depressive disorder (MDD).In this review, we focus on the latest developments for pharmacogenomics research using machine learning and deep learning approaches together with neuroimaging and multi-omics data. First, we review relevant pharmacogenomics studies that leverage numerous machine learning and deep learning techniques to determine treatment prediction and potential biomarkers for antidepressant treatments in MDD. In addition, we depict some neuroimaging pharmacogenomics studies that utilize various machine learning approaches to predict antidepressant treatment outcomes in MDD based on the integration of research on pharmacogenomics and neuroimaging. Moreover, we summarize the limitations in regard to the past pharmacogenomics studies of antidepressant treatments in MDD. Finally, we outline a discussion of challenges and directions for future research. In light of latest advancements in neuroimaging and multi-omics, various genomic variants and biomarkers associated with antidepressant treatments in MDD are being identified in pharmacogenomics research by employing machine learning and deep learning algorithms."
+        },
+        {
+          "rank": 2,
+          "score": 0.5135663747787476,
+          "doc_id": "217",
+          "text": "Abstract The many advances in data collection computing systems (data collection, database, storage), diagnostic and therapeutic possibilities are responsible for an increase and a diversification of available data. Big data offers the capacities, in the field of health, to accelerate the discoveries and to optimize the management of patients by combining a large volume of data and the creation of therapeutic models. In radiotherapy, the development of big data is attractive because data are very numerous et heterogeneous (demographics, radiomics, genomics, radiogenomics, etc.). The expectation would be to predict the effectiveness and tolerance of radiation therapy. With these new concepts, still at the preliminary stage, it is possible to create a personalized medicine which is always more secure and reliable."
+        },
+        {
+          "rank": 3,
+          "score": 0.5096966624259949,
+          "doc_id": "204",
+          "text": "ABSTRACTRecent advances in technology have allowed us access to a multitude of datasets pertaining to various dimensions in neurology. Together with the enormous opportunities, we also face challenges related to data quality, ethics and intrinsic difficulties related to the application of data science in healthcare. In this article we will describe the main advances in the field of artificial intelligence and Big Data applied to neurology with a focus on neurosciences based on medical images. Real-World Data (RWD) and analytics related to large volumes of information will be described as well as some of the most relevant scientific initiatives at the time of this writing."
+        },
+        {
+          "rank": 4,
+          "score": 0.48964881896972656,
+          "doc_id": "142",
+          "text": "AbstractBackgroundIncreasing data volumes in oncology pose new challenges for data analysis. Machine learning, a branch of artificial intelligence, can identify patterns even in very large and less structured datasets.ObjectiveThis article provides an overview of the possible applications for machine learning in oncology. Furthermore, the potential of machine learning in patient-reported outcome (PRO) research is discussed.Materials and methodsWe conducted a selective literature search (PubMed, MEDLINE, IEEE Xplore) and discuss current research.ResultsThere are three primary applications for machine learning in oncology: (1) cancer detection or classification; (2) overall survival prediction or risk assessment; and (3) supporting therapy decision-making and prediction of treatment response. Generally, machine learning approaches in oncology PRO research are scarce and few studies integrate PRO data into machine learning models.DiscussionMachine learning is a promising area of oncology, but few models have been transferred into clinical practice. The promise of personalized cancer therapy and shared decision-making through machine learning has yet to be realized. As an equally important emerging research area in oncology, PROs should also be incorporated into machine learning approaches. To gather the data necessary for this, broad implementation of PRO assessments in clinical practice, as well as the harmonization of existing datasets, is suggested."
+        },
+        {
+          "rank": 5,
+          "score": 0.488808810710907,
+          "doc_id": "199",
+          "text": "BackgroundThe promise of Big Biomedical Data may be offset by the enormous challenges in handling, analyzing, and sharing it. In this paper, we provide a framework for developing practical and reasonable data sharing policies that incorporate the sociological, financial, technical and scientific requirements of a sustainable Big Data dependent scientific community.FindingsMany biomedical and healthcare studies may be significantly impacted by using large, heterogeneous and incongruent datasets; however there are significant technical, social, regulatory, and institutional barriers that need to be overcome to ensure the power of Big Data overcomes these detrimental factors.ConclusionsPragmatic policies that demand extensive sharing of data, promotion of data fusion, provenance, interoperability and balance security and protection of personal information are critical for the long term impact of translational Big Data analytics."
+        },
+        {
+          "rank": 6,
+          "score": 0.4697946310043335,
+          "doc_id": "11",
+          "text": "Abstract The use of various forms of big data have revolutionised scientific research. This includes research in the field of genetics in areas ranging from medical research to anthropology. Developments in this area have inter alia been characterised by the ability to sequence genome wide sequences (GWS) cheaply, the ability to share and combine with other forms of complimentary data and ever more powerful processing techniques that have become possible given tremendous increases in computing power. Given that many if not most of these techniques will make use of personal data it is necessary to take into account data protection law. This article looks at challenges for researchers that will be presented by the EU's General Data Protection Regulation, which will be in effect from May 2018. The very nature of research with big data in general and genetic data in particular means that in many instances compliance will be onerous, whilst in others it may even be difficult to envisage how compliance may be possible. Compliance concerns include issues relating to &lsquo;purpose limitation&rsquo;, &lsquo;data minimisation&rsquo; and &lsquo;storage limitation&rsquo;. Other requirements, including the need to facilitate data subject rights and potentially conduct a Data Protection Impact Assessment (DPIA) may provide further complications for researchers. Further critical issues to consider include the choice of legal base: whether to opt for what is often seen as the &lsquo;default option&rsquo; (i.e. consent) or to process under the so called &lsquo;scientific research exception&rsquo;. Each presents its own challenges (including the likely need to gain ethical approval) and opportunities that will have to be considered according to the particular context in question."
+        },
+        {
+          "rank": 7,
+          "score": 0.4566992521286011,
+          "doc_id": "196",
+          "text": "AbstractPurposeContemporary big data initiatives in health care will benefit from greater integration with nursing science and nursing practice; in turn, nursing science and nursing practice has much to gain from the data science initiatives. Big data arises secondary to scholarly inquiry (e.g., &#8208;omics) and everyday observations like cardiac flow sensors or Twitter feeds. Data science methods that are emerging ensure that these data be leveraged to improve patient care.Organizing ConstructBig data encompasses data that exceed human comprehension, that exist at a volume unmanageable by standard computer systems, that arrive at a velocity not under the control of the investigator and possess a level of imprecision not found in traditional inquiry. Data science methods are emerging to manage and gain insights from big data.MethodsThe primary methods included investigation of emerging federal big data initiatives, and exploration of exemplars from nursing informatics research to benchmark where nursing is already poised to participate in the big data revolution. We provide observations and reflections on experiences in the emerging big data initiatives.ConclusionsExisting approaches to large data set analysis provide a necessary but not sufficient foundation for nursing to participate in the big data revolution. Nursing's Social Policy Statement guides a principled, ethical perspective on big data and data science. There are implications for basic and advanced practice clinical nurses in practice, for the nurse scientist who collaborates with data scientists, and for the nurse data scientist.Clinical RelevanceBig data and data science has the potential to provide greater richness in understanding patient phenomena and in tailoring interventional strategies that are personalized to the patient."
+        },
+        {
+          "rank": 8,
+          "score": 0.4563911557197571,
+          "doc_id": "140",
+          "text": "Macromolecular Big Data provide numerous challenges and a number of initiatives that are starting to overcome these issues are discussed."
+        },
+        {
+          "rank": 9,
+          "score": 0.45622485876083374,
+          "doc_id": "208",
+          "text": "Medicare&#x2019;s release of practitioner payments highlights the strengths and weaknesses of digging into big data."
+        },
+        {
+          "rank": 10,
+          "score": 0.4557824730873108,
+          "doc_id": "76",
+          "text": "The idea that the purely phenomenological knowledge that we can extract by analyzing large amounts of data can be useful in healthcare seems to contradict the desire of VPH researchers to build detailed mechanistic models for individual patients. But in practice no model is ever entirely phenomenological or entirely mechanistic. We propose in this position paper that big data analytics can be successfully combined with VPH technologies to produce robust and effective in silico medicine solutions. In order to do this, big data technologies must be further developed to cope with some specific requirements that emerge from this application. Such requirements are: working with sensitive data; analytics of complex and heterogeneous data spaces, including nontextual information; distributed data management under security and performance constraints; specialized analytics to integrate bioinformatics and systems biology information with clinical observations at tissue, organ and organisms scales; and specialized analytics to define the &#x201C;physiological envelope&#x201D; during the daily life of each patient. These domain-specific requirements suggest a need for targeted funding, in which big data technologies for in silico medicine becomes the research priority."
+        }
+      ]
+    },
+    {
+      "query": "How do machine learning and deep learning approaches help overcome these challenges in pharmacogenomics research for antidepressant treatment prediction?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7496212124824524,
+          "doc_id": "53",
+          "text": "A growing body of evidence now proposes that machine learning and deep learning techniques can serve as a vital foundation for the pharmacogenomics of antidepressant treatments in patients with major depressive disorder (MDD).In this review, we focus on the latest developments for pharmacogenomics research using machine learning and deep learning approaches together with neuroimaging and multi-omics data. First, we review relevant pharmacogenomics studies that leverage numerous machine learning and deep learning techniques to determine treatment prediction and potential biomarkers for antidepressant treatments in MDD. In addition, we depict some neuroimaging pharmacogenomics studies that utilize various machine learning approaches to predict antidepressant treatment outcomes in MDD based on the integration of research on pharmacogenomics and neuroimaging. Moreover, we summarize the limitations in regard to the past pharmacogenomics studies of antidepressant treatments in MDD. Finally, we outline a discussion of challenges and directions for future research. In light of latest advancements in neuroimaging and multi-omics, various genomic variants and biomarkers associated with antidepressant treatments in MDD are being identified in pharmacogenomics research by employing machine learning and deep learning algorithms."
+        },
+        {
+          "rank": 2,
+          "score": 0.5555371642112732,
+          "doc_id": "142",
+          "text": "AbstractBackgroundIncreasing data volumes in oncology pose new challenges for data analysis. Machine learning, a branch of artificial intelligence, can identify patterns even in very large and less structured datasets.ObjectiveThis article provides an overview of the possible applications for machine learning in oncology. Furthermore, the potential of machine learning in patient-reported outcome (PRO) research is discussed.Materials and methodsWe conducted a selective literature search (PubMed, MEDLINE, IEEE Xplore) and discuss current research.ResultsThere are three primary applications for machine learning in oncology: (1) cancer detection or classification; (2) overall survival prediction or risk assessment; and (3) supporting therapy decision-making and prediction of treatment response. Generally, machine learning approaches in oncology PRO research are scarce and few studies integrate PRO data into machine learning models.DiscussionMachine learning is a promising area of oncology, but few models have been transferred into clinical practice. The promise of personalized cancer therapy and shared decision-making through machine learning has yet to be realized. As an equally important emerging research area in oncology, PROs should also be incorporated into machine learning approaches. To gather the data necessary for this, broad implementation of PRO assessments in clinical practice, as well as the harmonization of existing datasets, is suggested."
+        },
+        {
+          "rank": 3,
+          "score": 0.5537837743759155,
+          "doc_id": "102",
+          "text": "Artificial intelligence and deep learning algorithms are infiltrating various fields of medicine and dentistry. The purpose of the current study was to review literatures applying deep learning algorithms to the dentistry and implantology. Electronic literature search through MEDLINE and IEEE Xplore library database was performed at 2019 October by combining free-text terms and entry terms associated with ‘dentistry’ and ‘deep learning’. The searched literature was screened by title/abstract level and full text level. Following data were extracted from the included studies: information of author, publication year, the aim of the study, architecture of deep learning, input data, output data, and performance of the deep learning algorithm in the study. 340 studies were retrieved from the databases and 62 studies were included in the study. Deep learning algorithms were applied to tooth localization and numbering, detection of dental caries/periodontal disease/periapical disease/oral cancerous lesion, localization of cephalometric landmarks, image quality enhancement, prediction and compensation of deformation error in additive manufacturing of prosthesis. Convolutional neural network was used for periapical radiograph, panoramic radiograph, or computed tomography in most of included studies. Deep learning algorithms are expected to help clinicians diagnose and make decisions by extracting dental data, detecting diseases and abnormal lesions, and improving image quality."
+        },
+        {
+          "rank": 4,
+          "score": 0.5335792303085327,
+          "doc_id": "57",
+          "text": "Timely analysis of imaging data is critical for diagnosis and decision-making for proper treatment strategy in the cases of ischemic stroke. Various efforts have been made to develop computer-assisted systems to improve the accuracy of stroke diagnosis and acute stroke triage. The widespread emergence of artificial intelligence technology has been integrated into the field of medicine. Artificial intelligence can play an important role in providing care to patients with stroke. In the past few decades, numerous studies have explored the use of machine learning and deep learning algorithms for application in the management of stroke. In this review, we will start with a brief introduction to machine learning and deep learning and provide clinical applications of machine learning and deep learning in various aspects of stroke management, including rapid diagnosis and improved triage, identifying large vessel occlusion, predicting time from stroke onset, automated ASPECTS (Alberta Stroke Program Early CT Score) measurement, lesion segmentation, and predicting treatment outcome. This work is focused on providing the current application of artificial intelligence techniques in the imaging of ischemic stroke, including MRI and CT."
+        },
+        {
+          "rank": 5,
+          "score": 0.5300588607788086,
+          "doc_id": "42",
+          "text": "In recent years, machine learning algorithms are continuously being used and expanded in various fields, such as facial recognition, signal processing, personal authentication, and stock prediction. In particular, various algorithms, such as deep learning, reinforcement learning, and Q-learning, are continuously being improved. Among these algorithms, the expansion of deep learning is rapidly changing. Nevertheless, machine learning algorithms have not yet been applied in several fields, such as personal authentication technology. This technology is an essential tool in the digital information era, walking recognition technology as promising biometrics, and technology for solving state-space problems. Therefore, algorithm technologies of deep learning, reinforcement learning, and Q-learning, which are typical machine learning algorithms in various fields, such as agricultural technology, personal authentication, wireless network, game, biometric recognition, and image recognition, are being improved and expanded in this paper."
+        },
+        {
+          "rank": 6,
+          "score": 0.5261267423629761,
+          "doc_id": "51",
+          "text": "The aim of this literature review is to investigate current application and diagnostic performance of AI in the dental field, address their limitations, and suggest possible future applications to AI in dentistry. Studies implementing deep learning in the dental field were searched, identified, and extracted from the electronic databases (PubMed, Cochrane Library, Scopus). Full-text articles describing the application of deep learning for the detection, classification, diagnosis, or clinical outcomes of dental problems as well as the study methods and deep learning architecture were included. The initial electronic search identified 1226 titles, and 115 studies were eventually included in the review.According to the evaluation criteria the studies all involved deep learning methods in dentistry (published 2016-2021), and the studies were divided into their scope of each subfield in dentistry; namely, anatomy (n=26), orthodontics (n=12), oral and maxillofacial surgery (n=29), endodontics and conservative dentistry (n=17), periodontology (n=5), implant dentistry (n=7), prosthodontics (n=3), forensic dentistry and identification (n=8), and etc. (n=8). There was a high risk of bias and applicability concerns were detected for most studies, mainly due to data selection and reference test conduct. Application of deep learning proposed in the studies exhibited wide clinical applications in the dental field. However, the evaluation criteria for the efficacy of deep learning have still not been clarified, and further verification of the reliability and applicability of the AI models is essential to implement these models to clinical practice."
+        },
+        {
+          "rank": 7,
+          "score": 0.5123012065887451,
+          "doc_id": "214",
+          "text": "The unlimited possibilities of machine learning have been shown in several successful reports and applications. However, how to make sure that the searched results of a machine learning system are not tampered by anyone and how to prevent the other users in the same network environment from easily getting our private data are two critical research issues when we immerse into powerful machine learning-based systems or applications. This situation is just like other modern information systems that confront security and privacy issues. The development of blockchain provides us an alternative way to address these two issues. That is why some recent studies have attempted to develop machine learning systems with blockchain technologies or to apply machine learning methods to blockchain systems. To show what the combination of blockchain and machine learning is capable of doing, in this paper, we proposed a parallel framework to find out suitable hyperparameters of deep learning in a blockchain environment by using a metaheuristic algorithm. The proposed framework also takes into account the issue of communication cost, by limiting the number of information exchanges between miners and blockchain."
+        },
+        {
+          "rank": 8,
+          "score": 0.5085130333900452,
+          "doc_id": "204",
+          "text": "ABSTRACTRecent advances in technology have allowed us access to a multitude of datasets pertaining to various dimensions in neurology. Together with the enormous opportunities, we also face challenges related to data quality, ethics and intrinsic difficulties related to the application of data science in healthcare. In this article we will describe the main advances in the field of artificial intelligence and Big Data applied to neurology with a focus on neurosciences based on medical images. Real-World Data (RWD) and analytics related to large volumes of information will be described as well as some of the most relevant scientific initiatives at the time of this writing."
+        },
+        {
+          "rank": 9,
+          "score": 0.506494402885437,
+          "doc_id": "147",
+          "text": "The last decade saw an enormous boost in the field of computational topology: methods and concepts from algebraic and differential topology, formerly confined to the realm of pure mathematics, have demonstrated their utility in numerous areas such as computational biology personalised medicine, and time-dependent data analysis, to name a few. The newly-emerging domain comprising topology-based techniques is often referred to as topological data analysis (TDA). Next to their applications in the aforementioned areas, TDA methods have also proven to be effective in supporting, enhancing, and augmenting both classical machine learning and deep learning models. In this paper, we review the state of the art of a nascent field we refer to as &ldquo;topological machine learning,&rdquo; i.e., the successful symbiosis of topology-based methods and machine learning algorithms, such as deep neural networks. We identify common threads, current applications, and future challenges."
+        },
+        {
+          "rank": 10,
+          "score": 0.5052152872085571,
+          "doc_id": "179",
+          "text": "Deep learning, a sub-field of machine learning changing the prospects of artificial intelligence (AI) because of its recent advancements and application in various field. Deep learning deals with algorithms inspired by the structure and function of the brain called artificial neural networks. This works reviews basic architecture and recent advancement of deep structured learning. It also describes contemporary applications of deep structured learning and its advantages over the treditional learning in artificial interlligence. This study is useful for the general readers and students who are in the early stage of deep learning studies."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

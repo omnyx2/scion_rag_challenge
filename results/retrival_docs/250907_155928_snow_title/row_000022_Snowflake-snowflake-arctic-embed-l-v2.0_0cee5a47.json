@@ -1,0 +1,361 @@
+{
+  "id": "row_000022",
+  "model_name": "Snowflake/snowflake-arctic-embed-l-v2.0",
+  "timestamp_kst": "2025-09-07T15:59:32.266653+09:00",
+  "trial_id": "0cee5a47",
+  "queries": [
+    {
+      "query": "Can you provide a concise overview of the comparison between deep learning and deep reinforcement learning for complex image analysis, highlighting their strengths and weaknesses?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.749221920967102,
+          "doc_id": "25",
+          "text": "A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis"
+        },
+        {
+          "rank": 2,
+          "score": 0.749221920967102,
+          "doc_id": "74",
+          "text": "A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis"
+        },
+        {
+          "rank": 3,
+          "score": 0.6473742723464966,
+          "doc_id": "125",
+          "text": "An overview of deep learning techniques"
+        },
+        {
+          "rank": 4,
+          "score": 0.5841832756996155,
+          "doc_id": "155",
+          "text": "Machine Learning Versus Deep Learning Performances on the Sentiment Analysis of Product Reviews"
+        },
+        {
+          "rank": 5,
+          "score": 0.5442101359367371,
+          "doc_id": "104",
+          "text": "Deep learning"
+        },
+        {
+          "rank": 6,
+          "score": 0.5367070436477661,
+          "doc_id": "51",
+          "text": "Deep Learning in Dentistry: A Literature Review"
+        },
+        {
+          "rank": 7,
+          "score": 0.5334821343421936,
+          "doc_id": "152",
+          "text": "Deep Learning in MR Image Processing"
+        },
+        {
+          "rank": 8,
+          "score": 0.5240639448165894,
+          "doc_id": "64",
+          "text": "Deep Learning Research Trend Analysis using Text Mining"
+        },
+        {
+          "rank": 9,
+          "score": 0.5217623710632324,
+          "doc_id": "164",
+          "text": "Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade"
+        },
+        {
+          "rank": 10,
+          "score": 0.5119414925575256,
+          "doc_id": "179",
+          "text": "Deep Structured Learning: Architectures and Applications"
+        }
+      ]
+    },
+    {
+      "query": "What are the strengths of deep learning for complex image analysis?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5863775610923767,
+          "doc_id": "25",
+          "text": "A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis"
+        },
+        {
+          "rank": 2,
+          "score": 0.5863775610923767,
+          "doc_id": "74",
+          "text": "A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis"
+        },
+        {
+          "rank": 3,
+          "score": 0.5571353435516357,
+          "doc_id": "125",
+          "text": "An overview of deep learning techniques"
+        },
+        {
+          "rank": 4,
+          "score": 0.5105463266372681,
+          "doc_id": "104",
+          "text": "Deep learning"
+        },
+        {
+          "rank": 5,
+          "score": 0.4946748614311218,
+          "doc_id": "64",
+          "text": "Deep Learning Research Trend Analysis using Text Mining"
+        },
+        {
+          "rank": 6,
+          "score": 0.4781907796859741,
+          "doc_id": "152",
+          "text": "Deep Learning in MR Image Processing"
+        },
+        {
+          "rank": 7,
+          "score": 0.4687422513961792,
+          "doc_id": "179",
+          "text": "Deep Structured Learning: Architectures and Applications"
+        },
+        {
+          "rank": 8,
+          "score": 0.4608139097690582,
+          "doc_id": "223",
+          "text": "학습전략과 심층학습"
+        },
+        {
+          "rank": 9,
+          "score": 0.45866140723228455,
+          "doc_id": "3",
+          "text": "Deep Learning in der Augenheilkunde"
+        },
+        {
+          "rank": 10,
+          "score": 0.45735371112823486,
+          "doc_id": "155",
+          "text": "Machine Learning Versus Deep Learning Performances on the Sentiment Analysis of Product Reviews"
+        }
+      ]
+    },
+    {
+      "query": "What are the weaknesses of deep learning for complex image analysis?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5854038000106812,
+          "doc_id": "25",
+          "text": "A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis"
+        },
+        {
+          "rank": 2,
+          "score": 0.5854038000106812,
+          "doc_id": "74",
+          "text": "A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis"
+        },
+        {
+          "rank": 3,
+          "score": 0.539060115814209,
+          "doc_id": "125",
+          "text": "An overview of deep learning techniques"
+        },
+        {
+          "rank": 4,
+          "score": 0.48432034254074097,
+          "doc_id": "104",
+          "text": "Deep learning"
+        },
+        {
+          "rank": 5,
+          "score": 0.48065444827079773,
+          "doc_id": "64",
+          "text": "Deep Learning Research Trend Analysis using Text Mining"
+        },
+        {
+          "rank": 6,
+          "score": 0.4661540389060974,
+          "doc_id": "152",
+          "text": "Deep Learning in MR Image Processing"
+        },
+        {
+          "rank": 7,
+          "score": 0.4650576710700989,
+          "doc_id": "155",
+          "text": "Machine Learning Versus Deep Learning Performances on the Sentiment Analysis of Product Reviews"
+        },
+        {
+          "rank": 8,
+          "score": 0.4506562054157257,
+          "doc_id": "62",
+          "text": "Utilization and Analysis of Big-data"
+        },
+        {
+          "rank": 9,
+          "score": 0.4492093026638031,
+          "doc_id": "223",
+          "text": "학습전략과 심층학습"
+        },
+        {
+          "rank": 10,
+          "score": 0.4491277039051056,
+          "doc_id": "3",
+          "text": "Deep Learning in der Augenheilkunde"
+        }
+      ]
+    },
+    {
+      "query": "What are the strengths of deep reinforcement learning for complex image analysis?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 2
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6461151838302612,
+          "doc_id": "25",
+          "text": "A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis"
+        },
+        {
+          "rank": 2,
+          "score": 0.6461151838302612,
+          "doc_id": "74",
+          "text": "A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis"
+        },
+        {
+          "rank": 3,
+          "score": 0.5600737929344177,
+          "doc_id": "125",
+          "text": "An overview of deep learning techniques"
+        },
+        {
+          "rank": 4,
+          "score": 0.512782871723175,
+          "doc_id": "104",
+          "text": "Deep learning"
+        },
+        {
+          "rank": 5,
+          "score": 0.49609166383743286,
+          "doc_id": "64",
+          "text": "Deep Learning Research Trend Analysis using Text Mining"
+        },
+        {
+          "rank": 6,
+          "score": 0.4951496422290802,
+          "doc_id": "152",
+          "text": "Deep Learning in MR Image Processing"
+        },
+        {
+          "rank": 7,
+          "score": 0.4859815239906311,
+          "doc_id": "179",
+          "text": "Deep Structured Learning: Architectures and Applications"
+        },
+        {
+          "rank": 8,
+          "score": 0.4785080850124359,
+          "doc_id": "223",
+          "text": "학습전략과 심층학습"
+        },
+        {
+          "rank": 9,
+          "score": 0.45972609519958496,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence"
+        },
+        {
+          "rank": 10,
+          "score": 0.45862194895744324,
+          "doc_id": "42",
+          "text": "Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning"
+        }
+      ]
+    },
+    {
+      "query": "What are the weaknesses of deep reinforcement learning for complex image analysis?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 3
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6384156346321106,
+          "doc_id": "25",
+          "text": "A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis"
+        },
+        {
+          "rank": 2,
+          "score": 0.6384156346321106,
+          "doc_id": "74",
+          "text": "A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis"
+        },
+        {
+          "rank": 3,
+          "score": 0.5372506380081177,
+          "doc_id": "125",
+          "text": "An overview of deep learning techniques"
+        },
+        {
+          "rank": 4,
+          "score": 0.484188973903656,
+          "doc_id": "104",
+          "text": "Deep learning"
+        },
+        {
+          "rank": 5,
+          "score": 0.4789852201938629,
+          "doc_id": "152",
+          "text": "Deep Learning in MR Image Processing"
+        },
+        {
+          "rank": 6,
+          "score": 0.47884178161621094,
+          "doc_id": "64",
+          "text": "Deep Learning Research Trend Analysis using Text Mining"
+        },
+        {
+          "rank": 7,
+          "score": 0.4638846218585968,
+          "doc_id": "223",
+          "text": "학습전략과 심층학습"
+        },
+        {
+          "rank": 8,
+          "score": 0.4635311961174011,
+          "doc_id": "155",
+          "text": "Machine Learning Versus Deep Learning Performances on the Sentiment Analysis of Product Reviews"
+        },
+        {
+          "rank": 9,
+          "score": 0.44506773352622986,
+          "doc_id": "179",
+          "text": "Deep Structured Learning: Architectures and Applications"
+        },
+        {
+          "rank": 10,
+          "score": 0.4423670172691345,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

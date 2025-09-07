@@ -1,0 +1,221 @@
+{
+  "id": "row_000007",
+  "model_name": "Snowflake/snowflake-arctic-embed-l-v2.0",
+  "timestamp_kst": "2025-09-07T15:59:29.915097+09:00",
+  "trial_id": "d0d920c8",
+  "queries": [
+    {
+      "query": "생성형 AI 콘텐츠의 가치 유형별 소비자 인식과 AI 사용 공개에 대한 인식 특성을 어떻게 요약할 수 있나요?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6655157208442688,
+          "doc_id": "68",
+          "text": "인공지능 생성 콘텐츠(Artificial Intelligence Generated Content)와 인공지능 사용 공개(Artificial Intelligence Disclaimer)에 대한 소비자 인식 연구: 콘텐츠 가치와 형식을 중심으로"
+        },
+        {
+          "rank": 2,
+          "score": 0.4425794184207916,
+          "doc_id": "183",
+          "text": "구성적 인공지능"
+        },
+        {
+          "rank": 3,
+          "score": 0.41628164052963257,
+          "doc_id": "77",
+          "text": "Understanding the Structure of Artificial Intelligence Conscience"
+        },
+        {
+          "rank": 4,
+          "score": 0.4101002514362335,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence"
+        },
+        {
+          "rank": 5,
+          "score": 0.4090968370437622,
+          "doc_id": "181",
+          "text": "초등 인공지능 교육을 위한 설명 가능한 인공지능의 교육적 의미 연구"
+        },
+        {
+          "rank": 6,
+          "score": 0.4074645936489105,
+          "doc_id": "111",
+          "text": "Artificial Intelligence for Artificial Artificial Intelligence"
+        },
+        {
+          "rank": 7,
+          "score": 0.4074645936489105,
+          "doc_id": "82",
+          "text": "Artificial Intelligence for Artificial Artificial Intelligence"
+        },
+        {
+          "rank": 8,
+          "score": 0.40031805634498596,
+          "doc_id": "224",
+          "text": "Trends of Artificial Intelligence Product Certification Programs"
+        },
+        {
+          "rank": 9,
+          "score": 0.3999974727630615,
+          "doc_id": "155",
+          "text": "Machine Learning Versus Deep Learning Performances on the Sentiment Analysis of Product Reviews"
+        },
+        {
+          "rank": 10,
+          "score": 0.3990553021430969,
+          "doc_id": "60",
+          "text": "Artificial intelligence"
+        }
+      ]
+    },
+    {
+      "query": "생성형 AI 콘텐츠의 가치 유형별 소비자 인식은 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5802927017211914,
+          "doc_id": "68",
+          "text": "인공지능 생성 콘텐츠(Artificial Intelligence Generated Content)와 인공지능 사용 공개(Artificial Intelligence Disclaimer)에 대한 소비자 인식 연구: 콘텐츠 가치와 형식을 중심으로"
+        },
+        {
+          "rank": 2,
+          "score": 0.44881361722946167,
+          "doc_id": "183",
+          "text": "구성적 인공지능"
+        },
+        {
+          "rank": 3,
+          "score": 0.40816712379455566,
+          "doc_id": "181",
+          "text": "초등 인공지능 교육을 위한 설명 가능한 인공지능의 교육적 의미 연구"
+        },
+        {
+          "rank": 4,
+          "score": 0.40228915214538574,
+          "doc_id": "137",
+          "text": "What's Humanity for Artificial Intelligence Jindo Intelligence &#x2014; Dawning of Artificial Intelligence &#x2014;"
+        },
+        {
+          "rank": 5,
+          "score": 0.39913469552993774,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence"
+        },
+        {
+          "rank": 6,
+          "score": 0.3936029076576233,
+          "doc_id": "60",
+          "text": "Artificial intelligence"
+        },
+        {
+          "rank": 7,
+          "score": 0.3936029076576233,
+          "doc_id": "106",
+          "text": "Artificial intelligence"
+        },
+        {
+          "rank": 8,
+          "score": 0.3936029076576233,
+          "doc_id": "132",
+          "text": "Artificial intelligence"
+        },
+        {
+          "rank": 9,
+          "score": 0.38510286808013916,
+          "doc_id": "155",
+          "text": "Machine Learning Versus Deep Learning Performances on the Sentiment Analysis of Product Reviews"
+        },
+        {
+          "rank": 10,
+          "score": 0.3807544708251953,
+          "doc_id": "151",
+          "text": "마음,지능,인공지능"
+        }
+      ]
+    },
+    {
+      "query": "AI 사용 공개에 대한 소비자 인식 특성은 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5202163457870483,
+          "doc_id": "68",
+          "text": "인공지능 생성 콘텐츠(Artificial Intelligence Generated Content)와 인공지능 사용 공개(Artificial Intelligence Disclaimer)에 대한 소비자 인식 연구: 콘텐츠 가치와 형식을 중심으로"
+        },
+        {
+          "rank": 2,
+          "score": 0.42088234424591064,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence"
+        },
+        {
+          "rank": 3,
+          "score": 0.41093504428863525,
+          "doc_id": "181",
+          "text": "초등 인공지능 교육을 위한 설명 가능한 인공지능의 교육적 의미 연구"
+        },
+        {
+          "rank": 4,
+          "score": 0.4033813774585724,
+          "doc_id": "183",
+          "text": "구성적 인공지능"
+        },
+        {
+          "rank": 5,
+          "score": 0.39417213201522827,
+          "doc_id": "224",
+          "text": "Trends of Artificial Intelligence Product Certification Programs"
+        },
+        {
+          "rank": 6,
+          "score": 0.3882446587085724,
+          "doc_id": "62",
+          "text": "Utilization and Analysis of Big-data"
+        },
+        {
+          "rank": 7,
+          "score": 0.38541924953460693,
+          "doc_id": "106",
+          "text": "Artificial intelligence"
+        },
+        {
+          "rank": 8,
+          "score": 0.38541924953460693,
+          "doc_id": "60",
+          "text": "Artificial intelligence"
+        },
+        {
+          "rank": 9,
+          "score": 0.38541924953460693,
+          "doc_id": "132",
+          "text": "Artificial intelligence"
+        },
+        {
+          "rank": 10,
+          "score": 0.3850119113922119,
+          "doc_id": "159",
+          "text": "Artificial Intelligence in a historical perspective"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "id": "row_000013",
+  "model_name": "Alibaba-NLP/gte-multilingual-base",
+  "timestamp_kst": "2025-09-07T17:17:03.927084+09:00",
+  "trial_id": "7eb6de1c",
+  "queries": [
+    {
+      "query": "What is the primary argument regarding the environmental impact of Big Data initiatives and the ethical considerations tied to data’s material presence?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.8333943486213684,
+          "doc_id": "210",
+          "text": "Big Data, Big Waste? A Reflection on the Environmental Sustainability of Big Data Initiatives Big Data, Big Waste? A Reflection on the Environmental Sustainability of Big Data Initiatives Big Data, Big Waste? A Reflection on the Environmental Sustainability of Big Data Initiatives This paper addresses a problem that has so far been neglected by scholars investigating the ethics of Big Data and policy makers: that is the ethical implications of Big Data initiatives&rsquo; environmental impact. Building on literature in environmental studies, cultural studies and Science and Technology Studies, the article draws attention to the physical presence of data, the material configuration of digital service, and the space occupied by data. It then explains how this material and situated character of data raises questions concerning the ethics of the increasingly fashionable Big Data discourses. It argues that attention should be paid to (1) the vocabulary currently used when discussing the governance of data initiatives; (2) the internal tension between current data initiatives and environmental policies; (3) issues of fair distribution. The article explains how taking into account these aspects would allow for a more responsible behaviour in the context of data storage and production."
+        },
+        {
+          "rank": 2,
+          "score": 0.7787073850631714,
+          "doc_id": "99",
+          "text": "Big Data ethics Big Data ethics Big Data ethics The speed of development in Big Data and associated phenomena, such as social media, has surpassed the capacity of the average consumer to understand his or her actions and their knock-on effects. We are moving towards changes in how ethics has to be perceived: away from individual decisions with specific and knowable outcomes, towards actions by many unaware that they may have taken actions with unintended consequences for anyone. Responses will require a rethinking of ethical choices, the lack thereof and how this will guide scientists, governments, and corporate agencies in handling Big Data. This essay elaborates on the ways Big Data impacts on ethical conceptions."
+        },
+        {
+          "rank": 3,
+          "score": 0.6709418296813965,
+          "doc_id": "58",
+          "text": "Why Big Data = Big Deal Why Big Data = Big Deal Why Big Data = Big Deal 없음"
+        },
+        {
+          "rank": 4,
+          "score": 0.6661916971206665,
+          "doc_id": "124",
+          "text": "Big Data in Building Energy Efficiency: Understanding of Big Data and Main Challenges Big Data in Building Energy Efficiency: Understanding of Big Data and Main Challenges Big Data in Building Energy Efficiency: Understanding of Big Data and Main Challenges Data generation has increased drastically over the past few years. Data management has also grown in importance because extracting the significant value out of a huge pile of raw data is of prime important thing to make different decisions. One of the important sectors nowadays is construction sector, especially building energy efficiency field. Collecting big amount of data, using different kinds of big data analysis can help to improve construction process from the energy efficiency perspective. This article reviews the understanding of Big Data, methods used for Big Data analysis and the main problems with Big Data in the field of energy."
+        },
+        {
+          "rank": 5,
+          "score": 0.6501655578613281,
+          "doc_id": "171",
+          "text": "Protecting Privacy in Big Data Protecting Privacy in Big Data Protecting Privacy in Big Data In an age of big data, privacy is more essential than ever before, but if we are to protect it effectively, while continuing to enjoy the benefits that big data is already making possible, we need to evolve better, faster, and more scalable mechanisms.The following are the four core elements critical to effective governance of big data.First, a transformation of the current approach to a risk management approach that places more responsibility for data stewardship, and liability for reasonably foreseeable harms, on the users of data rather than using notice and consent to shift the burden to individuals seems critical. This is because a continuing broad reliance on notice and choice at time of collection both under-protects privacy and seriously interferes with—and raises the cost of— subsequent beneficial uses of data.Second, data protection should focus more on uses of big data as opposed to the mere collection or retention of data or the purposes for which data were originally collected. One key reason why a more use-focused approach is necessary to capture the value of big data is that the analysis of big data doesn’t always start with a question or hypothesis, but rather may reveal insights that were never anticipated. As a result, data protection based on a notice specifying intended uses of data and consent for collection based on that notice can result in blocking socially valuable uses of data, lead to meaninglessly broad notices, or require exceptions to the terms under which the individual consented. If privacy protection is instead based on a risk analysis of a proposed use, then it is possible to achieve an optimum benefit from the use of the data and optimum protection for data fine-tuned for each intended use.Third, a risk management approach guided by a broad framework of cognizable harms identified through a transparent, inclusive process is critical to ensuring that individuals are protected and enhancing predictability, accountability, and efficiency.Fourth, a risk management approach that provides meaningful transparency and redress, together with effective enforcement, not only provide remedies for current harms, but also help to prevent future ones.Moreover, it is an essential requirement for responsible use of big data.There are likely many other measures that also will be useful, but these four are critical to protecting privacy while unlocking the potential of big data."
+        },
+        {
+          "rank": 6,
+          "score": 0.6473199129104614,
+          "doc_id": "120",
+          "text": "Big Data Key Challenges Big Data Key Challenges Big Data Key Challenges The big data term refers to the great volume of data and complicated data structure with difficulties in collecting, storing, processing, and analyzing these data. Big data analytics refers to the operation of disclosing hidden patterns through big data. This information and data set cloud to be useful and provide advanced services. However, analyzing and processing this information could cause revealing and disclosing some sensitive and personal information when the information is contained in applications that are correlated to users such as location-based services, but concerns are diminished if the applications are correlated to general information such as scientific results. In this work, a survey has been done over security and privacy challenges and approaches in big data. The challenges included here are in each of the following areas: privacy, access control, encryption, and authentication in big data. Likewise, the approaches presented here are privacy-preserving approaches in big data, access control approaches in big data, encryption approaches in big data, and authentication approaches in big data."
+        },
+        {
+          "rank": 7,
+          "score": 0.6466253995895386,
+          "doc_id": "62",
+          "text": "Utilization and Analysis of Big-data Utilization and Analysis of Big-data Utilization and Analysis of Big-data This study reviews the analysis and characteristics of databases from big data and then establishes representational strategy. Thus, analysis has continued for a long time in the quantity and quality of data, and there are changes in the location of data in the social sciences, past trends and the emergence of big data. The introduction of big data is presented as a prototype of new social science and is a useful practical example that empirically shows the need, basis, and direction of analysis through trend prediction services. Big data provides a future perspective as an important foundation for social change within the framework of basic social sciences."
+        },
+        {
+          "rank": 8,
+          "score": 0.6447254419326782,
+          "doc_id": "173",
+          "text": "&#x201e;Massendinghaltung“ oder &#x201e;Big Data“? &#x201e;Massendinghaltung“ oder &#x201e;Big Data“? &#x201e;Massendinghaltung“ oder &#x201e;Big Data“? SummaryThe tenor of the conference &#x201e;Massendinghaltung in der Arch&auml;ologie&ldquo; held in Berlin from 23rd to 25th May 2013 shows that many archaeologists, especially those with a theoretical orientation, are very negative towards large collections of objects and their evaluation. This was taken as an opportunity to present five examples from the Roman Period, based on the author&rsquo;s own data collection, which cannot be meaningfully processed without large collections of material. First of all, there are copper-plated iron objects, in which two already known belt boxes are joined by an Almgren group VII-fibula and a small bucket-shaped necklace pendant. They show that copper plating was also possible in germanic fine forges. A discovery of petrified sea urchins (echinites) shows that such quite rare find objects have not been worked on so far, as they seem to be of little value and the research effort for these objects might be considered too high. As a third example, vessels with button-handels (Knopfhenkelgef&auml;ße) were selectet. A type of vessel that has already been worked on. With the help of a database-supported recording of meanwhile more than 28,500 grave inventories as well as further literature research, the existing find image can be checked, supplemented and, if necessary, extended. As a fourth example the frequently occurring amber finds are presented. Apart from Tempelmann-M&aogon;czy&nacute;skas&rsquo;s work on pearls, no attempt has yet been made to deal with this object category on a supra-regional level. Due to their work, one had a rather tolerable impression of the occurrence of this find category, especially concerning Germany. The repeatedly expressed opinion that amber could not be found in cremations, because it would have been burnt, is a topos. A clear focus in the Elbe-Saale area shows a region that either appears early as a customer or even as a middleman for the period from the 3rd century onwards. Finally, thanks to a large number of settlement and especially cemetery publications, statistical analyses of population sizes and demographic changes are now possible, as can be illustrated by the two examples of eastern Holstein and the Altmark.De nombreuses publications de recueils de donn&eacute;es sont d&eacute;sormais omnipr&eacute;sentes dans l&rsquo;arch&eacute;ologie. Outre les mus&eacute;es qui rendent accessibles au public une partie de leurs collections, de nombreuses bases de donn&eacute;es sp&eacute;cialis&eacute;es, par exemple sur les terra sigillata ou les pi&egrave;ces de monnaie, sont &eacute;galement disponibles en ligne. Dans certains pays, comme la Norv&egrave;ge, une grande partie des d&eacute;couvertes arch&eacute;ologiques sont syst&eacute;matiquement publi&eacute;es dans une base de donn&eacute;es en ligne pour une exploitation ult&eacute;rieure.L&rsquo;&eacute;valuation automatis&eacute;e de grands ensembles de donn&eacute;es non tri&eacute;es, qui est associ&eacute;e &agrave; l&rsquo;expression &#x201e;Big data&ldquo;, a d&eacute;j&agrave; &eacute;t&eacute; utilis&eacute;e de mani&egrave;re judicieuse &agrave; plusieurs reprises, comme le montre le projet NEOMINE ou le projet &#x201e;ancient places&ldquo; d&rsquo;Alphabet Inc. Un rejet global de grandes collections d&rsquo;objets et de donn&eacute;es reste incompr&eacute;hensible au vu des possibilit&eacute;s et surtout des m&eacute;thodes d&eacute;j&agrave; &eacute;tablies dans les sciences naturelles et devrait &ecirc;tre reconsid&eacute;r&eacute; en faveur d&rsquo;une vision plus objective et, bien s&ucirc;r, non d&eacute;pourvue d&rsquo;esprit critique des nouvelles m&eacute;thodes de recherche."
+        },
+        {
+          "rank": 9,
+          "score": 0.6438441276550293,
+          "doc_id": "189",
+          "text": "Big data? Big deal: Searching for big data’s performance effects in HR Big data? Big deal: Searching for big data’s performance effects in HR Big data? Big deal: Searching for big data’s performance effects in HR Abstract Big data continues to gather increasing interest in the business press as well as within the management literature. While this interest has spilled over into the realm of human resources (HR) management, solid evidence of its positive performance impacts is lacking. I explore three possibilities for this lack of evidence: (1) HR possesses big data but largely lacks the ability to use it; (2) HR does not actually possess big data; and (3) big data is generating value for HR and positively affects organizational performance, but the winners in the race to utilize big data in HR are not publicizing their successes. Following this, I discuss current forms of big data implementation, highlighting an evolutionary progression of implementations in various settings and emphasizing the importance of balancing deductive with inductive analytical approaches. Finally, I discuss conditions under which big data may hold greater value for the HR function, and I suggest ways managers and organizations can make the most of big data."
+        },
+        {
+          "rank": 10,
+          "score": 0.6405584216117859,
+          "doc_id": "199",
+          "text": "Sharing big biomedical data Sharing big biomedical data Sharing big biomedical data BackgroundThe promise of Big Biomedical Data may be offset by the enormous challenges in handling, analyzing, and sharing it. In this paper, we provide a framework for developing practical and reasonable data sharing policies that incorporate the sociological, financial, technical and scientific requirements of a sustainable Big Data dependent scientific community.FindingsMany biomedical and healthcare studies may be significantly impacted by using large, heterogeneous and incongruent datasets; however there are significant technical, social, regulatory, and institutional barriers that need to be overcome to ensure the power of Big Data overcomes these detrimental factors.ConclusionsPragmatic policies that demand extensive sharing of data, promotion of data fusion, provenance, interoperability and balance security and protection of personal information are critical for the long term impact of translational Big Data analytics."
+        }
+      ]
+    },
+    {
+      "query": "What is the primary argument regarding the environmental impact of Big Data initiatives?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7700607776641846,
+          "doc_id": "210",
+          "text": "Big Data, Big Waste? A Reflection on the Environmental Sustainability of Big Data Initiatives Big Data, Big Waste? A Reflection on the Environmental Sustainability of Big Data Initiatives Big Data, Big Waste? A Reflection on the Environmental Sustainability of Big Data Initiatives This paper addresses a problem that has so far been neglected by scholars investigating the ethics of Big Data and policy makers: that is the ethical implications of Big Data initiatives&rsquo; environmental impact. Building on literature in environmental studies, cultural studies and Science and Technology Studies, the article draws attention to the physical presence of data, the material configuration of digital service, and the space occupied by data. It then explains how this material and situated character of data raises questions concerning the ethics of the increasingly fashionable Big Data discourses. It argues that attention should be paid to (1) the vocabulary currently used when discussing the governance of data initiatives; (2) the internal tension between current data initiatives and environmental policies; (3) issues of fair distribution. The article explains how taking into account these aspects would allow for a more responsible behaviour in the context of data storage and production."
+        },
+        {
+          "rank": 2,
+          "score": 0.7242238521575928,
+          "doc_id": "58",
+          "text": "Why Big Data = Big Deal Why Big Data = Big Deal Why Big Data = Big Deal 없음"
+        },
+        {
+          "rank": 3,
+          "score": 0.7122647166252136,
+          "doc_id": "99",
+          "text": "Big Data ethics Big Data ethics Big Data ethics The speed of development in Big Data and associated phenomena, such as social media, has surpassed the capacity of the average consumer to understand his or her actions and their knock-on effects. We are moving towards changes in how ethics has to be perceived: away from individual decisions with specific and knowable outcomes, towards actions by many unaware that they may have taken actions with unintended consequences for anyone. Responses will require a rethinking of ethical choices, the lack thereof and how this will guide scientists, governments, and corporate agencies in handling Big Data. This essay elaborates on the ways Big Data impacts on ethical conceptions."
+        },
+        {
+          "rank": 4,
+          "score": 0.700782060623169,
+          "doc_id": "124",
+          "text": "Big Data in Building Energy Efficiency: Understanding of Big Data and Main Challenges Big Data in Building Energy Efficiency: Understanding of Big Data and Main Challenges Big Data in Building Energy Efficiency: Understanding of Big Data and Main Challenges Data generation has increased drastically over the past few years. Data management has also grown in importance because extracting the significant value out of a huge pile of raw data is of prime important thing to make different decisions. One of the important sectors nowadays is construction sector, especially building energy efficiency field. Collecting big amount of data, using different kinds of big data analysis can help to improve construction process from the energy efficiency perspective. This article reviews the understanding of Big Data, methods used for Big Data analysis and the main problems with Big Data in the field of energy."
+        },
+        {
+          "rank": 5,
+          "score": 0.6733376979827881,
+          "doc_id": "23",
+          "text": "Big data, Big bang? Big data, Big bang? Big data, Big bang? 없음"
+        },
+        {
+          "rank": 6,
+          "score": 0.6675814390182495,
+          "doc_id": "62",
+          "text": "Utilization and Analysis of Big-data Utilization and Analysis of Big-data Utilization and Analysis of Big-data This study reviews the analysis and characteristics of databases from big data and then establishes representational strategy. Thus, analysis has continued for a long time in the quantity and quality of data, and there are changes in the location of data in the social sciences, past trends and the emergence of big data. The introduction of big data is presented as a prototype of new social science and is a useful practical example that empirically shows the need, basis, and direction of analysis through trend prediction services. Big data provides a future perspective as an important foundation for social change within the framework of basic social sciences."
+        },
+        {
+          "rank": 7,
+          "score": 0.6563465595245361,
+          "doc_id": "158",
+          "text": "Big business with Big Data Big Business mit Big Data Big business with Big Data Big Business mit Big Data Big business with Big Data Big Business mit Big Data Big business with Big Data Big Business mit Big Data"
+        },
+        {
+          "rank": 8,
+          "score": 0.6527894735336304,
+          "doc_id": "189",
+          "text": "Big data? Big deal: Searching for big data’s performance effects in HR Big data? Big deal: Searching for big data’s performance effects in HR Big data? Big deal: Searching for big data’s performance effects in HR Abstract Big data continues to gather increasing interest in the business press as well as within the management literature. While this interest has spilled over into the realm of human resources (HR) management, solid evidence of its positive performance impacts is lacking. I explore three possibilities for this lack of evidence: (1) HR possesses big data but largely lacks the ability to use it; (2) HR does not actually possess big data; and (3) big data is generating value for HR and positively affects organizational performance, but the winners in the race to utilize big data in HR are not publicizing their successes. Following this, I discuss current forms of big data implementation, highlighting an evolutionary progression of implementations in various settings and emphasizing the importance of balancing deductive with inductive analytical approaches. Finally, I discuss conditions under which big data may hold greater value for the HR function, and I suggest ways managers and organizations can make the most of big data."
+        },
+        {
+          "rank": 9,
+          "score": 0.6524155139923096,
+          "doc_id": "65",
+          "text": "Big Data vs. Privacy Big Data Big Data vs. Privacy Big Data Big Data vs. Privacy Big Data 없음"
+        },
+        {
+          "rank": 10,
+          "score": 0.6510751247406006,
+          "doc_id": "171",
+          "text": "Protecting Privacy in Big Data Protecting Privacy in Big Data Protecting Privacy in Big Data In an age of big data, privacy is more essential than ever before, but if we are to protect it effectively, while continuing to enjoy the benefits that big data is already making possible, we need to evolve better, faster, and more scalable mechanisms.The following are the four core elements critical to effective governance of big data.First, a transformation of the current approach to a risk management approach that places more responsibility for data stewardship, and liability for reasonably foreseeable harms, on the users of data rather than using notice and consent to shift the burden to individuals seems critical. This is because a continuing broad reliance on notice and choice at time of collection both under-protects privacy and seriously interferes with—and raises the cost of— subsequent beneficial uses of data.Second, data protection should focus more on uses of big data as opposed to the mere collection or retention of data or the purposes for which data were originally collected. One key reason why a more use-focused approach is necessary to capture the value of big data is that the analysis of big data doesn’t always start with a question or hypothesis, but rather may reveal insights that were never anticipated. As a result, data protection based on a notice specifying intended uses of data and consent for collection based on that notice can result in blocking socially valuable uses of data, lead to meaninglessly broad notices, or require exceptions to the terms under which the individual consented. If privacy protection is instead based on a risk analysis of a proposed use, then it is possible to achieve an optimum benefit from the use of the data and optimum protection for data fine-tuned for each intended use.Third, a risk management approach guided by a broad framework of cognizable harms identified through a transparent, inclusive process is critical to ensuring that individuals are protected and enhancing predictability, accountability, and efficiency.Fourth, a risk management approach that provides meaningful transparency and redress, together with effective enforcement, not only provide remedies for current harms, but also help to prevent future ones.Moreover, it is an essential requirement for responsible use of big data.There are likely many other measures that also will be useful, but these four are critical to protecting privacy while unlocking the potential of big data."
+        }
+      ]
+    },
+    {
+      "query": "What are the ethical considerations tied to data’s material presence?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7364420294761658,
+          "doc_id": "210",
+          "text": "Big Data, Big Waste? A Reflection on the Environmental Sustainability of Big Data Initiatives Big Data, Big Waste? A Reflection on the Environmental Sustainability of Big Data Initiatives Big Data, Big Waste? A Reflection on the Environmental Sustainability of Big Data Initiatives This paper addresses a problem that has so far been neglected by scholars investigating the ethics of Big Data and policy makers: that is the ethical implications of Big Data initiatives&rsquo; environmental impact. Building on literature in environmental studies, cultural studies and Science and Technology Studies, the article draws attention to the physical presence of data, the material configuration of digital service, and the space occupied by data. It then explains how this material and situated character of data raises questions concerning the ethics of the increasingly fashionable Big Data discourses. It argues that attention should be paid to (1) the vocabulary currently used when discussing the governance of data initiatives; (2) the internal tension between current data initiatives and environmental policies; (3) issues of fair distribution. The article explains how taking into account these aspects would allow for a more responsible behaviour in the context of data storage and production."
+        },
+        {
+          "rank": 2,
+          "score": 0.7098837494850159,
+          "doc_id": "99",
+          "text": "Big Data ethics Big Data ethics Big Data ethics The speed of development in Big Data and associated phenomena, such as social media, has surpassed the capacity of the average consumer to understand his or her actions and their knock-on effects. We are moving towards changes in how ethics has to be perceived: away from individual decisions with specific and knowable outcomes, towards actions by many unaware that they may have taken actions with unintended consequences for anyone. Responses will require a rethinking of ethical choices, the lack thereof and how this will guide scientists, governments, and corporate agencies in handling Big Data. This essay elaborates on the ways Big Data impacts on ethical conceptions."
+        },
+        {
+          "rank": 3,
+          "score": 0.6328856945037842,
+          "doc_id": "173",
+          "text": "&#x201e;Massendinghaltung“ oder &#x201e;Big Data“? &#x201e;Massendinghaltung“ oder &#x201e;Big Data“? &#x201e;Massendinghaltung“ oder &#x201e;Big Data“? SummaryThe tenor of the conference &#x201e;Massendinghaltung in der Arch&auml;ologie&ldquo; held in Berlin from 23rd to 25th May 2013 shows that many archaeologists, especially those with a theoretical orientation, are very negative towards large collections of objects and their evaluation. This was taken as an opportunity to present five examples from the Roman Period, based on the author&rsquo;s own data collection, which cannot be meaningfully processed without large collections of material. First of all, there are copper-plated iron objects, in which two already known belt boxes are joined by an Almgren group VII-fibula and a small bucket-shaped necklace pendant. They show that copper plating was also possible in germanic fine forges. A discovery of petrified sea urchins (echinites) shows that such quite rare find objects have not been worked on so far, as they seem to be of little value and the research effort for these objects might be considered too high. As a third example, vessels with button-handels (Knopfhenkelgef&auml;ße) were selectet. A type of vessel that has already been worked on. With the help of a database-supported recording of meanwhile more than 28,500 grave inventories as well as further literature research, the existing find image can be checked, supplemented and, if necessary, extended. As a fourth example the frequently occurring amber finds are presented. Apart from Tempelmann-M&aogon;czy&nacute;skas&rsquo;s work on pearls, no attempt has yet been made to deal with this object category on a supra-regional level. Due to their work, one had a rather tolerable impression of the occurrence of this find category, especially concerning Germany. The repeatedly expressed opinion that amber could not be found in cremations, because it would have been burnt, is a topos. A clear focus in the Elbe-Saale area shows a region that either appears early as a customer or even as a middleman for the period from the 3rd century onwards. Finally, thanks to a large number of settlement and especially cemetery publications, statistical analyses of population sizes and demographic changes are now possible, as can be illustrated by the two examples of eastern Holstein and the Altmark.De nombreuses publications de recueils de donn&eacute;es sont d&eacute;sormais omnipr&eacute;sentes dans l&rsquo;arch&eacute;ologie. Outre les mus&eacute;es qui rendent accessibles au public une partie de leurs collections, de nombreuses bases de donn&eacute;es sp&eacute;cialis&eacute;es, par exemple sur les terra sigillata ou les pi&egrave;ces de monnaie, sont &eacute;galement disponibles en ligne. Dans certains pays, comme la Norv&egrave;ge, une grande partie des d&eacute;couvertes arch&eacute;ologiques sont syst&eacute;matiquement publi&eacute;es dans une base de donn&eacute;es en ligne pour une exploitation ult&eacute;rieure.L&rsquo;&eacute;valuation automatis&eacute;e de grands ensembles de donn&eacute;es non tri&eacute;es, qui est associ&eacute;e &agrave; l&rsquo;expression &#x201e;Big data&ldquo;, a d&eacute;j&agrave; &eacute;t&eacute; utilis&eacute;e de mani&egrave;re judicieuse &agrave; plusieurs reprises, comme le montre le projet NEOMINE ou le projet &#x201e;ancient places&ldquo; d&rsquo;Alphabet Inc. Un rejet global de grandes collections d&rsquo;objets et de donn&eacute;es reste incompr&eacute;hensible au vu des possibilit&eacute;s et surtout des m&eacute;thodes d&eacute;j&agrave; &eacute;tablies dans les sciences naturelles et devrait &ecirc;tre reconsid&eacute;r&eacute; en faveur d&rsquo;une vision plus objective et, bien s&ucirc;r, non d&eacute;pourvue d&rsquo;esprit critique des nouvelles m&eacute;thodes de recherche."
+        },
+        {
+          "rank": 4,
+          "score": 0.629952609539032,
+          "doc_id": "120",
+          "text": "Big Data Key Challenges Big Data Key Challenges Big Data Key Challenges The big data term refers to the great volume of data and complicated data structure with difficulties in collecting, storing, processing, and analyzing these data. Big data analytics refers to the operation of disclosing hidden patterns through big data. This information and data set cloud to be useful and provide advanced services. However, analyzing and processing this information could cause revealing and disclosing some sensitive and personal information when the information is contained in applications that are correlated to users such as location-based services, but concerns are diminished if the applications are correlated to general information such as scientific results. In this work, a survey has been done over security and privacy challenges and approaches in big data. The challenges included here are in each of the following areas: privacy, access control, encryption, and authentication in big data. Likewise, the approaches presented here are privacy-preserving approaches in big data, access control approaches in big data, encryption approaches in big data, and authentication approaches in big data."
+        },
+        {
+          "rank": 5,
+          "score": 0.6173713207244873,
+          "doc_id": "199",
+          "text": "Sharing big biomedical data Sharing big biomedical data Sharing big biomedical data BackgroundThe promise of Big Biomedical Data may be offset by the enormous challenges in handling, analyzing, and sharing it. In this paper, we provide a framework for developing practical and reasonable data sharing policies that incorporate the sociological, financial, technical and scientific requirements of a sustainable Big Data dependent scientific community.FindingsMany biomedical and healthcare studies may be significantly impacted by using large, heterogeneous and incongruent datasets; however there are significant technical, social, regulatory, and institutional barriers that need to be overcome to ensure the power of Big Data overcomes these detrimental factors.ConclusionsPragmatic policies that demand extensive sharing of data, promotion of data fusion, provenance, interoperability and balance security and protection of personal information are critical for the long term impact of translational Big Data analytics."
+        },
+        {
+          "rank": 6,
+          "score": 0.6095532178878784,
+          "doc_id": "189",
+          "text": "Big data? Big deal: Searching for big data’s performance effects in HR Big data? Big deal: Searching for big data’s performance effects in HR Big data? Big deal: Searching for big data’s performance effects in HR Abstract Big data continues to gather increasing interest in the business press as well as within the management literature. While this interest has spilled over into the realm of human resources (HR) management, solid evidence of its positive performance impacts is lacking. I explore three possibilities for this lack of evidence: (1) HR possesses big data but largely lacks the ability to use it; (2) HR does not actually possess big data; and (3) big data is generating value for HR and positively affects organizational performance, but the winners in the race to utilize big data in HR are not publicizing their successes. Following this, I discuss current forms of big data implementation, highlighting an evolutionary progression of implementations in various settings and emphasizing the importance of balancing deductive with inductive analytical approaches. Finally, I discuss conditions under which big data may hold greater value for the HR function, and I suggest ways managers and organizations can make the most of big data."
+        },
+        {
+          "rank": 7,
+          "score": 0.603635311126709,
+          "doc_id": "196",
+          "text": "Nursing Needs Big Data and Big Data Needs Nursing Nursing Needs Big Data and Big Data Needs Nursing Nursing Needs Big Data and Big Data Needs Nursing AbstractPurposeContemporary big data initiatives in health care will benefit from greater integration with nursing science and nursing practice; in turn, nursing science and nursing practice has much to gain from the data science initiatives. Big data arises secondary to scholarly inquiry (e.g., &#8208;omics) and everyday observations like cardiac flow sensors or Twitter feeds. Data science methods that are emerging ensure that these data be leveraged to improve patient care.Organizing ConstructBig data encompasses data that exceed human comprehension, that exist at a volume unmanageable by standard computer systems, that arrive at a velocity not under the control of the investigator and possess a level of imprecision not found in traditional inquiry. Data science methods are emerging to manage and gain insights from big data.MethodsThe primary methods included investigation of emerging federal big data initiatives, and exploration of exemplars from nursing informatics research to benchmark where nursing is already poised to participate in the big data revolution. We provide observations and reflections on experiences in the emerging big data initiatives.ConclusionsExisting approaches to large data set analysis provide a necessary but not sufficient foundation for nursing to participate in the big data revolution. Nursing's Social Policy Statement guides a principled, ethical perspective on big data and data science. There are implications for basic and advanced practice clinical nurses in practice, for the nurse scientist who collaborates with data scientists, and for the nurse data scientist.Clinical RelevanceBig data and data science has the potential to provide greater richness in understanding patient phenomena and in tailoring interventional strategies that are personalized to the patient."
+        },
+        {
+          "rank": 8,
+          "score": 0.5939323902130127,
+          "doc_id": "68",
+          "text": "인공지능 생성 콘텐츠(Artificial Intelligence Generated Content)와 인공지능 사용 공개(Artificial Intelligence Disclaimer)에 대한 소비자 인식 연구: 콘텐츠 가치와 형식을 중심으로 인공지능 생성 콘텐츠(Artificial Intelligence Generated Content)와 인공지능 사용 공개(Artificial Intelligence Disclaimer)에 대한 소비자 인식 연구: 콘텐츠 가치와 형식을 중심으로 인공지능 생성 콘텐츠(Artificial Intelligence Generated Content)와 인공지능 사용 공개(Artificial Intelligence Disclaimer)에 대한 소비자 인식 연구: 콘텐츠 가치와 형식을 중심으로 최근 생성형 인공지능(Artificial Intelligence)은 다양한 형식의 미디어를 포함하여 자율적으로 콘텐츠를 생성할 수 있는 능력으로 주목받고 있다. 그 잠재력에도 불구하고 AI가 생성한 콘텐츠(AI-Generated Content, AIGC)의 진정성(Authenticity) 이슈가 제기됨에 따라 각국에서 AI 사용과 투명성에 대한 규제가 수립되고 있다. 하지만, AIGC와 AI 사용 공개(AI Disclaimer)에 대한 소비자의 이해라는 근본적인 주제는 여전히 탐색되지 않고 있다. 본 연구는 생성형 AI가 제작한 콘텐츠를 실용적, 쾌락적 가치유형으로 구분하고 각각 글, 사진, 영상의 미디어 형식을 적용한 6가지의 경우에 대한 소비자의 인식을 카노 모형을 통해 분석하였다. 나아가, 도출된 결과를 인지된 진정성과 기만으로 그룹을 구분해 인식의 차이가 이에 따라 드러나는지 추가적으로 살펴보았다. 연구 결과, AI가 생성한 콘텐츠에 대한 소비자 인식은 만족도에 큰 영향을 미치지 않았으나, 뉴스로 대표되는 실용적 콘텐츠에서는 AI 사용에 대한 부정적 인식이 확인되었으며, 특히 뉴스 영상 제작에 있어 부정적 인식이 강하게 드러났다. 반면, 영화와 드라마로 대표되는 쾌락적 콘텐츠에서는 생성형 AI 사용에 대한 인식이 무관심하거나 오히려 긍정적이었다. AI 사용 여부의 공개에 대해서는 콘텐츠 가치유형에 관계없이 지켜야 할 원칙으로 인식되었으나, 실용적 콘텐츠에 대해 그러한 인식이 더 강하게 드러났다. 본 연구는 AI 활용의 투명성과 진정성을 제고하는 방안이 필요함을 시사하며, 향후 AI의 발전과 활용이 소비자 인식에 미치는 영향을 지속적으로 연구할 필요가 있음을 강조한다."
+        },
+        {
+          "rank": 9,
+          "score": 0.5937288403511047,
+          "doc_id": "11",
+          "text": "Big genetic data and its big data protection challenges Big genetic data and its big data protection challenges Big genetic data and its big data protection challenges Abstract The use of various forms of big data have revolutionised scientific research. This includes research in the field of genetics in areas ranging from medical research to anthropology. Developments in this area have inter alia been characterised by the ability to sequence genome wide sequences (GWS) cheaply, the ability to share and combine with other forms of complimentary data and ever more powerful processing techniques that have become possible given tremendous increases in computing power. Given that many if not most of these techniques will make use of personal data it is necessary to take into account data protection law. This article looks at challenges for researchers that will be presented by the EU's General Data Protection Regulation, which will be in effect from May 2018. The very nature of research with big data in general and genetic data in particular means that in many instances compliance will be onerous, whilst in others it may even be difficult to envisage how compliance may be possible. Compliance concerns include issues relating to &lsquo;purpose limitation&rsquo;, &lsquo;data minimisation&rsquo; and &lsquo;storage limitation&rsquo;. Other requirements, including the need to facilitate data subject rights and potentially conduct a Data Protection Impact Assessment (DPIA) may provide further complications for researchers. Further critical issues to consider include the choice of legal base: whether to opt for what is often seen as the &lsquo;default option&rsquo; (i.e. consent) or to process under the so called &lsquo;scientific research exception&rsquo;. Each presents its own challenges (including the likely need to gain ethical approval) and opportunities that will have to be considered according to the particular context in question."
+        },
+        {
+          "rank": 10,
+          "score": 0.5929635763168335,
+          "doc_id": "62",
+          "text": "Utilization and Analysis of Big-data Utilization and Analysis of Big-data Utilization and Analysis of Big-data This study reviews the analysis and characteristics of databases from big data and then establishes representational strategy. Thus, analysis has continued for a long time in the quantity and quality of data, and there are changes in the location of data in the social sciences, past trends and the emergence of big data. The introduction of big data is presented as a prototype of new social science and is a useful practical example that empirically shows the need, basis, and direction of analysis through trend prediction services. Big data provides a future perspective as an important foundation for social change within the framework of basic social sciences."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

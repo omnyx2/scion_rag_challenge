@@ -1,0 +1,221 @@
+{
+  "id": "row_000016",
+  "model_name": "Alibaba-NLP/gte-multilingual-base",
+  "timestamp_kst": "2025-09-07T17:17:04.104678+09:00",
+  "trial_id": "1c032114",
+  "queries": [
+    {
+      "query": "Big Data를 이용한 Warehouse Management System 모델에서 제시된 핵심 개념과 방향을 요약해 주시겠습니까?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7947595715522766,
+          "doc_id": "227",
+          "text": "Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 본 연구는 오늘날 산업 전반적으로 영향을 미치고 있는 디지탈 전환(Digital Transformation)의 기술 환경과 디지탈 전환의 산업적 창고관리 부분의 모델연구가 본 논문의 목적이다. &amp;#xD; &amp;#xD; 디지털 전환은 오랫동안 디지털화와 비슷하거나 또는 디지털 방식으로 저장할 수 있도록 기존 데이터 형태를 전환하는 것과 관련이 있다. 물론 이 점이 중요하긴 하지만, 이전의 디지털화는 최신 디지털 전환의 영역을 포함하지 않았었다.&amp;#xD; &amp;#xD; 특히 이번 연구에서는 Big Data를 중심으로 Warehouse Management System의 방향을 제시 하고자 한다."
+        },
+        {
+          "rank": 2,
+          "score": 0.6728295683860779,
+          "doc_id": "144",
+          "text": "에너지 빅데이터를 수용하는 빅데이터 시스템 개발 에너지 빅데이터를 수용하는 빅데이터 시스템 개발 에너지 빅데이터를 수용하는 빅데이터 시스템 개발 본 논문은 산업 현장과 민간에서 실시간으로 수집되는 에너지 빅데이터를 수용하는 빅데이터 시스템을 제안한다. 구축된 빅데이터 시스템은 하둡(Hadoop) 기반이며, 빅데이터 처리에 있어 인메모리(in-memory) 분산처리 컴퓨팅을 지원하는 스파크(Spark) 프레임워크가 동시에 적용되었다. 본문에서는 지역난방에 사용되는 열에너지 형태의 빅데이터에 초점을 두어, 입출력되는 에너지의 특성을 고려하며 실시간 수집되는 빅데이터를 적재, 관리, 처리 및 분석하는 방법을 다룬다. 이 때, 외부에서 유입되는 빅데이터는 시스템 내부에 설계된 관계형 데이터베이스 스키마에 따라 저장하고 관리되며, 저장된 빅데이터는 설정된 목적에 따라 처리하고 분석된다. 제안된 빅데이터 시스템과 더불어 지역난방과 관련한 복수의 실증현장으로부터 실시간으로 수집되는 열에너지 빅데이터에 대해 시스템이 활용된 사례를 기술한다."
+        },
+        {
+          "rank": 3,
+          "score": 0.6634583473205566,
+          "doc_id": "187",
+          "text": "Big data driven smart energy management: From big data to big insights Big data driven smart energy management: From big data to big insights Big data driven smart energy management: From big data to big insights Abstract Large amounts of data are increasingly accumulated in the energy sector with the continuous application of sensors, wireless transmission, network communication, and cloud computing technologies. To fulfill the potential of energy big data and obtain insights to achieve smart energy management, we present a comprehensive study of big data driven smart energy management. We first discuss the sources and characteristics of energy big data. Also, a process model of big data driven smart energy management is proposed. Then taking smart grid as the research background, we provide a systematic review of big data analytics for smart energy management. It is discussed from four major aspects, namely power generation side management, microgrid and renewable energy management, asset management and collaborative operation, as well as demand side management (DSM). Afterwards, the industrial development of big data-driven smart energy management is analyzed and discussed. Finally, we point out the challenges of big data-driven smart energy management in IT infrastructure, data collection and governance, data integration and sharing, processing and analysis, security and privacy, and professionals."
+        },
+        {
+          "rank": 4,
+          "score": 0.6497384309768677,
+          "doc_id": "86",
+          "text": "Big data monetization throughout Big Data Value Chain: a comprehensive review Big data monetization throughout Big Data Value Chain: a comprehensive review Big data monetization throughout Big Data Value Chain: a comprehensive review AbstractValue Chain has been considered as a key model for managing efficiently value creation processes within organizations. However, with the digitization of the end-to-end processes which began to adopt data as a main source of value, traditional value chain models have become outdated. For this, researchers have developed new value chain models, called Data Value Chains, to carry out data driven organizations. Thereafter, new data value chains called Big Data Value chain have emerged with the emergence of Big Data in order to face new data-related challenges such as high volume, velocity, and variety. These Big Data Value Chains describe the data flow within organizations which rely on Big Data to extract valuable insights. It is a set of ordered steps using Big Data Analytics tools and mainly built for going from data generation to knowledge creation. The advances in Big Data and Big Data Value Chain, using clear processes for aggregation and exploitation of data, have given rise to what is called data monetization. Data monetization concept consists of using data from an organization to generate profit. It may be selling the data directly for cash, or relying on that data to create value indirectly. It is important to mention that the concept of monetizing data is not as new as it looks, but with the era of Big Data and Big Data Value Chain it is becoming attractive. The aim of this paper is to provide a comprehensive review of value creation, data value, and Big Data value chains with their different steps. This literature has led us to construct an end-to-end exhaustive BDVC that regroup most of the addressed phases. Furthermore, we present a possible evolution of that generic BDVC to support Big Data Monetization. For this, we discuss different approaches that enable data monetization throughout data value chains. Finally, we highlight the need to adopt specific data monetization models to suit big data specificities."
+        },
+        {
+          "rank": 5,
+          "score": 0.6452633142471313,
+          "doc_id": "158",
+          "text": "Big business with Big Data Big Business mit Big Data Big business with Big Data Big Business mit Big Data Big business with Big Data Big Business mit Big Data Big business with Big Data Big Business mit Big Data"
+        },
+        {
+          "rank": 6,
+          "score": 0.6415771245956421,
+          "doc_id": "173",
+          "text": "&#x201e;Massendinghaltung“ oder &#x201e;Big Data“? &#x201e;Massendinghaltung“ oder &#x201e;Big Data“? &#x201e;Massendinghaltung“ oder &#x201e;Big Data“? SummaryThe tenor of the conference &#x201e;Massendinghaltung in der Arch&auml;ologie&ldquo; held in Berlin from 23rd to 25th May 2013 shows that many archaeologists, especially those with a theoretical orientation, are very negative towards large collections of objects and their evaluation. This was taken as an opportunity to present five examples from the Roman Period, based on the author&rsquo;s own data collection, which cannot be meaningfully processed without large collections of material. First of all, there are copper-plated iron objects, in which two already known belt boxes are joined by an Almgren group VII-fibula and a small bucket-shaped necklace pendant. They show that copper plating was also possible in germanic fine forges. A discovery of petrified sea urchins (echinites) shows that such quite rare find objects have not been worked on so far, as they seem to be of little value and the research effort for these objects might be considered too high. As a third example, vessels with button-handels (Knopfhenkelgef&auml;ße) were selectet. A type of vessel that has already been worked on. With the help of a database-supported recording of meanwhile more than 28,500 grave inventories as well as further literature research, the existing find image can be checked, supplemented and, if necessary, extended. As a fourth example the frequently occurring amber finds are presented. Apart from Tempelmann-M&aogon;czy&nacute;skas&rsquo;s work on pearls, no attempt has yet been made to deal with this object category on a supra-regional level. Due to their work, one had a rather tolerable impression of the occurrence of this find category, especially concerning Germany. The repeatedly expressed opinion that amber could not be found in cremations, because it would have been burnt, is a topos. A clear focus in the Elbe-Saale area shows a region that either appears early as a customer or even as a middleman for the period from the 3rd century onwards. Finally, thanks to a large number of settlement and especially cemetery publications, statistical analyses of population sizes and demographic changes are now possible, as can be illustrated by the two examples of eastern Holstein and the Altmark.De nombreuses publications de recueils de donn&eacute;es sont d&eacute;sormais omnipr&eacute;sentes dans l&rsquo;arch&eacute;ologie. Outre les mus&eacute;es qui rendent accessibles au public une partie de leurs collections, de nombreuses bases de donn&eacute;es sp&eacute;cialis&eacute;es, par exemple sur les terra sigillata ou les pi&egrave;ces de monnaie, sont &eacute;galement disponibles en ligne. Dans certains pays, comme la Norv&egrave;ge, une grande partie des d&eacute;couvertes arch&eacute;ologiques sont syst&eacute;matiquement publi&eacute;es dans une base de donn&eacute;es en ligne pour une exploitation ult&eacute;rieure.L&rsquo;&eacute;valuation automatis&eacute;e de grands ensembles de donn&eacute;es non tri&eacute;es, qui est associ&eacute;e &agrave; l&rsquo;expression &#x201e;Big data&ldquo;, a d&eacute;j&agrave; &eacute;t&eacute; utilis&eacute;e de mani&egrave;re judicieuse &agrave; plusieurs reprises, comme le montre le projet NEOMINE ou le projet &#x201e;ancient places&ldquo; d&rsquo;Alphabet Inc. Un rejet global de grandes collections d&rsquo;objets et de donn&eacute;es reste incompr&eacute;hensible au vu des possibilit&eacute;s et surtout des m&eacute;thodes d&eacute;j&agrave; &eacute;tablies dans les sciences naturelles et devrait &ecirc;tre reconsid&eacute;r&eacute; en faveur d&rsquo;une vision plus objective et, bien s&ucirc;r, non d&eacute;pourvue d&rsquo;esprit critique des nouvelles m&eacute;thodes de recherche."
+        },
+        {
+          "rank": 7,
+          "score": 0.6412748098373413,
+          "doc_id": "58",
+          "text": "Why Big Data = Big Deal Why Big Data = Big Deal Why Big Data = Big Deal 없음"
+        },
+        {
+          "rank": 8,
+          "score": 0.641045331954956,
+          "doc_id": "62",
+          "text": "Utilization and Analysis of Big-data Utilization and Analysis of Big-data Utilization and Analysis of Big-data This study reviews the analysis and characteristics of databases from big data and then establishes representational strategy. Thus, analysis has continued for a long time in the quantity and quality of data, and there are changes in the location of data in the social sciences, past trends and the emergence of big data. The introduction of big data is presented as a prototype of new social science and is a useful practical example that empirically shows the need, basis, and direction of analysis through trend prediction services. Big data provides a future perspective as an important foundation for social change within the framework of basic social sciences."
+        },
+        {
+          "rank": 9,
+          "score": 0.6354550719261169,
+          "doc_id": "124",
+          "text": "Big Data in Building Energy Efficiency: Understanding of Big Data and Main Challenges Big Data in Building Energy Efficiency: Understanding of Big Data and Main Challenges Big Data in Building Energy Efficiency: Understanding of Big Data and Main Challenges Data generation has increased drastically over the past few years. Data management has also grown in importance because extracting the significant value out of a huge pile of raw data is of prime important thing to make different decisions. One of the important sectors nowadays is construction sector, especially building energy efficiency field. Collecting big amount of data, using different kinds of big data analysis can help to improve construction process from the energy efficiency perspective. This article reviews the understanding of Big Data, methods used for Big Data analysis and the main problems with Big Data in the field of energy."
+        },
+        {
+          "rank": 10,
+          "score": 0.6284440755844116,
+          "doc_id": "8",
+          "text": "정보통신 융합기기 연계를 고려한 데이터 중심의 정보시스템 모델의 설계 및 분석 정보통신 융합기기 연계를 고려한 데이터 중심의 정보시스템 모델의 설계 및 분석 정보통신 융합기기 연계를 고려한 데이터 중심의 정보시스템 모델의 설계 및 분석 데이터 중심 정보시스템 구축 모델은 그간 정보화 사업 추진이 HW, SW기능 중심으로 이루어지던 것을, 데이터 구조 및 데이터 수집 배포 채널에 대한 체계적인 분석과 설계, 데이터표준 적용, 정보통신 융합기기의 데이터 설정의 유연성 확보 등의 고려하여 개선한 모델이다. 이 모델의 주요 특성인 정보통신 융합기기에 데이터 유연성이 보장되는 개선 효과에 대해 센서와 반응기로 구분하여 이들 기기에 새로운 정보시스템이 추가적으로 연계되는 상황을 가정하여 시스템 개선 복잡도와 네트워크 환경에 대한 지수를 산정하여 기존의 일반적인 구축 방식과 비교하였다. 본 모델을 확산함으로써, 일반 업무용 정보시스템 외에 나날이 늘어나는 정보기술 융 복합 기기들이 처리하는 데이터에 대해서도 품질과 상호운용성을 통제하게 되어, 정보화 거버넌스의 영역 확대를 통해 종합적인 정보화 기획 및 성과 관리 등이 가능하게 되는 개선 효과가 있다."
+        }
+      ]
+    },
+    {
+      "query": "Big Data를 이용한 Warehouse Management System 모델의 핵심 개념은 무엇입니까?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7967864274978638,
+          "doc_id": "227",
+          "text": "Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 본 연구는 오늘날 산업 전반적으로 영향을 미치고 있는 디지탈 전환(Digital Transformation)의 기술 환경과 디지탈 전환의 산업적 창고관리 부분의 모델연구가 본 논문의 목적이다. &amp;#xD; &amp;#xD; 디지털 전환은 오랫동안 디지털화와 비슷하거나 또는 디지털 방식으로 저장할 수 있도록 기존 데이터 형태를 전환하는 것과 관련이 있다. 물론 이 점이 중요하긴 하지만, 이전의 디지털화는 최신 디지털 전환의 영역을 포함하지 않았었다.&amp;#xD; &amp;#xD; 특히 이번 연구에서는 Big Data를 중심으로 Warehouse Management System의 방향을 제시 하고자 한다."
+        },
+        {
+          "rank": 2,
+          "score": 0.689672589302063,
+          "doc_id": "144",
+          "text": "에너지 빅데이터를 수용하는 빅데이터 시스템 개발 에너지 빅데이터를 수용하는 빅데이터 시스템 개발 에너지 빅데이터를 수용하는 빅데이터 시스템 개발 본 논문은 산업 현장과 민간에서 실시간으로 수집되는 에너지 빅데이터를 수용하는 빅데이터 시스템을 제안한다. 구축된 빅데이터 시스템은 하둡(Hadoop) 기반이며, 빅데이터 처리에 있어 인메모리(in-memory) 분산처리 컴퓨팅을 지원하는 스파크(Spark) 프레임워크가 동시에 적용되었다. 본문에서는 지역난방에 사용되는 열에너지 형태의 빅데이터에 초점을 두어, 입출력되는 에너지의 특성을 고려하며 실시간 수집되는 빅데이터를 적재, 관리, 처리 및 분석하는 방법을 다룬다. 이 때, 외부에서 유입되는 빅데이터는 시스템 내부에 설계된 관계형 데이터베이스 스키마에 따라 저장하고 관리되며, 저장된 빅데이터는 설정된 목적에 따라 처리하고 분석된다. 제안된 빅데이터 시스템과 더불어 지역난방과 관련한 복수의 실증현장으로부터 실시간으로 수집되는 열에너지 빅데이터에 대해 시스템이 활용된 사례를 기술한다."
+        },
+        {
+          "rank": 3,
+          "score": 0.6639444828033447,
+          "doc_id": "187",
+          "text": "Big data driven smart energy management: From big data to big insights Big data driven smart energy management: From big data to big insights Big data driven smart energy management: From big data to big insights Abstract Large amounts of data are increasingly accumulated in the energy sector with the continuous application of sensors, wireless transmission, network communication, and cloud computing technologies. To fulfill the potential of energy big data and obtain insights to achieve smart energy management, we present a comprehensive study of big data driven smart energy management. We first discuss the sources and characteristics of energy big data. Also, a process model of big data driven smart energy management is proposed. Then taking smart grid as the research background, we provide a systematic review of big data analytics for smart energy management. It is discussed from four major aspects, namely power generation side management, microgrid and renewable energy management, asset management and collaborative operation, as well as demand side management (DSM). Afterwards, the industrial development of big data-driven smart energy management is analyzed and discussed. Finally, we point out the challenges of big data-driven smart energy management in IT infrastructure, data collection and governance, data integration and sharing, processing and analysis, security and privacy, and professionals."
+        },
+        {
+          "rank": 4,
+          "score": 0.6601723432540894,
+          "doc_id": "173",
+          "text": "&#x201e;Massendinghaltung“ oder &#x201e;Big Data“? &#x201e;Massendinghaltung“ oder &#x201e;Big Data“? &#x201e;Massendinghaltung“ oder &#x201e;Big Data“? SummaryThe tenor of the conference &#x201e;Massendinghaltung in der Arch&auml;ologie&ldquo; held in Berlin from 23rd to 25th May 2013 shows that many archaeologists, especially those with a theoretical orientation, are very negative towards large collections of objects and their evaluation. This was taken as an opportunity to present five examples from the Roman Period, based on the author&rsquo;s own data collection, which cannot be meaningfully processed without large collections of material. First of all, there are copper-plated iron objects, in which two already known belt boxes are joined by an Almgren group VII-fibula and a small bucket-shaped necklace pendant. They show that copper plating was also possible in germanic fine forges. A discovery of petrified sea urchins (echinites) shows that such quite rare find objects have not been worked on so far, as they seem to be of little value and the research effort for these objects might be considered too high. As a third example, vessels with button-handels (Knopfhenkelgef&auml;ße) were selectet. A type of vessel that has already been worked on. With the help of a database-supported recording of meanwhile more than 28,500 grave inventories as well as further literature research, the existing find image can be checked, supplemented and, if necessary, extended. As a fourth example the frequently occurring amber finds are presented. Apart from Tempelmann-M&aogon;czy&nacute;skas&rsquo;s work on pearls, no attempt has yet been made to deal with this object category on a supra-regional level. Due to their work, one had a rather tolerable impression of the occurrence of this find category, especially concerning Germany. The repeatedly expressed opinion that amber could not be found in cremations, because it would have been burnt, is a topos. A clear focus in the Elbe-Saale area shows a region that either appears early as a customer or even as a middleman for the period from the 3rd century onwards. Finally, thanks to a large number of settlement and especially cemetery publications, statistical analyses of population sizes and demographic changes are now possible, as can be illustrated by the two examples of eastern Holstein and the Altmark.De nombreuses publications de recueils de donn&eacute;es sont d&eacute;sormais omnipr&eacute;sentes dans l&rsquo;arch&eacute;ologie. Outre les mus&eacute;es qui rendent accessibles au public une partie de leurs collections, de nombreuses bases de donn&eacute;es sp&eacute;cialis&eacute;es, par exemple sur les terra sigillata ou les pi&egrave;ces de monnaie, sont &eacute;galement disponibles en ligne. Dans certains pays, comme la Norv&egrave;ge, une grande partie des d&eacute;couvertes arch&eacute;ologiques sont syst&eacute;matiquement publi&eacute;es dans une base de donn&eacute;es en ligne pour une exploitation ult&eacute;rieure.L&rsquo;&eacute;valuation automatis&eacute;e de grands ensembles de donn&eacute;es non tri&eacute;es, qui est associ&eacute;e &agrave; l&rsquo;expression &#x201e;Big data&ldquo;, a d&eacute;j&agrave; &eacute;t&eacute; utilis&eacute;e de mani&egrave;re judicieuse &agrave; plusieurs reprises, comme le montre le projet NEOMINE ou le projet &#x201e;ancient places&ldquo; d&rsquo;Alphabet Inc. Un rejet global de grandes collections d&rsquo;objets et de donn&eacute;es reste incompr&eacute;hensible au vu des possibilit&eacute;s et surtout des m&eacute;thodes d&eacute;j&agrave; &eacute;tablies dans les sciences naturelles et devrait &ecirc;tre reconsid&eacute;r&eacute; en faveur d&rsquo;une vision plus objective et, bien s&ucirc;r, non d&eacute;pourvue d&rsquo;esprit critique des nouvelles m&eacute;thodes de recherche."
+        },
+        {
+          "rank": 5,
+          "score": 0.6587650775909424,
+          "doc_id": "158",
+          "text": "Big business with Big Data Big Business mit Big Data Big business with Big Data Big Business mit Big Data Big business with Big Data Big Business mit Big Data Big business with Big Data Big Business mit Big Data"
+        },
+        {
+          "rank": 6,
+          "score": 0.6586310863494873,
+          "doc_id": "124",
+          "text": "Big Data in Building Energy Efficiency: Understanding of Big Data and Main Challenges Big Data in Building Energy Efficiency: Understanding of Big Data and Main Challenges Big Data in Building Energy Efficiency: Understanding of Big Data and Main Challenges Data generation has increased drastically over the past few years. Data management has also grown in importance because extracting the significant value out of a huge pile of raw data is of prime important thing to make different decisions. One of the important sectors nowadays is construction sector, especially building energy efficiency field. Collecting big amount of data, using different kinds of big data analysis can help to improve construction process from the energy efficiency perspective. This article reviews the understanding of Big Data, methods used for Big Data analysis and the main problems with Big Data in the field of energy."
+        },
+        {
+          "rank": 7,
+          "score": 0.6558862924575806,
+          "doc_id": "86",
+          "text": "Big data monetization throughout Big Data Value Chain: a comprehensive review Big data monetization throughout Big Data Value Chain: a comprehensive review Big data monetization throughout Big Data Value Chain: a comprehensive review AbstractValue Chain has been considered as a key model for managing efficiently value creation processes within organizations. However, with the digitization of the end-to-end processes which began to adopt data as a main source of value, traditional value chain models have become outdated. For this, researchers have developed new value chain models, called Data Value Chains, to carry out data driven organizations. Thereafter, new data value chains called Big Data Value chain have emerged with the emergence of Big Data in order to face new data-related challenges such as high volume, velocity, and variety. These Big Data Value Chains describe the data flow within organizations which rely on Big Data to extract valuable insights. It is a set of ordered steps using Big Data Analytics tools and mainly built for going from data generation to knowledge creation. The advances in Big Data and Big Data Value Chain, using clear processes for aggregation and exploitation of data, have given rise to what is called data monetization. Data monetization concept consists of using data from an organization to generate profit. It may be selling the data directly for cash, or relying on that data to create value indirectly. It is important to mention that the concept of monetizing data is not as new as it looks, but with the era of Big Data and Big Data Value Chain it is becoming attractive. The aim of this paper is to provide a comprehensive review of value creation, data value, and Big Data value chains with their different steps. This literature has led us to construct an end-to-end exhaustive BDVC that regroup most of the addressed phases. Furthermore, we present a possible evolution of that generic BDVC to support Big Data Monetization. For this, we discuss different approaches that enable data monetization throughout data value chains. Finally, we highlight the need to adopt specific data monetization models to suit big data specificities."
+        },
+        {
+          "rank": 8,
+          "score": 0.6557749509811401,
+          "doc_id": "58",
+          "text": "Why Big Data = Big Deal Why Big Data = Big Deal Why Big Data = Big Deal 없음"
+        },
+        {
+          "rank": 9,
+          "score": 0.6511082649230957,
+          "doc_id": "62",
+          "text": "Utilization and Analysis of Big-data Utilization and Analysis of Big-data Utilization and Analysis of Big-data This study reviews the analysis and characteristics of databases from big data and then establishes representational strategy. Thus, analysis has continued for a long time in the quantity and quality of data, and there are changes in the location of data in the social sciences, past trends and the emergence of big data. The introduction of big data is presented as a prototype of new social science and is a useful practical example that empirically shows the need, basis, and direction of analysis through trend prediction services. Big data provides a future perspective as an important foundation for social change within the framework of basic social sciences."
+        },
+        {
+          "rank": 10,
+          "score": 0.646757185459137,
+          "doc_id": "87",
+          "text": "Big Data Analysis and Machine Learning in Intensive Care Units Big Data Analysis and Machine Learning in Intensive Care Units Big Data Analysis and Machine Learning in Intensive Care Units Abstract Intensive care is an ideal environment for the use of Big Data Analysis (BDA) and Machine Learning (ML), due to the huge amount of information processed and stored in electronic format in relation to such care. These tools can improve our clinical research capabilities and clinical decision making in the future. The present study reviews the foundations of BDA and ML, and explores possible applications in our field from a clinical viewpoint. We also suggest potential strategies to optimize these new technologies and describe a new kind of hybrid healthcare-data science professional with a linking role between clinicians and data."
+        }
+      ]
+    },
+    {
+      "query": "Big Data를 이용한 Warehouse Management System 모델에서 제시된 방향은 무엇입니까?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.8306707143783569,
+          "doc_id": "227",
+          "text": "Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 본 연구는 오늘날 산업 전반적으로 영향을 미치고 있는 디지탈 전환(Digital Transformation)의 기술 환경과 디지탈 전환의 산업적 창고관리 부분의 모델연구가 본 논문의 목적이다. &amp;#xD; &amp;#xD; 디지털 전환은 오랫동안 디지털화와 비슷하거나 또는 디지털 방식으로 저장할 수 있도록 기존 데이터 형태를 전환하는 것과 관련이 있다. 물론 이 점이 중요하긴 하지만, 이전의 디지털화는 최신 디지털 전환의 영역을 포함하지 않았었다.&amp;#xD; &amp;#xD; 특히 이번 연구에서는 Big Data를 중심으로 Warehouse Management System의 방향을 제시 하고자 한다."
+        },
+        {
+          "rank": 2,
+          "score": 0.7069377303123474,
+          "doc_id": "144",
+          "text": "에너지 빅데이터를 수용하는 빅데이터 시스템 개발 에너지 빅데이터를 수용하는 빅데이터 시스템 개발 에너지 빅데이터를 수용하는 빅데이터 시스템 개발 본 논문은 산업 현장과 민간에서 실시간으로 수집되는 에너지 빅데이터를 수용하는 빅데이터 시스템을 제안한다. 구축된 빅데이터 시스템은 하둡(Hadoop) 기반이며, 빅데이터 처리에 있어 인메모리(in-memory) 분산처리 컴퓨팅을 지원하는 스파크(Spark) 프레임워크가 동시에 적용되었다. 본문에서는 지역난방에 사용되는 열에너지 형태의 빅데이터에 초점을 두어, 입출력되는 에너지의 특성을 고려하며 실시간 수집되는 빅데이터를 적재, 관리, 처리 및 분석하는 방법을 다룬다. 이 때, 외부에서 유입되는 빅데이터는 시스템 내부에 설계된 관계형 데이터베이스 스키마에 따라 저장하고 관리되며, 저장된 빅데이터는 설정된 목적에 따라 처리하고 분석된다. 제안된 빅데이터 시스템과 더불어 지역난방과 관련한 복수의 실증현장으로부터 실시간으로 수집되는 열에너지 빅데이터에 대해 시스템이 활용된 사례를 기술한다."
+        },
+        {
+          "rank": 3,
+          "score": 0.6888514757156372,
+          "doc_id": "187",
+          "text": "Big data driven smart energy management: From big data to big insights Big data driven smart energy management: From big data to big insights Big data driven smart energy management: From big data to big insights Abstract Large amounts of data are increasingly accumulated in the energy sector with the continuous application of sensors, wireless transmission, network communication, and cloud computing technologies. To fulfill the potential of energy big data and obtain insights to achieve smart energy management, we present a comprehensive study of big data driven smart energy management. We first discuss the sources and characteristics of energy big data. Also, a process model of big data driven smart energy management is proposed. Then taking smart grid as the research background, we provide a systematic review of big data analytics for smart energy management. It is discussed from four major aspects, namely power generation side management, microgrid and renewable energy management, asset management and collaborative operation, as well as demand side management (DSM). Afterwards, the industrial development of big data-driven smart energy management is analyzed and discussed. Finally, we point out the challenges of big data-driven smart energy management in IT infrastructure, data collection and governance, data integration and sharing, processing and analysis, security and privacy, and professionals."
+        },
+        {
+          "rank": 4,
+          "score": 0.6780399680137634,
+          "doc_id": "158",
+          "text": "Big business with Big Data Big Business mit Big Data Big business with Big Data Big Business mit Big Data Big business with Big Data Big Business mit Big Data Big business with Big Data Big Business mit Big Data"
+        },
+        {
+          "rank": 5,
+          "score": 0.6705209612846375,
+          "doc_id": "86",
+          "text": "Big data monetization throughout Big Data Value Chain: a comprehensive review Big data monetization throughout Big Data Value Chain: a comprehensive review Big data monetization throughout Big Data Value Chain: a comprehensive review AbstractValue Chain has been considered as a key model for managing efficiently value creation processes within organizations. However, with the digitization of the end-to-end processes which began to adopt data as a main source of value, traditional value chain models have become outdated. For this, researchers have developed new value chain models, called Data Value Chains, to carry out data driven organizations. Thereafter, new data value chains called Big Data Value chain have emerged with the emergence of Big Data in order to face new data-related challenges such as high volume, velocity, and variety. These Big Data Value Chains describe the data flow within organizations which rely on Big Data to extract valuable insights. It is a set of ordered steps using Big Data Analytics tools and mainly built for going from data generation to knowledge creation. The advances in Big Data and Big Data Value Chain, using clear processes for aggregation and exploitation of data, have given rise to what is called data monetization. Data monetization concept consists of using data from an organization to generate profit. It may be selling the data directly for cash, or relying on that data to create value indirectly. It is important to mention that the concept of monetizing data is not as new as it looks, but with the era of Big Data and Big Data Value Chain it is becoming attractive. The aim of this paper is to provide a comprehensive review of value creation, data value, and Big Data value chains with their different steps. This literature has led us to construct an end-to-end exhaustive BDVC that regroup most of the addressed phases. Furthermore, we present a possible evolution of that generic BDVC to support Big Data Monetization. For this, we discuss different approaches that enable data monetization throughout data value chains. Finally, we highlight the need to adopt specific data monetization models to suit big data specificities."
+        },
+        {
+          "rank": 6,
+          "score": 0.669423520565033,
+          "doc_id": "124",
+          "text": "Big Data in Building Energy Efficiency: Understanding of Big Data and Main Challenges Big Data in Building Energy Efficiency: Understanding of Big Data and Main Challenges Big Data in Building Energy Efficiency: Understanding of Big Data and Main Challenges Data generation has increased drastically over the past few years. Data management has also grown in importance because extracting the significant value out of a huge pile of raw data is of prime important thing to make different decisions. One of the important sectors nowadays is construction sector, especially building energy efficiency field. Collecting big amount of data, using different kinds of big data analysis can help to improve construction process from the energy efficiency perspective. This article reviews the understanding of Big Data, methods used for Big Data analysis and the main problems with Big Data in the field of energy."
+        },
+        {
+          "rank": 7,
+          "score": 0.6683595180511475,
+          "doc_id": "173",
+          "text": "&#x201e;Massendinghaltung“ oder &#x201e;Big Data“? &#x201e;Massendinghaltung“ oder &#x201e;Big Data“? &#x201e;Massendinghaltung“ oder &#x201e;Big Data“? SummaryThe tenor of the conference &#x201e;Massendinghaltung in der Arch&auml;ologie&ldquo; held in Berlin from 23rd to 25th May 2013 shows that many archaeologists, especially those with a theoretical orientation, are very negative towards large collections of objects and their evaluation. This was taken as an opportunity to present five examples from the Roman Period, based on the author&rsquo;s own data collection, which cannot be meaningfully processed without large collections of material. First of all, there are copper-plated iron objects, in which two already known belt boxes are joined by an Almgren group VII-fibula and a small bucket-shaped necklace pendant. They show that copper plating was also possible in germanic fine forges. A discovery of petrified sea urchins (echinites) shows that such quite rare find objects have not been worked on so far, as they seem to be of little value and the research effort for these objects might be considered too high. As a third example, vessels with button-handels (Knopfhenkelgef&auml;ße) were selectet. A type of vessel that has already been worked on. With the help of a database-supported recording of meanwhile more than 28,500 grave inventories as well as further literature research, the existing find image can be checked, supplemented and, if necessary, extended. As a fourth example the frequently occurring amber finds are presented. Apart from Tempelmann-M&aogon;czy&nacute;skas&rsquo;s work on pearls, no attempt has yet been made to deal with this object category on a supra-regional level. Due to their work, one had a rather tolerable impression of the occurrence of this find category, especially concerning Germany. The repeatedly expressed opinion that amber could not be found in cremations, because it would have been burnt, is a topos. A clear focus in the Elbe-Saale area shows a region that either appears early as a customer or even as a middleman for the period from the 3rd century onwards. Finally, thanks to a large number of settlement and especially cemetery publications, statistical analyses of population sizes and demographic changes are now possible, as can be illustrated by the two examples of eastern Holstein and the Altmark.De nombreuses publications de recueils de donn&eacute;es sont d&eacute;sormais omnipr&eacute;sentes dans l&rsquo;arch&eacute;ologie. Outre les mus&eacute;es qui rendent accessibles au public une partie de leurs collections, de nombreuses bases de donn&eacute;es sp&eacute;cialis&eacute;es, par exemple sur les terra sigillata ou les pi&egrave;ces de monnaie, sont &eacute;galement disponibles en ligne. Dans certains pays, comme la Norv&egrave;ge, une grande partie des d&eacute;couvertes arch&eacute;ologiques sont syst&eacute;matiquement publi&eacute;es dans une base de donn&eacute;es en ligne pour une exploitation ult&eacute;rieure.L&rsquo;&eacute;valuation automatis&eacute;e de grands ensembles de donn&eacute;es non tri&eacute;es, qui est associ&eacute;e &agrave; l&rsquo;expression &#x201e;Big data&ldquo;, a d&eacute;j&agrave; &eacute;t&eacute; utilis&eacute;e de mani&egrave;re judicieuse &agrave; plusieurs reprises, comme le montre le projet NEOMINE ou le projet &#x201e;ancient places&ldquo; d&rsquo;Alphabet Inc. Un rejet global de grandes collections d&rsquo;objets et de donn&eacute;es reste incompr&eacute;hensible au vu des possibilit&eacute;s et surtout des m&eacute;thodes d&eacute;j&agrave; &eacute;tablies dans les sciences naturelles et devrait &ecirc;tre reconsid&eacute;r&eacute; en faveur d&rsquo;une vision plus objective et, bien s&ucirc;r, non d&eacute;pourvue d&rsquo;esprit critique des nouvelles m&eacute;thodes de recherche."
+        },
+        {
+          "rank": 8,
+          "score": 0.6664634943008423,
+          "doc_id": "62",
+          "text": "Utilization and Analysis of Big-data Utilization and Analysis of Big-data Utilization and Analysis of Big-data This study reviews the analysis and characteristics of databases from big data and then establishes representational strategy. Thus, analysis has continued for a long time in the quantity and quality of data, and there are changes in the location of data in the social sciences, past trends and the emergence of big data. The introduction of big data is presented as a prototype of new social science and is a useful practical example that empirically shows the need, basis, and direction of analysis through trend prediction services. Big data provides a future perspective as an important foundation for social change within the framework of basic social sciences."
+        },
+        {
+          "rank": 9,
+          "score": 0.6588603258132935,
+          "doc_id": "109",
+          "text": "Optimized Data Processing Analysis Using Big Data Cloud Platform Optimized Data Processing Analysis Using Big Data Cloud Platform Optimized Data Processing Analysis Using Big Data Cloud Platform Recently data processing has main gained many attention both from academic and commercial industry. Their term use to tools, technical methods and frameworks made to gathering, collect, store, processing and analysis massive amounts of data. Data processing and analysis are based on structured/semi -structured/unstructured by big data, as well as is generated from various different sources in the system at various rates. For the purpose of processing with their large data and suitable way, voluminous parallelism is usually used. The general architecture of a big data system is made up a shared cluster of their machines. Nonetheless, even in very parallel environment, data processing is often very time-consuming. A various applications can take up to everytime to produce useful results, interactive analysis and debugging. Nevertheless, we have main problems that how we have a high performance requires both quality of data locality and resource. Moreover, big data analysis provide the amount of data that is processed typically large in comparison with computation in their systems. In other words, specified optimization that would relieve low-level to achieve good performance essentially. Accordingly, our main goal of this research paper provide how we have to do to optimize for big data frameworks. Our contribute approach to make big data cloud platform for easy and efficient processing of big data. In addition, we provides results from a study of existing optimization of data processing in MapReduce and Hadoop oriented systems."
+        },
+        {
+          "rank": 10,
+          "score": 0.6565731763839722,
+          "doc_id": "58",
+          "text": "Why Big Data = Big Deal Why Big Data = Big Deal Why Big Data = Big Deal 없음"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

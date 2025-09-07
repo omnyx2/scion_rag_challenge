@@ -1,0 +1,221 @@
+{
+  "id": "row_000025",
+  "model_name": "Snowflake/snowflake-arctic-embed-l-v2.0",
+  "timestamp_kst": "2025-09-07T15:58:56.843744+09:00",
+  "trial_id": "435fddd2",
+  "queries": [
+    {
+      "query": "Can you summarize the main findings from the topic modeling analysis of deep learning research trends over the past ten years, including country-specific differences?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.44954365491867065,
+          "doc_id": "64",
+          "text": "Since the third artificial intelligence boom was triggered by deep learning, it has been 10 years. It is time to analyze and discuss the research trends of deep learning for the stable development of AI. In this regard, this study systematically analyzes the trends of research on deep learning over the past 10 years. We collected research literature on deep learning and performed LDA based topic modeling analysis. We analyzed trends by topic over 10 years. We have also identified differences among the major research countries, China, the United States, South Korea, and United Kingdom. The results of this study will provide insights into research direction on deep learning in the future, and provide implications for the stable development strategy of deep learning."
+        },
+        {
+          "rank": 2,
+          "score": 0.4149155020713806,
+          "doc_id": "125",
+          "text": "ZusammenfassungDeep Learning ist der Ansatz, der die k&uuml;nstliche Intelligenz innerhalb weniger Jahre tiefgreifend ver&auml;ndert hat. Auch wenn sie durch verschiedene algorithmische Fortschritte begleitet wird, ist diese Technik vor allem aus Anwendungssicht &#x201e;disruptiv“: Sie verschiebt die Grenze automatisierbarer Aufgaben betr&auml;chtlich, ver&auml;ndert die Art der Produktentwicklung und steht praktisch jedermann zur Verf&uuml;gung. Gegenstand des Deep Learning sind neuronale Netze mit einer großen Anzahl von Schichten. Verglichen mit fr&uuml;heren Ans&auml;tzen mit idealerweise einer einzigen Schicht, erlaubt dies den Einsatz massiver Rechenhardware, um Black-Box-Modelle mit einem Minimum an Entwicklungsaufwand direkt aus Rohdaten zu trainieren. Die meisten erfolgreichen Anwendungen finden sich in der Auswertung visueller Bilder, aber auch in der Audio- und Text-Modellierung."
+        },
+        {
+          "rank": 3,
+          "score": 0.37415963411331177,
+          "doc_id": "179",
+          "text": "Deep learning, a sub-field of machine learning changing the prospects of artificial intelligence (AI) because of its recent advancements and application in various field. Deep learning deals with algorithms inspired by the structure and function of the brain called artificial neural networks. This works reviews basic architecture and recent advancement of deep structured learning. It also describes contemporary applications of deep structured learning and its advantages over the treditional learning in artificial interlligence. This study is useful for the general readers and students who are in the early stage of deep learning studies."
+        },
+        {
+          "rank": 4,
+          "score": 0.3708183467388153,
+          "doc_id": "62",
+          "text": "This study reviews the analysis and characteristics of databases from big data and then establishes representational strategy. Thus, analysis has continued for a long time in the quantity and quality of data, and there are changes in the location of data in the social sciences, past trends and the emergence of big data. The introduction of big data is presented as a prototype of new social science and is a useful practical example that empirically shows the need, basis, and direction of analysis through trend prediction services. Big data provides a future perspective as an important foundation for social change within the framework of basic social sciences."
+        },
+        {
+          "rank": 5,
+          "score": 0.36818134784698486,
+          "doc_id": "60",
+          "text": "AI has been well supported by government research and development dollars for decades now, and people are beginning to ask hard questions: What really works? What are the limits? What doesn't work as advertised? What isn't likely to work? What isn't affordable? This article holds a mirror up to the community, both to provide feedback and stimulate more self-assessment. The significant accomplishments and strengths of the field are highlighted. The research agenda, strategy, and heuristics are reviewed, and a change of course is recommended to improve the field's ability to produce reusable and interoperable components.(Author abstract)"
+        },
+        {
+          "rank": 6,
+          "score": 0.3560856580734253,
+          "doc_id": "104",
+          "text": "Artificial intelligence is one of the most beautiful dreams of mankind. Although computer technology has made considerable progress, so far, there is no computer showing intelligence like human beings. The emergence of deep learning gives people a glimmer of hope. So, what is learning deep? Why is it so important? How does it work? And what are the existing achievements and difficulties? This paper provides an overview of deep learning which will answer these questions."
+        },
+        {
+          "rank": 7,
+          "score": 0.340665727853775,
+          "doc_id": "202",
+          "text": "A short review of research and applications in machine learning is given. Rather than attempt to cover all areas of ML, the focus is on its role in building expert systems, its approach to classification problems and ML methods of learning control. A relatively new area, inductive logic programming, is also discussed."
+        },
+        {
+          "rank": 8,
+          "score": 0.3334342837333679,
+          "doc_id": "78",
+          "text": "Abstract Technology is generating a huge and growing availability of observations of diverse nature. This big data is placing data learning as a central scientific discipline. It includes collection, storage, preprocessing, visualization and, essentially, statistical analysis of enormous batches of data. In this paper, we discuss the role of statistics regarding some of the issues raised by big data in this new paradigm and also propose the name of data learning to describe all the activities that allow to obtain relevant knowledge from this new source of information."
+        },
+        {
+          "rank": 9,
+          "score": 0.32475197315216064,
+          "doc_id": "15",
+          "text": "Artificial intelligence (AI), which includes machine learning and deep learning has been introduced to nursing care in recent years. The present study reviews the following topics: the concepts of AI, machine learning, and deep learning; examples of AI-based nursing research; the necessity of education on AI in nursing schools; and the areas of nursing care where AI is useful. AI refers to an intelligent system consisting not of a human, but a machine. Machine learning refers to computers’ ability to learn without being explicitly programmed. Deep learning is a subset of machine learning that uses artificial neural networks consisting of multiple hidden layers. It is suggested that the educational curriculum should include big data, the concept of AI, algorithms and models of machine learning, the model of deep learning, and coding practice. The standard curriculum should be organized by the nursing society. An example of an area of nursing care where AI is useful is prenatal nursing interventions based on pregnant women’s nursing records and AI-based prediction of the risk of delivery according to pregnant women’s age. Nurses should be able to cope with the rapidly developing environment of nursing care influenced by AI and should understand how to apply AI in their field. It is time for Korean nurses to take steps to become familiar with AI in their research, education, and practice."
+        },
+        {
+          "rank": 10,
+          "score": 0.32242298126220703,
+          "doc_id": "106",
+          "text": "AbstractArtificial intelligence (AI) is the Science and Engineering domain concerned with the theory and practice of developing systems that exhibit the characteristics we associate with intelligence in human behavior. Starting with a brief history of artificial intelligence, this article presents a general overview of this broad interdisciplinary field, organized around the main modules of the notional architecture of an intelligent agent (knowledge representation; problem solving and planning; knowledge acquisition and learning; natural language, speech, and vision; action processing and robotics) which highlights both the main areas of artificial intelligence research, development and application, and also their integration. WIREs Comput Stat 2012, 4:168-180. doi: 10.1002/wics.200This article is categorized under: Software for Computational Statistics > Artificial Intelligence and Expert Systems"
+        }
+      ]
+    },
+    {
+      "query": "What are the main deep learning research trends identified by the topic modeling analysis over the past ten years?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5560358762741089,
+          "doc_id": "64",
+          "text": "Since the third artificial intelligence boom was triggered by deep learning, it has been 10 years. It is time to analyze and discuss the research trends of deep learning for the stable development of AI. In this regard, this study systematically analyzes the trends of research on deep learning over the past 10 years. We collected research literature on deep learning and performed LDA based topic modeling analysis. We analyzed trends by topic over 10 years. We have also identified differences among the major research countries, China, the United States, South Korea, and United Kingdom. The results of this study will provide insights into research direction on deep learning in the future, and provide implications for the stable development strategy of deep learning."
+        },
+        {
+          "rank": 2,
+          "score": 0.48971396684646606,
+          "doc_id": "125",
+          "text": "ZusammenfassungDeep Learning ist der Ansatz, der die k&uuml;nstliche Intelligenz innerhalb weniger Jahre tiefgreifend ver&auml;ndert hat. Auch wenn sie durch verschiedene algorithmische Fortschritte begleitet wird, ist diese Technik vor allem aus Anwendungssicht &#x201e;disruptiv“: Sie verschiebt die Grenze automatisierbarer Aufgaben betr&auml;chtlich, ver&auml;ndert die Art der Produktentwicklung und steht praktisch jedermann zur Verf&uuml;gung. Gegenstand des Deep Learning sind neuronale Netze mit einer großen Anzahl von Schichten. Verglichen mit fr&uuml;heren Ans&auml;tzen mit idealerweise einer einzigen Schicht, erlaubt dies den Einsatz massiver Rechenhardware, um Black-Box-Modelle mit einem Minimum an Entwicklungsaufwand direkt aus Rohdaten zu trainieren. Die meisten erfolgreichen Anwendungen finden sich in der Auswertung visueller Bilder, aber auch in der Audio- und Text-Modellierung."
+        },
+        {
+          "rank": 3,
+          "score": 0.441213995218277,
+          "doc_id": "179",
+          "text": "Deep learning, a sub-field of machine learning changing the prospects of artificial intelligence (AI) because of its recent advancements and application in various field. Deep learning deals with algorithms inspired by the structure and function of the brain called artificial neural networks. This works reviews basic architecture and recent advancement of deep structured learning. It also describes contemporary applications of deep structured learning and its advantages over the treditional learning in artificial interlligence. This study is useful for the general readers and students who are in the early stage of deep learning studies."
+        },
+        {
+          "rank": 4,
+          "score": 0.4097011089324951,
+          "doc_id": "62",
+          "text": "This study reviews the analysis and characteristics of databases from big data and then establishes representational strategy. Thus, analysis has continued for a long time in the quantity and quality of data, and there are changes in the location of data in the social sciences, past trends and the emergence of big data. The introduction of big data is presented as a prototype of new social science and is a useful practical example that empirically shows the need, basis, and direction of analysis through trend prediction services. Big data provides a future perspective as an important foundation for social change within the framework of basic social sciences."
+        },
+        {
+          "rank": 5,
+          "score": 0.4070487916469574,
+          "doc_id": "152",
+          "text": "Recently, deep learning methods have shown great potential in various tasks that involve handling large amounts of digital data. In the field of MR imaging research, deep learning methods are also rapidly being applied in a wide range of areas to complement or replace traditional model-based methods. Deep learning methods have shown remarkable improvements in several MR image processing areas such as image reconstruction, image quality improvement, parameter mapping, image contrast conversion, and image segmentation. With the current rapid development of deep learning technologies, the importance of the role of deep learning in MR imaging research appears to be growing. In this article, we introduce the basic concepts of deep learning and review recent studies on various MR image processing applications."
+        },
+        {
+          "rank": 6,
+          "score": 0.4046344757080078,
+          "doc_id": "104",
+          "text": "Artificial intelligence is one of the most beautiful dreams of mankind. Although computer technology has made considerable progress, so far, there is no computer showing intelligence like human beings. The emergence of deep learning gives people a glimmer of hope. So, what is learning deep? Why is it so important? How does it work? And what are the existing achievements and difficulties? This paper provides an overview of deep learning which will answer these questions."
+        },
+        {
+          "rank": 7,
+          "score": 0.3967050313949585,
+          "doc_id": "88",
+          "text": "Statistical Machine Learning has undergone a phase transition from a pure academic endeavor to being one of the main drivers of modern commerce and science. Even more so, recent results such as those on tera-scale learning [1] and on very large neural networks [2] suggest that scale is an important ingredient in quality modeling. This tutorial introduces current applications, techniques and systems with the aim of cross-fertilizing research between the database and machine learning communities. The tutorial covers current large scale applications of Machine Learning, their computational model and the workflow behind building those. Based on this foundation, we present the current state-of-the-art in systems support in the bulk of the tutorial. We also identify critical gaps in the state-of-the-art. This leads to the closing of the seminar, where we introduce two sets of open research questions: Better systems support for the already established use cases of Machine Learning and support for recent advances in Machine Learning research."
+        },
+        {
+          "rank": 8,
+          "score": 0.3935805559158325,
+          "doc_id": "202",
+          "text": "A short review of research and applications in machine learning is given. Rather than attempt to cover all areas of ML, the focus is on its role in building expert systems, its approach to classification problems and ML methods of learning control. A relatively new area, inductive logic programming, is also discussed."
+        },
+        {
+          "rank": 9,
+          "score": 0.38934317231178284,
+          "doc_id": "60",
+          "text": "AI has been well supported by government research and development dollars for decades now, and people are beginning to ask hard questions: What really works? What are the limits? What doesn't work as advertised? What isn't likely to work? What isn't affordable? This article holds a mirror up to the community, both to provide feedback and stimulate more self-assessment. The significant accomplishments and strengths of the field are highlighted. The research agenda, strategy, and heuristics are reviewed, and a change of course is recommended to improve the field's ability to produce reusable and interoperable components.(Author abstract)"
+        },
+        {
+          "rank": 10,
+          "score": 0.3861251473426819,
+          "doc_id": "15",
+          "text": "Artificial intelligence (AI), which includes machine learning and deep learning has been introduced to nursing care in recent years. The present study reviews the following topics: the concepts of AI, machine learning, and deep learning; examples of AI-based nursing research; the necessity of education on AI in nursing schools; and the areas of nursing care where AI is useful. AI refers to an intelligent system consisting not of a human, but a machine. Machine learning refers to computers’ ability to learn without being explicitly programmed. Deep learning is a subset of machine learning that uses artificial neural networks consisting of multiple hidden layers. It is suggested that the educational curriculum should include big data, the concept of AI, algorithms and models of machine learning, the model of deep learning, and coding practice. The standard curriculum should be organized by the nursing society. An example of an area of nursing care where AI is useful is prenatal nursing interventions based on pregnant women’s nursing records and AI-based prediction of the risk of delivery according to pregnant women’s age. Nurses should be able to cope with the rapidly developing environment of nursing care influenced by AI and should understand how to apply AI in their field. It is time for Korean nurses to take steps to become familiar with AI in their research, education, and practice."
+        }
+      ]
+    },
+    {
+      "query": "What country-specific differences were observed in these deep learning research trends?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.4159204959869385,
+          "doc_id": "64",
+          "text": "Since the third artificial intelligence boom was triggered by deep learning, it has been 10 years. It is time to analyze and discuss the research trends of deep learning for the stable development of AI. In this regard, this study systematically analyzes the trends of research on deep learning over the past 10 years. We collected research literature on deep learning and performed LDA based topic modeling analysis. We analyzed trends by topic over 10 years. We have also identified differences among the major research countries, China, the United States, South Korea, and United Kingdom. The results of this study will provide insights into research direction on deep learning in the future, and provide implications for the stable development strategy of deep learning."
+        },
+        {
+          "rank": 2,
+          "score": 0.39003098011016846,
+          "doc_id": "125",
+          "text": "ZusammenfassungDeep Learning ist der Ansatz, der die k&uuml;nstliche Intelligenz innerhalb weniger Jahre tiefgreifend ver&auml;ndert hat. Auch wenn sie durch verschiedene algorithmische Fortschritte begleitet wird, ist diese Technik vor allem aus Anwendungssicht &#x201e;disruptiv“: Sie verschiebt die Grenze automatisierbarer Aufgaben betr&auml;chtlich, ver&auml;ndert die Art der Produktentwicklung und steht praktisch jedermann zur Verf&uuml;gung. Gegenstand des Deep Learning sind neuronale Netze mit einer großen Anzahl von Schichten. Verglichen mit fr&uuml;heren Ans&auml;tzen mit idealerweise einer einzigen Schicht, erlaubt dies den Einsatz massiver Rechenhardware, um Black-Box-Modelle mit einem Minimum an Entwicklungsaufwand direkt aus Rohdaten zu trainieren. Die meisten erfolgreichen Anwendungen finden sich in der Auswertung visueller Bilder, aber auch in der Audio- und Text-Modellierung."
+        },
+        {
+          "rank": 3,
+          "score": 0.3408239483833313,
+          "doc_id": "179",
+          "text": "Deep learning, a sub-field of machine learning changing the prospects of artificial intelligence (AI) because of its recent advancements and application in various field. Deep learning deals with algorithms inspired by the structure and function of the brain called artificial neural networks. This works reviews basic architecture and recent advancement of deep structured learning. It also describes contemporary applications of deep structured learning and its advantages over the treditional learning in artificial interlligence. This study is useful for the general readers and students who are in the early stage of deep learning studies."
+        },
+        {
+          "rank": 4,
+          "score": 0.3359447717666626,
+          "doc_id": "62",
+          "text": "This study reviews the analysis and characteristics of databases from big data and then establishes representational strategy. Thus, analysis has continued for a long time in the quantity and quality of data, and there are changes in the location of data in the social sciences, past trends and the emergence of big data. The introduction of big data is presented as a prototype of new social science and is a useful practical example that empirically shows the need, basis, and direction of analysis through trend prediction services. Big data provides a future perspective as an important foundation for social change within the framework of basic social sciences."
+        },
+        {
+          "rank": 5,
+          "score": 0.3309086859226227,
+          "doc_id": "104",
+          "text": "Artificial intelligence is one of the most beautiful dreams of mankind. Although computer technology has made considerable progress, so far, there is no computer showing intelligence like human beings. The emergence of deep learning gives people a glimmer of hope. So, what is learning deep? Why is it so important? How does it work? And what are the existing achievements and difficulties? This paper provides an overview of deep learning which will answer these questions."
+        },
+        {
+          "rank": 6,
+          "score": 0.32719895243644714,
+          "doc_id": "60",
+          "text": "AI has been well supported by government research and development dollars for decades now, and people are beginning to ask hard questions: What really works? What are the limits? What doesn't work as advertised? What isn't likely to work? What isn't affordable? This article holds a mirror up to the community, both to provide feedback and stimulate more self-assessment. The significant accomplishments and strengths of the field are highlighted. The research agenda, strategy, and heuristics are reviewed, and a change of course is recommended to improve the field's ability to produce reusable and interoperable components.(Author abstract)"
+        },
+        {
+          "rank": 7,
+          "score": 0.3036269247531891,
+          "doc_id": "15",
+          "text": "Artificial intelligence (AI), which includes machine learning and deep learning has been introduced to nursing care in recent years. The present study reviews the following topics: the concepts of AI, machine learning, and deep learning; examples of AI-based nursing research; the necessity of education on AI in nursing schools; and the areas of nursing care where AI is useful. AI refers to an intelligent system consisting not of a human, but a machine. Machine learning refers to computers’ ability to learn without being explicitly programmed. Deep learning is a subset of machine learning that uses artificial neural networks consisting of multiple hidden layers. It is suggested that the educational curriculum should include big data, the concept of AI, algorithms and models of machine learning, the model of deep learning, and coding practice. The standard curriculum should be organized by the nursing society. An example of an area of nursing care where AI is useful is prenatal nursing interventions based on pregnant women’s nursing records and AI-based prediction of the risk of delivery according to pregnant women’s age. Nurses should be able to cope with the rapidly developing environment of nursing care influenced by AI and should understand how to apply AI in their field. It is time for Korean nurses to take steps to become familiar with AI in their research, education, and practice."
+        },
+        {
+          "rank": 8,
+          "score": 0.2791076898574829,
+          "doc_id": "158",
+          "text": "Big business with Big Data Big Business mit Big Data"
+        },
+        {
+          "rank": 9,
+          "score": 0.2756863236427307,
+          "doc_id": "202",
+          "text": "A short review of research and applications in machine learning is given. Rather than attempt to cover all areas of ML, the focus is on its role in building expert systems, its approach to classification problems and ML methods of learning control. A relatively new area, inductive logic programming, is also discussed."
+        },
+        {
+          "rank": 10,
+          "score": 0.2735097408294678,
+          "doc_id": "140",
+          "text": "Macromolecular Big Data provide numerous challenges and a number of initiatives that are starting to overcome these issues are discussed."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

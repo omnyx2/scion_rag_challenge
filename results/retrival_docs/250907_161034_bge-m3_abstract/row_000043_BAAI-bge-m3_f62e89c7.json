@@ -1,0 +1,221 @@
+{
+  "id": "row_000043",
+  "model_name": "BAAI/bge-m3",
+  "timestamp_kst": "2025-09-07T16:10:40.865260+09:00",
+  "trial_id": "f62e89c7",
+  "queries": [
+    {
+      "query": "What are the core contributions of spatial and temporal adaptation techniques in machine learning–based scheduling knowledge acquisition?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5276764631271362,
+          "doc_id": "147",
+          "text": "The last decade saw an enormous boost in the field of computational topology: methods and concepts from algebraic and differential topology, formerly confined to the realm of pure mathematics, have demonstrated their utility in numerous areas such as computational biology personalised medicine, and time-dependent data analysis, to name a few. The newly-emerging domain comprising topology-based techniques is often referred to as topological data analysis (TDA). Next to their applications in the aforementioned areas, TDA methods have also proven to be effective in supporting, enhancing, and augmenting both classical machine learning and deep learning models. In this paper, we review the state of the art of a nascent field we refer to as &ldquo;topological machine learning,&rdquo; i.e., the successful symbiosis of topology-based methods and machine learning algorithms, such as deep neural networks. We identify common threads, current applications, and future challenges."
+        },
+        {
+          "rank": 2,
+          "score": 0.5065881013870239,
+          "doc_id": "9",
+          "text": "Maritime Autonomous Surface Ships are in the development stage and they play an important role in the upcoming future. Present generation ships are semi-autonomous and controlled by the ship crew. The performance of the ship is predicted using the data collected from the ship with the help of machine learning and deep learning methods. Path planning for an autonomous ship is necessary for estimating the best possible route with minimum travel time and it depends on the weather. However, even during the navigation, there will be changes in weather and it should be predicted in order to reroute the ship. The weather information such as wave height, wave period, seawater temperature, humidity, atmospheric pressure, etc., is collected by ship external sensors, weather stations, buoys, and satellites. This paper investigates the ensemble machine learning approaches and seasonality approach for wave data prediction. The historical meteorological data are collected from six stations near Puerto Rico offshore and Hawaii offshore. We explore ensemble machine learning techniques on the data collected. The collected data are divided into training and testing data and apply machine learning models to predict the test data. The hyperparameter optimization is performed to find the best parameters before fitting on train data, this is essential to find the best results. Multivariate analysis is performed with all the methods and errors are computed to find the best models."
+        },
+        {
+          "rank": 3,
+          "score": 0.5033236742019653,
+          "doc_id": "42",
+          "text": "In recent years, machine learning algorithms are continuously being used and expanded in various fields, such as facial recognition, signal processing, personal authentication, and stock prediction. In particular, various algorithms, such as deep learning, reinforcement learning, and Q-learning, are continuously being improved. Among these algorithms, the expansion of deep learning is rapidly changing. Nevertheless, machine learning algorithms have not yet been applied in several fields, such as personal authentication technology. This technology is an essential tool in the digital information era, walking recognition technology as promising biometrics, and technology for solving state-space problems. Therefore, algorithm technologies of deep learning, reinforcement learning, and Q-learning, which are typical machine learning algorithms in various fields, such as agricultural technology, personal authentication, wireless network, game, biometric recognition, and image recognition, are being improved and expanded in this paper."
+        },
+        {
+          "rank": 4,
+          "score": 0.5021536350250244,
+          "doc_id": "88",
+          "text": "Statistical Machine Learning has undergone a phase transition from a pure academic endeavor to being one of the main drivers of modern commerce and science. Even more so, recent results such as those on tera-scale learning [1] and on very large neural networks [2] suggest that scale is an important ingredient in quality modeling. This tutorial introduces current applications, techniques and systems with the aim of cross-fertilizing research between the database and machine learning communities. The tutorial covers current large scale applications of Machine Learning, their computational model and the workflow behind building those. Based on this foundation, we present the current state-of-the-art in systems support in the bulk of the tutorial. We also identify critical gaps in the state-of-the-art. This leads to the closing of the seminar, where we introduce two sets of open research questions: Better systems support for the already established use cases of Machine Learning and support for recent advances in Machine Learning research."
+        },
+        {
+          "rank": 5,
+          "score": 0.48770543932914734,
+          "doc_id": "207",
+          "text": "AbstractThis paper addresses the relations between information retrieval (IR) and AI. It examines document retrieval, summarising its essential features and illustrating the state of its art by presenting one probabilistic model in detail, with some test results showing its value. The paper then analyses this model and related successful approaches, concentrating on and justifying their use of weak, redundant representation and reasoning. It goes on to other information management tasks and considers how the concepts and methods developed for retrieval may be applied to these, concluding by arguing that such ways of dealing with information may also have wider relevance to AI."
+        },
+        {
+          "rank": 6,
+          "score": 0.48580625653266907,
+          "doc_id": "90",
+          "text": "Artificial Intelligence has stimulated every aspect of today's life. Human thinking quality is trying to be involved through digital tools in all research areas of the modern era. The education industry is also leveraging artificial intelligence magical power. Uses of digital technologies in pedagogical paradigms are being observed from the last century. The widespread involvement of artificial intelligence starts reshaping the educational landscape. Adaptive learning is an emerging pedagogical technique that uses computer-based algorithms, tools, and technologies for the learning process. These intelligent practices help at each learning curve stage, from content development to student's exam evaluation. The quality of information technology students and professionals training has also improved drastically with the involvement of artificial intelligence systems. In this paper, we will investigate adopted digital methods in the education sector so far. We will focus on intelligent techniques adopted for information technology students and professionals. Our literature review works on our proposed framework that entails four categories. These categories are communication between teacher and student, improved content design for computing course, evaluation of student's performance and intelligent agent. Our research will present the role of artificial intelligence in reshaping the educational process."
+        },
+        {
+          "rank": 7,
+          "score": 0.4844597578048706,
+          "doc_id": "121",
+          "text": "Recently, artificial intelligence related technologies including machine learning are being applied to various fields, and the demand is also increasing. In particular, with the development of AR, VR, and MR technologies related to image processing, the utilization of computer vision based on deep learning has increased. The algorithms for object recognition and detection based on deep learning required for image processing are diversified and advanced. Accordingly, problems that were difficult to solve with the existing methodology were solved more simply and easily by using deep learning. This paper introduces various deep learning-based object recognition and extraction algorithms used to detect and recognize various objects in an image and analyzes the technologies that attract attention."
+        },
+        {
+          "rank": 8,
+          "score": 0.4832690358161926,
+          "doc_id": "22",
+          "text": "This is an extended research paper focusing on the applications of Machine Learing and Artificial Intelligence in virtual learning environment. The world is moving at a fast pace having the application of Machine Learning (ML) and Artificial Intelligence (AI) in all the major disciplines and the educational sector is also not untouched by its impact especially in an online learning environment. This paper attempts to elaborate on the benefits of ML and AI in E-Learning (EL) in general and explain how King Khalid University (KKU) EL Deanship is making the best of ML and AI in its practices. Also, researchers have focused on the future of ML and AI in any academic program. This research is descriptive in nature; results are based on qualitative analysis done through tools and techniques of EL applied in KKU as an example but the same modus operandi can be implemented by any institution in its EL platform. KKU is using Learning Management Services (LMS) for providing online learning practices and Blackboard (BB) for sharing online learning resources, therefore these tools are considered by the researchers for explaining the results of ML and AI."
+        },
+        {
+          "rank": 9,
+          "score": 0.4805688261985779,
+          "doc_id": "37",
+          "text": "Communication has been the basis for “key competencies” in every period of history. In the digital age, these competencies cross over lines of disciplines, modalities, approaches, media, and platforms. This paper shows the evolution of communicative competences, and explores the ramifications of the fourth industrial revolution, also known as Industry 4.0, for teaching and learning. In this revolutionary era, transmedia connects directly with changing educational needs, not only to help students learn to use tools driven by artificial intelligence, but to live in a world where we will be communicating with these agents in hybrid communities that include human and digital agents alike. The author approaches the role of the teacher in guiding students through this complex learning space, where plurilingualism and interculturality are prerequisites for success, and offers two simple activities that are easy to reproduce in the classroom that call upon emerging technologies. The activities present different learning situations that integrate reflection about technology and society while building language competencies. The paper also looks at content, its delivery, data and metadata, and the implications for a better world built on the principles of the Sustainable Development Goals (SDG’s) for 2030 enacted in 2015 by the United Nations (UN)."
+        },
+        {
+          "rank": 10,
+          "score": 0.4774191379547119,
+          "doc_id": "215",
+          "text": "This study reviews recent advances on the application of artificial intelligence for the early diagnosis of variousmaternal-fetal conditions such as preterm birth and abnormal fetal growth. It is found in this study that variousmachine learning methods have been successfully employed for different kinds of data capture with regard to earlydiagnosis of maternal-fetal conditions. With the more popular use of artificial intelligence, ethical issues should alsobe considered accordingly."
+        }
+      ]
+    },
+    {
+      "query": "What are the core contributions of spatial adaptation techniques in machine learning-based scheduling knowledge acquisition?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.514415979385376,
+          "doc_id": "147",
+          "text": "The last decade saw an enormous boost in the field of computational topology: methods and concepts from algebraic and differential topology, formerly confined to the realm of pure mathematics, have demonstrated their utility in numerous areas such as computational biology personalised medicine, and time-dependent data analysis, to name a few. The newly-emerging domain comprising topology-based techniques is often referred to as topological data analysis (TDA). Next to their applications in the aforementioned areas, TDA methods have also proven to be effective in supporting, enhancing, and augmenting both classical machine learning and deep learning models. In this paper, we review the state of the art of a nascent field we refer to as &ldquo;topological machine learning,&rdquo; i.e., the successful symbiosis of topology-based methods and machine learning algorithms, such as deep neural networks. We identify common threads, current applications, and future challenges."
+        },
+        {
+          "rank": 2,
+          "score": 0.4933745861053467,
+          "doc_id": "42",
+          "text": "In recent years, machine learning algorithms are continuously being used and expanded in various fields, such as facial recognition, signal processing, personal authentication, and stock prediction. In particular, various algorithms, such as deep learning, reinforcement learning, and Q-learning, are continuously being improved. Among these algorithms, the expansion of deep learning is rapidly changing. Nevertheless, machine learning algorithms have not yet been applied in several fields, such as personal authentication technology. This technology is an essential tool in the digital information era, walking recognition technology as promising biometrics, and technology for solving state-space problems. Therefore, algorithm technologies of deep learning, reinforcement learning, and Q-learning, which are typical machine learning algorithms in various fields, such as agricultural technology, personal authentication, wireless network, game, biometric recognition, and image recognition, are being improved and expanded in this paper."
+        },
+        {
+          "rank": 3,
+          "score": 0.49173852801322937,
+          "doc_id": "9",
+          "text": "Maritime Autonomous Surface Ships are in the development stage and they play an important role in the upcoming future. Present generation ships are semi-autonomous and controlled by the ship crew. The performance of the ship is predicted using the data collected from the ship with the help of machine learning and deep learning methods. Path planning for an autonomous ship is necessary for estimating the best possible route with minimum travel time and it depends on the weather. However, even during the navigation, there will be changes in weather and it should be predicted in order to reroute the ship. The weather information such as wave height, wave period, seawater temperature, humidity, atmospheric pressure, etc., is collected by ship external sensors, weather stations, buoys, and satellites. This paper investigates the ensemble machine learning approaches and seasonality approach for wave data prediction. The historical meteorological data are collected from six stations near Puerto Rico offshore and Hawaii offshore. We explore ensemble machine learning techniques on the data collected. The collected data are divided into training and testing data and apply machine learning models to predict the test data. The hyperparameter optimization is performed to find the best parameters before fitting on train data, this is essential to find the best results. Multivariate analysis is performed with all the methods and errors are computed to find the best models."
+        },
+        {
+          "rank": 4,
+          "score": 0.4885129928588867,
+          "doc_id": "121",
+          "text": "Recently, artificial intelligence related technologies including machine learning are being applied to various fields, and the demand is also increasing. In particular, with the development of AR, VR, and MR technologies related to image processing, the utilization of computer vision based on deep learning has increased. The algorithms for object recognition and detection based on deep learning required for image processing are diversified and advanced. Accordingly, problems that were difficult to solve with the existing methodology were solved more simply and easily by using deep learning. This paper introduces various deep learning-based object recognition and extraction algorithms used to detect and recognize various objects in an image and analyzes the technologies that attract attention."
+        },
+        {
+          "rank": 5,
+          "score": 0.479081928730011,
+          "doc_id": "88",
+          "text": "Statistical Machine Learning has undergone a phase transition from a pure academic endeavor to being one of the main drivers of modern commerce and science. Even more so, recent results such as those on tera-scale learning [1] and on very large neural networks [2] suggest that scale is an important ingredient in quality modeling. This tutorial introduces current applications, techniques and systems with the aim of cross-fertilizing research between the database and machine learning communities. The tutorial covers current large scale applications of Machine Learning, their computational model and the workflow behind building those. Based on this foundation, we present the current state-of-the-art in systems support in the bulk of the tutorial. We also identify critical gaps in the state-of-the-art. This leads to the closing of the seminar, where we introduce two sets of open research questions: Better systems support for the already established use cases of Machine Learning and support for recent advances in Machine Learning research."
+        },
+        {
+          "rank": 6,
+          "score": 0.47809189558029175,
+          "doc_id": "207",
+          "text": "AbstractThis paper addresses the relations between information retrieval (IR) and AI. It examines document retrieval, summarising its essential features and illustrating the state of its art by presenting one probabilistic model in detail, with some test results showing its value. The paper then analyses this model and related successful approaches, concentrating on and justifying their use of weak, redundant representation and reasoning. It goes on to other information management tasks and considers how the concepts and methods developed for retrieval may be applied to these, concluding by arguing that such ways of dealing with information may also have wider relevance to AI."
+        },
+        {
+          "rank": 7,
+          "score": 0.4778987169265747,
+          "doc_id": "49",
+          "text": "Artificial intelligence is one of the key technologies of the Fourth Industrial Revolution. This paper introduces the diverse kinds of approaches to subjects that tackle diverse kinds of research fields such as model-based MS approach, deep neural network model, image edge detection approach, cross-layer optimization model, LSSVM approach, screen design approach, CPU-GPU hybrid approach and so on. The research on Superintelligence and superconnection for IoT and big data is also described such as 'superintelligence-based systems and infrastructures', 'superconnection-based IoT and big data systems', 'analysis of IoT-based data and big data', 'infrastructure design for IoT and big data', 'artificial intelligence applications', and 'superconnection-based IoT devices'."
+        },
+        {
+          "rank": 8,
+          "score": 0.4756394326686859,
+          "doc_id": "90",
+          "text": "Artificial Intelligence has stimulated every aspect of today's life. Human thinking quality is trying to be involved through digital tools in all research areas of the modern era. The education industry is also leveraging artificial intelligence magical power. Uses of digital technologies in pedagogical paradigms are being observed from the last century. The widespread involvement of artificial intelligence starts reshaping the educational landscape. Adaptive learning is an emerging pedagogical technique that uses computer-based algorithms, tools, and technologies for the learning process. These intelligent practices help at each learning curve stage, from content development to student's exam evaluation. The quality of information technology students and professionals training has also improved drastically with the involvement of artificial intelligence systems. In this paper, we will investigate adopted digital methods in the education sector so far. We will focus on intelligent techniques adopted for information technology students and professionals. Our literature review works on our proposed framework that entails four categories. These categories are communication between teacher and student, improved content design for computing course, evaluation of student's performance and intelligent agent. Our research will present the role of artificial intelligence in reshaping the educational process."
+        },
+        {
+          "rank": 9,
+          "score": 0.4718576967716217,
+          "doc_id": "202",
+          "text": "A short review of research and applications in machine learning is given. Rather than attempt to cover all areas of ML, the focus is on its role in building expert systems, its approach to classification problems and ML methods of learning control. A relatively new area, inductive logic programming, is also discussed."
+        },
+        {
+          "rank": 10,
+          "score": 0.47022438049316406,
+          "doc_id": "128",
+          "text": "The channel state information (CSI) is essential for the base station (BS) to schedule user equipments (UEs) and efficiently manage the radio resources. Hence, the BS requests UEs to regularly feed back the CSI. However, frequent CSI reporting causes large signaling overhead. To reduce the feedback overhead, we propose two machine learning-based approaches to adjust the CSI feedback interval. We use a deep neural network and reinforcement learning (RL) to decide whether an UE feeds back the CSI. Simulation results show that the RL-based approach achieves the lowest mean squared error while reducing the number of CSI feedback transmissions."
+        }
+      ]
+    },
+    {
+      "query": "What are the core contributions of temporal adaptation techniques in machine learning-based scheduling knowledge acquisition?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5110251903533936,
+          "doc_id": "147",
+          "text": "The last decade saw an enormous boost in the field of computational topology: methods and concepts from algebraic and differential topology, formerly confined to the realm of pure mathematics, have demonstrated their utility in numerous areas such as computational biology personalised medicine, and time-dependent data analysis, to name a few. The newly-emerging domain comprising topology-based techniques is often referred to as topological data analysis (TDA). Next to their applications in the aforementioned areas, TDA methods have also proven to be effective in supporting, enhancing, and augmenting both classical machine learning and deep learning models. In this paper, we review the state of the art of a nascent field we refer to as &ldquo;topological machine learning,&rdquo; i.e., the successful symbiosis of topology-based methods and machine learning algorithms, such as deep neural networks. We identify common threads, current applications, and future challenges."
+        },
+        {
+          "rank": 2,
+          "score": 0.49113425612449646,
+          "doc_id": "9",
+          "text": "Maritime Autonomous Surface Ships are in the development stage and they play an important role in the upcoming future. Present generation ships are semi-autonomous and controlled by the ship crew. The performance of the ship is predicted using the data collected from the ship with the help of machine learning and deep learning methods. Path planning for an autonomous ship is necessary for estimating the best possible route with minimum travel time and it depends on the weather. However, even during the navigation, there will be changes in weather and it should be predicted in order to reroute the ship. The weather information such as wave height, wave period, seawater temperature, humidity, atmospheric pressure, etc., is collected by ship external sensors, weather stations, buoys, and satellites. This paper investigates the ensemble machine learning approaches and seasonality approach for wave data prediction. The historical meteorological data are collected from six stations near Puerto Rico offshore and Hawaii offshore. We explore ensemble machine learning techniques on the data collected. The collected data are divided into training and testing data and apply machine learning models to predict the test data. The hyperparameter optimization is performed to find the best parameters before fitting on train data, this is essential to find the best results. Multivariate analysis is performed with all the methods and errors are computed to find the best models."
+        },
+        {
+          "rank": 3,
+          "score": 0.48909682035446167,
+          "doc_id": "88",
+          "text": "Statistical Machine Learning has undergone a phase transition from a pure academic endeavor to being one of the main drivers of modern commerce and science. Even more so, recent results such as those on tera-scale learning [1] and on very large neural networks [2] suggest that scale is an important ingredient in quality modeling. This tutorial introduces current applications, techniques and systems with the aim of cross-fertilizing research between the database and machine learning communities. The tutorial covers current large scale applications of Machine Learning, their computational model and the workflow behind building those. Based on this foundation, we present the current state-of-the-art in systems support in the bulk of the tutorial. We also identify critical gaps in the state-of-the-art. This leads to the closing of the seminar, where we introduce two sets of open research questions: Better systems support for the already established use cases of Machine Learning and support for recent advances in Machine Learning research."
+        },
+        {
+          "rank": 4,
+          "score": 0.48816731572151184,
+          "doc_id": "207",
+          "text": "AbstractThis paper addresses the relations between information retrieval (IR) and AI. It examines document retrieval, summarising its essential features and illustrating the state of its art by presenting one probabilistic model in detail, with some test results showing its value. The paper then analyses this model and related successful approaches, concentrating on and justifying their use of weak, redundant representation and reasoning. It goes on to other information management tasks and considers how the concepts and methods developed for retrieval may be applied to these, concluding by arguing that such ways of dealing with information may also have wider relevance to AI."
+        },
+        {
+          "rank": 5,
+          "score": 0.4801872968673706,
+          "doc_id": "90",
+          "text": "Artificial Intelligence has stimulated every aspect of today's life. Human thinking quality is trying to be involved through digital tools in all research areas of the modern era. The education industry is also leveraging artificial intelligence magical power. Uses of digital technologies in pedagogical paradigms are being observed from the last century. The widespread involvement of artificial intelligence starts reshaping the educational landscape. Adaptive learning is an emerging pedagogical technique that uses computer-based algorithms, tools, and technologies for the learning process. These intelligent practices help at each learning curve stage, from content development to student's exam evaluation. The quality of information technology students and professionals training has also improved drastically with the involvement of artificial intelligence systems. In this paper, we will investigate adopted digital methods in the education sector so far. We will focus on intelligent techniques adopted for information technology students and professionals. Our literature review works on our proposed framework that entails four categories. These categories are communication between teacher and student, improved content design for computing course, evaluation of student's performance and intelligent agent. Our research will present the role of artificial intelligence in reshaping the educational process."
+        },
+        {
+          "rank": 6,
+          "score": 0.4799301326274872,
+          "doc_id": "215",
+          "text": "This study reviews recent advances on the application of artificial intelligence for the early diagnosis of variousmaternal-fetal conditions such as preterm birth and abnormal fetal growth. It is found in this study that variousmachine learning methods have been successfully employed for different kinds of data capture with regard to earlydiagnosis of maternal-fetal conditions. With the more popular use of artificial intelligence, ethical issues should alsobe considered accordingly."
+        },
+        {
+          "rank": 7,
+          "score": 0.4751235842704773,
+          "doc_id": "42",
+          "text": "In recent years, machine learning algorithms are continuously being used and expanded in various fields, such as facial recognition, signal processing, personal authentication, and stock prediction. In particular, various algorithms, such as deep learning, reinforcement learning, and Q-learning, are continuously being improved. Among these algorithms, the expansion of deep learning is rapidly changing. Nevertheless, machine learning algorithms have not yet been applied in several fields, such as personal authentication technology. This technology is an essential tool in the digital information era, walking recognition technology as promising biometrics, and technology for solving state-space problems. Therefore, algorithm technologies of deep learning, reinforcement learning, and Q-learning, which are typical machine learning algorithms in various fields, such as agricultural technology, personal authentication, wireless network, game, biometric recognition, and image recognition, are being improved and expanded in this paper."
+        },
+        {
+          "rank": 8,
+          "score": 0.47470736503601074,
+          "doc_id": "37",
+          "text": "Communication has been the basis for “key competencies” in every period of history. In the digital age, these competencies cross over lines of disciplines, modalities, approaches, media, and platforms. This paper shows the evolution of communicative competences, and explores the ramifications of the fourth industrial revolution, also known as Industry 4.0, for teaching and learning. In this revolutionary era, transmedia connects directly with changing educational needs, not only to help students learn to use tools driven by artificial intelligence, but to live in a world where we will be communicating with these agents in hybrid communities that include human and digital agents alike. The author approaches the role of the teacher in guiding students through this complex learning space, where plurilingualism and interculturality are prerequisites for success, and offers two simple activities that are easy to reproduce in the classroom that call upon emerging technologies. The activities present different learning situations that integrate reflection about technology and society while building language competencies. The paper also looks at content, its delivery, data and metadata, and the implications for a better world built on the principles of the Sustainable Development Goals (SDG’s) for 2030 enacted in 2015 by the United Nations (UN)."
+        },
+        {
+          "rank": 9,
+          "score": 0.47148770093917847,
+          "doc_id": "121",
+          "text": "Recently, artificial intelligence related technologies including machine learning are being applied to various fields, and the demand is also increasing. In particular, with the development of AR, VR, and MR technologies related to image processing, the utilization of computer vision based on deep learning has increased. The algorithms for object recognition and detection based on deep learning required for image processing are diversified and advanced. Accordingly, problems that were difficult to solve with the existing methodology were solved more simply and easily by using deep learning. This paper introduces various deep learning-based object recognition and extraction algorithms used to detect and recognize various objects in an image and analyzes the technologies that attract attention."
+        },
+        {
+          "rank": 10,
+          "score": 0.47097742557525635,
+          "doc_id": "57",
+          "text": "Timely analysis of imaging data is critical for diagnosis and decision-making for proper treatment strategy in the cases of ischemic stroke. Various efforts have been made to develop computer-assisted systems to improve the accuracy of stroke diagnosis and acute stroke triage. The widespread emergence of artificial intelligence technology has been integrated into the field of medicine. Artificial intelligence can play an important role in providing care to patients with stroke. In the past few decades, numerous studies have explored the use of machine learning and deep learning algorithms for application in the management of stroke. In this review, we will start with a brief introduction to machine learning and deep learning and provide clinical applications of machine learning and deep learning in various aspects of stroke management, including rapid diagnosis and improved triage, identifying large vessel occlusion, predicting time from stroke onset, automated ASPECTS (Alberta Stroke Program Early CT Score) measurement, lesion segmentation, and predicting treatment outcome. This work is focused on providing the current application of artificial intelligence techniques in the imaging of ischemic stroke, including MRI and CT."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

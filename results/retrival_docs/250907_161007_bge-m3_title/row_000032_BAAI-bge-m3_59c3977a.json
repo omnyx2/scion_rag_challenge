@@ -1,0 +1,221 @@
+{
+  "id": "row_000032",
+  "model_name": "BAAI/bge-m3",
+  "timestamp_kst": "2025-09-07T16:10:12.469487+09:00",
+  "trial_id": "59c3977a",
+  "queries": [
+    {
+      "query": "Can you provide a brief synthesis of the performance evaluation criteria and standardization framework proposed for u-IT convergence devices?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7616384625434875,
+          "doc_id": "80",
+          "text": "u-IT Convergence 기기의 성능평가기준과 표준화 연구"
+        },
+        {
+          "rank": 2,
+          "score": 0.5959584712982178,
+          "doc_id": "211",
+          "text": "On exploring factors for enhancing export competitiveness in IT Convergence industries"
+        },
+        {
+          "rank": 3,
+          "score": 0.5939223766326904,
+          "doc_id": "54",
+          "text": "Future trends of IT convergence"
+        },
+        {
+          "rank": 4,
+          "score": 0.5935508012771606,
+          "doc_id": "39",
+          "text": "IT convergence and security"
+        },
+        {
+          "rank": 5,
+          "score": 0.5922613739967346,
+          "doc_id": "229",
+          "text": "Convergence IT 관련 기사"
+        },
+        {
+          "rank": 6,
+          "score": 0.5914595127105713,
+          "doc_id": "136",
+          "text": "IT/automation convergence revisited"
+        },
+        {
+          "rank": 7,
+          "score": 0.5865017175674438,
+          "doc_id": "67",
+          "text": "Medical Device Connectivity - IT Convergence :"
+        },
+        {
+          "rank": 8,
+          "score": 0.561314582824707,
+          "doc_id": "105",
+          "text": "A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data"
+        },
+        {
+          "rank": 9,
+          "score": 0.561314582824707,
+          "doc_id": "218",
+          "text": "A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data"
+        },
+        {
+          "rank": 10,
+          "score": 0.5462790131568909,
+          "doc_id": "94",
+          "text": "The Trends of IT Convergence in Korea"
+        }
+      ]
+    },
+    {
+      "query": "What performance evaluation criteria have been proposed for u-IT convergence devices?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7764730453491211,
+          "doc_id": "80",
+          "text": "u-IT Convergence 기기의 성능평가기준과 표준화 연구"
+        },
+        {
+          "rank": 2,
+          "score": 0.623517632484436,
+          "doc_id": "229",
+          "text": "Convergence IT 관련 기사"
+        },
+        {
+          "rank": 3,
+          "score": 0.6138569116592407,
+          "doc_id": "211",
+          "text": "On exploring factors for enhancing export competitiveness in IT Convergence industries"
+        },
+        {
+          "rank": 4,
+          "score": 0.61371910572052,
+          "doc_id": "54",
+          "text": "Future trends of IT convergence"
+        },
+        {
+          "rank": 5,
+          "score": 0.6050563454627991,
+          "doc_id": "67",
+          "text": "Medical Device Connectivity - IT Convergence :"
+        },
+        {
+          "rank": 6,
+          "score": 0.5980829000473022,
+          "doc_id": "39",
+          "text": "IT convergence and security"
+        },
+        {
+          "rank": 7,
+          "score": 0.5930160284042358,
+          "doc_id": "136",
+          "text": "IT/automation convergence revisited"
+        },
+        {
+          "rank": 8,
+          "score": 0.5725632309913635,
+          "doc_id": "38",
+          "text": "IT convergence security"
+        },
+        {
+          "rank": 9,
+          "score": 0.571476936340332,
+          "doc_id": "119",
+          "text": "Photonics IT Convergence"
+        },
+        {
+          "rank": 10,
+          "score": 0.5690130591392517,
+          "doc_id": "218",
+          "text": "A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data"
+        }
+      ]
+    },
+    {
+      "query": "What standardization framework has been proposed for u-IT convergence devices?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7232694625854492,
+          "doc_id": "80",
+          "text": "u-IT Convergence 기기의 성능평가기준과 표준화 연구"
+        },
+        {
+          "rank": 2,
+          "score": 0.6339478492736816,
+          "doc_id": "54",
+          "text": "Future trends of IT convergence"
+        },
+        {
+          "rank": 3,
+          "score": 0.6085007190704346,
+          "doc_id": "39",
+          "text": "IT convergence and security"
+        },
+        {
+          "rank": 4,
+          "score": 0.6057373285293579,
+          "doc_id": "229",
+          "text": "Convergence IT 관련 기사"
+        },
+        {
+          "rank": 5,
+          "score": 0.5898906588554382,
+          "doc_id": "38",
+          "text": "IT convergence security"
+        },
+        {
+          "rank": 6,
+          "score": 0.5837312936782837,
+          "doc_id": "67",
+          "text": "Medical Device Connectivity - IT Convergence :"
+        },
+        {
+          "rank": 7,
+          "score": 0.5819888114929199,
+          "doc_id": "136",
+          "text": "IT/automation convergence revisited"
+        },
+        {
+          "rank": 8,
+          "score": 0.567685067653656,
+          "doc_id": "94",
+          "text": "The Trends of IT Convergence in Korea"
+        },
+        {
+          "rank": 9,
+          "score": 0.5536308288574219,
+          "doc_id": "105",
+          "text": "A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data"
+        },
+        {
+          "rank": 10,
+          "score": 0.5536308288574219,
+          "doc_id": "218",
+          "text": "A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

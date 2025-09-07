@@ -1,0 +1,101 @@
+{
+    "id": "row_000037",
+    "result": "##제목##\nIT와 BT 융합 기술의 특성: 특허 분석 기반 융합 강도 및 협력 네트워크 요약\n\n##서론##\n정보기술(IT)과 생명공학기술(BT)의 융합은 최근 기술 혁신의 주목할 만한 특징 중 하나로, IT의 발전이 BT 분야의 혁신을 주도하고 있습니다. 본 요약은 제공된 JSON 데이터의 특허 분석 결과를 바탕으로 IT와 BT 융합 기술의 융합 강도와 협력 네트워크의 특성을 설명하고자 합니다.\n\n##본론##\n### 융합 강도 및 특성\n특허 데이터 분석에 따르면, IT와 BT를 포함한 기술 간 융합 강도는 2002년 이후 지속적으로 증가하는 추세를 보입니다. 특히 IT는 다른 기술 분야와의 융합이 가장 활발하게 일어나는 분야로, BT 분야의 혁신적인 장치 개발을 가능하게 하는 핵심적인 역할을 합니다. 이러한 융합의 강도와 범위는 특허의 인용 및 공동 분류 분석과 같은 정량적 데이터를 통해 체계적으로 측정될 수 있습니다.\n\n### 협력 네트워크 분석\nBT 분야는 지식 집약적인 특성을 가지므로 강력한 협력 네트워크 구축이 매우 중요합니다. 실제로 IT, BT, NT(나노기술) 중에서 BT 분야가 조직 내부 및 조직 간 협력이 가장 활발한 것으로 나타났습니다. 이는 기업들이 제한된 내부 자원으로 경쟁력을 유지하기 위해 외부 기관과의 협력을 적극적으로 추구하기 때문입니다.\n\n특히 국내 중소기업의 경우, 정부 및 대학을 기반으로 한 기술 융합 생태계를 구축하는 것이 미래 성장에 가장 중요한 요소 중 하나로 분석되었습니다. 중소기업의 기술 융합 방향과 정부 및 대학의 융합 구조가 잘 부합할 때 역동적인 성장을 기대할 수 있습니다.\n\n##결론##\nIT와 BT의 기술 융합은 2002년 이후 꾸준히 강화되고 있으며, IT가 BT의 발전을 견인하는 양상을 보입니다. 지식 집약적인 BT 분야의 특성상 조직 내외부의 활발한 협력 네트워크가 필수적이며, 특히 중소기업의 성장을 위해서는 정부 및 대학과의 연계를 통한 생태계 조성이 핵심적인 전략으로 분석됩니다. 따라서 IT-BT 융합 분야의 경쟁력 확보를 위해서는 다양한 외부 기관과의 협력을 강화하는 전략이 중요합니다.",
+    "prompt": "You will be given a JSON object as a string which contains a series of related search queries and their retrieved documents ('hits'). Do not make answer from external knowledge. You must make answer inside of Context.\nYour main task is to answer the specific 'Question' provided below. Use the entire JSON data as context to formulate your answer, paying close attention to the 'text' fields within the 'hits' lists.\n\nThe JSON data has a list of queries. The 'original' query is the one you need to answer. The other queries are supplementary and provide additional context.\n\nIf the 'Question' is in Korean, format your answer in Korean as follows:\n##제목##\n\n##서론##\n\n##본론##\n\n##결론##\n\nIf the 'Question' is in English, format your answer in English as follows:\n##Title##\n\n##Introduction##\n\n##Main Body##\n\n##Conclusion##\n\n--- Context (JSON Data) ---\n{\n  \"id\": \"row_000037\",\n  \"model_name\": \"Snowflake/snowflake-arctic-embed-l-v2.0\",\n  \"timestamp_kst\": \"2025-09-07T15:53:07.137603+09:00\",\n  \"trial_id\": \"b827e1d2\",\n  \"queries\": [\n    {\n      \"query\": \"IT와 BT 융합 기술의 특성과 특허 분석 결과를 바탕으로 융합 강도와 협력 네트워크를 요약해 주세요.\",\n      \"query_meta\": {\n        \"type\": \"original\"\n      },\n      \"top_k\": 10,\n      \"hits\": [\n        {\n          \"rank\": 1,\n          \"score\": 0.5290101766586304,\n          \"doc_id\": \"36\",\n          \"text\": \"Technological Convergence of IT and BT: Evidence from Patent Analysis Technological Convergence of IT and BT: Evidence from Patent Analysis Technological Convergence of IT and BT: Evidence from Patent Analysis In recent innovation trends, one notable feature is the merging and overlapping of technologies: in other words, technological convergence. A key technological convergence is the fusion of biotechnology (BT) and information technology (IT). Major IT advances have led to innovative devices that allow us to advance BT. However, the lack of data on IT-BT convergence is a major impediment: relatively little research has analyzed the inter-disciplinary relationship of different industries. We propose a systematic approach to analyzing the technological convergence of BT and IT. Patent analysis, including citation and co-classification analyses, was adopted as a main method to measure the convergence intensity and coverage, and two portfolio matrices were developed to manage the technological convergence. The contribution of this paper is that it provides practical evidences for IT-BT convergence, based on quantitative data and systematic processes. This has managerial implications for each sector of IT and BT.\"\n        },\n        {\n          \"rank\": 2,\n          \"score\": 0.5010452270507812,\n          \"doc_id\": \"105\",\n          \"text\": \"A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data Technological convergence is yielding new values and affecting various fields not by single technology but by convergence between technologies. This study aims to analyze the IT -BT-NT convergence and differences between technologies in respect of collaboration within (inventor) and between (assignee) organizations. Among the main technologies leading the technological convergence, IT is the most active of converging with other fields. BT is knowledge-intensive and strong cooperative networks are important in this area.NT is applied in various industrial fields upon the basic technology. Using the data on applied and granted patents by Korean applicants in the U.S., this study conducted quantitative analysis and ANOVA to gain the following results. First, the degree of convergence in between IT-BT-NT is continuously increasing since 2002. Second, BT is where the collaboration within and between organizations is the most active among IT-BT-NT. Third, there were certain differences in the degree of convergence according to the years and the fields of technologies in all the IT-BT-NT. Organizations cooperate with other institutions to sustain their competitiveness with limited internal resources. Companies in these fields are recommended to perform diverse strategies to pursue further collaboration with the outside.\"\n        },\n        {\n          \"rank\": 3,\n          \"score\": 0.5000542402267456,\n          \"doc_id\": \"198\",\n          \"text\": \"국내 중소기업의 기술융합 전략 및 성장 정책: IT & BT 융합기술 기반 네트워크 분석 국내 중소기업의 기술융합 전략 및 성장 정책: IT & BT 융합기술 기반 네트워크 분석 국내 중소기업의 기술융합 전략 및 성장 정책: IT & BT 융합기술 기반 네트워크 분석 Many scholars have addressed the technological convergence of small-medium sized firms in Korea and their impact on the economic growth of nation. Nevertheless, most studies have been investigated the relationship between entrepreneurship and venture creation, and a few studies have analyzed the innovation and technological convergence of SMEs. The purpose of this research is to gain industrial insight into the technological convergence and to suggest a dynamic growth policy for entrepreneurs of SMEs to improve their convergence performance based on IT and BT. Therefore, we intend to propose solutions to these key questions in convergence such as; what are the key patterns in the process of technological convergence of SMEs on IT and BT, and what kinds of strategy do their need? In order to answer these research questions, we adopt network analysis using patent citation information. Results of network analysis revealed that building ecosystem based on government and universities is one of the most important factors for the future growth of SMEs in Korea. Also, the fit between technological convergence direction of SMEs and division of convergence structure of government and universities will be positively associated with dynamic growth of SMEs in Korea. In conclusion, this research extends the current studies on important aspects of SMEs in the technological convergence process by proposing their growth in convergence process to a newly converging context, IT and BT, and shed light on the integrative perspectives of crucial roles of SMEs on innovation performance in the IT and BT technological convergence.\"\n        }\n      ]\n    },\n    {\n      \"query\": \"IT와 BT 융합 기술의 특성은 무엇인가요?\",\n      \"query_meta\": {\n        \"type\": \"single_hop\",\n        \"index\": 0\n      },\n      \"top_k\": 10,\n      \"hits\": [\n        {\n          \"rank\": 1,\n          \"score\": 0.4384736120700836,\n          \"doc_id\": \"54\",\n          \"text\": \"Future trends of IT convergence Future trends of IT convergence Future trends of IT convergence 없음\"\n        },\n        {\n          \"rank\": 2,\n          \"score\": 0.436960905790329,\n          \"doc_id\": \"146\",\n          \"text\": \"미래 IT융합 신산업 육성 및 선도방안 미래 IT융합 신산업 육성 및 선도방안 미래 IT융합 신산업 육성 및 선도방안 IT는 한국의 경제성장에 큰 기여를 해왔으며 사회전반의 패러다임 혁신을 통해 생산성, 효율성, 편의성, 소통성을 증진시키고 삶의 양식에 전면적 변화를 가져왔다. 국민경제와 사회문화에서 지대한 의미를 지나는 IT는 다른 기술 또는 산업과의 융합이라는 새로운 변화와 혁신의 중심에 위치하고 있다. IT융합은 IT의 자체 고도화를 바탕으로 다른 분야의 기술개발과 산업발전을 견인하거나 새로운 산업을 창출하는 것으로 우리나라를 비롯하며 주요국에서는 자원과 역량을 선택적으로 집중하고 있다. 이 논문에서는 IT 융합과 관련된 주요국의 산업 전략 및 기술개발 동향을 파악하고 전문가 설문조사결과를 바탕으로 한국의 IT 융합역량의 수준을 평가하고 결론적으로 IT융합신산업육성 및 선도방안에 관한 전략적 제언을 하고자 한다.\"\n        },\n        {\n          \"rank\": 3,\n          \"score\": 0.43670016527175903,\n          \"doc_id\": \"136\",\n          \"text\": \"IT/automation convergence revisited IT/automation convergence revisited IT/automation convergence revisited 없음\"\n        }\n      ]\n    },\n    {\n      \"query\": \"IT와 BT 융합 기술의 특허 분석 결과는 무엇인가요?\",\n      \"query_meta\": {\n        \"type\": \"single_hop\",\n        \"index\": 1\n      },\n      \"top_k\": 10,\n      \"hits\": [\n        {\n          \"rank\": 1,\n          \"score\": 0.4450836777687073,\n          \"doc_id\": \"119\",\n          \"text\": \"Photonics IT Convergence Photonics IT Convergence Photonics IT Convergence 없음\"\n        },\n        {\n          \"rank\": 2,\n          \"score\": 0.432692289352417,\n          \"doc_id\": \"136\",\n          \"text\": \"IT/automation convergence revisited IT/automation convergence revisited IT/automation convergence revisited 없음\"\n        },\n        {\n          \"rank\": 3,\n          \"score\": 0.4268936514854431,\n          \"doc_id\": \"133\",\n          \"text\": \"IT and OT convergence IT and OT convergence IT and OT convergence 없음\"\n        }\n      ]\n    }\n  ],\n  \"meta\": {\n    \"model\": \"gemini-2.5-flash\",\n    \"temperature\": 0.2\n  }\n}\n\n--- Question ---\nIT와 BT 융합 기술의 특성과 특허 분석 결과를 바탕으로 융합 강도와 협력 네트워크를 요약해 주세요.\n",
+    "model": "models/gemini-2.5-pro",
+    "retrival": {
+        "id": "row_000037",
+        "model_name": "Snowflake/snowflake-arctic-embed-l-v2.0",
+        "timestamp_kst": "2025-09-07T15:53:07.137603+09:00",
+        "trial_id": "b827e1d2",
+        "queries": [
+            {
+                "query": "IT와 BT 융합 기술의 특성과 특허 분석 결과를 바탕으로 융합 강도와 협력 네트워크를 요약해 주세요.",
+                "query_meta": {
+                    "type": "original"
+                },
+                "top_k": 10,
+                "hits": [
+                    {
+                        "rank": 1,
+                        "score": 0.5290101766586304,
+                        "doc_id": "36",
+                        "text": "Technological Convergence of IT and BT: Evidence from Patent Analysis Technological Convergence of IT and BT: Evidence from Patent Analysis Technological Convergence of IT and BT: Evidence from Patent Analysis In recent innovation trends, one notable feature is the merging and overlapping of technologies: in other words, technological convergence. A key technological convergence is the fusion of biotechnology (BT) and information technology (IT). Major IT advances have led to innovative devices that allow us to advance BT. However, the lack of data on IT-BT convergence is a major impediment: relatively little research has analyzed the inter-disciplinary relationship of different industries. We propose a systematic approach to analyzing the technological convergence of BT and IT. Patent analysis, including citation and co-classification analyses, was adopted as a main method to measure the convergence intensity and coverage, and two portfolio matrices were developed to manage the technological convergence. The contribution of this paper is that it provides practical evidences for IT-BT convergence, based on quantitative data and systematic processes. This has managerial implications for each sector of IT and BT."
+                    },
+                    {
+                        "rank": 2,
+                        "score": 0.5010452270507812,
+                        "doc_id": "105",
+                        "text": "A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data Technological convergence is yielding new values and affecting various fields not by single technology but by convergence between technologies. This study aims to analyze the IT -BT-NT convergence and differences between technologies in respect of collaboration within (inventor) and between (assignee) organizations. Among the main technologies leading the technological convergence, IT is the most active of converging with other fields. BT is knowledge-intensive and strong cooperative networks are important in this area.NT is applied in various industrial fields upon the basic technology. Using the data on applied and granted patents by Korean applicants in the U.S., this study conducted quantitative analysis and ANOVA to gain the following results. First, the degree of convergence in between IT-BT-NT is continuously increasing since 2002. Second, BT is where the collaboration within and between organizations is the most active among IT-BT-NT. Third, there were certain differences in the degree of convergence according to the years and the fields of technologies in all the IT-BT-NT. Organizations cooperate with other institutions to sustain their competitiveness with limited internal resources. Companies in these fields are recommended to perform diverse strategies to pursue further collaboration with the outside."
+                    },
+                    {
+                        "rank": 3,
+                        "score": 0.5000542402267456,
+                        "doc_id": "198",
+                        "text": "국내 중소기업의 기술융합 전략 및 성장 정책: IT & BT 융합기술 기반 네트워크 분석 국내 중소기업의 기술융합 전략 및 성장 정책: IT & BT 융합기술 기반 네트워크 분석 국내 중소기업의 기술융합 전략 및 성장 정책: IT & BT 융합기술 기반 네트워크 분석 Many scholars have addressed the technological convergence of small-medium sized firms in Korea and their impact on the economic growth of nation. Nevertheless, most studies have been investigated the relationship between entrepreneurship and venture creation, and a few studies have analyzed the innovation and technological convergence of SMEs. The purpose of this research is to gain industrial insight into the technological convergence and to suggest a dynamic growth policy for entrepreneurs of SMEs to improve their convergence performance based on IT and BT. Therefore, we intend to propose solutions to these key questions in convergence such as; what are the key patterns in the process of technological convergence of SMEs on IT and BT, and what kinds of strategy do their need? In order to answer these research questions, we adopt network analysis using patent citation information. Results of network analysis revealed that building ecosystem based on government and universities is one of the most important factors for the future growth of SMEs in Korea. Also, the fit between technological convergence direction of SMEs and division of convergence structure of government and universities will be positively associated with dynamic growth of SMEs in Korea. In conclusion, this research extends the current studies on important aspects of SMEs in the technological convergence process by proposing their growth in convergence process to a newly converging context, IT and BT, and shed light on the integrative perspectives of crucial roles of SMEs on innovation performance in the IT and BT technological convergence."
+                    }
+                ]
+            },
+            {
+                "query": "IT와 BT 융합 기술의 특성은 무엇인가요?",
+                "query_meta": {
+                    "type": "single_hop",
+                    "index": 0
+                },
+                "top_k": 10,
+                "hits": [
+                    {
+                        "rank": 1,
+                        "score": 0.4384736120700836,
+                        "doc_id": "54",
+                        "text": "Future trends of IT convergence Future trends of IT convergence Future trends of IT convergence 없음"
+                    },
+                    {
+                        "rank": 2,
+                        "score": 0.436960905790329,
+                        "doc_id": "146",
+                        "text": "미래 IT융합 신산업 육성 및 선도방안 미래 IT융합 신산업 육성 및 선도방안 미래 IT융합 신산업 육성 및 선도방안 IT는 한국의 경제성장에 큰 기여를 해왔으며 사회전반의 패러다임 혁신을 통해 생산성, 효율성, 편의성, 소통성을 증진시키고 삶의 양식에 전면적 변화를 가져왔다. 국민경제와 사회문화에서 지대한 의미를 지나는 IT는 다른 기술 또는 산업과의 융합이라는 새로운 변화와 혁신의 중심에 위치하고 있다. IT융합은 IT의 자체 고도화를 바탕으로 다른 분야의 기술개발과 산업발전을 견인하거나 새로운 산업을 창출하는 것으로 우리나라를 비롯하며 주요국에서는 자원과 역량을 선택적으로 집중하고 있다. 이 논문에서는 IT 융합과 관련된 주요국의 산업 전략 및 기술개발 동향을 파악하고 전문가 설문조사결과를 바탕으로 한국의 IT 융합역량의 수준을 평가하고 결론적으로 IT융합신산업육성 및 선도방안에 관한 전략적 제언을 하고자 한다."
+                    },
+                    {
+                        "rank": 3,
+                        "score": 0.43670016527175903,
+                        "doc_id": "136",
+                        "text": "IT/automation convergence revisited IT/automation convergence revisited IT/automation convergence revisited 없음"
+                    }
+                ]
+            },
+            {
+                "query": "IT와 BT 융합 기술의 특허 분석 결과는 무엇인가요?",
+                "query_meta": {
+                    "type": "single_hop",
+                    "index": 1
+                },
+                "top_k": 10,
+                "hits": [
+                    {
+                        "rank": 1,
+                        "score": 0.4450836777687073,
+                        "doc_id": "119",
+                        "text": "Photonics IT Convergence Photonics IT Convergence Photonics IT Convergence 없음"
+                    },
+                    {
+                        "rank": 2,
+                        "score": 0.432692289352417,
+                        "doc_id": "136",
+                        "text": "IT/automation convergence revisited IT/automation convergence revisited IT/automation convergence revisited 없음"
+                    },
+                    {
+                        "rank": 3,
+                        "score": 0.4268936514854431,
+                        "doc_id": "133",
+                        "text": "IT and OT convergence IT and OT convergence IT and OT convergence 없음"
+                    }
+                ]
+            }
+        ],
+        "meta": {
+            "model": "gemini-2.5-flash",
+            "temperature": 0.2
+        }
+    }
+}

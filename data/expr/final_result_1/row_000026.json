@@ -1,0 +1,129 @@
+{
+    "id": "row_000026",
+    "result": "##제목##\n클라우드 컴퓨팅 환경에서의 딥 러닝 프레임워크 성능 비교 연구 동향\n\n##서론##\n통신 및 저장 기술의 발달로 데이터 양이 폭발적으로 증가함에 따라, 대규모 데이터를 효율적으로 처리하는 클라우드 컴퓨팅 기술이 주목받고 있습니다. 이와 더불어 딥 러닝(Deep Learning)이 미래 사회의 핵심 분야로 떠오르면서 다양한 오픈소스 기반 프레임워크가 개발되었습니다. 하지만 특정 클라우드 환경에서 어떤 프레임워크가 더 우수한 성능을 보이는지에 대한 비교 연구는 아직 부족한 실정입니다.\n\n##본론##\n제공된 자료에 따르면, 클라우드 컴퓨팅 환경에서 여러 오픈소스 딥 러닝 프레임워크 간의 구체적인 성능 비교 결과는 명시되어 있지 않습니다. 대신, 자료는 이러한 연구의 필요성을 강조하고 있습니다.\n\n핵심 내용은 다음과 같습니다.\n*   **연구의 부재**: 많은 사람들이 딥 러닝을 쉽게 접할 수 있게 되었지만, 특정 환경에서 어떤 프레임워크가 더 우수한 성능을 보이는지에 대한 연구는 부족합니다.\n*   **연구 제안**: 이러한 한계점을 개선하기 위해, 대표적인 클라우드 컴퓨팅용 오픈소스 소프트웨어인 'OpenStack'을 이용한 환경에서 딥 러닝 프레임워크들의 성능을 비교하는 연구가 제안되고 있습니다.\n\n즉, 주어진 정보는 성능 비교의 '결과'를 담고 있는 것이 아니라, 그러한 비교 연구가 왜 필요한지와 향후 연구 방향을 제시하고 있습니다.\n\n##결론##\n결론적으로, 주어진 정보 내에서는 클라우드 컴퓨팅 환경에서 오픈소스 딥 러닝 프레임워크들의 성능을 비교한 구체적인 결과를 찾을 수 없습니다. 이 정보의 핵심 의의는 특정 클라우드 환경(예: OpenStack)에서의 딥 러닝 프레임워크 성능 비교 연구가 부족하다는 점을 지적하고, 해당 분야의 연구 필요성을 제기하는 데 있습니다. 이러한 연구가 수행된다면 사용자들이 자신의 환경에 가장 적합한 프레임워크를 선택하는 데 중요한 기준을 제공할 수 있을 것입니다.",
+    "prompt": "You will be given a JSON object as a string which contains a series of related search queries and their retrieved documents ('hits'). Do not make answer from external knowledge. You must make answer inside of Context.\nYour main task is to answer the specific 'Question' provided below. Use the entire JSON data as context to formulate your answer, paying close attention to the 'text' fields within the 'hits' lists.\n\nThe JSON data has a list of queries. The 'original' query is the one you need to answer. The other queries are supplementary and provide additional context.\n\nIf the 'Question' is in Korean, format your answer in Korean as follows:\n##제목##\n\n##서론##\n\n##본론##\n\n##결론##\n\nIf the 'Question' is in English, format your answer in English as follows:\n##Title##\n\n##Introduction##\n\n##Main Body##\n\n##Conclusion##\n\n--- Context (JSON Data) ---\n{\n  \"id\": \"row_000026\",\n  \"model_name\": \"Snowflake/snowflake-arctic-embed-l-v2.0\",\n  \"timestamp_kst\": \"2025-09-07T15:53:05.577199+09:00\",\n  \"trial_id\": \"dd5495f5\",\n  \"queries\": [\n    {\n      \"query\": \"클라우드 컴퓨팅 환경에서 오픈소스 기반 딥 러닝 프레임워크들 간의 성능 비교 결과와 그 의의를 간결하게 정리해 주실 수 있나요?\",\n      \"query_meta\": {\n        \"type\": \"original\"\n      },\n      \"top_k\": 10,\n      \"hits\": [\n        {\n          \"rank\": 1,\n          \"score\": 0.5547279119491577,\n          \"doc_id\": \"50\",\n          \"text\": \"Deep Learning 프레임워크 성능 비교 연구 : Cloud Computing 환경에서 Deep Learning 프레임워크 성능 비교 연구 : Cloud Computing 환경에서 Deep Learning 프레임워크 성능 비교 연구 : Cloud Computing 환경에서 통신 기술의 발달로 인한 사람과 사람, 장치와 장치, 사람과 장치 간의 연결성의 증가와 저장 매체 기술의 발달, 그리고 데이터 저장 비용의 감소로 인해 데이터의 양이 폭발적으로 증가했다. 이에 따라 다양한 형태의 대규모의 데이터를 빠른 시간 내에 효율적으로 처리할 수 있는 Cloud Computing 기술이 주목 받고 있고, Cloud Computing을 위한 오픈소스 기반의 솔루션 또한 많이 나타나게 되었다. &amp;#xD; 2012년부터 주목받기 시작한 Deep Learning은 전 세계적으로 가장 많은 관심을 받는 연구 분야 중 하나이며, 이중 CNN(Convolution Neural Network)은 가장 대표적 알고리즘이다. Deep Learning은 미래사회를 이끌어갈 분야로 평가받고 있으며, 이에 따라 많은 연구들이 진행되고 있고, Deep Learning을 쉽게 활용할 수 있도록 하는 많은 프레임워크가 개발되었다. &amp;#xD; 이에 따라 많은 사람들이 쉽게 Deep Learning을 접할 수 있게 되었지만 특정 환경에서 어떤 프레임워크가 더 우수한 성능을 보이는지에 대한 연구는 부족한 실정이다. 본 논문에서는 특정 환경에서의 성능 비교가 부족하다는 기존 연구의 한계점을 개선하고자 가장 대표적인 Cloud Computing용 오픈소스 소프트웨어 중 하나인 OpenStack을 이용하여 Cloud Computing 환경에서 어떤 Deep Learning 프레임워크가 더 우수한 성능을 보이는지 비교해 보고자 한다.\"\n        },\n        {\n          \"rank\": 2,\n          \"score\": 0.40476104617118835,\n          \"doc_id\": \"109\",\n          \"text\": \"Optimized Data Processing Analysis Using Big Data Cloud Platform Optimized Data Processing Analysis Using Big Data Cloud Platform Optimized Data Processing Analysis Using Big Data Cloud Platform Recently data processing has main gained many attention both from academic and commercial industry. Their term use to tools, technical methods and frameworks made to gathering, collect, store, processing and analysis massive amounts of data. Data processing and analysis are based on structured/semi -structured/unstructured by big data, as well as is generated from various different sources in the system at various rates. For the purpose of processing with their large data and suitable way, voluminous parallelism is usually used. The general architecture of a big data system is made up a shared cluster of their machines. Nonetheless, even in very parallel environment, data processing is often very time-consuming. A various applications can take up to everytime to produce useful results, interactive analysis and debugging. Nevertheless, we have main problems that how we have a high performance requires both quality of data locality and resource. Moreover, big data analysis provide the amount of data that is processed typically large in comparison with computation in their systems. In other words, specified optimization that would relieve low-level to achieve good performance essentially. Accordingly, our main goal of this research paper provide how we have to do to optimize for big data frameworks. Our contribute approach to make big data cloud platform for easy and efficient processing of big data. In addition, we provides results from a study of existing optimization of data processing in MapReduce and Hadoop oriented systems.\"\n        },\n        {\n          \"rank\": 3,\n          \"score\": 0.39085525274276733,\n          \"doc_id\": \"125\",\n          \"text\": \"An overview of deep learning techniques An overview of deep learning techniques An overview of deep learning techniques ZusammenfassungDeep Learning ist der Ansatz, der die k&uuml;nstliche Intelligenz innerhalb weniger Jahre tiefgreifend ver&auml;ndert hat. Auch wenn sie durch verschiedene algorithmische Fortschritte begleitet wird, ist diese Technik vor allem aus Anwendungssicht &#x201e;disruptiv“: Sie verschiebt die Grenze automatisierbarer Aufgaben betr&auml;chtlich, ver&auml;ndert die Art der Produktentwicklung und steht praktisch jedermann zur Verf&uuml;gung. Gegenstand des Deep Learning sind neuronale Netze mit einer großen Anzahl von Schichten. Verglichen mit fr&uuml;heren Ans&auml;tzen mit idealerweise einer einzigen Schicht, erlaubt dies den Einsatz massiver Rechenhardware, um Black-Box-Modelle mit einem Minimum an Entwicklungsaufwand direkt aus Rohdaten zu trainieren. Die meisten erfolgreichen Anwendungen finden sich in der Auswertung visueller Bilder, aber auch in der Audio- und Text-Modellierung.\"\n        }\n      ]\n    },\n    {\n      \"query\": \"클라우드 컴퓨팅 환경에서 주로 사용되는 오픈소스 딥 러닝 프레임워크는 무엇인가요?\",\n      \"query_meta\": {\n        \"type\": \"single_hop\",\n        \"index\": 0\n      },\n      \"top_k\": 10,\n      \"hits\": [\n        {\n          \"rank\": 1,\n          \"score\": 0.4915239214897156,\n          \"doc_id\": \"50\",\n          \"text\": \"Deep Learning 프레임워크 성능 비교 연구 : Cloud Computing 환경에서 Deep Learning 프레임워크 성능 비교 연구 : Cloud Computing 환경에서 Deep Learning 프레임워크 성능 비교 연구 : Cloud Computing 환경에서 통신 기술의 발달로 인한 사람과 사람, 장치와 장치, 사람과 장치 간의 연결성의 증가와 저장 매체 기술의 발달, 그리고 데이터 저장 비용의 감소로 인해 데이터의 양이 폭발적으로 증가했다. 이에 따라 다양한 형태의 대규모의 데이터를 빠른 시간 내에 효율적으로 처리할 수 있는 Cloud Computing 기술이 주목 받고 있고, Cloud Computing을 위한 오픈소스 기반의 솔루션 또한 많이 나타나게 되었다. &amp;#xD; 2012년부터 주목받기 시작한 Deep Learning은 전 세계적으로 가장 많은 관심을 받는 연구 분야 중 하나이며, 이중 CNN(Convolution Neural Network)은 가장 대표적 알고리즘이다. Deep Learning은 미래사회를 이끌어갈 분야로 평가받고 있으며, 이에 따라 많은 연구들이 진행되고 있고, Deep Learning을 쉽게 활용할 수 있도록 하는 많은 프레임워크가 개발되었다. &amp;#xD; 이에 따라 많은 사람들이 쉽게 Deep Learning을 접할 수 있게 되었지만 특정 환경에서 어떤 프레임워크가 더 우수한 성능을 보이는지에 대한 연구는 부족한 실정이다. 본 논문에서는 특정 환경에서의 성능 비교가 부족하다는 기존 연구의 한계점을 개선하고자 가장 대표적인 Cloud Computing용 오픈소스 소프트웨어 중 하나인 OpenStack을 이용하여 Cloud Computing 환경에서 어떤 Deep Learning 프레임워크가 더 우수한 성능을 보이는지 비교해 보고자 한다.\"\n        },\n        {\n          \"rank\": 2,\n          \"score\": 0.4106403589248657,\n          \"doc_id\": \"23\",\n          \"text\": \"Big data, Big bang? Big data, Big bang? Big data, Big bang? 없음\"\n        },\n        {\n          \"rank\": 3,\n          \"score\": 0.3706037104129791,\n          \"doc_id\": \"123\",\n          \"text\": \"딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝은 인공신경망(neural network)이라는 인공지능분야의 모형이 발전된 형태로서, 계층구조로 이루어진 인공신경망의 내부계층(hidden layer)이 여러 단계로 이루어진 구조이다. 딥러닝에서의 주요 모형은 합성곱신경망(convolutional neural network), 순환신경망(recurrent neural network), 그리고 심층신뢰신경망(deep belief network)의 세가지라고 할 수 있다. 그 중에서 현재 흥미로운 연구가 많이 발표되어서 관심이 집중되고 있는 모형은 지도학습(supervised learning)모형인 처음 두 개의 모형이다. 따라서 본 논문에서는 지도학습모형의 가중치를 최적화하는 기본적인 방법인 오류역전파 알고리즘을 살펴본 뒤에 합성곱신경망과 순환신경망의 구조와 응용사례 등을 살펴보고자 한다. 본문에서 다루지 않은 모형인 심층신뢰신경망은 아직까지는 합성곱신경망 이나 순환신경망보다는 상대적으로 주목을 덜 받고 있다. 그러나 심층신뢰신경망은 CNN이나 RNN과는 달리 비지도학습(unsupervised learning)모형이며, 사람이나 동물은 관찰을 통해서 스스로 학습한다는 점에서 궁극적으로는 비지도학습모형이 더 많이 연구되어야 할 주제가 될 것이다.\"\n        }\n      ]\n    },\n    {\n      \"query\": \"이러한 오픈소스 딥 러닝 프레임워크들 간의 성능 비교 결과는 어떻게 되나요?\",\n      \"query_meta\": {\n        \"type\": \"single_hop\",\n        \"index\": 1\n      },\n      \"top_k\": 10,\n      \"hits\": [\n        {\n          \"rank\": 1,\n          \"score\": 0.4412471055984497,\n          \"doc_id\": \"50\",\n          \"text\": \"Deep Learning 프레임워크 성능 비교 연구 : Cloud Computing 환경에서 Deep Learning 프레임워크 성능 비교 연구 : Cloud Computing 환경에서 Deep Learning 프레임워크 성능 비교 연구 : Cloud Computing 환경에서 통신 기술의 발달로 인한 사람과 사람, 장치와 장치, 사람과 장치 간의 연결성의 증가와 저장 매체 기술의 발달, 그리고 데이터 저장 비용의 감소로 인해 데이터의 양이 폭발적으로 증가했다. 이에 따라 다양한 형태의 대규모의 데이터를 빠른 시간 내에 효율적으로 처리할 수 있는 Cloud Computing 기술이 주목 받고 있고, Cloud Computing을 위한 오픈소스 기반의 솔루션 또한 많이 나타나게 되었다. &amp;#xD; 2012년부터 주목받기 시작한 Deep Learning은 전 세계적으로 가장 많은 관심을 받는 연구 분야 중 하나이며, 이중 CNN(Convolution Neural Network)은 가장 대표적 알고리즘이다. Deep Learning은 미래사회를 이끌어갈 분야로 평가받고 있으며, 이에 따라 많은 연구들이 진행되고 있고, Deep Learning을 쉽게 활용할 수 있도록 하는 많은 프레임워크가 개발되었다. &amp;#xD; 이에 따라 많은 사람들이 쉽게 Deep Learning을 접할 수 있게 되었지만 특정 환경에서 어떤 프레임워크가 더 우수한 성능을 보이는지에 대한 연구는 부족한 실정이다. 본 논문에서는 특정 환경에서의 성능 비교가 부족하다는 기존 연구의 한계점을 개선하고자 가장 대표적인 Cloud Computing용 오픈소스 소프트웨어 중 하나인 OpenStack을 이용하여 Cloud Computing 환경에서 어떤 Deep Learning 프레임워크가 더 우수한 성능을 보이는지 비교해 보고자 한다.\"\n        },\n        {\n          \"rank\": 2,\n          \"score\": 0.40435487031936646,\n          \"doc_id\": \"23\",\n          \"text\": \"Big data, Big bang? Big data, Big bang? Big data, Big bang? 없음\"\n        },\n        {\n          \"rank\": 3,\n          \"score\": 0.39041054248809814,\n          \"doc_id\": \"60\",\n          \"text\": \"Artificial intelligence Artificial intelligence Artificial intelligence AI has been well supported by government research and development dollars for decades now, and people are beginning to ask hard questions: What really works? What are the limits? What doesn't work as advertised? What isn't likely to work? What isn't affordable? This article holds a mirror up to the community, both to provide feedback and stimulate more self-assessment. The significant accomplishments and strengths of the field are highlighted. The research agenda, strategy, and heuristics are reviewed, and a change of course is recommended to improve the field's ability to produce reusable and interoperable components.(Author abstract)\"\n        }\n      ]\n    },\n    {\n      \"query\": \"이러한 성능 비교 결과의 의의는 무엇인가요?\",\n      \"query_meta\": {\n        \"type\": \"single_hop\",\n        \"index\": 2\n      },\n      \"top_k\": 10,\n      \"hits\": [\n        {\n          \"rank\": 1,\n          \"score\": 0.3767389953136444,\n          \"doc_id\": \"188\",\n          \"text\": \"정보기술(IT)의 효율화 정보기술(IT)의 효율화 정보기술(IT)의 효율화 없음\"\n        },\n        {\n          \"rank\": 2,\n          \"score\": 0.3479028046131134,\n          \"doc_id\": \"164\",\n          \"text\": \"Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade 없음\"\n        },\n        {\n          \"rank\": 3,\n          \"score\": 0.34713035821914673,\n          \"doc_id\": \"58\",\n          \"text\": \"Why Big Data = Big Deal Why Big Data = Big Deal Why Big Data = Big Deal 없음\"\n        }\n      ]\n    }\n  ],\n  \"meta\": {\n    \"model\": \"gemini-2.5-flash\",\n    \"temperature\": 0.2\n  }\n}\n\n--- Question ---\n클라우드 컴퓨팅 환경에서 오픈소스 기반 딥 러닝 프레임워크들 간의 성능 비교 결과와 그 의의를 간결하게 정리해 주실 수 있나요?\n",
+    "model": "models/gemini-2.5-pro",
+    "retrival": {
+        "id": "row_000026",
+        "model_name": "Snowflake/snowflake-arctic-embed-l-v2.0",
+        "timestamp_kst": "2025-09-07T15:53:05.577199+09:00",
+        "trial_id": "dd5495f5",
+        "queries": [
+            {
+                "query": "클라우드 컴퓨팅 환경에서 오픈소스 기반 딥 러닝 프레임워크들 간의 성능 비교 결과와 그 의의를 간결하게 정리해 주실 수 있나요?",
+                "query_meta": {
+                    "type": "original"
+                },
+                "top_k": 10,
+                "hits": [
+                    {
+                        "rank": 1,
+                        "score": 0.5547279119491577,
+                        "doc_id": "50",
+                        "text": "Deep Learning 프레임워크 성능 비교 연구 : Cloud Computing 환경에서 Deep Learning 프레임워크 성능 비교 연구 : Cloud Computing 환경에서 Deep Learning 프레임워크 성능 비교 연구 : Cloud Computing 환경에서 통신 기술의 발달로 인한 사람과 사람, 장치와 장치, 사람과 장치 간의 연결성의 증가와 저장 매체 기술의 발달, 그리고 데이터 저장 비용의 감소로 인해 데이터의 양이 폭발적으로 증가했다. 이에 따라 다양한 형태의 대규모의 데이터를 빠른 시간 내에 효율적으로 처리할 수 있는 Cloud Computing 기술이 주목 받고 있고, Cloud Computing을 위한 오픈소스 기반의 솔루션 또한 많이 나타나게 되었다. &amp;#xD; 2012년부터 주목받기 시작한 Deep Learning은 전 세계적으로 가장 많은 관심을 받는 연구 분야 중 하나이며, 이중 CNN(Convolution Neural Network)은 가장 대표적 알고리즘이다. Deep Learning은 미래사회를 이끌어갈 분야로 평가받고 있으며, 이에 따라 많은 연구들이 진행되고 있고, Deep Learning을 쉽게 활용할 수 있도록 하는 많은 프레임워크가 개발되었다. &amp;#xD; 이에 따라 많은 사람들이 쉽게 Deep Learning을 접할 수 있게 되었지만 특정 환경에서 어떤 프레임워크가 더 우수한 성능을 보이는지에 대한 연구는 부족한 실정이다. 본 논문에서는 특정 환경에서의 성능 비교가 부족하다는 기존 연구의 한계점을 개선하고자 가장 대표적인 Cloud Computing용 오픈소스 소프트웨어 중 하나인 OpenStack을 이용하여 Cloud Computing 환경에서 어떤 Deep Learning 프레임워크가 더 우수한 성능을 보이는지 비교해 보고자 한다."
+                    },
+                    {
+                        "rank": 2,
+                        "score": 0.40476104617118835,
+                        "doc_id": "109",
+                        "text": "Optimized Data Processing Analysis Using Big Data Cloud Platform Optimized Data Processing Analysis Using Big Data Cloud Platform Optimized Data Processing Analysis Using Big Data Cloud Platform Recently data processing has main gained many attention both from academic and commercial industry. Their term use to tools, technical methods and frameworks made to gathering, collect, store, processing and analysis massive amounts of data. Data processing and analysis are based on structured/semi -structured/unstructured by big data, as well as is generated from various different sources in the system at various rates. For the purpose of processing with their large data and suitable way, voluminous parallelism is usually used. The general architecture of a big data system is made up a shared cluster of their machines. Nonetheless, even in very parallel environment, data processing is often very time-consuming. A various applications can take up to everytime to produce useful results, interactive analysis and debugging. Nevertheless, we have main problems that how we have a high performance requires both quality of data locality and resource. Moreover, big data analysis provide the amount of data that is processed typically large in comparison with computation in their systems. In other words, specified optimization that would relieve low-level to achieve good performance essentially. Accordingly, our main goal of this research paper provide how we have to do to optimize for big data frameworks. Our contribute approach to make big data cloud platform for easy and efficient processing of big data. In addition, we provides results from a study of existing optimization of data processing in MapReduce and Hadoop oriented systems."
+                    },
+                    {
+                        "rank": 3,
+                        "score": 0.39085525274276733,
+                        "doc_id": "125",
+                        "text": "An overview of deep learning techniques An overview of deep learning techniques An overview of deep learning techniques ZusammenfassungDeep Learning ist der Ansatz, der die k&uuml;nstliche Intelligenz innerhalb weniger Jahre tiefgreifend ver&auml;ndert hat. Auch wenn sie durch verschiedene algorithmische Fortschritte begleitet wird, ist diese Technik vor allem aus Anwendungssicht &#x201e;disruptiv“: Sie verschiebt die Grenze automatisierbarer Aufgaben betr&auml;chtlich, ver&auml;ndert die Art der Produktentwicklung und steht praktisch jedermann zur Verf&uuml;gung. Gegenstand des Deep Learning sind neuronale Netze mit einer großen Anzahl von Schichten. Verglichen mit fr&uuml;heren Ans&auml;tzen mit idealerweise einer einzigen Schicht, erlaubt dies den Einsatz massiver Rechenhardware, um Black-Box-Modelle mit einem Minimum an Entwicklungsaufwand direkt aus Rohdaten zu trainieren. Die meisten erfolgreichen Anwendungen finden sich in der Auswertung visueller Bilder, aber auch in der Audio- und Text-Modellierung."
+                    }
+                ]
+            },
+            {
+                "query": "클라우드 컴퓨팅 환경에서 주로 사용되는 오픈소스 딥 러닝 프레임워크는 무엇인가요?",
+                "query_meta": {
+                    "type": "single_hop",
+                    "index": 0
+                },
+                "top_k": 10,
+                "hits": [
+                    {
+                        "rank": 1,
+                        "score": 0.4915239214897156,
+                        "doc_id": "50",
+                        "text": "Deep Learning 프레임워크 성능 비교 연구 : Cloud Computing 환경에서 Deep Learning 프레임워크 성능 비교 연구 : Cloud Computing 환경에서 Deep Learning 프레임워크 성능 비교 연구 : Cloud Computing 환경에서 통신 기술의 발달로 인한 사람과 사람, 장치와 장치, 사람과 장치 간의 연결성의 증가와 저장 매체 기술의 발달, 그리고 데이터 저장 비용의 감소로 인해 데이터의 양이 폭발적으로 증가했다. 이에 따라 다양한 형태의 대규모의 데이터를 빠른 시간 내에 효율적으로 처리할 수 있는 Cloud Computing 기술이 주목 받고 있고, Cloud Computing을 위한 오픈소스 기반의 솔루션 또한 많이 나타나게 되었다. &amp;#xD; 2012년부터 주목받기 시작한 Deep Learning은 전 세계적으로 가장 많은 관심을 받는 연구 분야 중 하나이며, 이중 CNN(Convolution Neural Network)은 가장 대표적 알고리즘이다. Deep Learning은 미래사회를 이끌어갈 분야로 평가받고 있으며, 이에 따라 많은 연구들이 진행되고 있고, Deep Learning을 쉽게 활용할 수 있도록 하는 많은 프레임워크가 개발되었다. &amp;#xD; 이에 따라 많은 사람들이 쉽게 Deep Learning을 접할 수 있게 되었지만 특정 환경에서 어떤 프레임워크가 더 우수한 성능을 보이는지에 대한 연구는 부족한 실정이다. 본 논문에서는 특정 환경에서의 성능 비교가 부족하다는 기존 연구의 한계점을 개선하고자 가장 대표적인 Cloud Computing용 오픈소스 소프트웨어 중 하나인 OpenStack을 이용하여 Cloud Computing 환경에서 어떤 Deep Learning 프레임워크가 더 우수한 성능을 보이는지 비교해 보고자 한다."
+                    },
+                    {
+                        "rank": 2,
+                        "score": 0.4106403589248657,
+                        "doc_id": "23",
+                        "text": "Big data, Big bang? Big data, Big bang? Big data, Big bang? 없음"
+                    },
+                    {
+                        "rank": 3,
+                        "score": 0.3706037104129791,
+                        "doc_id": "123",
+                        "text": "딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝은 인공신경망(neural network)이라는 인공지능분야의 모형이 발전된 형태로서, 계층구조로 이루어진 인공신경망의 내부계층(hidden layer)이 여러 단계로 이루어진 구조이다. 딥러닝에서의 주요 모형은 합성곱신경망(convolutional neural network), 순환신경망(recurrent neural network), 그리고 심층신뢰신경망(deep belief network)의 세가지라고 할 수 있다. 그 중에서 현재 흥미로운 연구가 많이 발표되어서 관심이 집중되고 있는 모형은 지도학습(supervised learning)모형인 처음 두 개의 모형이다. 따라서 본 논문에서는 지도학습모형의 가중치를 최적화하는 기본적인 방법인 오류역전파 알고리즘을 살펴본 뒤에 합성곱신경망과 순환신경망의 구조와 응용사례 등을 살펴보고자 한다. 본문에서 다루지 않은 모형인 심층신뢰신경망은 아직까지는 합성곱신경망 이나 순환신경망보다는 상대적으로 주목을 덜 받고 있다. 그러나 심층신뢰신경망은 CNN이나 RNN과는 달리 비지도학습(unsupervised learning)모형이며, 사람이나 동물은 관찰을 통해서 스스로 학습한다는 점에서 궁극적으로는 비지도학습모형이 더 많이 연구되어야 할 주제가 될 것이다."
+                    }
+                ]
+            },
+            {
+                "query": "이러한 오픈소스 딥 러닝 프레임워크들 간의 성능 비교 결과는 어떻게 되나요?",
+                "query_meta": {
+                    "type": "single_hop",
+                    "index": 1
+                },
+                "top_k": 10,
+                "hits": [
+                    {
+                        "rank": 1,
+                        "score": 0.4412471055984497,
+                        "doc_id": "50",
+                        "text": "Deep Learning 프레임워크 성능 비교 연구 : Cloud Computing 환경에서 Deep Learning 프레임워크 성능 비교 연구 : Cloud Computing 환경에서 Deep Learning 프레임워크 성능 비교 연구 : Cloud Computing 환경에서 통신 기술의 발달로 인한 사람과 사람, 장치와 장치, 사람과 장치 간의 연결성의 증가와 저장 매체 기술의 발달, 그리고 데이터 저장 비용의 감소로 인해 데이터의 양이 폭발적으로 증가했다. 이에 따라 다양한 형태의 대규모의 데이터를 빠른 시간 내에 효율적으로 처리할 수 있는 Cloud Computing 기술이 주목 받고 있고, Cloud Computing을 위한 오픈소스 기반의 솔루션 또한 많이 나타나게 되었다. &amp;#xD; 2012년부터 주목받기 시작한 Deep Learning은 전 세계적으로 가장 많은 관심을 받는 연구 분야 중 하나이며, 이중 CNN(Convolution Neural Network)은 가장 대표적 알고리즘이다. Deep Learning은 미래사회를 이끌어갈 분야로 평가받고 있으며, 이에 따라 많은 연구들이 진행되고 있고, Deep Learning을 쉽게 활용할 수 있도록 하는 많은 프레임워크가 개발되었다. &amp;#xD; 이에 따라 많은 사람들이 쉽게 Deep Learning을 접할 수 있게 되었지만 특정 환경에서 어떤 프레임워크가 더 우수한 성능을 보이는지에 대한 연구는 부족한 실정이다. 본 논문에서는 특정 환경에서의 성능 비교가 부족하다는 기존 연구의 한계점을 개선하고자 가장 대표적인 Cloud Computing용 오픈소스 소프트웨어 중 하나인 OpenStack을 이용하여 Cloud Computing 환경에서 어떤 Deep Learning 프레임워크가 더 우수한 성능을 보이는지 비교해 보고자 한다."
+                    },
+                    {
+                        "rank": 2,
+                        "score": 0.40435487031936646,
+                        "doc_id": "23",
+                        "text": "Big data, Big bang? Big data, Big bang? Big data, Big bang? 없음"
+                    },
+                    {
+                        "rank": 3,
+                        "score": 0.39041054248809814,
+                        "doc_id": "60",
+                        "text": "Artificial intelligence Artificial intelligence Artificial intelligence AI has been well supported by government research and development dollars for decades now, and people are beginning to ask hard questions: What really works? What are the limits? What doesn't work as advertised? What isn't likely to work? What isn't affordable? This article holds a mirror up to the community, both to provide feedback and stimulate more self-assessment. The significant accomplishments and strengths of the field are highlighted. The research agenda, strategy, and heuristics are reviewed, and a change of course is recommended to improve the field's ability to produce reusable and interoperable components.(Author abstract)"
+                    }
+                ]
+            },
+            {
+                "query": "이러한 성능 비교 결과의 의의는 무엇인가요?",
+                "query_meta": {
+                    "type": "single_hop",
+                    "index": 2
+                },
+                "top_k": 10,
+                "hits": [
+                    {
+                        "rank": 1,
+                        "score": 0.3767389953136444,
+                        "doc_id": "188",
+                        "text": "정보기술(IT)의 효율화 정보기술(IT)의 효율화 정보기술(IT)의 효율화 없음"
+                    },
+                    {
+                        "rank": 2,
+                        "score": 0.3479028046131134,
+                        "doc_id": "164",
+                        "text": "Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade 없음"
+                    },
+                    {
+                        "rank": 3,
+                        "score": 0.34713035821914673,
+                        "doc_id": "58",
+                        "text": "Why Big Data = Big Deal Why Big Data = Big Deal Why Big Data = Big Deal 없음"
+                    }
+                ]
+            }
+        ],
+        "meta": {
+            "model": "gemini-2.5-flash",
+            "temperature": 0.2
+        }
+    }
+}

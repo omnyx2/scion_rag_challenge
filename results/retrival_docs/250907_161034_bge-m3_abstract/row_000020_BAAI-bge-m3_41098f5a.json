@@ -1,0 +1,151 @@
+{
+  "id": "row_000020",
+  "model_name": "BAAI/bge-m3",
+  "timestamp_kst": "2025-09-07T16:10:37.084864+09:00",
+  "trial_id": "41098f5a",
+  "queries": [
+    {
+      "query": "제조 품질 개선을 위해 제안된 식스 시그마 기반 Big Data 활용 방법의 주요 절차를 요약해 주시겠습니까?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7030484676361084,
+          "doc_id": "161",
+          "text": "20세기 대량 생산 시대 이래로 제조 기업의 품질은 가장 중요한 요소가 되어왔다. 따라서 품질에 대한 올바른 정의와 품질 개선을 위한 다양한 도구와 방법이 개발되어 왔으며 이의 효율적 적용을 위한 노력도 병행되어 왔다. 이러한 노력은 제조 기업의 품질 제일주의, 전사적 품질 경영, 식스 시그마 등을 통하여 정형화되고 다양한 분야에 적용되고 있다. 또한 최근 Big Data의 유용성이 소개되면서 이에 대한 제조 업계의 관심이 높아지고 있으나 이에 대한 적용은 아직 미흡한 면이 있다. 본 논문은 기존의 품질 개선을 위한 프로젝트 실행 방법을 정리해 보고 대표적인 프로젝트 중심의 개선 방법인 식스 시그마의 실행 방법을 기준으로 Big Data 활용 방법을 제안해 보기로 한다."
+        },
+        {
+          "rank": 2,
+          "score": 0.541144609451294,
+          "doc_id": "126",
+          "text": "Abstract The recent explosion in ICT and digital data has led organizations, both private and public, to efficient decision-making. Nowadays organizations can store huge amounts of data, which can be accessible at any time. Big Data governance refers to the management of huge volumes of an organization&rsquo;s data, exploiting it in the organization&rsquo;s decision-making using different analytical tools. Big Data emergence provides great convenience, but it also brings challenges. Nevertheless, for Big Data governance, data has to be prepared in a timely manner, keeping in view the consistency and reliability of the data, and being able to trust its source and the meaningfulness of the result. Hence, a framework for Big Data governance would have many advantages. There are Big Data governance frameworks, which guide the management of Big Data. However, there are also limitations associated with these frameworks. Therefore, this study aims to explore the existing Big Data governance frameworks and their shortcomings, and propose a new framework. The proposed framework consists of eight components. As a framework validation, the proposed framework has been compared with the ISO 8000 data governance framework."
+        },
+        {
+          "rank": 3,
+          "score": 0.5215181112289429,
+          "doc_id": "71",
+          "text": "Purpose: The main purpose of this work was to present the problems of big data and to present how small data can be used as a complement to big data and its effects step by step in the big data through the concept of value chain. Recently, the big data market is growing rapidly around the world because data is processed on the basis of size, diversity, speed, accuracy and value. Specifically, this study focuses on its application to Jeju tourism. Research design, data, and methodology: The problems of big data were clearly presented using various real-world examples, and the verification of the compromise with small data and its effectiveness were conducted based on research papers discussing Jeju tourism using big data. The results of the study suggested the use of small data to solve and verify the representation of big data at the collection stage of the big data value chain, and the analysis stage suggested combining the identification of behavior patterns, the strengths of small data, and the exploration of causal relationships. Results: Among various stage, in the curation phase, a cause-and-effect analysis using small data suggested a solution to the problem of mistaking the correlation of big data as causality, and in the storage phase, a policy plan using small data was proposed to solve the problem of privacy infringement. The most important part of this study was the application stage, which discussed the specific problems of big data and the possibility of compromise between small data. As well, in the utilization phase, a combination of correlation and causality, as in the curation phase, was proposed. Conclusions: As an implication of this study, we used specific examples to present synergies when big data is compromised with small data. It also showed that the compromised use of big data and small data can contribute not only in terms of research but also in terms of practicality in tourism industry. Finally, we expanded the foundation of research in terms of academic research, discussing the trade-off utilization of big and small data."
+        },
+        {
+          "rank": 4,
+          "score": 0.5171793699264526,
+          "doc_id": "189",
+          "text": "Abstract Big data continues to gather increasing interest in the business press as well as within the management literature. While this interest has spilled over into the realm of human resources (HR) management, solid evidence of its positive performance impacts is lacking. I explore three possibilities for this lack of evidence: (1) HR possesses big data but largely lacks the ability to use it; (2) HR does not actually possess big data; and (3) big data is generating value for HR and positively affects organizational performance, but the winners in the race to utilize big data in HR are not publicizing their successes. Following this, I discuss current forms of big data implementation, highlighting an evolutionary progression of implementations in various settings and emphasizing the importance of balancing deductive with inductive analytical approaches. Finally, I discuss conditions under which big data may hold greater value for the HR function, and I suggest ways managers and organizations can make the most of big data."
+        },
+        {
+          "rank": 5,
+          "score": 0.5119325518608093,
+          "doc_id": "109",
+          "text": "Recently data processing has main gained many attention both from academic and commercial industry. Their term use to tools, technical methods and frameworks made to gathering, collect, store, processing and analysis massive amounts of data. Data processing and analysis are based on structured/semi -structured/unstructured by big data, as well as is generated from various different sources in the system at various rates. For the purpose of processing with their large data and suitable way, voluminous parallelism is usually used. The general architecture of a big data system is made up a shared cluster of their machines. Nonetheless, even in very parallel environment, data processing is often very time-consuming. A various applications can take up to everytime to produce useful results, interactive analysis and debugging. Nevertheless, we have main problems that how we have a high performance requires both quality of data locality and resource. Moreover, big data analysis provide the amount of data that is processed typically large in comparison with computation in their systems. In other words, specified optimization that would relieve low-level to achieve good performance essentially. Accordingly, our main goal of this research paper provide how we have to do to optimize for big data frameworks. Our contribute approach to make big data cloud platform for easy and efficient processing of big data. In addition, we provides results from a study of existing optimization of data processing in MapReduce and Hadoop oriented systems."
+        },
+        {
+          "rank": 6,
+          "score": 0.5078015327453613,
+          "doc_id": "196",
+          "text": "AbstractPurposeContemporary big data initiatives in health care will benefit from greater integration with nursing science and nursing practice; in turn, nursing science and nursing practice has much to gain from the data science initiatives. Big data arises secondary to scholarly inquiry (e.g., &#8208;omics) and everyday observations like cardiac flow sensors or Twitter feeds. Data science methods that are emerging ensure that these data be leveraged to improve patient care.Organizing ConstructBig data encompasses data that exceed human comprehension, that exist at a volume unmanageable by standard computer systems, that arrive at a velocity not under the control of the investigator and possess a level of imprecision not found in traditional inquiry. Data science methods are emerging to manage and gain insights from big data.MethodsThe primary methods included investigation of emerging federal big data initiatives, and exploration of exemplars from nursing informatics research to benchmark where nursing is already poised to participate in the big data revolution. We provide observations and reflections on experiences in the emerging big data initiatives.ConclusionsExisting approaches to large data set analysis provide a necessary but not sufficient foundation for nursing to participate in the big data revolution. Nursing's Social Policy Statement guides a principled, ethical perspective on big data and data science. There are implications for basic and advanced practice clinical nurses in practice, for the nurse scientist who collaborates with data scientists, and for the nurse data scientist.Clinical RelevanceBig data and data science has the potential to provide greater richness in understanding patient phenomena and in tailoring interventional strategies that are personalized to the patient."
+        },
+        {
+          "rank": 7,
+          "score": 0.5014252662658691,
+          "doc_id": "73",
+          "text": "A USAF sponsored MITRE research team undertook four separate, domain-specific case studies about Big Data applications. Those case studies were initial investigations into the question of whether or not data quality issues encountered in Big Data collections are substantially different in cause, manifestation, or detection than those data quality issues encountered in more traditionally sized data collections. The study addresses several factors affecting Big Data Quality at multiple levels, including collection, processing, and storage. Though not unexpected, the key findings of this study reinforce that the primary factors affecting Big Data reside in the limitations and complexities involved with handling Big Data while maintaining its integrity. These concerns are of a higher magnitude than the provenance of the data, the processing, and the tools used to prepare, manipulate, and store the data. Data quality is extremely important for all data analytics problems. From the study's findings, the 'truth about Big Data' is there are no fundamentally new DQ issues in Big Data analytics projects. Some DQ issues exhibit return-s-to-scale effects, and become more or less pronounced in Big Data analytics, though. Big Data Quality varies from one type of Big Data to another and from one Big Data technology to another."
+        },
+        {
+          "rank": 8,
+          "score": 0.494105726480484,
+          "doc_id": "199",
+          "text": "BackgroundThe promise of Big Biomedical Data may be offset by the enormous challenges in handling, analyzing, and sharing it. In this paper, we provide a framework for developing practical and reasonable data sharing policies that incorporate the sociological, financial, technical and scientific requirements of a sustainable Big Data dependent scientific community.FindingsMany biomedical and healthcare studies may be significantly impacted by using large, heterogeneous and incongruent datasets; however there are significant technical, social, regulatory, and institutional barriers that need to be overcome to ensure the power of Big Data overcomes these detrimental factors.ConclusionsPragmatic policies that demand extensive sharing of data, promotion of data fusion, provenance, interoperability and balance security and protection of personal information are critical for the long term impact of translational Big Data analytics."
+        },
+        {
+          "rank": 9,
+          "score": 0.4931415915489197,
+          "doc_id": "187",
+          "text": "Abstract Large amounts of data are increasingly accumulated in the energy sector with the continuous application of sensors, wireless transmission, network communication, and cloud computing technologies. To fulfill the potential of energy big data and obtain insights to achieve smart energy management, we present a comprehensive study of big data driven smart energy management. We first discuss the sources and characteristics of energy big data. Also, a process model of big data driven smart energy management is proposed. Then taking smart grid as the research background, we provide a systematic review of big data analytics for smart energy management. It is discussed from four major aspects, namely power generation side management, microgrid and renewable energy management, asset management and collaborative operation, as well as demand side management (DSM). Afterwards, the industrial development of big data-driven smart energy management is analyzed and discussed. Finally, we point out the challenges of big data-driven smart energy management in IT infrastructure, data collection and governance, data integration and sharing, processing and analysis, security and privacy, and professionals."
+        },
+        {
+          "rank": 10,
+          "score": 0.49155962467193604,
+          "doc_id": "124",
+          "text": "Data generation has increased drastically over the past few years. Data management has also grown in importance because extracting the significant value out of a huge pile of raw data is of prime important thing to make different decisions. One of the important sectors nowadays is construction sector, especially building energy efficiency field. Collecting big amount of data, using different kinds of big data analysis can help to improve construction process from the energy efficiency perspective. This article reviews the understanding of Big Data, methods used for Big Data analysis and the main problems with Big Data in the field of energy."
+        }
+      ]
+    },
+    {
+      "query": "제조 품질 개선을 위해 제안된 식스 시그마 기반 Big Data 활용 방법의 주요 절차는 무엇입니까?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7182035446166992,
+          "doc_id": "161",
+          "text": "20세기 대량 생산 시대 이래로 제조 기업의 품질은 가장 중요한 요소가 되어왔다. 따라서 품질에 대한 올바른 정의와 품질 개선을 위한 다양한 도구와 방법이 개발되어 왔으며 이의 효율적 적용을 위한 노력도 병행되어 왔다. 이러한 노력은 제조 기업의 품질 제일주의, 전사적 품질 경영, 식스 시그마 등을 통하여 정형화되고 다양한 분야에 적용되고 있다. 또한 최근 Big Data의 유용성이 소개되면서 이에 대한 제조 업계의 관심이 높아지고 있으나 이에 대한 적용은 아직 미흡한 면이 있다. 본 논문은 기존의 품질 개선을 위한 프로젝트 실행 방법을 정리해 보고 대표적인 프로젝트 중심의 개선 방법인 식스 시그마의 실행 방법을 기준으로 Big Data 활용 방법을 제안해 보기로 한다."
+        },
+        {
+          "rank": 2,
+          "score": 0.5256463885307312,
+          "doc_id": "71",
+          "text": "Purpose: The main purpose of this work was to present the problems of big data and to present how small data can be used as a complement to big data and its effects step by step in the big data through the concept of value chain. Recently, the big data market is growing rapidly around the world because data is processed on the basis of size, diversity, speed, accuracy and value. Specifically, this study focuses on its application to Jeju tourism. Research design, data, and methodology: The problems of big data were clearly presented using various real-world examples, and the verification of the compromise with small data and its effectiveness were conducted based on research papers discussing Jeju tourism using big data. The results of the study suggested the use of small data to solve and verify the representation of big data at the collection stage of the big data value chain, and the analysis stage suggested combining the identification of behavior patterns, the strengths of small data, and the exploration of causal relationships. Results: Among various stage, in the curation phase, a cause-and-effect analysis using small data suggested a solution to the problem of mistaking the correlation of big data as causality, and in the storage phase, a policy plan using small data was proposed to solve the problem of privacy infringement. The most important part of this study was the application stage, which discussed the specific problems of big data and the possibility of compromise between small data. As well, in the utilization phase, a combination of correlation and causality, as in the curation phase, was proposed. Conclusions: As an implication of this study, we used specific examples to present synergies when big data is compromised with small data. It also showed that the compromised use of big data and small data can contribute not only in terms of research but also in terms of practicality in tourism industry. Finally, we expanded the foundation of research in terms of academic research, discussing the trade-off utilization of big and small data."
+        },
+        {
+          "rank": 3,
+          "score": 0.5251917243003845,
+          "doc_id": "126",
+          "text": "Abstract The recent explosion in ICT and digital data has led organizations, both private and public, to efficient decision-making. Nowadays organizations can store huge amounts of data, which can be accessible at any time. Big Data governance refers to the management of huge volumes of an organization&rsquo;s data, exploiting it in the organization&rsquo;s decision-making using different analytical tools. Big Data emergence provides great convenience, but it also brings challenges. Nevertheless, for Big Data governance, data has to be prepared in a timely manner, keeping in view the consistency and reliability of the data, and being able to trust its source and the meaningfulness of the result. Hence, a framework for Big Data governance would have many advantages. There are Big Data governance frameworks, which guide the management of Big Data. However, there are also limitations associated with these frameworks. Therefore, this study aims to explore the existing Big Data governance frameworks and their shortcomings, and propose a new framework. The proposed framework consists of eight components. As a framework validation, the proposed framework has been compared with the ISO 8000 data governance framework."
+        },
+        {
+          "rank": 4,
+          "score": 0.513816237449646,
+          "doc_id": "189",
+          "text": "Abstract Big data continues to gather increasing interest in the business press as well as within the management literature. While this interest has spilled over into the realm of human resources (HR) management, solid evidence of its positive performance impacts is lacking. I explore three possibilities for this lack of evidence: (1) HR possesses big data but largely lacks the ability to use it; (2) HR does not actually possess big data; and (3) big data is generating value for HR and positively affects organizational performance, but the winners in the race to utilize big data in HR are not publicizing their successes. Following this, I discuss current forms of big data implementation, highlighting an evolutionary progression of implementations in various settings and emphasizing the importance of balancing deductive with inductive analytical approaches. Finally, I discuss conditions under which big data may hold greater value for the HR function, and I suggest ways managers and organizations can make the most of big data."
+        },
+        {
+          "rank": 5,
+          "score": 0.5093892812728882,
+          "doc_id": "109",
+          "text": "Recently data processing has main gained many attention both from academic and commercial industry. Their term use to tools, technical methods and frameworks made to gathering, collect, store, processing and analysis massive amounts of data. Data processing and analysis are based on structured/semi -structured/unstructured by big data, as well as is generated from various different sources in the system at various rates. For the purpose of processing with their large data and suitable way, voluminous parallelism is usually used. The general architecture of a big data system is made up a shared cluster of their machines. Nonetheless, even in very parallel environment, data processing is often very time-consuming. A various applications can take up to everytime to produce useful results, interactive analysis and debugging. Nevertheless, we have main problems that how we have a high performance requires both quality of data locality and resource. Moreover, big data analysis provide the amount of data that is processed typically large in comparison with computation in their systems. In other words, specified optimization that would relieve low-level to achieve good performance essentially. Accordingly, our main goal of this research paper provide how we have to do to optimize for big data frameworks. Our contribute approach to make big data cloud platform for easy and efficient processing of big data. In addition, we provides results from a study of existing optimization of data processing in MapReduce and Hadoop oriented systems."
+        },
+        {
+          "rank": 6,
+          "score": 0.5077539682388306,
+          "doc_id": "196",
+          "text": "AbstractPurposeContemporary big data initiatives in health care will benefit from greater integration with nursing science and nursing practice; in turn, nursing science and nursing practice has much to gain from the data science initiatives. Big data arises secondary to scholarly inquiry (e.g., &#8208;omics) and everyday observations like cardiac flow sensors or Twitter feeds. Data science methods that are emerging ensure that these data be leveraged to improve patient care.Organizing ConstructBig data encompasses data that exceed human comprehension, that exist at a volume unmanageable by standard computer systems, that arrive at a velocity not under the control of the investigator and possess a level of imprecision not found in traditional inquiry. Data science methods are emerging to manage and gain insights from big data.MethodsThe primary methods included investigation of emerging federal big data initiatives, and exploration of exemplars from nursing informatics research to benchmark where nursing is already poised to participate in the big data revolution. We provide observations and reflections on experiences in the emerging big data initiatives.ConclusionsExisting approaches to large data set analysis provide a necessary but not sufficient foundation for nursing to participate in the big data revolution. Nursing's Social Policy Statement guides a principled, ethical perspective on big data and data science. There are implications for basic and advanced practice clinical nurses in practice, for the nurse scientist who collaborates with data scientists, and for the nurse data scientist.Clinical RelevanceBig data and data science has the potential to provide greater richness in understanding patient phenomena and in tailoring interventional strategies that are personalized to the patient."
+        },
+        {
+          "rank": 7,
+          "score": 0.5013448596000671,
+          "doc_id": "73",
+          "text": "A USAF sponsored MITRE research team undertook four separate, domain-specific case studies about Big Data applications. Those case studies were initial investigations into the question of whether or not data quality issues encountered in Big Data collections are substantially different in cause, manifestation, or detection than those data quality issues encountered in more traditionally sized data collections. The study addresses several factors affecting Big Data Quality at multiple levels, including collection, processing, and storage. Though not unexpected, the key findings of this study reinforce that the primary factors affecting Big Data reside in the limitations and complexities involved with handling Big Data while maintaining its integrity. These concerns are of a higher magnitude than the provenance of the data, the processing, and the tools used to prepare, manipulate, and store the data. Data quality is extremely important for all data analytics problems. From the study's findings, the 'truth about Big Data' is there are no fundamentally new DQ issues in Big Data analytics projects. Some DQ issues exhibit return-s-to-scale effects, and become more or less pronounced in Big Data analytics, though. Big Data Quality varies from one type of Big Data to another and from one Big Data technology to another."
+        },
+        {
+          "rank": 8,
+          "score": 0.49521714448928833,
+          "doc_id": "66",
+          "text": "Abstract Future buildings will more and more rely on advanced Building Management Systems (BMS) connected to a variety of sensors, actuators and dedicated networks. Their objectives are to observe the state of rooms and apply automated rules to preserve or increase comfort while economizing energy. In this work, we advocate for the inclusion of a dedicated system for sensors data storage and processing, based on Big Data technologies. This choice enables new potentials in terms of data analytics and applications development, the most obvious one being the ability to scale up seamlessly from one smart building to several, in the direction of smart areas and smart cities. We report in this paper on our system architecture and on several challenges we met in its elaboration, attempting to meet requirements of scalability, data processing, flexibility, interoperability and privacy. We also describe current and future end-user services that our platform will support, including historical data retrieval, visualisation, processing and alarms. The platform, called BBData - Big Building Data, is currently in production at the Smart Living Lab of Fribourg and is offered to several research teams to ease their work, to foster the sharing of historical data and to avoid that each project develops its own data gathering and processing pipeline."
+        },
+        {
+          "rank": 9,
+          "score": 0.49080532789230347,
+          "doc_id": "199",
+          "text": "BackgroundThe promise of Big Biomedical Data may be offset by the enormous challenges in handling, analyzing, and sharing it. In this paper, we provide a framework for developing practical and reasonable data sharing policies that incorporate the sociological, financial, technical and scientific requirements of a sustainable Big Data dependent scientific community.FindingsMany biomedical and healthcare studies may be significantly impacted by using large, heterogeneous and incongruent datasets; however there are significant technical, social, regulatory, and institutional barriers that need to be overcome to ensure the power of Big Data overcomes these detrimental factors.ConclusionsPragmatic policies that demand extensive sharing of data, promotion of data fusion, provenance, interoperability and balance security and protection of personal information are critical for the long term impact of translational Big Data analytics."
+        },
+        {
+          "rank": 10,
+          "score": 0.49031785130500793,
+          "doc_id": "172",
+          "text": "This study seeks to understand big data ecology, how it is perceived by different stakeholders, the potential value and challenges, and the implications for the private sector and public organizations, as well as for policy makers. With Normalization Process Theory in place, this study conducts socio-technical evaluation on the big data phenomenon to understand the developmental processes through which new practices of thinking and enacting are implemented, embedded, and integrated in South Korea. It also undertakes empirical analyses of user modeling to explore the factors influencing users' adoption of big data by integrating cognitive motivations as well as user values as the primary determining factors. Based on the qualitative and quantitative findings, this study concludes that big data should be developed with user-centered ideas and that users should be the focus of big data design. (C) 2015 Elsevier Ltd. All rights reserved."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

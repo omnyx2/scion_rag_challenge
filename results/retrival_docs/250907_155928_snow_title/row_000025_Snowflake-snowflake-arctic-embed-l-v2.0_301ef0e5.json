@@ -1,0 +1,221 @@
+{
+  "id": "row_000025",
+  "model_name": "Snowflake/snowflake-arctic-embed-l-v2.0",
+  "timestamp_kst": "2025-09-07T15:59:32.839794+09:00",
+  "trial_id": "301ef0e5",
+  "queries": [
+    {
+      "query": "Can you summarize the main findings from the topic modeling analysis of deep learning research trends over the past ten years, including country-specific differences?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5350755453109741,
+          "doc_id": "64",
+          "text": "Deep Learning Research Trend Analysis using Text Mining"
+        },
+        {
+          "rank": 2,
+          "score": 0.46745187044143677,
+          "doc_id": "125",
+          "text": "An overview of deep learning techniques"
+        },
+        {
+          "rank": 3,
+          "score": 0.4360600709915161,
+          "doc_id": "62",
+          "text": "Utilization and Analysis of Big-data"
+        },
+        {
+          "rank": 4,
+          "score": 0.42524152994155884,
+          "doc_id": "155",
+          "text": "Machine Learning Versus Deep Learning Performances on the Sentiment Analysis of Product Reviews"
+        },
+        {
+          "rank": 5,
+          "score": 0.4205194413661957,
+          "doc_id": "223",
+          "text": "학습전략과 심층학습"
+        },
+        {
+          "rank": 6,
+          "score": 0.4164172410964966,
+          "doc_id": "164",
+          "text": "Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade"
+        },
+        {
+          "rank": 7,
+          "score": 0.410037636756897,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence"
+        },
+        {
+          "rank": 8,
+          "score": 0.4060515761375427,
+          "doc_id": "212",
+          "text": "Exploring Artificial Intelligence Futures"
+        },
+        {
+          "rank": 9,
+          "score": 0.3998323678970337,
+          "doc_id": "216",
+          "text": "A Study on Artificial Intelligence"
+        },
+        {
+          "rank": 10,
+          "score": 0.394778311252594,
+          "doc_id": "92",
+          "text": "Statistik, Data Science und Big Data"
+        }
+      ]
+    },
+    {
+      "query": "What are the main deep learning research trends identified by the topic modeling analysis over the past ten years?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6474510431289673,
+          "doc_id": "64",
+          "text": "Deep Learning Research Trend Analysis using Text Mining"
+        },
+        {
+          "rank": 2,
+          "score": 0.5194538235664368,
+          "doc_id": "125",
+          "text": "An overview of deep learning techniques"
+        },
+        {
+          "rank": 3,
+          "score": 0.46475741267204285,
+          "doc_id": "104",
+          "text": "Deep learning"
+        },
+        {
+          "rank": 4,
+          "score": 0.4535137116909027,
+          "doc_id": "212",
+          "text": "Exploring Artificial Intelligence Futures"
+        },
+        {
+          "rank": 5,
+          "score": 0.4515589475631714,
+          "doc_id": "62",
+          "text": "Utilization and Analysis of Big-data"
+        },
+        {
+          "rank": 6,
+          "score": 0.45151570439338684,
+          "doc_id": "225",
+          "text": "Speech Recognition using Machine Learning"
+        },
+        {
+          "rank": 7,
+          "score": 0.45052388310432434,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence"
+        },
+        {
+          "rank": 8,
+          "score": 0.4473147988319397,
+          "doc_id": "155",
+          "text": "Machine Learning Versus Deep Learning Performances on the Sentiment Analysis of Product Reviews"
+        },
+        {
+          "rank": 9,
+          "score": 0.441289484500885,
+          "doc_id": "152",
+          "text": "Deep Learning in MR Image Processing"
+        },
+        {
+          "rank": 10,
+          "score": 0.43460994958877563,
+          "doc_id": "164",
+          "text": "Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade"
+        }
+      ]
+    },
+    {
+      "query": "What country-specific differences were observed in these deep learning research trends?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.48780906200408936,
+          "doc_id": "64",
+          "text": "Deep Learning Research Trend Analysis using Text Mining"
+        },
+        {
+          "rank": 2,
+          "score": 0.43900835514068604,
+          "doc_id": "125",
+          "text": "An overview of deep learning techniques"
+        },
+        {
+          "rank": 3,
+          "score": 0.41349318623542786,
+          "doc_id": "62",
+          "text": "Utilization and Analysis of Big-data"
+        },
+        {
+          "rank": 4,
+          "score": 0.39137107133865356,
+          "doc_id": "216",
+          "text": "A Study on Artificial Intelligence"
+        },
+        {
+          "rank": 5,
+          "score": 0.3909465968608856,
+          "doc_id": "225",
+          "text": "Speech Recognition using Machine Learning"
+        },
+        {
+          "rank": 6,
+          "score": 0.38864409923553467,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence"
+        },
+        {
+          "rank": 7,
+          "score": 0.3885291814804077,
+          "doc_id": "212",
+          "text": "Exploring Artificial Intelligence Futures"
+        },
+        {
+          "rank": 8,
+          "score": 0.38632774353027344,
+          "doc_id": "43",
+          "text": "Enjeux des big data en sant&eacute;"
+        },
+        {
+          "rank": 9,
+          "score": 0.385525643825531,
+          "doc_id": "223",
+          "text": "학습전략과 심층학습"
+        },
+        {
+          "rank": 10,
+          "score": 0.38549453020095825,
+          "doc_id": "164",
+          "text": "Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

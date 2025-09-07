@@ -1,0 +1,291 @@
+{
+  "id": "row_000034",
+  "model_name": "BAAI/bge-m3",
+  "timestamp_kst": "2025-09-07T16:10:12.744631+09:00",
+  "trial_id": "00e29f86",
+  "queries": [
+    {
+      "query": "Could you outline the principal concerns IT companies face in defense-related IT convergence and the proposed solutions for cost estimation and governance?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6202068328857422,
+          "doc_id": "39",
+          "text": "IT convergence and security"
+        },
+        {
+          "rank": 2,
+          "score": 0.6170521378517151,
+          "doc_id": "229",
+          "text": "Convergence IT 관련 기사"
+        },
+        {
+          "rank": 3,
+          "score": 0.6162817478179932,
+          "doc_id": "211",
+          "text": "On exploring factors for enhancing export competitiveness in IT Convergence industries"
+        },
+        {
+          "rank": 4,
+          "score": 0.6094898581504822,
+          "doc_id": "145",
+          "text": "IT기업 관점에서의 국방IT융합 추진방향"
+        },
+        {
+          "rank": 5,
+          "score": 0.5807992815971375,
+          "doc_id": "136",
+          "text": "IT/automation convergence revisited"
+        },
+        {
+          "rank": 6,
+          "score": 0.5796825885772705,
+          "doc_id": "54",
+          "text": "Future trends of IT convergence"
+        },
+        {
+          "rank": 7,
+          "score": 0.5775514245033264,
+          "doc_id": "177",
+          "text": "Defense IT Convergence in South Korea"
+        },
+        {
+          "rank": 8,
+          "score": 0.5719686150550842,
+          "doc_id": "162",
+          "text": "IT 컨버전스의 이해와 법ㆍ기술 방향"
+        },
+        {
+          "rank": 9,
+          "score": 0.5717568397521973,
+          "doc_id": "105",
+          "text": "A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data"
+        },
+        {
+          "rank": 10,
+          "score": 0.5717568397521973,
+          "doc_id": "218",
+          "text": "A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data"
+        }
+      ]
+    },
+    {
+      "query": "What are the principal concerns IT companies face in defense-related IT convergence?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6454799771308899,
+          "doc_id": "39",
+          "text": "IT convergence and security"
+        },
+        {
+          "rank": 2,
+          "score": 0.6385456323623657,
+          "doc_id": "229",
+          "text": "Convergence IT 관련 기사"
+        },
+        {
+          "rank": 3,
+          "score": 0.6257036924362183,
+          "doc_id": "38",
+          "text": "IT convergence security"
+        },
+        {
+          "rank": 4,
+          "score": 0.621532142162323,
+          "doc_id": "211",
+          "text": "On exploring factors for enhancing export competitiveness in IT Convergence industries"
+        },
+        {
+          "rank": 5,
+          "score": 0.6211731433868408,
+          "doc_id": "177",
+          "text": "Defense IT Convergence in South Korea"
+        },
+        {
+          "rank": 6,
+          "score": 0.6161123514175415,
+          "doc_id": "145",
+          "text": "IT기업 관점에서의 국방IT융합 추진방향"
+        },
+        {
+          "rank": 7,
+          "score": 0.6053258180618286,
+          "doc_id": "54",
+          "text": "Future trends of IT convergence"
+        },
+        {
+          "rank": 8,
+          "score": 0.5781235694885254,
+          "doc_id": "112",
+          "text": "Convergence of Energy and IT Sectors"
+        },
+        {
+          "rank": 9,
+          "score": 0.5754775404930115,
+          "doc_id": "162",
+          "text": "IT 컨버전스의 이해와 법ㆍ기술 방향"
+        },
+        {
+          "rank": 10,
+          "score": 0.5754184126853943,
+          "doc_id": "44",
+          "text": "IT/OT convergence and cyber security"
+        }
+      ]
+    },
+    {
+      "query": "What are the proposed solutions for cost estimation in defense-related IT convergence?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6740818023681641,
+          "doc_id": "229",
+          "text": "Convergence IT 관련 기사"
+        },
+        {
+          "rank": 2,
+          "score": 0.6633586287498474,
+          "doc_id": "39",
+          "text": "IT convergence and security"
+        },
+        {
+          "rank": 3,
+          "score": 0.6618379354476929,
+          "doc_id": "54",
+          "text": "Future trends of IT convergence"
+        },
+        {
+          "rank": 4,
+          "score": 0.6341500282287598,
+          "doc_id": "211",
+          "text": "On exploring factors for enhancing export competitiveness in IT Convergence industries"
+        },
+        {
+          "rank": 5,
+          "score": 0.6273700594902039,
+          "doc_id": "177",
+          "text": "Defense IT Convergence in South Korea"
+        },
+        {
+          "rank": 6,
+          "score": 0.622939944267273,
+          "doc_id": "38",
+          "text": "IT convergence security"
+        },
+        {
+          "rank": 7,
+          "score": 0.6123594641685486,
+          "doc_id": "16",
+          "text": "국방IT융합기술의 발전전략에 관한 연구"
+        },
+        {
+          "rank": 8,
+          "score": 0.6069046258926392,
+          "doc_id": "136",
+          "text": "IT/automation convergence revisited"
+        },
+        {
+          "rank": 9,
+          "score": 0.6027683019638062,
+          "doc_id": "145",
+          "text": "IT기업 관점에서의 국방IT융합 추진방향"
+        },
+        {
+          "rank": 10,
+          "score": 0.6002475023269653,
+          "doc_id": "67",
+          "text": "Medical Device Connectivity - IT Convergence :"
+        }
+      ]
+    },
+    {
+      "query": "What are the proposed solutions for governance in defense-related IT convergence?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 2
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6642155051231384,
+          "doc_id": "229",
+          "text": "Convergence IT 관련 기사"
+        },
+        {
+          "rank": 2,
+          "score": 0.6629055142402649,
+          "doc_id": "39",
+          "text": "IT convergence and security"
+        },
+        {
+          "rank": 3,
+          "score": 0.6596674919128418,
+          "doc_id": "54",
+          "text": "Future trends of IT convergence"
+        },
+        {
+          "rank": 4,
+          "score": 0.6380093097686768,
+          "doc_id": "177",
+          "text": "Defense IT Convergence in South Korea"
+        },
+        {
+          "rank": 5,
+          "score": 0.629084587097168,
+          "doc_id": "145",
+          "text": "IT기업 관점에서의 국방IT융합 추진방향"
+        },
+        {
+          "rank": 6,
+          "score": 0.6269067525863647,
+          "doc_id": "16",
+          "text": "국방IT융합기술의 발전전략에 관한 연구"
+        },
+        {
+          "rank": 7,
+          "score": 0.6248290538787842,
+          "doc_id": "211",
+          "text": "On exploring factors for enhancing export competitiveness in IT Convergence industries"
+        },
+        {
+          "rank": 8,
+          "score": 0.6149516105651855,
+          "doc_id": "38",
+          "text": "IT convergence security"
+        },
+        {
+          "rank": 9,
+          "score": 0.6076332926750183,
+          "doc_id": "136",
+          "text": "IT/automation convergence revisited"
+        },
+        {
+          "rank": 10,
+          "score": 0.6016248464584351,
+          "doc_id": "162",
+          "text": "IT 컨버전스의 이해와 법ㆍ기술 방향"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

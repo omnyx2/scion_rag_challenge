@@ -1,0 +1,291 @@
+{
+  "id": "row_000002",
+  "model_name": "Snowflake/snowflake-arctic-embed-l-v2.0",
+  "timestamp_kst": "2025-09-07T15:59:29.067295+09:00",
+  "trial_id": "44402d93",
+  "queries": [
+    {
+      "query": "How do artificial neural networks employ weight matrices and vector mappings to relate inputs and outputs in applied linguistics?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.4578934907913208,
+          "doc_id": "153",
+          "text": "Artificial Intelligence, Language Intelligence, and Mathematics"
+        },
+        {
+          "rank": 2,
+          "score": 0.4195924997329712,
+          "doc_id": "0",
+          "text": "Logic and artificial intelligence"
+        },
+        {
+          "rank": 3,
+          "score": 0.4162452220916748,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence"
+        },
+        {
+          "rank": 4,
+          "score": 0.4090656042098999,
+          "doc_id": "60",
+          "text": "Artificial intelligence"
+        },
+        {
+          "rank": 5,
+          "score": 0.4090656042098999,
+          "doc_id": "106",
+          "text": "Artificial intelligence"
+        },
+        {
+          "rank": 6,
+          "score": 0.4090656042098999,
+          "doc_id": "132",
+          "text": "Artificial intelligence"
+        },
+        {
+          "rank": 7,
+          "score": 0.40829533338546753,
+          "doc_id": "225",
+          "text": "Speech Recognition using Machine Learning"
+        },
+        {
+          "rank": 8,
+          "score": 0.4029560685157776,
+          "doc_id": "103",
+          "text": "Artificial Intelligence in Neuroimaging: Clinical Applications"
+        },
+        {
+          "rank": 9,
+          "score": 0.4028462767601013,
+          "doc_id": "93",
+          "text": "Artificial intelligence and robotics"
+        },
+        {
+          "rank": 10,
+          "score": 0.4002659022808075,
+          "doc_id": "75",
+          "text": "MACHINE LEARNING"
+        }
+      ]
+    },
+    {
+      "query": "What is the role of weight matrices in artificial neural networks?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.46521538496017456,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence"
+        },
+        {
+          "rank": 2,
+          "score": 0.4574055075645447,
+          "doc_id": "60",
+          "text": "Artificial intelligence"
+        },
+        {
+          "rank": 3,
+          "score": 0.4574055075645447,
+          "doc_id": "132",
+          "text": "Artificial intelligence"
+        },
+        {
+          "rank": 4,
+          "score": 0.4574055075645447,
+          "doc_id": "106",
+          "text": "Artificial intelligence"
+        },
+        {
+          "rank": 5,
+          "score": 0.4559924602508545,
+          "doc_id": "153",
+          "text": "Artificial Intelligence, Language Intelligence, and Mathematics"
+        },
+        {
+          "rank": 6,
+          "score": 0.45069247484207153,
+          "doc_id": "93",
+          "text": "Artificial intelligence and robotics"
+        },
+        {
+          "rank": 7,
+          "score": 0.43772760033607483,
+          "doc_id": "0",
+          "text": "Logic and artificial intelligence"
+        },
+        {
+          "rank": 8,
+          "score": 0.4321225881576538,
+          "doc_id": "216",
+          "text": "A Study on Artificial Intelligence"
+        },
+        {
+          "rank": 9,
+          "score": 0.42819565534591675,
+          "doc_id": "164",
+          "text": "Machine Learning na Medicina: Revis&atilde;o e Aplicabilidade"
+        },
+        {
+          "rank": 10,
+          "score": 0.4279283285140991,
+          "doc_id": "97",
+          "text": "&#x201e;Machine learning“ in der An&auml;sthesiologie"
+        }
+      ]
+    },
+    {
+      "query": "What is the role of vector mappings in artificial neural networks?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.46106889843940735,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence"
+        },
+        {
+          "rank": 2,
+          "score": 0.4512529969215393,
+          "doc_id": "60",
+          "text": "Artificial intelligence"
+        },
+        {
+          "rank": 3,
+          "score": 0.4512529969215393,
+          "doc_id": "132",
+          "text": "Artificial intelligence"
+        },
+        {
+          "rank": 4,
+          "score": 0.4512529969215393,
+          "doc_id": "106",
+          "text": "Artificial intelligence"
+        },
+        {
+          "rank": 5,
+          "score": 0.4509735107421875,
+          "doc_id": "153",
+          "text": "Artificial Intelligence, Language Intelligence, and Mathematics"
+        },
+        {
+          "rank": 6,
+          "score": 0.4442799687385559,
+          "doc_id": "216",
+          "text": "A Study on Artificial Intelligence"
+        },
+        {
+          "rank": 7,
+          "score": 0.44117510318756104,
+          "doc_id": "93",
+          "text": "Artificial intelligence and robotics"
+        },
+        {
+          "rank": 8,
+          "score": 0.4409269094467163,
+          "doc_id": "159",
+          "text": "Artificial Intelligence in a historical perspective"
+        },
+        {
+          "rank": 9,
+          "score": 0.43831557035446167,
+          "doc_id": "212",
+          "text": "Exploring Artificial Intelligence Futures"
+        },
+        {
+          "rank": 10,
+          "score": 0.43661075830459595,
+          "doc_id": "103",
+          "text": "Artificial Intelligence in Neuroimaging: Clinical Applications"
+        }
+      ]
+    },
+    {
+      "query": "How do artificial neural networks utilize weight matrices and vector mappings to relate inputs and outputs in applied linguistics?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 2
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.455454021692276,
+          "doc_id": "153",
+          "text": "Artificial Intelligence, Language Intelligence, and Mathematics"
+        },
+        {
+          "rank": 2,
+          "score": 0.4180331528186798,
+          "doc_id": "225",
+          "text": "Speech Recognition using Machine Learning"
+        },
+        {
+          "rank": 3,
+          "score": 0.41687721014022827,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence"
+        },
+        {
+          "rank": 4,
+          "score": 0.41446709632873535,
+          "doc_id": "0",
+          "text": "Logic and artificial intelligence"
+        },
+        {
+          "rank": 5,
+          "score": 0.41084298491477966,
+          "doc_id": "103",
+          "text": "Artificial Intelligence in Neuroimaging: Clinical Applications"
+        },
+        {
+          "rank": 6,
+          "score": 0.40264707803726196,
+          "doc_id": "132",
+          "text": "Artificial intelligence"
+        },
+        {
+          "rank": 7,
+          "score": 0.40264707803726196,
+          "doc_id": "106",
+          "text": "Artificial intelligence"
+        },
+        {
+          "rank": 8,
+          "score": 0.40264707803726196,
+          "doc_id": "60",
+          "text": "Artificial intelligence"
+        },
+        {
+          "rank": 9,
+          "score": 0.39868664741516113,
+          "doc_id": "75",
+          "text": "MACHINE LEARNING"
+        },
+        {
+          "rank": 10,
+          "score": 0.3962031602859497,
+          "doc_id": "93",
+          "text": "Artificial intelligence and robotics"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

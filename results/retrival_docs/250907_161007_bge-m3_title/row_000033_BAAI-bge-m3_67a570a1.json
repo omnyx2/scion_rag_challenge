@@ -1,0 +1,221 @@
+{
+  "id": "row_000033",
+  "model_name": "BAAI/bge-m3",
+  "timestamp_kst": "2025-09-07T16:10:12.587479+09:00",
+  "trial_id": "67a570a1",
+  "queries": [
+    {
+      "query": "How would you distill the key design elements and convergence concepts of an IT/OT-based advanced distribution management system?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7854866981506348,
+          "doc_id": "59",
+          "text": "IT/OT Convergence 기반의 Advanced Distribution Management System의 설계"
+        },
+        {
+          "rank": 2,
+          "score": 0.7854866981506348,
+          "doc_id": "149",
+          "text": "IT/OT Convergence 기반의 Advanced Distribution Management System의 설계"
+        },
+        {
+          "rank": 3,
+          "score": 0.6525525450706482,
+          "doc_id": "117",
+          "text": "Mining and IT-OT convergence"
+        },
+        {
+          "rank": 4,
+          "score": 0.6374539136886597,
+          "doc_id": "44",
+          "text": "IT/OT convergence and cyber security"
+        },
+        {
+          "rank": 5,
+          "score": 0.6350379586219788,
+          "doc_id": "136",
+          "text": "IT/automation convergence revisited"
+        },
+        {
+          "rank": 6,
+          "score": 0.6258592009544373,
+          "doc_id": "133",
+          "text": "IT and OT convergence"
+        },
+        {
+          "rank": 7,
+          "score": 0.5984855890274048,
+          "doc_id": "39",
+          "text": "IT convergence and security"
+        },
+        {
+          "rank": 8,
+          "score": 0.5918302536010742,
+          "doc_id": "211",
+          "text": "On exploring factors for enhancing export competitiveness in IT Convergence industries"
+        },
+        {
+          "rank": 9,
+          "score": 0.5892540216445923,
+          "doc_id": "54",
+          "text": "Future trends of IT convergence"
+        },
+        {
+          "rank": 10,
+          "score": 0.5867597460746765,
+          "doc_id": "229",
+          "text": "Convergence IT 관련 기사"
+        }
+      ]
+    },
+    {
+      "query": "What are the key design elements of an IT/OT-based advanced distribution management system?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7651432752609253,
+          "doc_id": "59",
+          "text": "IT/OT Convergence 기반의 Advanced Distribution Management System의 설계"
+        },
+        {
+          "rank": 2,
+          "score": 0.7651432752609253,
+          "doc_id": "149",
+          "text": "IT/OT Convergence 기반의 Advanced Distribution Management System의 설계"
+        },
+        {
+          "rank": 3,
+          "score": 0.5784686803817749,
+          "doc_id": "44",
+          "text": "IT/OT convergence and cyber security"
+        },
+        {
+          "rank": 4,
+          "score": 0.577351450920105,
+          "doc_id": "117",
+          "text": "Mining and IT-OT convergence"
+        },
+        {
+          "rank": 5,
+          "score": 0.5546817183494568,
+          "doc_id": "133",
+          "text": "IT and OT convergence"
+        },
+        {
+          "rank": 6,
+          "score": 0.5445741415023804,
+          "doc_id": "136",
+          "text": "IT/automation convergence revisited"
+        },
+        {
+          "rank": 7,
+          "score": 0.5292726159095764,
+          "doc_id": "211",
+          "text": "On exploring factors for enhancing export competitiveness in IT Convergence industries"
+        },
+        {
+          "rank": 8,
+          "score": 0.5215026140213013,
+          "doc_id": "105",
+          "text": "A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data"
+        },
+        {
+          "rank": 9,
+          "score": 0.5215026140213013,
+          "doc_id": "218",
+          "text": "A Comparative Study on Convergence of IT, BT and NT: Focusing on Patent Data"
+        },
+        {
+          "rank": 10,
+          "score": 0.5203500390052795,
+          "doc_id": "143",
+          "text": "Convergence of Enterprise IT and Embedded Systems"
+        }
+      ]
+    },
+    {
+      "query": "What are the convergence concepts associated with an IT/OT-based advanced distribution management system?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.8040849566459656,
+          "doc_id": "59",
+          "text": "IT/OT Convergence 기반의 Advanced Distribution Management System의 설계"
+        },
+        {
+          "rank": 2,
+          "score": 0.8040849566459656,
+          "doc_id": "149",
+          "text": "IT/OT Convergence 기반의 Advanced Distribution Management System의 설계"
+        },
+        {
+          "rank": 3,
+          "score": 0.6868002414703369,
+          "doc_id": "44",
+          "text": "IT/OT convergence and cyber security"
+        },
+        {
+          "rank": 4,
+          "score": 0.6851156949996948,
+          "doc_id": "117",
+          "text": "Mining and IT-OT convergence"
+        },
+        {
+          "rank": 5,
+          "score": 0.6847250461578369,
+          "doc_id": "133",
+          "text": "IT and OT convergence"
+        },
+        {
+          "rank": 6,
+          "score": 0.6644396185874939,
+          "doc_id": "229",
+          "text": "Convergence IT 관련 기사"
+        },
+        {
+          "rank": 7,
+          "score": 0.6603911519050598,
+          "doc_id": "136",
+          "text": "IT/automation convergence revisited"
+        },
+        {
+          "rank": 8,
+          "score": 0.6537987589836121,
+          "doc_id": "39",
+          "text": "IT convergence and security"
+        },
+        {
+          "rank": 9,
+          "score": 0.6477797031402588,
+          "doc_id": "54",
+          "text": "Future trends of IT convergence"
+        },
+        {
+          "rank": 10,
+          "score": 0.6332188844680786,
+          "doc_id": "67",
+          "text": "Medical Device Connectivity - IT Convergence :"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

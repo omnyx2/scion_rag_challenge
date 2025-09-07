@@ -1,0 +1,291 @@
+{
+  "id": "row_000002",
+  "model_name": "BAAI/bge-m3",
+  "timestamp_kst": "2025-09-07T16:10:07.861208+09:00",
+  "trial_id": "9ec8606a",
+  "queries": [
+    {
+      "query": "How do artificial neural networks employ weight matrices and vector mappings to relate inputs and outputs in applied linguistics?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5792381167411804,
+          "doc_id": "153",
+          "text": "Artificial Intelligence, Language Intelligence, and Mathematics"
+        },
+        {
+          "rank": 2,
+          "score": 0.550371527671814,
+          "doc_id": "75",
+          "text": "MACHINE LEARNING"
+        },
+        {
+          "rank": 3,
+          "score": 0.5410680174827576,
+          "doc_id": "47",
+          "text": "Econometrics and Machine Learning"
+        },
+        {
+          "rank": 4,
+          "score": 0.536298930644989,
+          "doc_id": "179",
+          "text": "Deep Structured Learning: Architectures and Applications"
+        },
+        {
+          "rank": 5,
+          "score": 0.5249946713447571,
+          "doc_id": "225",
+          "text": "Speech Recognition using Machine Learning"
+        },
+        {
+          "rank": 6,
+          "score": 0.524072527885437,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence"
+        },
+        {
+          "rank": 7,
+          "score": 0.5222481489181519,
+          "doc_id": "114",
+          "text": "Deep Learning and Mathematical Models in Dermatology"
+        },
+        {
+          "rank": 8,
+          "score": 0.5188770294189453,
+          "doc_id": "219",
+          "text": "인공지능(Artificial Intelligence)과 대학수학교육"
+        },
+        {
+          "rank": 9,
+          "score": 0.5182061791419983,
+          "doc_id": "42",
+          "text": "Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning"
+        },
+        {
+          "rank": 10,
+          "score": 0.518028974533081,
+          "doc_id": "202",
+          "text": "Machine learning"
+        }
+      ]
+    },
+    {
+      "query": "What is the role of weight matrices in artificial neural networks?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5099365711212158,
+          "doc_id": "15",
+          "text": "Artificial intelligence, machine learning, and deep learning in women’s health nursing"
+        },
+        {
+          "rank": 2,
+          "score": 0.4990561604499817,
+          "doc_id": "152",
+          "text": "Deep Learning in MR Image Processing"
+        },
+        {
+          "rank": 3,
+          "score": 0.49811506271362305,
+          "doc_id": "101",
+          "text": "Breast cancer detection by leveraging Machine Learning"
+        },
+        {
+          "rank": 4,
+          "score": 0.4969675540924072,
+          "doc_id": "75",
+          "text": "MACHINE LEARNING"
+        },
+        {
+          "rank": 5,
+          "score": 0.49320128560066223,
+          "doc_id": "202",
+          "text": "Machine learning"
+        },
+        {
+          "rank": 6,
+          "score": 0.49123483896255493,
+          "doc_id": "111",
+          "text": "Artificial Intelligence for Artificial Artificial Intelligence"
+        },
+        {
+          "rank": 7,
+          "score": 0.49123483896255493,
+          "doc_id": "82",
+          "text": "Artificial Intelligence for Artificial Artificial Intelligence"
+        },
+        {
+          "rank": 8,
+          "score": 0.48473256826400757,
+          "doc_id": "215",
+          "text": "Artificial intelligence in obstetrics"
+        },
+        {
+          "rank": 9,
+          "score": 0.48462170362472534,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence"
+        },
+        {
+          "rank": 10,
+          "score": 0.4839324951171875,
+          "doc_id": "42",
+          "text": "Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning"
+        }
+      ]
+    },
+    {
+      "query": "What is the role of vector mappings in artificial neural networks?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5217344760894775,
+          "doc_id": "195",
+          "text": "Deep Contour Recovery: Repairing Breaks in Detected Contours using Deep Learning"
+        },
+        {
+          "rank": 2,
+          "score": 0.5066542029380798,
+          "doc_id": "152",
+          "text": "Deep Learning in MR Image Processing"
+        },
+        {
+          "rank": 3,
+          "score": 0.49432533979415894,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence"
+        },
+        {
+          "rank": 4,
+          "score": 0.48952943086624146,
+          "doc_id": "202",
+          "text": "Machine learning"
+        },
+        {
+          "rank": 5,
+          "score": 0.486223429441452,
+          "doc_id": "75",
+          "text": "MACHINE LEARNING"
+        },
+        {
+          "rank": 6,
+          "score": 0.48326411843299866,
+          "doc_id": "64",
+          "text": "Deep Learning Research Trend Analysis using Text Mining"
+        },
+        {
+          "rank": 7,
+          "score": 0.48122960329055786,
+          "doc_id": "47",
+          "text": "Econometrics and Machine Learning"
+        },
+        {
+          "rank": 8,
+          "score": 0.4773883819580078,
+          "doc_id": "213",
+          "text": "Artificial intelligence-driven radiomics: developing valuable radiomics signatures with the use of artificial intelligence"
+        },
+        {
+          "rank": 9,
+          "score": 0.47706377506256104,
+          "doc_id": "111",
+          "text": "Artificial Intelligence for Artificial Artificial Intelligence"
+        },
+        {
+          "rank": 10,
+          "score": 0.47706377506256104,
+          "doc_id": "82",
+          "text": "Artificial Intelligence for Artificial Artificial Intelligence"
+        }
+      ]
+    },
+    {
+      "query": "How do artificial neural networks utilize weight matrices and vector mappings to relate inputs and outputs in applied linguistics?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 2
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5840792059898376,
+          "doc_id": "153",
+          "text": "Artificial Intelligence, Language Intelligence, and Mathematics"
+        },
+        {
+          "rank": 2,
+          "score": 0.5526797771453857,
+          "doc_id": "75",
+          "text": "MACHINE LEARNING"
+        },
+        {
+          "rank": 3,
+          "score": 0.5419762134552002,
+          "doc_id": "47",
+          "text": "Econometrics and Machine Learning"
+        },
+        {
+          "rank": 4,
+          "score": 0.5358934998512268,
+          "doc_id": "179",
+          "text": "Deep Structured Learning: Architectures and Applications"
+        },
+        {
+          "rank": 5,
+          "score": 0.5292049646377563,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence"
+        },
+        {
+          "rank": 6,
+          "score": 0.5267835855484009,
+          "doc_id": "225",
+          "text": "Speech Recognition using Machine Learning"
+        },
+        {
+          "rank": 7,
+          "score": 0.5231626033782959,
+          "doc_id": "114",
+          "text": "Deep Learning and Mathematical Models in Dermatology"
+        },
+        {
+          "rank": 8,
+          "score": 0.5206648111343384,
+          "doc_id": "219",
+          "text": "인공지능(Artificial Intelligence)과 대학수학교육"
+        },
+        {
+          "rank": 9,
+          "score": 0.5205479860305786,
+          "doc_id": "202",
+          "text": "Machine learning"
+        },
+        {
+          "rank": 10,
+          "score": 0.5201635956764221,
+          "doc_id": "101",
+          "text": "Breast cancer detection by leveraging Machine Learning"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

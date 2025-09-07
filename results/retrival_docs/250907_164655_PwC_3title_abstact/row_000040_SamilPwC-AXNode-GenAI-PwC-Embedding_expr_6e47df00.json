@@ -1,0 +1,221 @@
+{
+  "id": "row_000040",
+  "model_name": "SamilPwC-AXNode-GenAI/PwC-Embedding_expr",
+  "timestamp_kst": "2025-09-07T16:47:02.546816+09:00",
+  "trial_id": "6e47df00",
+  "queries": [
+    {
+      "query": "AHP 방법론을 이용한 에너지-IT 융합기술 도출 과정과 연구 성과를 압축적으로 알려주실 수 있나요?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.8112324476242065,
+          "doc_id": "168",
+          "text": "AHP를 이용한 에너지-IT 융합기술 도출에 관한 연구 AHP를 이용한 에너지-IT 융합기술 도출에 관한 연구 AHP를 이용한 에너지-IT 융합기술 도출에 관한 연구 세계적으로 비효율적인 에너지 소비로 인한 에너지 및 환경 문제가 지속적으로 대두되고 있다. 최근 이 같은 문제를 해결하기 위해서 에너지-IT(Energy-IT, EIT)융합기술이 효과적인 해결책으로 큰 관심을 받고 있다. 하지만 국내에서는 스마트그리드 외 EIT 융합기술에 대한 정책적 연구개발 및 투자가 미흡한 실정이다. 따라서 본 논문에서는 EIT 융합 기술의 효용성을 조사하고 AHP(Analytic Hierarchy Process) 기법을 이용하여 EIT 융합기술을 도출한다. 본 연구를 통하여 정부의 국가 에너지 문제 해결과 경쟁력을 향상을 위한 정책 결정에 기여할 것으로 기대한다. 연구결과 에너지 저감 분야 중에서는 에너지절약형건물(green building) 분야가 가장 효용성 있는 융합분야로 분석되었고, 에너지절약형건물 분야 내의 융합기술 중에서 네트워크 기능을 활용한 건물 내 에너지소비기기가 기술성, 경제성 부문에서 높은 중요도를 받으면서 가장 높은 기술로 평가 되었다."
+        },
+        {
+          "rank": 2,
+          "score": 0.6539792418479919,
+          "doc_id": "61",
+          "text": "IT 융합서비스 및 활용기술의 기술속성에 관한 연구 : 산업간 융합을 중심으로 IT 융합서비스 및 활용기술의 기술속성에 관한 연구 : 산업간 융합을 중심으로 IT 융합서비스 및 활용기술의 기술속성에 관한 연구 : 산업간 융합을 중심으로 The IT convergence industry is expected to create some high added-value, yet the IT convergence service is still in its introductory stage, which requires the utilization of yet to be tried future technologies and development methodologies that have been never tried in the past; therefore, there is certain risk involved regarding the success of development during the introduction of service and the development of technology. From such perspective, this study found examples of the services in the IT convergence industries and the application technologies for the realization of those services; and conducted a research based on the examples, using the technical Characteristics classification; and based on the result, analyzed the standards and the peculiarity of technologies employed for the IT convergence service and the correlation and the complementarity between them; also identified the standards and the peculiarity of technologies required by the IT convergence services and analyzed the correlation between them; and finally analyzed the compatibility between the IT convergence services and the applied technologies. The conclusion of this study is expected to be utilized for selecting technologies for the introduction and the operation of the optimal IT convergence service and as a benchmark as well."
+        },
+        {
+          "rank": 3,
+          "score": 0.6528575420379639,
+          "doc_id": "197",
+          "text": "산업생태계 관점에서 바라본 IT융합 촉진전략 산업생태계 관점에서 바라본 IT융합 촉진전략 산업생태계 관점에서 바라본 IT융합 촉진전략 IT융합은 제조업 등 타 산업 분야의 경쟁력을 향상시키는데 기여하고 있다. 지금까지 정부는 융합기술 개발 및 사업화에 많은 지원을 해왔으며 몇몇 선도기업에서는 의미 있는 성과를 거두고 있다. 그러나 IT융합을 기반으로 산업 경쟁력을 강화하기 위해서는 다양한 융합 시도가 이뤄질 수 있는 생태계가 구축되어야 하며, 많은 기업들이 융합에 참여하고 협력하며 그 혜택을 널리 공유할 수 있는 환경이 마련되어야 한다. 본 연구에서는 AHP 분석을 토대로 IT융합을 촉진하기 위한 이해관계자들의 역할을 도출하고자 하였다. 연구 결과, IT융합을 촉진하기 위한 산업 생태계 마련을 위해 정부의 규제 완화와 벤처 육성정책 확대, 키스톤 기업의 협업기반 융합과제 확대와 경험 공유, 벤처기업 등 기술개발 주체의 기술역량 강화, 그리고 크로스오버형 인재양성을 위한 대학의 역할이 필요한 것으로 나타났다."
+        },
+        {
+          "rank": 4,
+          "score": 0.6391571164131165,
+          "doc_id": "56",
+          "text": "IT 컨버전스기술 기반의 지역 방재정보통신산업 도출 IT 컨버전스기술 기반의 지역 방재정보통신산업 도출 IT 컨버전스기술 기반의 지역 방재정보통신산업 도출 본 연구에서는 IT 선도 기술의 동향을 분석하고 IT 컨버전스 산업의 방향을 분석하였다. 또한 특정 지역의 산업 및 기술동향을 분석하여 산업간 융합을 통한 신산업 도출방법을 제안 하였는 바, 지역별 특수성을 분석하기 위하여 산업정책, 지역기반 산업과 IT 산업 그리고 인프라 등 과 같은 현황을 고려하였다. 결과적으로, 지역사업화 매력도와 사업화 경쟁력을 고려한 육성 사업군이 선정된 바, 방재산업과 연계된 방재정보통신 산업 모델을 제안한다."
+        },
+        {
+          "rank": 5,
+          "score": 0.635007381439209,
+          "doc_id": "96",
+          "text": "국방IT융합 추진방법론 및 사례 연구 국방IT융합 추진방법론 및 사례 연구 국방IT융합 추진방법론 및 사례 연구 Information technology convergence has been recognized one of the key drivers in the industry perspective. Korea government established IT convergence policy in 2008 and has been implementing it to the core industry such as automotive, shipbuilding and defense industries. This research analyzes various IT convergence issues based on an operation of defense IT convergence center, one of the industry IT convergence centers. Defense IT convergence issues are as follows : the methods for introducing rapid changing IT to military area, rapid deployment procedures of verified commercial technologies and products, regulations for using of domestic software promotion and so on. We define the concept of defense IT convergence and propose the framework and processes for applying IT to our defense sector as one of industries. Also, we establish various business models in the military perspective using defense IT convergence framework. In this paper, we focus the development of defense IT convergence through the alignment of national IT convergence policy and propose various business models established through operating a defense IT convergence center."
+        },
+        {
+          "rank": 6,
+          "score": 0.6287646889686584,
+          "doc_id": "98",
+          "text": "국방 IT융합 비즈니스 모델 사례와 성과 분석 국방 IT융합 비즈니스 모델 사례와 성과 분석 국방 IT융합 비즈니스 모델 사례와 성과 분석 Information technology (IT) convergence have been recognized one of the key drivers in the industry perspective. Especially, IT convergence have been one of the most important innovative way for defense sector. Korea government established IT convergence policy in 2008 and have been applying it to the core industry such as automotive, shipbuilding and defense industries. Recently, the creative vitamin project has been launched. Vitamin 'D' means the way to create the value of defense industry. This research analyzes and evaluates various IT convergence business models based on an operation of defense IT convergence center from 2011 to 2014, which is the industry IT convergence centers. Defense IT convergence business models can be classified into four types of mission area as follows : weapon acquisition and management, military intelligence, military power construction, and resources management. We define the concept of defense IT convergence and describe the framework and processes for applying IT to the defense sector. We analyzes and evaluates various business models designed through defense IT convergence framework and processes."
+        },
+        {
+          "rank": 7,
+          "score": 0.628253161907196,
+          "doc_id": "113",
+          "text": "건강운동을 위한 IT 융합기술의 접근 동향 건강운동을 위한 IT 융합기술의 접근 동향 건강운동을 위한 IT 융합기술의 접근 동향 IT 융합은 IT의 자체 고도화를 바탕으로 다른 분야의 기술개발과 산업발전을 견인하거나 새로운 산업창출을 목표로 국가전략적 차원에서 접근을 하고 있으며 연구자원을 집중 투자하고 있다. 이에 IT 융합은 주력산업을 고부가가치화하고, IT 신산업을 창출할 뿐만 아니라, 범부처적으로 추진하는 신성장동력 육성에 기여하는 첨단융합 산업분야로 부상하게 되었다. 건강관련 융합서비스는 기존의 질병 예방과 관리 중심의 치료기술 산업에서 운동/스포츠 및 재활 중심의 엔터테인먼트체험 산업으로 확장되는 추세이다. 따라서 본 논문에서는 IT 융합에 대하여 그 중요성을 지니는 것만큼 건강운동과 관련된 IT 융합기술개발 동향을 파악하고 기존에 진행되었던 주요 기술개발과 융합산업 발전을 위한 방향에 관한 제언을 하고자 한다."
+        },
+        {
+          "rank": 8,
+          "score": 0.624555766582489,
+          "doc_id": "205",
+          "text": "Deep Learning을 활용한 산사태 결정론 방법의 활용성 고찰 Deep Learning을 활용한 산사태 결정론 방법의 활용성 고찰 Deep Learning을 활용한 산사태 결정론 방법의 활용성 고찰 산사태 위험지역을 결정론적인 방법으로 도출할 수 있는 Analytic Hierarchy Process (AHP) 기반의 선행 연구가 2017년도에 제안되었다. 해당 연구의 목적은 기존에 제안된 결정론적인 방법의 활용성을 향상시키고자 deep learning 기법을 적용하여 해당 방법의 신뢰성을 검증하는 것이다. AHP 기반의 결정론적인 방법은 8개 인자인 세립분 함량, 표토층 두께, 간극비, 탄성계수, 전단강도, 투수계수, 포화도 그리고 함수비로 구성되며 이를 통해 안전율을 도출할 수 있다. 대상 지역을 1 m 정사각형의 격자로 구성한 후 현장 및 실내 실험을 통해 8개의 인자를 도출하였다. 안전율은 Mohr-Coulomb의 파괴 이론을 통해 계산하여 deep learning의 출력 값으로 활용하였다. Deep learning 기법 적용 시 입력 값과 출력 값의 학습 능률을 향상시키기 위하여 경사하강법 중 Bayesian regularization을 적용하였으며, 학습 결과 실제 안전율과 deep learning 기법으로 예측된 안전율이 train과 test 단계 모두에서 우수한 신뢰성을 보여준다. 해당 연구에서 활용한 deep learning 기법이 산사태 위험지역 선정에 결정론적 방법으로 유용하게 이용될 것으로 사료된다."
+        },
+        {
+          "rank": 9,
+          "score": 0.6238867044448853,
+          "doc_id": "146",
+          "text": "미래 IT융합 신산업 육성 및 선도방안 미래 IT융합 신산업 육성 및 선도방안 미래 IT융합 신산업 육성 및 선도방안 IT는 한국의 경제성장에 큰 기여를 해왔으며 사회전반의 패러다임 혁신을 통해 생산성, 효율성, 편의성, 소통성을 증진시키고 삶의 양식에 전면적 변화를 가져왔다. 국민경제와 사회문화에서 지대한 의미를 지나는 IT는 다른 기술 또는 산업과의 융합이라는 새로운 변화와 혁신의 중심에 위치하고 있다. IT융합은 IT의 자체 고도화를 바탕으로 다른 분야의 기술개발과 산업발전을 견인하거나 새로운 산업을 창출하는 것으로 우리나라를 비롯하며 주요국에서는 자원과 역량을 선택적으로 집중하고 있다. 이 논문에서는 IT 융합과 관련된 주요국의 산업 전략 및 기술개발 동향을 파악하고 전문가 설문조사결과를 바탕으로 한국의 IT 융합역량의 수준을 평가하고 결론적으로 IT융합신산업육성 및 선도방안에 관한 전략적 제언을 하고자 한다."
+        },
+        {
+          "rank": 10,
+          "score": 0.6237297654151917,
+          "doc_id": "16",
+          "text": "국방IT융합기술의 발전전략에 관한 연구 국방IT융합기술의 발전전략에 관한 연구 국방IT융합기술의 발전전략에 관한 연구 국방IT융합이란 네트워크중심전(Network Centric Warfare) 개념을 실현하기 위해 새로운 IT 융합기술을 개발하여 실제 전력화하는 것이다. 국방부는 창조경제 시대적 사명인 국방IT융합발전을 위해 국방기술품질원의 국방IT융합 센터를 전담기관으로 지정하였고 융합센터를 중심으로 국방IT융합 과제 발굴을 위한 산 학 연구기관과 군 소요조사, 사전 기술기획 활동하며 국방 도메인 전문가로 구성된 과제기획팀 운영과 선진 기획방법 적용 등을 통해 민간IT 신기술의 적기 도입을 중점적으로 추진하고 있다. 이에 따라 국방IT융합 발전을 위해 국가IT융합 정책 추진과 국방IT융합기술 현상을 이론적으로 고찰하고 종합적으로 분석한 뒤 효과적으로 활용할 수 있는 발전전략이 절실히 요구된다. 본 논문은 국방IT융합발전을 위해 식별된 IT융합 과제를 단계화 추진하고 신설된 국방IT융합센터의 효율성을 제고하며 국방개혁과 연계된 IT융합인재 육성방안을 제시함으로써 스마트 국방을 조기에 달성하고 패러다임의 신속한 전환과 창조경제 구현에도 크게 기여할 것이다."
+        }
+      ]
+    },
+    {
+      "query": "AHP 방법론을 이용한 에너지-IT 융합기술 도출 과정은 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.8392329216003418,
+          "doc_id": "168",
+          "text": "AHP를 이용한 에너지-IT 융합기술 도출에 관한 연구 AHP를 이용한 에너지-IT 융합기술 도출에 관한 연구 AHP를 이용한 에너지-IT 융합기술 도출에 관한 연구 세계적으로 비효율적인 에너지 소비로 인한 에너지 및 환경 문제가 지속적으로 대두되고 있다. 최근 이 같은 문제를 해결하기 위해서 에너지-IT(Energy-IT, EIT)융합기술이 효과적인 해결책으로 큰 관심을 받고 있다. 하지만 국내에서는 스마트그리드 외 EIT 융합기술에 대한 정책적 연구개발 및 투자가 미흡한 실정이다. 따라서 본 논문에서는 EIT 융합 기술의 효용성을 조사하고 AHP(Analytic Hierarchy Process) 기법을 이용하여 EIT 융합기술을 도출한다. 본 연구를 통하여 정부의 국가 에너지 문제 해결과 경쟁력을 향상을 위한 정책 결정에 기여할 것으로 기대한다. 연구결과 에너지 저감 분야 중에서는 에너지절약형건물(green building) 분야가 가장 효용성 있는 융합분야로 분석되었고, 에너지절약형건물 분야 내의 융합기술 중에서 네트워크 기능을 활용한 건물 내 에너지소비기기가 기술성, 경제성 부문에서 높은 중요도를 받으면서 가장 높은 기술로 평가 되었다."
+        },
+        {
+          "rank": 2,
+          "score": 0.6928640604019165,
+          "doc_id": "197",
+          "text": "산업생태계 관점에서 바라본 IT융합 촉진전략 산업생태계 관점에서 바라본 IT융합 촉진전략 산업생태계 관점에서 바라본 IT융합 촉진전략 IT융합은 제조업 등 타 산업 분야의 경쟁력을 향상시키는데 기여하고 있다. 지금까지 정부는 융합기술 개발 및 사업화에 많은 지원을 해왔으며 몇몇 선도기업에서는 의미 있는 성과를 거두고 있다. 그러나 IT융합을 기반으로 산업 경쟁력을 강화하기 위해서는 다양한 융합 시도가 이뤄질 수 있는 생태계가 구축되어야 하며, 많은 기업들이 융합에 참여하고 협력하며 그 혜택을 널리 공유할 수 있는 환경이 마련되어야 한다. 본 연구에서는 AHP 분석을 토대로 IT융합을 촉진하기 위한 이해관계자들의 역할을 도출하고자 하였다. 연구 결과, IT융합을 촉진하기 위한 산업 생태계 마련을 위해 정부의 규제 완화와 벤처 육성정책 확대, 키스톤 기업의 협업기반 융합과제 확대와 경험 공유, 벤처기업 등 기술개발 주체의 기술역량 강화, 그리고 크로스오버형 인재양성을 위한 대학의 역할이 필요한 것으로 나타났다."
+        },
+        {
+          "rank": 3,
+          "score": 0.6760839223861694,
+          "doc_id": "113",
+          "text": "건강운동을 위한 IT 융합기술의 접근 동향 건강운동을 위한 IT 융합기술의 접근 동향 건강운동을 위한 IT 융합기술의 접근 동향 IT 융합은 IT의 자체 고도화를 바탕으로 다른 분야의 기술개발과 산업발전을 견인하거나 새로운 산업창출을 목표로 국가전략적 차원에서 접근을 하고 있으며 연구자원을 집중 투자하고 있다. 이에 IT 융합은 주력산업을 고부가가치화하고, IT 신산업을 창출할 뿐만 아니라, 범부처적으로 추진하는 신성장동력 육성에 기여하는 첨단융합 산업분야로 부상하게 되었다. 건강관련 융합서비스는 기존의 질병 예방과 관리 중심의 치료기술 산업에서 운동/스포츠 및 재활 중심의 엔터테인먼트체험 산업으로 확장되는 추세이다. 따라서 본 논문에서는 IT 융합에 대하여 그 중요성을 지니는 것만큼 건강운동과 관련된 IT 융합기술개발 동향을 파악하고 기존에 진행되었던 주요 기술개발과 융합산업 발전을 위한 방향에 관한 제언을 하고자 한다."
+        },
+        {
+          "rank": 4,
+          "score": 0.6742841005325317,
+          "doc_id": "61",
+          "text": "IT 융합서비스 및 활용기술의 기술속성에 관한 연구 : 산업간 융합을 중심으로 IT 융합서비스 및 활용기술의 기술속성에 관한 연구 : 산업간 융합을 중심으로 IT 융합서비스 및 활용기술의 기술속성에 관한 연구 : 산업간 융합을 중심으로 The IT convergence industry is expected to create some high added-value, yet the IT convergence service is still in its introductory stage, which requires the utilization of yet to be tried future technologies and development methodologies that have been never tried in the past; therefore, there is certain risk involved regarding the success of development during the introduction of service and the development of technology. From such perspective, this study found examples of the services in the IT convergence industries and the application technologies for the realization of those services; and conducted a research based on the examples, using the technical Characteristics classification; and based on the result, analyzed the standards and the peculiarity of technologies employed for the IT convergence service and the correlation and the complementarity between them; also identified the standards and the peculiarity of technologies required by the IT convergence services and analyzed the correlation between them; and finally analyzed the compatibility between the IT convergence services and the applied technologies. The conclusion of this study is expected to be utilized for selecting technologies for the introduction and the operation of the optimal IT convergence service and as a benchmark as well."
+        },
+        {
+          "rank": 5,
+          "score": 0.6685484051704407,
+          "doc_id": "56",
+          "text": "IT 컨버전스기술 기반의 지역 방재정보통신산업 도출 IT 컨버전스기술 기반의 지역 방재정보통신산업 도출 IT 컨버전스기술 기반의 지역 방재정보통신산업 도출 본 연구에서는 IT 선도 기술의 동향을 분석하고 IT 컨버전스 산업의 방향을 분석하였다. 또한 특정 지역의 산업 및 기술동향을 분석하여 산업간 융합을 통한 신산업 도출방법을 제안 하였는 바, 지역별 특수성을 분석하기 위하여 산업정책, 지역기반 산업과 IT 산업 그리고 인프라 등 과 같은 현황을 고려하였다. 결과적으로, 지역사업화 매력도와 사업화 경쟁력을 고려한 육성 사업군이 선정된 바, 방재산업과 연계된 방재정보통신 산업 모델을 제안한다."
+        },
+        {
+          "rank": 6,
+          "score": 0.6580294370651245,
+          "doc_id": "16",
+          "text": "국방IT융합기술의 발전전략에 관한 연구 국방IT융합기술의 발전전략에 관한 연구 국방IT융합기술의 발전전략에 관한 연구 국방IT융합이란 네트워크중심전(Network Centric Warfare) 개념을 실현하기 위해 새로운 IT 융합기술을 개발하여 실제 전력화하는 것이다. 국방부는 창조경제 시대적 사명인 국방IT융합발전을 위해 국방기술품질원의 국방IT융합 센터를 전담기관으로 지정하였고 융합센터를 중심으로 국방IT융합 과제 발굴을 위한 산 학 연구기관과 군 소요조사, 사전 기술기획 활동하며 국방 도메인 전문가로 구성된 과제기획팀 운영과 선진 기획방법 적용 등을 통해 민간IT 신기술의 적기 도입을 중점적으로 추진하고 있다. 이에 따라 국방IT융합 발전을 위해 국가IT융합 정책 추진과 국방IT융합기술 현상을 이론적으로 고찰하고 종합적으로 분석한 뒤 효과적으로 활용할 수 있는 발전전략이 절실히 요구된다. 본 논문은 국방IT융합발전을 위해 식별된 IT융합 과제를 단계화 추진하고 신설된 국방IT융합센터의 효율성을 제고하며 국방개혁과 연계된 IT융합인재 육성방안을 제시함으로써 스마트 국방을 조기에 달성하고 패러다임의 신속한 전환과 창조경제 구현에도 크게 기여할 것이다."
+        },
+        {
+          "rank": 7,
+          "score": 0.6515740156173706,
+          "doc_id": "146",
+          "text": "미래 IT융합 신산업 육성 및 선도방안 미래 IT융합 신산업 육성 및 선도방안 미래 IT융합 신산업 육성 및 선도방안 IT는 한국의 경제성장에 큰 기여를 해왔으며 사회전반의 패러다임 혁신을 통해 생산성, 효율성, 편의성, 소통성을 증진시키고 삶의 양식에 전면적 변화를 가져왔다. 국민경제와 사회문화에서 지대한 의미를 지나는 IT는 다른 기술 또는 산업과의 융합이라는 새로운 변화와 혁신의 중심에 위치하고 있다. IT융합은 IT의 자체 고도화를 바탕으로 다른 분야의 기술개발과 산업발전을 견인하거나 새로운 산업을 창출하는 것으로 우리나라를 비롯하며 주요국에서는 자원과 역량을 선택적으로 집중하고 있다. 이 논문에서는 IT 융합과 관련된 주요국의 산업 전략 및 기술개발 동향을 파악하고 전문가 설문조사결과를 바탕으로 한국의 IT 융합역량의 수준을 평가하고 결론적으로 IT융합신산업육성 및 선도방안에 관한 전략적 제언을 하고자 한다."
+        },
+        {
+          "rank": 8,
+          "score": 0.6501573324203491,
+          "doc_id": "149",
+          "text": "IT/OT Convergence 기반의 Advanced Distribution Management System의 설계 IT/OT Convergence 기반의 Advanced Distribution Management System의 설계 IT/OT Convergence 기반의 Advanced Distribution Management System의 설계 Power automation system to operate power distribution systems can be distinguished by distribution SCADA with remote monitoring and control; and distribution automation system with basic functions such as service restoration to the distribution SCADA; and distribution management system which is operated by various applications in order to enhance distribution system operation performance based on the distribution automation system. In the technological change, a technical boundary of information technology (IT) and operation technology (OT) is being blurred by that new concepts such as interoperability. In addtion, IT/OT convergence has been proposed by the improvement of ICT and power system technology. At the viewpoint, advanced distribution management system (ADMS) to have the new concepts and to increase distribution system operation efficiency through global information and functions from the other systems has been proposed.In order to implement the ADMS, IT and OT have to be employed together on the ADMS; and the concept-based IT/OT convergence concept has been presented. Therefore, this paper introduces ADMS and IT/OT convergence and proposes a design of IT/OT convergence based ADMS system design with configurations and functions."
+        },
+        {
+          "rank": 9,
+          "score": 0.6481573581695557,
+          "doc_id": "96",
+          "text": "국방IT융합 추진방법론 및 사례 연구 국방IT융합 추진방법론 및 사례 연구 국방IT융합 추진방법론 및 사례 연구 Information technology convergence has been recognized one of the key drivers in the industry perspective. Korea government established IT convergence policy in 2008 and has been implementing it to the core industry such as automotive, shipbuilding and defense industries. This research analyzes various IT convergence issues based on an operation of defense IT convergence center, one of the industry IT convergence centers. Defense IT convergence issues are as follows : the methods for introducing rapid changing IT to military area, rapid deployment procedures of verified commercial technologies and products, regulations for using of domestic software promotion and so on. We define the concept of defense IT convergence and propose the framework and processes for applying IT to our defense sector as one of industries. Also, we establish various business models in the military perspective using defense IT convergence framework. In this paper, we focus the development of defense IT convergence through the alignment of national IT convergence policy and propose various business models established through operating a defense IT convergence center."
+        },
+        {
+          "rank": 10,
+          "score": 0.6462807655334473,
+          "doc_id": "59",
+          "text": "IT/OT Convergence 기반의 Advanced Distribution Management System의 설계 IT/OT Convergence 기반의 Advanced Distribution Management System의 설계 IT/OT Convergence 기반의 Advanced Distribution Management System의 설계 Power automation system to operate power distribution systems can be distinguished by distribution SCADA with remote monitoring and control; and distribution automation system with basic functions such as service restoration to the distribution SCADA; and distribution management system which is operated by various applications in order to enhance distribution system operation performance based on the distribution automation system. In the technological change, a technical boundary of information technology (IT) and operation technology (OT) is being blurred by that new concepts such as interoperability. In addtion, IT/OT convergence has been proposed by the improvement of ICT and power system technology. At the viewpoint, advanced distribution management system (ADMS) to have the new concepts and to increase distribution system operation efficiency through global information and functions from the other systems has been proposed. In order to implement the ADMS, IT and OT have to be employed together on the ADMS; and the concept-based IT/OT convergence concept has been presented. Therefore, this paper introduces ADMS and IT/OT convergence and proposes a design of IT/OT convergence based ADMS system design with configurations and functions."
+        }
+      ]
+    },
+    {
+      "query": "AHP 방법론을 이용해 도출된 에너지-IT 융합기술의 연구 성과는 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.8611695766448975,
+          "doc_id": "168",
+          "text": "AHP를 이용한 에너지-IT 융합기술 도출에 관한 연구 AHP를 이용한 에너지-IT 융합기술 도출에 관한 연구 AHP를 이용한 에너지-IT 융합기술 도출에 관한 연구 세계적으로 비효율적인 에너지 소비로 인한 에너지 및 환경 문제가 지속적으로 대두되고 있다. 최근 이 같은 문제를 해결하기 위해서 에너지-IT(Energy-IT, EIT)융합기술이 효과적인 해결책으로 큰 관심을 받고 있다. 하지만 국내에서는 스마트그리드 외 EIT 융합기술에 대한 정책적 연구개발 및 투자가 미흡한 실정이다. 따라서 본 논문에서는 EIT 융합 기술의 효용성을 조사하고 AHP(Analytic Hierarchy Process) 기법을 이용하여 EIT 융합기술을 도출한다. 본 연구를 통하여 정부의 국가 에너지 문제 해결과 경쟁력을 향상을 위한 정책 결정에 기여할 것으로 기대한다. 연구결과 에너지 저감 분야 중에서는 에너지절약형건물(green building) 분야가 가장 효용성 있는 융합분야로 분석되었고, 에너지절약형건물 분야 내의 융합기술 중에서 네트워크 기능을 활용한 건물 내 에너지소비기기가 기술성, 경제성 부문에서 높은 중요도를 받으면서 가장 높은 기술로 평가 되었다."
+        },
+        {
+          "rank": 2,
+          "score": 0.6755915880203247,
+          "doc_id": "197",
+          "text": "산업생태계 관점에서 바라본 IT융합 촉진전략 산업생태계 관점에서 바라본 IT융합 촉진전략 산업생태계 관점에서 바라본 IT융합 촉진전략 IT융합은 제조업 등 타 산업 분야의 경쟁력을 향상시키는데 기여하고 있다. 지금까지 정부는 융합기술 개발 및 사업화에 많은 지원을 해왔으며 몇몇 선도기업에서는 의미 있는 성과를 거두고 있다. 그러나 IT융합을 기반으로 산업 경쟁력을 강화하기 위해서는 다양한 융합 시도가 이뤄질 수 있는 생태계가 구축되어야 하며, 많은 기업들이 융합에 참여하고 협력하며 그 혜택을 널리 공유할 수 있는 환경이 마련되어야 한다. 본 연구에서는 AHP 분석을 토대로 IT융합을 촉진하기 위한 이해관계자들의 역할을 도출하고자 하였다. 연구 결과, IT융합을 촉진하기 위한 산업 생태계 마련을 위해 정부의 규제 완화와 벤처 육성정책 확대, 키스톤 기업의 협업기반 융합과제 확대와 경험 공유, 벤처기업 등 기술개발 주체의 기술역량 강화, 그리고 크로스오버형 인재양성을 위한 대학의 역할이 필요한 것으로 나타났다."
+        },
+        {
+          "rank": 3,
+          "score": 0.6670188903808594,
+          "doc_id": "61",
+          "text": "IT 융합서비스 및 활용기술의 기술속성에 관한 연구 : 산업간 융합을 중심으로 IT 융합서비스 및 활용기술의 기술속성에 관한 연구 : 산업간 융합을 중심으로 IT 융합서비스 및 활용기술의 기술속성에 관한 연구 : 산업간 융합을 중심으로 The IT convergence industry is expected to create some high added-value, yet the IT convergence service is still in its introductory stage, which requires the utilization of yet to be tried future technologies and development methodologies that have been never tried in the past; therefore, there is certain risk involved regarding the success of development during the introduction of service and the development of technology. From such perspective, this study found examples of the services in the IT convergence industries and the application technologies for the realization of those services; and conducted a research based on the examples, using the technical Characteristics classification; and based on the result, analyzed the standards and the peculiarity of technologies employed for the IT convergence service and the correlation and the complementarity between them; also identified the standards and the peculiarity of technologies required by the IT convergence services and analyzed the correlation between them; and finally analyzed the compatibility between the IT convergence services and the applied technologies. The conclusion of this study is expected to be utilized for selecting technologies for the introduction and the operation of the optimal IT convergence service and as a benchmark as well."
+        },
+        {
+          "rank": 4,
+          "score": 0.6584709286689758,
+          "doc_id": "56",
+          "text": "IT 컨버전스기술 기반의 지역 방재정보통신산업 도출 IT 컨버전스기술 기반의 지역 방재정보통신산업 도출 IT 컨버전스기술 기반의 지역 방재정보통신산업 도출 본 연구에서는 IT 선도 기술의 동향을 분석하고 IT 컨버전스 산업의 방향을 분석하였다. 또한 특정 지역의 산업 및 기술동향을 분석하여 산업간 융합을 통한 신산업 도출방법을 제안 하였는 바, 지역별 특수성을 분석하기 위하여 산업정책, 지역기반 산업과 IT 산업 그리고 인프라 등 과 같은 현황을 고려하였다. 결과적으로, 지역사업화 매력도와 사업화 경쟁력을 고려한 육성 사업군이 선정된 바, 방재산업과 연계된 방재정보통신 산업 모델을 제안한다."
+        },
+        {
+          "rank": 5,
+          "score": 0.6526883840560913,
+          "doc_id": "113",
+          "text": "건강운동을 위한 IT 융합기술의 접근 동향 건강운동을 위한 IT 융합기술의 접근 동향 건강운동을 위한 IT 융합기술의 접근 동향 IT 융합은 IT의 자체 고도화를 바탕으로 다른 분야의 기술개발과 산업발전을 견인하거나 새로운 산업창출을 목표로 국가전략적 차원에서 접근을 하고 있으며 연구자원을 집중 투자하고 있다. 이에 IT 융합은 주력산업을 고부가가치화하고, IT 신산업을 창출할 뿐만 아니라, 범부처적으로 추진하는 신성장동력 육성에 기여하는 첨단융합 산업분야로 부상하게 되었다. 건강관련 융합서비스는 기존의 질병 예방과 관리 중심의 치료기술 산업에서 운동/스포츠 및 재활 중심의 엔터테인먼트체험 산업으로 확장되는 추세이다. 따라서 본 논문에서는 IT 융합에 대하여 그 중요성을 지니는 것만큼 건강운동과 관련된 IT 융합기술개발 동향을 파악하고 기존에 진행되었던 주요 기술개발과 융합산업 발전을 위한 방향에 관한 제언을 하고자 한다."
+        },
+        {
+          "rank": 6,
+          "score": 0.6485145092010498,
+          "doc_id": "146",
+          "text": "미래 IT융합 신산업 육성 및 선도방안 미래 IT융합 신산업 육성 및 선도방안 미래 IT융합 신산업 육성 및 선도방안 IT는 한국의 경제성장에 큰 기여를 해왔으며 사회전반의 패러다임 혁신을 통해 생산성, 효율성, 편의성, 소통성을 증진시키고 삶의 양식에 전면적 변화를 가져왔다. 국민경제와 사회문화에서 지대한 의미를 지나는 IT는 다른 기술 또는 산업과의 융합이라는 새로운 변화와 혁신의 중심에 위치하고 있다. IT융합은 IT의 자체 고도화를 바탕으로 다른 분야의 기술개발과 산업발전을 견인하거나 새로운 산업을 창출하는 것으로 우리나라를 비롯하며 주요국에서는 자원과 역량을 선택적으로 집중하고 있다. 이 논문에서는 IT 융합과 관련된 주요국의 산업 전략 및 기술개발 동향을 파악하고 전문가 설문조사결과를 바탕으로 한국의 IT 융합역량의 수준을 평가하고 결론적으로 IT융합신산업육성 및 선도방안에 관한 전략적 제언을 하고자 한다."
+        },
+        {
+          "rank": 7,
+          "score": 0.646695613861084,
+          "doc_id": "205",
+          "text": "Deep Learning을 활용한 산사태 결정론 방법의 활용성 고찰 Deep Learning을 활용한 산사태 결정론 방법의 활용성 고찰 Deep Learning을 활용한 산사태 결정론 방법의 활용성 고찰 산사태 위험지역을 결정론적인 방법으로 도출할 수 있는 Analytic Hierarchy Process (AHP) 기반의 선행 연구가 2017년도에 제안되었다. 해당 연구의 목적은 기존에 제안된 결정론적인 방법의 활용성을 향상시키고자 deep learning 기법을 적용하여 해당 방법의 신뢰성을 검증하는 것이다. AHP 기반의 결정론적인 방법은 8개 인자인 세립분 함량, 표토층 두께, 간극비, 탄성계수, 전단강도, 투수계수, 포화도 그리고 함수비로 구성되며 이를 통해 안전율을 도출할 수 있다. 대상 지역을 1 m 정사각형의 격자로 구성한 후 현장 및 실내 실험을 통해 8개의 인자를 도출하였다. 안전율은 Mohr-Coulomb의 파괴 이론을 통해 계산하여 deep learning의 출력 값으로 활용하였다. Deep learning 기법 적용 시 입력 값과 출력 값의 학습 능률을 향상시키기 위하여 경사하강법 중 Bayesian regularization을 적용하였으며, 학습 결과 실제 안전율과 deep learning 기법으로 예측된 안전율이 train과 test 단계 모두에서 우수한 신뢰성을 보여준다. 해당 연구에서 활용한 deep learning 기법이 산사태 위험지역 선정에 결정론적 방법으로 유용하게 이용될 것으로 사료된다."
+        },
+        {
+          "rank": 8,
+          "score": 0.6406291723251343,
+          "doc_id": "16",
+          "text": "국방IT융합기술의 발전전략에 관한 연구 국방IT융합기술의 발전전략에 관한 연구 국방IT융합기술의 발전전략에 관한 연구 국방IT융합이란 네트워크중심전(Network Centric Warfare) 개념을 실현하기 위해 새로운 IT 융합기술을 개발하여 실제 전력화하는 것이다. 국방부는 창조경제 시대적 사명인 국방IT융합발전을 위해 국방기술품질원의 국방IT융합 센터를 전담기관으로 지정하였고 융합센터를 중심으로 국방IT융합 과제 발굴을 위한 산 학 연구기관과 군 소요조사, 사전 기술기획 활동하며 국방 도메인 전문가로 구성된 과제기획팀 운영과 선진 기획방법 적용 등을 통해 민간IT 신기술의 적기 도입을 중점적으로 추진하고 있다. 이에 따라 국방IT융합 발전을 위해 국가IT융합 정책 추진과 국방IT융합기술 현상을 이론적으로 고찰하고 종합적으로 분석한 뒤 효과적으로 활용할 수 있는 발전전략이 절실히 요구된다. 본 논문은 국방IT융합발전을 위해 식별된 IT융합 과제를 단계화 추진하고 신설된 국방IT융합센터의 효율성을 제고하며 국방개혁과 연계된 IT융합인재 육성방안을 제시함으로써 스마트 국방을 조기에 달성하고 패러다임의 신속한 전환과 창조경제 구현에도 크게 기여할 것이다."
+        },
+        {
+          "rank": 9,
+          "score": 0.6351287364959717,
+          "doc_id": "150",
+          "text": "한국 IT융합 신산업 역량강화요인 한국 IT융합 신산업 역량강화요인 한국 IT융합 신산업 역량강화요인 IT는 한국의 경제성장에 큰 기여를 해왔으며 사회전반의 패러다임 혁신을 통해 생산성, 효율성, 편의성, 소통성을 증진시키고 삶의 양식에 전면적 변화를 가져왔다. 국민경제와 사회문화에서 지대한 의미를 지니는 IT는 다른 기술 또는 산업과의 융합이라는 새로운 변화와 혁신의 중심에 위치하고 있다. IT융합은 IT의 자체 고도화를 바탕으로 다른 분야의 기술개발과 산업발전을 견인하거나 새로운 산업을 창출하는 것으로, 우리나라를 비롯하여 주요국에서는 자원과 역량을 선택적으로 집중하고 있다. 이 논문에서는 IT 융합 신산업 역량강화요인을 도출하고자 2011년도에 실시한 정책연구의 학계 및 공공기관 전문가 델파이 결과를 선행연구들과 비교하여 한국의 IT 융합역량의 수준 변화를 평가하고 결론적으로 한국의 IT융합 신산업 역량강화요인을 도출하고자 하였다."
+        },
+        {
+          "rank": 10,
+          "score": 0.6295338869094849,
+          "doc_id": "98",
+          "text": "국방 IT융합 비즈니스 모델 사례와 성과 분석 국방 IT융합 비즈니스 모델 사례와 성과 분석 국방 IT융합 비즈니스 모델 사례와 성과 분석 Information technology (IT) convergence have been recognized one of the key drivers in the industry perspective. Especially, IT convergence have been one of the most important innovative way for defense sector. Korea government established IT convergence policy in 2008 and have been applying it to the core industry such as automotive, shipbuilding and defense industries. Recently, the creative vitamin project has been launched. Vitamin 'D' means the way to create the value of defense industry. This research analyzes and evaluates various IT convergence business models based on an operation of defense IT convergence center from 2011 to 2014, which is the industry IT convergence centers. Defense IT convergence business models can be classified into four types of mission area as follows : weapon acquisition and management, military intelligence, military power construction, and resources management. We define the concept of defense IT convergence and describe the framework and processes for applying IT to the defense sector. We analyzes and evaluates various business models designed through defense IT convergence framework and processes."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

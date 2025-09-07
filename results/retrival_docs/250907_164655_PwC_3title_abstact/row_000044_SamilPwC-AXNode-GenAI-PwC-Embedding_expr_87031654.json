@@ -1,0 +1,361 @@
+{
+  "id": "row_000044",
+  "model_name": "SamilPwC-AXNode-GenAI/PwC-Embedding_expr",
+  "timestamp_kst": "2025-09-07T16:47:03.321313+09:00",
+  "trial_id": "87031654",
+  "queries": [
+    {
+      "query": "How does the audiovisual speech recognition approach integrate hidden Markov models and neural networks to achieve robustness in noisy environments?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6480764150619507,
+          "doc_id": "225",
+          "text": "Speech Recognition using Machine Learning Speech Recognition using Machine Learning Speech Recognition using Machine Learning Speech recognition is one of the fastest-growing engineering technologies. It has several applications in different areas, and provides many potential benefits. A lot of people are unable to communicate due to language barriers. We aim to reduce this barrier via our project, which was designed and developed to achieve systems in particular cases to provide significant help so people can share information by operating a computer using voice input. This project keeps that factor in mind, and an effort is made to ensure our project is able to recognize speech and convert input audio into text; it also enables a user to perform file operations like Save, Open, or Exit from voice-only input. We design a system that can recognize the human voice as well as audio clips, and translate between English and Hindi. The output is in text form, and we provide options to convert audio from one language to the other. Going forward, we expect to add functionality that provides dictionary meanings for Hindi and English words. Neural machine translation is the primary algorithm used in the industry to perform machine translation. Two recurrent neural networks used in tandem to construct an encoder–decoder structure are the architecture behind neural machine translation. This work on speech recognition starts with an introduction to the technology and the applications used in different sectors. Part of the report is based on software developments in speech recognition."
+        },
+        {
+          "rank": 2,
+          "score": 0.6325013041496277,
+          "doc_id": "153",
+          "text": "Artificial Intelligence, Language Intelligence, and Mathematics Artificial Intelligence, Language Intelligence, and Mathematics Artificial Intelligence, Language Intelligence, and Mathematics Artificial neural networks(ANN) has provided a theoretical framework on the study of human behavior/cognition and artificial intelligence. This article aims to introduce ANN and its mathematical principle to the field of applied linguistics. An ANN consists of input, hidden, and output vectors and the vectors are connected to one another by weight matrices. Mapping from input to output is accounted for by simple matrix multiplication."
+        },
+        {
+          "rank": 3,
+          "score": 0.6169745922088623,
+          "doc_id": "33",
+          "text": "Machine Learning을 이용한 자동 돌발상황검지 Machine Learning을 이용한 자동 돌발상황검지 Machine Learning을 이용한 자동 돌발상황검지 Incidents on the freeway disrupt traffic flow and the cost of delay caused by incidents is significant. To reduce the impact of an incident, a traffic management center needs to quickly detect and remove it from the freeway. Quick and efficient automatic incident detection has been a main goal of the transportation research for many years. Also many algorithms based on loop detector data have been developed and tested for the Automatic Incident Detection(AID). However, many of them have a limited success in their overall performance in terms of detection rate, false alarm rate, and the mean time to detect an incident. Until recently, the neural network models have been the one of the popular and efficient approach for real-time automatic incident detection and many researches have shown that the neural network models were much more efficient than various other previous models. The purpose of this research is to propose a more efficient and accurate model than the neural network model in the automatic incident detection problem. For this purpose, a machine learning model, Support Vector Machine (SVM) learning which is based on the statistical learning theory, has been used in this paper. The experiments have been done with real world freeway data, and the results show that the SVM could provide better performance in terms of DR(Detection Rate) and FAR(False Alarm Rate) than Backpropagation which is the most popular neural network model."
+        },
+        {
+          "rank": 4,
+          "score": 0.6093229055404663,
+          "doc_id": "186",
+          "text": "Deep Semi-Supervised Learning 기반 컴퓨터 보조 진단 방법론 Deep Semi-Supervised Learning 기반 컴퓨터 보조 진단 방법론 Deep Semi-Supervised Learning 기반 컴퓨터 보조 진단 방법론 Medical image applications 분야는 가장 인기 있으며 적극적으로 연구되는 현대 Machine Learning 및 Deep Learning applications 중 하나의 분야로 부상되고 있다. Medical image analysis는 환자의 신체 영상의 획득과 의료 전문가의 진단 및 분석을 목적으로 한다. 여러 Machine Learning 방법론을 사용하면 다양한 질병을 진단할 수 있게 된다. 하지만, 보다 효율적이며 강인한 모델을 설계하기 위해서는 Label이 지정된 데이터 샘플이 필요하게 된다. &amp;#xD; 따라서, Label이 지정되지 않은 데이터를 활용하여 모델의 성능을 향상시키는 Medical image 분야에서 semi-supervised Learning의 연구가 활발히 이루어지고 있다. 본 연구에서는 2D 초음파 영상(CADe)와 KL-grade 무릎 방사선사(CADx) 분류에서 유방 병변 Segmentation을 위한 딥러닝 기술을 사용하여 Medical image analysis에서 개선된 Semi-Supervised CAD 시스템을 제안하였다. 본 논문에서는 residual 및 attention block을 통합한 residual-attention-based uncertainty-guided mean teacher framework를 제안한다. 높은 수준의 feature와 attention module의 flow를 가능하게 하여 deep network를 최적화하기 위한 residual은 학습 과정 중에서 가중치를 최적화하기 위해 모델의 focus를 향상시킨다. &amp;#xD; 또한, 본 논문에서는 semi-supervised 학습 방법을 사용하여 학습 과정에서 label이 지정되지 않은 데이터를 활용할 수 있는 가능성을 탐구한다. 특히, uncertainty-guided mean-teacher-student 구조를 활용하여 residual attention U-Net 모델의 학습 중 label이 지정되지 않은 샘플을 통합할 수 있는 가능성을 입증하였다. &amp;#xD; 따라서, label이 지정되지 않은 추가 데이터를 unsupervised 및 supervised 방식으로 활용할 수있는 semi-supervised multitask learning-based 학습 기반 접근 방식을 개발하였다. 구체적으로, 이 과정은 reconstruction에 대해서만 unsupervised 된 상태에서 먼저 학습된 dual-channel adversarial autoencoder를 제안한다. 본 연구는 supervised 방식으로 추가 데이터를 활용하기 위해 auxilary task를 도입하여 multi-task learning framework를 제안한다. 특히, leg side의 식별은 auxilary task로 사용되므로 CHECK 데이터셋과 같은 더 많은 데이터셋을 사용할 수 있게 된다. 따라서, 추가 데이터의 활용이 소수의 label된 데이터만 사용할 수 있는 KL-grade 분류에서 main task의 성능을 향상시킬 수 있음을 보여준다. &amp;#xD; 다양한 측면, 즉 전반적인 성능, label이 지정되지 않은 추가 샘플 및 auxiliary task의 효과, 강인한 분석 등에 대해 공개적으로 사용 가능한 두 개의 가장 큰 데이터셋에 대해 제안된 모델을 평가하였다. 제안된 모델은 각각 75.52%, 78.48%, 75.34%의 Accuracy, Recall, F1-Score를 달성하였다."
+        },
+        {
+          "rank": 5,
+          "score": 0.6073503494262695,
+          "doc_id": "111",
+          "text": "Artificial Intelligence for Artificial Artificial Intelligence Artificial Intelligence for Artificial Artificial Intelligence Artificial Intelligence for Artificial Artificial Intelligence Crowdsourcing platforms such as Amazon Mechanical Turk have become popular for a wide variety of human intelligence tasks; however, quality control continues to be a significant challenge. Recently, we propose TurKontrol, a theoretical model based on POMDPs to optimize iterative, crowd-sourced workflows. However, they neither describe how to learn the model parameters, nor show its effectiveness in a real crowd-sourced setting. Learning is challenging due to the scale of the model and noisy data: there are hundreds of thousands of workers with high-variance abilities. This paper presents an end-to-end system that first learns TurKontrol's POMDP parameters from real Mechanical Turk data, and then applies the model to dynamically optimize live tasks. We validate the model and use it to control a successive-improvement process on Mechanical Turk. By modeling worker accuracy and voting patterns, our system produces significantly superior artifacts compared to those generated through nonadaptive workflows using the same amount of money."
+        },
+        {
+          "rank": 6,
+          "score": 0.6011239290237427,
+          "doc_id": "123",
+          "text": "딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝은 인공신경망(neural network)이라는 인공지능분야의 모형이 발전된 형태로서, 계층구조로 이루어진 인공신경망의 내부계층(hidden layer)이 여러 단계로 이루어진 구조이다. 딥러닝에서의 주요 모형은 합성곱신경망(convolutional neural network), 순환신경망(recurrent neural network), 그리고 심층신뢰신경망(deep belief network)의 세가지라고 할 수 있다. 그 중에서 현재 흥미로운 연구가 많이 발표되어서 관심이 집중되고 있는 모형은 지도학습(supervised learning)모형인 처음 두 개의 모형이다. 따라서 본 논문에서는 지도학습모형의 가중치를 최적화하는 기본적인 방법인 오류역전파 알고리즘을 살펴본 뒤에 합성곱신경망과 순환신경망의 구조와 응용사례 등을 살펴보고자 한다. 본문에서 다루지 않은 모형인 심층신뢰신경망은 아직까지는 합성곱신경망 이나 순환신경망보다는 상대적으로 주목을 덜 받고 있다. 그러나 심층신뢰신경망은 CNN이나 RNN과는 달리 비지도학습(unsupervised learning)모형이며, 사람이나 동물은 관찰을 통해서 스스로 학습한다는 점에서 궁극적으로는 비지도학습모형이 더 많이 연구되어야 할 주제가 될 것이다."
+        },
+        {
+          "rank": 7,
+          "score": 0.5991206169128418,
+          "doc_id": "42",
+          "text": "Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning In recent years, machine learning algorithms are continuously being used and expanded in various fields, such as facial recognition, signal processing, personal authentication, and stock prediction. In particular, various algorithms, such as deep learning, reinforcement learning, and Q-learning, are continuously being improved. Among these algorithms, the expansion of deep learning is rapidly changing. Nevertheless, machine learning algorithms have not yet been applied in several fields, such as personal authentication technology. This technology is an essential tool in the digital information era, walking recognition technology as promising biometrics, and technology for solving state-space problems. Therefore, algorithm technologies of deep learning, reinforcement learning, and Q-learning, which are typical machine learning algorithms in various fields, such as agricultural technology, personal authentication, wireless network, game, biometric recognition, and image recognition, are being improved and expanded in this paper."
+        },
+        {
+          "rank": 8,
+          "score": 0.595003068447113,
+          "doc_id": "157",
+          "text": "Engineering artificial intelligence Engineering artificial intelligence Engineering artificial intelligence Current Artificial Intelligence can be used to good effect in engineering systems for emulating some high-level mental functions of humans but is not suitable for coping with many other difficult tasks, especially those involving combined perception and cognition. Neural-net computing on the other hand seems to be better suited to meeting the demands of those types of tasks. These matters are discussed in this paper and it is suggested that the type of Artificial Intelligence appropriate for use in an engineering system will be an evolved one combining the strengths of symbolic processing and neural-net computing."
+        },
+        {
+          "rank": 9,
+          "score": 0.5902543067932129,
+          "doc_id": "110",
+          "text": "Machine Learning기법을 이용한 Robot 이상 예지 보전 Machine Learning기법을 이용한 Robot 이상 예지 보전 Machine Learning기법을 이용한 Robot 이상 예지 보전 In this paper, a predictive maintenance of the robot trouble using the machine learning method, so called MT(Mahalanobis Taguchi), was studied. Especially, 'MD(Mahalanobis Distance)' was used to compare the robot arm motion difference between before the maintenance(bearing change) and after the maintenance. 6-axies vibration sensor was used to detect the vibration sensing during the motion of the robot arm. The results of the comparison, MD value of the arm motions of the after the maintenance(bearing change) was much lower and stable compared to MD value of the arm motions of the before the maintenance. MD value well distinguished the fine difference of the arm vibration of the robot. The superior performance of the MT method applied to the prediction of the robot trouble was verified by this experiments."
+        },
+        {
+          "rank": 10,
+          "score": 0.5895597338676453,
+          "doc_id": "27",
+          "text": "Synthesizing cellular intelligence and artificial intelligence for bioprocesses Synthesizing cellular intelligence and artificial intelligence for bioprocesses Synthesizing cellular intelligence and artificial intelligence for bioprocesses AbstractMicrobial processes operated under realistic conditions are difficult to describe by mechanistic models, thereby limiting their optimization and control. Responses of living cells to their environment suggest that they possess some &ldquo;innate intelligence&rdquo;. Such responses have been modeled by a cybernetic approach. Furthermore, the overall behavior of a bioreactor containing a population of cells may be described and controlled through artificial intelligence methods. Therefore, it seems logical to combine cybernetic models with artificial intelligence to evolve an integrated intelligence-based strategy that is physiologically more faithful than the current approaches. This possibility is discussed, together with practical considerations favoring a hybrid approach that includes some mathematical modeling."
+        }
+      ]
+    },
+    {
+      "query": "What is the function of Hidden Markov Models (HMMs) in audiovisual speech recognition?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6418870091438293,
+          "doc_id": "225",
+          "text": "Speech Recognition using Machine Learning Speech Recognition using Machine Learning Speech Recognition using Machine Learning Speech recognition is one of the fastest-growing engineering technologies. It has several applications in different areas, and provides many potential benefits. A lot of people are unable to communicate due to language barriers. We aim to reduce this barrier via our project, which was designed and developed to achieve systems in particular cases to provide significant help so people can share information by operating a computer using voice input. This project keeps that factor in mind, and an effort is made to ensure our project is able to recognize speech and convert input audio into text; it also enables a user to perform file operations like Save, Open, or Exit from voice-only input. We design a system that can recognize the human voice as well as audio clips, and translate between English and Hindi. The output is in text form, and we provide options to convert audio from one language to the other. Going forward, we expect to add functionality that provides dictionary meanings for Hindi and English words. Neural machine translation is the primary algorithm used in the industry to perform machine translation. Two recurrent neural networks used in tandem to construct an encoder–decoder structure are the architecture behind neural machine translation. This work on speech recognition starts with an introduction to the technology and the applications used in different sectors. Part of the report is based on software developments in speech recognition."
+        },
+        {
+          "rank": 2,
+          "score": 0.6069779396057129,
+          "doc_id": "153",
+          "text": "Artificial Intelligence, Language Intelligence, and Mathematics Artificial Intelligence, Language Intelligence, and Mathematics Artificial Intelligence, Language Intelligence, and Mathematics Artificial neural networks(ANN) has provided a theoretical framework on the study of human behavior/cognition and artificial intelligence. This article aims to introduce ANN and its mathematical principle to the field of applied linguistics. An ANN consists of input, hidden, and output vectors and the vectors are connected to one another by weight matrices. Mapping from input to output is accounted for by simple matrix multiplication."
+        },
+        {
+          "rank": 3,
+          "score": 0.5797995924949646,
+          "doc_id": "75",
+          "text": "MACHINE LEARNING MACHINE LEARNING MACHINE LEARNING The motivation for machine learning is to have computers extract concepts and relations from databases or through interactive sessions with a user and then use them in any knowledge-intensive activity. Developing knowledge bases for expert systems applications is one such activity. Studying computer-based learning techniques gives a better understanding of human mental processes. Two types of programs are considered that learn from examples: those, called data-driven learners, that generalize by relying entirely on the data presented to them, and a group of more elaborate programs, called model-driven learners, that proceed by generating fairly general hypotheses that are subsequently tested against the given examples or against the user in a typical interactive session. The model-driven learner is contrasted with the data-driven learner and an example of the former using a model-driven learner called Marvin is given."
+        },
+        {
+          "rank": 4,
+          "score": 0.5796918272972107,
+          "doc_id": "33",
+          "text": "Machine Learning을 이용한 자동 돌발상황검지 Machine Learning을 이용한 자동 돌발상황검지 Machine Learning을 이용한 자동 돌발상황검지 Incidents on the freeway disrupt traffic flow and the cost of delay caused by incidents is significant. To reduce the impact of an incident, a traffic management center needs to quickly detect and remove it from the freeway. Quick and efficient automatic incident detection has been a main goal of the transportation research for many years. Also many algorithms based on loop detector data have been developed and tested for the Automatic Incident Detection(AID). However, many of them have a limited success in their overall performance in terms of detection rate, false alarm rate, and the mean time to detect an incident. Until recently, the neural network models have been the one of the popular and efficient approach for real-time automatic incident detection and many researches have shown that the neural network models were much more efficient than various other previous models. The purpose of this research is to propose a more efficient and accurate model than the neural network model in the automatic incident detection problem. For this purpose, a machine learning model, Support Vector Machine (SVM) learning which is based on the statistical learning theory, has been used in this paper. The experiments have been done with real world freeway data, and the results show that the SVM could provide better performance in terms of DR(Detection Rate) and FAR(False Alarm Rate) than Backpropagation which is the most popular neural network model."
+        },
+        {
+          "rank": 5,
+          "score": 0.5780355930328369,
+          "doc_id": "70",
+          "text": "Machine Learning in Predicting Hemoglobin Variants Machine Learning in Predicting Hemoglobin Variants Machine Learning in Predicting Hemoglobin Variants 없음"
+        },
+        {
+          "rank": 6,
+          "score": 0.577632486820221,
+          "doc_id": "179",
+          "text": "Deep Structured Learning: Architectures and Applications Deep Structured Learning: Architectures and Applications Deep Structured Learning: Architectures and Applications Deep learning, a sub-field of machine learning changing the prospects of artificial intelligence (AI) because of its recent advancements and application in various field. Deep learning deals with algorithms inspired by the structure and function of the brain called artificial neural networks. This works reviews basic architecture and recent advancement of deep structured learning. It also describes contemporary applications of deep structured learning and its advantages over the treditional learning in artificial interlligence. This study is useful for the general readers and students who are in the early stage of deep learning studies."
+        },
+        {
+          "rank": 7,
+          "score": 0.5775701999664307,
+          "doc_id": "111",
+          "text": "Artificial Intelligence for Artificial Artificial Intelligence Artificial Intelligence for Artificial Artificial Intelligence Artificial Intelligence for Artificial Artificial Intelligence Crowdsourcing platforms such as Amazon Mechanical Turk have become popular for a wide variety of human intelligence tasks; however, quality control continues to be a significant challenge. Recently, we propose TurKontrol, a theoretical model based on POMDPs to optimize iterative, crowd-sourced workflows. However, they neither describe how to learn the model parameters, nor show its effectiveness in a real crowd-sourced setting. Learning is challenging due to the scale of the model and noisy data: there are hundreds of thousands of workers with high-variance abilities. This paper presents an end-to-end system that first learns TurKontrol's POMDP parameters from real Mechanical Turk data, and then applies the model to dynamically optimize live tasks. We validate the model and use it to control a successive-improvement process on Mechanical Turk. By modeling worker accuracy and voting patterns, our system produces significantly superior artifacts compared to those generated through nonadaptive workflows using the same amount of money."
+        },
+        {
+          "rank": 8,
+          "score": 0.576175332069397,
+          "doc_id": "152",
+          "text": "Deep Learning in MR Image Processing Deep Learning in MR Image Processing Deep Learning in MR Image Processing Recently, deep learning methods have shown great potential in various tasks that involve handling large amounts of digital data. In the field of MR imaging research, deep learning methods are also rapidly being applied in a wide range of areas to complement or replace traditional model-based methods. Deep learning methods have shown remarkable improvements in several MR image processing areas such as image reconstruction, image quality improvement, parameter mapping, image contrast conversion, and image segmentation. With the current rapid development of deep learning technologies, the importance of the role of deep learning in MR imaging research appears to be growing. In this article, we introduce the basic concepts of deep learning and review recent studies on various MR image processing applications."
+        },
+        {
+          "rank": 9,
+          "score": 0.5755948424339294,
+          "doc_id": "42",
+          "text": "Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning In recent years, machine learning algorithms are continuously being used and expanded in various fields, such as facial recognition, signal processing, personal authentication, and stock prediction. In particular, various algorithms, such as deep learning, reinforcement learning, and Q-learning, are continuously being improved. Among these algorithms, the expansion of deep learning is rapidly changing. Nevertheless, machine learning algorithms have not yet been applied in several fields, such as personal authentication technology. This technology is an essential tool in the digital information era, walking recognition technology as promising biometrics, and technology for solving state-space problems. Therefore, algorithm technologies of deep learning, reinforcement learning, and Q-learning, which are typical machine learning algorithms in various fields, such as agricultural technology, personal authentication, wireless network, game, biometric recognition, and image recognition, are being improved and expanded in this paper."
+        },
+        {
+          "rank": 10,
+          "score": 0.5705360174179077,
+          "doc_id": "186",
+          "text": "Deep Semi-Supervised Learning 기반 컴퓨터 보조 진단 방법론 Deep Semi-Supervised Learning 기반 컴퓨터 보조 진단 방법론 Deep Semi-Supervised Learning 기반 컴퓨터 보조 진단 방법론 Medical image applications 분야는 가장 인기 있으며 적극적으로 연구되는 현대 Machine Learning 및 Deep Learning applications 중 하나의 분야로 부상되고 있다. Medical image analysis는 환자의 신체 영상의 획득과 의료 전문가의 진단 및 분석을 목적으로 한다. 여러 Machine Learning 방법론을 사용하면 다양한 질병을 진단할 수 있게 된다. 하지만, 보다 효율적이며 강인한 모델을 설계하기 위해서는 Label이 지정된 데이터 샘플이 필요하게 된다. &amp;#xD; 따라서, Label이 지정되지 않은 데이터를 활용하여 모델의 성능을 향상시키는 Medical image 분야에서 semi-supervised Learning의 연구가 활발히 이루어지고 있다. 본 연구에서는 2D 초음파 영상(CADe)와 KL-grade 무릎 방사선사(CADx) 분류에서 유방 병변 Segmentation을 위한 딥러닝 기술을 사용하여 Medical image analysis에서 개선된 Semi-Supervised CAD 시스템을 제안하였다. 본 논문에서는 residual 및 attention block을 통합한 residual-attention-based uncertainty-guided mean teacher framework를 제안한다. 높은 수준의 feature와 attention module의 flow를 가능하게 하여 deep network를 최적화하기 위한 residual은 학습 과정 중에서 가중치를 최적화하기 위해 모델의 focus를 향상시킨다. &amp;#xD; 또한, 본 논문에서는 semi-supervised 학습 방법을 사용하여 학습 과정에서 label이 지정되지 않은 데이터를 활용할 수 있는 가능성을 탐구한다. 특히, uncertainty-guided mean-teacher-student 구조를 활용하여 residual attention U-Net 모델의 학습 중 label이 지정되지 않은 샘플을 통합할 수 있는 가능성을 입증하였다. &amp;#xD; 따라서, label이 지정되지 않은 추가 데이터를 unsupervised 및 supervised 방식으로 활용할 수있는 semi-supervised multitask learning-based 학습 기반 접근 방식을 개발하였다. 구체적으로, 이 과정은 reconstruction에 대해서만 unsupervised 된 상태에서 먼저 학습된 dual-channel adversarial autoencoder를 제안한다. 본 연구는 supervised 방식으로 추가 데이터를 활용하기 위해 auxilary task를 도입하여 multi-task learning framework를 제안한다. 특히, leg side의 식별은 auxilary task로 사용되므로 CHECK 데이터셋과 같은 더 많은 데이터셋을 사용할 수 있게 된다. 따라서, 추가 데이터의 활용이 소수의 label된 데이터만 사용할 수 있는 KL-grade 분류에서 main task의 성능을 향상시킬 수 있음을 보여준다. &amp;#xD; 다양한 측면, 즉 전반적인 성능, label이 지정되지 않은 추가 샘플 및 auxiliary task의 효과, 강인한 분석 등에 대해 공개적으로 사용 가능한 두 개의 가장 큰 데이터셋에 대해 제안된 모델을 평가하였다. 제안된 모델은 각각 75.52%, 78.48%, 75.34%의 Accuracy, Recall, F1-Score를 달성하였다."
+        }
+      ]
+    },
+    {
+      "query": "What is the function of neural networks (NNs) in audiovisual speech recognition?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6877906322479248,
+          "doc_id": "153",
+          "text": "Artificial Intelligence, Language Intelligence, and Mathematics Artificial Intelligence, Language Intelligence, and Mathematics Artificial Intelligence, Language Intelligence, and Mathematics Artificial neural networks(ANN) has provided a theoretical framework on the study of human behavior/cognition and artificial intelligence. This article aims to introduce ANN and its mathematical principle to the field of applied linguistics. An ANN consists of input, hidden, and output vectors and the vectors are connected to one another by weight matrices. Mapping from input to output is accounted for by simple matrix multiplication."
+        },
+        {
+          "rank": 2,
+          "score": 0.6695643067359924,
+          "doc_id": "225",
+          "text": "Speech Recognition using Machine Learning Speech Recognition using Machine Learning Speech Recognition using Machine Learning Speech recognition is one of the fastest-growing engineering technologies. It has several applications in different areas, and provides many potential benefits. A lot of people are unable to communicate due to language barriers. We aim to reduce this barrier via our project, which was designed and developed to achieve systems in particular cases to provide significant help so people can share information by operating a computer using voice input. This project keeps that factor in mind, and an effort is made to ensure our project is able to recognize speech and convert input audio into text; it also enables a user to perform file operations like Save, Open, or Exit from voice-only input. We design a system that can recognize the human voice as well as audio clips, and translate between English and Hindi. The output is in text form, and we provide options to convert audio from one language to the other. Going forward, we expect to add functionality that provides dictionary meanings for Hindi and English words. Neural machine translation is the primary algorithm used in the industry to perform machine translation. Two recurrent neural networks used in tandem to construct an encoder–decoder structure are the architecture behind neural machine translation. This work on speech recognition starts with an introduction to the technology and the applications used in different sectors. Part of the report is based on software developments in speech recognition."
+        },
+        {
+          "rank": 3,
+          "score": 0.6453990340232849,
+          "doc_id": "179",
+          "text": "Deep Structured Learning: Architectures and Applications Deep Structured Learning: Architectures and Applications Deep Structured Learning: Architectures and Applications Deep learning, a sub-field of machine learning changing the prospects of artificial intelligence (AI) because of its recent advancements and application in various field. Deep learning deals with algorithms inspired by the structure and function of the brain called artificial neural networks. This works reviews basic architecture and recent advancement of deep structured learning. It also describes contemporary applications of deep structured learning and its advantages over the treditional learning in artificial interlligence. This study is useful for the general readers and students who are in the early stage of deep learning studies."
+        },
+        {
+          "rank": 4,
+          "score": 0.6352910995483398,
+          "doc_id": "157",
+          "text": "Engineering artificial intelligence Engineering artificial intelligence Engineering artificial intelligence Current Artificial Intelligence can be used to good effect in engineering systems for emulating some high-level mental functions of humans but is not suitable for coping with many other difficult tasks, especially those involving combined perception and cognition. Neural-net computing on the other hand seems to be better suited to meeting the demands of those types of tasks. These matters are discussed in this paper and it is suggested that the type of Artificial Intelligence appropriate for use in an engineering system will be an evolved one combining the strengths of symbolic processing and neural-net computing."
+        },
+        {
+          "rank": 5,
+          "score": 0.6185125112533569,
+          "doc_id": "104",
+          "text": "Deep learning Deep learning Deep learning Artificial intelligence is one of the most beautiful dreams of mankind. Although computer technology has made considerable progress, so far, there is no computer showing intelligence like human beings. The emergence of deep learning gives people a glimmer of hope. So, what is learning deep? Why is it so important? How does it work? And what are the existing achievements and difficulties? This paper provides an overview of deep learning which will answer these questions."
+        },
+        {
+          "rank": 6,
+          "score": 0.6091760396957397,
+          "doc_id": "13",
+          "text": "Dance Movement Recognition based on Deep Learning Dance Movement Recognition based on Deep Learning Dance Movement Recognition based on Deep Learning In recent years with continuous development of the computer vision field, there has been an increasing demand for fast and accurate recognition of human movement, especially in sports. This paper researches ballet movements, which are recognized and analyzed using a convolutional neural network (CNN) based on deep learning. Training of the CNN is improved by particle swarm optimization (PSO). Then, 1,000 ballet videos are used as a dataset to compare optimized CNN, traditional CNN, and support vector machine (SVM) methods. The results show that the improved CNN converged fastest, stabilizing after about five iterations, whereas the traditional CNN method took approximately 20 iterations to stabilize. Additionally, after convergence, error in the improved CNN was smaller than from the traditional CNN. The average recognition accuracy of the SVM method was 84.17%, with a recognition time of 3.32 seconds; for the traditional CNN method, it was 90.16% with a recognition time of 2.68 s; and for the improved CNN method, it was 95.66% with a recognition time of only 1.35 s."
+        },
+        {
+          "rank": 7,
+          "score": 0.6062206029891968,
+          "doc_id": "17",
+          "text": "Artificial Intelligence in Nephrology: How Can Artificial Intelligence Augment Nephrologists’ Intelligence? Artificial Intelligence in Nephrology: How Can Artificial Intelligence Augment Nephrologists’ Intelligence? Artificial Intelligence in Nephrology: How Can Artificial Intelligence Augment Nephrologists’ Intelligence? Background: Artificial intelligence (AI) now plays a critical role in almost every area of our daily lives and academic disciplines due to the growth of computing power, advances in methods and techniques, and the explosion of the amount of data; medicine is not an exception. Rather than replacing clinicians, AI is augmenting the intelligence of clinicians in diagnosis, prognosis, and treatment decisions. Summary: Kidney disease is a substantial medical and public health burden globally, with both acute kidney injury and chronic kidney disease bringing about high morbidity and mortality as well as a huge economic burden. Even though the existing research and applied works have made certain contributions to more accurate prediction and better understanding of histologic pathology, there is a lot more work to be done and problems to solve. Key Messages: AI applications of diagnostics and prognostics for high-prevalence and high-morbidity types of nephropathy in medical-resource-inadequate areas need special attention; high-volume and high-quality data need to be collected and prepared; a consensus on ethics and safety in the use of AI technologies needs to be built."
+        },
+        {
+          "rank": 8,
+          "score": 0.6044744849205017,
+          "doc_id": "148",
+          "text": "A deep-learning-based emergency alert system A deep-learning-based emergency alert system A deep-learning-based emergency alert system Emergency alert systems serve as a critical link in the chain of crisis communication, and they are essential to minimize loss during emergencies. Acts of terrorism and violence, chemical spills, amber alerts, nuclear facility problems, weather-related emergencies, flu pandemics, and other emergencies all require those responsible such as government officials, building managers, and university administrators to be able to quickly and reliably distribute emergency information to the public. This paper presents our design of a deep-learning-based emergency warning system. The proposed system is considered suitable for application in existing infrastructure such as closed-circuit television and other monitoring devices. The experimental results show that in most cases, our system immediately detects emergencies such as car accidents and natural disasters."
+        },
+        {
+          "rank": 9,
+          "score": 0.6036073565483093,
+          "doc_id": "85",
+          "text": "Deep learning for radar Deep learning for radar Deep learning for radar Motivated by the recent advances in deep learning, we lay out a vision of how deep learning techniques can be used in radar. Specifically, our discussion focuses on the use of deep learning to advance the state-of-the-art in radar imaging. While deep learning can be directly applied to automatic target recognition (ATR), the relevance of these techniques in other radar problems is not obvious. We argue that deep learning can play a central role in advancing the state-of-the-art in a wide range of radar imaging problems, discuss the challenges associated with applying these methods, and the potential advancements that are expected. We lay out an approach to design a network architecture based on the specific structure of the synthetic aperture radar (SAR) imaging problem that augments learning with traditional SAR modelling. This framework allows for capture of the non-linearity of the SAR forward model. Furthermore, we demonstrate how this process can be used to learn and compensate for trajectory based phase error for the autofocus problem."
+        },
+        {
+          "rank": 10,
+          "score": 0.5984000563621521,
+          "doc_id": "10",
+          "text": "딥 러닝 기반 머리 포즈 추정 및 얼굴 특징점 정렬에 관한 연구 딥 러닝 기반 머리 포즈 추정 및 얼굴 특징점 정렬에 관한 연구 딥 러닝 기반 머리 포즈 추정 및 얼굴 특징점 정렬에 관한 연구 컴퓨터 비전은 어떤 영상에서 장면이나 특징을 인식하는 분야로 근본적인 목적은 입체를 인식하거나 영상 내의 객체를 인식, 또는 객체 간의 관계를 이해하는 것이다. 1982년 D. Marr의 “Vision”이 출간된 이후 생물학적 접근에 의한 비전 연구가 주목을 받기 시작하면서 인공신경망을 이용한 컴퓨터 비전 연구가 활발히 진행되었다. 이후 1998년 Yann LeCun 등이 Convolutional Neural Network의 구조를 제안하였고, 이것이 초기의 CNN 모델이다. 본격적으로 Deep Learning이라는 용어는 Geoffrey Hinton에 의해서 사용되었다. 2006년 Geoffrey Hinton은 기존 신경망의 문제점을 해결하기 위해 Unsupervised Learning을 적용하는 방법을 제안하였다. 또한 최근 GPU의 발전으로 기존의 학습 속도의 한계를 극복하였고, 각종 Social Network Service(SNS)가 활발해 짐에 따라 다양한 형태의 데이터를 활용할 수 있게 되었다. 본 연구은 딥 러닝 기술 중 컴퓨터 비전에서 대표적으로 사용하는 Convolutional Neural Network(CNN)를 적용하여 사람의 머리 포즈를 추정하고 얼굴 특징점을 정렬하는 방법을 구현한다. 머리 포즈를 추정하기 위해서 CNN 중 분류(Classification)기법을 사용하고 각 층(Layer)의 수를 3, 4, 5개의 비지도학습(Unsupervised Learning)과 2개의 지도학습( Supervised Learning)을 이용한 구성을 비교하여 실험한다. 또한 입력 데이터의 채널 및 데이터의 양과 입력 방법에 따른 결과를 비교, 분석한다. 얼굴 특징점을 정렬하기 위해서 계층구조(Hierarchical Structure)를 사용하고 각 특징의 상관관계를 포함하지 않는 패치(Patch)를 적용하는 방법을 구현한다. 머리 포즈 추정에 사용한 데이터베이스는 ICT-3DHP, Biwi, GI4E와 자체 제작한 DB로 총 36,000장의 데이터를 사용하여 학습 및 실험을 한다. 또한 얼굴 특징점 정렬에 사용한 데이터베이스는 AFLW 10,000장을 학습하고 5,000장을 테스트한다. 머리 포즈 추정 실험의 오류를 측정하는 방법으로 Mean Absolute Error(MAE)를 사용하여 비교하였으며, Roll, Pitch, Yaw의 MAE는 각각 0.78, 0.99, 1.40의 값을 얻었다. 또한 얼굴 특징점 정렬은 Mean Absolute Percent Error(MAPE)를 사용하여 오차를 계산하였다. 21개의 각각의 특징점 평균 오차 약 1.0으로 기존의 평균보다 뛰어난 성능을 보인다. 이는 기존의 POSIT으로 추정한 값과 달리 얼굴 특징점을 사용하지 않고 영상만을 보고 판단할 수 있는 컴퓨터 비전에서 궁극적 형태의 새로운 학습 모델을 제안한다."
+        }
+      ]
+    },
+    {
+      "query": "How are Hidden Markov Models (HMMs) and neural networks (NNs) integrated within the audiovisual speech recognition approach?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 2
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6850926876068115,
+          "doc_id": "153",
+          "text": "Artificial Intelligence, Language Intelligence, and Mathematics Artificial Intelligence, Language Intelligence, and Mathematics Artificial Intelligence, Language Intelligence, and Mathematics Artificial neural networks(ANN) has provided a theoretical framework on the study of human behavior/cognition and artificial intelligence. This article aims to introduce ANN and its mathematical principle to the field of applied linguistics. An ANN consists of input, hidden, and output vectors and the vectors are connected to one another by weight matrices. Mapping from input to output is accounted for by simple matrix multiplication."
+        },
+        {
+          "rank": 2,
+          "score": 0.6719377040863037,
+          "doc_id": "225",
+          "text": "Speech Recognition using Machine Learning Speech Recognition using Machine Learning Speech Recognition using Machine Learning Speech recognition is one of the fastest-growing engineering technologies. It has several applications in different areas, and provides many potential benefits. A lot of people are unable to communicate due to language barriers. We aim to reduce this barrier via our project, which was designed and developed to achieve systems in particular cases to provide significant help so people can share information by operating a computer using voice input. This project keeps that factor in mind, and an effort is made to ensure our project is able to recognize speech and convert input audio into text; it also enables a user to perform file operations like Save, Open, or Exit from voice-only input. We design a system that can recognize the human voice as well as audio clips, and translate between English and Hindi. The output is in text form, and we provide options to convert audio from one language to the other. Going forward, we expect to add functionality that provides dictionary meanings for Hindi and English words. Neural machine translation is the primary algorithm used in the industry to perform machine translation. Two recurrent neural networks used in tandem to construct an encoder–decoder structure are the architecture behind neural machine translation. This work on speech recognition starts with an introduction to the technology and the applications used in different sectors. Part of the report is based on software developments in speech recognition."
+        },
+        {
+          "rank": 3,
+          "score": 0.6311004757881165,
+          "doc_id": "123",
+          "text": "딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝은 인공신경망(neural network)이라는 인공지능분야의 모형이 발전된 형태로서, 계층구조로 이루어진 인공신경망의 내부계층(hidden layer)이 여러 단계로 이루어진 구조이다. 딥러닝에서의 주요 모형은 합성곱신경망(convolutional neural network), 순환신경망(recurrent neural network), 그리고 심층신뢰신경망(deep belief network)의 세가지라고 할 수 있다. 그 중에서 현재 흥미로운 연구가 많이 발표되어서 관심이 집중되고 있는 모형은 지도학습(supervised learning)모형인 처음 두 개의 모형이다. 따라서 본 논문에서는 지도학습모형의 가중치를 최적화하는 기본적인 방법인 오류역전파 알고리즘을 살펴본 뒤에 합성곱신경망과 순환신경망의 구조와 응용사례 등을 살펴보고자 한다. 본문에서 다루지 않은 모형인 심층신뢰신경망은 아직까지는 합성곱신경망 이나 순환신경망보다는 상대적으로 주목을 덜 받고 있다. 그러나 심층신뢰신경망은 CNN이나 RNN과는 달리 비지도학습(unsupervised learning)모형이며, 사람이나 동물은 관찰을 통해서 스스로 학습한다는 점에서 궁극적으로는 비지도학습모형이 더 많이 연구되어야 할 주제가 될 것이다."
+        },
+        {
+          "rank": 4,
+          "score": 0.6124246120452881,
+          "doc_id": "42",
+          "text": "Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning In recent years, machine learning algorithms are continuously being used and expanded in various fields, such as facial recognition, signal processing, personal authentication, and stock prediction. In particular, various algorithms, such as deep learning, reinforcement learning, and Q-learning, are continuously being improved. Among these algorithms, the expansion of deep learning is rapidly changing. Nevertheless, machine learning algorithms have not yet been applied in several fields, such as personal authentication technology. This technology is an essential tool in the digital information era, walking recognition technology as promising biometrics, and technology for solving state-space problems. Therefore, algorithm technologies of deep learning, reinforcement learning, and Q-learning, which are typical machine learning algorithms in various fields, such as agricultural technology, personal authentication, wireless network, game, biometric recognition, and image recognition, are being improved and expanded in this paper."
+        },
+        {
+          "rank": 5,
+          "score": 0.6088871359825134,
+          "doc_id": "156",
+          "text": "눈 특징의 STFT 결합 영상과 deep learning을 이용한 감성 인식 눈 특징의 STFT 결합 영상과 deep learning을 이용한 감성 인식 눈 특징의 STFT 결합 영상과 deep learning을 이용한 감성 인식 최근 사용자의 요구를 이해하기 위해 인간-컴퓨터 상호작용 (HCI) 분야에서 다양한 연구가 수행되고 있다. HCI의 대표적인 기술 중 하나는 사용자 감정 인식이다. 감정의 중요성이 증대됨에 따라, 사용자의 감정을 인식하기 위해 얼굴 표정, 제스처, 음성신호, 생리신호, 안구특징 및 멀티 모달리티 (Multi-Modality) 신호를 특징으로 사용하는 방법들이 제안되고 있다. &amp;#xD; 특히, 안구 특징은 사용자가 의도적으로 제어할 수 없으며 컴퓨터가 무의식적인 특징들을 인식할 수 있기 때문에 감정인식에 적합하다. 또한 다양한 분야에 적용될 것으로 기대되는 가상현실과 증강현실을 위해 안구 특징에 기반한 감정인식 기술이 연구되어야 한다.&amp;#xD; 합성곱 신경망 (CNN)과 재귀 신경망 (RNN)과 같은 심층 학습 (Deep learning) 기술들이 다양한 분야에서 성공하고 있으며, 다양한 모달리티들을 이용하는 감정인식 연구에 적용되고 있다. 그러나 다른 모달리티들과 달리, 안구 특징만을 사용하는 심층 학습기반의 감정인식 연구는 매우 부족하다.&amp;#xD; 본 학위논문에서는 시간정보와 동공 크기와 눈 움직임 신호와 같은 안구 특징들만을 이용한 심층 학습 기반의 감정인식 방법을 제안한다.&amp;#xD; 그 과정은 다음과 같다. 먼저, 눈 깜빡임 또는 기술적인 결함으로 인해 발생되는 눈 크기 및 눈 움직임 신호들의 데이터 미획득 구간을 채우기 위한 보간을 수행한다. 그 후 데이터의 길이와 범위를 일치시키기 위해, 신호의 시간과 각 피실험자의 신호들에 대해 정규화를 수행한다. 다음으로 동공 크기 및 눈 움직임 신호들의 시간과 주파수 정보를 분석하기 위해 Short-Time Fourier Transform (STFT) 특징들을 추출하고, 그 특징들을 결합하여 STFT 특징 결합 영상이라 불리우는 단일 이미지를 생성한다. 마지막으로, valence-arousal 인식을 수행하기 위해, STFT 특징 결합 영상에 적합한 심층 학습 모델을 생성한 후 leave-one-out cross validation (LOOCV) 방법을 이용하여 제안하는 방법의 성능을 평가한다. &amp;#xD; 대부분의 연구에서, 안구 특징은 다른 모달리티 기반의 감정인식 성능을 향상시키기 위한 보조정보로만 사용하고 있다. 이는 안구 특징이 자극에 민감하고 수동적인 특징 추출방법으로 양질의 특징을 추출하기 어려운 많은 이상치 (Outlier)들을 포함하기 때문이다. 그러나 제안하는 방법의 분류 정확도는 Soleymani [53]가 제안한 결정 수준 융합 (DLF)와 서포트 벡터 머신 (SVM)을 이용한 방법보다 valence와 arousal 감정에 대해 각각 23.6%, 9.8% 향상된 분류 정확도를 달성하였다.&amp;#xD; 실험결과는 제안하는 방법의 효과성을 입증하였고, CNN 모델이 다른 모달리티 기반의 감정인식 방법뿐만 아니라 안구 특징 기반 감정인식에도 효과적이며, 눈 움직임 정보가 valence 감정 인식에도 효과적임을 보였다."
+        },
+        {
+          "rank": 6,
+          "score": 0.6079487204551697,
+          "doc_id": "179",
+          "text": "Deep Structured Learning: Architectures and Applications Deep Structured Learning: Architectures and Applications Deep Structured Learning: Architectures and Applications Deep learning, a sub-field of machine learning changing the prospects of artificial intelligence (AI) because of its recent advancements and application in various field. Deep learning deals with algorithms inspired by the structure and function of the brain called artificial neural networks. This works reviews basic architecture and recent advancement of deep structured learning. It also describes contemporary applications of deep structured learning and its advantages over the treditional learning in artificial interlligence. This study is useful for the general readers and students who are in the early stage of deep learning studies."
+        },
+        {
+          "rank": 7,
+          "score": 0.6055392026901245,
+          "doc_id": "186",
+          "text": "Deep Semi-Supervised Learning 기반 컴퓨터 보조 진단 방법론 Deep Semi-Supervised Learning 기반 컴퓨터 보조 진단 방법론 Deep Semi-Supervised Learning 기반 컴퓨터 보조 진단 방법론 Medical image applications 분야는 가장 인기 있으며 적극적으로 연구되는 현대 Machine Learning 및 Deep Learning applications 중 하나의 분야로 부상되고 있다. Medical image analysis는 환자의 신체 영상의 획득과 의료 전문가의 진단 및 분석을 목적으로 한다. 여러 Machine Learning 방법론을 사용하면 다양한 질병을 진단할 수 있게 된다. 하지만, 보다 효율적이며 강인한 모델을 설계하기 위해서는 Label이 지정된 데이터 샘플이 필요하게 된다. &amp;#xD; 따라서, Label이 지정되지 않은 데이터를 활용하여 모델의 성능을 향상시키는 Medical image 분야에서 semi-supervised Learning의 연구가 활발히 이루어지고 있다. 본 연구에서는 2D 초음파 영상(CADe)와 KL-grade 무릎 방사선사(CADx) 분류에서 유방 병변 Segmentation을 위한 딥러닝 기술을 사용하여 Medical image analysis에서 개선된 Semi-Supervised CAD 시스템을 제안하였다. 본 논문에서는 residual 및 attention block을 통합한 residual-attention-based uncertainty-guided mean teacher framework를 제안한다. 높은 수준의 feature와 attention module의 flow를 가능하게 하여 deep network를 최적화하기 위한 residual은 학습 과정 중에서 가중치를 최적화하기 위해 모델의 focus를 향상시킨다. &amp;#xD; 또한, 본 논문에서는 semi-supervised 학습 방법을 사용하여 학습 과정에서 label이 지정되지 않은 데이터를 활용할 수 있는 가능성을 탐구한다. 특히, uncertainty-guided mean-teacher-student 구조를 활용하여 residual attention U-Net 모델의 학습 중 label이 지정되지 않은 샘플을 통합할 수 있는 가능성을 입증하였다. &amp;#xD; 따라서, label이 지정되지 않은 추가 데이터를 unsupervised 및 supervised 방식으로 활용할 수있는 semi-supervised multitask learning-based 학습 기반 접근 방식을 개발하였다. 구체적으로, 이 과정은 reconstruction에 대해서만 unsupervised 된 상태에서 먼저 학습된 dual-channel adversarial autoencoder를 제안한다. 본 연구는 supervised 방식으로 추가 데이터를 활용하기 위해 auxilary task를 도입하여 multi-task learning framework를 제안한다. 특히, leg side의 식별은 auxilary task로 사용되므로 CHECK 데이터셋과 같은 더 많은 데이터셋을 사용할 수 있게 된다. 따라서, 추가 데이터의 활용이 소수의 label된 데이터만 사용할 수 있는 KL-grade 분류에서 main task의 성능을 향상시킬 수 있음을 보여준다. &amp;#xD; 다양한 측면, 즉 전반적인 성능, label이 지정되지 않은 추가 샘플 및 auxiliary task의 효과, 강인한 분석 등에 대해 공개적으로 사용 가능한 두 개의 가장 큰 데이터셋에 대해 제안된 모델을 평가하였다. 제안된 모델은 각각 75.52%, 78.48%, 75.34%의 Accuracy, Recall, F1-Score를 달성하였다."
+        },
+        {
+          "rank": 8,
+          "score": 0.6032892465591431,
+          "doc_id": "157",
+          "text": "Engineering artificial intelligence Engineering artificial intelligence Engineering artificial intelligence Current Artificial Intelligence can be used to good effect in engineering systems for emulating some high-level mental functions of humans but is not suitable for coping with many other difficult tasks, especially those involving combined perception and cognition. Neural-net computing on the other hand seems to be better suited to meeting the demands of those types of tasks. These matters are discussed in this paper and it is suggested that the type of Artificial Intelligence appropriate for use in an engineering system will be an evolved one combining the strengths of symbolic processing and neural-net computing."
+        },
+        {
+          "rank": 9,
+          "score": 0.6025770902633667,
+          "doc_id": "13",
+          "text": "Dance Movement Recognition based on Deep Learning Dance Movement Recognition based on Deep Learning Dance Movement Recognition based on Deep Learning In recent years with continuous development of the computer vision field, there has been an increasing demand for fast and accurate recognition of human movement, especially in sports. This paper researches ballet movements, which are recognized and analyzed using a convolutional neural network (CNN) based on deep learning. Training of the CNN is improved by particle swarm optimization (PSO). Then, 1,000 ballet videos are used as a dataset to compare optimized CNN, traditional CNN, and support vector machine (SVM) methods. The results show that the improved CNN converged fastest, stabilizing after about five iterations, whereas the traditional CNN method took approximately 20 iterations to stabilize. Additionally, after convergence, error in the improved CNN was smaller than from the traditional CNN. The average recognition accuracy of the SVM method was 84.17%, with a recognition time of 3.32 seconds; for the traditional CNN method, it was 90.16% with a recognition time of 2.68 s; and for the improved CNN method, it was 95.66% with a recognition time of only 1.35 s."
+        },
+        {
+          "rank": 10,
+          "score": 0.6012318134307861,
+          "doc_id": "10",
+          "text": "딥 러닝 기반 머리 포즈 추정 및 얼굴 특징점 정렬에 관한 연구 딥 러닝 기반 머리 포즈 추정 및 얼굴 특징점 정렬에 관한 연구 딥 러닝 기반 머리 포즈 추정 및 얼굴 특징점 정렬에 관한 연구 컴퓨터 비전은 어떤 영상에서 장면이나 특징을 인식하는 분야로 근본적인 목적은 입체를 인식하거나 영상 내의 객체를 인식, 또는 객체 간의 관계를 이해하는 것이다. 1982년 D. Marr의 “Vision”이 출간된 이후 생물학적 접근에 의한 비전 연구가 주목을 받기 시작하면서 인공신경망을 이용한 컴퓨터 비전 연구가 활발히 진행되었다. 이후 1998년 Yann LeCun 등이 Convolutional Neural Network의 구조를 제안하였고, 이것이 초기의 CNN 모델이다. 본격적으로 Deep Learning이라는 용어는 Geoffrey Hinton에 의해서 사용되었다. 2006년 Geoffrey Hinton은 기존 신경망의 문제점을 해결하기 위해 Unsupervised Learning을 적용하는 방법을 제안하였다. 또한 최근 GPU의 발전으로 기존의 학습 속도의 한계를 극복하였고, 각종 Social Network Service(SNS)가 활발해 짐에 따라 다양한 형태의 데이터를 활용할 수 있게 되었다. 본 연구은 딥 러닝 기술 중 컴퓨터 비전에서 대표적으로 사용하는 Convolutional Neural Network(CNN)를 적용하여 사람의 머리 포즈를 추정하고 얼굴 특징점을 정렬하는 방법을 구현한다. 머리 포즈를 추정하기 위해서 CNN 중 분류(Classification)기법을 사용하고 각 층(Layer)의 수를 3, 4, 5개의 비지도학습(Unsupervised Learning)과 2개의 지도학습( Supervised Learning)을 이용한 구성을 비교하여 실험한다. 또한 입력 데이터의 채널 및 데이터의 양과 입력 방법에 따른 결과를 비교, 분석한다. 얼굴 특징점을 정렬하기 위해서 계층구조(Hierarchical Structure)를 사용하고 각 특징의 상관관계를 포함하지 않는 패치(Patch)를 적용하는 방법을 구현한다. 머리 포즈 추정에 사용한 데이터베이스는 ICT-3DHP, Biwi, GI4E와 자체 제작한 DB로 총 36,000장의 데이터를 사용하여 학습 및 실험을 한다. 또한 얼굴 특징점 정렬에 사용한 데이터베이스는 AFLW 10,000장을 학습하고 5,000장을 테스트한다. 머리 포즈 추정 실험의 오류를 측정하는 방법으로 Mean Absolute Error(MAE)를 사용하여 비교하였으며, Roll, Pitch, Yaw의 MAE는 각각 0.78, 0.99, 1.40의 값을 얻었다. 또한 얼굴 특징점 정렬은 Mean Absolute Percent Error(MAPE)를 사용하여 오차를 계산하였다. 21개의 각각의 특징점 평균 오차 약 1.0으로 기존의 평균보다 뛰어난 성능을 보인다. 이는 기존의 POSIT으로 추정한 값과 달리 얼굴 특징점을 사용하지 않고 영상만을 보고 판단할 수 있는 컴퓨터 비전에서 궁극적 형태의 새로운 학습 모델을 제안한다."
+        }
+      ]
+    },
+    {
+      "query": "How does the integration of HMMs and NNs enhance robustness in noisy environments for audiovisual speech recognition?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 3
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6448073983192444,
+          "doc_id": "225",
+          "text": "Speech Recognition using Machine Learning Speech Recognition using Machine Learning Speech Recognition using Machine Learning Speech recognition is one of the fastest-growing engineering technologies. It has several applications in different areas, and provides many potential benefits. A lot of people are unable to communicate due to language barriers. We aim to reduce this barrier via our project, which was designed and developed to achieve systems in particular cases to provide significant help so people can share information by operating a computer using voice input. This project keeps that factor in mind, and an effort is made to ensure our project is able to recognize speech and convert input audio into text; it also enables a user to perform file operations like Save, Open, or Exit from voice-only input. We design a system that can recognize the human voice as well as audio clips, and translate between English and Hindi. The output is in text form, and we provide options to convert audio from one language to the other. Going forward, we expect to add functionality that provides dictionary meanings for Hindi and English words. Neural machine translation is the primary algorithm used in the industry to perform machine translation. Two recurrent neural networks used in tandem to construct an encoder–decoder structure are the architecture behind neural machine translation. This work on speech recognition starts with an introduction to the technology and the applications used in different sectors. Part of the report is based on software developments in speech recognition."
+        },
+        {
+          "rank": 2,
+          "score": 0.5986071825027466,
+          "doc_id": "153",
+          "text": "Artificial Intelligence, Language Intelligence, and Mathematics Artificial Intelligence, Language Intelligence, and Mathematics Artificial Intelligence, Language Intelligence, and Mathematics Artificial neural networks(ANN) has provided a theoretical framework on the study of human behavior/cognition and artificial intelligence. This article aims to introduce ANN and its mathematical principle to the field of applied linguistics. An ANN consists of input, hidden, and output vectors and the vectors are connected to one another by weight matrices. Mapping from input to output is accounted for by simple matrix multiplication."
+        },
+        {
+          "rank": 3,
+          "score": 0.5891554355621338,
+          "doc_id": "157",
+          "text": "Engineering artificial intelligence Engineering artificial intelligence Engineering artificial intelligence Current Artificial Intelligence can be used to good effect in engineering systems for emulating some high-level mental functions of humans but is not suitable for coping with many other difficult tasks, especially those involving combined perception and cognition. Neural-net computing on the other hand seems to be better suited to meeting the demands of those types of tasks. These matters are discussed in this paper and it is suggested that the type of Artificial Intelligence appropriate for use in an engineering system will be an evolved one combining the strengths of symbolic processing and neural-net computing."
+        },
+        {
+          "rank": 4,
+          "score": 0.5846366286277771,
+          "doc_id": "42",
+          "text": "Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning In recent years, machine learning algorithms are continuously being used and expanded in various fields, such as facial recognition, signal processing, personal authentication, and stock prediction. In particular, various algorithms, such as deep learning, reinforcement learning, and Q-learning, are continuously being improved. Among these algorithms, the expansion of deep learning is rapidly changing. Nevertheless, machine learning algorithms have not yet been applied in several fields, such as personal authentication technology. This technology is an essential tool in the digital information era, walking recognition technology as promising biometrics, and technology for solving state-space problems. Therefore, algorithm technologies of deep learning, reinforcement learning, and Q-learning, which are typical machine learning algorithms in various fields, such as agricultural technology, personal authentication, wireless network, game, biometric recognition, and image recognition, are being improved and expanded in this paper."
+        },
+        {
+          "rank": 5,
+          "score": 0.583791971206665,
+          "doc_id": "148",
+          "text": "A deep-learning-based emergency alert system A deep-learning-based emergency alert system A deep-learning-based emergency alert system Emergency alert systems serve as a critical link in the chain of crisis communication, and they are essential to minimize loss during emergencies. Acts of terrorism and violence, chemical spills, amber alerts, nuclear facility problems, weather-related emergencies, flu pandemics, and other emergencies all require those responsible such as government officials, building managers, and university administrators to be able to quickly and reliably distribute emergency information to the public. This paper presents our design of a deep-learning-based emergency warning system. The proposed system is considered suitable for application in existing infrastructure such as closed-circuit television and other monitoring devices. The experimental results show that in most cases, our system immediately detects emergencies such as car accidents and natural disasters."
+        },
+        {
+          "rank": 6,
+          "score": 0.5829577445983887,
+          "doc_id": "33",
+          "text": "Machine Learning을 이용한 자동 돌발상황검지 Machine Learning을 이용한 자동 돌발상황검지 Machine Learning을 이용한 자동 돌발상황검지 Incidents on the freeway disrupt traffic flow and the cost of delay caused by incidents is significant. To reduce the impact of an incident, a traffic management center needs to quickly detect and remove it from the freeway. Quick and efficient automatic incident detection has been a main goal of the transportation research for many years. Also many algorithms based on loop detector data have been developed and tested for the Automatic Incident Detection(AID). However, many of them have a limited success in their overall performance in terms of detection rate, false alarm rate, and the mean time to detect an incident. Until recently, the neural network models have been the one of the popular and efficient approach for real-time automatic incident detection and many researches have shown that the neural network models were much more efficient than various other previous models. The purpose of this research is to propose a more efficient and accurate model than the neural network model in the automatic incident detection problem. For this purpose, a machine learning model, Support Vector Machine (SVM) learning which is based on the statistical learning theory, has been used in this paper. The experiments have been done with real world freeway data, and the results show that the SVM could provide better performance in terms of DR(Detection Rate) and FAR(False Alarm Rate) than Backpropagation which is the most popular neural network model."
+        },
+        {
+          "rank": 7,
+          "score": 0.582564651966095,
+          "doc_id": "25",
+          "text": "A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis The image analysis is an important and predominant task for classifying the different parts of the image. The analysis of complex image analysis like histopathological define a crucial factor in oncology due to its ability to help pathologists for interpretation of images and therefore various feature extraction techniques have been evolved from time to time for such analysis. Although deep reinforcement learning is a new and emerging technique but very less effort has been made to compare the deep learning and deep reinforcement learning for image analysis. The paper highlights how both techniques differ in feature extraction from complex images and discusses the potential pros and cons. The use of Convolution Neural Network (CNN) in image segmentation, detection and diagnosis of tumour, feature extraction is important but there are several challenges that need to be overcome before Deep Learning can be applied to digital pathology. The one being is the availability of sufficient training examples for medical image datasets, feature extraction from whole area of the image, ground truth localized annotations, adversarial effects of input representations and extremely large size of the digital pathological slides (in gigabytes).Even though formulating Histopathological Image Analysis (HIA) as Multi Instance Learning (MIL) problem is a remarkable step where histopathological image is divided into high resolution patches to make predictions for the patch and then combining them for overall slide predictions but it suffers from loss of contextual and spatial information. In such cases the deep reinforcement learning techniques can be used to learn feature from the limited data without losing contextual and spatial information."
+        },
+        {
+          "rank": 8,
+          "score": 0.582564651966095,
+          "doc_id": "74",
+          "text": "A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis The image analysis is an important and predominant task for classifying the different parts of the image. The analysis of complex image analysis like histopathological define a crucial factor in oncology due to its ability to help pathologists for interpretation of images and therefore various feature extraction techniques have been evolved from time to time for such analysis. Although deep reinforcement learning is a new and emerging technique but very less effort has been made to compare the deep learning and deep reinforcement learning for image analysis. The paper highlights how both techniques differ in feature extraction from complex images and discusses the potential pros and cons. The use of Convolution Neural Network (CNN) in image segmentation, detection and diagnosis of tumour, feature extraction is important but there are several challenges that need to be overcome before Deep Learning can be applied to digital pathology. The one being is the availability of sufficient training examples for medical image datasets, feature extraction from whole area of the image, ground truth localized annotations, adversarial effects of input representations and extremely large size of the digital pathological slides (in gigabytes).Even though formulating Histopathological Image Analysis (HIA) as Multi Instance Learning (MIL) problem is a remarkable step where histopathological image is divided into high resolution patches to make predictions for the patch and then combining them for overall slide predictions but it suffers from loss of contextual and spatial information. In such cases the deep reinforcement learning techniques can be used to learn feature from the limited data without losing contextual and spatial information."
+        },
+        {
+          "rank": 9,
+          "score": 0.5782883167266846,
+          "doc_id": "14",
+          "text": "Emulearner: Deep Learning Library for Utilizing Emulab Emulearner: Deep Learning Library for Utilizing Emulab Emulearner: Deep Learning Library for Utilizing Emulab Recently, deep learning has been actively studied and applied in various fields even to novel writing and painting in ways we could not imagine before. A key feature is that high-performance computing device, especially CUDA-enabled GPU, supports this trend. Researchers who have difficulty accessing such systems fall behind in this fast-changing trend. In this study, we propose and implement a library called Emulearner that helps users to utilize Emulab with ease. Emulab is a research framework equipped with up to thousands of nodes developed by the University of Utah. To use Emulab nodes for deep learning requires a lot of human interactions, however. To solve this problem, Emulearner completely automates operations from authentication of Emulab log-in, node creation, configuration of deep learning to training. By installing Emulearner with a legitimate Emulab account, users can focus on their research on deep learning without hassle."
+        },
+        {
+          "rank": 10,
+          "score": 0.5773045420646667,
+          "doc_id": "214",
+          "text": "An Efficient Parallel Machine Learning-based Blockchain Framework An Efficient Parallel Machine Learning-based Blockchain Framework An Efficient Parallel Machine Learning-based Blockchain Framework The unlimited possibilities of machine learning have been shown in several successful reports and applications. However, how to make sure that the searched results of a machine learning system are not tampered by anyone and how to prevent the other users in the same network environment from easily getting our private data are two critical research issues when we immerse into powerful machine learning-based systems or applications. This situation is just like other modern information systems that confront security and privacy issues. The development of blockchain provides us an alternative way to address these two issues. That is why some recent studies have attempted to develop machine learning systems with blockchain technologies or to apply machine learning methods to blockchain systems. To show what the combination of blockchain and machine learning is capable of doing, in this paper, we proposed a parallel framework to find out suitable hyperparameters of deep learning in a blockchain environment by using a metaheuristic algorithm. The proposed framework also takes into account the issue of communication cost, by limiting the number of information exchanges between miners and blockchain."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

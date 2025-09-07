@@ -1,0 +1,291 @@
+{
+  "id": "row_000034",
+  "model_name": "SamilPwC-AXNode-GenAI/PwC-Embedding_expr",
+  "timestamp_kst": "2025-09-07T16:47:01.551663+09:00",
+  "trial_id": "2c355045",
+  "queries": [
+    {
+      "query": "Could you outline the principal concerns IT companies face in defense-related IT convergence and the proposed solutions for cost estimation and governance?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7611768245697021,
+          "doc_id": "145",
+          "text": "IT기업 관점에서의 국방IT융합 추진방향 IT기업 관점에서의 국방IT융합 추진방향 IT기업 관점에서의 국방IT융합 추진방향 IT convergence technology can boost the advancement of weapon systems and efficient operation for the military reformation in Korea. This study investigated IT firms' concern about the defense acquisition process for IT-convergent systems and the role of IT firms in the process with Focus Group Interview and in-depth interview on executives of IT firms, and classified the concern to three major issues. They are the clarification of IT firms' role in the defense IT-convergent efforts, the establishment of the control tower for defense IT convergence, and reasonable estimation of software development cost in the defense acquisition process."
+        },
+        {
+          "rank": 2,
+          "score": 0.6992622017860413,
+          "doc_id": "96",
+          "text": "국방IT융합 추진방법론 및 사례 연구 국방IT융합 추진방법론 및 사례 연구 국방IT융합 추진방법론 및 사례 연구 Information technology convergence has been recognized one of the key drivers in the industry perspective. Korea government established IT convergence policy in 2008 and has been implementing it to the core industry such as automotive, shipbuilding and defense industries. This research analyzes various IT convergence issues based on an operation of defense IT convergence center, one of the industry IT convergence centers. Defense IT convergence issues are as follows : the methods for introducing rapid changing IT to military area, rapid deployment procedures of verified commercial technologies and products, regulations for using of domestic software promotion and so on. We define the concept of defense IT convergence and propose the framework and processes for applying IT to our defense sector as one of industries. Also, we establish various business models in the military perspective using defense IT convergence framework. In this paper, we focus the development of defense IT convergence through the alignment of national IT convergence policy and propose various business models established through operating a defense IT convergence center."
+        },
+        {
+          "rank": 3,
+          "score": 0.6945587396621704,
+          "doc_id": "98",
+          "text": "국방 IT융합 비즈니스 모델 사례와 성과 분석 국방 IT융합 비즈니스 모델 사례와 성과 분석 국방 IT융합 비즈니스 모델 사례와 성과 분석 Information technology (IT) convergence have been recognized one of the key drivers in the industry perspective. Especially, IT convergence have been one of the most important innovative way for defense sector. Korea government established IT convergence policy in 2008 and have been applying it to the core industry such as automotive, shipbuilding and defense industries. Recently, the creative vitamin project has been launched. Vitamin 'D' means the way to create the value of defense industry. This research analyzes and evaluates various IT convergence business models based on an operation of defense IT convergence center from 2011 to 2014, which is the industry IT convergence centers. Defense IT convergence business models can be classified into four types of mission area as follows : weapon acquisition and management, military intelligence, military power construction, and resources management. We define the concept of defense IT convergence and describe the framework and processes for applying IT to the defense sector. We analyzes and evaluates various business models designed through defense IT convergence framework and processes."
+        },
+        {
+          "rank": 4,
+          "score": 0.6836196184158325,
+          "doc_id": "44",
+          "text": "IT/OT convergence and cyber security IT/OT convergence and cyber security IT/OT convergence and cyber security A study by Forrester, commissioned by Fortinet, reveals the growing exposure of industry players to cyberthreats &ndash; one of the consequences of digital transformation. The lack of collaboration between IT teams and those in charge of industrial or operational technology (OT) is also a hindrance to cyber security for companies wishing to take full advantage of IT/OT convergence to increase their competitiveness."
+        },
+        {
+          "rank": 5,
+          "score": 0.6683887839317322,
+          "doc_id": "229",
+          "text": "Convergence IT 관련 기사 Convergence IT 관련 기사 Convergence IT 관련 기사 없음"
+        },
+        {
+          "rank": 6,
+          "score": 0.6614481210708618,
+          "doc_id": "39",
+          "text": "IT convergence and security IT convergence and security IT convergence and security 없음"
+        },
+        {
+          "rank": 7,
+          "score": 0.6497598886489868,
+          "doc_id": "38",
+          "text": "IT convergence security IT convergence security IT convergence security 없음"
+        },
+        {
+          "rank": 8,
+          "score": 0.6490744352340698,
+          "doc_id": "54",
+          "text": "Future trends of IT convergence Future trends of IT convergence Future trends of IT convergence 없음"
+        },
+        {
+          "rank": 9,
+          "score": 0.6477584838867188,
+          "doc_id": "149",
+          "text": "IT/OT Convergence 기반의 Advanced Distribution Management System의 설계 IT/OT Convergence 기반의 Advanced Distribution Management System의 설계 IT/OT Convergence 기반의 Advanced Distribution Management System의 설계 Power automation system to operate power distribution systems can be distinguished by distribution SCADA with remote monitoring and control; and distribution automation system with basic functions such as service restoration to the distribution SCADA; and distribution management system which is operated by various applications in order to enhance distribution system operation performance based on the distribution automation system. In the technological change, a technical boundary of information technology (IT) and operation technology (OT) is being blurred by that new concepts such as interoperability. In addtion, IT/OT convergence has been proposed by the improvement of ICT and power system technology. At the viewpoint, advanced distribution management system (ADMS) to have the new concepts and to increase distribution system operation efficiency through global information and functions from the other systems has been proposed.In order to implement the ADMS, IT and OT have to be employed together on the ADMS; and the concept-based IT/OT convergence concept has been presented. Therefore, this paper introduces ADMS and IT/OT convergence and proposes a design of IT/OT convergence based ADMS system design with configurations and functions."
+        },
+        {
+          "rank": 10,
+          "score": 0.6442493200302124,
+          "doc_id": "59",
+          "text": "IT/OT Convergence 기반의 Advanced Distribution Management System의 설계 IT/OT Convergence 기반의 Advanced Distribution Management System의 설계 IT/OT Convergence 기반의 Advanced Distribution Management System의 설계 Power automation system to operate power distribution systems can be distinguished by distribution SCADA with remote monitoring and control; and distribution automation system with basic functions such as service restoration to the distribution SCADA; and distribution management system which is operated by various applications in order to enhance distribution system operation performance based on the distribution automation system. In the technological change, a technical boundary of information technology (IT) and operation technology (OT) is being blurred by that new concepts such as interoperability. In addtion, IT/OT convergence has been proposed by the improvement of ICT and power system technology. At the viewpoint, advanced distribution management system (ADMS) to have the new concepts and to increase distribution system operation efficiency through global information and functions from the other systems has been proposed. In order to implement the ADMS, IT and OT have to be employed together on the ADMS; and the concept-based IT/OT convergence concept has been presented. Therefore, this paper introduces ADMS and IT/OT convergence and proposes a design of IT/OT convergence based ADMS system design with configurations and functions."
+        }
+      ]
+    },
+    {
+      "query": "What are the principal concerns IT companies face in defense-related IT convergence?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.753216028213501,
+          "doc_id": "145",
+          "text": "IT기업 관점에서의 국방IT융합 추진방향 IT기업 관점에서의 국방IT융합 추진방향 IT기업 관점에서의 국방IT융합 추진방향 IT convergence technology can boost the advancement of weapon systems and efficient operation for the military reformation in Korea. This study investigated IT firms' concern about the defense acquisition process for IT-convergent systems and the role of IT firms in the process with Focus Group Interview and in-depth interview on executives of IT firms, and classified the concern to three major issues. They are the clarification of IT firms' role in the defense IT-convergent efforts, the establishment of the control tower for defense IT convergence, and reasonable estimation of software development cost in the defense acquisition process."
+        },
+        {
+          "rank": 2,
+          "score": 0.7058624625205994,
+          "doc_id": "44",
+          "text": "IT/OT convergence and cyber security IT/OT convergence and cyber security IT/OT convergence and cyber security A study by Forrester, commissioned by Fortinet, reveals the growing exposure of industry players to cyberthreats &ndash; one of the consequences of digital transformation. The lack of collaboration between IT teams and those in charge of industrial or operational technology (OT) is also a hindrance to cyber security for companies wishing to take full advantage of IT/OT convergence to increase their competitiveness."
+        },
+        {
+          "rank": 3,
+          "score": 0.682241678237915,
+          "doc_id": "39",
+          "text": "IT convergence and security IT convergence and security IT convergence and security 없음"
+        },
+        {
+          "rank": 4,
+          "score": 0.6791781783103943,
+          "doc_id": "38",
+          "text": "IT convergence security IT convergence security IT convergence security 없음"
+        },
+        {
+          "rank": 5,
+          "score": 0.6781283617019653,
+          "doc_id": "96",
+          "text": "국방IT융합 추진방법론 및 사례 연구 국방IT융합 추진방법론 및 사례 연구 국방IT융합 추진방법론 및 사례 연구 Information technology convergence has been recognized one of the key drivers in the industry perspective. Korea government established IT convergence policy in 2008 and has been implementing it to the core industry such as automotive, shipbuilding and defense industries. This research analyzes various IT convergence issues based on an operation of defense IT convergence center, one of the industry IT convergence centers. Defense IT convergence issues are as follows : the methods for introducing rapid changing IT to military area, rapid deployment procedures of verified commercial technologies and products, regulations for using of domestic software promotion and so on. We define the concept of defense IT convergence and propose the framework and processes for applying IT to our defense sector as one of industries. Also, we establish various business models in the military perspective using defense IT convergence framework. In this paper, we focus the development of defense IT convergence through the alignment of national IT convergence policy and propose various business models established through operating a defense IT convergence center."
+        },
+        {
+          "rank": 6,
+          "score": 0.6773548722267151,
+          "doc_id": "229",
+          "text": "Convergence IT 관련 기사 Convergence IT 관련 기사 Convergence IT 관련 기사 없음"
+        },
+        {
+          "rank": 7,
+          "score": 0.6716787219047546,
+          "doc_id": "98",
+          "text": "국방 IT융합 비즈니스 모델 사례와 성과 분석 국방 IT융합 비즈니스 모델 사례와 성과 분석 국방 IT융합 비즈니스 모델 사례와 성과 분석 Information technology (IT) convergence have been recognized one of the key drivers in the industry perspective. Especially, IT convergence have been one of the most important innovative way for defense sector. Korea government established IT convergence policy in 2008 and have been applying it to the core industry such as automotive, shipbuilding and defense industries. Recently, the creative vitamin project has been launched. Vitamin 'D' means the way to create the value of defense industry. This research analyzes and evaluates various IT convergence business models based on an operation of defense IT convergence center from 2011 to 2014, which is the industry IT convergence centers. Defense IT convergence business models can be classified into four types of mission area as follows : weapon acquisition and management, military intelligence, military power construction, and resources management. We define the concept of defense IT convergence and describe the framework and processes for applying IT to the defense sector. We analyzes and evaluates various business models designed through defense IT convergence framework and processes."
+        },
+        {
+          "rank": 8,
+          "score": 0.6668837666511536,
+          "doc_id": "177",
+          "text": "Defense IT Convergence in South Korea Defense IT Convergence in South Korea Defense IT Convergence in South Korea 없음"
+        },
+        {
+          "rank": 9,
+          "score": 0.6600086688995361,
+          "doc_id": "143",
+          "text": "Convergence of Enterprise IT and Embedded Systems Convergence of Enterprise IT and Embedded Systems Convergence of Enterprise IT and Embedded Systems Convergence is currently melding entire disciplines to fully new business models and technologies across industries. What used to be embedded systems, on the one hand, with their specific constraints from the physical environments, and IT, on the other hand, are combining.1,2 This will impact education programs as well as classic industry boundaries."
+        },
+        {
+          "rank": 10,
+          "score": 0.6587088108062744,
+          "doc_id": "54",
+          "text": "Future trends of IT convergence Future trends of IT convergence Future trends of IT convergence 없음"
+        }
+      ]
+    },
+    {
+      "query": "What are the proposed solutions for cost estimation in defense-related IT convergence?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.727338969707489,
+          "doc_id": "145",
+          "text": "IT기업 관점에서의 국방IT융합 추진방향 IT기업 관점에서의 국방IT융합 추진방향 IT기업 관점에서의 국방IT융합 추진방향 IT convergence technology can boost the advancement of weapon systems and efficient operation for the military reformation in Korea. This study investigated IT firms' concern about the defense acquisition process for IT-convergent systems and the role of IT firms in the process with Focus Group Interview and in-depth interview on executives of IT firms, and classified the concern to three major issues. They are the clarification of IT firms' role in the defense IT-convergent efforts, the establishment of the control tower for defense IT convergence, and reasonable estimation of software development cost in the defense acquisition process."
+        },
+        {
+          "rank": 2,
+          "score": 0.7049301862716675,
+          "doc_id": "96",
+          "text": "국방IT융합 추진방법론 및 사례 연구 국방IT융합 추진방법론 및 사례 연구 국방IT융합 추진방법론 및 사례 연구 Information technology convergence has been recognized one of the key drivers in the industry perspective. Korea government established IT convergence policy in 2008 and has been implementing it to the core industry such as automotive, shipbuilding and defense industries. This research analyzes various IT convergence issues based on an operation of defense IT convergence center, one of the industry IT convergence centers. Defense IT convergence issues are as follows : the methods for introducing rapid changing IT to military area, rapid deployment procedures of verified commercial technologies and products, regulations for using of domestic software promotion and so on. We define the concept of defense IT convergence and propose the framework and processes for applying IT to our defense sector as one of industries. Also, we establish various business models in the military perspective using defense IT convergence framework. In this paper, we focus the development of defense IT convergence through the alignment of national IT convergence policy and propose various business models established through operating a defense IT convergence center."
+        },
+        {
+          "rank": 3,
+          "score": 0.6907014846801758,
+          "doc_id": "98",
+          "text": "국방 IT융합 비즈니스 모델 사례와 성과 분석 국방 IT융합 비즈니스 모델 사례와 성과 분석 국방 IT융합 비즈니스 모델 사례와 성과 분석 Information technology (IT) convergence have been recognized one of the key drivers in the industry perspective. Especially, IT convergence have been one of the most important innovative way for defense sector. Korea government established IT convergence policy in 2008 and have been applying it to the core industry such as automotive, shipbuilding and defense industries. Recently, the creative vitamin project has been launched. Vitamin 'D' means the way to create the value of defense industry. This research analyzes and evaluates various IT convergence business models based on an operation of defense IT convergence center from 2011 to 2014, which is the industry IT convergence centers. Defense IT convergence business models can be classified into four types of mission area as follows : weapon acquisition and management, military intelligence, military power construction, and resources management. We define the concept of defense IT convergence and describe the framework and processes for applying IT to the defense sector. We analyzes and evaluates various business models designed through defense IT convergence framework and processes."
+        },
+        {
+          "rank": 4,
+          "score": 0.6849853992462158,
+          "doc_id": "229",
+          "text": "Convergence IT 관련 기사 Convergence IT 관련 기사 Convergence IT 관련 기사 없음"
+        },
+        {
+          "rank": 5,
+          "score": 0.6737819910049438,
+          "doc_id": "54",
+          "text": "Future trends of IT convergence Future trends of IT convergence Future trends of IT convergence 없음"
+        },
+        {
+          "rank": 6,
+          "score": 0.6644411087036133,
+          "doc_id": "149",
+          "text": "IT/OT Convergence 기반의 Advanced Distribution Management System의 설계 IT/OT Convergence 기반의 Advanced Distribution Management System의 설계 IT/OT Convergence 기반의 Advanced Distribution Management System의 설계 Power automation system to operate power distribution systems can be distinguished by distribution SCADA with remote monitoring and control; and distribution automation system with basic functions such as service restoration to the distribution SCADA; and distribution management system which is operated by various applications in order to enhance distribution system operation performance based on the distribution automation system. In the technological change, a technical boundary of information technology (IT) and operation technology (OT) is being blurred by that new concepts such as interoperability. In addtion, IT/OT convergence has been proposed by the improvement of ICT and power system technology. At the viewpoint, advanced distribution management system (ADMS) to have the new concepts and to increase distribution system operation efficiency through global information and functions from the other systems has been proposed.In order to implement the ADMS, IT and OT have to be employed together on the ADMS; and the concept-based IT/OT convergence concept has been presented. Therefore, this paper introduces ADMS and IT/OT convergence and proposes a design of IT/OT convergence based ADMS system design with configurations and functions."
+        },
+        {
+          "rank": 7,
+          "score": 0.6619110107421875,
+          "doc_id": "39",
+          "text": "IT convergence and security IT convergence and security IT convergence and security 없음"
+        },
+        {
+          "rank": 8,
+          "score": 0.6614588499069214,
+          "doc_id": "177",
+          "text": "Defense IT Convergence in South Korea Defense IT Convergence in South Korea Defense IT Convergence in South Korea 없음"
+        },
+        {
+          "rank": 9,
+          "score": 0.6607276201248169,
+          "doc_id": "59",
+          "text": "IT/OT Convergence 기반의 Advanced Distribution Management System의 설계 IT/OT Convergence 기반의 Advanced Distribution Management System의 설계 IT/OT Convergence 기반의 Advanced Distribution Management System의 설계 Power automation system to operate power distribution systems can be distinguished by distribution SCADA with remote monitoring and control; and distribution automation system with basic functions such as service restoration to the distribution SCADA; and distribution management system which is operated by various applications in order to enhance distribution system operation performance based on the distribution automation system. In the technological change, a technical boundary of information technology (IT) and operation technology (OT) is being blurred by that new concepts such as interoperability. In addtion, IT/OT convergence has been proposed by the improvement of ICT and power system technology. At the viewpoint, advanced distribution management system (ADMS) to have the new concepts and to increase distribution system operation efficiency through global information and functions from the other systems has been proposed. In order to implement the ADMS, IT and OT have to be employed together on the ADMS; and the concept-based IT/OT convergence concept has been presented. Therefore, this paper introduces ADMS and IT/OT convergence and proposes a design of IT/OT convergence based ADMS system design with configurations and functions."
+        },
+        {
+          "rank": 10,
+          "score": 0.6575511693954468,
+          "doc_id": "38",
+          "text": "IT convergence security IT convergence security IT convergence security 없음"
+        }
+      ]
+    },
+    {
+      "query": "What are the proposed solutions for governance in defense-related IT convergence?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 2
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7403435707092285,
+          "doc_id": "145",
+          "text": "IT기업 관점에서의 국방IT융합 추진방향 IT기업 관점에서의 국방IT융합 추진방향 IT기업 관점에서의 국방IT융합 추진방향 IT convergence technology can boost the advancement of weapon systems and efficient operation for the military reformation in Korea. This study investigated IT firms' concern about the defense acquisition process for IT-convergent systems and the role of IT firms in the process with Focus Group Interview and in-depth interview on executives of IT firms, and classified the concern to three major issues. They are the clarification of IT firms' role in the defense IT-convergent efforts, the establishment of the control tower for defense IT convergence, and reasonable estimation of software development cost in the defense acquisition process."
+        },
+        {
+          "rank": 2,
+          "score": 0.7398794293403625,
+          "doc_id": "96",
+          "text": "국방IT융합 추진방법론 및 사례 연구 국방IT융합 추진방법론 및 사례 연구 국방IT융합 추진방법론 및 사례 연구 Information technology convergence has been recognized one of the key drivers in the industry perspective. Korea government established IT convergence policy in 2008 and has been implementing it to the core industry such as automotive, shipbuilding and defense industries. This research analyzes various IT convergence issues based on an operation of defense IT convergence center, one of the industry IT convergence centers. Defense IT convergence issues are as follows : the methods for introducing rapid changing IT to military area, rapid deployment procedures of verified commercial technologies and products, regulations for using of domestic software promotion and so on. We define the concept of defense IT convergence and propose the framework and processes for applying IT to our defense sector as one of industries. Also, we establish various business models in the military perspective using defense IT convergence framework. In this paper, we focus the development of defense IT convergence through the alignment of national IT convergence policy and propose various business models established through operating a defense IT convergence center."
+        },
+        {
+          "rank": 3,
+          "score": 0.7183077931404114,
+          "doc_id": "98",
+          "text": "국방 IT융합 비즈니스 모델 사례와 성과 분석 국방 IT융합 비즈니스 모델 사례와 성과 분석 국방 IT융합 비즈니스 모델 사례와 성과 분석 Information technology (IT) convergence have been recognized one of the key drivers in the industry perspective. Especially, IT convergence have been one of the most important innovative way for defense sector. Korea government established IT convergence policy in 2008 and have been applying it to the core industry such as automotive, shipbuilding and defense industries. Recently, the creative vitamin project has been launched. Vitamin 'D' means the way to create the value of defense industry. This research analyzes and evaluates various IT convergence business models based on an operation of defense IT convergence center from 2011 to 2014, which is the industry IT convergence centers. Defense IT convergence business models can be classified into four types of mission area as follows : weapon acquisition and management, military intelligence, military power construction, and resources management. We define the concept of defense IT convergence and describe the framework and processes for applying IT to the defense sector. We analyzes and evaluates various business models designed through defense IT convergence framework and processes."
+        },
+        {
+          "rank": 4,
+          "score": 0.681340217590332,
+          "doc_id": "39",
+          "text": "IT convergence and security IT convergence and security IT convergence and security 없음"
+        },
+        {
+          "rank": 5,
+          "score": 0.6790096759796143,
+          "doc_id": "54",
+          "text": "Future trends of IT convergence Future trends of IT convergence Future trends of IT convergence 없음"
+        },
+        {
+          "rank": 6,
+          "score": 0.6759011149406433,
+          "doc_id": "149",
+          "text": "IT/OT Convergence 기반의 Advanced Distribution Management System의 설계 IT/OT Convergence 기반의 Advanced Distribution Management System의 설계 IT/OT Convergence 기반의 Advanced Distribution Management System의 설계 Power automation system to operate power distribution systems can be distinguished by distribution SCADA with remote monitoring and control; and distribution automation system with basic functions such as service restoration to the distribution SCADA; and distribution management system which is operated by various applications in order to enhance distribution system operation performance based on the distribution automation system. In the technological change, a technical boundary of information technology (IT) and operation technology (OT) is being blurred by that new concepts such as interoperability. In addtion, IT/OT convergence has been proposed by the improvement of ICT and power system technology. At the viewpoint, advanced distribution management system (ADMS) to have the new concepts and to increase distribution system operation efficiency through global information and functions from the other systems has been proposed.In order to implement the ADMS, IT and OT have to be employed together on the ADMS; and the concept-based IT/OT convergence concept has been presented. Therefore, this paper introduces ADMS and IT/OT convergence and proposes a design of IT/OT convergence based ADMS system design with configurations and functions."
+        },
+        {
+          "rank": 7,
+          "score": 0.6745156645774841,
+          "doc_id": "44",
+          "text": "IT/OT convergence and cyber security IT/OT convergence and cyber security IT/OT convergence and cyber security A study by Forrester, commissioned by Fortinet, reveals the growing exposure of industry players to cyberthreats &ndash; one of the consequences of digital transformation. The lack of collaboration between IT teams and those in charge of industrial or operational technology (OT) is also a hindrance to cyber security for companies wishing to take full advantage of IT/OT convergence to increase their competitiveness."
+        },
+        {
+          "rank": 8,
+          "score": 0.6740478873252869,
+          "doc_id": "229",
+          "text": "Convergence IT 관련 기사 Convergence IT 관련 기사 Convergence IT 관련 기사 없음"
+        },
+        {
+          "rank": 9,
+          "score": 0.6734457015991211,
+          "doc_id": "38",
+          "text": "IT convergence security IT convergence security IT convergence security 없음"
+        },
+        {
+          "rank": 10,
+          "score": 0.6723390817642212,
+          "doc_id": "59",
+          "text": "IT/OT Convergence 기반의 Advanced Distribution Management System의 설계 IT/OT Convergence 기반의 Advanced Distribution Management System의 설계 IT/OT Convergence 기반의 Advanced Distribution Management System의 설계 Power automation system to operate power distribution systems can be distinguished by distribution SCADA with remote monitoring and control; and distribution automation system with basic functions such as service restoration to the distribution SCADA; and distribution management system which is operated by various applications in order to enhance distribution system operation performance based on the distribution automation system. In the technological change, a technical boundary of information technology (IT) and operation technology (OT) is being blurred by that new concepts such as interoperability. In addtion, IT/OT convergence has been proposed by the improvement of ICT and power system technology. At the viewpoint, advanced distribution management system (ADMS) to have the new concepts and to increase distribution system operation efficiency through global information and functions from the other systems has been proposed. In order to implement the ADMS, IT and OT have to be employed together on the ADMS; and the concept-based IT/OT convergence concept has been presented. Therefore, this paper introduces ADMS and IT/OT convergence and proposes a design of IT/OT convergence based ADMS system design with configurations and functions."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

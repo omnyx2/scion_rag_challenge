@@ -1,0 +1,431 @@
+{
+  "id": "row_000049",
+  "model_name": "BAAI/bge-m3",
+  "timestamp_kst": "2025-09-07T16:10:15.305350+09:00",
+  "trial_id": "576cac81",
+  "queries": [
+    {
+      "query": "Particle Swarm Optimization을 이용해 퍼지 Extreme Learning Machine의 활성화 함수 파라미터를 최적화하는 기법의 핵심 원리를 요약해 주실 수 있나요?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5752159357070923,
+          "doc_id": "22",
+          "text": "Effective E-Learning Practices by Machine Learning and Artificial Intelligence"
+        },
+        {
+          "rank": 2,
+          "score": 0.549676775932312,
+          "doc_id": "75",
+          "text": "MACHINE LEARNING"
+        },
+        {
+          "rank": 3,
+          "score": 0.5428347587585449,
+          "doc_id": "42",
+          "text": "Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning"
+        },
+        {
+          "rank": 4,
+          "score": 0.5397888422012329,
+          "doc_id": "202",
+          "text": "Machine learning"
+        },
+        {
+          "rank": 5,
+          "score": 0.534608781337738,
+          "doc_id": "104",
+          "text": "Deep learning"
+        },
+        {
+          "rank": 6,
+          "score": 0.5313475131988525,
+          "doc_id": "225",
+          "text": "Speech Recognition using Machine Learning"
+        },
+        {
+          "rank": 7,
+          "score": 0.5266016125679016,
+          "doc_id": "9",
+          "text": "Wave data prediction with optimized machine learning and deep learning techniques"
+        },
+        {
+          "rank": 8,
+          "score": 0.5222311019897461,
+          "doc_id": "185",
+          "text": "Topology optimization via machine learning and deep learning: a review"
+        },
+        {
+          "rank": 9,
+          "score": 0.5211879014968872,
+          "doc_id": "121",
+          "text": "Deep Learning을 기반으로 한 Feature Extraction 알고리즘의 분석"
+        },
+        {
+          "rank": 10,
+          "score": 0.5178880095481873,
+          "doc_id": "26",
+          "text": "Design a personalized recommendation system using deep learning and reinforcement learning"
+        }
+      ]
+    },
+    {
+      "query": "퍼지 Extreme Learning Machine (FELM)이란 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5540375709533691,
+          "doc_id": "42",
+          "text": "Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning"
+        },
+        {
+          "rank": 2,
+          "score": 0.5088118314743042,
+          "doc_id": "22",
+          "text": "Effective E-Learning Practices by Machine Learning and Artificial Intelligence"
+        },
+        {
+          "rank": 3,
+          "score": 0.5085389614105225,
+          "doc_id": "14",
+          "text": "Emulearner: Deep Learning Library for Utilizing Emulab"
+        },
+        {
+          "rank": 4,
+          "score": 0.500125527381897,
+          "doc_id": "110",
+          "text": "Machine Learning기법을 이용한 Robot 이상 예지 보전"
+        },
+        {
+          "rank": 5,
+          "score": 0.49982917308807373,
+          "doc_id": "28",
+          "text": "Deep Learning 기반 COF 이미지 검사시스템"
+        },
+        {
+          "rank": 6,
+          "score": 0.4986557960510254,
+          "doc_id": "225",
+          "text": "Speech Recognition using Machine Learning"
+        },
+        {
+          "rank": 7,
+          "score": 0.49799275398254395,
+          "doc_id": "101",
+          "text": "Breast cancer detection by leveraging Machine Learning"
+        },
+        {
+          "rank": 8,
+          "score": 0.4957493245601654,
+          "doc_id": "148",
+          "text": "A deep-learning-based emergency alert system"
+        },
+        {
+          "rank": 9,
+          "score": 0.49447101354599,
+          "doc_id": "47",
+          "text": "Econometrics and Machine Learning"
+        },
+        {
+          "rank": 10,
+          "score": 0.4937824308872223,
+          "doc_id": "135",
+          "text": "Liver Fibrosis Biomarker Validation Using Machine Learning Algorithms"
+        }
+      ]
+    },
+    {
+      "query": "FELM에서 활성화 함수 파라미터는 어떤 역할을 하며, 무엇을 의미하나요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.48183488845825195,
+          "doc_id": "121",
+          "text": "Deep Learning을 기반으로 한 Feature Extraction 알고리즘의 분석"
+        },
+        {
+          "rank": 2,
+          "score": 0.4602012038230896,
+          "doc_id": "135",
+          "text": "Liver Fibrosis Biomarker Validation Using Machine Learning Algorithms"
+        },
+        {
+          "rank": 3,
+          "score": 0.45886659622192383,
+          "doc_id": "202",
+          "text": "Machine learning"
+        },
+        {
+          "rank": 4,
+          "score": 0.4418172836303711,
+          "doc_id": "104",
+          "text": "Deep learning"
+        },
+        {
+          "rank": 5,
+          "score": 0.4399506747722626,
+          "doc_id": "75",
+          "text": "MACHINE LEARNING"
+        },
+        {
+          "rank": 6,
+          "score": 0.4337402582168579,
+          "doc_id": "47",
+          "text": "Econometrics and Machine Learning"
+        },
+        {
+          "rank": 7,
+          "score": 0.4283749461174011,
+          "doc_id": "42",
+          "text": "Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning"
+        },
+        {
+          "rank": 8,
+          "score": 0.42661717534065247,
+          "doc_id": "28",
+          "text": "Deep Learning 기반 COF 이미지 검사시스템"
+        },
+        {
+          "rank": 9,
+          "score": 0.41746023297309875,
+          "doc_id": "214",
+          "text": "An Efficient Parallel Machine Learning-based Blockchain Framework"
+        },
+        {
+          "rank": 10,
+          "score": 0.4159848093986511,
+          "doc_id": "14",
+          "text": "Emulearner: Deep Learning Library for Utilizing Emulab"
+        }
+      ]
+    },
+    {
+      "query": "Particle Swarm Optimization (PSO)이란 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 2
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.46635809540748596,
+          "doc_id": "170",
+          "text": "Swarm Intelligence and Artificial Life"
+        },
+        {
+          "rank": 2,
+          "score": 0.4658776521682739,
+          "doc_id": "225",
+          "text": "Speech Recognition using Machine Learning"
+        },
+        {
+          "rank": 3,
+          "score": 0.45736902952194214,
+          "doc_id": "202",
+          "text": "Machine learning"
+        },
+        {
+          "rank": 4,
+          "score": 0.4507219195365906,
+          "doc_id": "185",
+          "text": "Topology optimization via machine learning and deep learning: a review"
+        },
+        {
+          "rank": 5,
+          "score": 0.45039448142051697,
+          "doc_id": "9",
+          "text": "Wave data prediction with optimized machine learning and deep learning techniques"
+        },
+        {
+          "rank": 6,
+          "score": 0.44688934087753296,
+          "doc_id": "109",
+          "text": "Optimized Data Processing Analysis Using Big Data Cloud Platform"
+        },
+        {
+          "rank": 7,
+          "score": 0.4461842477321625,
+          "doc_id": "75",
+          "text": "MACHINE LEARNING"
+        },
+        {
+          "rank": 8,
+          "score": 0.44583189487457275,
+          "doc_id": "152",
+          "text": "Deep Learning in MR Image Processing"
+        },
+        {
+          "rank": 9,
+          "score": 0.4436013102531433,
+          "doc_id": "104",
+          "text": "Deep learning"
+        },
+        {
+          "rank": 10,
+          "score": 0.4423643946647644,
+          "doc_id": "28",
+          "text": "Deep Learning 기반 COF 이미지 검사시스템"
+        }
+      ]
+    },
+    {
+      "query": "Particle Swarm Optimization은 어떤 방식으로 파라미터를 최적화하나요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 3
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5344530344009399,
+          "doc_id": "185",
+          "text": "Topology optimization via machine learning and deep learning: a review"
+        },
+        {
+          "rank": 2,
+          "score": 0.5292623043060303,
+          "doc_id": "170",
+          "text": "Swarm Intelligence and Artificial Life"
+        },
+        {
+          "rank": 3,
+          "score": 0.5289245843887329,
+          "doc_id": "9",
+          "text": "Wave data prediction with optimized machine learning and deep learning techniques"
+        },
+        {
+          "rank": 4,
+          "score": 0.5253863334655762,
+          "doc_id": "202",
+          "text": "Machine learning"
+        },
+        {
+          "rank": 5,
+          "score": 0.5095175504684448,
+          "doc_id": "75",
+          "text": "MACHINE LEARNING"
+        },
+        {
+          "rank": 6,
+          "score": 0.5071485042572021,
+          "doc_id": "109",
+          "text": "Optimized Data Processing Analysis Using Big Data Cloud Platform"
+        },
+        {
+          "rank": 7,
+          "score": 0.5064898133277893,
+          "doc_id": "104",
+          "text": "Deep learning"
+        },
+        {
+          "rank": 8,
+          "score": 0.5007832646369934,
+          "doc_id": "225",
+          "text": "Speech Recognition using Machine Learning"
+        },
+        {
+          "rank": 9,
+          "score": 0.4999139904975891,
+          "doc_id": "214",
+          "text": "An Efficient Parallel Machine Learning-based Blockchain Framework"
+        },
+        {
+          "rank": 10,
+          "score": 0.4994398057460785,
+          "doc_id": "70",
+          "text": "Machine Learning in Predicting Hemoglobin Variants"
+        }
+      ]
+    },
+    {
+      "query": "Particle Swarm Optimization이 퍼지 Extreme Learning Machine의 활성화 함수 파라미터를 최적화하는 과정은 어떻게 이루어지나요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 4
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5730834603309631,
+          "doc_id": "22",
+          "text": "Effective E-Learning Practices by Machine Learning and Artificial Intelligence"
+        },
+        {
+          "rank": 2,
+          "score": 0.5616831183433533,
+          "doc_id": "75",
+          "text": "MACHINE LEARNING"
+        },
+        {
+          "rank": 3,
+          "score": 0.5519021153450012,
+          "doc_id": "202",
+          "text": "Machine learning"
+        },
+        {
+          "rank": 4,
+          "score": 0.5443997383117676,
+          "doc_id": "42",
+          "text": "Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning"
+        },
+        {
+          "rank": 5,
+          "score": 0.5419517755508423,
+          "doc_id": "225",
+          "text": "Speech Recognition using Machine Learning"
+        },
+        {
+          "rank": 6,
+          "score": 0.5364558100700378,
+          "doc_id": "104",
+          "text": "Deep learning"
+        },
+        {
+          "rank": 7,
+          "score": 0.5300304889678955,
+          "doc_id": "9",
+          "text": "Wave data prediction with optimized machine learning and deep learning techniques"
+        },
+        {
+          "rank": 8,
+          "score": 0.5254603028297424,
+          "doc_id": "185",
+          "text": "Topology optimization via machine learning and deep learning: a review"
+        },
+        {
+          "rank": 9,
+          "score": 0.5219751000404358,
+          "doc_id": "135",
+          "text": "Liver Fibrosis Biomarker Validation Using Machine Learning Algorithms"
+        },
+        {
+          "rank": 10,
+          "score": 0.5218865871429443,
+          "doc_id": "47",
+          "text": "Econometrics and Machine Learning"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

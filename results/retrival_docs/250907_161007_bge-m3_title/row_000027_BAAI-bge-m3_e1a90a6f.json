@@ -1,0 +1,221 @@
+{
+  "id": "row_000027",
+  "model_name": "BAAI/bge-m3",
+  "timestamp_kst": "2025-09-07T16:10:11.683430+09:00",
+  "trial_id": "e1a90a6f",
+  "queries": [
+    {
+      "query": "DC 모터 제어 시스템에 딥 러닝 기반 제어기를 적용한 방법과 PID 제어기와의 성능 비교 결과를 요약해 주실 수 있나요?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7363747358322144,
+          "doc_id": "175",
+          "text": "딥 러닝을 이용한 DC 모터 제어"
+        },
+        {
+          "rank": 2,
+          "score": 0.5877000093460083,
+          "doc_id": "123",
+          "text": "딥러닝의 모형과 응용사례"
+        },
+        {
+          "rank": 3,
+          "score": 0.570557713508606,
+          "doc_id": "200",
+          "text": "딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발"
+        },
+        {
+          "rank": 4,
+          "score": 0.5646169185638428,
+          "doc_id": "125",
+          "text": "An overview of deep learning techniques"
+        },
+        {
+          "rank": 5,
+          "score": 0.5620377063751221,
+          "doc_id": "130",
+          "text": "딥러닝을 이용한 포트홀 검출 시스템"
+        },
+        {
+          "rank": 6,
+          "score": 0.5534371137619019,
+          "doc_id": "12",
+          "text": "= Deep Learning을 이용한ROS기반의 모바일 로봇의 자율 주행 제어"
+        },
+        {
+          "rank": 7,
+          "score": 0.5481640100479126,
+          "doc_id": "74",
+          "text": "A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis"
+        },
+        {
+          "rank": 8,
+          "score": 0.5481640100479126,
+          "doc_id": "25",
+          "text": "A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis"
+        },
+        {
+          "rank": 9,
+          "score": 0.5468192100524902,
+          "doc_id": "220",
+          "text": "딥 러닝기반 고객평점 예측모델"
+        },
+        {
+          "rank": 10,
+          "score": 0.5376707315444946,
+          "doc_id": "180",
+          "text": "딥러닝 기반의 딥 클러스터링 방법에 대한 분석"
+        }
+      ]
+    },
+    {
+      "query": "DC 모터 제어 시스템에 딥 러닝 기반 제어기를 어떻게 적용했나요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7822059988975525,
+          "doc_id": "175",
+          "text": "딥 러닝을 이용한 DC 모터 제어"
+        },
+        {
+          "rank": 2,
+          "score": 0.6092938184738159,
+          "doc_id": "123",
+          "text": "딥러닝의 모형과 응용사례"
+        },
+        {
+          "rank": 3,
+          "score": 0.5801122188568115,
+          "doc_id": "130",
+          "text": "딥러닝을 이용한 포트홀 검출 시스템"
+        },
+        {
+          "rank": 4,
+          "score": 0.567545473575592,
+          "doc_id": "12",
+          "text": "= Deep Learning을 이용한ROS기반의 모바일 로봇의 자율 주행 제어"
+        },
+        {
+          "rank": 5,
+          "score": 0.559208333492279,
+          "doc_id": "200",
+          "text": "딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발"
+        },
+        {
+          "rank": 6,
+          "score": 0.5511466264724731,
+          "doc_id": "104",
+          "text": "Deep learning"
+        },
+        {
+          "rank": 7,
+          "score": 0.5407752990722656,
+          "doc_id": "125",
+          "text": "An overview of deep learning techniques"
+        },
+        {
+          "rank": 8,
+          "score": 0.5396779775619507,
+          "doc_id": "85",
+          "text": "Deep learning for radar"
+        },
+        {
+          "rank": 9,
+          "score": 0.5390315055847168,
+          "doc_id": "42",
+          "text": "Enhanced Machine Learning Algorithms: Deep Learning, Reinforcement Learning, and Q-Learning"
+        },
+        {
+          "rank": 10,
+          "score": 0.5387023687362671,
+          "doc_id": "220",
+          "text": "딥 러닝기반 고객평점 예측모델"
+        }
+      ]
+    },
+    {
+      "query": "딥 러닝 기반 제어기와 PID 제어기의 성능 비교 결과는 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 10,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6263375282287598,
+          "doc_id": "175",
+          "text": "딥 러닝을 이용한 DC 모터 제어"
+        },
+        {
+          "rank": 2,
+          "score": 0.5673035979270935,
+          "doc_id": "25",
+          "text": "A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis"
+        },
+        {
+          "rank": 3,
+          "score": 0.5673035979270935,
+          "doc_id": "74",
+          "text": "A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis"
+        },
+        {
+          "rank": 4,
+          "score": 0.5585529804229736,
+          "doc_id": "155",
+          "text": "Machine Learning Versus Deep Learning Performances on the Sentiment Analysis of Product Reviews"
+        },
+        {
+          "rank": 5,
+          "score": 0.5434069037437439,
+          "doc_id": "50",
+          "text": "Deep Learning 프레임워크 성능 비교 연구 : Cloud Computing 환경에서"
+        },
+        {
+          "rank": 6,
+          "score": 0.5420647859573364,
+          "doc_id": "220",
+          "text": "딥 러닝기반 고객평점 예측모델"
+        },
+        {
+          "rank": 7,
+          "score": 0.5400808453559875,
+          "doc_id": "130",
+          "text": "딥러닝을 이용한 포트홀 검출 시스템"
+        },
+        {
+          "rank": 8,
+          "score": 0.5394892692565918,
+          "doc_id": "123",
+          "text": "딥러닝의 모형과 응용사례"
+        },
+        {
+          "rank": 9,
+          "score": 0.5352814197540283,
+          "doc_id": "200",
+          "text": "딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발"
+        },
+        {
+          "rank": 10,
+          "score": 0.5337978601455688,
+          "doc_id": "104",
+          "text": "Deep learning"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}
