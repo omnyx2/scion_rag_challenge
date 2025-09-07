@@ -1,0 +1,131 @@
+{
+  "id": "row_000039",
+  "model_name": "BAAI/bge-m3",
+  "timestamp_kst": "2025-09-07T12:22:11.692771+09:00",
+  "trial_id": "316fa6d5",
+  "queries": [
+    {
+      "query": "국방 IT융합 비즈니스 모델 유형과 핵심 프로세스를 간략히 정리해 주세요.",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 5,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6366347074508667,
+          "doc_id": "98",
+          "text": "국방 IT융합 비즈니스 모델 사례와 성과 분석 국방 IT융합 비즈니스 모델 사례와 성과 분석 국방 IT융합 비즈니스 모델 사례와 성과 분석 Information technology (IT) convergence have been recognized one of the key drivers in the industry perspective. Especially, IT convergence have been one of the most important innovative way for defense sector. Korea government established IT convergence policy in 2008 and have been applying it to the core industry such as automotive, shipbuilding and defense industries. Recently, the creative vitamin project has been launched. Vitamin 'D' means the way to create the value of defense industry. This research analyzes and evaluates various IT convergence business models based on an operation of defense IT convergence center from 2011 to 2014, which is the industry IT convergence centers. Defense IT convergence business models can be classified into four types of mission area as follows : weapon acquisition and management, military intelligence, military power construction, and resources management. We define the concept of defense IT convergence and describe the framework and processes for applying IT to the defense sector. We analyzes and evaluates various business models designed through defense IT convergence framework and processes."
+        },
+        {
+          "rank": 2,
+          "score": 0.6182519793510437,
+          "doc_id": "96",
+          "text": "국방IT융합 추진방법론 및 사례 연구 국방IT융합 추진방법론 및 사례 연구 국방IT융합 추진방법론 및 사례 연구 Information technology convergence has been recognized one of the key drivers in the industry perspective. Korea government established IT convergence policy in 2008 and has been implementing it to the core industry such as automotive, shipbuilding and defense industries. This research analyzes various IT convergence issues based on an operation of defense IT convergence center, one of the industry IT convergence centers. Defense IT convergence issues are as follows : the methods for introducing rapid changing IT to military area, rapid deployment procedures of verified commercial technologies and products, regulations for using of domestic software promotion and so on. We define the concept of defense IT convergence and propose the framework and processes for applying IT to our defense sector as one of industries. Also, we establish various business models in the military perspective using defense IT convergence framework. In this paper, we focus the development of defense IT convergence through the alignment of national IT convergence policy and propose various business models established through operating a defense IT convergence center."
+        },
+        {
+          "rank": 3,
+          "score": 0.6028103828430176,
+          "doc_id": "145",
+          "text": "IT기업 관점에서의 국방IT융합 추진방향 IT기업 관점에서의 국방IT융합 추진방향 IT기업 관점에서의 국방IT융합 추진방향 IT convergence technology can boost the advancement of weapon systems and efficient operation for the military reformation in Korea. This study investigated IT firms' concern about the defense acquisition process for IT-convergent systems and the role of IT firms in the process with Focus Group Interview and in-depth interview on executives of IT firms, and classified the concern to three major issues. They are the clarification of IT firms' role in the defense IT-convergent efforts, the establishment of the control tower for defense IT convergence, and reasonable estimation of software development cost in the defense acquisition process."
+        },
+        {
+          "rank": 4,
+          "score": 0.5849898457527161,
+          "doc_id": "16",
+          "text": "국방IT융합기술의 발전전략에 관한 연구 국방IT융합기술의 발전전략에 관한 연구 국방IT융합기술의 발전전략에 관한 연구 국방IT융합이란 네트워크중심전(Network Centric Warfare) 개념을 실현하기 위해 새로운 IT 융합기술을 개발하여 실제 전력화하는 것이다. 국방부는 창조경제 시대적 사명인 국방IT융합발전을 위해 국방기술품질원의 국방IT융합 센터를 전담기관으로 지정하였고 융합센터를 중심으로 국방IT융합 과제 발굴을 위한 산 학 연구기관과 군 소요조사, 사전 기술기획 활동하며 국방 도메인 전문가로 구성된 과제기획팀 운영과 선진 기획방법 적용 등을 통해 민간IT 신기술의 적기 도입을 중점적으로 추진하고 있다. 이에 따라 국방IT융합 발전을 위해 국가IT융합 정책 추진과 국방IT융합기술 현상을 이론적으로 고찰하고 종합적으로 분석한 뒤 효과적으로 활용할 수 있는 발전전략이 절실히 요구된다. 본 논문은 국방IT융합발전을 위해 식별된 IT융합 과제를 단계화 추진하고 신설된 국방IT융합센터의 효율성을 제고하며 국방개혁과 연계된 IT융합인재 육성방안을 제시함으로써 스마트 국방을 조기에 달성하고 패러다임의 신속한 전환과 창조경제 구현에도 크게 기여할 것이다."
+        },
+        {
+          "rank": 5,
+          "score": 0.5276648998260498,
+          "doc_id": "146",
+          "text": "미래 IT융합 신산업 육성 및 선도방안 미래 IT융합 신산업 육성 및 선도방안 미래 IT융합 신산업 육성 및 선도방안 IT는 한국의 경제성장에 큰 기여를 해왔으며 사회전반의 패러다임 혁신을 통해 생산성, 효율성, 편의성, 소통성을 증진시키고 삶의 양식에 전면적 변화를 가져왔다. 국민경제와 사회문화에서 지대한 의미를 지나는 IT는 다른 기술 또는 산업과의 융합이라는 새로운 변화와 혁신의 중심에 위치하고 있다. IT융합은 IT의 자체 고도화를 바탕으로 다른 분야의 기술개발과 산업발전을 견인하거나 새로운 산업을 창출하는 것으로 우리나라를 비롯하며 주요국에서는 자원과 역량을 선택적으로 집중하고 있다. 이 논문에서는 IT 융합과 관련된 주요국의 산업 전략 및 기술개발 동향을 파악하고 전문가 설문조사결과를 바탕으로 한국의 IT 융합역량의 수준을 평가하고 결론적으로 IT융합신산업육성 및 선도방안에 관한 전략적 제언을 하고자 한다."
+        }
+      ]
+    },
+    {
+      "query": "국방 IT융합 비즈니스 모델의 유형은 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 5,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6396654844284058,
+          "doc_id": "98",
+          "text": "국방 IT융합 비즈니스 모델 사례와 성과 분석 국방 IT융합 비즈니스 모델 사례와 성과 분석 국방 IT융합 비즈니스 모델 사례와 성과 분석 Information technology (IT) convergence have been recognized one of the key drivers in the industry perspective. Especially, IT convergence have been one of the most important innovative way for defense sector. Korea government established IT convergence policy in 2008 and have been applying it to the core industry such as automotive, shipbuilding and defense industries. Recently, the creative vitamin project has been launched. Vitamin 'D' means the way to create the value of defense industry. This research analyzes and evaluates various IT convergence business models based on an operation of defense IT convergence center from 2011 to 2014, which is the industry IT convergence centers. Defense IT convergence business models can be classified into four types of mission area as follows : weapon acquisition and management, military intelligence, military power construction, and resources management. We define the concept of defense IT convergence and describe the framework and processes for applying IT to the defense sector. We analyzes and evaluates various business models designed through defense IT convergence framework and processes."
+        },
+        {
+          "rank": 2,
+          "score": 0.5933485627174377,
+          "doc_id": "96",
+          "text": "국방IT융합 추진방법론 및 사례 연구 국방IT융합 추진방법론 및 사례 연구 국방IT융합 추진방법론 및 사례 연구 Information technology convergence has been recognized one of the key drivers in the industry perspective. Korea government established IT convergence policy in 2008 and has been implementing it to the core industry such as automotive, shipbuilding and defense industries. This research analyzes various IT convergence issues based on an operation of defense IT convergence center, one of the industry IT convergence centers. Defense IT convergence issues are as follows : the methods for introducing rapid changing IT to military area, rapid deployment procedures of verified commercial technologies and products, regulations for using of domestic software promotion and so on. We define the concept of defense IT convergence and propose the framework and processes for applying IT to our defense sector as one of industries. Also, we establish various business models in the military perspective using defense IT convergence framework. In this paper, we focus the development of defense IT convergence through the alignment of national IT convergence policy and propose various business models established through operating a defense IT convergence center."
+        },
+        {
+          "rank": 3,
+          "score": 0.5642157793045044,
+          "doc_id": "16",
+          "text": "국방IT융합기술의 발전전략에 관한 연구 국방IT융합기술의 발전전략에 관한 연구 국방IT융합기술의 발전전략에 관한 연구 국방IT융합이란 네트워크중심전(Network Centric Warfare) 개념을 실현하기 위해 새로운 IT 융합기술을 개발하여 실제 전력화하는 것이다. 국방부는 창조경제 시대적 사명인 국방IT융합발전을 위해 국방기술품질원의 국방IT융합 센터를 전담기관으로 지정하였고 융합센터를 중심으로 국방IT융합 과제 발굴을 위한 산 학 연구기관과 군 소요조사, 사전 기술기획 활동하며 국방 도메인 전문가로 구성된 과제기획팀 운영과 선진 기획방법 적용 등을 통해 민간IT 신기술의 적기 도입을 중점적으로 추진하고 있다. 이에 따라 국방IT융합 발전을 위해 국가IT융합 정책 추진과 국방IT융합기술 현상을 이론적으로 고찰하고 종합적으로 분석한 뒤 효과적으로 활용할 수 있는 발전전략이 절실히 요구된다. 본 논문은 국방IT융합발전을 위해 식별된 IT융합 과제를 단계화 추진하고 신설된 국방IT융합센터의 효율성을 제고하며 국방개혁과 연계된 IT융합인재 육성방안을 제시함으로써 스마트 국방을 조기에 달성하고 패러다임의 신속한 전환과 창조경제 구현에도 크게 기여할 것이다."
+        },
+        {
+          "rank": 4,
+          "score": 0.5594105124473572,
+          "doc_id": "145",
+          "text": "IT기업 관점에서의 국방IT융합 추진방향 IT기업 관점에서의 국방IT융합 추진방향 IT기업 관점에서의 국방IT융합 추진방향 IT convergence technology can boost the advancement of weapon systems and efficient operation for the military reformation in Korea. This study investigated IT firms' concern about the defense acquisition process for IT-convergent systems and the role of IT firms in the process with Focus Group Interview and in-depth interview on executives of IT firms, and classified the concern to three major issues. They are the clarification of IT firms' role in the defense IT-convergent efforts, the establishment of the control tower for defense IT convergence, and reasonable estimation of software development cost in the defense acquisition process."
+        },
+        {
+          "rank": 5,
+          "score": 0.5067799091339111,
+          "doc_id": "56",
+          "text": "IT 컨버전스기술 기반의 지역 방재정보통신산업 도출 IT 컨버전스기술 기반의 지역 방재정보통신산업 도출 IT 컨버전스기술 기반의 지역 방재정보통신산업 도출 본 연구에서는 IT 선도 기술의 동향을 분석하고 IT 컨버전스 산업의 방향을 분석하였다. 또한 특정 지역의 산업 및 기술동향을 분석하여 산업간 융합을 통한 신산업 도출방법을 제안 하였는 바, 지역별 특수성을 분석하기 위하여 산업정책, 지역기반 산업과 IT 산업 그리고 인프라 등 과 같은 현황을 고려하였다. 결과적으로, 지역사업화 매력도와 사업화 경쟁력을 고려한 육성 사업군이 선정된 바, 방재산업과 연계된 방재정보통신 산업 모델을 제안한다."
+        }
+      ]
+    },
+    {
+      "query": "국방 IT융합 비즈니스 모델의 핵심 프로세스는 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 5,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6362876892089844,
+          "doc_id": "98",
+          "text": "국방 IT융합 비즈니스 모델 사례와 성과 분석 국방 IT융합 비즈니스 모델 사례와 성과 분석 국방 IT융합 비즈니스 모델 사례와 성과 분석 Information technology (IT) convergence have been recognized one of the key drivers in the industry perspective. Especially, IT convergence have been one of the most important innovative way for defense sector. Korea government established IT convergence policy in 2008 and have been applying it to the core industry such as automotive, shipbuilding and defense industries. Recently, the creative vitamin project has been launched. Vitamin 'D' means the way to create the value of defense industry. This research analyzes and evaluates various IT convergence business models based on an operation of defense IT convergence center from 2011 to 2014, which is the industry IT convergence centers. Defense IT convergence business models can be classified into four types of mission area as follows : weapon acquisition and management, military intelligence, military power construction, and resources management. We define the concept of defense IT convergence and describe the framework and processes for applying IT to the defense sector. We analyzes and evaluates various business models designed through defense IT convergence framework and processes."
+        },
+        {
+          "rank": 2,
+          "score": 0.6091960668563843,
+          "doc_id": "96",
+          "text": "국방IT융합 추진방법론 및 사례 연구 국방IT융합 추진방법론 및 사례 연구 국방IT융합 추진방법론 및 사례 연구 Information technology convergence has been recognized one of the key drivers in the industry perspective. Korea government established IT convergence policy in 2008 and has been implementing it to the core industry such as automotive, shipbuilding and defense industries. This research analyzes various IT convergence issues based on an operation of defense IT convergence center, one of the industry IT convergence centers. Defense IT convergence issues are as follows : the methods for introducing rapid changing IT to military area, rapid deployment procedures of verified commercial technologies and products, regulations for using of domestic software promotion and so on. We define the concept of defense IT convergence and propose the framework and processes for applying IT to our defense sector as one of industries. Also, we establish various business models in the military perspective using defense IT convergence framework. In this paper, we focus the development of defense IT convergence through the alignment of national IT convergence policy and propose various business models established through operating a defense IT convergence center."
+        },
+        {
+          "rank": 3,
+          "score": 0.6050106883049011,
+          "doc_id": "145",
+          "text": "IT기업 관점에서의 국방IT융합 추진방향 IT기업 관점에서의 국방IT융합 추진방향 IT기업 관점에서의 국방IT융합 추진방향 IT convergence technology can boost the advancement of weapon systems and efficient operation for the military reformation in Korea. This study investigated IT firms' concern about the defense acquisition process for IT-convergent systems and the role of IT firms in the process with Focus Group Interview and in-depth interview on executives of IT firms, and classified the concern to three major issues. They are the clarification of IT firms' role in the defense IT-convergent efforts, the establishment of the control tower for defense IT convergence, and reasonable estimation of software development cost in the defense acquisition process."
+        },
+        {
+          "rank": 4,
+          "score": 0.590349555015564,
+          "doc_id": "16",
+          "text": "국방IT융합기술의 발전전략에 관한 연구 국방IT융합기술의 발전전략에 관한 연구 국방IT융합기술의 발전전략에 관한 연구 국방IT융합이란 네트워크중심전(Network Centric Warfare) 개념을 실현하기 위해 새로운 IT 융합기술을 개발하여 실제 전력화하는 것이다. 국방부는 창조경제 시대적 사명인 국방IT융합발전을 위해 국방기술품질원의 국방IT융합 센터를 전담기관으로 지정하였고 융합센터를 중심으로 국방IT융합 과제 발굴을 위한 산 학 연구기관과 군 소요조사, 사전 기술기획 활동하며 국방 도메인 전문가로 구성된 과제기획팀 운영과 선진 기획방법 적용 등을 통해 민간IT 신기술의 적기 도입을 중점적으로 추진하고 있다. 이에 따라 국방IT융합 발전을 위해 국가IT융합 정책 추진과 국방IT융합기술 현상을 이론적으로 고찰하고 종합적으로 분석한 뒤 효과적으로 활용할 수 있는 발전전략이 절실히 요구된다. 본 논문은 국방IT융합발전을 위해 식별된 IT융합 과제를 단계화 추진하고 신설된 국방IT융합센터의 효율성을 제고하며 국방개혁과 연계된 IT융합인재 육성방안을 제시함으로써 스마트 국방을 조기에 달성하고 패러다임의 신속한 전환과 창조경제 구현에도 크게 기여할 것이다."
+        },
+        {
+          "rank": 5,
+          "score": 0.5124463438987732,
+          "doc_id": "146",
+          "text": "미래 IT융합 신산업 육성 및 선도방안 미래 IT융합 신산업 육성 및 선도방안 미래 IT융합 신산업 육성 및 선도방안 IT는 한국의 경제성장에 큰 기여를 해왔으며 사회전반의 패러다임 혁신을 통해 생산성, 효율성, 편의성, 소통성을 증진시키고 삶의 양식에 전면적 변화를 가져왔다. 국민경제와 사회문화에서 지대한 의미를 지나는 IT는 다른 기술 또는 산업과의 융합이라는 새로운 변화와 혁신의 중심에 위치하고 있다. IT융합은 IT의 자체 고도화를 바탕으로 다른 분야의 기술개발과 산업발전을 견인하거나 새로운 산업을 창출하는 것으로 우리나라를 비롯하며 주요국에서는 자원과 역량을 선택적으로 집중하고 있다. 이 논문에서는 IT 융합과 관련된 주요국의 산업 전략 및 기술개발 동향을 파악하고 전문가 설문조사결과를 바탕으로 한국의 IT 융합역량의 수준을 평가하고 결론적으로 IT융합신산업육성 및 선도방안에 관한 전략적 제언을 하고자 한다."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

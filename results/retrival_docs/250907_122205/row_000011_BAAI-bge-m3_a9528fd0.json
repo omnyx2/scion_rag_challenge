@@ -1,0 +1,171 @@
+{
+  "id": "row_000011",
+  "model_name": "BAAI/bge-m3",
+  "timestamp_kst": "2025-09-07T12:22:07.298038+09:00",
+  "trial_id": "a9528fd0",
+  "queries": [
+    {
+      "query": "How would you summarize the proposed enabling framework for achieving the second Sustainable Development Goal, emphasizing the role of data sharing and near real-time analytics?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 5,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.630542516708374,
+          "doc_id": "7",
+          "text": "Keynote speech 6: Big Data, IoT and the 2nd sustainable development goal Keynote speech 6: Big Data, IoT and the 2nd sustainable development goal Keynote speech 6: Big Data, IoT and the 2nd sustainable development goal The risks associated with the global food system are widely acknowledged and implicate a complex nexus of factors including increasing population, changing diets, erosion of natural capital, uncertain future climate, food price fluctuations, growing economic disparity and differential access to sufficient safe and nutritious food. The second sustainable development goal (SDG2) aims to address these challenges in every country to ensure not only that we eradicate global hunger, but also that everyone has access to safe and nutritious food that is produced in an environmentally, socially and economically sustainable manner. SDG2 creates an unprecedented challenge to overcome the complexity of coordinating interventions that span the whole food chain (more accurately, `food network') and engage a bewildering breadth of individuals, stakeholders and agencies. The Sustainable Development Solutions Network recommends a generic enabling framework for SDG2 that connects the various stakeholders, and indicates the feedbacks and information flows that are needed to ensure effective execution. This platform is broadly relevant to all countries irrespective of their development status. A clear requirement for the success of this framework is the availability and free exchange of data, together with near real-time analytics on that data to create the necessary knowledge flows. The potential role of data-driven innovation in implementing the enabling framework in developing and western economies will be discussed using various case studies. The opportunities for deploying existing and new kinds of sensor and networking technologies will be explored. This will include the potential role of IoT and Big Data related technologies and an evaluation of the feasibilities and risks associated with their deployment. The presentation will conclude with a set of requirements and a summary of recommendations for future priorities."
+        },
+        {
+          "rank": 2,
+          "score": 0.5333083271980286,
+          "doc_id": "199",
+          "text": "Sharing big biomedical data Sharing big biomedical data Sharing big biomedical data BackgroundThe promise of Big Biomedical Data may be offset by the enormous challenges in handling, analyzing, and sharing it. In this paper, we provide a framework for developing practical and reasonable data sharing policies that incorporate the sociological, financial, technical and scientific requirements of a sustainable Big Data dependent scientific community.FindingsMany biomedical and healthcare studies may be significantly impacted by using large, heterogeneous and incongruent datasets; however there are significant technical, social, regulatory, and institutional barriers that need to be overcome to ensure the power of Big Data overcomes these detrimental factors.ConclusionsPragmatic policies that demand extensive sharing of data, promotion of data fusion, provenance, interoperability and balance security and protection of personal information are critical for the long term impact of translational Big Data analytics."
+        },
+        {
+          "rank": 3,
+          "score": 0.5294368267059326,
+          "doc_id": "126",
+          "text": "Exploring Big Data Governance Frameworks Exploring Big Data Governance Frameworks Exploring Big Data Governance Frameworks Abstract The recent explosion in ICT and digital data has led organizations, both private and public, to efficient decision-making. Nowadays organizations can store huge amounts of data, which can be accessible at any time. Big Data governance refers to the management of huge volumes of an organization&rsquo;s data, exploiting it in the organization&rsquo;s decision-making using different analytical tools. Big Data emergence provides great convenience, but it also brings challenges. Nevertheless, for Big Data governance, data has to be prepared in a timely manner, keeping in view the consistency and reliability of the data, and being able to trust its source and the meaningfulness of the result. Hence, a framework for Big Data governance would have many advantages. There are Big Data governance frameworks, which guide the management of Big Data. However, there are also limitations associated with these frameworks. Therefore, this study aims to explore the existing Big Data governance frameworks and their shortcomings, and propose a new framework. The proposed framework consists of eight components. As a framework validation, the proposed framework has been compared with the ISO 8000 data governance framework."
+        },
+        {
+          "rank": 4,
+          "score": 0.5209126472473145,
+          "doc_id": "88",
+          "text": "Machine learning on Big Data Machine learning on Big Data Machine learning on Big Data Statistical Machine Learning has undergone a phase transition from a pure academic endeavor to being one of the main drivers of modern commerce and science. Even more so, recent results such as those on tera-scale learning [1] and on very large neural networks [2] suggest that scale is an important ingredient in quality modeling. This tutorial introduces current applications, techniques and systems with the aim of cross-fertilizing research between the database and machine learning communities. The tutorial covers current large scale applications of Machine Learning, their computational model and the workflow behind building those. Based on this foundation, we present the current state-of-the-art in systems support in the bulk of the tutorial. We also identify critical gaps in the state-of-the-art. This leads to the closing of the seminar, where we introduce two sets of open research questions: Better systems support for the already established use cases of Machine Learning and support for recent advances in Machine Learning research."
+        },
+        {
+          "rank": 5,
+          "score": 0.5114766955375671,
+          "doc_id": "62",
+          "text": "Utilization and Analysis of Big-data Utilization and Analysis of Big-data Utilization and Analysis of Big-data This study reviews the analysis and characteristics of databases from big data and then establishes representational strategy. Thus, analysis has continued for a long time in the quantity and quality of data, and there are changes in the location of data in the social sciences, past trends and the emergence of big data. The introduction of big data is presented as a prototype of new social science and is a useful practical example that empirically shows the need, basis, and direction of analysis through trend prediction services. Big data provides a future perspective as an important foundation for social change within the framework of basic social sciences."
+        }
+      ]
+    },
+    {
+      "query": "What is the proposed enabling framework for achieving the second Sustainable Development Goal?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 5,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5838590860366821,
+          "doc_id": "7",
+          "text": "Keynote speech 6: Big Data, IoT and the 2nd sustainable development goal Keynote speech 6: Big Data, IoT and the 2nd sustainable development goal Keynote speech 6: Big Data, IoT and the 2nd sustainable development goal The risks associated with the global food system are widely acknowledged and implicate a complex nexus of factors including increasing population, changing diets, erosion of natural capital, uncertain future climate, food price fluctuations, growing economic disparity and differential access to sufficient safe and nutritious food. The second sustainable development goal (SDG2) aims to address these challenges in every country to ensure not only that we eradicate global hunger, but also that everyone has access to safe and nutritious food that is produced in an environmentally, socially and economically sustainable manner. SDG2 creates an unprecedented challenge to overcome the complexity of coordinating interventions that span the whole food chain (more accurately, `food network') and engage a bewildering breadth of individuals, stakeholders and agencies. The Sustainable Development Solutions Network recommends a generic enabling framework for SDG2 that connects the various stakeholders, and indicates the feedbacks and information flows that are needed to ensure effective execution. This platform is broadly relevant to all countries irrespective of their development status. A clear requirement for the success of this framework is the availability and free exchange of data, together with near real-time analytics on that data to create the necessary knowledge flows. The potential role of data-driven innovation in implementing the enabling framework in developing and western economies will be discussed using various case studies. The opportunities for deploying existing and new kinds of sensor and networking technologies will be explored. This will include the potential role of IoT and Big Data related technologies and an evaluation of the feasibilities and risks associated with their deployment. The presentation will conclude with a set of requirements and a summary of recommendations for future priorities."
+        },
+        {
+          "rank": 2,
+          "score": 0.45567673444747925,
+          "doc_id": "126",
+          "text": "Exploring Big Data Governance Frameworks Exploring Big Data Governance Frameworks Exploring Big Data Governance Frameworks Abstract The recent explosion in ICT and digital data has led organizations, both private and public, to efficient decision-making. Nowadays organizations can store huge amounts of data, which can be accessible at any time. Big Data governance refers to the management of huge volumes of an organization&rsquo;s data, exploiting it in the organization&rsquo;s decision-making using different analytical tools. Big Data emergence provides great convenience, but it also brings challenges. Nevertheless, for Big Data governance, data has to be prepared in a timely manner, keeping in view the consistency and reliability of the data, and being able to trust its source and the meaningfulness of the result. Hence, a framework for Big Data governance would have many advantages. There are Big Data governance frameworks, which guide the management of Big Data. However, there are also limitations associated with these frameworks. Therefore, this study aims to explore the existing Big Data governance frameworks and their shortcomings, and propose a new framework. The proposed framework consists of eight components. As a framework validation, the proposed framework has been compared with the ISO 8000 data governance framework."
+        },
+        {
+          "rank": 3,
+          "score": 0.4528175890445709,
+          "doc_id": "214",
+          "text": "An Efficient Parallel Machine Learning-based Blockchain Framework An Efficient Parallel Machine Learning-based Blockchain Framework An Efficient Parallel Machine Learning-based Blockchain Framework The unlimited possibilities of machine learning have been shown in several successful reports and applications. However, how to make sure that the searched results of a machine learning system are not tampered by anyone and how to prevent the other users in the same network environment from easily getting our private data are two critical research issues when we immerse into powerful machine learning-based systems or applications. This situation is just like other modern information systems that confront security and privacy issues. The development of blockchain provides us an alternative way to address these two issues. That is why some recent studies have attempted to develop machine learning systems with blockchain technologies or to apply machine learning methods to blockchain systems. To show what the combination of blockchain and machine learning is capable of doing, in this paper, we proposed a parallel framework to find out suitable hyperparameters of deep learning in a blockchain environment by using a metaheuristic algorithm. The proposed framework also takes into account the issue of communication cost, by limiting the number of information exchanges between miners and blockchain."
+        },
+        {
+          "rank": 4,
+          "score": 0.42141884565353394,
+          "doc_id": "200",
+          "text": "딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 본 논문에서는 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조를 개발한다. 제안하는 복합 미생물 배양기는 수집한 복합 미생물 데이터에 대해 복합 미생물 데이터 전처리, 복합 미생물 데이터 구조 변환, 딥러닝 네트워크 설계, 설계한 딥러닝 네트워크 학습, 시제품에 적용되는 GUI 개발 등으로 구성된다. 복합 미생물 데이터 전처리에서는 미생물 배양에 필요한 당밀, 영양제, 식물엑기스, 소금 등의 양에 대해 원-핫 인코딩을 실시하며, 배양된 결과로 측정된 pH 농도와 미생물의 셀 수에 대해 최대-최소 정규화 방법을 사용하여 데이터를 전처리한다. 복합 미생물 데이터 구조 변환에서는 전처리된 데이터를 물 온도와 미생물의 셀 수를 연결하여 그래프 구조로 변환 후, 인접 행렬과 속성 정보로 나타내어 딥러닝 네트워크의 입력 데이터로 사용한다. 딥러닝 네트워크 설계에서는 그래프 구조에 특화된 그래프 합성곱 네트워크를 설계하여 복합 미생물 데이터를 학습시킨다. 설계한 딥러닝 네트워크는 Cosine 손실함수를 사용하여 학습 시에 발생하는 오차를 최소화하는 방향으로 학습을 진행한다. 시제품에 적용되는 GUI 개발은 사용자가 선택하는 물 온도에 따라 목표하는 pH 농도(3.8 이하) 복합 미생물의 셀 수(108 이상)를 배양시키기 적합한 순으로 나타낸다. 제안된 미생물 배양기의 성능을 평가하기 위하여 공인시험기관에서 실험한 결과는, pH 농도의 경우 평균 3.7로, 복합 미생물의 셀 수는 1.7 &#x00D7; 108으로 측정되었다. 따라서, 본 논문에서 제안한 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조의 효용성이 입증되었다."
+        },
+        {
+          "rank": 5,
+          "score": 0.4187493920326233,
+          "doc_id": "26",
+          "text": "Design a personalized recommendation system using deep learning and reinforcement learning Design a personalized recommendation system using deep learning and reinforcement learning Design a personalized recommendation system using deep learning and reinforcement learning As the E-commerce market grows, the importance of personalized recommendation systems is increasing. Existing collaborative filtering and content-based filtering methods have shown a certain level of performance, but they have limitations such as cold start, data sparseness, and lack of long-term pattern learning. In this study, we design a matching system that combines a hybrid recommendation system and hyper-personalization technology and propose an efficient recommendation system. The core of the study is to develop a recommendation model that can improve recommendation accuracy and increase user satisfaction compared to existing systems. The proposed elements are as follows. First, the hybrid-hyper-personalization matching system provides recommendation accuracy compared to existing methods. Second, we propose an optimal product matching model that reflects user context using real-time data. Third, we optimize Personalized Recommendation System using deep learning and reinforcement learning. Fourth, we present a method to objectively evaluate recommendation performance through A/B testing."
+        }
+      ]
+    },
+    {
+      "query": "What is the role of data sharing within this framework?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 5,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5388514399528503,
+          "doc_id": "126",
+          "text": "Exploring Big Data Governance Frameworks Exploring Big Data Governance Frameworks Exploring Big Data Governance Frameworks Abstract The recent explosion in ICT and digital data has led organizations, both private and public, to efficient decision-making. Nowadays organizations can store huge amounts of data, which can be accessible at any time. Big Data governance refers to the management of huge volumes of an organization&rsquo;s data, exploiting it in the organization&rsquo;s decision-making using different analytical tools. Big Data emergence provides great convenience, but it also brings challenges. Nevertheless, for Big Data governance, data has to be prepared in a timely manner, keeping in view the consistency and reliability of the data, and being able to trust its source and the meaningfulness of the result. Hence, a framework for Big Data governance would have many advantages. There are Big Data governance frameworks, which guide the management of Big Data. However, there are also limitations associated with these frameworks. Therefore, this study aims to explore the existing Big Data governance frameworks and their shortcomings, and propose a new framework. The proposed framework consists of eight components. As a framework validation, the proposed framework has been compared with the ISO 8000 data governance framework."
+        },
+        {
+          "rank": 2,
+          "score": 0.5267282724380493,
+          "doc_id": "199",
+          "text": "Sharing big biomedical data Sharing big biomedical data Sharing big biomedical data BackgroundThe promise of Big Biomedical Data may be offset by the enormous challenges in handling, analyzing, and sharing it. In this paper, we provide a framework for developing practical and reasonable data sharing policies that incorporate the sociological, financial, technical and scientific requirements of a sustainable Big Data dependent scientific community.FindingsMany biomedical and healthcare studies may be significantly impacted by using large, heterogeneous and incongruent datasets; however there are significant technical, social, regulatory, and institutional barriers that need to be overcome to ensure the power of Big Data overcomes these detrimental factors.ConclusionsPragmatic policies that demand extensive sharing of data, promotion of data fusion, provenance, interoperability and balance security and protection of personal information are critical for the long term impact of translational Big Data analytics."
+        },
+        {
+          "rank": 3,
+          "score": 0.5235097408294678,
+          "doc_id": "140",
+          "text": "Sharing Big Data Sharing Big Data Sharing Big Data Macromolecular Big Data provide numerous challenges and a number of initiatives that are starting to overcome these issues are discussed."
+        },
+        {
+          "rank": 4,
+          "score": 0.5010809302330017,
+          "doc_id": "88",
+          "text": "Machine learning on Big Data Machine learning on Big Data Machine learning on Big Data Statistical Machine Learning has undergone a phase transition from a pure academic endeavor to being one of the main drivers of modern commerce and science. Even more so, recent results such as those on tera-scale learning [1] and on very large neural networks [2] suggest that scale is an important ingredient in quality modeling. This tutorial introduces current applications, techniques and systems with the aim of cross-fertilizing research between the database and machine learning communities. The tutorial covers current large scale applications of Machine Learning, their computational model and the workflow behind building those. Based on this foundation, we present the current state-of-the-art in systems support in the bulk of the tutorial. We also identify critical gaps in the state-of-the-art. This leads to the closing of the seminar, where we introduce two sets of open research questions: Better systems support for the already established use cases of Machine Learning and support for recent advances in Machine Learning research."
+        },
+        {
+          "rank": 5,
+          "score": 0.49446916580200195,
+          "doc_id": "62",
+          "text": "Utilization and Analysis of Big-data Utilization and Analysis of Big-data Utilization and Analysis of Big-data This study reviews the analysis and characteristics of databases from big data and then establishes representational strategy. Thus, analysis has continued for a long time in the quantity and quality of data, and there are changes in the location of data in the social sciences, past trends and the emergence of big data. The introduction of big data is presented as a prototype of new social science and is a useful practical example that empirically shows the need, basis, and direction of analysis through trend prediction services. Big data provides a future perspective as an important foundation for social change within the framework of basic social sciences."
+        }
+      ]
+    },
+    {
+      "query": "What is the role of near real-time analytics within this framework?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 2
+      },
+      "top_k": 5,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.48618805408477783,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence Information retrieval and artificial intelligence Information retrieval and artificial intelligence AbstractThis paper addresses the relations between information retrieval (IR) and AI. It examines document retrieval, summarising its essential features and illustrating the state of its art by presenting one probabilistic model in detail, with some test results showing its value. The paper then analyses this model and related successful approaches, concentrating on and justifying their use of weak, redundant representation and reasoning. It goes on to other information management tasks and considers how the concepts and methods developed for retrieval may be applied to these, concluding by arguing that such ways of dealing with information may also have wider relevance to AI."
+        },
+        {
+          "rank": 2,
+          "score": 0.4742469787597656,
+          "doc_id": "126",
+          "text": "Exploring Big Data Governance Frameworks Exploring Big Data Governance Frameworks Exploring Big Data Governance Frameworks Abstract The recent explosion in ICT and digital data has led organizations, both private and public, to efficient decision-making. Nowadays organizations can store huge amounts of data, which can be accessible at any time. Big Data governance refers to the management of huge volumes of an organization&rsquo;s data, exploiting it in the organization&rsquo;s decision-making using different analytical tools. Big Data emergence provides great convenience, but it also brings challenges. Nevertheless, for Big Data governance, data has to be prepared in a timely manner, keeping in view the consistency and reliability of the data, and being able to trust its source and the meaningfulness of the result. Hence, a framework for Big Data governance would have many advantages. There are Big Data governance frameworks, which guide the management of Big Data. However, there are also limitations associated with these frameworks. Therefore, this study aims to explore the existing Big Data governance frameworks and their shortcomings, and propose a new framework. The proposed framework consists of eight components. As a framework validation, the proposed framework has been compared with the ISO 8000 data governance framework."
+        },
+        {
+          "rank": 3,
+          "score": 0.47174638509750366,
+          "doc_id": "62",
+          "text": "Utilization and Analysis of Big-data Utilization and Analysis of Big-data Utilization and Analysis of Big-data This study reviews the analysis and characteristics of databases from big data and then establishes representational strategy. Thus, analysis has continued for a long time in the quantity and quality of data, and there are changes in the location of data in the social sciences, past trends and the emergence of big data. The introduction of big data is presented as a prototype of new social science and is a useful practical example that empirically shows the need, basis, and direction of analysis through trend prediction services. Big data provides a future perspective as an important foundation for social change within the framework of basic social sciences."
+        },
+        {
+          "rank": 4,
+          "score": 0.4675358235836029,
+          "doc_id": "88",
+          "text": "Machine learning on Big Data Machine learning on Big Data Machine learning on Big Data Statistical Machine Learning has undergone a phase transition from a pure academic endeavor to being one of the main drivers of modern commerce and science. Even more so, recent results such as those on tera-scale learning [1] and on very large neural networks [2] suggest that scale is an important ingredient in quality modeling. This tutorial introduces current applications, techniques and systems with the aim of cross-fertilizing research between the database and machine learning communities. The tutorial covers current large scale applications of Machine Learning, their computational model and the workflow behind building those. Based on this foundation, we present the current state-of-the-art in systems support in the bulk of the tutorial. We also identify critical gaps in the state-of-the-art. This leads to the closing of the seminar, where we introduce two sets of open research questions: Better systems support for the already established use cases of Machine Learning and support for recent advances in Machine Learning research."
+        },
+        {
+          "rank": 5,
+          "score": 0.4594619572162628,
+          "doc_id": "34",
+          "text": "Supporting Privacy-Preserving Big Data Analytics on Temporal Open Big Data Supporting Privacy-Preserving Big Data Analytics on Temporal Open Big Data Supporting Privacy-Preserving Big Data Analytics on Temporal Open Big Data Abstract Nowadays, valuable big data are generated and collected rapidly from numerous rich data sources. Following the initiatives of open data, many organizations including municipal governments are willing to share their data such as open big data regarding parking violations. While there have been models to preserve privacy of sensitive personal data like patient data for health informatics, privacy of individuals who violated parking regulations should also be protected. Hence, in this article, we present a model for supporting privacy-preserving big data analytics on temporal open big data. This temporally hierarchical privacy-preserving model (THPPM) adapts and extends the traditional temporal hierarchy to generalize spatial data generated within a time interval with an aim to preserve privacy of individuals who violated parking regulations during some time intervals at certain geographic locations. Evaluation on open big data from two North American cities demonstrates the usefulness of our model in supporting privacy-preserving big data analytics on temporal open big data."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

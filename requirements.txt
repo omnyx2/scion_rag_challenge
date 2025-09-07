@@ -1,0 +1,11 @@
+torch
+transformers
+datasets
+numpy
+pandas
+scikit-learn
+matplotlib 
+tqdm
+kagglehub
+jsonlines
+sentence_transformers

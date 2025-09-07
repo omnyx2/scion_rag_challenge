@@ -1,0 +1,5 @@
+{"id": "row_000016", "mode": "decompose", "original_question": "Big Data를 이용한 Warehouse Management System 모델에서 제시된 핵심 개념과 방향을 요약해 주시겠습니까?", 
+"single_hop_questions": [
+    "Big Data를 이용한 Warehouse Management System 모델의 핵심 개념은 무엇입니까?", 
+    "Big Data를 이용한 Warehouse Management System 모델에서 제시된 방향은 무엇입니까?"
+], "meta": {"model": "gemini-2.5-flash", "temperature": 0.2}}

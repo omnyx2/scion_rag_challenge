@@ -1,0 +1,131 @@
+{
+  "id": "row_000016",
+  "model_name": "BAAI/bge-m3",
+  "timestamp_kst": "2025-09-07T12:22:07.941167+09:00",
+  "trial_id": "72c86bc3",
+  "queries": [
+    {
+      "query": "Big Data를 이용한 Warehouse Management System 모델에서 제시된 핵심 개념과 방향을 요약해 주시겠습니까?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 5,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6287750005722046,
+          "doc_id": "227",
+          "text": "Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 본 연구는 오늘날 산업 전반적으로 영향을 미치고 있는 디지탈 전환(Digital Transformation)의 기술 환경과 디지탈 전환의 산업적 창고관리 부분의 모델연구가 본 논문의 목적이다. &amp;#xD; &amp;#xD; 디지털 전환은 오랫동안 디지털화와 비슷하거나 또는 디지털 방식으로 저장할 수 있도록 기존 데이터 형태를 전환하는 것과 관련이 있다. 물론 이 점이 중요하긴 하지만, 이전의 디지털화는 최신 디지털 전환의 영역을 포함하지 않았었다.&amp;#xD; &amp;#xD; 특히 이번 연구에서는 Big Data를 중심으로 Warehouse Management System의 방향을 제시 하고자 한다."
+        },
+        {
+          "rank": 2,
+          "score": 0.5635029077529907,
+          "doc_id": "66",
+          "text": "Big Building Data - a Big Data Platform for Smart Buildings Big Building Data - a Big Data Platform for Smart Buildings Big Building Data - a Big Data Platform for Smart Buildings Abstract Future buildings will more and more rely on advanced Building Management Systems (BMS) connected to a variety of sensors, actuators and dedicated networks. Their objectives are to observe the state of rooms and apply automated rules to preserve or increase comfort while economizing energy. In this work, we advocate for the inclusion of a dedicated system for sensors data storage and processing, based on Big Data technologies. This choice enables new potentials in terms of data analytics and applications development, the most obvious one being the ability to scale up seamlessly from one smart building to several, in the direction of smart areas and smart cities. We report in this paper on our system architecture and on several challenges we met in its elaboration, attempting to meet requirements of scalability, data processing, flexibility, interoperability and privacy. We also describe current and future end-user services that our platform will support, including historical data retrieval, visualisation, processing and alarms. The platform, called BBData - Big Building Data, is currently in production at the Smart Living Lab of Fribourg and is offered to several research teams to ease their work, to foster the sharing of historical data and to avoid that each project develops its own data gathering and processing pipeline."
+        },
+        {
+          "rank": 3,
+          "score": 0.5504871606826782,
+          "doc_id": "126",
+          "text": "Exploring Big Data Governance Frameworks Exploring Big Data Governance Frameworks Exploring Big Data Governance Frameworks Abstract The recent explosion in ICT and digital data has led organizations, both private and public, to efficient decision-making. Nowadays organizations can store huge amounts of data, which can be accessible at any time. Big Data governance refers to the management of huge volumes of an organization&rsquo;s data, exploiting it in the organization&rsquo;s decision-making using different analytical tools. Big Data emergence provides great convenience, but it also brings challenges. Nevertheless, for Big Data governance, data has to be prepared in a timely manner, keeping in view the consistency and reliability of the data, and being able to trust its source and the meaningfulness of the result. Hence, a framework for Big Data governance would have many advantages. There are Big Data governance frameworks, which guide the management of Big Data. However, there are also limitations associated with these frameworks. Therefore, this study aims to explore the existing Big Data governance frameworks and their shortcomings, and propose a new framework. The proposed framework consists of eight components. As a framework validation, the proposed framework has been compared with the ISO 8000 data governance framework."
+        },
+        {
+          "rank": 4,
+          "score": 0.5351829528808594,
+          "doc_id": "88",
+          "text": "Machine learning on Big Data Machine learning on Big Data Machine learning on Big Data Statistical Machine Learning has undergone a phase transition from a pure academic endeavor to being one of the main drivers of modern commerce and science. Even more so, recent results such as those on tera-scale learning [1] and on very large neural networks [2] suggest that scale is an important ingredient in quality modeling. This tutorial introduces current applications, techniques and systems with the aim of cross-fertilizing research between the database and machine learning communities. The tutorial covers current large scale applications of Machine Learning, their computational model and the workflow behind building those. Based on this foundation, we present the current state-of-the-art in systems support in the bulk of the tutorial. We also identify critical gaps in the state-of-the-art. This leads to the closing of the seminar, where we introduce two sets of open research questions: Better systems support for the already established use cases of Machine Learning and support for recent advances in Machine Learning research."
+        },
+        {
+          "rank": 5,
+          "score": 0.5227871537208557,
+          "doc_id": "120",
+          "text": "Big Data Key Challenges Big Data Key Challenges Big Data Key Challenges The big data term refers to the great volume of data and complicated data structure with difficulties in collecting, storing, processing, and analyzing these data. Big data analytics refers to the operation of disclosing hidden patterns through big data. This information and data set cloud to be useful and provide advanced services. However, analyzing and processing this information could cause revealing and disclosing some sensitive and personal information when the information is contained in applications that are correlated to users such as location-based services, but concerns are diminished if the applications are correlated to general information such as scientific results. In this work, a survey has been done over security and privacy challenges and approaches in big data. The challenges included here are in each of the following areas: privacy, access control, encryption, and authentication in big data. Likewise, the approaches presented here are privacy-preserving approaches in big data, access control approaches in big data, encryption approaches in big data, and authentication approaches in big data."
+        }
+      ]
+    },
+    {
+      "query": "Big Data를 이용한 Warehouse Management System 모델의 핵심 개념은 무엇입니까?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 5,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6448937654495239,
+          "doc_id": "227",
+          "text": "Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 본 연구는 오늘날 산업 전반적으로 영향을 미치고 있는 디지탈 전환(Digital Transformation)의 기술 환경과 디지탈 전환의 산업적 창고관리 부분의 모델연구가 본 논문의 목적이다. &amp;#xD; &amp;#xD; 디지털 전환은 오랫동안 디지털화와 비슷하거나 또는 디지털 방식으로 저장할 수 있도록 기존 데이터 형태를 전환하는 것과 관련이 있다. 물론 이 점이 중요하긴 하지만, 이전의 디지털화는 최신 디지털 전환의 영역을 포함하지 않았었다.&amp;#xD; &amp;#xD; 특히 이번 연구에서는 Big Data를 중심으로 Warehouse Management System의 방향을 제시 하고자 한다."
+        },
+        {
+          "rank": 2,
+          "score": 0.5680207014083862,
+          "doc_id": "66",
+          "text": "Big Building Data - a Big Data Platform for Smart Buildings Big Building Data - a Big Data Platform for Smart Buildings Big Building Data - a Big Data Platform for Smart Buildings Abstract Future buildings will more and more rely on advanced Building Management Systems (BMS) connected to a variety of sensors, actuators and dedicated networks. Their objectives are to observe the state of rooms and apply automated rules to preserve or increase comfort while economizing energy. In this work, we advocate for the inclusion of a dedicated system for sensors data storage and processing, based on Big Data technologies. This choice enables new potentials in terms of data analytics and applications development, the most obvious one being the ability to scale up seamlessly from one smart building to several, in the direction of smart areas and smart cities. We report in this paper on our system architecture and on several challenges we met in its elaboration, attempting to meet requirements of scalability, data processing, flexibility, interoperability and privacy. We also describe current and future end-user services that our platform will support, including historical data retrieval, visualisation, processing and alarms. The platform, called BBData - Big Building Data, is currently in production at the Smart Living Lab of Fribourg and is offered to several research teams to ease their work, to foster the sharing of historical data and to avoid that each project develops its own data gathering and processing pipeline."
+        },
+        {
+          "rank": 3,
+          "score": 0.5401643514633179,
+          "doc_id": "88",
+          "text": "Machine learning on Big Data Machine learning on Big Data Machine learning on Big Data Statistical Machine Learning has undergone a phase transition from a pure academic endeavor to being one of the main drivers of modern commerce and science. Even more so, recent results such as those on tera-scale learning [1] and on very large neural networks [2] suggest that scale is an important ingredient in quality modeling. This tutorial introduces current applications, techniques and systems with the aim of cross-fertilizing research between the database and machine learning communities. The tutorial covers current large scale applications of Machine Learning, their computational model and the workflow behind building those. Based on this foundation, we present the current state-of-the-art in systems support in the bulk of the tutorial. We also identify critical gaps in the state-of-the-art. This leads to the closing of the seminar, where we introduce two sets of open research questions: Better systems support for the already established use cases of Machine Learning and support for recent advances in Machine Learning research."
+        },
+        {
+          "rank": 4,
+          "score": 0.5314531326293945,
+          "doc_id": "126",
+          "text": "Exploring Big Data Governance Frameworks Exploring Big Data Governance Frameworks Exploring Big Data Governance Frameworks Abstract The recent explosion in ICT and digital data has led organizations, both private and public, to efficient decision-making. Nowadays organizations can store huge amounts of data, which can be accessible at any time. Big Data governance refers to the management of huge volumes of an organization&rsquo;s data, exploiting it in the organization&rsquo;s decision-making using different analytical tools. Big Data emergence provides great convenience, but it also brings challenges. Nevertheless, for Big Data governance, data has to be prepared in a timely manner, keeping in view the consistency and reliability of the data, and being able to trust its source and the meaningfulness of the result. Hence, a framework for Big Data governance would have many advantages. There are Big Data governance frameworks, which guide the management of Big Data. However, there are also limitations associated with these frameworks. Therefore, this study aims to explore the existing Big Data governance frameworks and their shortcomings, and propose a new framework. The proposed framework consists of eight components. As a framework validation, the proposed framework has been compared with the ISO 8000 data governance framework."
+        },
+        {
+          "rank": 5,
+          "score": 0.5212624669075012,
+          "doc_id": "120",
+          "text": "Big Data Key Challenges Big Data Key Challenges Big Data Key Challenges The big data term refers to the great volume of data and complicated data structure with difficulties in collecting, storing, processing, and analyzing these data. Big data analytics refers to the operation of disclosing hidden patterns through big data. This information and data set cloud to be useful and provide advanced services. However, analyzing and processing this information could cause revealing and disclosing some sensitive and personal information when the information is contained in applications that are correlated to users such as location-based services, but concerns are diminished if the applications are correlated to general information such as scientific results. In this work, a survey has been done over security and privacy challenges and approaches in big data. The challenges included here are in each of the following areas: privacy, access control, encryption, and authentication in big data. Likewise, the approaches presented here are privacy-preserving approaches in big data, access control approaches in big data, encryption approaches in big data, and authentication approaches in big data."
+        }
+      ]
+    },
+    {
+      "query": "Big Data를 이용한 Warehouse Management System 모델에서 제시된 방향은 무엇입니까?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 5,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6623793840408325,
+          "doc_id": "227",
+          "text": "Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 본 연구는 오늘날 산업 전반적으로 영향을 미치고 있는 디지탈 전환(Digital Transformation)의 기술 환경과 디지탈 전환의 산업적 창고관리 부분의 모델연구가 본 논문의 목적이다. &amp;#xD; &amp;#xD; 디지털 전환은 오랫동안 디지털화와 비슷하거나 또는 디지털 방식으로 저장할 수 있도록 기존 데이터 형태를 전환하는 것과 관련이 있다. 물론 이 점이 중요하긴 하지만, 이전의 디지털화는 최신 디지털 전환의 영역을 포함하지 않았었다.&amp;#xD; &amp;#xD; 특히 이번 연구에서는 Big Data를 중심으로 Warehouse Management System의 방향을 제시 하고자 한다."
+        },
+        {
+          "rank": 2,
+          "score": 0.6059062480926514,
+          "doc_id": "66",
+          "text": "Big Building Data - a Big Data Platform for Smart Buildings Big Building Data - a Big Data Platform for Smart Buildings Big Building Data - a Big Data Platform for Smart Buildings Abstract Future buildings will more and more rely on advanced Building Management Systems (BMS) connected to a variety of sensors, actuators and dedicated networks. Their objectives are to observe the state of rooms and apply automated rules to preserve or increase comfort while economizing energy. In this work, we advocate for the inclusion of a dedicated system for sensors data storage and processing, based on Big Data technologies. This choice enables new potentials in terms of data analytics and applications development, the most obvious one being the ability to scale up seamlessly from one smart building to several, in the direction of smart areas and smart cities. We report in this paper on our system architecture and on several challenges we met in its elaboration, attempting to meet requirements of scalability, data processing, flexibility, interoperability and privacy. We also describe current and future end-user services that our platform will support, including historical data retrieval, visualisation, processing and alarms. The platform, called BBData - Big Building Data, is currently in production at the Smart Living Lab of Fribourg and is offered to several research teams to ease their work, to foster the sharing of historical data and to avoid that each project develops its own data gathering and processing pipeline."
+        },
+        {
+          "rank": 3,
+          "score": 0.5641809701919556,
+          "doc_id": "88",
+          "text": "Machine learning on Big Data Machine learning on Big Data Machine learning on Big Data Statistical Machine Learning has undergone a phase transition from a pure academic endeavor to being one of the main drivers of modern commerce and science. Even more so, recent results such as those on tera-scale learning [1] and on very large neural networks [2] suggest that scale is an important ingredient in quality modeling. This tutorial introduces current applications, techniques and systems with the aim of cross-fertilizing research between the database and machine learning communities. The tutorial covers current large scale applications of Machine Learning, their computational model and the workflow behind building those. Based on this foundation, we present the current state-of-the-art in systems support in the bulk of the tutorial. We also identify critical gaps in the state-of-the-art. This leads to the closing of the seminar, where we introduce two sets of open research questions: Better systems support for the already established use cases of Machine Learning and support for recent advances in Machine Learning research."
+        },
+        {
+          "rank": 4,
+          "score": 0.5501916408538818,
+          "doc_id": "126",
+          "text": "Exploring Big Data Governance Frameworks Exploring Big Data Governance Frameworks Exploring Big Data Governance Frameworks Abstract The recent explosion in ICT and digital data has led organizations, both private and public, to efficient decision-making. Nowadays organizations can store huge amounts of data, which can be accessible at any time. Big Data governance refers to the management of huge volumes of an organization&rsquo;s data, exploiting it in the organization&rsquo;s decision-making using different analytical tools. Big Data emergence provides great convenience, but it also brings challenges. Nevertheless, for Big Data governance, data has to be prepared in a timely manner, keeping in view the consistency and reliability of the data, and being able to trust its source and the meaningfulness of the result. Hence, a framework for Big Data governance would have many advantages. There are Big Data governance frameworks, which guide the management of Big Data. However, there are also limitations associated with these frameworks. Therefore, this study aims to explore the existing Big Data governance frameworks and their shortcomings, and propose a new framework. The proposed framework consists of eight components. As a framework validation, the proposed framework has been compared with the ISO 8000 data governance framework."
+        },
+        {
+          "rank": 5,
+          "score": 0.5498387813568115,
+          "doc_id": "62",
+          "text": "Utilization and Analysis of Big-data Utilization and Analysis of Big-data Utilization and Analysis of Big-data This study reviews the analysis and characteristics of databases from big data and then establishes representational strategy. Thus, analysis has continued for a long time in the quantity and quality of data, and there are changes in the location of data in the social sciences, past trends and the emergence of big data. The introduction of big data is presented as a prototype of new social science and is a useful practical example that empirically shows the need, basis, and direction of analysis through trend prediction services. Big data provides a future perspective as an important foundation for social change within the framework of basic social sciences."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

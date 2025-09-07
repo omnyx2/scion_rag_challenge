@@ -1,0 +1,171 @@
+{
+  "id": "row_000002",
+  "model_name": "BAAI/bge-m3",
+  "timestamp_kst": "2025-09-07T12:22:05.924411+09:00",
+  "trial_id": "5f143f4b",
+  "queries": [
+    {
+      "query": "How do artificial neural networks employ weight matrices and vector mappings to relate inputs and outputs in applied linguistics?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 5,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6921506524085999,
+          "doc_id": "153",
+          "text": "Artificial Intelligence, Language Intelligence, and Mathematics Artificial Intelligence, Language Intelligence, and Mathematics Artificial Intelligence, Language Intelligence, and Mathematics Artificial neural networks(ANN) has provided a theoretical framework on the study of human behavior/cognition and artificial intelligence. This article aims to introduce ANN and its mathematical principle to the field of applied linguistics. An ANN consists of input, hidden, and output vectors and the vectors are connected to one another by weight matrices. Mapping from input to output is accounted for by simple matrix multiplication."
+        },
+        {
+          "rank": 2,
+          "score": 0.5330308675765991,
+          "doc_id": "102",
+          "text": "Application of Deep Learning in Dentistry and Implantology Application of Deep Learning in Dentistry and Implantology Application of Deep Learning in Dentistry and Implantology Artificial intelligence and deep learning algorithms are infiltrating various fields of medicine and dentistry. The purpose of the current study was to review literatures applying deep learning algorithms to the dentistry and implantology. Electronic literature search through MEDLINE and IEEE Xplore library database was performed at 2019 October by combining free-text terms and entry terms associated with ‘dentistry’ and ‘deep learning’. The searched literature was screened by title/abstract level and full text level. Following data were extracted from the included studies: information of author, publication year, the aim of the study, architecture of deep learning, input data, output data, and performance of the deep learning algorithm in the study. 340 studies were retrieved from the databases and 62 studies were included in the study. Deep learning algorithms were applied to tooth localization and numbering, detection of dental caries/periodontal disease/periapical disease/oral cancerous lesion, localization of cephalometric landmarks, image quality enhancement, prediction and compensation of deformation error in additive manufacturing of prosthesis. Convolutional neural network was used for periapical radiograph, panoramic radiograph, or computed tomography in most of included studies. Deep learning algorithms are expected to help clinicians diagnose and make decisions by extracting dental data, detecting diseases and abnormal lesions, and improving image quality."
+        },
+        {
+          "rank": 3,
+          "score": 0.5277196764945984,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence Information retrieval and artificial intelligence Information retrieval and artificial intelligence AbstractThis paper addresses the relations between information retrieval (IR) and AI. It examines document retrieval, summarising its essential features and illustrating the state of its art by presenting one probabilistic model in detail, with some test results showing its value. The paper then analyses this model and related successful approaches, concentrating on and justifying their use of weak, redundant representation and reasoning. It goes on to other information management tasks and considers how the concepts and methods developed for retrieval may be applied to these, concluding by arguing that such ways of dealing with information may also have wider relevance to AI."
+        },
+        {
+          "rank": 4,
+          "score": 0.5135414600372314,
+          "doc_id": "219",
+          "text": "인공지능(Artificial Intelligence)과 대학수학교육 인공지능(Artificial Intelligence)과 대학수학교육 인공지능(Artificial Intelligence)과 대학수학교육 첨단 정보통신기술(ICT)인 인공지능(AI), 사물인터넷(IoT), 빅데이터(Big Data) 등이 사회와 경제 전반에 융합돼 혁신적인 변화가 일어나는 요즘, 헬스케어, 지능형 로봇, 가정용 인공지능 시스템(스마트홈), 공유자동차 등은 이미 우리 생활에 깊이 영향을 미치고 있다. 이미 오래전부터 공장에서는 로봇이 사람 대신 일을 하고 있으며(FA, OA), 인공지능 의사도 병원에서 활동을 하고 있고(Dr. Watson), 인공지능 스피커(기가지니)와 인공지능 비서인 구글 어시스턴트가 자연어생성을 하며 우리를 돕고 있다. 이제 인공지능을 이해하는 것은 필수가 되었으며, 인공지능을 이해하기 위해서 수학의 지식은 선택이 아니라 필수가 되었다. 따라서 이런 일들을 가능하게 해주는 수학지식을 설명하는 역할이 수학자들에게 주어졌다. 이에 본 연구진은 인공지능과 머신러닝(Machine Learning, 기계학습)을 이해하기 위해 필요한 수학 개념을 우리의 실정에 맞게 한 학기(또는 두 학기) 분량으로 정리하여, 무료 전자교과서 '인공지능을 위한 기초수학'을 집필하고, 인공지능 분야에 관심이 있는 다양한 전공의 대학생과 대학원생을 대상으로 하는 강좌를 개설하였다. 본 논문에서는 그 개발과정과 운영사례를 공유한다. http://matrix.skku.ac.kr/math4ai/"
+        },
+        {
+          "rank": 5,
+          "score": 0.5118959546089172,
+          "doc_id": "0",
+          "text": "Logic and artificial intelligence Logic and artificial intelligence Logic and artificial intelligence The theoretical foundations of the logical approach to artificial intelligence are presented. Logical languages are widely used for expressing the declarative knowledge needed in artificial intelligence systems. Symbolic logic also provides a clear semantics for knowledge representation languages and a methodology for analyzing and comparing deductive inference techniques. Several observations gained from experience with the approach are discussed. Finally, we confront some challenging problems for artificial intelligence and describe what is being done in an attempt to solve them."
+        }
+      ]
+    },
+    {
+      "query": "What is the role of weight matrices in artificial neural networks?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 5,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.529965877532959,
+          "doc_id": "153",
+          "text": "Artificial Intelligence, Language Intelligence, and Mathematics Artificial Intelligence, Language Intelligence, and Mathematics Artificial Intelligence, Language Intelligence, and Mathematics Artificial neural networks(ANN) has provided a theoretical framework on the study of human behavior/cognition and artificial intelligence. This article aims to introduce ANN and its mathematical principle to the field of applied linguistics. An ANN consists of input, hidden, and output vectors and the vectors are connected to one another by weight matrices. Mapping from input to output is accounted for by simple matrix multiplication."
+        },
+        {
+          "rank": 2,
+          "score": 0.47219446301460266,
+          "doc_id": "219",
+          "text": "인공지능(Artificial Intelligence)과 대학수학교육 인공지능(Artificial Intelligence)과 대학수학교육 인공지능(Artificial Intelligence)과 대학수학교육 첨단 정보통신기술(ICT)인 인공지능(AI), 사물인터넷(IoT), 빅데이터(Big Data) 등이 사회와 경제 전반에 융합돼 혁신적인 변화가 일어나는 요즘, 헬스케어, 지능형 로봇, 가정용 인공지능 시스템(스마트홈), 공유자동차 등은 이미 우리 생활에 깊이 영향을 미치고 있다. 이미 오래전부터 공장에서는 로봇이 사람 대신 일을 하고 있으며(FA, OA), 인공지능 의사도 병원에서 활동을 하고 있고(Dr. Watson), 인공지능 스피커(기가지니)와 인공지능 비서인 구글 어시스턴트가 자연어생성을 하며 우리를 돕고 있다. 이제 인공지능을 이해하는 것은 필수가 되었으며, 인공지능을 이해하기 위해서 수학의 지식은 선택이 아니라 필수가 되었다. 따라서 이런 일들을 가능하게 해주는 수학지식을 설명하는 역할이 수학자들에게 주어졌다. 이에 본 연구진은 인공지능과 머신러닝(Machine Learning, 기계학습)을 이해하기 위해 필요한 수학 개념을 우리의 실정에 맞게 한 학기(또는 두 학기) 분량으로 정리하여, 무료 전자교과서 '인공지능을 위한 기초수학'을 집필하고, 인공지능 분야에 관심이 있는 다양한 전공의 대학생과 대학원생을 대상으로 하는 강좌를 개설하였다. 본 논문에서는 그 개발과정과 운영사례를 공유한다. http://matrix.skku.ac.kr/math4ai/"
+        },
+        {
+          "rank": 3,
+          "score": 0.4570271670818329,
+          "doc_id": "167",
+          "text": "Deep Learning 기반의 폐기물 선별 Vision 시스템 개발 Deep Learning 기반의 폐기물 선별 Vision 시스템 개발 Deep Learning 기반의 폐기물 선별 Vision 시스템 개발 Recently, with the development of industry and the improvement of living standards, various wastes are generated along with the production of various products. Most of these wastes are used as containers for products, and plastic or aluminum is used. Various attempts are being made to automate the classification of these wastes due to the high labor cost, but most of them are solved by manpower due to the geometrical shape change due to the nature of the waste. In this study, in order to automate the waste sorting task, Deep Learning technology is applied to a robot system for waste sorting and a vision system for waste sorting to effectively perform sorting tasks according to the shape of waste. As a result of the experiment, a Deep Learning parameter suitable for waste sorting was selected. In addition, through various experiments, it was confirmed that 99% of wastes could be selected in individual & group image learning. It is expected that this will enable automation of the waste sorting operation."
+        },
+        {
+          "rank": 4,
+          "score": 0.4550372362136841,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence Information retrieval and artificial intelligence Information retrieval and artificial intelligence AbstractThis paper addresses the relations between information retrieval (IR) and AI. It examines document retrieval, summarising its essential features and illustrating the state of its art by presenting one probabilistic model in detail, with some test results showing its value. The paper then analyses this model and related successful approaches, concentrating on and justifying their use of weak, redundant representation and reasoning. It goes on to other information management tasks and considers how the concepts and methods developed for retrieval may be applied to these, concluding by arguing that such ways of dealing with information may also have wider relevance to AI."
+        },
+        {
+          "rank": 5,
+          "score": 0.44691377878189087,
+          "doc_id": "204",
+          "text": "Artificial intelligence and Big Data in neurology Artificial intelligence and Big Data in neurology Artificial intelligence and Big Data in neurology ABSTRACTRecent advances in technology have allowed us access to a multitude of datasets pertaining to various dimensions in neurology. Together with the enormous opportunities, we also face challenges related to data quality, ethics and intrinsic difficulties related to the application of data science in healthcare. In this article we will describe the main advances in the field of artificial intelligence and Big Data applied to neurology with a focus on neurosciences based on medical images. Real-World Data (RWD) and analytics related to large volumes of information will be described as well as some of the most relevant scientific initiatives at the time of this writing."
+        }
+      ]
+    },
+    {
+      "query": "What is the role of vector mappings in artificial neural networks?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 5,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5118597745895386,
+          "doc_id": "153",
+          "text": "Artificial Intelligence, Language Intelligence, and Mathematics Artificial Intelligence, Language Intelligence, and Mathematics Artificial Intelligence, Language Intelligence, and Mathematics Artificial neural networks(ANN) has provided a theoretical framework on the study of human behavior/cognition and artificial intelligence. This article aims to introduce ANN and its mathematical principle to the field of applied linguistics. An ANN consists of input, hidden, and output vectors and the vectors are connected to one another by weight matrices. Mapping from input to output is accounted for by simple matrix multiplication."
+        },
+        {
+          "rank": 2,
+          "score": 0.49726393818855286,
+          "doc_id": "195",
+          "text": "Deep Contour Recovery: Repairing Breaks in Detected Contours using Deep Learning Deep Contour Recovery: Repairing Breaks in Detected Contours using Deep Learning Deep Contour Recovery: Repairing Breaks in Detected Contours using Deep Learning We present a contour recovery framework based on a deep learning model to connect broken contours (breaks) produced by contour detection methods. The idea is that the convolutional neural network iteratively predicts vectors that can grow along the direction of the true contour from the end points of the breaks. For this prediction, we use residual connections training, which models continuous predictions from the previous inference. However, conventional residual connections training is prone to gradually accumulating errors at each inference step. In this work, we propose a ground truth selection algorithm and sub-iteration training to efficiently and reliably train a deep learning model. The ground truth selection extracts a small set of coordinates to represent an actual contour. The sub-iteration training creates the next input that is predicted by additional training of a network replicated from the main network. Our experimental results demonstrate that the ground truth selection creates a ground truth suitable for contour recovery. Moreover, our approach improves the performance of contour detection when applied to the results of existing representative contour detection methods."
+        },
+        {
+          "rank": 3,
+          "score": 0.4664011597633362,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence Information retrieval and artificial intelligence Information retrieval and artificial intelligence AbstractThis paper addresses the relations between information retrieval (IR) and AI. It examines document retrieval, summarising its essential features and illustrating the state of its art by presenting one probabilistic model in detail, with some test results showing its value. The paper then analyses this model and related successful approaches, concentrating on and justifying their use of weak, redundant representation and reasoning. It goes on to other information management tasks and considers how the concepts and methods developed for retrieval may be applied to these, concluding by arguing that such ways of dealing with information may also have wider relevance to AI."
+        },
+        {
+          "rank": 4,
+          "score": 0.45411306619644165,
+          "doc_id": "179",
+          "text": "Deep Structured Learning: Architectures and Applications Deep Structured Learning: Architectures and Applications Deep Structured Learning: Architectures and Applications Deep learning, a sub-field of machine learning changing the prospects of artificial intelligence (AI) because of its recent advancements and application in various field. Deep learning deals with algorithms inspired by the structure and function of the brain called artificial neural networks. This works reviews basic architecture and recent advancement of deep structured learning. It also describes contemporary applications of deep structured learning and its advantages over the treditional learning in artificial interlligence. This study is useful for the general readers and students who are in the early stage of deep learning studies."
+        },
+        {
+          "rank": 5,
+          "score": 0.4498628079891205,
+          "doc_id": "202",
+          "text": "Machine learning Machine learning Machine learning A short review of research and applications in machine learning is given. Rather than attempt to cover all areas of ML, the focus is on its role in building expert systems, its approach to classification problems and ML methods of learning control. A relatively new area, inductive logic programming, is also discussed."
+        }
+      ]
+    },
+    {
+      "query": "How do artificial neural networks utilize weight matrices and vector mappings to relate inputs and outputs in applied linguistics?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 2
+      },
+      "top_k": 5,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6932002305984497,
+          "doc_id": "153",
+          "text": "Artificial Intelligence, Language Intelligence, and Mathematics Artificial Intelligence, Language Intelligence, and Mathematics Artificial Intelligence, Language Intelligence, and Mathematics Artificial neural networks(ANN) has provided a theoretical framework on the study of human behavior/cognition and artificial intelligence. This article aims to introduce ANN and its mathematical principle to the field of applied linguistics. An ANN consists of input, hidden, and output vectors and the vectors are connected to one another by weight matrices. Mapping from input to output is accounted for by simple matrix multiplication."
+        },
+        {
+          "rank": 2,
+          "score": 0.5337680578231812,
+          "doc_id": "102",
+          "text": "Application of Deep Learning in Dentistry and Implantology Application of Deep Learning in Dentistry and Implantology Application of Deep Learning in Dentistry and Implantology Artificial intelligence and deep learning algorithms are infiltrating various fields of medicine and dentistry. The purpose of the current study was to review literatures applying deep learning algorithms to the dentistry and implantology. Electronic literature search through MEDLINE and IEEE Xplore library database was performed at 2019 October by combining free-text terms and entry terms associated with ‘dentistry’ and ‘deep learning’. The searched literature was screened by title/abstract level and full text level. Following data were extracted from the included studies: information of author, publication year, the aim of the study, architecture of deep learning, input data, output data, and performance of the deep learning algorithm in the study. 340 studies were retrieved from the databases and 62 studies were included in the study. Deep learning algorithms were applied to tooth localization and numbering, detection of dental caries/periodontal disease/periapical disease/oral cancerous lesion, localization of cephalometric landmarks, image quality enhancement, prediction and compensation of deformation error in additive manufacturing of prosthesis. Convolutional neural network was used for periapical radiograph, panoramic radiograph, or computed tomography in most of included studies. Deep learning algorithms are expected to help clinicians diagnose and make decisions by extracting dental data, detecting diseases and abnormal lesions, and improving image quality."
+        },
+        {
+          "rank": 3,
+          "score": 0.5273327827453613,
+          "doc_id": "207",
+          "text": "Information retrieval and artificial intelligence Information retrieval and artificial intelligence Information retrieval and artificial intelligence AbstractThis paper addresses the relations between information retrieval (IR) and AI. It examines document retrieval, summarising its essential features and illustrating the state of its art by presenting one probabilistic model in detail, with some test results showing its value. The paper then analyses this model and related successful approaches, concentrating on and justifying their use of weak, redundant representation and reasoning. It goes on to other information management tasks and considers how the concepts and methods developed for retrieval may be applied to these, concluding by arguing that such ways of dealing with information may also have wider relevance to AI."
+        },
+        {
+          "rank": 4,
+          "score": 0.5137850642204285,
+          "doc_id": "219",
+          "text": "인공지능(Artificial Intelligence)과 대학수학교육 인공지능(Artificial Intelligence)과 대학수학교육 인공지능(Artificial Intelligence)과 대학수학교육 첨단 정보통신기술(ICT)인 인공지능(AI), 사물인터넷(IoT), 빅데이터(Big Data) 등이 사회와 경제 전반에 융합돼 혁신적인 변화가 일어나는 요즘, 헬스케어, 지능형 로봇, 가정용 인공지능 시스템(스마트홈), 공유자동차 등은 이미 우리 생활에 깊이 영향을 미치고 있다. 이미 오래전부터 공장에서는 로봇이 사람 대신 일을 하고 있으며(FA, OA), 인공지능 의사도 병원에서 활동을 하고 있고(Dr. Watson), 인공지능 스피커(기가지니)와 인공지능 비서인 구글 어시스턴트가 자연어생성을 하며 우리를 돕고 있다. 이제 인공지능을 이해하는 것은 필수가 되었으며, 인공지능을 이해하기 위해서 수학의 지식은 선택이 아니라 필수가 되었다. 따라서 이런 일들을 가능하게 해주는 수학지식을 설명하는 역할이 수학자들에게 주어졌다. 이에 본 연구진은 인공지능과 머신러닝(Machine Learning, 기계학습)을 이해하기 위해 필요한 수학 개념을 우리의 실정에 맞게 한 학기(또는 두 학기) 분량으로 정리하여, 무료 전자교과서 '인공지능을 위한 기초수학'을 집필하고, 인공지능 분야에 관심이 있는 다양한 전공의 대학생과 대학원생을 대상으로 하는 강좌를 개설하였다. 본 논문에서는 그 개발과정과 운영사례를 공유한다. http://matrix.skku.ac.kr/math4ai/"
+        },
+        {
+          "rank": 5,
+          "score": 0.5120809078216553,
+          "doc_id": "0",
+          "text": "Logic and artificial intelligence Logic and artificial intelligence Logic and artificial intelligence The theoretical foundations of the logical approach to artificial intelligence are presented. Logical languages are widely used for expressing the declarative knowledge needed in artificial intelligence systems. Symbolic logic also provides a clear semantics for knowledge representation languages and a methodology for analyzing and comparing deductive inference techniques. Several observations gained from experience with the approach are discussed. Finally, we confront some challenging problems for artificial intelligence and describe what is being done in an attempt to solve them."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

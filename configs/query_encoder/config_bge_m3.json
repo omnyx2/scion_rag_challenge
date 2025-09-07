@@ -1,0 +1,13 @@
+{
+  "model_name": "BAAI/bge-m3",
+  "nickname": "bge_m3_test",
+  "embedding_dim": 1024,
+  "jsonl_path": "../data/expr/docs.jsonl",
+  "embedding_mode": "title+abstract",
+  "text_fields": [
+    "context"
+  ],
+  "output_dir": "../results/vectordb",
+  "output_format": "csv",
+  "output_file": "../results/vectordb/250906_153020/bge_m3_test_title_abstract_BAAI_bge-m3.csv"
+}

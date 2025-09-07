@@ -1,0 +1,171 @@
+{
+  "id": "row_000046",
+  "model_name": "BAAI/bge-m3",
+  "timestamp_kst": "2025-09-07T12:22:12.879475+09:00",
+  "trial_id": "5cfffc34",
+  "queries": [
+    {
+      "query": "Laplacian 변형 나이브 베이즈, 의사결정나무, 서포트 벡터 머신을 활용한 A₃ 아데노신 수용체 조절제 연구의 핵심 성과를 간결하게 정리해 주실 수 있나요?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 5,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.44317349791526794,
+          "doc_id": "213",
+          "text": "Artificial intelligence-driven radiomics: developing valuable radiomics signatures with the use of artificial intelligence Artificial intelligence-driven radiomics: developing valuable radiomics signatures with the use of artificial intelligence Artificial intelligence-driven radiomics: developing valuable radiomics signatures with the use of artificial intelligence AbstractThe advent of radiomics has revolutionized medical image analysis, affording the extraction of high dimensional quantitative data for the detailed examination of normal and abnormal tissues. Artificial intelligence (AI) can be used for the enhancement of a series of steps in the radiomics pipeline, from image acquisition and preprocessing, to segmentation, feature extraction, feature selection, and model development. The aim of this review is to present the most used AI methods for radiomics analysis, explaining the advantages and limitations of the methods. Some of the most prominent AI architectures mentioned in this review include Boruta, random forests, gradient boosting, generative adversarial networks, convolutional neural networks, and transformers. Employing these models in the process of radiomics analysis can significantly enhance the quality and effectiveness of the analysis, while addressing several limitations that can reduce the quality of predictions. Addressing these limitations can enable high quality clinical decisions and wider clinical adoption. Importantly, this review will aim to highlight how AI can assist radiomics in overcoming major bottlenecks in clinical implementation, ultimately improving the translation potential of the method."
+        },
+        {
+          "rank": 2,
+          "score": 0.43350541591644287,
+          "doc_id": "53",
+          "text": "Machine Learning and Deep Learning for the Pharmacogenomics of Antidepressant Treatments Machine Learning and Deep Learning for the Pharmacogenomics of Antidepressant Treatments Machine Learning and Deep Learning for the Pharmacogenomics of Antidepressant Treatments A growing body of evidence now proposes that machine learning and deep learning techniques can serve as a vital foundation for the pharmacogenomics of antidepressant treatments in patients with major depressive disorder (MDD).In this review, we focus on the latest developments for pharmacogenomics research using machine learning and deep learning approaches together with neuroimaging and multi-omics data. First, we review relevant pharmacogenomics studies that leverage numerous machine learning and deep learning techniques to determine treatment prediction and potential biomarkers for antidepressant treatments in MDD. In addition, we depict some neuroimaging pharmacogenomics studies that utilize various machine learning approaches to predict antidepressant treatment outcomes in MDD based on the integration of research on pharmacogenomics and neuroimaging. Moreover, we summarize the limitations in regard to the past pharmacogenomics studies of antidepressant treatments in MDD. Finally, we outline a discussion of challenges and directions for future research. In light of latest advancements in neuroimaging and multi-omics, various genomic variants and biomarkers associated with antidepressant treatments in MDD are being identified in pharmacogenomics research by employing machine learning and deep learning algorithms."
+        },
+        {
+          "rank": 3,
+          "score": 0.42621147632598877,
+          "doc_id": "123",
+          "text": "딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝은 인공신경망(neural network)이라는 인공지능분야의 모형이 발전된 형태로서, 계층구조로 이루어진 인공신경망의 내부계층(hidden layer)이 여러 단계로 이루어진 구조이다. 딥러닝에서의 주요 모형은 합성곱신경망(convolutional neural network), 순환신경망(recurrent neural network), 그리고 심층신뢰신경망(deep belief network)의 세가지라고 할 수 있다. 그 중에서 현재 흥미로운 연구가 많이 발표되어서 관심이 집중되고 있는 모형은 지도학습(supervised learning)모형인 처음 두 개의 모형이다. 따라서 본 논문에서는 지도학습모형의 가중치를 최적화하는 기본적인 방법인 오류역전파 알고리즘을 살펴본 뒤에 합성곱신경망과 순환신경망의 구조와 응용사례 등을 살펴보고자 한다. 본문에서 다루지 않은 모형인 심층신뢰신경망은 아직까지는 합성곱신경망 이나 순환신경망보다는 상대적으로 주목을 덜 받고 있다. 그러나 심층신뢰신경망은 CNN이나 RNN과는 달리 비지도학습(unsupervised learning)모형이며, 사람이나 동물은 관찰을 통해서 스스로 학습한다는 점에서 궁극적으로는 비지도학습모형이 더 많이 연구되어야 할 주제가 될 것이다."
+        },
+        {
+          "rank": 4,
+          "score": 0.424107164144516,
+          "doc_id": "195",
+          "text": "Deep Contour Recovery: Repairing Breaks in Detected Contours using Deep Learning Deep Contour Recovery: Repairing Breaks in Detected Contours using Deep Learning Deep Contour Recovery: Repairing Breaks in Detected Contours using Deep Learning We present a contour recovery framework based on a deep learning model to connect broken contours (breaks) produced by contour detection methods. The idea is that the convolutional neural network iteratively predicts vectors that can grow along the direction of the true contour from the end points of the breaks. For this prediction, we use residual connections training, which models continuous predictions from the previous inference. However, conventional residual connections training is prone to gradually accumulating errors at each inference step. In this work, we propose a ground truth selection algorithm and sub-iteration training to efficiently and reliably train a deep learning model. The ground truth selection extracts a small set of coordinates to represent an actual contour. The sub-iteration training creates the next input that is predicted by additional training of a network replicated from the main network. Our experimental results demonstrate that the ground truth selection creates a ground truth suitable for contour recovery. Moreover, our approach improves the performance of contour detection when applied to the results of existing representative contour detection methods."
+        },
+        {
+          "rank": 5,
+          "score": 0.4228271245956421,
+          "doc_id": "175",
+          "text": "딥 러닝을 이용한 DC 모터 제어 딥 러닝을 이용한 DC 모터 제어 딥 러닝을 이용한 DC 모터 제어 딥 러닝(deep learning)은 최근에 많이 알려지게 된 심층 인공신경망 알고리즘이다. 일반적인 인공신경망보다 은닉층의 개수와 뉴런의 개수를 확장시키고, 학습이 효율적으로 될 수 있게 알고리즘을 개선한 것이 가장 큰 특징이다. 이러한 특징을 활용하여 기존의 인공신경망으로 풀지 못했던 크고 복잡한 문제들을 해결할 수 있게 되었다. 음성인식, 손 글씨 인식, 얼굴 인식 등 복잡한 패턴인식과 분류에 관련된 다양한 분야에 대한 적용 연구가 활발히 진행되고 있다. 하지만 이러한 장점에도 불구하고, 아직까지 딥 러닝이 제어문제를 해결하기 위해 적용된 사례는 찾아보기 어렵다. 본 논문에서는 간단한 사례를 통해 딥 러닝의 제어문제에 대한 적용 가능성을 확인해 본다. 딥 러닝 알고리즘 중에서 가장 잘 알려진, 깊은 믿음 네트워크(deep belief network) 알고리즘을 사용하여 산업현장에서 가장 많이 사용되고 있는 PID 제어기를 모방하는 딥 러닝 제어기를 설계한다. DC 모터를 제어하는 시스템에서 PID 제어기에 들어오는 입력과 PID 제어기에서 나오는 출력값을 학습 데이터로 사용하여 딥 러닝으로 학습하는 방법을 사용한다. 시뮬레이션을 통해 제안한 딥 러닝 제어기와 PID 제어기를 비교하여 딥 러닝 알고리즘의 성능을 검증한다."
+        }
+      ]
+    },
+    {
+      "query": "A₃ 아데노신 수용체 조절제 연구에서 Laplacian 변형 나이브 베이즈를 활용하여 얻은 핵심 성과는 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 5,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.38710537552833557,
+          "doc_id": "213",
+          "text": "Artificial intelligence-driven radiomics: developing valuable radiomics signatures with the use of artificial intelligence Artificial intelligence-driven radiomics: developing valuable radiomics signatures with the use of artificial intelligence Artificial intelligence-driven radiomics: developing valuable radiomics signatures with the use of artificial intelligence AbstractThe advent of radiomics has revolutionized medical image analysis, affording the extraction of high dimensional quantitative data for the detailed examination of normal and abnormal tissues. Artificial intelligence (AI) can be used for the enhancement of a series of steps in the radiomics pipeline, from image acquisition and preprocessing, to segmentation, feature extraction, feature selection, and model development. The aim of this review is to present the most used AI methods for radiomics analysis, explaining the advantages and limitations of the methods. Some of the most prominent AI architectures mentioned in this review include Boruta, random forests, gradient boosting, generative adversarial networks, convolutional neural networks, and transformers. Employing these models in the process of radiomics analysis can significantly enhance the quality and effectiveness of the analysis, while addressing several limitations that can reduce the quality of predictions. Addressing these limitations can enable high quality clinical decisions and wider clinical adoption. Importantly, this review will aim to highlight how AI can assist radiomics in overcoming major bottlenecks in clinical implementation, ultimately improving the translation potential of the method."
+        },
+        {
+          "rank": 2,
+          "score": 0.38440126180648804,
+          "doc_id": "156",
+          "text": "눈 특징의 STFT 결합 영상과 deep learning을 이용한 감성 인식 눈 특징의 STFT 결합 영상과 deep learning을 이용한 감성 인식 눈 특징의 STFT 결합 영상과 deep learning을 이용한 감성 인식 최근 사용자의 요구를 이해하기 위해 인간-컴퓨터 상호작용 (HCI) 분야에서 다양한 연구가 수행되고 있다. HCI의 대표적인 기술 중 하나는 사용자 감정 인식이다. 감정의 중요성이 증대됨에 따라, 사용자의 감정을 인식하기 위해 얼굴 표정, 제스처, 음성신호, 생리신호, 안구특징 및 멀티 모달리티 (Multi-Modality) 신호를 특징으로 사용하는 방법들이 제안되고 있다. &amp;#xD; 특히, 안구 특징은 사용자가 의도적으로 제어할 수 없으며 컴퓨터가 무의식적인 특징들을 인식할 수 있기 때문에 감정인식에 적합하다. 또한 다양한 분야에 적용될 것으로 기대되는 가상현실과 증강현실을 위해 안구 특징에 기반한 감정인식 기술이 연구되어야 한다.&amp;#xD; 합성곱 신경망 (CNN)과 재귀 신경망 (RNN)과 같은 심층 학습 (Deep learning) 기술들이 다양한 분야에서 성공하고 있으며, 다양한 모달리티들을 이용하는 감정인식 연구에 적용되고 있다. 그러나 다른 모달리티들과 달리, 안구 특징만을 사용하는 심층 학습기반의 감정인식 연구는 매우 부족하다.&amp;#xD; 본 학위논문에서는 시간정보와 동공 크기와 눈 움직임 신호와 같은 안구 특징들만을 이용한 심층 학습 기반의 감정인식 방법을 제안한다.&amp;#xD; 그 과정은 다음과 같다. 먼저, 눈 깜빡임 또는 기술적인 결함으로 인해 발생되는 눈 크기 및 눈 움직임 신호들의 데이터 미획득 구간을 채우기 위한 보간을 수행한다. 그 후 데이터의 길이와 범위를 일치시키기 위해, 신호의 시간과 각 피실험자의 신호들에 대해 정규화를 수행한다. 다음으로 동공 크기 및 눈 움직임 신호들의 시간과 주파수 정보를 분석하기 위해 Short-Time Fourier Transform (STFT) 특징들을 추출하고, 그 특징들을 결합하여 STFT 특징 결합 영상이라 불리우는 단일 이미지를 생성한다. 마지막으로, valence-arousal 인식을 수행하기 위해, STFT 특징 결합 영상에 적합한 심층 학습 모델을 생성한 후 leave-one-out cross validation (LOOCV) 방법을 이용하여 제안하는 방법의 성능을 평가한다. &amp;#xD; 대부분의 연구에서, 안구 특징은 다른 모달리티 기반의 감정인식 성능을 향상시키기 위한 보조정보로만 사용하고 있다. 이는 안구 특징이 자극에 민감하고 수동적인 특징 추출방법으로 양질의 특징을 추출하기 어려운 많은 이상치 (Outlier)들을 포함하기 때문이다. 그러나 제안하는 방법의 분류 정확도는 Soleymani [53]가 제안한 결정 수준 융합 (DLF)와 서포트 벡터 머신 (SVM)을 이용한 방법보다 valence와 arousal 감정에 대해 각각 23.6%, 9.8% 향상된 분류 정확도를 달성하였다.&amp;#xD; 실험결과는 제안하는 방법의 효과성을 입증하였고, CNN 모델이 다른 모달리티 기반의 감정인식 방법뿐만 아니라 안구 특징 기반 감정인식에도 효과적이며, 눈 움직임 정보가 valence 감정 인식에도 효과적임을 보였다."
+        },
+        {
+          "rank": 3,
+          "score": 0.3749026954174042,
+          "doc_id": "134",
+          "text": "Deep Metric Learning 기반 원격탐사 변화탐지 기술 연구 Deep Metric Learning 기반 원격탐사 변화탐지 기술 연구 Deep Metric Learning 기반 원격탐사 변화탐지 기술 연구 원격탐사 영상을 활용하여 변화를 탐지하기 위해 다양한 기술들이 활발히 연구되고 있다. 본 논문에서는 Triplet Loss 기반 Deep Metric Learning 기법을 활용하여 원격탐사 영상에서 변화 탐지를 수행하는 새로운 접근법을 제안하고, 이를 통해 기존 변화 탐지 기술의 한계를 극복하고자 한다. 원격탐사 기술은 도시 개발, 환경 모니터링, 재난 관리 등 다양한 분야에서 핵심적인 역할을 하고 있으며, 특히 시계열 영상 간의 변화를 정확히 탐지하는 기술은 점차 중요성이 높아지고 있다. 그러나 기존의 변화 탐지 기술은 위치 불일치, 조명 변화, 계절적 요인과 같은 외부 환경에 민감하며, 텍스처와 색상 변화를 효과적으로 구분하지 못하는 한계가 존재한다.&amp;#xD; 본 연구에서는 이러한 문제를 해결하기 위해 Deep Metric Learning의 Triplet Loss를 도입하여 변화탐지의 정확도와 신뢰성을 높이는 새로운 방법론을 제시한다."
+        },
+        {
+          "rank": 4,
+          "score": 0.3742833733558655,
+          "doc_id": "205",
+          "text": "Deep Learning을 활용한 산사태 결정론 방법의 활용성 고찰 Deep Learning을 활용한 산사태 결정론 방법의 활용성 고찰 Deep Learning을 활용한 산사태 결정론 방법의 활용성 고찰 산사태 위험지역을 결정론적인 방법으로 도출할 수 있는 Analytic Hierarchy Process (AHP) 기반의 선행 연구가 2017년도에 제안되었다. 해당 연구의 목적은 기존에 제안된 결정론적인 방법의 활용성을 향상시키고자 deep learning 기법을 적용하여 해당 방법의 신뢰성을 검증하는 것이다. AHP 기반의 결정론적인 방법은 8개 인자인 세립분 함량, 표토층 두께, 간극비, 탄성계수, 전단강도, 투수계수, 포화도 그리고 함수비로 구성되며 이를 통해 안전율을 도출할 수 있다. 대상 지역을 1 m 정사각형의 격자로 구성한 후 현장 및 실내 실험을 통해 8개의 인자를 도출하였다. 안전율은 Mohr-Coulomb의 파괴 이론을 통해 계산하여 deep learning의 출력 값으로 활용하였다. Deep learning 기법 적용 시 입력 값과 출력 값의 학습 능률을 향상시키기 위하여 경사하강법 중 Bayesian regularization을 적용하였으며, 학습 결과 실제 안전율과 deep learning 기법으로 예측된 안전율이 train과 test 단계 모두에서 우수한 신뢰성을 보여준다. 해당 연구에서 활용한 deep learning 기법이 산사태 위험지역 선정에 결정론적 방법으로 유용하게 이용될 것으로 사료된다."
+        },
+        {
+          "rank": 5,
+          "score": 0.3725587725639343,
+          "doc_id": "53",
+          "text": "Machine Learning and Deep Learning for the Pharmacogenomics of Antidepressant Treatments Machine Learning and Deep Learning for the Pharmacogenomics of Antidepressant Treatments Machine Learning and Deep Learning for the Pharmacogenomics of Antidepressant Treatments A growing body of evidence now proposes that machine learning and deep learning techniques can serve as a vital foundation for the pharmacogenomics of antidepressant treatments in patients with major depressive disorder (MDD).In this review, we focus on the latest developments for pharmacogenomics research using machine learning and deep learning approaches together with neuroimaging and multi-omics data. First, we review relevant pharmacogenomics studies that leverage numerous machine learning and deep learning techniques to determine treatment prediction and potential biomarkers for antidepressant treatments in MDD. In addition, we depict some neuroimaging pharmacogenomics studies that utilize various machine learning approaches to predict antidepressant treatment outcomes in MDD based on the integration of research on pharmacogenomics and neuroimaging. Moreover, we summarize the limitations in regard to the past pharmacogenomics studies of antidepressant treatments in MDD. Finally, we outline a discussion of challenges and directions for future research. In light of latest advancements in neuroimaging and multi-omics, various genomic variants and biomarkers associated with antidepressant treatments in MDD are being identified in pharmacogenomics research by employing machine learning and deep learning algorithms."
+        }
+      ]
+    },
+    {
+      "query": "A₃ 아데노신 수용체 조절제 연구에서 의사결정나무를 활용하여 얻은 핵심 성과는 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 5,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.44122934341430664,
+          "doc_id": "53",
+          "text": "Machine Learning and Deep Learning for the Pharmacogenomics of Antidepressant Treatments Machine Learning and Deep Learning for the Pharmacogenomics of Antidepressant Treatments Machine Learning and Deep Learning for the Pharmacogenomics of Antidepressant Treatments A growing body of evidence now proposes that machine learning and deep learning techniques can serve as a vital foundation for the pharmacogenomics of antidepressant treatments in patients with major depressive disorder (MDD).In this review, we focus on the latest developments for pharmacogenomics research using machine learning and deep learning approaches together with neuroimaging and multi-omics data. First, we review relevant pharmacogenomics studies that leverage numerous machine learning and deep learning techniques to determine treatment prediction and potential biomarkers for antidepressant treatments in MDD. In addition, we depict some neuroimaging pharmacogenomics studies that utilize various machine learning approaches to predict antidepressant treatment outcomes in MDD based on the integration of research on pharmacogenomics and neuroimaging. Moreover, we summarize the limitations in regard to the past pharmacogenomics studies of antidepressant treatments in MDD. Finally, we outline a discussion of challenges and directions for future research. In light of latest advancements in neuroimaging and multi-omics, various genomic variants and biomarkers associated with antidepressant treatments in MDD are being identified in pharmacogenomics research by employing machine learning and deep learning algorithms."
+        },
+        {
+          "rank": 2,
+          "score": 0.43432730436325073,
+          "doc_id": "213",
+          "text": "Artificial intelligence-driven radiomics: developing valuable radiomics signatures with the use of artificial intelligence Artificial intelligence-driven radiomics: developing valuable radiomics signatures with the use of artificial intelligence Artificial intelligence-driven radiomics: developing valuable radiomics signatures with the use of artificial intelligence AbstractThe advent of radiomics has revolutionized medical image analysis, affording the extraction of high dimensional quantitative data for the detailed examination of normal and abnormal tissues. Artificial intelligence (AI) can be used for the enhancement of a series of steps in the radiomics pipeline, from image acquisition and preprocessing, to segmentation, feature extraction, feature selection, and model development. The aim of this review is to present the most used AI methods for radiomics analysis, explaining the advantages and limitations of the methods. Some of the most prominent AI architectures mentioned in this review include Boruta, random forests, gradient boosting, generative adversarial networks, convolutional neural networks, and transformers. Employing these models in the process of radiomics analysis can significantly enhance the quality and effectiveness of the analysis, while addressing several limitations that can reduce the quality of predictions. Addressing these limitations can enable high quality clinical decisions and wider clinical adoption. Importantly, this review will aim to highlight how AI can assist radiomics in overcoming major bottlenecks in clinical implementation, ultimately improving the translation potential of the method."
+        },
+        {
+          "rank": 3,
+          "score": 0.41289210319519043,
+          "doc_id": "200",
+          "text": "딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 본 논문에서는 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조를 개발한다. 제안하는 복합 미생물 배양기는 수집한 복합 미생물 데이터에 대해 복합 미생물 데이터 전처리, 복합 미생물 데이터 구조 변환, 딥러닝 네트워크 설계, 설계한 딥러닝 네트워크 학습, 시제품에 적용되는 GUI 개발 등으로 구성된다. 복합 미생물 데이터 전처리에서는 미생물 배양에 필요한 당밀, 영양제, 식물엑기스, 소금 등의 양에 대해 원-핫 인코딩을 실시하며, 배양된 결과로 측정된 pH 농도와 미생물의 셀 수에 대해 최대-최소 정규화 방법을 사용하여 데이터를 전처리한다. 복합 미생물 데이터 구조 변환에서는 전처리된 데이터를 물 온도와 미생물의 셀 수를 연결하여 그래프 구조로 변환 후, 인접 행렬과 속성 정보로 나타내어 딥러닝 네트워크의 입력 데이터로 사용한다. 딥러닝 네트워크 설계에서는 그래프 구조에 특화된 그래프 합성곱 네트워크를 설계하여 복합 미생물 데이터를 학습시킨다. 설계한 딥러닝 네트워크는 Cosine 손실함수를 사용하여 학습 시에 발생하는 오차를 최소화하는 방향으로 학습을 진행한다. 시제품에 적용되는 GUI 개발은 사용자가 선택하는 물 온도에 따라 목표하는 pH 농도(3.8 이하) 복합 미생물의 셀 수(108 이상)를 배양시키기 적합한 순으로 나타낸다. 제안된 미생물 배양기의 성능을 평가하기 위하여 공인시험기관에서 실험한 결과는, pH 농도의 경우 평균 3.7로, 복합 미생물의 셀 수는 1.7 &#x00D7; 108으로 측정되었다. 따라서, 본 논문에서 제안한 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조의 효용성이 입증되었다."
+        },
+        {
+          "rank": 4,
+          "score": 0.4064204692840576,
+          "doc_id": "156",
+          "text": "눈 특징의 STFT 결합 영상과 deep learning을 이용한 감성 인식 눈 특징의 STFT 결합 영상과 deep learning을 이용한 감성 인식 눈 특징의 STFT 결합 영상과 deep learning을 이용한 감성 인식 최근 사용자의 요구를 이해하기 위해 인간-컴퓨터 상호작용 (HCI) 분야에서 다양한 연구가 수행되고 있다. HCI의 대표적인 기술 중 하나는 사용자 감정 인식이다. 감정의 중요성이 증대됨에 따라, 사용자의 감정을 인식하기 위해 얼굴 표정, 제스처, 음성신호, 생리신호, 안구특징 및 멀티 모달리티 (Multi-Modality) 신호를 특징으로 사용하는 방법들이 제안되고 있다. &amp;#xD; 특히, 안구 특징은 사용자가 의도적으로 제어할 수 없으며 컴퓨터가 무의식적인 특징들을 인식할 수 있기 때문에 감정인식에 적합하다. 또한 다양한 분야에 적용될 것으로 기대되는 가상현실과 증강현실을 위해 안구 특징에 기반한 감정인식 기술이 연구되어야 한다.&amp;#xD; 합성곱 신경망 (CNN)과 재귀 신경망 (RNN)과 같은 심층 학습 (Deep learning) 기술들이 다양한 분야에서 성공하고 있으며, 다양한 모달리티들을 이용하는 감정인식 연구에 적용되고 있다. 그러나 다른 모달리티들과 달리, 안구 특징만을 사용하는 심층 학습기반의 감정인식 연구는 매우 부족하다.&amp;#xD; 본 학위논문에서는 시간정보와 동공 크기와 눈 움직임 신호와 같은 안구 특징들만을 이용한 심층 학습 기반의 감정인식 방법을 제안한다.&amp;#xD; 그 과정은 다음과 같다. 먼저, 눈 깜빡임 또는 기술적인 결함으로 인해 발생되는 눈 크기 및 눈 움직임 신호들의 데이터 미획득 구간을 채우기 위한 보간을 수행한다. 그 후 데이터의 길이와 범위를 일치시키기 위해, 신호의 시간과 각 피실험자의 신호들에 대해 정규화를 수행한다. 다음으로 동공 크기 및 눈 움직임 신호들의 시간과 주파수 정보를 분석하기 위해 Short-Time Fourier Transform (STFT) 특징들을 추출하고, 그 특징들을 결합하여 STFT 특징 결합 영상이라 불리우는 단일 이미지를 생성한다. 마지막으로, valence-arousal 인식을 수행하기 위해, STFT 특징 결합 영상에 적합한 심층 학습 모델을 생성한 후 leave-one-out cross validation (LOOCV) 방법을 이용하여 제안하는 방법의 성능을 평가한다. &amp;#xD; 대부분의 연구에서, 안구 특징은 다른 모달리티 기반의 감정인식 성능을 향상시키기 위한 보조정보로만 사용하고 있다. 이는 안구 특징이 자극에 민감하고 수동적인 특징 추출방법으로 양질의 특징을 추출하기 어려운 많은 이상치 (Outlier)들을 포함하기 때문이다. 그러나 제안하는 방법의 분류 정확도는 Soleymani [53]가 제안한 결정 수준 융합 (DLF)와 서포트 벡터 머신 (SVM)을 이용한 방법보다 valence와 arousal 감정에 대해 각각 23.6%, 9.8% 향상된 분류 정확도를 달성하였다.&amp;#xD; 실험결과는 제안하는 방법의 효과성을 입증하였고, CNN 모델이 다른 모달리티 기반의 감정인식 방법뿐만 아니라 안구 특징 기반 감정인식에도 효과적이며, 눈 움직임 정보가 valence 감정 인식에도 효과적임을 보였다."
+        },
+        {
+          "rank": 5,
+          "score": 0.40263113379478455,
+          "doc_id": "195",
+          "text": "Deep Contour Recovery: Repairing Breaks in Detected Contours using Deep Learning Deep Contour Recovery: Repairing Breaks in Detected Contours using Deep Learning Deep Contour Recovery: Repairing Breaks in Detected Contours using Deep Learning We present a contour recovery framework based on a deep learning model to connect broken contours (breaks) produced by contour detection methods. The idea is that the convolutional neural network iteratively predicts vectors that can grow along the direction of the true contour from the end points of the breaks. For this prediction, we use residual connections training, which models continuous predictions from the previous inference. However, conventional residual connections training is prone to gradually accumulating errors at each inference step. In this work, we propose a ground truth selection algorithm and sub-iteration training to efficiently and reliably train a deep learning model. The ground truth selection extracts a small set of coordinates to represent an actual contour. The sub-iteration training creates the next input that is predicted by additional training of a network replicated from the main network. Our experimental results demonstrate that the ground truth selection creates a ground truth suitable for contour recovery. Moreover, our approach improves the performance of contour detection when applied to the results of existing representative contour detection methods."
+        }
+      ]
+    },
+    {
+      "query": "A₃ 아데노신 수용체 조절제 연구에서 서포트 벡터 머신을 활용하여 얻은 핵심 성과는 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 2
+      },
+      "top_k": 5,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.4597959816455841,
+          "doc_id": "53",
+          "text": "Machine Learning and Deep Learning for the Pharmacogenomics of Antidepressant Treatments Machine Learning and Deep Learning for the Pharmacogenomics of Antidepressant Treatments Machine Learning and Deep Learning for the Pharmacogenomics of Antidepressant Treatments A growing body of evidence now proposes that machine learning and deep learning techniques can serve as a vital foundation for the pharmacogenomics of antidepressant treatments in patients with major depressive disorder (MDD).In this review, we focus on the latest developments for pharmacogenomics research using machine learning and deep learning approaches together with neuroimaging and multi-omics data. First, we review relevant pharmacogenomics studies that leverage numerous machine learning and deep learning techniques to determine treatment prediction and potential biomarkers for antidepressant treatments in MDD. In addition, we depict some neuroimaging pharmacogenomics studies that utilize various machine learning approaches to predict antidepressant treatment outcomes in MDD based on the integration of research on pharmacogenomics and neuroimaging. Moreover, we summarize the limitations in regard to the past pharmacogenomics studies of antidepressant treatments in MDD. Finally, we outline a discussion of challenges and directions for future research. In light of latest advancements in neuroimaging and multi-omics, various genomic variants and biomarkers associated with antidepressant treatments in MDD are being identified in pharmacogenomics research by employing machine learning and deep learning algorithms."
+        },
+        {
+          "rank": 2,
+          "score": 0.45718616247177124,
+          "doc_id": "213",
+          "text": "Artificial intelligence-driven radiomics: developing valuable radiomics signatures with the use of artificial intelligence Artificial intelligence-driven radiomics: developing valuable radiomics signatures with the use of artificial intelligence Artificial intelligence-driven radiomics: developing valuable radiomics signatures with the use of artificial intelligence AbstractThe advent of radiomics has revolutionized medical image analysis, affording the extraction of high dimensional quantitative data for the detailed examination of normal and abnormal tissues. Artificial intelligence (AI) can be used for the enhancement of a series of steps in the radiomics pipeline, from image acquisition and preprocessing, to segmentation, feature extraction, feature selection, and model development. The aim of this review is to present the most used AI methods for radiomics analysis, explaining the advantages and limitations of the methods. Some of the most prominent AI architectures mentioned in this review include Boruta, random forests, gradient boosting, generative adversarial networks, convolutional neural networks, and transformers. Employing these models in the process of radiomics analysis can significantly enhance the quality and effectiveness of the analysis, while addressing several limitations that can reduce the quality of predictions. Addressing these limitations can enable high quality clinical decisions and wider clinical adoption. Importantly, this review will aim to highlight how AI can assist radiomics in overcoming major bottlenecks in clinical implementation, ultimately improving the translation potential of the method."
+        },
+        {
+          "rank": 3,
+          "score": 0.4530463218688965,
+          "doc_id": "142",
+          "text": "Machine learning in oncology-Perspectives in patient-reported outcome research Machine learning in oncology-Perspectives in patient-reported outcome research Machine learning in oncology-Perspectives in patient-reported outcome research AbstractBackgroundIncreasing data volumes in oncology pose new challenges for data analysis. Machine learning, a branch of artificial intelligence, can identify patterns even in very large and less structured datasets.ObjectiveThis article provides an overview of the possible applications for machine learning in oncology. Furthermore, the potential of machine learning in patient-reported outcome (PRO) research is discussed.Materials and methodsWe conducted a selective literature search (PubMed, MEDLINE, IEEE Xplore) and discuss current research.ResultsThere are three primary applications for machine learning in oncology: (1) cancer detection or classification; (2) overall survival prediction or risk assessment; and (3) supporting therapy decision-making and prediction of treatment response. Generally, machine learning approaches in oncology PRO research are scarce and few studies integrate PRO data into machine learning models.DiscussionMachine learning is a promising area of oncology, but few models have been transferred into clinical practice. The promise of personalized cancer therapy and shared decision-making through machine learning has yet to be realized. As an equally important emerging research area in oncology, PROs should also be incorporated into machine learning approaches. To gather the data necessary for this, broad implementation of PRO assessments in clinical practice, as well as the harmonization of existing datasets, is suggested."
+        },
+        {
+          "rank": 4,
+          "score": 0.45255860686302185,
+          "doc_id": "175",
+          "text": "딥 러닝을 이용한 DC 모터 제어 딥 러닝을 이용한 DC 모터 제어 딥 러닝을 이용한 DC 모터 제어 딥 러닝(deep learning)은 최근에 많이 알려지게 된 심층 인공신경망 알고리즘이다. 일반적인 인공신경망보다 은닉층의 개수와 뉴런의 개수를 확장시키고, 학습이 효율적으로 될 수 있게 알고리즘을 개선한 것이 가장 큰 특징이다. 이러한 특징을 활용하여 기존의 인공신경망으로 풀지 못했던 크고 복잡한 문제들을 해결할 수 있게 되었다. 음성인식, 손 글씨 인식, 얼굴 인식 등 복잡한 패턴인식과 분류에 관련된 다양한 분야에 대한 적용 연구가 활발히 진행되고 있다. 하지만 이러한 장점에도 불구하고, 아직까지 딥 러닝이 제어문제를 해결하기 위해 적용된 사례는 찾아보기 어렵다. 본 논문에서는 간단한 사례를 통해 딥 러닝의 제어문제에 대한 적용 가능성을 확인해 본다. 딥 러닝 알고리즘 중에서 가장 잘 알려진, 깊은 믿음 네트워크(deep belief network) 알고리즘을 사용하여 산업현장에서 가장 많이 사용되고 있는 PID 제어기를 모방하는 딥 러닝 제어기를 설계한다. DC 모터를 제어하는 시스템에서 PID 제어기에 들어오는 입력과 PID 제어기에서 나오는 출력값을 학습 데이터로 사용하여 딥 러닝으로 학습하는 방법을 사용한다. 시뮬레이션을 통해 제안한 딥 러닝 제어기와 PID 제어기를 비교하여 딥 러닝 알고리즘의 성능을 검증한다."
+        },
+        {
+          "rank": 5,
+          "score": 0.45067840814590454,
+          "doc_id": "200",
+          "text": "딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 본 논문에서는 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조를 개발한다. 제안하는 복합 미생물 배양기는 수집한 복합 미생물 데이터에 대해 복합 미생물 데이터 전처리, 복합 미생물 데이터 구조 변환, 딥러닝 네트워크 설계, 설계한 딥러닝 네트워크 학습, 시제품에 적용되는 GUI 개발 등으로 구성된다. 복합 미생물 데이터 전처리에서는 미생물 배양에 필요한 당밀, 영양제, 식물엑기스, 소금 등의 양에 대해 원-핫 인코딩을 실시하며, 배양된 결과로 측정된 pH 농도와 미생물의 셀 수에 대해 최대-최소 정규화 방법을 사용하여 데이터를 전처리한다. 복합 미생물 데이터 구조 변환에서는 전처리된 데이터를 물 온도와 미생물의 셀 수를 연결하여 그래프 구조로 변환 후, 인접 행렬과 속성 정보로 나타내어 딥러닝 네트워크의 입력 데이터로 사용한다. 딥러닝 네트워크 설계에서는 그래프 구조에 특화된 그래프 합성곱 네트워크를 설계하여 복합 미생물 데이터를 학습시킨다. 설계한 딥러닝 네트워크는 Cosine 손실함수를 사용하여 학습 시에 발생하는 오차를 최소화하는 방향으로 학습을 진행한다. 시제품에 적용되는 GUI 개발은 사용자가 선택하는 물 온도에 따라 목표하는 pH 농도(3.8 이하) 복합 미생물의 셀 수(108 이상)를 배양시키기 적합한 순으로 나타낸다. 제안된 미생물 배양기의 성능을 평가하기 위하여 공인시험기관에서 실험한 결과는, pH 농도의 경우 평균 3.7로, 복합 미생물의 셀 수는 1.7 &#x00D7; 108으로 측정되었다. 따라서, 본 논문에서 제안한 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조의 효용성이 입증되었다."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

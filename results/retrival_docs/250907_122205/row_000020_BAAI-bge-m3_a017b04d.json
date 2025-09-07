@@ -1,0 +1,91 @@
+{
+  "id": "row_000020",
+  "model_name": "BAAI/bge-m3",
+  "timestamp_kst": "2025-09-07T12:22:08.437498+09:00",
+  "trial_id": "a017b04d",
+  "queries": [
+    {
+      "query": "제조 품질 개선을 위해 제안된 식스 시그마 기반 Big Data 활용 방법의 주요 절차를 요약해 주시겠습니까?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 5,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7282283902168274,
+          "doc_id": "161",
+          "text": "Big Data 활용을 위한 제조 품질 개선 방법에 대한 연구 Big Data 활용을 위한 제조 품질 개선 방법에 대한 연구 Big Data 활용을 위한 제조 품질 개선 방법에 대한 연구 20세기 대량 생산 시대 이래로 제조 기업의 품질은 가장 중요한 요소가 되어왔다. 따라서 품질에 대한 올바른 정의와 품질 개선을 위한 다양한 도구와 방법이 개발되어 왔으며 이의 효율적 적용을 위한 노력도 병행되어 왔다. 이러한 노력은 제조 기업의 품질 제일주의, 전사적 품질 경영, 식스 시그마 등을 통하여 정형화되고 다양한 분야에 적용되고 있다. 또한 최근 Big Data의 유용성이 소개되면서 이에 대한 제조 업계의 관심이 높아지고 있으나 이에 대한 적용은 아직 미흡한 면이 있다. 본 논문은 기존의 품질 개선을 위한 프로젝트 실행 방법을 정리해 보고 대표적인 프로젝트 중심의 개선 방법인 식스 시그마의 실행 방법을 기준으로 Big Data 활용 방법을 제안해 보기로 한다."
+        },
+        {
+          "rank": 2,
+          "score": 0.5364704132080078,
+          "doc_id": "126",
+          "text": "Exploring Big Data Governance Frameworks Exploring Big Data Governance Frameworks Exploring Big Data Governance Frameworks Abstract The recent explosion in ICT and digital data has led organizations, both private and public, to efficient decision-making. Nowadays organizations can store huge amounts of data, which can be accessible at any time. Big Data governance refers to the management of huge volumes of an organization&rsquo;s data, exploiting it in the organization&rsquo;s decision-making using different analytical tools. Big Data emergence provides great convenience, but it also brings challenges. Nevertheless, for Big Data governance, data has to be prepared in a timely manner, keeping in view the consistency and reliability of the data, and being able to trust its source and the meaningfulness of the result. Hence, a framework for Big Data governance would have many advantages. There are Big Data governance frameworks, which guide the management of Big Data. However, there are also limitations associated with these frameworks. Therefore, this study aims to explore the existing Big Data governance frameworks and their shortcomings, and propose a new framework. The proposed framework consists of eight components. As a framework validation, the proposed framework has been compared with the ISO 8000 data governance framework."
+        },
+        {
+          "rank": 3,
+          "score": 0.5244290828704834,
+          "doc_id": "88",
+          "text": "Machine learning on Big Data Machine learning on Big Data Machine learning on Big Data Statistical Machine Learning has undergone a phase transition from a pure academic endeavor to being one of the main drivers of modern commerce and science. Even more so, recent results such as those on tera-scale learning [1] and on very large neural networks [2] suggest that scale is an important ingredient in quality modeling. This tutorial introduces current applications, techniques and systems with the aim of cross-fertilizing research between the database and machine learning communities. The tutorial covers current large scale applications of Machine Learning, their computational model and the workflow behind building those. Based on this foundation, we present the current state-of-the-art in systems support in the bulk of the tutorial. We also identify critical gaps in the state-of-the-art. This leads to the closing of the seminar, where we introduce two sets of open research questions: Better systems support for the already established use cases of Machine Learning and support for recent advances in Machine Learning research."
+        },
+        {
+          "rank": 4,
+          "score": 0.5232254266738892,
+          "doc_id": "71",
+          "text": "Compromise between Small Data and Big Data Compromise between Small Data and Big Data Compromise between Small Data and Big Data Purpose: The main purpose of this work was to present the problems of big data and to present how small data can be used as a complement to big data and its effects step by step in the big data through the concept of value chain. Recently, the big data market is growing rapidly around the world because data is processed on the basis of size, diversity, speed, accuracy and value. Specifically, this study focuses on its application to Jeju tourism. Research design, data, and methodology: The problems of big data were clearly presented using various real-world examples, and the verification of the compromise with small data and its effectiveness were conducted based on research papers discussing Jeju tourism using big data. The results of the study suggested the use of small data to solve and verify the representation of big data at the collection stage of the big data value chain, and the analysis stage suggested combining the identification of behavior patterns, the strengths of small data, and the exploration of causal relationships. Results: Among various stage, in the curation phase, a cause-and-effect analysis using small data suggested a solution to the problem of mistaking the correlation of big data as causality, and in the storage phase, a policy plan using small data was proposed to solve the problem of privacy infringement. The most important part of this study was the application stage, which discussed the specific problems of big data and the possibility of compromise between small data. As well, in the utilization phase, a combination of correlation and causality, as in the curation phase, was proposed. Conclusions: As an implication of this study, we used specific examples to present synergies when big data is compromised with small data. It also showed that the compromised use of big data and small data can contribute not only in terms of research but also in terms of practicality in tourism industry. Finally, we expanded the foundation of research in terms of academic research, discussing the trade-off utilization of big and small data."
+        },
+        {
+          "rank": 5,
+          "score": 0.5079659223556519,
+          "doc_id": "73",
+          "text": "Big data, big data quality problem Big data, big data quality problem Big data, big data quality problem A USAF sponsored MITRE research team undertook four separate, domain-specific case studies about Big Data applications. Those case studies were initial investigations into the question of whether or not data quality issues encountered in Big Data collections are substantially different in cause, manifestation, or detection than those data quality issues encountered in more traditionally sized data collections. The study addresses several factors affecting Big Data Quality at multiple levels, including collection, processing, and storage. Though not unexpected, the key findings of this study reinforce that the primary factors affecting Big Data reside in the limitations and complexities involved with handling Big Data while maintaining its integrity. These concerns are of a higher magnitude than the provenance of the data, the processing, and the tools used to prepare, manipulate, and store the data. Data quality is extremely important for all data analytics problems. From the study's findings, the 'truth about Big Data' is there are no fundamentally new DQ issues in Big Data analytics projects. Some DQ issues exhibit return-s-to-scale effects, and become more or less pronounced in Big Data analytics, though. Big Data Quality varies from one type of Big Data to another and from one Big Data technology to another."
+        }
+      ]
+    },
+    {
+      "query": "제조 품질 개선을 위해 제안된 식스 시그마 기반 Big Data 활용 방법의 주요 절차는 무엇입니까?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 5,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.7421979904174805,
+          "doc_id": "161",
+          "text": "Big Data 활용을 위한 제조 품질 개선 방법에 대한 연구 Big Data 활용을 위한 제조 품질 개선 방법에 대한 연구 Big Data 활용을 위한 제조 품질 개선 방법에 대한 연구 20세기 대량 생산 시대 이래로 제조 기업의 품질은 가장 중요한 요소가 되어왔다. 따라서 품질에 대한 올바른 정의와 품질 개선을 위한 다양한 도구와 방법이 개발되어 왔으며 이의 효율적 적용을 위한 노력도 병행되어 왔다. 이러한 노력은 제조 기업의 품질 제일주의, 전사적 품질 경영, 식스 시그마 등을 통하여 정형화되고 다양한 분야에 적용되고 있다. 또한 최근 Big Data의 유용성이 소개되면서 이에 대한 제조 업계의 관심이 높아지고 있으나 이에 대한 적용은 아직 미흡한 면이 있다. 본 논문은 기존의 품질 개선을 위한 프로젝트 실행 방법을 정리해 보고 대표적인 프로젝트 중심의 개선 방법인 식스 시그마의 실행 방법을 기준으로 Big Data 활용 방법을 제안해 보기로 한다."
+        },
+        {
+          "rank": 2,
+          "score": 0.5319118499755859,
+          "doc_id": "88",
+          "text": "Machine learning on Big Data Machine learning on Big Data Machine learning on Big Data Statistical Machine Learning has undergone a phase transition from a pure academic endeavor to being one of the main drivers of modern commerce and science. Even more so, recent results such as those on tera-scale learning [1] and on very large neural networks [2] suggest that scale is an important ingredient in quality modeling. This tutorial introduces current applications, techniques and systems with the aim of cross-fertilizing research between the database and machine learning communities. The tutorial covers current large scale applications of Machine Learning, their computational model and the workflow behind building those. Based on this foundation, we present the current state-of-the-art in systems support in the bulk of the tutorial. We also identify critical gaps in the state-of-the-art. This leads to the closing of the seminar, where we introduce two sets of open research questions: Better systems support for the already established use cases of Machine Learning and support for recent advances in Machine Learning research."
+        },
+        {
+          "rank": 3,
+          "score": 0.5292761921882629,
+          "doc_id": "71",
+          "text": "Compromise between Small Data and Big Data Compromise between Small Data and Big Data Compromise between Small Data and Big Data Purpose: The main purpose of this work was to present the problems of big data and to present how small data can be used as a complement to big data and its effects step by step in the big data through the concept of value chain. Recently, the big data market is growing rapidly around the world because data is processed on the basis of size, diversity, speed, accuracy and value. Specifically, this study focuses on its application to Jeju tourism. Research design, data, and methodology: The problems of big data were clearly presented using various real-world examples, and the verification of the compromise with small data and its effectiveness were conducted based on research papers discussing Jeju tourism using big data. The results of the study suggested the use of small data to solve and verify the representation of big data at the collection stage of the big data value chain, and the analysis stage suggested combining the identification of behavior patterns, the strengths of small data, and the exploration of causal relationships. Results: Among various stage, in the curation phase, a cause-and-effect analysis using small data suggested a solution to the problem of mistaking the correlation of big data as causality, and in the storage phase, a policy plan using small data was proposed to solve the problem of privacy infringement. The most important part of this study was the application stage, which discussed the specific problems of big data and the possibility of compromise between small data. As well, in the utilization phase, a combination of correlation and causality, as in the curation phase, was proposed. Conclusions: As an implication of this study, we used specific examples to present synergies when big data is compromised with small data. It also showed that the compromised use of big data and small data can contribute not only in terms of research but also in terms of practicality in tourism industry. Finally, we expanded the foundation of research in terms of academic research, discussing the trade-off utilization of big and small data."
+        },
+        {
+          "rank": 4,
+          "score": 0.5216832160949707,
+          "doc_id": "126",
+          "text": "Exploring Big Data Governance Frameworks Exploring Big Data Governance Frameworks Exploring Big Data Governance Frameworks Abstract The recent explosion in ICT and digital data has led organizations, both private and public, to efficient decision-making. Nowadays organizations can store huge amounts of data, which can be accessible at any time. Big Data governance refers to the management of huge volumes of an organization&rsquo;s data, exploiting it in the organization&rsquo;s decision-making using different analytical tools. Big Data emergence provides great convenience, but it also brings challenges. Nevertheless, for Big Data governance, data has to be prepared in a timely manner, keeping in view the consistency and reliability of the data, and being able to trust its source and the meaningfulness of the result. Hence, a framework for Big Data governance would have many advantages. There are Big Data governance frameworks, which guide the management of Big Data. However, there are also limitations associated with these frameworks. Therefore, this study aims to explore the existing Big Data governance frameworks and their shortcomings, and propose a new framework. The proposed framework consists of eight components. As a framework validation, the proposed framework has been compared with the ISO 8000 data governance framework."
+        },
+        {
+          "rank": 5,
+          "score": 0.5141572952270508,
+          "doc_id": "227",
+          "text": "Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 본 연구는 오늘날 산업 전반적으로 영향을 미치고 있는 디지탈 전환(Digital Transformation)의 기술 환경과 디지탈 전환의 산업적 창고관리 부분의 모델연구가 본 논문의 목적이다. &amp;#xD; &amp;#xD; 디지털 전환은 오랫동안 디지털화와 비슷하거나 또는 디지털 방식으로 저장할 수 있도록 기존 데이터 형태를 전환하는 것과 관련이 있다. 물론 이 점이 중요하긴 하지만, 이전의 디지털화는 최신 디지털 전환의 영역을 포함하지 않았었다.&amp;#xD; &amp;#xD; 특히 이번 연구에서는 Big Data를 중심으로 Warehouse Management System의 방향을 제시 하고자 한다."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

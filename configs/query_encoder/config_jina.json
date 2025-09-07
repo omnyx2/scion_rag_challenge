@@ -1,0 +1,13 @@
+{
+  "model_name": "jinaai/jina-embeddings-v3",
+  "nickname": "jina_test",
+  "embedding_dim": 1024,
+  "jsonl_path": "../data/expr/docs.jsonl",
+  "embedding_mode": "title",
+  "text_fields": [
+    "context"
+  ],
+  "output_dir": "../results/vectordb",
+  "output_format": "csv",
+  "output_file": "../results/vectordb/250907_055734/jina_test_title_abstract_jina-embeddings-v3.csv"
+}

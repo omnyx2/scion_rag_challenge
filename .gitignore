@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+.env
+.cache
+# VSCode & Devcontainer
+.vscode/
+.devcontainer/.env
+
+# Data & Results
+src/data2/
+data2/
+# results/ 
+

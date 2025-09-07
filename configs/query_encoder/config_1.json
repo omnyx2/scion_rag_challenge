@@ -1,0 +1,12 @@
+{
+  "model_name": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "nickname": "test",
+  "embedding_dim": 384,
+  "input_meta": "/workspace/src/data/pubmed_qa/pqa_labeled/train/meta.json",
+  "text_fields": [
+    "context"
+  ],
+  "output_dir": "../results/vectordb",
+  "output_format": "csv",
+  "output_file": "../results/vectordb/250904_081147/test_sentence-transformers_paraphrase-multilingual-MiniLM-L12-v2.csv"
+}

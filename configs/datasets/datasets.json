@@ -1,0 +1,37 @@
+[
+  {
+    "source": "hf",
+    "dataset": "pubmed_qa",
+    "config": "pqa_labeled",
+    "splits": ["train"],
+    "max_bytes": 2000000000,
+    "sample_rows": 100
+  },
+  {
+    "source": "hf",
+    "dataset": "taesiri/arxiv_qa",
+    "splits": ["train"],
+    "max_bytes": 0
+  },
+  {
+    "source": "hf",
+    "dataset": "natural_questions",
+    "config": "default",
+    "splits": ["train"],
+    "max_bytes": 1000000000,
+    "no_full": true,
+    "sample_rows": 200
+  },
+  {
+    "source": "hf",
+    "dataset": "hotpot_qa",
+    "config": "fullwiki",
+    "splits": ["train", "validation"],
+    "max_bytes": 2000000000,
+    "sample_rows": 100
+  },
+  {
+    "source": "kaggle",
+    "dataset": "allen-institute-for-ai/CORD-19-research-challenge"
+  }
+]

@@ -1,0 +1,171 @@
+{
+  "id": "row_000041",
+  "model_name": "BAAI/bge-m3",
+  "timestamp_kst": "2025-09-07T12:22:11.994144+09:00",
+  "trial_id": "af4d5c49",
+  "queries": [
+    {
+      "query": "How would you concisely summarize the key findings on using machine learning classifiers combined with molecular docking to predict cytochrome P450 ligand interactions?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 5,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5460206270217896,
+          "doc_id": "142",
+          "text": "Machine learning in oncology-Perspectives in patient-reported outcome research Machine learning in oncology-Perspectives in patient-reported outcome research Machine learning in oncology-Perspectives in patient-reported outcome research AbstractBackgroundIncreasing data volumes in oncology pose new challenges for data analysis. Machine learning, a branch of artificial intelligence, can identify patterns even in very large and less structured datasets.ObjectiveThis article provides an overview of the possible applications for machine learning in oncology. Furthermore, the potential of machine learning in patient-reported outcome (PRO) research is discussed.Materials and methodsWe conducted a selective literature search (PubMed, MEDLINE, IEEE Xplore) and discuss current research.ResultsThere are three primary applications for machine learning in oncology: (1) cancer detection or classification; (2) overall survival prediction or risk assessment; and (3) supporting therapy decision-making and prediction of treatment response. Generally, machine learning approaches in oncology PRO research are scarce and few studies integrate PRO data into machine learning models.DiscussionMachine learning is a promising area of oncology, but few models have been transferred into clinical practice. The promise of personalized cancer therapy and shared decision-making through machine learning has yet to be realized. As an equally important emerging research area in oncology, PROs should also be incorporated into machine learning approaches. To gather the data necessary for this, broad implementation of PRO assessments in clinical practice, as well as the harmonization of existing datasets, is suggested."
+        },
+        {
+          "rank": 2,
+          "score": 0.5393021106719971,
+          "doc_id": "202",
+          "text": "Machine learning Machine learning Machine learning A short review of research and applications in machine learning is given. Rather than attempt to cover all areas of ML, the focus is on its role in building expert systems, its approach to classification problems and ML methods of learning control. A relatively new area, inductive logic programming, is also discussed."
+        },
+        {
+          "rank": 3,
+          "score": 0.5292823910713196,
+          "doc_id": "147",
+          "text": "A Survey of Topological Machine Learning Methods A Survey of Topological Machine Learning Methods A Survey of Topological Machine Learning Methods The last decade saw an enormous boost in the field of computational topology: methods and concepts from algebraic and differential topology, formerly confined to the realm of pure mathematics, have demonstrated their utility in numerous areas such as computational biology personalised medicine, and time-dependent data analysis, to name a few. The newly-emerging domain comprising topology-based techniques is often referred to as topological data analysis (TDA). Next to their applications in the aforementioned areas, TDA methods have also proven to be effective in supporting, enhancing, and augmenting both classical machine learning and deep learning models. In this paper, we review the state of the art of a nascent field we refer to as &ldquo;topological machine learning,&rdquo; i.e., the successful symbiosis of topology-based methods and machine learning algorithms, such as deep neural networks. We identify common threads, current applications, and future challenges."
+        },
+        {
+          "rank": 4,
+          "score": 0.5281524062156677,
+          "doc_id": "102",
+          "text": "Application of Deep Learning in Dentistry and Implantology Application of Deep Learning in Dentistry and Implantology Application of Deep Learning in Dentistry and Implantology Artificial intelligence and deep learning algorithms are infiltrating various fields of medicine and dentistry. The purpose of the current study was to review literatures applying deep learning algorithms to the dentistry and implantology. Electronic literature search through MEDLINE and IEEE Xplore library database was performed at 2019 October by combining free-text terms and entry terms associated with ‘dentistry’ and ‘deep learning’. The searched literature was screened by title/abstract level and full text level. Following data were extracted from the included studies: information of author, publication year, the aim of the study, architecture of deep learning, input data, output data, and performance of the deep learning algorithm in the study. 340 studies were retrieved from the databases and 62 studies were included in the study. Deep learning algorithms were applied to tooth localization and numbering, detection of dental caries/periodontal disease/periapical disease/oral cancerous lesion, localization of cephalometric landmarks, image quality enhancement, prediction and compensation of deformation error in additive manufacturing of prosthesis. Convolutional neural network was used for periapical radiograph, panoramic radiograph, or computed tomography in most of included studies. Deep learning algorithms are expected to help clinicians diagnose and make decisions by extracting dental data, detecting diseases and abnormal lesions, and improving image quality."
+        },
+        {
+          "rank": 5,
+          "score": 0.5106464624404907,
+          "doc_id": "53",
+          "text": "Machine Learning and Deep Learning for the Pharmacogenomics of Antidepressant Treatments Machine Learning and Deep Learning for the Pharmacogenomics of Antidepressant Treatments Machine Learning and Deep Learning for the Pharmacogenomics of Antidepressant Treatments A growing body of evidence now proposes that machine learning and deep learning techniques can serve as a vital foundation for the pharmacogenomics of antidepressant treatments in patients with major depressive disorder (MDD).In this review, we focus on the latest developments for pharmacogenomics research using machine learning and deep learning approaches together with neuroimaging and multi-omics data. First, we review relevant pharmacogenomics studies that leverage numerous machine learning and deep learning techniques to determine treatment prediction and potential biomarkers for antidepressant treatments in MDD. In addition, we depict some neuroimaging pharmacogenomics studies that utilize various machine learning approaches to predict antidepressant treatment outcomes in MDD based on the integration of research on pharmacogenomics and neuroimaging. Moreover, we summarize the limitations in regard to the past pharmacogenomics studies of antidepressant treatments in MDD. Finally, we outline a discussion of challenges and directions for future research. In light of latest advancements in neuroimaging and multi-omics, various genomic variants and biomarkers associated with antidepressant treatments in MDD are being identified in pharmacogenomics research by employing machine learning and deep learning algorithms."
+        }
+      ]
+    },
+    {
+      "query": "What is the typical performance or accuracy of machine learning classifiers combined with molecular docking for predicting cytochrome P450 ligand interactions?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 5,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5369893908500671,
+          "doc_id": "142",
+          "text": "Machine learning in oncology-Perspectives in patient-reported outcome research Machine learning in oncology-Perspectives in patient-reported outcome research Machine learning in oncology-Perspectives in patient-reported outcome research AbstractBackgroundIncreasing data volumes in oncology pose new challenges for data analysis. Machine learning, a branch of artificial intelligence, can identify patterns even in very large and less structured datasets.ObjectiveThis article provides an overview of the possible applications for machine learning in oncology. Furthermore, the potential of machine learning in patient-reported outcome (PRO) research is discussed.Materials and methodsWe conducted a selective literature search (PubMed, MEDLINE, IEEE Xplore) and discuss current research.ResultsThere are three primary applications for machine learning in oncology: (1) cancer detection or classification; (2) overall survival prediction or risk assessment; and (3) supporting therapy decision-making and prediction of treatment response. Generally, machine learning approaches in oncology PRO research are scarce and few studies integrate PRO data into machine learning models.DiscussionMachine learning is a promising area of oncology, but few models have been transferred into clinical practice. The promise of personalized cancer therapy and shared decision-making through machine learning has yet to be realized. As an equally important emerging research area in oncology, PROs should also be incorporated into machine learning approaches. To gather the data necessary for this, broad implementation of PRO assessments in clinical practice, as well as the harmonization of existing datasets, is suggested."
+        },
+        {
+          "rank": 2,
+          "score": 0.5218154191970825,
+          "doc_id": "202",
+          "text": "Machine learning Machine learning Machine learning A short review of research and applications in machine learning is given. Rather than attempt to cover all areas of ML, the focus is on its role in building expert systems, its approach to classification problems and ML methods of learning control. A relatively new area, inductive logic programming, is also discussed."
+        },
+        {
+          "rank": 3,
+          "score": 0.5207595229148865,
+          "doc_id": "50",
+          "text": "Deep Learning 프레임워크 성능 비교 연구 : Cloud Computing 환경에서 Deep Learning 프레임워크 성능 비교 연구 : Cloud Computing 환경에서 Deep Learning 프레임워크 성능 비교 연구 : Cloud Computing 환경에서 통신 기술의 발달로 인한 사람과 사람, 장치와 장치, 사람과 장치 간의 연결성의 증가와 저장 매체 기술의 발달, 그리고 데이터 저장 비용의 감소로 인해 데이터의 양이 폭발적으로 증가했다. 이에 따라 다양한 형태의 대규모의 데이터를 빠른 시간 내에 효율적으로 처리할 수 있는 Cloud Computing 기술이 주목 받고 있고, Cloud Computing을 위한 오픈소스 기반의 솔루션 또한 많이 나타나게 되었다. &amp;#xD; 2012년부터 주목받기 시작한 Deep Learning은 전 세계적으로 가장 많은 관심을 받는 연구 분야 중 하나이며, 이중 CNN(Convolution Neural Network)은 가장 대표적 알고리즘이다. Deep Learning은 미래사회를 이끌어갈 분야로 평가받고 있으며, 이에 따라 많은 연구들이 진행되고 있고, Deep Learning을 쉽게 활용할 수 있도록 하는 많은 프레임워크가 개발되었다. &amp;#xD; 이에 따라 많은 사람들이 쉽게 Deep Learning을 접할 수 있게 되었지만 특정 환경에서 어떤 프레임워크가 더 우수한 성능을 보이는지에 대한 연구는 부족한 실정이다. 본 논문에서는 특정 환경에서의 성능 비교가 부족하다는 기존 연구의 한계점을 개선하고자 가장 대표적인 Cloud Computing용 오픈소스 소프트웨어 중 하나인 OpenStack을 이용하여 Cloud Computing 환경에서 어떤 Deep Learning 프레임워크가 더 우수한 성능을 보이는지 비교해 보고자 한다."
+        },
+        {
+          "rank": 4,
+          "score": 0.5155234336853027,
+          "doc_id": "147",
+          "text": "A Survey of Topological Machine Learning Methods A Survey of Topological Machine Learning Methods A Survey of Topological Machine Learning Methods The last decade saw an enormous boost in the field of computational topology: methods and concepts from algebraic and differential topology, formerly confined to the realm of pure mathematics, have demonstrated their utility in numerous areas such as computational biology personalised medicine, and time-dependent data analysis, to name a few. The newly-emerging domain comprising topology-based techniques is often referred to as topological data analysis (TDA). Next to their applications in the aforementioned areas, TDA methods have also proven to be effective in supporting, enhancing, and augmenting both classical machine learning and deep learning models. In this paper, we review the state of the art of a nascent field we refer to as &ldquo;topological machine learning,&rdquo; i.e., the successful symbiosis of topology-based methods and machine learning algorithms, such as deep neural networks. We identify common threads, current applications, and future challenges."
+        },
+        {
+          "rank": 5,
+          "score": 0.5043280124664307,
+          "doc_id": "155",
+          "text": "Machine Learning Versus Deep Learning Performances on the Sentiment Analysis of Product Reviews Machine Learning Versus Deep Learning Performances on the Sentiment Analysis of Product Reviews Machine Learning Versus Deep Learning Performances on the Sentiment Analysis of Product Reviews At this current digital era, business platforms have been drastically shifted toward online stores on internet. With the internet-based platform, customers can order goods easily using their smart phones and get delivery at their place without going to the shopping mall. However, the drawback of this business platform is that customers do not really know about the quality of the products they ordered. Therefore, such platform service often provides the review section to let previous customers leave a review about the received product. The reviews are a good source to analyze customer's satisfaction. Business owners can assess review trend as either positive or negative based on a feedback score that customers had given, but it takes too much time for human to analyze this data. In this research, we develop computational models using machine learning techniques to classify product reviews as positive or negative based on the sentiment analysis. In our experiments, we use the book review data from amazon.com to develop the models. For a machine learning based strategy, the data had been transformed with the bag of word technique before developing models using logistic regression, na&iuml;ve bayes, support vector machine, and neural network algorithms. For a deep learning strategy, the word embedding is a technique that we used to transform data before applying the long short-term memory and gated recurrent unit techniques. On comparing performance of machine learning against deep learning models, we compare results from the two methods with both the preprocessed dataset and the non-preprocessed dataset. The result is that the bag of words with neural network outperforms other techniques on both non-preprocess and preprocess datasets."
+        }
+      ]
+    },
+    {
+      "query": "What are the main advantages of using machine learning classifiers combined with molecular docking for predicting cytochrome P450 ligand interactions?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 5,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5501298904418945,
+          "doc_id": "142",
+          "text": "Machine learning in oncology-Perspectives in patient-reported outcome research Machine learning in oncology-Perspectives in patient-reported outcome research Machine learning in oncology-Perspectives in patient-reported outcome research AbstractBackgroundIncreasing data volumes in oncology pose new challenges for data analysis. Machine learning, a branch of artificial intelligence, can identify patterns even in very large and less structured datasets.ObjectiveThis article provides an overview of the possible applications for machine learning in oncology. Furthermore, the potential of machine learning in patient-reported outcome (PRO) research is discussed.Materials and methodsWe conducted a selective literature search (PubMed, MEDLINE, IEEE Xplore) and discuss current research.ResultsThere are three primary applications for machine learning in oncology: (1) cancer detection or classification; (2) overall survival prediction or risk assessment; and (3) supporting therapy decision-making and prediction of treatment response. Generally, machine learning approaches in oncology PRO research are scarce and few studies integrate PRO data into machine learning models.DiscussionMachine learning is a promising area of oncology, but few models have been transferred into clinical practice. The promise of personalized cancer therapy and shared decision-making through machine learning has yet to be realized. As an equally important emerging research area in oncology, PROs should also be incorporated into machine learning approaches. To gather the data necessary for this, broad implementation of PRO assessments in clinical practice, as well as the harmonization of existing datasets, is suggested."
+        },
+        {
+          "rank": 2,
+          "score": 0.527184247970581,
+          "doc_id": "147",
+          "text": "A Survey of Topological Machine Learning Methods A Survey of Topological Machine Learning Methods A Survey of Topological Machine Learning Methods The last decade saw an enormous boost in the field of computational topology: methods and concepts from algebraic and differential topology, formerly confined to the realm of pure mathematics, have demonstrated their utility in numerous areas such as computational biology personalised medicine, and time-dependent data analysis, to name a few. The newly-emerging domain comprising topology-based techniques is often referred to as topological data analysis (TDA). Next to their applications in the aforementioned areas, TDA methods have also proven to be effective in supporting, enhancing, and augmenting both classical machine learning and deep learning models. In this paper, we review the state of the art of a nascent field we refer to as &ldquo;topological machine learning,&rdquo; i.e., the successful symbiosis of topology-based methods and machine learning algorithms, such as deep neural networks. We identify common threads, current applications, and future challenges."
+        },
+        {
+          "rank": 3,
+          "score": 0.5114965438842773,
+          "doc_id": "202",
+          "text": "Machine learning Machine learning Machine learning A short review of research and applications in machine learning is given. Rather than attempt to cover all areas of ML, the focus is on its role in building expert systems, its approach to classification problems and ML methods of learning control. A relatively new area, inductive logic programming, is also discussed."
+        },
+        {
+          "rank": 4,
+          "score": 0.5089406967163086,
+          "doc_id": "102",
+          "text": "Application of Deep Learning in Dentistry and Implantology Application of Deep Learning in Dentistry and Implantology Application of Deep Learning in Dentistry and Implantology Artificial intelligence and deep learning algorithms are infiltrating various fields of medicine and dentistry. The purpose of the current study was to review literatures applying deep learning algorithms to the dentistry and implantology. Electronic literature search through MEDLINE and IEEE Xplore library database was performed at 2019 October by combining free-text terms and entry terms associated with ‘dentistry’ and ‘deep learning’. The searched literature was screened by title/abstract level and full text level. Following data were extracted from the included studies: information of author, publication year, the aim of the study, architecture of deep learning, input data, output data, and performance of the deep learning algorithm in the study. 340 studies were retrieved from the databases and 62 studies were included in the study. Deep learning algorithms were applied to tooth localization and numbering, detection of dental caries/periodontal disease/periapical disease/oral cancerous lesion, localization of cephalometric landmarks, image quality enhancement, prediction and compensation of deformation error in additive manufacturing of prosthesis. Convolutional neural network was used for periapical radiograph, panoramic radiograph, or computed tomography in most of included studies. Deep learning algorithms are expected to help clinicians diagnose and make decisions by extracting dental data, detecting diseases and abnormal lesions, and improving image quality."
+        },
+        {
+          "rank": 5,
+          "score": 0.5047571659088135,
+          "doc_id": "74",
+          "text": "A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis The image analysis is an important and predominant task for classifying the different parts of the image. The analysis of complex image analysis like histopathological define a crucial factor in oncology due to its ability to help pathologists for interpretation of images and therefore various feature extraction techniques have been evolved from time to time for such analysis. Although deep reinforcement learning is a new and emerging technique but very less effort has been made to compare the deep learning and deep reinforcement learning for image analysis. The paper highlights how both techniques differ in feature extraction from complex images and discusses the potential pros and cons. The use of Convolution Neural Network (CNN) in image segmentation, detection and diagnosis of tumour, feature extraction is important but there are several challenges that need to be overcome before Deep Learning can be applied to digital pathology. The one being is the availability of sufficient training examples for medical image datasets, feature extraction from whole area of the image, ground truth localized annotations, adversarial effects of input representations and extremely large size of the digital pathological slides (in gigabytes).Even though formulating Histopathological Image Analysis (HIA) as Multi Instance Learning (MIL) problem is a remarkable step where histopathological image is divided into high resolution patches to make predictions for the patch and then combining them for overall slide predictions but it suffers from loss of contextual and spatial information. In such cases the deep reinforcement learning techniques can be used to learn feature from the limited data without losing contextual and spatial information."
+        }
+      ]
+    },
+    {
+      "query": "What are the key limitations or challenges of using machine learning classifiers combined with molecular docking for predicting cytochrome P450 ligand interactions?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 2
+      },
+      "top_k": 5,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.5465391874313354,
+          "doc_id": "142",
+          "text": "Machine learning in oncology-Perspectives in patient-reported outcome research Machine learning in oncology-Perspectives in patient-reported outcome research Machine learning in oncology-Perspectives in patient-reported outcome research AbstractBackgroundIncreasing data volumes in oncology pose new challenges for data analysis. Machine learning, a branch of artificial intelligence, can identify patterns even in very large and less structured datasets.ObjectiveThis article provides an overview of the possible applications for machine learning in oncology. Furthermore, the potential of machine learning in patient-reported outcome (PRO) research is discussed.Materials and methodsWe conducted a selective literature search (PubMed, MEDLINE, IEEE Xplore) and discuss current research.ResultsThere are three primary applications for machine learning in oncology: (1) cancer detection or classification; (2) overall survival prediction or risk assessment; and (3) supporting therapy decision-making and prediction of treatment response. Generally, machine learning approaches in oncology PRO research are scarce and few studies integrate PRO data into machine learning models.DiscussionMachine learning is a promising area of oncology, but few models have been transferred into clinical practice. The promise of personalized cancer therapy and shared decision-making through machine learning has yet to be realized. As an equally important emerging research area in oncology, PROs should also be incorporated into machine learning approaches. To gather the data necessary for this, broad implementation of PRO assessments in clinical practice, as well as the harmonization of existing datasets, is suggested."
+        },
+        {
+          "rank": 2,
+          "score": 0.5157290101051331,
+          "doc_id": "202",
+          "text": "Machine learning Machine learning Machine learning A short review of research and applications in machine learning is given. Rather than attempt to cover all areas of ML, the focus is on its role in building expert systems, its approach to classification problems and ML methods of learning control. A relatively new area, inductive logic programming, is also discussed."
+        },
+        {
+          "rank": 3,
+          "score": 0.5020038485527039,
+          "doc_id": "25",
+          "text": "A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis The image analysis is an important and predominant task for classifying the different parts of the image. The analysis of complex image analysis like histopathological define a crucial factor in oncology due to its ability to help pathologists for interpretation of images and therefore various feature extraction techniques have been evolved from time to time for such analysis. Although deep reinforcement learning is a new and emerging technique but very less effort has been made to compare the deep learning and deep reinforcement learning for image analysis. The paper highlights how both techniques differ in feature extraction from complex images and discusses the potential pros and cons. The use of Convolution Neural Network (CNN) in image segmentation, detection and diagnosis of tumour, feature extraction is important but there are several challenges that need to be overcome before Deep Learning can be applied to digital pathology. The one being is the availability of sufficient training examples for medical image datasets, feature extraction from whole area of the image, ground truth localized annotations, adversarial effects of input representations and extremely large size of the digital pathological slides (in gigabytes).Even though formulating Histopathological Image Analysis (HIA) as Multi Instance Learning (MIL) problem is a remarkable step where histopathological image is divided into high resolution patches to make predictions for the patch and then combining them for overall slide predictions but it suffers from loss of contextual and spatial information. In such cases the deep reinforcement learning techniques can be used to learn feature from the limited data without losing contextual and spatial information."
+        },
+        {
+          "rank": 4,
+          "score": 0.5020038485527039,
+          "doc_id": "74",
+          "text": "A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis A Comparison of Deep Reinforcement Learning and Deep learning for Complex Image Analysis The image analysis is an important and predominant task for classifying the different parts of the image. The analysis of complex image analysis like histopathological define a crucial factor in oncology due to its ability to help pathologists for interpretation of images and therefore various feature extraction techniques have been evolved from time to time for such analysis. Although deep reinforcement learning is a new and emerging technique but very less effort has been made to compare the deep learning and deep reinforcement learning for image analysis. The paper highlights how both techniques differ in feature extraction from complex images and discusses the potential pros and cons. The use of Convolution Neural Network (CNN) in image segmentation, detection and diagnosis of tumour, feature extraction is important but there are several challenges that need to be overcome before Deep Learning can be applied to digital pathology. The one being is the availability of sufficient training examples for medical image datasets, feature extraction from whole area of the image, ground truth localized annotations, adversarial effects of input representations and extremely large size of the digital pathological slides (in gigabytes).Even though formulating Histopathological Image Analysis (HIA) as Multi Instance Learning (MIL) problem is a remarkable step where histopathological image is divided into high resolution patches to make predictions for the patch and then combining them for overall slide predictions but it suffers from loss of contextual and spatial information. In such cases the deep reinforcement learning techniques can be used to learn feature from the limited data without losing contextual and spatial information."
+        },
+        {
+          "rank": 5,
+          "score": 0.4973810911178589,
+          "doc_id": "147",
+          "text": "A Survey of Topological Machine Learning Methods A Survey of Topological Machine Learning Methods A Survey of Topological Machine Learning Methods The last decade saw an enormous boost in the field of computational topology: methods and concepts from algebraic and differential topology, formerly confined to the realm of pure mathematics, have demonstrated their utility in numerous areas such as computational biology personalised medicine, and time-dependent data analysis, to name a few. The newly-emerging domain comprising topology-based techniques is often referred to as topological data analysis (TDA). Next to their applications in the aforementioned areas, TDA methods have also proven to be effective in supporting, enhancing, and augmenting both classical machine learning and deep learning models. In this paper, we review the state of the art of a nascent field we refer to as &ldquo;topological machine learning,&rdquo; i.e., the successful symbiosis of topology-based methods and machine learning algorithms, such as deep neural networks. We identify common threads, current applications, and future challenges."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "id": "row_000027",
+  "model_name": "BAAI/bge-m3",
+  "timestamp_kst": "2025-09-07T12:22:09.862915+09:00",
+  "trial_id": "220e3ba8",
+  "queries": [
+    {
+      "query": "DC 모터 제어 시스템에 딥 러닝 기반 제어기를 적용한 방법과 PID 제어기와의 성능 비교 결과를 요약해 주실 수 있나요?",
+      "query_meta": {
+        "type": "original"
+      },
+      "top_k": 5,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6893206834793091,
+          "doc_id": "175",
+          "text": "딥 러닝을 이용한 DC 모터 제어 딥 러닝을 이용한 DC 모터 제어 딥 러닝을 이용한 DC 모터 제어 딥 러닝(deep learning)은 최근에 많이 알려지게 된 심층 인공신경망 알고리즘이다. 일반적인 인공신경망보다 은닉층의 개수와 뉴런의 개수를 확장시키고, 학습이 효율적으로 될 수 있게 알고리즘을 개선한 것이 가장 큰 특징이다. 이러한 특징을 활용하여 기존의 인공신경망으로 풀지 못했던 크고 복잡한 문제들을 해결할 수 있게 되었다. 음성인식, 손 글씨 인식, 얼굴 인식 등 복잡한 패턴인식과 분류에 관련된 다양한 분야에 대한 적용 연구가 활발히 진행되고 있다. 하지만 이러한 장점에도 불구하고, 아직까지 딥 러닝이 제어문제를 해결하기 위해 적용된 사례는 찾아보기 어렵다. 본 논문에서는 간단한 사례를 통해 딥 러닝의 제어문제에 대한 적용 가능성을 확인해 본다. 딥 러닝 알고리즘 중에서 가장 잘 알려진, 깊은 믿음 네트워크(deep belief network) 알고리즘을 사용하여 산업현장에서 가장 많이 사용되고 있는 PID 제어기를 모방하는 딥 러닝 제어기를 설계한다. DC 모터를 제어하는 시스템에서 PID 제어기에 들어오는 입력과 PID 제어기에서 나오는 출력값을 학습 데이터로 사용하여 딥 러닝으로 학습하는 방법을 사용한다. 시뮬레이션을 통해 제안한 딥 러닝 제어기와 PID 제어기를 비교하여 딥 러닝 알고리즘의 성능을 검증한다."
+        },
+        {
+          "rank": 2,
+          "score": 0.5364276170730591,
+          "doc_id": "130",
+          "text": "딥러닝을 이용한 포트홀 검출 시스템 딥러닝을 이용한 포트홀 검출 시스템 딥러닝을 이용한 포트홀 검출 시스템 The automotive industry is developing day by day. Among them, it is very important to prevent accidents while driving. However, despite the importance of developing automobile industry technology, accidents due to road defects increase every year, especially in the rainy season. To this end, we proposed a road defect detection system for road management by converging deep learning and raspberry pi, which show various possibilities. In this paper, we developed a system that visually displays through a map after analyzing the images captured by the Raspberry Pi and the route GPS. The deep learning model trained for this system achieved 96% accuracy. Through this system, it is expected to manage road defects efficiently at a low cost."
+        },
+        {
+          "rank": 3,
+          "score": 0.5350813865661621,
+          "doc_id": "200",
+          "text": "딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 본 논문에서는 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조를 개발한다. 제안하는 복합 미생물 배양기는 수집한 복합 미생물 데이터에 대해 복합 미생물 데이터 전처리, 복합 미생물 데이터 구조 변환, 딥러닝 네트워크 설계, 설계한 딥러닝 네트워크 학습, 시제품에 적용되는 GUI 개발 등으로 구성된다. 복합 미생물 데이터 전처리에서는 미생물 배양에 필요한 당밀, 영양제, 식물엑기스, 소금 등의 양에 대해 원-핫 인코딩을 실시하며, 배양된 결과로 측정된 pH 농도와 미생물의 셀 수에 대해 최대-최소 정규화 방법을 사용하여 데이터를 전처리한다. 복합 미생물 데이터 구조 변환에서는 전처리된 데이터를 물 온도와 미생물의 셀 수를 연결하여 그래프 구조로 변환 후, 인접 행렬과 속성 정보로 나타내어 딥러닝 네트워크의 입력 데이터로 사용한다. 딥러닝 네트워크 설계에서는 그래프 구조에 특화된 그래프 합성곱 네트워크를 설계하여 복합 미생물 데이터를 학습시킨다. 설계한 딥러닝 네트워크는 Cosine 손실함수를 사용하여 학습 시에 발생하는 오차를 최소화하는 방향으로 학습을 진행한다. 시제품에 적용되는 GUI 개발은 사용자가 선택하는 물 온도에 따라 목표하는 pH 농도(3.8 이하) 복합 미생물의 셀 수(108 이상)를 배양시키기 적합한 순으로 나타낸다. 제안된 미생물 배양기의 성능을 평가하기 위하여 공인시험기관에서 실험한 결과는, pH 농도의 경우 평균 3.7로, 복합 미생물의 셀 수는 1.7 &#x00D7; 108으로 측정되었다. 따라서, 본 논문에서 제안한 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조의 효용성이 입증되었다."
+        },
+        {
+          "rank": 4,
+          "score": 0.5321303606033325,
+          "doc_id": "123",
+          "text": "딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝은 인공신경망(neural network)이라는 인공지능분야의 모형이 발전된 형태로서, 계층구조로 이루어진 인공신경망의 내부계층(hidden layer)이 여러 단계로 이루어진 구조이다. 딥러닝에서의 주요 모형은 합성곱신경망(convolutional neural network), 순환신경망(recurrent neural network), 그리고 심층신뢰신경망(deep belief network)의 세가지라고 할 수 있다. 그 중에서 현재 흥미로운 연구가 많이 발표되어서 관심이 집중되고 있는 모형은 지도학습(supervised learning)모형인 처음 두 개의 모형이다. 따라서 본 논문에서는 지도학습모형의 가중치를 최적화하는 기본적인 방법인 오류역전파 알고리즘을 살펴본 뒤에 합성곱신경망과 순환신경망의 구조와 응용사례 등을 살펴보고자 한다. 본문에서 다루지 않은 모형인 심층신뢰신경망은 아직까지는 합성곱신경망 이나 순환신경망보다는 상대적으로 주목을 덜 받고 있다. 그러나 심층신뢰신경망은 CNN이나 RNN과는 달리 비지도학습(unsupervised learning)모형이며, 사람이나 동물은 관찰을 통해서 스스로 학습한다는 점에서 궁극적으로는 비지도학습모형이 더 많이 연구되어야 할 주제가 될 것이다."
+        },
+        {
+          "rank": 5,
+          "score": 0.5101820230484009,
+          "doc_id": "26",
+          "text": "Design a personalized recommendation system using deep learning and reinforcement learning Design a personalized recommendation system using deep learning and reinforcement learning Design a personalized recommendation system using deep learning and reinforcement learning As the E-commerce market grows, the importance of personalized recommendation systems is increasing. Existing collaborative filtering and content-based filtering methods have shown a certain level of performance, but they have limitations such as cold start, data sparseness, and lack of long-term pattern learning. In this study, we design a matching system that combines a hybrid recommendation system and hyper-personalization technology and propose an efficient recommendation system. The core of the study is to develop a recommendation model that can improve recommendation accuracy and increase user satisfaction compared to existing systems. The proposed elements are as follows. First, the hybrid-hyper-personalization matching system provides recommendation accuracy compared to existing methods. Second, we propose an optimal product matching model that reflects user context using real-time data. Third, we optimize Personalized Recommendation System using deep learning and reinforcement learning. Fourth, we present a method to objectively evaluate recommendation performance through A/B testing."
+        }
+      ]
+    },
+    {
+      "query": "DC 모터 제어 시스템에 딥 러닝 기반 제어기를 어떻게 적용했나요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 0
+      },
+      "top_k": 5,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6613180041313171,
+          "doc_id": "175",
+          "text": "딥 러닝을 이용한 DC 모터 제어 딥 러닝을 이용한 DC 모터 제어 딥 러닝을 이용한 DC 모터 제어 딥 러닝(deep learning)은 최근에 많이 알려지게 된 심층 인공신경망 알고리즘이다. 일반적인 인공신경망보다 은닉층의 개수와 뉴런의 개수를 확장시키고, 학습이 효율적으로 될 수 있게 알고리즘을 개선한 것이 가장 큰 특징이다. 이러한 특징을 활용하여 기존의 인공신경망으로 풀지 못했던 크고 복잡한 문제들을 해결할 수 있게 되었다. 음성인식, 손 글씨 인식, 얼굴 인식 등 복잡한 패턴인식과 분류에 관련된 다양한 분야에 대한 적용 연구가 활발히 진행되고 있다. 하지만 이러한 장점에도 불구하고, 아직까지 딥 러닝이 제어문제를 해결하기 위해 적용된 사례는 찾아보기 어렵다. 본 논문에서는 간단한 사례를 통해 딥 러닝의 제어문제에 대한 적용 가능성을 확인해 본다. 딥 러닝 알고리즘 중에서 가장 잘 알려진, 깊은 믿음 네트워크(deep belief network) 알고리즘을 사용하여 산업현장에서 가장 많이 사용되고 있는 PID 제어기를 모방하는 딥 러닝 제어기를 설계한다. DC 모터를 제어하는 시스템에서 PID 제어기에 들어오는 입력과 PID 제어기에서 나오는 출력값을 학습 데이터로 사용하여 딥 러닝으로 학습하는 방법을 사용한다. 시뮬레이션을 통해 제안한 딥 러닝 제어기와 PID 제어기를 비교하여 딥 러닝 알고리즘의 성능을 검증한다."
+        },
+        {
+          "rank": 2,
+          "score": 0.529798150062561,
+          "doc_id": "123",
+          "text": "딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝의 모형과 응용사례 딥러닝은 인공신경망(neural network)이라는 인공지능분야의 모형이 발전된 형태로서, 계층구조로 이루어진 인공신경망의 내부계층(hidden layer)이 여러 단계로 이루어진 구조이다. 딥러닝에서의 주요 모형은 합성곱신경망(convolutional neural network), 순환신경망(recurrent neural network), 그리고 심층신뢰신경망(deep belief network)의 세가지라고 할 수 있다. 그 중에서 현재 흥미로운 연구가 많이 발표되어서 관심이 집중되고 있는 모형은 지도학습(supervised learning)모형인 처음 두 개의 모형이다. 따라서 본 논문에서는 지도학습모형의 가중치를 최적화하는 기본적인 방법인 오류역전파 알고리즘을 살펴본 뒤에 합성곱신경망과 순환신경망의 구조와 응용사례 등을 살펴보고자 한다. 본문에서 다루지 않은 모형인 심층신뢰신경망은 아직까지는 합성곱신경망 이나 순환신경망보다는 상대적으로 주목을 덜 받고 있다. 그러나 심층신뢰신경망은 CNN이나 RNN과는 달리 비지도학습(unsupervised learning)모형이며, 사람이나 동물은 관찰을 통해서 스스로 학습한다는 점에서 궁극적으로는 비지도학습모형이 더 많이 연구되어야 할 주제가 될 것이다."
+        },
+        {
+          "rank": 3,
+          "score": 0.5198856592178345,
+          "doc_id": "130",
+          "text": "딥러닝을 이용한 포트홀 검출 시스템 딥러닝을 이용한 포트홀 검출 시스템 딥러닝을 이용한 포트홀 검출 시스템 The automotive industry is developing day by day. Among them, it is very important to prevent accidents while driving. However, despite the importance of developing automobile industry technology, accidents due to road defects increase every year, especially in the rainy season. To this end, we proposed a road defect detection system for road management by converging deep learning and raspberry pi, which show various possibilities. In this paper, we developed a system that visually displays through a map after analyzing the images captured by the Raspberry Pi and the route GPS. The deep learning model trained for this system achieved 96% accuracy. Through this system, it is expected to manage road defects efficiently at a low cost."
+        },
+        {
+          "rank": 4,
+          "score": 0.5102539658546448,
+          "doc_id": "200",
+          "text": "딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 본 논문에서는 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조를 개발한다. 제안하는 복합 미생물 배양기는 수집한 복합 미생물 데이터에 대해 복합 미생물 데이터 전처리, 복합 미생물 데이터 구조 변환, 딥러닝 네트워크 설계, 설계한 딥러닝 네트워크 학습, 시제품에 적용되는 GUI 개발 등으로 구성된다. 복합 미생물 데이터 전처리에서는 미생물 배양에 필요한 당밀, 영양제, 식물엑기스, 소금 등의 양에 대해 원-핫 인코딩을 실시하며, 배양된 결과로 측정된 pH 농도와 미생물의 셀 수에 대해 최대-최소 정규화 방법을 사용하여 데이터를 전처리한다. 복합 미생물 데이터 구조 변환에서는 전처리된 데이터를 물 온도와 미생물의 셀 수를 연결하여 그래프 구조로 변환 후, 인접 행렬과 속성 정보로 나타내어 딥러닝 네트워크의 입력 데이터로 사용한다. 딥러닝 네트워크 설계에서는 그래프 구조에 특화된 그래프 합성곱 네트워크를 설계하여 복합 미생물 데이터를 학습시킨다. 설계한 딥러닝 네트워크는 Cosine 손실함수를 사용하여 학습 시에 발생하는 오차를 최소화하는 방향으로 학습을 진행한다. 시제품에 적용되는 GUI 개발은 사용자가 선택하는 물 온도에 따라 목표하는 pH 농도(3.8 이하) 복합 미생물의 셀 수(108 이상)를 배양시키기 적합한 순으로 나타낸다. 제안된 미생물 배양기의 성능을 평가하기 위하여 공인시험기관에서 실험한 결과는, pH 농도의 경우 평균 3.7로, 복합 미생물의 셀 수는 1.7 &#x00D7; 108으로 측정되었다. 따라서, 본 논문에서 제안한 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조의 효용성이 입증되었다."
+        },
+        {
+          "rank": 5,
+          "score": 0.5004050731658936,
+          "doc_id": "12",
+          "text": "= Deep Learning을 이용한ROS기반의 모바일 로봇의 자율 주행 제어 = Deep Learning을 이용한ROS기반의 모바일 로봇의 자율 주행 제어 = Deep Learning을 이용한ROS기반의 모바일 로봇의 자율 주행 제어 최근 영상처리 기술의 발전과 인공지능 및 Deep learning 기술의 발전으로 말미암아 자율주행 자동차가 앞으로의 시장을 주도할 차세대 기술로 주목되고 있다. 그에 맞추어 본 논문에서는 ROS(Robot Operate System) 기반의 모바일 로봇인 ‘터틀봇3’를 활용하여 라인의 영상처리 이미지 데이터를 추출 한 후 라인을 트랙킹하는 자율 주행 제어를 구현하였다. 영상처리는 ‘OpenCV’를 기본으로 하여 Canny 알고리즘과 Houghline 알고리즘을 통해 라인을 검출 한 후 이미지 데이터를 ROS의 메시지 통신을 통해 전송되고, 전송된 데이터를 바탕으로 모바일 로봇의 주행을 제어 한다. Deep Learning을 이용하여 모바일 로봇의 주행 기록을 학습시켜 모바일 로봇의 주행을 보완한다."
+        }
+      ]
+    },
+    {
+      "query": "딥 러닝 기반 제어기와 PID 제어기의 성능 비교 결과는 무엇인가요?",
+      "query_meta": {
+        "type": "single_hop",
+        "index": 1
+      },
+      "top_k": 5,
+      "hits": [
+        {
+          "rank": 1,
+          "score": 0.6030646562576294,
+          "doc_id": "175",
+          "text": "딥 러닝을 이용한 DC 모터 제어 딥 러닝을 이용한 DC 모터 제어 딥 러닝을 이용한 DC 모터 제어 딥 러닝(deep learning)은 최근에 많이 알려지게 된 심층 인공신경망 알고리즘이다. 일반적인 인공신경망보다 은닉층의 개수와 뉴런의 개수를 확장시키고, 학습이 효율적으로 될 수 있게 알고리즘을 개선한 것이 가장 큰 특징이다. 이러한 특징을 활용하여 기존의 인공신경망으로 풀지 못했던 크고 복잡한 문제들을 해결할 수 있게 되었다. 음성인식, 손 글씨 인식, 얼굴 인식 등 복잡한 패턴인식과 분류에 관련된 다양한 분야에 대한 적용 연구가 활발히 진행되고 있다. 하지만 이러한 장점에도 불구하고, 아직까지 딥 러닝이 제어문제를 해결하기 위해 적용된 사례는 찾아보기 어렵다. 본 논문에서는 간단한 사례를 통해 딥 러닝의 제어문제에 대한 적용 가능성을 확인해 본다. 딥 러닝 알고리즘 중에서 가장 잘 알려진, 깊은 믿음 네트워크(deep belief network) 알고리즘을 사용하여 산업현장에서 가장 많이 사용되고 있는 PID 제어기를 모방하는 딥 러닝 제어기를 설계한다. DC 모터를 제어하는 시스템에서 PID 제어기에 들어오는 입력과 PID 제어기에서 나오는 출력값을 학습 데이터로 사용하여 딥 러닝으로 학습하는 방법을 사용한다. 시뮬레이션을 통해 제안한 딥 러닝 제어기와 PID 제어기를 비교하여 딥 러닝 알고리즘의 성능을 검증한다."
+        },
+        {
+          "rank": 2,
+          "score": 0.519882082939148,
+          "doc_id": "200",
+          "text": "딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조 개발 본 논문에서는 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조를 개발한다. 제안하는 복합 미생물 배양기는 수집한 복합 미생물 데이터에 대해 복합 미생물 데이터 전처리, 복합 미생물 데이터 구조 변환, 딥러닝 네트워크 설계, 설계한 딥러닝 네트워크 학습, 시제품에 적용되는 GUI 개발 등으로 구성된다. 복합 미생물 데이터 전처리에서는 미생물 배양에 필요한 당밀, 영양제, 식물엑기스, 소금 등의 양에 대해 원-핫 인코딩을 실시하며, 배양된 결과로 측정된 pH 농도와 미생물의 셀 수에 대해 최대-최소 정규화 방법을 사용하여 데이터를 전처리한다. 복합 미생물 데이터 구조 변환에서는 전처리된 데이터를 물 온도와 미생물의 셀 수를 연결하여 그래프 구조로 변환 후, 인접 행렬과 속성 정보로 나타내어 딥러닝 네트워크의 입력 데이터로 사용한다. 딥러닝 네트워크 설계에서는 그래프 구조에 특화된 그래프 합성곱 네트워크를 설계하여 복합 미생물 데이터를 학습시킨다. 설계한 딥러닝 네트워크는 Cosine 손실함수를 사용하여 학습 시에 발생하는 오차를 최소화하는 방향으로 학습을 진행한다. 시제품에 적용되는 GUI 개발은 사용자가 선택하는 물 온도에 따라 목표하는 pH 농도(3.8 이하) 복합 미생물의 셀 수(108 이상)를 배양시키기 적합한 순으로 나타낸다. 제안된 미생물 배양기의 성능을 평가하기 위하여 공인시험기관에서 실험한 결과는, pH 농도의 경우 평균 3.7로, 복합 미생물의 셀 수는 1.7 &#x00D7; 108으로 측정되었다. 따라서, 본 논문에서 제안한 딥러닝 예측 결과 정보를 적용하는 복합 미생물 배양기를 위한 딥러닝 구조의 효용성이 입증되었다."
+        },
+        {
+          "rank": 3,
+          "score": 0.5062597990036011,
+          "doc_id": "155",
+          "text": "Machine Learning Versus Deep Learning Performances on the Sentiment Analysis of Product Reviews Machine Learning Versus Deep Learning Performances on the Sentiment Analysis of Product Reviews Machine Learning Versus Deep Learning Performances on the Sentiment Analysis of Product Reviews At this current digital era, business platforms have been drastically shifted toward online stores on internet. With the internet-based platform, customers can order goods easily using their smart phones and get delivery at their place without going to the shopping mall. However, the drawback of this business platform is that customers do not really know about the quality of the products they ordered. Therefore, such platform service often provides the review section to let previous customers leave a review about the received product. The reviews are a good source to analyze customer's satisfaction. Business owners can assess review trend as either positive or negative based on a feedback score that customers had given, but it takes too much time for human to analyze this data. In this research, we develop computational models using machine learning techniques to classify product reviews as positive or negative based on the sentiment analysis. In our experiments, we use the book review data from amazon.com to develop the models. For a machine learning based strategy, the data had been transformed with the bag of word technique before developing models using logistic regression, na&iuml;ve bayes, support vector machine, and neural network algorithms. For a deep learning strategy, the word embedding is a technique that we used to transform data before applying the long short-term memory and gated recurrent unit techniques. On comparing performance of machine learning against deep learning models, we compare results from the two methods with both the preprocessed dataset and the non-preprocessed dataset. The result is that the bag of words with neural network outperforms other techniques on both non-preprocess and preprocess datasets."
+        },
+        {
+          "rank": 4,
+          "score": 0.5027018785476685,
+          "doc_id": "130",
+          "text": "딥러닝을 이용한 포트홀 검출 시스템 딥러닝을 이용한 포트홀 검출 시스템 딥러닝을 이용한 포트홀 검출 시스템 The automotive industry is developing day by day. Among them, it is very important to prevent accidents while driving. However, despite the importance of developing automobile industry technology, accidents due to road defects increase every year, especially in the rainy season. To this end, we proposed a road defect detection system for road management by converging deep learning and raspberry pi, which show various possibilities. In this paper, we developed a system that visually displays through a map after analyzing the images captured by the Raspberry Pi and the route GPS. The deep learning model trained for this system achieved 96% accuracy. Through this system, it is expected to manage road defects efficiently at a low cost."
+        },
+        {
+          "rank": 5,
+          "score": 0.49440908432006836,
+          "doc_id": "50",
+          "text": "Deep Learning 프레임워크 성능 비교 연구 : Cloud Computing 환경에서 Deep Learning 프레임워크 성능 비교 연구 : Cloud Computing 환경에서 Deep Learning 프레임워크 성능 비교 연구 : Cloud Computing 환경에서 통신 기술의 발달로 인한 사람과 사람, 장치와 장치, 사람과 장치 간의 연결성의 증가와 저장 매체 기술의 발달, 그리고 데이터 저장 비용의 감소로 인해 데이터의 양이 폭발적으로 증가했다. 이에 따라 다양한 형태의 대규모의 데이터를 빠른 시간 내에 효율적으로 처리할 수 있는 Cloud Computing 기술이 주목 받고 있고, Cloud Computing을 위한 오픈소스 기반의 솔루션 또한 많이 나타나게 되었다. &amp;#xD; 2012년부터 주목받기 시작한 Deep Learning은 전 세계적으로 가장 많은 관심을 받는 연구 분야 중 하나이며, 이중 CNN(Convolution Neural Network)은 가장 대표적 알고리즘이다. Deep Learning은 미래사회를 이끌어갈 분야로 평가받고 있으며, 이에 따라 많은 연구들이 진행되고 있고, Deep Learning을 쉽게 활용할 수 있도록 하는 많은 프레임워크가 개발되었다. &amp;#xD; 이에 따라 많은 사람들이 쉽게 Deep Learning을 접할 수 있게 되었지만 특정 환경에서 어떤 프레임워크가 더 우수한 성능을 보이는지에 대한 연구는 부족한 실정이다. 본 논문에서는 특정 환경에서의 성능 비교가 부족하다는 기존 연구의 한계점을 개선하고자 가장 대표적인 Cloud Computing용 오픈소스 소프트웨어 중 하나인 OpenStack을 이용하여 Cloud Computing 환경에서 어떤 Deep Learning 프레임워크가 더 우수한 성능을 보이는지 비교해 보고자 한다."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2
+  }
+}
