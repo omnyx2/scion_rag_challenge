@@ -8,8 +8,8 @@ extract_questions.py (SIMPLE)
 예시
 ----
 python extract_questions.py \
-  --input /workspace/src/data/scion/test.csv \
-  --output /workspace/src/data/scion/questions/questions.jsonl \
+  --input /workspace/data/rag_test_data/scion.csv \
+  --output /workspace/data/rag_test_data/questions.jsonl \
   --question-col Question
 """
 

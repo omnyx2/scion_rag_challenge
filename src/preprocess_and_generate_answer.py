@@ -5,87 +5,21 @@ import argparse
 import copy
 from typing import List, Dict, Optional
 import google.generativeai as genai
+import concurrent.futures
+from functools import partial
+import time
+
+# --- 사용자 요청 기능 구현 ---
+from llm_client.init_gemini import init_gemini
+from llm_client.call_gemini import call_gemini
+from prompts.general.generate_answer_base_v2 import build_prompt
 
 # --- Gemini API 호출을 위한 기본 설정 및 함수 ---
 """
 
-python preprocess_and_generate_answer.py     --input_dir "/home/hyunseok/Projects/PythonPlayground/results/retrival_docs/250907_164655_PwC_3title_abstact/"     --max_rank 3
+python preprocess_and_generate_answer.py     \
+  --input_dir /workspace/results/retrival_docs/250908_235532 --max_rank 1 --parallel True
 """
-
-def init_gemini(
-    model_name: str, api_key: str, temperature: float, seed: Optional[int]
-) -> genai.GenerativeModel:
-    """
-    Gemini 모델을 초기화합니다.
-    사용자 제공 코드 기반.
-    """
-    genai.configure(api_key=api_key)
-    generation_config = genai.GenerationConfig(
-        temperature=temperature,
-        candidate_count=1,
-    )
-    # 결정론적 출력을 위해 시드 설정
-    if seed is not None:
-        generation_config.seed = seed
-
-    return genai.GenerativeModel(
-        model_name=model_name,
-        generation_config=generation_config,
-    )
-
-
-def call_gemini(model: genai.GenerativeModel, messages: List[Dict[str, str]]) -> str:
-    """
-    Gemini 모델을 호출하고 응답 텍스트를 반환합니다.
-    사용자 제공 코드 기반, 예외 처리 추가.
-    """
-    try:
-        # messages는 [{'role': 'user', 'parts': [prompt]}] 형태의 리스트
-        prompt = messages[0]["parts"][0]
-        response = model.generate_content(prompt)
-        return response.text
-    except Exception as e:
-        print(f"Error calling Gemini API: {e}")
-        return f"API 호출 중 오류 발생: {e}"
-
-
-# --- 사용자 요청 기능 구현 ---
-
-
-def build_prompt(original_query: str, context_json_string: str) -> str:
-    """
-    최종 질문과 JSON 컨텍스트 문자열을 받아 API 프롬프트를 생성합니다.
-    """
-    prompt_template = """You will be given a JSON object as a string which contains a series of related search queries and their retrieved documents ('hits'). Do not make answer from external knowledge. You must make answer inside of Context.
-Your main task is to answer the specific 'Question' provided below. Use the entire JSON data as context to formulate your answer, paying close attention to the 'text' fields within the 'hits' lists.
-
-The JSON data has a list of queries. The 'original' query is the one you need to answer. The other queries are supplementary and provide additional context.
-
-If the 'Question' is in Korean, format your answer in Korean as follows:
-##제목##
-
-##서론##
-
-##본론##
-
-##결론##
-
-If the 'Question' is in English, format your answer in English as follows, If English then Just write title inside of ##{{Title}}##:
-##{{Title}}##
-
-##Introduction##
-
-##Main Body##
-
-##Conclusion##
-
---- Context (JSON Data) ---
-{context}
-
---- Question ---
-{query}
-"""
-    return prompt_template.format(context=context_json_string, query=original_query)
 
 
 def process_file(
@@ -159,6 +93,57 @@ def process_file(
     return [result_data]  # 파일 당 하나의 결과가 있으므로 리스트에 담아 반환
 
 
+# --- ✨ 새로운 병렬 파일 처리 함수 ✨ ---
+
+
+def process_files_parallel(
+    filepaths: List[str],
+    max_rank: int,
+    model_obj: genai.GenerativeModel,
+    max_workers: int,
+) -> List[Dict]:
+    """
+    여러 파일을 병렬로 처리합니다.
+
+    Args:
+        filepaths (List[str]): 처리할 JSON 파일 경로의 리스트.
+        max_rank (int): 'hits'를 필터링할 최대 순위.
+        model_obj (genai.GenerativeModel): 초기화된 Gemini 모델 객체.
+        max_workers (int): 동시에 실행할 최대 스레드(작업자) 수.
+
+    Returns:
+        List[Dict]: 모든 파일에서 집계된 결과 데이터의 리스트.
+    """
+    if not filepaths:
+        print("Warning: No filepaths provided for parallel processing.")
+        return []
+
+    # functools.partial을 사용하여 process_file 함수에 고정 인자(max_rank, model_obj)를 미리 전달합니다.
+    # 이렇게 하면 스레드 풀의 map 함수에 파일 경로만 인자로 넘겨줄 수 있습니다.
+    worker_func = partial(process_file, max_rank=max_rank, model_obj=model_obj)
+
+    all_results = []
+    with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
+        # executor.map은 각 파일 경로에 대해 worker_func를 실행하고,
+        # 결과(각 파일 처리 결과가 담긴 리스트)를 순서대로 반환합니다.
+        future_to_path = {
+            executor.submit(worker_func, path): path for path in filepaths
+        }
+
+        for future in concurrent.futures.as_completed(future_to_path):
+            path = future_to_path[future]
+            try:
+                # process_file은 결과를 리스트([result_data])로 반환하므로,
+                # extend를 사용하여 전체 결과 리스트에 추가합니다.
+                result = future.result()
+                if result:
+                    all_results.extend(result)
+            except Exception as exc:
+                print(f"File '{os.path.basename(path)}' generated an exception: {exc}")
+
+    return all_results
+
+
 def main():
     """
     스크립트의 메인 실행 함수.
@@ -183,7 +168,7 @@ def main():
     parser.add_argument(
         "--model",
         default="gemini-2.5-flash",
-        help="사용할 Gemini 모델 이름 (예: gemini-1.5-pro-latest, gemini-1.5-flash-latest).",
+        help="사용할 Gemini 모델 이름 (예: gemini-2.5-pro, gemini-2.5-flash).",
     )
     parser.add_argument(
         "--api_key",
@@ -198,7 +183,7 @@ def main():
         default="/workspace/data/expr/final_result",
         help="각 결과를 개별 JSON 파일로 저장할 디렉토리 경로.",
     )
-
+    parser.add_argument("--parallel", required=False)
     args = parser.parse_args()
 
     if not args.api_key:
@@ -223,22 +208,64 @@ def main():
         return
 
     processed_count = 0
-    for path in file_paths:
-        processed_data_list = process_file(path, args.max_rank, model_obj)
+    if not args.parallel:
+        for path in file_paths:
+            processed_data_list = process_file(path, args.max_rank, model_obj)
 
-        if processed_data_list:
-            result_data = processed_data_list[0]
-            result_id = result_data["id"]
+            if processed_data_list:
+                result_data = processed_data_list[0]
+                result_id = result_data["id"]
+                output_filename = os.path.join(args.output_dir, f"{result_id}.json")
+
+                with open(output_filename, "w", encoding="utf-8") as f:
+                    json.dump(result_data, f, ensure_ascii=False, indent=4)
+
+                processed_count += 1
+                print(
+                    "Done:"
+                    + "["
+                    + str(processed_count)
+                    + "/"
+                    + str(len(processed_data_list))
+                    + "]"
+                )
+
+        print(
+            f"\n✅ 처리가 완료되었습니다. 총 {processed_count}개의 결과 파일이 '{args.output_dir}'에 저장되었습니다."
+        )
+    if args.parallel:
+        # --- 병렬 처리 실행 ---
+        MAX_PARALLEL_FILES = 10  # 동시에 처리할 최대 파일 수
+
+        print(
+            f"Starting parallel processing for {len(file_paths)} files with max {MAX_PARALLEL_FILES} workers..."
+        )
+        start_time = time.time()
+
+        final_results = process_files_parallel(
+            filepaths=file_paths,
+            max_rank=args.max_rank,
+            model_obj=model_obj,
+            max_workers=MAX_PARALLEL_FILES,
+        )
+
+        end_time = time.time()
+
+        print("\n" + "=" * 50)
+        print("           PARALLEL PROCESSING COMPLETE")
+        print("=" * 50 + "\n")
+        # --- 결과 출력 ---
+        print(
+            f"\n✅ Successfully processed {len(final_results)} out of {len(file_paths)} files."
+        )
+        print(f"Total execution time: {end_time - start_time:.2f} seconds.")
+
+        for dataaa in final_results:
+            result_id = dataaa["id"]
             output_filename = os.path.join(args.output_dir, f"{result_id}.json")
 
             with open(output_filename, "w", encoding="utf-8") as f:
-                json.dump(result_data, f, ensure_ascii=False, indent=4)
-
-            processed_count += 1
-
-    print(
-        f"\n✅ 처리가 완료되었습니다. 총 {processed_count}개의 결과 파일이 '{args.output_dir}'에 저장되었습니다."
-    )
+                json.dump(dataaa, f, ensure_ascii=False, indent=4)
 
 
 if __name__ == "__main__":

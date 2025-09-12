@@ -15,11 +15,11 @@ Features
 
 Example
 -------
-python multi_hopt_to_single_hop.py \
-  --input data/multihop.jsonl \
-  --output data/singlehop.jsonl \
+python multi_hop_to_single_hop.py \
+  --input /workspace/data/rag_test_data/questions.jsonl \
+  --output /workspace/data/expr/singlehop_decompose.jsonl \
   --question_field question --context_field context \
-  --mode decompose --model gemini-1.5-pro
+  --mode decompose --model gemini-2.5-flash 
 
 Input JSONL example (one JSON per line):
 {"id":"hotpot_0001", "question":"Which author wrote the novel adapted into the film directed by...", "context":"<optional extra context or passages>", "answer":"<optional>"}
@@ -34,348 +34,182 @@ Notes
 - To ensure deterministic output: set --temperature 0.0 and --seed.
 """
 
-from __future__ import annotations
+#!/usr/bin/env python3
+# main.py
+"""
+Multi-hop 질문을 Single-hop으로 변환하는 프로세스 실행 스크립트.
 
+이 스크립트의 역할:
+- 커맨드 라인 인자 파싱
+- 입력 데이터 로딩 (JSONL 파일 또는 직접 입력)
+- LLM 클라이언트 초기화
+- 데이터 순회, 속도 제한(rate limiting), 오류 처리 관리
+- 각 데이터에 대한 핵심 로직(llm_processor) 호출
+- 최종 결과를 파일에 저장하거나 콘솔에 출력
+"""
 import argparse
 import json
-import os
-import re
-import sys
 import time
-import math
-import random
-from typing import Dict, Any, List, Optional
+from typing import Dict, Any, List
 
-try:
-    import google.generativeai as genai
-except Exception as e:  # pragma: no cover
-    genai = None
+# --- 핵심 로직 임포트 ---
+# llm_processor.py 파일이 같은 디렉토리나 PYTHONPATH에 있다고 가정합니다.
+from features.llm_question_decomposer import process_single_record
 
-
-DEFAULT_PROMPT = {
-    "decompose": (
-        """
-You are an expert question decomposer.
-Given a potentially multi-hop question (and optional context), produce the **minimal** set of independent, single-hop questions that, when answered, enable a solver to answer the original question.
-
-Requirements:
-- Each item must be answerable without external tools other than the given context and common knowledge.
-- Avoid redundancy; keep the set as small as possible while sufficient.
-- Prefer entity- and relation-focused questions.
-- Do NOT answer anything. Only output the questions.
-- Output strict JSON only, no extra text.
-
-Return JSON with this schema:
-{
-  "single_hop_questions": ["q1", "q2", ...]
-}
-"""
-    ).strip(),
-    "chain": (
-        """
-You are an expert question planner.
-Decompose the given multi-hop question into an **ordered** chain of single-hop questions such that each step leads naturally to the next and ultimately to the final answer.
-
-Rules:
-- Each question should be solvable on its own given prior steps and provided context.
-- Keep the chain concise (3-6 steps typical). No answers, only questions.
-- Output strict JSON only.
-
-Schema:
-{
-  "steps": [
-    {"index": 1, "question": "..."},
-    {"index": 2, "question": "..."}
-  ]
-}
-"""
-    ).strip(),
-    "rewrite": (
-        """
-You are an expert question rewriter.
-Rewrite the given multi-hop question into a single, simpler **single-hop** question that preserves the original target and remains answerable (ideally with the provided context).
-
-Rules:
-- Keep core semantics and target unchanged.
-- Remove multi-hop dependencies by substituting intermediate facts directly if they are present in the context. If not, reformulate to a single relation query.
-- Output strict JSON only.
-
-Schema:
-{
-  "single_hop_question": "..."
-}
-"""
-    ).strip(),
-}
+# --- 유틸리티 및 클라이언트 임포트 ---
+from llm_client.init_gemini import init_gemini
+from llm_client.prompts_tools import read_jsonl
+from utils.write_jsonl import write_jsonl
 
 
-def _extract_json(text: str) -> Any:
-    """Extract a JSON object/array from a model response.
+def run_batch_processing(args: argparse.Namespace, model_obj: Any):
+    """입력 파일에서 레코드를 읽어 처리하고, 출력 파일에 저장합니다."""
+    if not args.output:
+        raise ValueError("--input 사용 시에는 반드시 --output을 지정해야 합니다.")
 
-    Handles fenced blocks and stray prose. Raises ValueError on failure.
-    """
-    if text is None:
-        raise ValueError("Empty response from model.")
-    # Try code fences first
-    fence = re.search(r"```(?:json)?\n(.*?)\n```", text, re.DOTALL | re.IGNORECASE)
-    candidate = fence.group(1) if fence else text
-    # Trim leading/trailing non-json
-    start = candidate.find("{")
-    start_arr = candidate.find("[")
-    if start == -1 or (start_arr != -1 and start_arr < start):
-        start = start_arr
-    if start == -1:
-        raise ValueError("No JSON object/array found in response.")
-    # Find last closing brace/bracket
-    end = max(candidate.rfind("}"), candidate.rfind("]")) + 1
-    payload = candidate[start:end]
-    return json.loads(payload)
+    records = read_jsonl(args.input)
+    results: List[Dict[str, Any]] = []
 
+    last_request_time = 0.0
+    min_interval = 1.0 / args.qps if args.qps and args.qps > 0 else 0.0
 
-def _retry_sleep(base: float, attempt: int, jitter: bool = True) -> None:
-    # Exponential backoff with jitter
-    delay = base * (2 ** (attempt - 1))
-    if jitter:
-        delay = delay * (0.5 + random.random())
-    time.sleep(min(delay, 30.0))
-
-
-def init_gemini(
-    model: str, api_key: Optional[str], temperature: float, seed: Optional[int]
-) -> Any:
-    if genai is None:
-        raise RuntimeError(
-            "google-generativeai is not installed.\nInstall: pip install google-generativeai"
-        )
-    key = api_key or os.environ.get("GOOGLE_API_KEY")
-    if not key:
-        raise RuntimeError("Missing API key. Set --api_key or GOOGLE_API_KEY env var.")
-    genai.configure(api_key=key)
-    generation_config = {
-        "temperature": temperature,
-        "candidate_count": 1,
-        "max_output_tokens": 2048,
-        "response_mime_type": "application/json",
-    }
-    safety_settings = None  # use defaults
-    model_obj = genai.GenerativeModel(
-        model_name=model,
-        generation_config=generation_config,
-        safety_settings=safety_settings,
+    print(
+        f"'{args.input}' 파일의 총 {len(records)}개 레코드에 대한 배치 처리를 시작합니다..."
     )
-    # Set seed if supported
-    if seed is not None:
+
+    for idx, rec in enumerate(records, start=1):
+        # 1. API 요청 속도 제어
+        now = time.time()
+        if min_interval > 0 and now - last_request_time < min_interval:
+            time.sleep(min_interval - (now - last_request_time))
+
+        # 2. 핵심 로직 호출 및 예외 처리
         try:
-            model_obj._generation_config["seed"] = seed  # type: ignore[attr-defined]
-        except Exception:
-            pass
-    return model_obj
+            print(f"({idx}/{len(records)}) 처리 중 (ID: {rec.get('id', 'N/A')})...")
+            processed_result = process_single_record(
+                rec, args.mode, model_obj, args.question_field, args.context_field
+            )
+            # 실행 관련 메타데이터 추가
+            processed_result.setdefault("meta", {})
+            processed_result["meta"].update(
+                {"model": args.model, "temperature": args.temperature}
+            )
+            results.append(processed_result)
+
+        except Exception as e:
+            print(f"오류 발생 (레코드 {idx}, ID: {rec.get('id', 'N/A')}): {e}")
+            # 실패한 경우, 에러 정보를 결과에 기록하고 계속 진행
+            results.append(
+                {
+                    "id": rec.get("id"),
+                    "mode": args.mode,
+                    "error": str(e),
+                    "original_record": rec,
+                }
+            )
+
+        last_request_time = time.time()
+
+    # 3. 최종 결과 저장
+    write_jsonl(args.output, results)
+    print(f"\n✅ 총 {len(results)}개의 결과를 '{args.output}' 파일에 저장했습니다.")
 
 
-def build_messages(
-    mode: str, question: str, context: Optional[str]
-) -> List[Dict[str, str]]:
-    system = DEFAULT_PROMPT[mode]
-    user_parts = []
-    user_parts.append(f"Question:\n{question}".strip())
-    if context:
-        user_parts.append(f"\nContext:\n{context}".strip())
-    # For Gemini, we pass as a single string with system-style instruction included in the prompt
-    prompt = system + "\n\n" + "\n\n".join(user_parts)
-    return [{"role": "user", "parts": [prompt]}]
+def run_single_processing(args: argparse.Namespace, model_obj: Any):
+    """커맨드 라인으로 직접 입력받은 단일 질문을 처리합니다."""
+    record = {"id": None, "question": args.question}
+    if args.context:
+        record["context"] = args.context
 
+    try:
+        result = process_single_record(
+            record, args.mode, model_obj, "question", "context"
+        )
+        result.setdefault("meta", {})
+        result["meta"].update({"model": args.model, "temperature": args.temperature})
 
-def call_gemini(
-    model_obj: Any, messages: List[Dict[str, str]], max_retries: int = 5
-) -> Any:
-    last_err = None
-    for attempt in range(1, max_retries + 1):
-        try:
-            resp = model_obj.generate_content(messages[0]["parts"][0])
-            text = resp.text if hasattr(resp, "text") else str(resp)
-            return _extract_json(text)
-        except Exception as e:  # includes parsing and API errors
-            last_err = e
-            if attempt == max_retries:
-                break
-            _retry_sleep(0.7, attempt)
-    raise RuntimeError(f"Gemini call failed after {max_retries} attempts: {last_err}")
+        print(json.dumps(result, ensure_ascii=False, indent=2))
 
-
-def process_record(
-    record: Dict[str, Any],
-    mode: str,
-    model_obj: Any,
-    qfield: str,
-    cfield: Optional[str],
-) -> Dict[str, Any]:
-    question = record.get(qfield)
-    if not question:
-        raise ValueError(f"Record missing '{qfield}' field: {record}")
-    context = record.get(cfield) if cfield else None
-    messages = build_messages(mode, question, context)
-    parsed = call_gemini(model_obj, messages)
-
-    out: Dict[str, Any] = {
-        "id": record.get("id"),
-        "mode": mode,
-        **(
-            {"original_question": question} if "original_question" not in record else {}
-        ),
-    }
-
-    if mode == "decompose":
-        if not isinstance(parsed, dict) or "single_hop_questions" not in parsed:
-            raise ValueError(f"Unexpected model output for decompose: {parsed}")
-        out.update({"single_hop_questions": parsed["single_hop_questions"]})
-    elif mode == "chain":
-        if not isinstance(parsed, dict) or "steps" not in parsed:
-            raise ValueError(f"Unexpected model output for chain: {parsed}")
-        out.update({"steps": parsed["steps"]})
-    elif mode == "rewrite":
-        key = "single_hop_question"
-        if not isinstance(parsed, dict) or key not in parsed:
-            raise ValueError(f"Unexpected model output for rewrite: {parsed}")
-        out.update({key: parsed[key]})
-    else:
-        raise ValueError(f"Unknown mode: {mode}")
-
-    # Carry through optional fields
-    for k in ("context", "answer"):
-        if k in record:
-            out[k] = record[k]
-    return out
-
-
-def read_jsonl(path: str) -> List[Dict[str, Any]]:
-    """
-    Robust JSONL reader.
-    - utf-8-sig 로 열어 BOM 제거.
-    - 한 줄에 여분 문자열이 있어도 JSON 부분만 추출 시도.
-    - 실패 시 몇 번째 줄인지 함께 에러 표시.
-    """
-    rows: List[Dict[str, Any]] = []
-    with open(path, "r", encoding="utf-8-sig", newline="\n") as f:
-        for i, raw in enumerate(f, start=1):
-            line = raw.strip()
-            if not line:
-                continue
-            try:
-                rows.append(json.loads(line))
-            except Exception:
-                # 모델 응답 등에서 코드펜스/문구가 섞인 경우를 대비해 JSON 부분만 추출
-                try:
-                    rows.append(_extract_json(line))
-                except Exception as e:
-                    raise ValueError(
-                        f"Invalid JSON on line {i}: {e}\n"
-                        f"Line content (truncated): {line[:200]}..."
-                    )
-    return rows
-
-
-def write_jsonl(path: str, rows: List[Dict[str, Any]]) -> None:
-    with open(path, "w", encoding="utf-8") as f:
-        for row in rows:
-            f.write(json.dumps(row, ensure_ascii=False) + "\n")
+    except Exception as e:
+        print(f"처리 중 오류가 발생했습니다: {e}")
+        error_output = {"error": str(e), "original_record": record}
+        print(json.dumps(error_output, ensure_ascii=False, indent=2))
 
 
 def main():
+    """메인 함수: 인자를 파싱하고 전체 프로세스를 조율합니다."""
     parser = argparse.ArgumentParser(
-        description="Convert multi-hop questions to single-hop with Gemini"
+        description="Gemini 모델을 사용하여 Multi-hop 질문을 Single-hop으로 변환합니다.",
+        formatter_class=argparse.RawTextHelpFormatter,
     )
+    # I/O 관련 인자
     parser.add_argument(
         "--input",
-        required=False,
-        help="Path to input JSONL. If omitted, runs a single prompt from --question.",
+        help="입력으로 사용할 JSONL 파일 경로. 생략 시 --question으로 단일 처리.",
     )
-    parser.add_argument("--output", required=False, help="Path to output JSONL.")
-    parser.add_argument(
-        "--question", help="Direct question string when --input is omitted."
-    )
-    parser.add_argument(
-        "--context",
-        default=None,
-        help="Optional context string when --input is omitted.",
-    )
+    parser.add_argument("--output", help="결과를 저장할 JSONL 파일 경로.")
+    parser.add_argument("--question", help="--input 대신 처리할 단일 질문 문자열.")
+    parser.add_argument("--context", help="단일 질문에 사용할 선택적 컨텍스트 문자열.")
+
+    # 데이터 필드 관련 인자
     parser.add_argument(
         "--question_field",
         default="question",
-        help="Field name for the question in input JSONL.",
+        help="입력 JSONL에서 질문이 담긴 필드 이름.",
     )
     parser.add_argument(
         "--context_field",
         default="context",
-        help="Field name for context in input JSONL.",
+        help="입력 JSONL에서 컨텍스트가 담긴 필드 이름.",
     )
+
+    # 모델 및 처리 관련 인자
     parser.add_argument(
-        "--mode", choices=["decompose", "chain", "rewrite"], default="decompose"
+        "--mode",
+        choices=["decompose", "chain", "rewrite"],
+        default="decompose",
+        help="처리 모드:\n  - decompose: 질문을 독립적인 여러 개의 단일 hop 질문으로 분해\n  - chain: 이전 답변에 의존하는 순차적인 질문들로 분해\n  - rewrite: 질문 자체를 더 단순한 단일 hop 질문으로 재작성",
     )
     parser.add_argument(
         "--model",
-        default="gemini-1.5-pro",
-        help="Gemini model name, e.g., gemini-1.5-pro or gemini-1.5-flash.",
+        default="gemini-2.5-flash",
+        help="사용할 Gemini 모델 이름 (예: gemini-1.5-pro).",
     )
     parser.add_argument(
-        "--api_key",
-        default=None,
-        help="Google API key; otherwise uses GOOGLE_API_KEY env var.",
+        "--api_key", help="Google API 키. 미제공 시 GOOGLE_API_KEY 환경 변수 사용."
     )
-    parser.add_argument("--temperature", type=float, default=0.2)
-    parser.add_argument("--seed", type=int, default=None)
-    parser.add_argument("--max_retries", type=int, default=5)
     parser.add_argument(
-        "--qps", type=float, default=None, help="Queries per second limit (approx)."
+        "--temperature",
+        type=float,
+        default=0.2,
+        help="모델의 샘플링 온도를 조절합니다.",
+    )
+    parser.add_argument("--seed", type=int, help="결과의 일관성을 위한 시드 값.")
+
+    # 실행 제어 관련 인자
+    parser.add_argument(
+        "--qps",
+        type=float,
+        help="초당 최대 요청(Queries Per Second) 수를 제한합니다 (예: 1.5).",
     )
 
     args = parser.parse_args()
 
     if not args.input and not args.question:
-        parser.error("Provide --input JSONL or --question string.")
+        parser.error(
+            "--input 파일이나 --question 문자열 중 하나는 반드시 제공해야 합니다."
+        )
 
+    # 모델 초기화
+    print(f"모델을 초기화합니다: {args.model}...")
     model_obj = init_gemini(args.model, args.api_key, args.temperature, args.seed)
+    print("모델 초기화 완료.")
 
-    results: List[Dict[str, Any]] = []
-    last_time = 0.0
-    min_interval = 1.0 / args.qps if args.qps and args.qps > 0 else 0.0
-
+    # 실행 흐름 분기
     if args.input:
-        records = read_jsonl(args.input)
-        for idx, rec in enumerate(records, start=1):
-            now = time.time()
-            if min_interval > 0 and now - last_time < min_interval:
-                time.sleep(min_interval - (now - last_time))
-            try:
-                out = process_record(
-                    rec, args.mode, model_obj, args.question_field, args.context_field
-                )
-                out.setdefault("meta", {})
-                out["meta"].update(
-                    {"model": args.model, "temperature": args.temperature}
-                )
-                results.append(out)
-            except Exception as e:
-                # Log failure inline and continue
-                results.append(
-                    {
-                        "id": rec.get("id"),
-                        "mode": args.mode,
-                        "error": str(e),
-                        "original": rec,
-                    }
-                )
-            last_time = time.time()
-        if not args.output:
-            parser.error("--output is required when --input is provided.")
-        write_jsonl(args.output, results)
-        print(f"Wrote {len(results)} rows to {args.output}")
+        run_batch_processing(args, model_obj)
     else:
-        # Single-run mode
-        rec = {"id": None, "question": args.question}
-        if args.context:
-            rec["context"] = args.context
-        out = process_record(rec, args.mode, model_obj, "question", "context")
-        print(json.dumps(out, ensure_ascii=False, indent=2))
+        run_single_processing(args, model_obj)
 
 
 if __name__ == "__main__":
