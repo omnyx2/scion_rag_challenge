@@ -1,38 +1,33 @@
 {
     "id": "row_000016",
-    "result": "##제목##\n빅데이터를 활용한 창고 관리 시스템(WMS) 모델의 핵심 개념과 방향\n\n##서론##\n제시된 자료에 따르면, 빅데이터를 이용한 창고 관리 시스템(Warehouse Management System, WMS) 모델 연구는 산업 전반에 영향을 미치는 '디지털 전환(Digital Transformation)'이라는 기술적 환경에 초점을 맞추고 있습니다. 이 연구는 디지털 전환 시대에 맞는 산업적 창고 관리 모델을 제시하는 것을 목표로 합니다.\n\n##본론##\n이 모델에서 제시된 핵심 개념과 방향은 다음과 같습니다.\n\n1.  **핵심 개념: 디지털 전환(Digital Transformation)의 적용**\n    이 연구의 핵심 개념은 디지털 전환의 기술 환경을 산업적 창고 관리 부분에 적용하여 새로운 모델을 연구하는 것입니다. 과거의 디지털화가 단순히 기존 데이터 형태를 디지털 방식으로 전환하는 것에 그쳤다면, 이 모델은 최신 디지털 전환의 광범위한 영역을 포함하여 창고 관리 시스템을 혁신하고자 합니다.\n\n2.  **제시된 방향: 빅데이터 중심의 창고 관리 시스템**\n    이 연구가 제시하는 명확한 방향은 '빅데이터(Big Data)'를 중심으로 하는 창고 관리 시스템을 구축하는 것입니다. 즉, 방대한 데이터를 수집, 분석, 활용하여 창고 관리의 효율성을 극대화하고 미래를 예측하는 시스템을 지향합니다.\n\n##결론##\n요약하자면, 빅데이터를 이용한 창고 관리 시스템 모델은 디지털 전환이라는 거대한 기술적 흐름 속에서 창고 관리 분야의 혁신을 모색하는 것입니다. 그 핵심 방향은 빅데이터를 시스템의 중심에 두고, 이를 통해 보다 지능적이고 효율적인 창고 관리 체계를 구축하는 데 있습니다.",
-    "prompt": "You will be given a JSON object as a string which contains a series of related search queries and their retrieved documents ('hits'). Do not make answer from external knowledge. You must make answer inside of Context.\nYour main task is to answer the specific 'Question' provided below. Use the entire JSON data as context to formulate your answer, paying close attention to the 'text' fields within the 'hits' lists.\n\nThe JSON data has a list of queries. The 'original' query is the one you need to answer. The other queries are supplementary and provide additional context.\n\nIf the 'Question' is in Korean, format your answer in Korean as follows:\n##제목##\n\n##서론##\n\n##본론##\n\n##결론##\n\nIf the 'Question' is in English, format your answer in English as follows:\n##Title##\n\n##Introduction##\n\n##Main Body##\n\n##Conclusion##\n\n--- Context (JSON Data) ---\n{\n  \"id\": \"row_000016\",\n  \"model_name\": \"Snowflake/snowflake-arctic-embed-l-v2.0\",\n  \"timestamp_kst\": \"2025-09-07T15:53:03.946336+09:00\",\n  \"trial_id\": \"87b8b3cb\",\n  \"queries\": [\n    {\n      \"query\": \"Big Data를 이용한 Warehouse Management System 모델에서 제시된 핵심 개념과 방향을 요약해 주시겠습니까?\",\n      \"query_meta\": {\n        \"type\": \"original\"\n      },\n      \"top_k\": 10,\n      \"hits\": [\n        {\n          \"rank\": 1,\n          \"score\": 0.5677206516265869,\n          \"doc_id\": \"227\",\n          \"text\": \"Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 본 연구는 오늘날 산업 전반적으로 영향을 미치고 있는 디지탈 전환(Digital Transformation)의 기술 환경과 디지탈 전환의 산업적 창고관리 부분의 모델연구가 본 논문의 목적이다. &amp;#xD; &amp;#xD; 디지털 전환은 오랫동안 디지털화와 비슷하거나 또는 디지털 방식으로 저장할 수 있도록 기존 데이터 형태를 전환하는 것과 관련이 있다. 물론 이 점이 중요하긴 하지만, 이전의 디지털화는 최신 디지털 전환의 영역을 포함하지 않았었다.&amp;#xD; &amp;#xD; 특히 이번 연구에서는 Big Data를 중심으로 Warehouse Management System의 방향을 제시 하고자 한다.\"\n        },\n        {\n          \"rank\": 2,\n          \"score\": 0.45847368240356445,\n          \"doc_id\": \"62\",\n          \"text\": \"Utilization and Analysis of Big-data Utilization and Analysis of Big-data Utilization and Analysis of Big-data This study reviews the analysis and characteristics of databases from big data and then establishes representational strategy. Thus, analysis has continued for a long time in the quantity and quality of data, and there are changes in the location of data in the social sciences, past trends and the emergence of big data. The introduction of big data is presented as a prototype of new social science and is a useful practical example that empirically shows the need, basis, and direction of analysis through trend prediction services. Big data provides a future perspective as an important foundation for social change within the framework of basic social sciences.\"\n        },\n        {\n          \"rank\": 3,\n          \"score\": 0.43726760149002075,\n          \"doc_id\": \"58\",\n          \"text\": \"Why Big Data = Big Deal Why Big Data = Big Deal Why Big Data = Big Deal 없음\"\n        }\n      ]\n    },\n    {\n      \"query\": \"Big Data를 이용한 Warehouse Management System 모델의 핵심 개념은 무엇입니까?\",\n      \"query_meta\": {\n        \"type\": \"single_hop\",\n        \"index\": 0\n      },\n      \"top_k\": 10,\n      \"hits\": [\n        {\n          \"rank\": 1,\n          \"score\": 0.5410630106925964,\n          \"doc_id\": \"227\",\n          \"text\": \"Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 본 연구는 오늘날 산업 전반적으로 영향을 미치고 있는 디지탈 전환(Digital Transformation)의 기술 환경과 디지탈 전환의 산업적 창고관리 부분의 모델연구가 본 논문의 목적이다. &amp;#xD; &amp;#xD; 디지털 전환은 오랫동안 디지털화와 비슷하거나 또는 디지털 방식으로 저장할 수 있도록 기존 데이터 형태를 전환하는 것과 관련이 있다. 물론 이 점이 중요하긴 하지만, 이전의 디지털화는 최신 디지털 전환의 영역을 포함하지 않았었다.&amp;#xD; &amp;#xD; 특히 이번 연구에서는 Big Data를 중심으로 Warehouse Management System의 방향을 제시 하고자 한다.\"\n        },\n        {\n          \"rank\": 2,\n          \"score\": 0.4805466830730438,\n          \"doc_id\": \"58\",\n          \"text\": \"Why Big Data = Big Deal Why Big Data = Big Deal Why Big Data = Big Deal 없음\"\n        },\n        {\n          \"rank\": 3,\n          \"score\": 0.4738766551017761,\n          \"doc_id\": \"23\",\n          \"text\": \"Big data, Big bang? Big data, Big bang? Big data, Big bang? 없음\"\n        }\n      ]\n    },\n    {\n      \"query\": \"Big Data를 이용한 Warehouse Management System 모델에서 제시된 방향은 무엇입니까?\",\n      \"query_meta\": {\n        \"type\": \"single_hop\",\n        \"index\": 1\n      },\n      \"top_k\": 10,\n      \"hits\": [\n        {\n          \"rank\": 1,\n          \"score\": 0.5031591653823853,\n          \"doc_id\": \"227\",\n          \"text\": \"Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 본 연구는 오늘날 산업 전반적으로 영향을 미치고 있는 디지탈 전환(Digital Transformation)의 기술 환경과 디지탈 전환의 산업적 창고관리 부분의 모델연구가 본 논문의 목적이다. &amp;#xD; &amp;#xD; 디지털 전환은 오랫동안 디지털화와 비슷하거나 또는 디지털 방식으로 저장할 수 있도록 기존 데이터 형태를 전환하는 것과 관련이 있다. 물론 이 점이 중요하긴 하지만, 이전의 디지털화는 최신 디지털 전환의 영역을 포함하지 않았었다.&amp;#xD; &amp;#xD; 특히 이번 연구에서는 Big Data를 중심으로 Warehouse Management System의 방향을 제시 하고자 한다.\"\n        },\n        {\n          \"rank\": 2,\n          \"score\": 0.4642196595668793,\n          \"doc_id\": \"23\",\n          \"text\": \"Big data, Big bang? Big data, Big bang? Big data, Big bang? 없음\"\n        },\n        {\n          \"rank\": 3,\n          \"score\": 0.4406741261482239,\n          \"doc_id\": \"58\",\n          \"text\": \"Why Big Data = Big Deal Why Big Data = Big Deal Why Big Data = Big Deal 없음\"\n        }\n      ]\n    }\n  ],\n  \"meta\": {\n    \"model\": \"gemini-2.5-flash\",\n    \"temperature\": 0.2\n  }\n}\n\n--- Question ---\nBig Data를 이용한 Warehouse Management System 모델에서 제시된 핵심 개념과 방향을 요약해 주시겠습니까?\n",
-    "model": "models/gemini-2.5-pro",
+    "result": {
+        "answer": "##제목##\nBig Data를 이용한 Warehouse Management System 모델의 핵심 개념과 방향\n\n##서론##\n본 연구는 오늘날 산업 전반적으로 영향을 미치고 있는 디지털 전환(Digital Transformation)의 기술 환경과 디지털 전환의 산업적 창고관리 부분에 대한 모델 연구를 목적으로 합니다.\n\n##본론##\n이 모델에서 제시된 핵심 개념은 디지털 전환의 맥락에서 창고관리 시스템(WMS)을 이해하고 발전시키는 것입니다. 디지털 전환은 기존 데이터 형태를 디지털 방식으로 전환하는 이전의 디지털화와는 다른, 더 넓은 영역을 포함합니다. 특히, 본 연구는 Big Data를 중심으로 Warehouse Management System의 방향을 제시하고자 합니다. 이는 Big Data가 창고관리 시스템의 미래 방향을 결정하는 데 중요한 역할을 한다는 것을 의미합니다.\n\n##결론##\n결론적으로, Big Data를 이용한 Warehouse Management System 모델은 디지털 전환이라는 광범위한 변화 속에서 Big Data를 핵심 요소로 활용하여 창고관리 시스템의 새로운 방향을 모색하는 것을 주요 개념이자 목표로 삼고 있습니다."
+    },
+    "prompt": "You will be given a JSON object as a string which contains a series of related search queries and their retrieved documents ('hits'). Do not make answer from external knowledge. You must make answer inside of Context.\nYour main task is to answer the specific 'Question' provided below. Use the entire JSON data as context to formulate your answer, paying close attention to the 'text' fields within the 'hits' lists.\n\nThe JSON data has a list of queries. The 'original' query is the one you need to answer. The other queries are supplementary and provide additional context.\nDo not use \"*\", \"-\" symbols. Please don't use \"**\" to emphasize words. Don't answer in markdown format just write it simple.\n\nIf the 'Question' is in Korean, format your answer in Korean as follows:\n##제목##\n\n##서론##\n\n##본론##\n\n##결론##\n\nIf the 'Question' is in English, format your answer in English as follows, If English then Just write title inside of ##{Title}##:\n##{Title}##\n\n##Introduction##\n\n##Main Body##\n\n##Conclusion##\n\n--- Context ---\n{\n  \"id\": \"row_000016\",\n  \"model_name\": \"Alibaba-NLP/gte-multilingual-base\",\n  \"timestamp_kst\": \"2025-09-08T23:55:34.282218+09:00\",\n  \"trial_id\": \"f1398db1\",\n  \"queries\": [\n    {\n      \"query\": \"Big Data를 이용한 Warehouse Management System 모델에서 제시된 핵심 개념과 방향을 요약해 주시겠습니까?\",\n      \"query_meta\": {\n        \"type\": \"original\"\n      },\n      \"top_k\": 50,\n      \"hits\": [\n        {\n          \"rank\": 1,\n          \"score\": 0.7947594523429871,\n          \"doc_id\": \"DIKO0015305653\",\n          \"title\": \"Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로\",\n          \"abstract\": \"본 연구는 오늘날 산업 전반적으로 영향을 미치고 있는 디지탈 전환(Digital Transformation)의 기술 환경과 디지탈 전환의 산업적 창고관리 부분의 모델연구가 본 논문의 목적이다. &amp;#xD; &amp;#xD; 디지털 전환은 오랫동안 디지털화와 비슷하거나 또는 디지털 방식으로 저장할 수 있도록 기존 데이터 형태를 전환하는 것과 관련이 있다. 물론 이 점이 중요하긴 하지만, 이전의 디지털화는 최신 디지털 전환의 영역을 포함하지 않았었다.&amp;#xD; &amp;#xD; 특히 이번 연구에서는 Big Data를 중심으로 Warehouse Management System의 방향을 제시 하고자 한다.\",\n          \"source\": \"http://click.ndsl.kr/servlet/OpenAPIDetailView?keyValue=DIKO0015305653&target=NART&cn=DIKO0015305653\",\n          \"author\": \"nan\",\n          \"embedding_mode\": \"3*title+abstract\",\n          \"embedding_text\": \"Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 본 연구는 오늘날 산업 전반적으로 영향을 미치고 있는 디지탈 전환(Digital Transformation)의 기술 환경과 디지탈 전환의 산업적 창고관리 부분의 모델연구가 본 논문의 목적이다. &amp;#xD; &amp;#xD; 디지털 전환은 오랫동안 디지털화와 비슷하거나 또는 디지털 방식으로 저장할 수 있도록 기존 데이터 형태를 전환하는 것과 관련이 있다. 물론 이 점이 중요하긴 하지만, 이전의 디지털화는 최신 디지털 전환의 영역을 포함하지 않았었다.&amp;#xD; &amp;#xD; 특히 이번 연구에서는 Big Data를 중심으로 Warehouse Management System의 방향을 제시 하고자 한다.\"\n        }\n      ]\n    },\n    {\n      \"query\": \"Big Data를 이용한 Warehouse Management System 모델의 핵심 개념은 무엇입니까?\",\n      \"query_meta\": {\n        \"type\": \"single_hop\",\n        \"index\": 0\n      },\n      \"top_k\": 50,\n      \"hits\": [\n        {\n          \"rank\": 1,\n          \"score\": 0.7967863082885742,\n          \"doc_id\": \"DIKO0015305653\",\n          \"title\": \"Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로\",\n          \"abstract\": \"본 연구는 오늘날 산업 전반적으로 영향을 미치고 있는 디지탈 전환(Digital Transformation)의 기술 환경과 디지탈 전환의 산업적 창고관리 부분의 모델연구가 본 논문의 목적이다. &amp;#xD; &amp;#xD; 디지털 전환은 오랫동안 디지털화와 비슷하거나 또는 디지털 방식으로 저장할 수 있도록 기존 데이터 형태를 전환하는 것과 관련이 있다. 물론 이 점이 중요하긴 하지만, 이전의 디지털화는 최신 디지털 전환의 영역을 포함하지 않았었다.&amp;#xD; &amp;#xD; 특히 이번 연구에서는 Big Data를 중심으로 Warehouse Management System의 방향을 제시 하고자 한다.\",\n          \"source\": \"http://click.ndsl.kr/servlet/OpenAPIDetailView?keyValue=DIKO0015305653&target=NART&cn=DIKO0015305653\",\n          \"author\": \"nan\",\n          \"embedding_mode\": \"3*title+abstract\",\n          \"embedding_text\": \"Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 본 연구는 오늘날 산업 전반적으로 영향을 미치고 있는 디지탈 전환(Digital Transformation)의 기술 환경과 디지탈 전환의 산업적 창고관리 부분의 모델연구가 본 논문의 목적이다. &amp;#xD; &amp;#xD; 디지털 전환은 오랫동안 디지털화와 비슷하거나 또는 디지털 방식으로 저장할 수 있도록 기존 데이터 형태를 전환하는 것과 관련이 있다. 물론 이 점이 중요하긴 하지만, 이전의 디지털화는 최신 디지털 전환의 영역을 포함하지 않았었다.&amp;#xD; &amp;#xD; 특히 이번 연구에서는 Big Data를 중심으로 Warehouse Management System의 방향을 제시 하고자 한다.\"\n        }\n      ]\n    },\n    {\n      \"query\": \"Big Data를 이용한 Warehouse Management System 모델에서 제시된 방향은 무엇입니까?\",\n      \"query_meta\": {\n        \"type\": \"single_hop\",\n        \"index\": 1\n      },\n      \"top_k\": 50,\n      \"hits\": [\n        {\n          \"rank\": 1,\n          \"score\": 0.8306705951690674,\n          \"doc_id\": \"DIKO0015305653\",\n          \"title\": \"Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로\",\n          \"abstract\": \"본 연구는 오늘날 산업 전반적으로 영향을 미치고 있는 디지탈 전환(Digital Transformation)의 기술 환경과 디지탈 전환의 산업적 창고관리 부분의 모델연구가 본 논문의 목적이다. &amp;#xD; &amp;#xD; 디지털 전환은 오랫동안 디지털화와 비슷하거나 또는 디지털 방식으로 저장할 수 있도록 기존 데이터 형태를 전환하는 것과 관련이 있다. 물론 이 점이 중요하긴 하지만, 이전의 디지털화는 최신 디지털 전환의 영역을 포함하지 않았었다.&amp;#xD; &amp;#xD; 특히 이번 연구에서는 Big Data를 중심으로 Warehouse Management System의 방향을 제시 하고자 한다.\",\n          \"source\": \"http://click.ndsl.kr/servlet/OpenAPIDetailView?keyValue=DIKO0015305653&target=NART&cn=DIKO0015305653\",\n          \"author\": \"nan\",\n          \"embedding_mode\": \"3*title+abstract\",\n          \"embedding_text\": \"Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 본 연구는 오늘날 산업 전반적으로 영향을 미치고 있는 디지탈 전환(Digital Transformation)의 기술 환경과 디지탈 전환의 산업적 창고관리 부분의 모델연구가 본 논문의 목적이다. &amp;#xD; &amp;#xD; 디지털 전환은 오랫동안 디지털화와 비슷하거나 또는 디지털 방식으로 저장할 수 있도록 기존 데이터 형태를 전환하는 것과 관련이 있다. 물론 이 점이 중요하긴 하지만, 이전의 디지털화는 최신 디지털 전환의 영역을 포함하지 않았었다.&amp;#xD; &amp;#xD; 특히 이번 연구에서는 Big Data를 중심으로 Warehouse Management System의 방향을 제시 하고자 한다.\"\n        }\n      ]\n    }\n  ],\n  \"meta\": {\n    \"model\": \"gemini-2.5-flash\",\n    \"temperature\": 0.2\n  }\n}\n\n--- Question ---\nBig Data를 이용한 Warehouse Management System 모델에서 제시된 핵심 개념과 방향을 요약해 주시겠습니까?\n\n",
+    "model": "models/gemini-2.5-flash",
     "retrival": {
         "id": "row_000016",
-        "model_name": "Snowflake/snowflake-arctic-embed-l-v2.0",
-        "timestamp_kst": "2025-09-07T15:53:03.946336+09:00",
-        "trial_id": "87b8b3cb",
+        "model_name": "Alibaba-NLP/gte-multilingual-base",
+        "timestamp_kst": "2025-09-08T23:55:34.282218+09:00",
+        "trial_id": "f1398db1",
         "queries": [
             {
                 "query": "Big Data를 이용한 Warehouse Management System 모델에서 제시된 핵심 개념과 방향을 요약해 주시겠습니까?",
                 "query_meta": {
                     "type": "original"
                 },
-                "top_k": 10,
+                "top_k": 50,
                 "hits": [
                     {
                         "rank": 1,
-                        "score": 0.5677206516265869,
-                        "doc_id": "227",
-                        "text": "Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 본 연구는 오늘날 산업 전반적으로 영향을 미치고 있는 디지탈 전환(Digital Transformation)의 기술 환경과 디지탈 전환의 산업적 창고관리 부분의 모델연구가 본 논문의 목적이다. &amp;#xD; &amp;#xD; 디지털 전환은 오랫동안 디지털화와 비슷하거나 또는 디지털 방식으로 저장할 수 있도록 기존 데이터 형태를 전환하는 것과 관련이 있다. 물론 이 점이 중요하긴 하지만, 이전의 디지털화는 최신 디지털 전환의 영역을 포함하지 않았었다.&amp;#xD; &amp;#xD; 특히 이번 연구에서는 Big Data를 중심으로 Warehouse Management System의 방향을 제시 하고자 한다."
-                    },
-                    {
-                        "rank": 2,
-                        "score": 0.45847368240356445,
-                        "doc_id": "62",
-                        "text": "Utilization and Analysis of Big-data Utilization and Analysis of Big-data Utilization and Analysis of Big-data This study reviews the analysis and characteristics of databases from big data and then establishes representational strategy. Thus, analysis has continued for a long time in the quantity and quality of data, and there are changes in the location of data in the social sciences, past trends and the emergence of big data. The introduction of big data is presented as a prototype of new social science and is a useful practical example that empirically shows the need, basis, and direction of analysis through trend prediction services. Big data provides a future perspective as an important foundation for social change within the framework of basic social sciences."
-                    },
-                    {
-                        "rank": 3,
-                        "score": 0.43726760149002075,
-                        "doc_id": "58",
-                        "text": "Why Big Data = Big Deal Why Big Data = Big Deal Why Big Data = Big Deal 없음"
+                        "score": 0.7947594523429871,
+                        "doc_id": "DIKO0015305653",
+                        "title": "Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로",
+                        "abstract": "본 연구는 오늘날 산업 전반적으로 영향을 미치고 있는 디지탈 전환(Digital Transformation)의 기술 환경과 디지탈 전환의 산업적 창고관리 부분의 모델연구가 본 논문의 목적이다. &amp;#xD; &amp;#xD; 디지털 전환은 오랫동안 디지털화와 비슷하거나 또는 디지털 방식으로 저장할 수 있도록 기존 데이터 형태를 전환하는 것과 관련이 있다. 물론 이 점이 중요하긴 하지만, 이전의 디지털화는 최신 디지털 전환의 영역을 포함하지 않았었다.&amp;#xD; &amp;#xD; 특히 이번 연구에서는 Big Data를 중심으로 Warehouse Management System의 방향을 제시 하고자 한다.",
+                        "source": "http://click.ndsl.kr/servlet/OpenAPIDetailView?keyValue=DIKO0015305653&target=NART&cn=DIKO0015305653",
+                        "author": "nan",
+                        "embedding_mode": "3*title+abstract",
+                        "embedding_text": "Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 본 연구는 오늘날 산업 전반적으로 영향을 미치고 있는 디지탈 전환(Digital Transformation)의 기술 환경과 디지탈 전환의 산업적 창고관리 부분의 모델연구가 본 논문의 목적이다. &amp;#xD; &amp;#xD; 디지털 전환은 오랫동안 디지털화와 비슷하거나 또는 디지털 방식으로 저장할 수 있도록 기존 데이터 형태를 전환하는 것과 관련이 있다. 물론 이 점이 중요하긴 하지만, 이전의 디지털화는 최신 디지털 전환의 영역을 포함하지 않았었다.&amp;#xD; &amp;#xD; 특히 이번 연구에서는 Big Data를 중심으로 Warehouse Management System의 방향을 제시 하고자 한다."
                     }
                 ]
             },
@@ -42,25 +37,18 @@
                     "type": "single_hop",
                     "index": 0
                 },
-                "top_k": 10,
+                "top_k": 50,
                 "hits": [
                     {
                         "rank": 1,
-                        "score": 0.5410630106925964,
-                        "doc_id": "227",
-                        "text": "Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 본 연구는 오늘날 산업 전반적으로 영향을 미치고 있는 디지탈 전환(Digital Transformation)의 기술 환경과 디지탈 전환의 산업적 창고관리 부분의 모델연구가 본 논문의 목적이다. &amp;#xD; &amp;#xD; 디지털 전환은 오랫동안 디지털화와 비슷하거나 또는 디지털 방식으로 저장할 수 있도록 기존 데이터 형태를 전환하는 것과 관련이 있다. 물론 이 점이 중요하긴 하지만, 이전의 디지털화는 최신 디지털 전환의 영역을 포함하지 않았었다.&amp;#xD; &amp;#xD; 특히 이번 연구에서는 Big Data를 중심으로 Warehouse Management System의 방향을 제시 하고자 한다."
-                    },
-                    {
-                        "rank": 2,
-                        "score": 0.4805466830730438,
-                        "doc_id": "58",
-                        "text": "Why Big Data = Big Deal Why Big Data = Big Deal Why Big Data = Big Deal 없음"
-                    },
-                    {
-                        "rank": 3,
-                        "score": 0.4738766551017761,
-                        "doc_id": "23",
-                        "text": "Big data, Big bang? Big data, Big bang? Big data, Big bang? 없음"
+                        "score": 0.7967863082885742,
+                        "doc_id": "DIKO0015305653",
+                        "title": "Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로",
+                        "abstract": "본 연구는 오늘날 산업 전반적으로 영향을 미치고 있는 디지탈 전환(Digital Transformation)의 기술 환경과 디지탈 전환의 산업적 창고관리 부분의 모델연구가 본 논문의 목적이다. &amp;#xD; &amp;#xD; 디지털 전환은 오랫동안 디지털화와 비슷하거나 또는 디지털 방식으로 저장할 수 있도록 기존 데이터 형태를 전환하는 것과 관련이 있다. 물론 이 점이 중요하긴 하지만, 이전의 디지털화는 최신 디지털 전환의 영역을 포함하지 않았었다.&amp;#xD; &amp;#xD; 특히 이번 연구에서는 Big Data를 중심으로 Warehouse Management System의 방향을 제시 하고자 한다.",
+                        "source": "http://click.ndsl.kr/servlet/OpenAPIDetailView?keyValue=DIKO0015305653&target=NART&cn=DIKO0015305653",
+                        "author": "nan",
+                        "embedding_mode": "3*title+abstract",
+                        "embedding_text": "Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 본 연구는 오늘날 산업 전반적으로 영향을 미치고 있는 디지탈 전환(Digital Transformation)의 기술 환경과 디지탈 전환의 산업적 창고관리 부분의 모델연구가 본 논문의 목적이다. &amp;#xD; &amp;#xD; 디지털 전환은 오랫동안 디지털화와 비슷하거나 또는 디지털 방식으로 저장할 수 있도록 기존 데이터 형태를 전환하는 것과 관련이 있다. 물론 이 점이 중요하긴 하지만, 이전의 디지털화는 최신 디지털 전환의 영역을 포함하지 않았었다.&amp;#xD; &amp;#xD; 특히 이번 연구에서는 Big Data를 중심으로 Warehouse Management System의 방향을 제시 하고자 한다."
                     }
                 ]
             },
@@ -70,25 +58,18 @@
                     "type": "single_hop",
                     "index": 1
                 },
-                "top_k": 10,
+                "top_k": 50,
                 "hits": [
                     {
                         "rank": 1,
-                        "score": 0.5031591653823853,
-                        "doc_id": "227",
-                        "text": "Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 본 연구는 오늘날 산업 전반적으로 영향을 미치고 있는 디지탈 전환(Digital Transformation)의 기술 환경과 디지탈 전환의 산업적 창고관리 부분의 모델연구가 본 논문의 목적이다. &amp;#xD; &amp;#xD; 디지털 전환은 오랫동안 디지털화와 비슷하거나 또는 디지털 방식으로 저장할 수 있도록 기존 데이터 형태를 전환하는 것과 관련이 있다. 물론 이 점이 중요하긴 하지만, 이전의 디지털화는 최신 디지털 전환의 영역을 포함하지 않았었다.&amp;#xD; &amp;#xD; 특히 이번 연구에서는 Big Data를 중심으로 Warehouse Management System의 방향을 제시 하고자 한다."
-                    },
-                    {
-                        "rank": 2,
-                        "score": 0.4642196595668793,
-                        "doc_id": "23",
-                        "text": "Big data, Big bang? Big data, Big bang? Big data, Big bang? 없음"
-                    },
-                    {
-                        "rank": 3,
-                        "score": 0.4406741261482239,
-                        "doc_id": "58",
-                        "text": "Why Big Data = Big Deal Why Big Data = Big Deal Why Big Data = Big Deal 없음"
+                        "score": 0.8306705951690674,
+                        "doc_id": "DIKO0015305653",
+                        "title": "Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로",
+                        "abstract": "본 연구는 오늘날 산업 전반적으로 영향을 미치고 있는 디지탈 전환(Digital Transformation)의 기술 환경과 디지탈 전환의 산업적 창고관리 부분의 모델연구가 본 논문의 목적이다. &amp;#xD; &amp;#xD; 디지털 전환은 오랫동안 디지털화와 비슷하거나 또는 디지털 방식으로 저장할 수 있도록 기존 데이터 형태를 전환하는 것과 관련이 있다. 물론 이 점이 중요하긴 하지만, 이전의 디지털화는 최신 디지털 전환의 영역을 포함하지 않았었다.&amp;#xD; &amp;#xD; 특히 이번 연구에서는 Big Data를 중심으로 Warehouse Management System의 방향을 제시 하고자 한다.",
+                        "source": "http://click.ndsl.kr/servlet/OpenAPIDetailView?keyValue=DIKO0015305653&target=NART&cn=DIKO0015305653",
+                        "author": "nan",
+                        "embedding_mode": "3*title+abstract",
+                        "embedding_text": "Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 Big data를 이용한 Warehouse Management System 모델 연구 : SAP S/4 Hana를 중심으로 본 연구는 오늘날 산업 전반적으로 영향을 미치고 있는 디지탈 전환(Digital Transformation)의 기술 환경과 디지탈 전환의 산업적 창고관리 부분의 모델연구가 본 논문의 목적이다. &amp;#xD; &amp;#xD; 디지털 전환은 오랫동안 디지털화와 비슷하거나 또는 디지털 방식으로 저장할 수 있도록 기존 데이터 형태를 전환하는 것과 관련이 있다. 물론 이 점이 중요하긴 하지만, 이전의 디지털화는 최신 디지털 전환의 영역을 포함하지 않았었다.&amp;#xD; &amp;#xD; 특히 이번 연구에서는 Big Data를 중심으로 Warehouse Management System의 방향을 제시 하고자 한다."
                     }
                 ]
             }

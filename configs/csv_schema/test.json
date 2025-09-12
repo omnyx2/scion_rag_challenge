@@ -1,0 +1,6 @@
+{
+  "cn": "str",
+  "title": "str",
+  "abstract": "str",
+  "embedding": "List[float]"
+}

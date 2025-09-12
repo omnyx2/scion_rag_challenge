@@ -2,12 +2,14 @@
   "model_name": "Alibaba-NLP/gte-multilingual-base",
   "nickname": "gte_test",
   "embedding_dim": 1024,
-  "jsonl_path": "../data/expr/docs.jsonl",
-  "embedding_mode": "title+abstract",
+  "jsonl_path": "/workspace/results/searched_docs_db/search_documents_20250908_220551.jsonl",
+  "embedding_mode": "3*title+abstract",
   "text_fields": [
     "context"
   ],
   "output_dir": "../results/vectordb",
   "output_format": "csv",
-  "output_file": "../results/vectordb/250907_081313/gte_test_title_abstract_Alibaba-NLP_gte-multilingual-base.csv"
+  "output_file": "../results/vectordb/250908_144536/vector_db_gte_test_Alibaba-NLP_gte-multilingual-base.csv",
+  "json_path": "./test.json",
+  "last_run": "250908_144536"
 }
