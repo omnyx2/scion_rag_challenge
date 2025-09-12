@@ -2,7 +2,7 @@
 import os
 import json
 from typing import List
-from utils.load_json import load_json as load_config
+from utils.load_json import load_config
 from utils.load_jsonl_and_make_text_for_embedding import (
     load_jsonl_and_make_text_for_embedding as load_jsonl_docs,
 )
@@ -14,10 +14,10 @@ from data_handler.for_embedding import prepare_documents, save_results
 
 
 def build_vectordb_search(
-    config_path="../configs/query_encoder/config_PwC-Embedding_expr.json",
+    config_path="../configs/query_encoder/config_gte-multilingual-base.json",
     data_schema="/workspace/configs/csv_schema/test_2.json",
-    docs_jsonl_path="/workspace/results/searched_docs_db/search_documents_test.jsonl",
-    auto_data_load=True,
+    docs_jsonl_path="/workspace/data/expr/search_documents_20250912_013206.jsonl",
+    auto_data_load=False,
 ):
     # 1. Load configurations and create dynamic document class
     config = load_config(config_path)

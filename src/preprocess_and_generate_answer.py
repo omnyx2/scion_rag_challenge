@@ -46,7 +46,7 @@ def process_file(
     original_query_obj = next(
         (
             q
-            for q in data.get("queries", [])
+            for q in data.get("retrieval_results", [])
             if q.get("query_meta", {}).get("type") == "original"
         ),
         None,
@@ -63,7 +63,7 @@ def process_file(
 
     # 2. 전체 데이터를 복사하고 모든 query의 'hits'를 필터링합니다.
     filtered_data = copy.deepcopy(data)
-    for query_item in filtered_data.get("queries", []):
+    for query_item in filtered_data.get("retrieval_results", []):
         hits = query_item.get("hits", [])
         # rank가 max_rank 이하인 것들만 남깁니다.
         query_item["hits"] = [
@@ -184,6 +184,7 @@ def main():
         help="각 결과를 개별 JSON 파일로 저장할 디렉토리 경로.",
     )
     parser.add_argument("--parallel", required=False)
+    MAX_PARALLEL_FILES = 10  # 동시에 처리할 최대 파일 수
     args = parser.parse_args()
 
     if not args.api_key:
@@ -235,7 +236,6 @@ def main():
         )
     if args.parallel:
         # --- 병렬 처리 실행 ---
-        MAX_PARALLEL_FILES = 10  # 동시에 처리할 최대 파일 수
 
         print(
             f"Starting parallel processing for {len(file_paths)} files with max {MAX_PARALLEL_FILES} workers..."

@@ -1,8 +1,9 @@
 import jsonlines
 from typing import List, Dict
+import json
 
 
-def load_jsonl(jsonl_path: str) -> List[Dict]:
+def load_jsonl_2(jsonl_path: str) -> List[Dict]:
     """
     JSONL 파일에서 모든 문서를 로드
 
@@ -15,8 +16,26 @@ def load_jsonl(jsonl_path: str) -> List[Dict]:
     documents = []
     with jsonlines.open(jsonl_path) as reader:
         for doc in reader:
+            print(reader)
             documents.append(doc)
     return documents
+
+
+def load_jsonl(path):
+    docs = []
+    with open(path, "r", encoding="utf-8") as f:
+        for i, line in enumerate(f, start=1):
+            s = line.strip()
+            if not s:
+                continue
+            try:
+                docs.append(json.loads(s))
+            except Exception as e:
+                # 👉 여기서 구체적으로 알려줌
+                raise ValueError(
+                    f"Invalid JSON at line {i}: {e}\nLine content (truncated): {s[:200]}"
+                ) from e
+    return docs
 
 
 def make_text_for_embedding(

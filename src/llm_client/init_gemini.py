@@ -1,7 +1,7 @@
 from typing import List, Dict, Optional, Any
 import google.generativeai as genai
 import os
-
+from google.generativeai.types import HarmCategory, HarmBlockThreshold
 # def init_gemini(
 #     model_name: str, api_key: str, temperature: float, seed: Optional[int]
 # ) -> genai.GenerativeModel:
@@ -42,6 +42,14 @@ def init_gemini(
         "response_mime_type": "application/json",
     }
     safety_settings = None  # use defaults
+    # Safty release
+    safety_settings = {
+        HarmCategory.HARM_CATEGORY_HARASSMENT: HarmBlockThreshold.BLOCK_NONE,
+        HarmCategory.HARM_CATEGORY_HATE_SPEECH: HarmBlockThreshold.BLOCK_NONE,
+        HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: HarmBlockThreshold.BLOCK_NONE,
+        HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: HarmBlockThreshold.BLOCK_NONE,
+    }
+
     model_obj = genai.GenerativeModel(
         model_name=model,
         generation_config=generation_config,
